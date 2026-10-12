@@ -143,3 +143,10 @@ a.arch-card { border-bottom: 1px solid var(--line); }
   .mast-name { font-size: 54px; }
   .h1 { font-size: 36px; }
 }
+
+/* recorded-reader sync highlight */
+.player-track { cursor: pointer; }
+.w2 { border-radius: 3px; transition: background .15s; }
+.w2.on { background: rgba(198,54,44,.22); }
+.w2.done { background: rgba(198,54,44,.05); }
+.rp.reading-done { opacity: .72; }
