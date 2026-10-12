@@ -1,0 +1,829 @@
+{
+  "day": 2,
+  "meta": {
+    "date": "Wednesday 7 October 2026",
+    "short": "Wed 7 Oct",
+    "longread": 2
+  },
+  "edition": {
+    "title": "Morning paper, Wednesday 7 October 2026",
+    "fact": "Edition 2 of the trial. Built on spec v2.",
+    "intro": "RBI decides on rates at 10 AM today, the insurance commission fight is getting louder, and two open-weight frontier models are due this month.",
+    "groups": [
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "RBI decides today, and the street expects its first hike since February 2023",
+            "kicker": "Money"
+          },
+          {
+            "t": "p",
+            "html": "Economists expect the MPC under Governor Sanjay Malhotra to raise the repo rate by 25 basis points, from 5.25% to 5.50%. The rate has sat at 5.25% for nearly ten months after 125 bp of cuts in 2025. A hike is widely priced in. Less certain is whether the RBI also changes its stance. NDTV Profit lists rising inflation, higher crude, a weak rupee and a global shift to higher rates as the backdrop. Analysts quoted by BusinessLine say an in-line outcome could push the Nifty toward 23,000. That is their commentary, not a forecast of mine. The GST Council also meets today."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A hike moves your EMIs, bank margins and the rupee, which closed at 96.42 against the dollar, near its all-time low. Volatility around the 10 AM announcement is likely."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.ndtvprofit.com/economy/rbi-hike-repo-rate-for-first-time-since-2023-why-october-policy-could-mark-a-hawkish-turn-12145099\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a> / <a href=\"https://www.thehindubusinessline.com/markets/bulls-hold-for-second-day-but-rupee-bleeds-near-record-low/article71551341.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine, 6 Oct close</a>"
+          },
+          {
+            "t": "figure",
+            "alt": "The Reserve Bank of India building in Mumbai, a sandstone-coloured block behind trees",
+            "caption": "Reserve Bank of India, Mumbai. Photo: Sailko (Wikimedia Commons, CC BY 3.0).",
+            "img": "photos/d2-g0.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Insurers and brokers are fighting the IRDAI commission caps, and the decision window is now short",
+            "kicker": "Your job"
+          },
+          {
+            "t": "p",
+            "html": "The Insurance Brokers Association of India told reporters on 6 October that it wants the 25 October deadline for feedback on IRDAI's paper \"Recalibrating Economics of Insurance Distribution\" pushed to December. It wrote to the Finance Minister on 2 October and, per Reuters, to the Prime Minister. Its argument: the paper does not say how savings from lower distribution costs would reach policyholders, and IBAI estimates at least 10 lakh livelihoods could be at risk over five years. IBAI backs the ban on compulsory bundling of insurance with loans and tighter suitability rules."
+          },
+          {
+            "t": "p",
+            "html": "The proposed caps, as Mint reports them: 2% to 5% for banks and lenders selling insurance with loans; 15% to 20% on health policies at purchase and 5% to 10% for renewals and portability; 5% to 10% on motor personal accident; 5% to 20% on first-year life commission depending on tenure. Moneycontrol reports that life insurers will push for targeted changes, not withdrawal, with credit-life and annuities the main flashpoints. IRDAI is said to have told the industry that a long delay or phased rollout could trigger front-loaded sales before the lower caps apply. CEO consultations are due this week, per the same report."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the economics Probus sits on. Comments close 25 October, and IRDAI is weighing 1 January or 1 April as the start date. Brokers are asking for more time. IRDAI reportedly does not want a long delay."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.cnbctv18.com/business/finance/irdai-distribution-paper-ibai-more-time-for-consultation-asks-deadline-till-december-20005633.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 on IBAI</a> / <a href=\"https://www.moneycontrol.com/banking/credit-life-annuities-emerge-as-key-concerns-for-life-insurers-over-irdai-distribution-rules-article-14045852.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol on insurers</a> / <a href=\"https://www.livemint.com/money/personal-finance/irdai-commission-caps-insurance-brokers-write-to-pm-fm-say-proposed-rules-may-not-benefit-policyholders-11791281595261.html\" target=\"_blank\" rel=\"noopener\">Mint, citing Reuters</a>"
+          },
+          {
+            "t": "story",
+            "title": "Mistral and Reflection both announced frontier-class open-weight models, with weights due this month",
+            "kicker": "Your builds"
+          },
+          {
+            "t": "p",
+            "html": "Mistral Large 4 is in public preview from 6 October on Mistral Studio. It has 1 trillion parameters with 49 billion active, takes images and text, and was trained on 3,800 Nvidia Grace Blackwell GPUs in Mistral's own European datacenters. Weights are promised by the end of the month. Mistral says it is state of the art among open models on cybersecurity, finance and law, and competitive in coding. Those charts are Mistral's own."
+          },
+          {
+            "t": "p",
+            "html": "Reflection, a Brooklyn startup, announced Beam on 5 October (US time): 501 billion parameters, 23 billion active per token, a one-million-token context and an Apache 2.0 licence when it ships \"later this month\". Reflection says Beam matches Z.ai's GLM 5.2 on hard reasoning tests with three to four times less compute, and trails Kimi K3. Quartz notes those claims are not independently verified. Beam is on a waitlist for now."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If both ship as promised, you get self-hostable models near the top of open-model benchmarks. That changes what a cost-sensitive prototype can run on. Treat the benchmarks as vendor claims until independent tests land."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://mistral.ai/news/mistral-large-4/\" target=\"_blank\" rel=\"noopener\">Mistral</a> / <a href=\"https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/\" target=\"_blank\" rel=\"noopener\">The Decoder on Reflection</a> / <a href=\"https://qz.com/reflection-ai-beam-open-weight-model-launch-100626\" target=\"_blank\" rel=\"noopener\">Quartz on Reflection</a>"
+          },
+          {
+            "t": "figure",
+            "alt": "Concentric dotted circles expanding outward on a dark green background, from Reflection's Beam announcement",
+            "caption": "Reflection's Beam announcement graphic. Credit: Reflection, via The Decoder.",
+            "img": "photos/d2-g0.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Nifty rebounded for a second day after an eight-week slide, with foreign money still leaving",
+            "kicker": "Money"
+          },
+          {
+            "t": "p",
+            "html": "The Nifty closed at 22,776.10 on Tuesday, up 0.98%, after an eight-week decline of 8.8%, its longest weekly losing run since 2020. FIIs sold ₹2,961 cr on 6 October and have been net sellers in all three October sessions, about ₹17,145 cr in total. DIIs bought ₹5,089 cr on the day and about ₹20,312 cr over the three sessions. Year to date on the same NSE series: FIIs net sold ₹4,20,212 cr, DIIs bought ₹6,59,847 cr. This series differs from the NSDL figures in yesterday's paper, so the totals do not match. Full recap is in Markets below."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The market is up on stock-specific Q2 buying, not a change in foreign flows. Domestic funds are absorbing the selling. RBI day will test that."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/markets/fii-net-sell-indian-equities-worth-rs-2-961-crore-while-diis-net-buy-rs-5-089-crore-on-oct-6-14046142.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol, NSE data</a> / <a href=\"https://www.thehindubusinessline.com/markets/bulls-hold-for-second-day-but-rupee-bleeds-near-record-low/article71551341.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>"
+          },
+          {
+            "t": "story",
+            "title": "Oolka is reportedly raising $45 M at roughly double its April valuation",
+            "kicker": "Startups"
+          },
+          {
+            "t": "p",
+            "html": "Per four people cited by Moneycontrol, Bessemer would put in about $20 M and Prosus about $10 M, with about $15 M from existing backers Accel, Lightspeed and 8i Ventures. The valuation is around $200 M, up from about $90 M in April 2026. Oolka, founded in 2024 by former Meesho executive Utkrishta Kumar, says it is India's first agentic AI credit-management platform. Before this round it had raised about $21 M, per Tracxn. If it closes, it would be Prosus's fourth fintech bet in just over a month. Oolka, Bessemer and Prosus did not respond to Moneycontrol."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> An AI credit-management app for consumers is drawing Bessemer and Prosus money. For an APM at an insurance aggregator, it is a read on how investors value agentic personal-finance products. It is a report of talks, not a closed round."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/startup/fintech-startup-oolka-in-talks-to-raise-45-million-from-bessemer-prosus-and-others-14045092.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol, 6 Oct</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "figure",
+            "alt": "The Bombay Stock Exchange tower on Dalal Street with its red BSE sign",
+            "caption": "Bombay Stock Exchange, Dalal Street. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
+            "img": "photos/d2-g1.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Yesterday's recap",
+            "kicker": "India, Tuesday 6 October"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Nifty 50",
+                "v": "22,776.10, up 220.35 points (0.98%). Intraday low 22,561.60."
+              },
+              {
+                "k": "Sensex",
+                "v": "73,067.81, up 685.34 points (0.95%)"
+              },
+              {
+                "k": "Bank Nifty",
+                "v": "55,128.40, up 0.76%. Kotak Mahindra Bank gained about 3.82%."
+              },
+              {
+                "k": "Breadth and volatility",
+                "v": "Advance-decline ratio 1.82, the highest since 10 July. India VIX about 13.6."
+              },
+              {
+                "k": "Sectors",
+                "v": "Chemicals +2%, Pharma +1.7%, Oil and Gas +1.6%, FMCG +1.4%. IT fell, by nearly 2% per BusinessLine and 0.59% per Moneycontrol."
+              },
+              {
+                "k": "Rupee and commodities",
+                "v": "Rupee 96.42 per dollar. Brent below $99, gold near $4,153 an ounce, silver above $61."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Top Nifty gainers were Trent, BSE and Kotak Mahindra Bank. Laggards were Coal India, Tech Mahindra and Max Healthcare. The IT sector figure differs between the two sources, so I give both. Sources: <a href=\"https://www.thehindubusinessline.com/markets/bulls-hold-for-second-day-but-rupee-bleeds-near-record-low/article71551341.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a> and <a href=\"https://www.moneycontrol.com/news/business/markets/fii-net-sell-indian-equities-worth-rs-2-961-crore-while-diis-net-buy-rs-5-089-crore-on-oct-6-14046142.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>."
+          },
+          {
+            "t": "story",
+            "title": "Global",
+            "kicker": "United States, Tuesday 6 October"
+          },
+          {
+            "t": "p",
+            "html": "The S&P 500 rose 0.6% to a record 7,818.93, the Dow added 0.5% to 51,521.28 and the Nasdaq gained 0.4% to 27,599.79, per AP. Constellation Energy led after a long-term power deal with Google, and easing bond yields helped. Source: <a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-267ca73e15e09f7e8deb5f6076405f48\" target=\"_blank\" rel=\"noopener\">AP</a>."
+          },
+          {
+            "t": "story",
+            "title": "Today's watch list",
+            "kicker": "What to watch, not what to buy"
+          },
+          {
+            "t": "p",
+            "html": "Events first: the RBI policy announcement at 10 AM and the GST Council meeting, both today. Below, each name is on the list because of a reported development. No view on direction is implied."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Titan",
+                "detail": "Q2 business update: domestic business +22%, international +97%, watch business +30%, jewellery +21%. 3,758 stores."
+              },
+              {
+                "n": "2",
+                "title": "NBCC",
+                "detail": "Floated ₹9,620 cr tenders to build 16 stalled Supertech projects."
+              },
+              {
+                "n": "3",
+                "title": "HCL Technologies",
+                "detail": "HCL Group announced a ₹500 cr expansion of HCL IT City, up to 9.5 lakh sq ft for 4,500 people."
+              },
+              {
+                "n": "4",
+                "title": "NTPC",
+                "detail": "Plans to buy 10 to 15 million tonnes of coal from private commercial mines for FY27."
+              },
+              {
+                "n": "5",
+                "title": "Ola Electric Mobility",
+                "detail": "Board meets today on a partly paid rights issue of up to ₹1,000 cr."
+              },
+              {
+                "n": "6",
+                "title": "Asian Paints",
+                "detail": "Board to consider an interim dividend and results. Record date, if declared, is 4 November."
+              },
+              {
+                "n": "7",
+                "title": "Vedanta Aluminium",
+                "detail": "Q2 aluminium production up 5% to 6.49 lakh tonnes."
+              },
+              {
+                "n": "8",
+                "title": "Apollo Tyres",
+                "detail": "CFO Gaurav Kumar resigned, effective 6 October."
+              },
+              {
+                "n": "9",
+                "title": "ABB India",
+                "detail": "Suneel Kumar Munaga named CFO from 1 January 2027."
+              },
+              {
+                "n": "10",
+                "title": "Blue Dart",
+                "detail": "Agreement with NCRTC to explore parcel movement on the Delhi-Meerut Namo Bharat corridor."
+              },
+              {
+                "n": "11",
+                "title": "Solex Energy",
+                "detail": "Won work orders worth ₹194.14 cr for TOPCon solar modules."
+              },
+              {
+                "n": "12",
+                "title": "Asset Reconstruction Co. India",
+                "detail": "Profit +14.6% to ₹59.1 cr, revenue +115.4% to ₹234.7 cr."
+              },
+              {
+                "n": "13",
+                "title": "Glass Wall Systems",
+                "detail": "Revenue +35.8% to ₹107.4 cr, profit down 7.7% to ₹17.3 cr."
+              },
+              {
+                "n": "14",
+                "title": "Mahindra Lifespace",
+                "detail": "Launched Mahindra Rivenza in Baner Annex, Pune, with about ₹3,500 cr gross development value."
+              },
+              {
+                "n": "15",
+                "title": "Adani Ports",
+                "detail": "Set up Paradip Mahanadi Terminal as a wholly owned subsidiary for two dry bulk berths."
+              },
+              {
+                "n": "16",
+                "title": "JSW Cement",
+                "detail": "Commissioned a 1 MTPA grinding unit at Nagaur. Total grinding capacity is now 25.10 MTPA."
+              },
+              {
+                "n": "17",
+                "title": "Godrej Consumer Products",
+                "detail": "Indonesian arm opened phase one of a new plant in Kendal, about ₹250 cr invested."
+              },
+              {
+                "n": "18",
+                "title": "Mphasis",
+                "detail": "£35.4 million agreement to run Social Security Scotland's benefits platform."
+              },
+              {
+                "n": "19",
+                "title": "Marsons",
+                "detail": "Plans a joint venture with US private equity firm Cleanhill Partners for transformer operations in the US and Canada."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Sources: <a href=\"https://www.etnownews.com/markets/stocks-to-watch-today-october-7-titan-nbcc-hcl-technologies-ntpc-vedanta-aluminium-and-others-article-156287533\" target=\"_blank\" rel=\"noopener\">ET Now</a> and <a href=\"https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-titan-kanohar-electricals-glass-wall-systems-arcil-karamtara-engineering-apollo-tyres-mphasis-mahindra-lifespaces-in-focus-on-07-october-14046143.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>. Company numbers are as reported in those lists; I did not check them against exchange filings. Moneycontrol labels the ARCIL numbers \"Q1\" and ET Now calls them its latest results, so read the period with care."
+          }
+        ]
+      },
+      {
+        "heading": "Finance goldmine",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Smart money: foreigners are selling, domestic funds are buying, and the gap is wide",
+            "kicker": "Flows"
+          },
+          {
+            "t": "p",
+            "html": "On 6 October FIIs bought ₹11,258.72 cr and sold ₹14,220.02 cr, a net sale of ₹2,961 cr. DIIs bought ₹20,146.40 cr and sold ₹15,057.48 cr, a net purchase of ₹5,089 cr. The combined FII and DII flow for October so far is positive, about ₹3,167 cr. The Nifty is up 0.69% in October after falling about 6% in September."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Foreign selling has been the backdrop to the whole slide. Domestic buying is what kept it orderly."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/markets/fii-net-sell-indian-equities-worth-rs-2-961-crore-while-diis-net-buy-rs-5-089-crore-on-oct-6-14046142.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol, NSE data</a>"
+          },
+          {
+            "t": "story",
+            "title": "Regulatory window: GST Council meets today on GST 2.0 compliance",
+            "kicker": "Policy"
+          },
+          {
+            "t": "p",
+            "html": "Moneycontrol says the focus is the GST 2.0 process and compliance reforms, including redesigned compliance procedures. I did not find the agenda itself. Outcomes land after this paper is published."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Compliance redesign matters if any of your side projects touch invoicing or small-business tools."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/markets/fii-net-sell-indian-equities-worth-rs-2-961-crore-while-diis-net-buy-rs-5-089-crore-on-oct-6-14046142.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol, 7 Oct</a>"
+          },
+          {
+            "t": "story",
+            "title": "Hidden catalysts: a state builder takes over stalled housing, and a rights issue is on the table",
+            "kicker": "Corporate actions"
+          },
+          {
+            "t": "p",
+            "html": "NBCC floated ₹9,620 cr of tenders for 16 stalled Supertech real estate projects. Ola Electric Mobility's board meets today to consider a partly paid rights issue of up to ₹1,000 cr. Titan reported domestic business up 22% and international up 97% in its Q2 update. The tenders and the rights issue are proposals, not completed events."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Both are specific, dated actions rather than commentary."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.etnownews.com/markets/stocks-to-watch-today-october-7-titan-nbcc-hcl-technologies-ntpc-vedanta-aluminium-and-others-article-156287533\" target=\"_blank\" rel=\"noopener\">ET Now</a>"
+          },
+          {
+            "t": "story",
+            "title": "Sector spotlight, day 2: banks and NBFCs, insurance",
+            "kicker": "Rotates every two days"
+          },
+          {
+            "t": "p",
+            "html": "Banks: Bank Nifty rose 0.76% on Tuesday, helped by healthy Q2 business updates and positioning ahead of today's decision. Kotak Mahindra Bank was a standout at about 3.82%. Insurance: the open questions are the credit-life and annuity commission limits and the start date, covered on the front page. Next edition the spotlight moves to a new pair of sectors."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Both sectors sit under today's RBI and IRDAI stories."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/bulls-hold-for-second-day-but-rupee-bleeds-near-record-low/article71551341.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a> / <a href=\"https://www.moneycontrol.com/banking/credit-life-annuities-emerge-as-key-concerns-for-life-insurers-over-irdai-distribution-rules-article-14045852.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol on credit-life</a>"
+          },
+          {
+            "t": "callout",
+            "html": "Contrarian slotNothing evidence-backed today. The consensus on a 25 bp hike is as strong as it looks, and I have no data that argues otherwise."
+          }
+        ]
+      },
+      {
+        "heading": "Startup intelligence",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Garuda Aerospace raised about $10 M pre-IPO at a $320 M pre-money valuation",
+            "kicker": "India"
+          },
+          {
+            "t": "p",
+            "html": "The Chennai company raised about ₹96 cr, led by the Motherson family office and Dubai-based Aditum Investment Group, per people aware of the deal. It filed draft papers confidentially in April and got SEBI's observations on 5 August. The ET page I could read was a short synopsis, so details beyond that are not verified."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A drone company heading to a Q1 2027 listing through the confidential SEBI route. A reference point for how deeptech exits are being planned."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/tech/startups/garuda-aerospace-lands-10-million-pre-ipo-funding-at-320-million-valuation/articleshow/134746224.cms\" target=\"_blank\" rel=\"noopener\">Economic Times</a>"
+          },
+          {
+            "t": "story",
+            "title": "Small rounds from the same day's roundup",
+            "kicker": "India"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "Beyond Appliances raised ₹110 cr in a Series B led by Fireside Ventures, for R&D and a new plant.",
+              "Lorazzo raised ₹15 cr led by Sauce. It says revenue grew six times in 12 months (company claim).",
+              "CurvetAI raised ₹6 cr pre-seed led by Merak Ventures. It says it has over 100,000 monthly users and has started earning revenue (company claim)."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The pattern: consumer and design-led brands and AI workspaces are still getting early cheques. Company claims are marked."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-6-2026\" target=\"_blank\" rel=\"noopener\">YourStory daily roundup, 6 Oct</a>"
+          },
+          {
+            "t": "story",
+            "title": "Melius raised $25 M after burning its first codebase",
+            "kicker": "Global"
+          },
+          {
+            "t": "p",
+            "html": "Three former Ramp engineers built an AI performance-marketing tool. After more than six months they decided it did not have legs, scrapped the codebase and rebuilt as an \"agents lab for creative work\", generating ad campaigns, images and video. Melius announced a $20 M Series A led by CRV and a $5 M seed led by General Catalyst. It claims more than $1 M in annualised revenue within two months of leaving stealth in July. Rivals include Higgsfield, valued at $5.4 B in August, which the co-founder says has passed $700 M in annualised revenue."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A founder pattern worth stealing, covered in the insight below."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/\" target=\"_blank\" rel=\"noopener\">TechCrunch, 6 Oct</a>"
+          },
+          {
+            "t": "story",
+            "title": "Set the kill criterion before you start",
+            "kicker": "Startup insight of the day"
+          },
+          {
+            "t": "p",
+            "html": "Melius did not rescue its first product. It decided it had not found the large market, cut it, and moved to an adjacent, bigger one."
+          },
+          {
+            "t": "p",
+            "html": "For a side project, the cheap version is to write down in advance what traction by what date would make you stop. Decide the date and the number while you still feel neutral. That sentence is my reading of the Melius story, not something the founders said."
+          },
+          {
+            "t": "story",
+            "title": "Opportunities",
+            "kicker": "Open now"
+          },
+          {
+            "t": "p",
+            "html": "AWS x IDFC FIRST Bank x Campus Fund Grand Challenge 2026 closes 10 October. It is for current students, graduates from 2023 onward and dropouts from the 2023 cohort onward, across all sectors. Top 15 startups get a place at the grand finale in Mumbai on 10 December, and AWS credits are listed among the benefits. Check eligibility against your own situation before applying. Sources: <a href=\"https://www.eduparc.in/resources/news/aws-idfc-first-bank-and-campus-fund-announce-seventh-edition-of-grand-challenge\" target=\"_blank\" rel=\"noopener\">Eduparc</a> and <a href=\"https://www.linkedin.com/posts/campus-fund_grandchallenge2026-campusfund-studententrepreneurs-activity-7511054273833598976-wKKD\" target=\"_blank\" rel=\"noopener\">Campus Fund on LinkedIn</a>."
+          },
+          {
+            "t": "p",
+            "html": "An aggregator also lists 16 grants and programs closing 5 to 15 October (<a href=\"https://www.startupgrantsindia.com/blog/grants-closing-soon-2026-10-05\" target=\"_blank\" rel=\"noopener\">Startup Grants India</a>). Its amounts conflict with its own text in at least one case, so verify each program on the official page before relying on it."
+          },
+          {
+            "t": "story",
+            "title": "A commission-cap calculator for insurance distributors",
+            "kicker": "One idea a day"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "What",
+                "v": "A free web calculator where a small broker, agent or advisor enters their current mix of products and commissions and sees the effect of IRDAI's proposed caps."
+              },
+              {
+                "k": "Who pays",
+                "v": "Start free to collect leads. A paid tier for multi-agent firms that want exports and scenario comparison. Price is untested."
+              },
+              {
+                "k": "Why now",
+                "v": "Comments close 25 October, the start date is 1 January or 1 April, and the caps are published by product: 15 to 20% health, 5 to 20% first-year life, 2 to 5% loan-linked."
+              },
+              {
+                "k": "First step",
+                "v": "This week, build the calculator from the numbers in the Mint report and the paper itself, and show it to ten distributors."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "This is my idea, not a validated one. The caps come from Mint's report of the draft, so check the paper before any number goes public. Also check whether your Probus employment terms allow side work in insurance distribution."
+          }
+        ]
+      },
+      {
+        "heading": "AI race",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The two biggest stories, Mistral Large 4 and Reflection Beam, are on the front page. Below is what else moved."
+          },
+          {
+            "t": "story",
+            "title": "Anthropic's Sonnet 5.5 is now the default Sonnet in the API, at unchanged prices",
+            "kicker": "Models and pricing"
+          },
+          {
+            "t": "p",
+            "html": "Per the Claude Code changelog as quoted by AI Coding Guide, Sonnet 5.5 (claude-sonnet-5-5) has a 1M context and costs $2 and $10 per million input and output tokens, with $0.20 cache reads. That is the same as Sonnet 5. I read the price from that secondary page, which says it matches Anthropic's pricing table. Anthropic also has a Sonnet 5.5 prompting page dated 6 October."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If your prototypes call Sonnet, they have moved to 5.5 with no price change."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://aicoding-guide.com/en/posts/weekly-2026-10-04/\" target=\"_blank\" rel=\"noopener\">AI Coding Guide, quoting the Claude Code changelog</a> / <a href=\"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-sonnet-5-5\" target=\"_blank\" rel=\"noopener\">Anthropic docs, Sonnet 5.5 prompting</a>"
+          },
+          {
+            "t": "callout",
+            "html": "Reported, not confirmedNothing new on the earlier report that OpenAI cancelled an October release over safety. I found no primary confirmation today, so it stays out of the news items."
+          }
+        ]
+      },
+      {
+        "heading": "Vibe coding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "HeyGen's HyperFrames Studio: a free desktop video editor where your own coding agent does the work",
+            "kicker": "New tool"
+          },
+          {
+            "t": "p",
+            "html": "It launched on Product Hunt on 5 October for Mac and Linux, marked free, and sign-in is a HeyGen account. Compositions are HTML with timing set by data attributes, and the Apache 2.0 renderer has no per-render fee. The agent is Claude Code or Codex on your machine, and runs bill to that account's plan or an API key. IndieFounder did not see a Windows build. The article is a third-party write-up, so I have not tested the app."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A video is a folder of HTML files, so you can version it and let Claude Code or Codex edit it. Worth a try if you make demo videos for side projects."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.indiefounder.me/articles/hyperframes-studio-desktop-agent-video-editor\" target=\"_blank\" rel=\"noopener\">IndieFounder</a>"
+          },
+          {
+            "t": "story",
+            "title": "Claude Code 2.1.284 to 2.1.288: Sonnet 5.5 default, Claude Mods, new switches",
+            "kicker": "Update"
+          },
+          {
+            "t": "p",
+            "html": "Version 2.1.284 makes Sonnet 5.5 the default and adds /mcp reconnect all. 2.1.285 adds a switch to turn off WebFetch and a managed setting to limit which API providers a machine may use. 2.1.287 adds Claude Mods, which let plugins change deeper behaviour. This is from AI Coding Guide's summary of the changelog, not the changelog itself."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Worth updating for the new default. Mods are optional."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://aicoding-guide.com/en/posts/weekly-2026-10-04/\" target=\"_blank\" rel=\"noopener\">AI Coding Guide, week of 4 Oct</a>"
+          },
+          {
+            "t": "story",
+            "title": "Lovable swaps Visual edits for a preview toolbar",
+            "kicker": "Update"
+          },
+          {
+            "t": "p",
+            "html": "The changelog also adds line-level references in chat (for example Button.tsx:42) and a User insights profile for workspace admins. The changelog page does not show entry dates in what I read, so I cannot say when each shipped."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> You can click an element, fix text inline, sketch on the preview or pin a comment, and queue the next change while Lovable is still working."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://docs.lovable.dev/changelog\" target=\"_blank\" rel=\"noopener\">Lovable changelog</a>"
+          }
+        ]
+      },
+      {
+        "heading": "AI hack of the day",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Give the model a sample and a reader, then delete the rules",
+            "kicker": "Wednesday: writing and communication"
+          },
+          {
+            "t": "p",
+            "html": "Anthropic says it removed over 80% of Claude Code's system prompt for its newest models with no measurable loss on its coding evaluations. It found it was over-constraining the model, and that its own instructions sometimes clashed, such as \"leave documentation as appropriate\" next to \"DO NOT add comments\". Its replacement instruction for code is one line: write code that reads like the surrounding code, matching comment density, naming and idiom."
+          },
+          {
+            "t": "p",
+            "html": "That is guidance about code. The adaptation to writing is mine: replace a pile of style rules with a sample of your own writing and a named reader, and let the model match them."
+          },
+          {
+            "t": "callout",
+            "html": "Copy and pasteDraft a reply to the email below. The reader is [name, role] and they need to decide [what]. Write it so it reads like my two sample emails: match their sentence length, vocabulary and paragraph rhythm. Sample 1: [paste]. Sample 2: [paste]. Email to answer: [paste]. Do not add anything I did not give you."
+          },
+          {
+            "t": "p",
+            "html": "If a draft still feels ornate, one extra tip is reported by AI Impactful, a third-party site, as an Anthropic suggestion for its model: \"Please remove all mannered prose.\" I could not find that line on Anthropic's own pages, so treat it as unconfirmed, though it costs nothing to try. Sources: <a href=\"https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\" target=\"_blank\" rel=\"noopener\">Anthropic, context engineering for Claude 5 models, 24 July</a> and <a href=\"https://aimpactful.com/anthropics-five-word-fix-for-ai-writing/\" target=\"_blank\" rel=\"noopener\">AI Impactful</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Sports snippets",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "India beat West Indies by 8 wickets in the first T20I",
+            "kicker": "Cricket, Tuesday"
+          },
+          {
+            "t": "p",
+            "html": "Captain Shreyas Iyer made an unbeaten 102 off 43 balls, his maiden T20I hundred, as India chased 172 in Lucknow with 32 balls to spare. Debutant Naman Dhir took 3 for 31 as West Indies were bowled out for 171. Source: <a href=\"https://www.olympics.com/en/news/india-vs-west-indies-t20-cricket-2026-match-1-report\" target=\"_blank\" rel=\"noopener\">Olympics.com</a>."
+          },
+          {
+            "t": "story",
+            "title": "Verstappen wins the rain-hit Bahrain GP in Malaysia",
+            "kicker": "F1, Sunday 4 October"
+          },
+          {
+            "t": "p",
+            "html": "It is his and Red Bull's first win of 2026. Antonelli was second, Hamilton third, Leclerc fourth and Hadjar fifth. Russell stopped on the start-finish straight late on, and Antonelli extends his championship lead over him. Source: <a href=\"https://www.formula1.com/en/latest/article/verstappen-wins-rain-hit-bahrain-gp-in-malaysia-over-antonelli-as-russell-retires-late-on.6qfpIHPch8mIVj2YgfHdCp\" target=\"_blank\" rel=\"noopener\">Formula1.com</a>."
+          },
+          {
+            "t": "figure",
+            "alt": "A Red Bull Formula 1 car on track in the pit lane area",
+            "caption": "File photo, Red Bull Formula 1 car at the 2026 Chinese Grand Prix. Photo: Liauzh (Wikimedia Commons, CC BY 4.0).",
+            "img": "photos/d2-g7.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Djokovic takes the China Open, one title short of Federer",
+            "kicker": "Tennis, Tuesday"
+          },
+          {
+            "t": "p",
+            "html": "De Minaur retired in the second set after Djokovic won the first 7-6(3). It is Djokovic's seventh Beijing title and 102nd on tour, one behind Federer's 103. He is 34-0 in Beijing. In the semi-final, Medvedev was defaulted while Djokovic was serving for the match. Source: <a href=\"https://www.atptour.com/en/news/djokovic-de-minaur-beijing-2026-final\" target=\"_blank\" rel=\"noopener\">ATP Tour</a>."
+          },
+          {
+            "t": "figure",
+            "alt": "Novak Djokovic stretching for a shot on a red clay court, seen from above",
+            "caption": "File photo, Djokovic at Roland-Garros 2024. Photo: Kuberzog (Wikimedia Commons, CC BY 4.0).",
+            "img": "photos/d2-g7.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Nakamura hits 3500 on Chess.com blitz",
+            "kicker": "Chess, Monday and Tuesday"
+          },
+          {
+            "t": "p",
+            "html": "Hikaru Nakamura became the first 3500-rated blitz player in Chess.com history on Monday and reached 3503 on Tuesday. He lost to Vladislav Artemiev in the last round of Titled Tuesday, which Artemiev won. Source: <a href=\"https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026\" target=\"_blank\" rel=\"noopener\">Chess.com</a>."
+          },
+          {
+            "t": "story",
+            "title": "Kane scores two, India lose 1-6",
+            "kicker": "Football, Tuesday"
+          },
+          {
+            "t": "p",
+            "html": "England beat Czechia 3-0 in the Nations League on Harry Kane's record-equalling 125th cap, with Kane scoring twice and setting up another. Spain beat Croatia, with a Mikel Merino double keeping their 2.5-year unbeaten run alive. In Kolkata, India lost 1-6 to Uruguay, with Anirudh Thapa scoring the home side's goal. Sources: <a href=\"https://apnews.com/article/spain-england-nations-league-kane-merino-yamal-2367156909c95b00a0b8d909bce9b763\" target=\"_blank\" rel=\"noopener\">AP</a> and <a href=\"https://sportstar.thehindu.com/football/indian-football/india-vs-uruguay-result-anirudh-thapa-goal-salt-lake-stadium-kolkata-2026/article71552864.ece\" target=\"_blank\" rel=\"noopener\">Sportstar</a>."
+          }
+        ]
+      },
+      {
+        "heading": "CAT warmup",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Essay: \"If computers count all the petals, who tastes the cherries?\"",
+            "kicker": "Reading, about 20 minutes"
+          },
+          {
+            "t": "p",
+            "html": "Liam Spradlin, a designer, argues that tech culture holds a belief he calls computism: the idea that the world, humans included, is made of measurable bits that can be computed and governed by code. Read the full essay on <a href=\"https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries\" target=\"_blank\" rel=\"noopener\">Aeon</a> (published 17 September, so older than this paper's news window, picked as a long read). I read all of it before writing the questions below. Read the essay first, then try them."
+          },
+          {
+            "t": "story",
+            "title": "Reading comprehension",
+            "kicker": "Three questions on the essay"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q1.</strong> The author describes a chef who tried to brown lamb under a broiler the way \"smacking it with a propane torch\" would. The author uses this to show that:"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "(a) the chefs were poorly trained for the project",
+              "(b) the oven could not translate an embodied cooking instinct into anything its logic understood",
+              "(c) the oven needed a stronger broiler to match restaurant results",
+              "(d) home cooks are less skilled than professional chefs"
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q2.</strong> According to the author, the \"real tragedy\" of computism is:"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "(a) that computers may become more intelligent than people",
+              "(b) that computers will take over some human activities",
+              "(c) that people might build a world where every petal is counted and lose the ability to taste the cherries",
+              "(d) that data collection will become too expensive to continue"
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q3.</strong> Each of the following is used by the author as evidence or illustration EXCEPT:"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "(a) Google testing 41 shades of blue for its search links",
+              "(b) Vaucanson's eighteenth-century mechanical duck",
+              "(c) Descartes's picture of the body as a machine with a soul as its user",
+              "(d) a study showing that A/B testing lowered the revenue of most companies"
+            ]
+          },
+          {
+            "t": "story",
+            "title": "Set: the pitch day",
+            "kicker": "LRDI, about 12 minutes"
+          },
+          {
+            "t": "p",
+            "html": "Six startups, A to F, pitch to one investor on one day, one after another, in six consecutive slots numbered 1 to 6. Each startup is in a different one of six sectors: Fintech, Health, Edtech, Agri, Logistics and Climate. The following is known."
+          },
+          {
+            "t": "p",
+            "html": "1F pitches before C.2The Agri startup pitches immediately after the Edtech startup.3The Health startup pitches immediately after the Logistics startup.4B and D pitch in consecutive slots.5The Edtech startup pitches immediately after the Climate startup.6A is the Edtech startup, B is the Fintech startup, C is the Logistics startup, D is the Climate startup and E is the Health startup."
+          },
+          {
+            "t": "p",
+            "html": "The investor has a fixed budget. She hears the pitches in slot order and funds each one in full, in order, until she reaches a startup whose ask she cannot fully meet. She then stops. The asks, in ₹ crore, are below."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "A",
+                "detail": "Ask"
+              },
+              {
+                "n": "2",
+                "title": "B",
+                "detail": "Ask"
+              },
+              {
+                "n": "3",
+                "title": "C",
+                "detail": "Ask"
+              },
+              {
+                "n": "4",
+                "title": "D",
+                "detail": "Ask"
+              },
+              {
+                "n": "5",
+                "title": "E",
+                "detail": "Ask"
+              },
+              {
+                "n": "6",
+                "title": "F",
+                "detail": "Ask"
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q1.</strong> Which startup pitches in slot 4? (a) A (b) C (c) E (d) F"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q2.</strong> What is the total ask, in ₹ crore, of the startups that pitch before the Edtech startup? (a) 7 (b) 8 (c) 10 (d) 13"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q3.</strong> Her budget is ₹15 cr. Which startup is the first she cannot fully fund, and how much of her budget is left? (a) F, ₹2 cr (b) F, ₹5 cr (c) C, ₹2 cr (d) C, ₹7 cr"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q4.</strong> Suppose condition 4 (B and D are consecutive) is removed and everything else stays. How many different pitch orders are possible? (a) 1 (b) 2 (c) 3 (d) 4"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q5.</strong> Using the original conditions, her budget is ₹20 cr. How many startups does she fund in full? (a) 3 (b) 4 (c) 5 (d) 6"
+          },
+          {
+            "t": "story",
+            "title": "Answers and worked solutions",
+            "kicker": "Don't scroll on until you've tried"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Setup.</strong> Sectors are fixed for five startups, so F is Agri. Condition 5 and 2 chain the sectors: Climate, then Edtech, then Agri, in consecutive slots, which means D, A, F in that order. Condition 3 gives C then E in consecutive slots. Condition 4 says B is next to D. D has A right after it, so B must be right before D. That block is B, D, A, F. Condition 1 puts C after F, so C and E follow. The only order is B (Fintech), D (Climate), A (Edtech), F (Agri), C (Logistics), E (Health). I checked this by exhaustive search: it is the only arrangement that meets every condition."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q1: (d) F.</strong> Slot 4 is F."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q2: (c) 10.</strong> Edtech is A in slot 3. B and D pitch before it, so 4 + 6 = 10."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q3: (a) F, ₹2 cr.</strong> In order: B takes 4, D takes 6 (total 10), A takes 3 (total 13). F asks 5 but only 2 remains, so she stops at F with ₹2 cr left."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q4: (c) 3.</strong> Without condition 4, D, A, F stay together and C, E stay together with F before C. The orders possible are B D A F C E, D A F B C E and D A F C E B. That is three."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q5: (b) 4.</strong> B 4, D 6, A 3, F 5 add up to 18. C asks 7, which would take the total to 25, so she funds four and stops at C with ₹2 cr left."
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "Mumbai's Nariman Point skyline lit up at night across the water",
+      "caption": "Nariman Point, Mumbai. Photo: Saad Abdullah (Wikimedia Commons, CC BY-SA 3.0), cropped.",
+      "img": "photos/d2-hero.jpg"
+    }
+  },
+  "audio": null,
+  "times": null
+}
