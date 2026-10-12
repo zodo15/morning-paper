@@ -1,0 +1,320 @@
+{
+  "day": 1,
+  "meta": {
+    "date": "Tuesday 6 October 2026",
+    "short": "Tue 6 Oct",
+    "longread": null
+  },
+  "edition": {
+    "title": "Morning paper, Tuesday 6 October 2026",
+    "fact": "Five stories on the front page, three short beats below",
+    "intro": "A sample of the new format. Facts are from sources I read in full; anything resting on one outlet or on a vendor's own numbers is marked. Nothing here is a stock tip.",
+    "groups": [
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "IRDAI wants to cap what insurers pay distributors",
+            "kicker": "Your job"
+          },
+          {
+            "t": "p",
+            "html": "IRDAI's paper \"Recalibrating Economics of Insurance Distribution\" proposes a company-level expense-of-management cap of 12.5% of gross direct premium for life insurers, and for general insurers a cut from 30% to 20%, phased over five years. The case rests on sampled data: distributor remuneration for a group of corporate agents rose 125% (₹9,580 cr to ₹21,600 cr, FY23 to FY25) while new business premium rose 28%. General insurance broker commissions rose 173% against 37% growth in premium routed. Banks tied to several insurers averaged a 33% payout, up to 72%, against 13% for single-tie-up banks. Group credit life payouts reached up to 45% in FY25, from about 5%."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Bank and corporate-agent channels, and broker commissions, are the economics Probus sits on. If the expense cap lands, payout structures get renegotiated, and aggregator take rates are in the frame. It is a consultation paper, so nothing is final."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.moneycontrol.com/banking/irdai-issues-consultation-paper-on-distribution-reforms-article-14036664.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol, 23 Sep</a>"
+          },
+          {
+            "t": "story",
+            "title": "Banks' deposit growth is flattered by a window that has closed",
+            "kicker": "Money"
+          },
+          {
+            "t": "p",
+            "html": "RBI's concessional swap window for FCNR(B) deposits closed on 31 August, and banks mobilised nearly $133 bn through it. HDFC Bank alone took $11.5 bn, about 8.6% of the inflows. Yes Bank shows how large the effect can be: reported deposit growth of 19.5% year on year is 6.5% once FCNR(B) is removed, and loan growth of 23.8% is 3.3% on the same basis. System credit grew 18.1% and deposits 17.3% as of 15 September (RBI data, via Business Standard). Axis Securities warns of margin pressure from the higher cost of funds."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Headline growth at banks in Q2 results season overstates the underlying trend, and the cost of those deposits shows up later in margins. Read adjusted numbers, not reported ones."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/industry/banking/deposit-growth-gets-a-leg-up-for-banks-in-q2-due-to-fcnr-b-mobilisation-126100400354_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, 4 Oct</a> / <a href=\"https://www.financialexpress.com/business/industry-bank-q2-updates-hdfc-bank-small-finance-banks-bajaj-finance-lead-credit-growth-4354049/\" target=\"_blank\" rel=\"noopener\">Financial Express, 5 Oct</a>"
+          },
+          {
+            "t": "story",
+            "title": "Foreign investors sold ₹35,861 cr of equities in September; domestic funds are absorbing it",
+            "kicker": "Money"
+          },
+          {
+            "t": "p",
+            "html": "NSDL data puts September FPI equity flow at -₹35,861 cr. By trade date it is closer to -₹45,093 cr, because ₹9,232 cr of 30 September trades were booked in October. FPIs are down ₹2,69,534 cr in 2026 so far. On 5 October, one aggregator reports FIIs net sold ₹4,699 cr while DIIs bought ₹5,182 cr: a seven-session FII sell streak against an eleven-session DII buy streak, and Nifty down 2.53% over five sessions. The 5 October figures come from that single aggregator and I could not cross-check them."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the flow behind the Nifty's drop, and a watch item before Wednesday's RBI decision. It is a description of flows, not a signal to trade."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://paisesamjho.com/fpi-selling-september-2026/\" target=\"_blank\" rel=\"noopener\">Paisa Samjho, citing PTI/Times of India</a> / <a href=\"https://flashfinance.news/market-intelligence/fii-dii-flows/\" target=\"_blank\" rel=\"noopener\">Flash Finance (single source for the 5 Oct detail)</a>"
+          },
+          {
+            "t": "story",
+            "title": "Google and OpenAI now price new models at $2 per million input tokens",
+            "kicker": "Your side projects"
+          },
+          {
+            "t": "p",
+            "html": "Prices below are per million tokens, from the vendors' own posts and tables. Benchmark claims in those tables are vendor-reported and not independently tested."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The price of a prototype that calls a top model just fell by a factor of five against GPT-6 Astra. Cached input at $0.10 on GPT-6.1 Sol makes long-context agents cheap to test."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.eweek.com/news/google-gemini-4-argon-gpt-6-astra/\" target=\"_blank\" rel=\"noopener\">eWeek on Gemini 4 Argon</a> / <a href=\"https://www.anthropic.com/claude-opus-5-5\" target=\"_blank\" rel=\"noopener\">Anthropic, Opus 5.5</a> / <a href=\"https://community.openai.com/t/gpt-6-1-sol-in-the-api-a-meaningful-step-up-in-cost-performance/1402388/7\" target=\"_blank\" rel=\"noopener\">OpenAI Developer Community, GPT-6.1 Sol</a>"
+          },
+          {
+            "t": "p",
+            "html": "Price per 1M tokens, input / output (vendor-stated)AttributeGemini 4 Argon1GPT-6.1 Sol2Claude Opus 5.53GPT-6 Astra4Input / output$2 / $10 (introductory, $4 / $20 later)$2 / $10, cached input $0.10$4 / $20, cache reads $0.20$10 / $50"
+          },
+          {
+            "t": "p",
+            "html": "Gemini 4 Argon is rolling out in stages and leads 14 of 19 rows in Google's benchmark table. Opus 5.5 posts 66.4% on Terminal-Bench 4.0 against 57.9% for GPT-6 Astra, in Anthropic's table."
+          },
+          {
+            "t": "figure",
+            "alt": "Gemini 4 Argon launch graphic with a large number 4 on a blue gradient",
+            "caption": "Gemini 4 Argon launch graphic. Credit: Google, via eWeek.",
+            "img": "photos/d1-g0.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Indian tech funding is up 7% on fewer, bigger rounds",
+            "kicker": "Startups"
+          },
+          {
+            "t": "p",
+            "html": "Tracxn counts $10.3 bn raised in the first nine months of 2026, up 7%, across 1,134 rounds, down 38%. Seed funding fell 37% to $698 M, first-time funded companies fell 30% to 338, and Series A and later rounds fell 23% to 409. There were 18 rounds of $100 M or more. AI infrastructure was the largest theme at $1.2 bn, and enterprise infrastructure rose 436% to $1.6 bn. Six new unicorns had raised about $101 M on average before their unicorn round, and the median path from Series A to unicorn was 4.9 years."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If you build, the seed market is the hard one: money is concentrating in later stages and in infrastructure, not in first cheques."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://cxotoday.com/others/tracxn-9m-2026-report-india-tech-funding-rises-7-to-10-3b-despite-38-drop-in-deal-volume/\" target=\"_blank\" rel=\"noopener\">Tracxn 9M 2026 via CXOToday, 24 Sep</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Below the fold: Finance goldmine",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Peak XV cut its Honasa stake from 14.80% to 11.50% in one day",
+            "kicker": "Smart money"
+          },
+          {
+            "t": "p",
+            "html": "On 30 September Peak XV sold 1,07,55,495 shares of Honasa Consumer, taking its holding from 14.80% to 11.50%. Sequoia Capital Global Growth Fund III sold 25,02,289 shares (3.44% to 2.68%), and Redwood Trust sold 75,549. The stock was up 8.30% over the day per ScanX, so the market absorbed the supply. Single source for the share counts."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A venture investor exiting after the IPO lock-in is a supply event for consumer-brand listings. Watchlist only."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://scanx.trade/stock-market-news/companies/sequoia-capital-sells-25-lakh-shares-honasa-consumer/52748968\" target=\"_blank\" rel=\"noopener\">ScanX, from SEBI Reg 29(2) filing dated 2 Oct</a>"
+          },
+          {
+            "t": "story",
+            "title": "Steel capex is the visible catalyst",
+            "kicker": "Capacity expansion"
+          },
+          {
+            "t": "p",
+            "html": "Tata Steel is adding 5 mtpa at NINL in Kalinganagar, about ₹40,000 cr. Shyam Metalics signed an MoU to invest ₹50,000 cr in a 9 mtpa plant in Chandrapur, Maharashtra. An MoU is intent, not a commissioned plant."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Large announced capex is a lead indicator for banks with infrastructure books and for steel-linked suppliers."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://money.rediff.com/amp/news/market/tata-steel-expands-ninl-capacity-to-5-mtpa-in-kalinganagar/55633120261005\" target=\"_blank\" rel=\"noopener\">Rediff/PTI on Tata Steel NINL</a> / <a href=\"https://www.thehindubusinessline.com/companies/shyam-metalics-energy-to-invest-50000-cr-in-9-mtpa-steel-plant-in-maharashtra/article71547684.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine on Shyam Metalics</a>"
+          },
+          {
+            "t": "story",
+            "title": "RBI decides on Wednesday; the poll leans to a hike",
+            "kicker": "Policy"
+          },
+          {
+            "t": "p",
+            "html": "In a Reuters poll, 35 of 61 economists expect a 25 basis point increase to 5.50%. That leaves 26 expecting something else. The decision is on 7 October."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It sets the tone for the bank and NBFC spotlight below."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.indiatoday.in/business/story/rbi-mpc-october-2026-repo-rate-5-50-hike-experts-expect-3009950-2026-10-05\" target=\"_blank\" rel=\"noopener\">India Today, 5 Oct (Reuters poll)</a>"
+          },
+          {
+            "t": "story",
+            "title": "Sector spotlight, days 1 and 2: banks and NBFCs, and insurance",
+            "kicker": "Rotates every two days"
+          },
+          {
+            "t": "p",
+            "html": "Banks and NBFCs: HDFC Bank's gross advances rose 16% to ₹32,135 bn, its best sequential loan growth in nine quarters, with deposits up 18.8%; Anup Bagchi becomes MD and CEO on 27 October. Bajaj Finance is raising ₹17,500 cr (₹11,700 cr QIP plus ₹5,800 cr promoter warrants) and AUM grew 26.5% to ₹5,848 bn. AU Small Finance Bank deposits grew 28.6% and advances 27.9%. Insurance: life new business premium rose 33.07% in August to ₹41,198 cr, and 20.4% over April to August to ₹1.97 lakh cr. Retail-weighted premium rose about 13.9%, which is the number closer to underlying retail demand."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Both sit under the same two stories above: deposit costs and distribution rules."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.financialexpress.com/business/industry-bank-q2-updates-hdfc-bank-small-finance-banks-bajaj-finance-lead-credit-growth-4354049/\" target=\"_blank\" rel=\"noopener\">Financial Express, 5 Oct</a> / <a href=\"https://www.capitalmarket.com/markets/news/insurance-news/life-insurance-companies-record-33-07-surge-in-new-business-premium-in-august/1731533\" target=\"_blank\" rel=\"noopener\">Capital Market, 8 Sep</a>"
+          },
+          {
+            "t": "callout",
+            "html": "Contrarian positioningNothing evidence-backed today. I would rather say that than stretch a view."
+          }
+        ]
+      },
+      {
+        "heading": "Below the fold: Startup intelligence",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Simple Energy's $180 M round is most of India's weekly funding",
+            "kicker": "Funding landscape"
+          },
+          {
+            "t": "p",
+            "html": "Indian startups raised $233.6 M across 16 deals that week. Simple Energy's $180 M Series C is 77% of it. The other 15 deals add up to about $53.6 M, which is the better read of the typical week."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Weekly totals mislead when one deal dominates. The rest of the market raised about $53.6 M."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/\" target=\"_blank\" rel=\"noopener\">Inc42, 28 Sep to 2 Oct</a>"
+          },
+          {
+            "t": "story",
+            "title": "A 19-year-old raised $11 M to sell a $3,499 personal-AI computer",
+            "kicker": "New business model"
+          },
+          {
+            "t": "p",
+            "html": "Ghost's founder Zain Javaid raised an $11 M seed led by a16z for Core, a $3,499 computer with an Nvidia RTX Pro 4000 SFF Blackwell GPU. The price and funding are from TechCrunch's report; I have not seen sales figures."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A hardware answer to a software question: local AI for people who do not want their data in someone's cloud. A useful reference for what investors will back at seed."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/\" target=\"_blank\" rel=\"noopener\">TechCrunch, 5 Oct</a>"
+          },
+          {
+            "t": "figure",
+            "alt": "Four young people in dark Ghost hoodies sitting on a sofa",
+            "caption": "The Ghost team. Image credit: Ghost, via TechCrunch.",
+            "img": "photos/d1-g2.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Etched is fielding funding offers at a $40 B valuation",
+            "kicker": "Ecosystem move"
+          },
+          {
+            "t": "p",
+            "html": "TechCrunch reports, citing sources, that Etched has received funding offers at a valuation of $40 B. Nothing is signed."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> AI chip startups are being valued like platforms. Sources say so, and it is not a closed round."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/\" target=\"_blank\" rel=\"noopener\">TechCrunch, 5 Oct</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Below the fold: AI race",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Developers say cached-input pricing is the real news on GPT-6.1 Sol",
+            "kicker": "Signal from Hacker News"
+          },
+          {
+            "t": "p",
+            "html": "The top comment says cached input pricing is the real news; codecentral puts the release on 29 September and OpenAI's forum thread carries the $0.10 cached input price, half the earlier $0.20. Others in the thread argue Opus 5.5 is better at hard coding. That is opinion, not a test result."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It echoes the front-page point: for agent builders, cache cost matters more than headline price."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://news.ycombinator.com/item?id=49896586\" target=\"_blank\" rel=\"noopener\">Hacker News thread, 362 points</a> / <a href=\"https://codecentral.io/gpt-6-1-sol-vs-gpt-6-sol/\" target=\"_blank\" rel=\"noopener\">Codecentral on the release</a>"
+          },
+          {
+            "t": "story",
+            "title": "Product Hunt's week: agent infrastructure and model routing",
+            "kicker": "Launches"
+          },
+          {
+            "t": "p",
+            "html": "The leaderboard for the week of 5 October has Spira Maxima, FastRouter.ai, which routes across 200+ LLMs, and Opengeni, agent infrastructure, near the top."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Routing across models is becoming a product category, which fits falling prices."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.producthunt.com/leaderboard/weekly/2026/41\" target=\"_blank\" rel=\"noopener\">Product Hunt weekly leaderboard</a>"
+          },
+          {
+            "t": "story",
+            "title": "Anthropic will run Claude inference in India",
+            "kicker": "Ecosystem"
+          },
+          {
+            "t": "p",
+            "html": "Per the Times of India, Anthropic is launching in-country Claude inference in India via AWS."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> In-country inference matters for regulated Indian customers, including insurance."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://timesofindia.indiatimes.com/business/india-business/anthropic-launches-in-country-claude-ai-inference-in-india-via-aws/articleshow/134677000.cms\" target=\"_blank\" rel=\"noopener\">Times of India, 5 Oct</a>"
+          },
+          {
+            "t": "callout",
+            "html": "Reported, not confirmedSeveral outlets report, citing a WSJ story, that OpenAI cancelled an October GPT-6.1 Astra release over safety concerns. I found no primary confirmation, only secondary sites, so I am not treating it as fact."
+          }
+        ]
+      }
+    ]
+  },
+  "audio": null,
+  "times": null
+}
