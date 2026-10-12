@@ -1,0 +1,659 @@
+{
+  "day": 4,
+  "meta": {
+    "date": "Friday 9 October 2026",
+    "short": "Fri 9 Oct",
+    "longread": 4
+  },
+  "edition": {
+    "title": "Morning paper, Friday 9 October 2026",
+    "fact": "Edition 4. Markets, GST, IRDAI, an AI radar and a startup case study.",
+    "intro": "The Nifty closed at its lowest level in 18 months as Brent crude passed $104, the GST Council dropped arrest powers, and OpenAI's release of 722 AI-written maths manuscripts has split mathematicians.",
+    "groups": [
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The Nifty closed at an 18-month low as crude passed $104 and foreign investors sold ₹12,943 cr in a day",
+            "kicker": "Money"
+          },
+          {
+            "t": "p",
+            "html": "The Nifty 50 fell 371.25 points, or 1.64%, to 22,231.80, and the Sensex fell 1,045.46 points, or 1.44%, to 71,593.24. Both figures match across Moneycontrol, Mint and NineFifteenAM. Mint says the Nifty close is its lowest since 7 April 2025 and the Sensex close its lowest since 13 February 2024. Midcap and smallcap indices fell more than 2% each. Only 3 of the 50 Nifty stocks rose. Mint puts the loss in BSE market value at ₹9.96 lakh crore on the day, and Moneycontrol puts it at more than ₹12 lakh crore over two sessions."
+          },
+          {
+            "t": "p",
+            "html": "The three reported drivers are the same everywhere. Brent crude rose about 4.8% to $104 a barrel on Gulf shipping attacks and Strait of Hormuz supply fears. The US 10-year Treasury yield sat near 5.3%. And foreign portfolio investors sold. Mint, citing provisional BSE data, says they sold ₹12,943 cr, their biggest single-day sale since 29 May. A flows tracker built on NSE data shows ₹12,944 cr, so the two agree. Domestic institutions bought about ₹10,703 cr on the same tracker, which is a secondary site, so treat that figure as indicative."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the second straight fall after the RBI hike, and the first close this low since April 2025. If you invest through SIPs, the point is that the market is moving on rates, oil and foreign flows, none of which you can time."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.livemint.com/market/nifty-50-performance-in-2026-fii-fpi-selling-inflation-rbi-nse-crude-oil-11791461972358.html\" target=\"_blank\" rel=\"noopener\">Mint</a> / <a href=\"https://www.moneycontrol.com/news/business/markets/taking-stock-nifty-hits-fresh-52-week-low-ends-below-22-250-sensex-tanks-1-045-pts-14047706.html/amp\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a> / <a href=\"https://ninefifteenam.com/notes/post-market-report-8-october-2026\" target=\"_blank\" rel=\"noopener\">NineFifteenAM, exchange data</a> / <a href=\"https://www.outlookbusiness.com/markets/nifty-hits-2026-low-what-triggered-the-market-bloodbath\" target=\"_blank\" rel=\"noopener\">Outlook Business</a>"
+          },
+          {
+            "t": "figure",
+            "alt": "Bharat Mandapam convention centre in New Delhi lit up in the evening",
+            "caption": "Bharat Mandapam, New Delhi, the venue of the GST Council meeting per The Hindu. Photo: Ministry of Culture, Government of India (Wikimedia Commons, GODL-India).",
+            "img": "photos/d4-g0.jpg"
+          },
+          {
+            "t": "story",
+            "title": "The GST Council scrapped arrest powers, raised the prosecution threshold to ₹5 crore and widened credit on employee health and life insurance",
+            "kicker": "Policy, and your job"
+          },
+          {
+            "t": "p",
+            "html": "The 57th GST Council met on Thursday 8 October. It revoked GST officers' arrest powers, raised the prosecution threshold from ₹1 crore to ₹5 crore, removed the minimum punishment, and cut the general penalty from ₹25,000 to ₹10,000 (The Hindu, PTI). The Finance Ministry said the rate structure is settled and rate changes will now happen once a year. No rates changed."
+          },
+          {
+            "t": "p",
+            "html": "Economic Times lists eight reforms. Refund acknowledgement falls from 15 days to 10, and the system sanctions 90% of a claim by risk assessment. Registration amendments such as a trade name or director change are accepted automatically. Businesses up to ₹5 crore turnover that sell only to consumers get an optional yearly return with quarterly tax payment. Credit is widened to cover health and life insurance taken for employees, telecom towers and pipelines outside factories. A committee has three months to study protection for honest buyers whose suppliers did not pay tax."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Input tax credit on health and life insurance bought for employees is a direct tailwind for group cover."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindu.com/business/Economy/gst-council-scraps-arrest-powers-of-gst-officers-ups-prosecution-threshold-to-5-crore/article71559868.ece\" target=\"_blank\" rel=\"noopener\">The Hindu (PTI)</a> / <a href=\"https://economictimes.indiatimes.com/news/economy/policy/gst-council-2026-8-key-reforms-on-registration-refunds-itc-and-enforcement/articleshow/134789303.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 8 reforms</a>"
+          },
+          {
+            "t": "story",
+            "title": "IRDAI's draft now has dates and a second opinion: ICRA sees the hit landing in FY28, a former IRDAI member expects 1 April 2027",
+            "kicker": "Your job"
+          },
+          {
+            "t": "p",
+            "html": "ICRA says FY27 growth should be largely unaffected and the pressure shows up in FY28, as distributors realign. It puts the proposed general-insurer expense ceiling falling from 30% to 25% within two years and 20% within five, and the life ceiling to 15% in two years and 12.5% in five. It lists current averages against proposed caps: individual health first-sale commission averages 24% against a proposed 15 to 20%; health renewals average 14% against 5 to 10%; motor own-damage new business averages 26% against 5 to 10%; credit-linked insurance would be capped at 2.5% for regular premium. ICRA expects NBFCs and housing finance companies to be hit harder than banks, and consolidation over time. Its overall verdict is \"structurally positive\" with near-term pain."
+          },
+          {
+            "t": "p",
+            "html": "Nilesh Sathe, a former IRDAI member, told ET BFSI he expects the rules from 1 April 2027 and \"by and large, do not expect change in what is proposed\", maybe a cap of 2.5% moving to 3% or 3.5%. He thinks the whole process must finish in six months and that large insurers such as LIC and SBI Life, whose costs are already under 12.5%, benefit most. He is a former regulator giving a forecast, not a decision."
+          },
+          {
+            "t": "p",
+            "html": "The other side is an interested party. ET reports brokers warn of a 60 to 70% revenue hit and nearly 10 lakh jobs at risk, against IRDAI's own data that general-insurance broker commissions rose 173% from FY23 to FY25 while broker-sourced premium rose 37%, with the average commission rate going from 8.5% to 17%. Context from the market: life insurers' new business premium rose 21% in September to ₹48,780 cr while policies sold fell slightly to 21.93 lakh from 22.06 lakh, and general insurers' gross direct premium rose 13.22% (The Hindu). Higher premium per policy is exactly the pattern the regulator is questioning."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the timeline you can plan against. The feedback window closes 25 October, and the people who have read the paper expect most of it to survive."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/finance/insurance/insurance-distribution-reforms-may-weigh-on-near-term-growth-icra-126100801049_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard on ICRA</a> / <a href=\"https://bfsi.economictimes.indiatimes.com/articles/irdai-commission-caps-unlikely-this-fiscal-new-rules-may-take-effect-april-1-2027-nilesh-sathe/134778526\" target=\"_blank\" rel=\"noopener\">ET BFSI, Nilesh Sathe</a> / <a href=\"https://economictimes.indiatimes.com/industry/banking/finance/insure/insurance-brokers-oppose-irdai-commission-caps-warn-of-60-70-revenue-hit-/articleshow/134737989.cms\" target=\"_blank\" rel=\"noopener\">Economic Times on brokers</a> / <a href=\"https://www.thehindu.com/business/Industry/life-insurers-new-business-premium-rose-21-in-sept-to-48780-crore/article71560882.ece\" target=\"_blank\" rel=\"noopener\">The Hindu on September premiums</a>"
+          },
+          {
+            "t": "figure",
+            "alt": "Mathematical formulas written in chalk on an old blackboard",
+            "caption": "Chalk formulas on a blackboard, file photo. Photo: Roman Mager (Wikimedia Commons, CC0).",
+            "img": "photos/d4-g0.jpg"
+          },
+          {
+            "t": "story",
+            "title": "OpenAI published 722 AI-written maths manuscripts, and a mathematicians' group has told members to stop working with it",
+            "kicker": "AI, the scoop of the day"
+          },
+          {
+            "t": "p",
+            "html": "On 6 October OpenAI put a repository on GitHub of manuscripts and proof artifacts \"produced by an internal OpenAI model\". Its README says the results sit at different stages of verification, not all have Lean formalizations (computer-checked proofs), \"some of the unformalized results could have issues\", and it will fix them quickly. Heise, reading OpenAI's own explanation, reports 722 manuscripts across more than 370 result families, from about 4,000 tasks given to one model, with the independent Advisory Group on Mathematics and AI at the Institute for Advanced Study consulted first. The 722 figure, first reported by TechSpot yesterday, is confirmed by heise and the repo."
+          },
+          {
+            "t": "p",
+            "html": "On 7 October the Association for Human Mathematics, founded in September and listing over 800 members including Peter Scholze (heise), said \"mathematicians did not ask for this work to be done\", called the release \"a demonstration of power\", and urged mathematicians to stop working with OpenAI. Terence Tao's blog carries the statement as a guest post by the group. The Decoder reports that Tao chairs the group, while a commenter on his blog says he is not a member. Those two accounts conflict, so the statement is attributed here to the group."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Reddit pulse, opinion not fact.</strong> The r/OpenAI thread has about 1.1K comments. Early top comments are sceptical of the statement (\"why does this sound like they are saying AI should not solve math problems\"), while one mocks that the post says it was converted from another file format using AI. On Tao's own blog, the mix is wider. One mathematician says he worked on three of the solved problems and feels relieved, though he says the AI text is not human understanding."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the sharpest public argument yet over who gets to announce AI results and what counts as solved. Expect the same fight over code, legal and financial output you build products on."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://github.com/openai/math\" target=\"_blank\" rel=\"noopener\">OpenAI repo on GitHub</a> / <a href=\"https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/\" target=\"_blank\" rel=\"noopener\">AHM statement via Terence Tao's blog</a> / <a href=\"https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/\" target=\"_blank\" rel=\"noopener\">The Decoder</a> / <a href=\"https://www.heise.de/en/news/AI-generated-math-solutions-Sharp-criticism-of-OpenAI-s-approach-11480979.html\" target=\"_blank\" rel=\"noopener\">heise</a> / <a href=\"https://www.reddit.com/r/OpenAI/comments/1x0gqmb/fields_medalist_terence_tao_reposts_statement/\" target=\"_blank\" rel=\"noopener\">Reddit thread, r/OpenAI</a>"
+          },
+          {
+            "t": "story",
+            "title": "Google launched a Gemini agent with its own Workspace account, for businesses first",
+            "kicker": "AI, agents"
+          },
+          {
+            "t": "p",
+            "html": "At a Google Cloud event on 8 October, Google announced a unified Gemini agent that takes \"objectives, not just instructions\", per Thomas Kurian. It plans work, uses custom skills and tools, and connects to Workspace, Microsoft 365, Slack, Jira, Git, BigQuery, Snowflake and any Model Context Protocol (MCP) server. TechCrunch reports it has its own Workspace account with its own email address, writes an audit trail attributed to the agent, and shows its work in a \"tasks inbox\". Users can pick the model, starting with Anthropic's Claude. Early testers were On, Shopify and PayPal. Pichai said Gemini has over 1 billion monthly users and nearly 90% of the Fortune 100 use Gemini Enterprise, both company claims. Consumers come later."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It is a template for agents that work like colleagues, with an inbox, an audit trail and approvals. If you design agent features, this is the permission model competitors will be compared with."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a> / <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/\" target=\"_blank\" rel=\"noopener\">Google Cloud blog</a>"
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, last 48 hours",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Launched or announced since Wednesday. PRIMARY means the company's own page. REPORT means a news report. COMPANY POST means the company's own post on X, a vendor claim."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Mistral Large 4 (model)",
+                "detail": "Public preview 6 Oct, weights promised for the end of the month (27 Oct per VentureBeat). 1 trillion parameters, natively multimodal. PRIMARY plus REPORT. Details and a conflict below."
+              },
+              {
+                "n": "2",
+                "title": "Anthropic Cyber Mission (programme)",
+                "detail": "8 Oct. Critical Infrastructure Defense Program with 11 founding partners, plus a free OSS Scanner for open-source projects. PRIMARY."
+              },
+              {
+                "n": "3",
+                "title": "Anthropic and the Genesis Mission (funding)",
+                "detail": "8 Oct. $150 million over three years of Claude access for 15+ US agencies and national labs. PRIMARY, a company commitment."
+              },
+              {
+                "n": "4",
+                "title": "Gemini agent for business (agent)",
+                "detail": "8 Oct. Google Cloud event. PRIMARY and REPORT, covered above."
+              },
+              {
+                "n": "5",
+                "title": "SynthID Detector, open to everyone (tool)",
+                "detail": "7 Oct. Check whether an image, video or audio file was made with AI from Google or partners including OpenAI, NVIDIA and Kakao, Apple soon. English only for now. PRIMARY."
+              },
+              {
+                "n": "6",
+                "title": "EmbeddingGemma 2 (open model)",
+                "detail": "6 Oct. Google's on-device embedding model, now natively multimodal across text, images, audio and video. PRIMARY."
+              },
+              {
+                "n": "7",
+                "title": "Claude Haiku 5.5 in Cursor (model)",
+                "detail": "7 Oct. Cursor says Anthropic's small model is now in Cursor and costs 10x less than Haiku 4.5 on shorter requests. COMPANY POST, a vendor claim."
+              },
+              {
+                "n": "8",
+                "title": "ChatGPT for Teens, College Planner (app feature)",
+                "detail": "7 Oct. OpenAI says a college application planner is coming. Its own stats are company-reported. PRIMARY."
+              },
+              {
+                "n": "9",
+                "title": "Interface by Natura (hardware)",
+                "detail": "8 Oct. A $99 smart ring that triggers AI agents, pre-orders next month, shipping December or January. REPORT, TechCrunch."
+              },
+              {
+                "n": "10",
+                "title": "Manus 2.0 and Cue (agent apps)",
+                "detail": "Cue gives personal AI agents their own email, phone number, wallet and computer. REPORT, TechCrunch's funding story."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "AI race, deeper",
+        "blocks": [
+          {
+            "t": "figure",
+            "alt": "Paris skyline with the Eiffel Tower at sunset",
+            "caption": "Paris at sunset. Mistral is Paris-based per VentureBeat. File photo, not of the company. Photo: Pedro Kümmel (Wikimedia Commons, CC0).",
+            "img": "photos/d4-g2.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Mistral Large 4: a trillion-parameter model with open weights promised, and its own numbers disagree",
+            "kicker": "Models"
+          },
+          {
+            "t": "p",
+            "html": "Mistral says Large 4 is a 1-trillion-parameter, natively multimodal model, its largest, and that it beats any open-weight model from the US or Europe and is state-of-the-art among open models on cybersecurity, finance and law. The weights come at month end after red-teaming with cybersecurity leaders and state authorities. VentureBeat adds a custom licence and no API pricing in the materials it saw."
+          },
+          {
+            "t": "p",
+            "html": "The sources disagree on details. Mistral's page says 52 billion active parameters and 3,800 NVIDIA Grace Blackwell GPUs. VentureBeat and Mistral's X post say 49 billion active, and VentureBeat says about 4,000 GPUs. The benchmark claims are Mistral's own charts."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If you build, an open-weight model near the frontier means you can run it yourself for sensitive data. The catch is that the weights are not out yet, and the benchmark claims are all Mistral's."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://mistral.ai/news/mistral-large-4/\" target=\"_blank\" rel=\"noopener\">Mistral announcement</a> / <a href=\"https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release\" target=\"_blank\" rel=\"noopener\">VentureBeat</a> / <a href=\"https://x.com/MistralAI/status/2107457414387622310\" target=\"_blank\" rel=\"noopener\">Mistral on X</a> / <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral/\" target=\"_blank\" rel=\"noopener\">Reddit, r/LocalLLaMA</a>"
+          },
+          {
+            "t": "story",
+            "title": "Anthropic points frontier models at power grids and open-source code, with free scans for open-source projects",
+            "kicker": "Agents and security"
+          },
+          {
+            "t": "p",
+            "html": "The Critical Infrastructure Defense Program puts frontier models, on-site engineers and threat research with the providers that secure operational technology, meaning the control systems behind power grids, water systems and transport. Founding partners are Accenture, Booz Allen, CrowdStrike, Deloitte, Dragos, Hitachi, Insane Cyber, Nozomi Networks, Palo Alto Networks, PwC and Rockwell Automation. A second arm, OSS Scanner, gives open-source projects regular security scans from Anthropic's strongest models for free."
+          },
+          {
+            "t": "p",
+            "html": "The page admits the limit: Project Glasswing found many vulnerabilities, but \"verifying, prioritizing, and fixing\" remains hard, and Glasswing has been merged into a wider Cyber Verification Program. Separately, Anthropic committed $150 million over three years to the US Genesis Mission, giving Claude and credits to more than 15 agencies including NASA, NIH and NSF. Both are announcements of intent. Neither has results yet."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It is a bet that defence, not just attack, is where AI gets adopted by cautious sectors first. It also shows how Anthropic wants to sell to governments and infrastructure operators."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.anthropic.com/news/anthropic-cyber-mission\" target=\"_blank\" rel=\"noopener\">Anthropic Cyber Mission</a> / <a href=\"https://x.com/AnthropicAI/status/2108302539498414208\" target=\"_blank\" rel=\"noopener\">Anthropic on X</a> / <a href=\"https://www.anthropic.com/news/genesis-mission-commitment\" target=\"_blank\" rel=\"noopener\">Genesis Mission commitment</a>"
+          },
+          {
+            "t": "story",
+            "title": "Manus raised more than $500 million, its first round since China forced the end of Meta's $2 billion deal",
+            "kicker": "Companies"
+          },
+          {
+            "t": "p",
+            "html": "Manus's parent, Butterfly Effect, said in a WeChat post that Boyu Capital and IDG Capital led the round with Tencent, HSG and ZhenFund. The valuation was not disclosed. TechCrunch notes it was reported last month to be in talks at $4 billion. Meta announced the $2 billion acquisition in December, Chinese authorities ordered it unwound in April, and Manus resumed independent operations in August. It is reportedly considering a Hong Kong listing. Everything here is from one outlet's report of the company's post."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It shows what happens to an agent startup when geopolitics reverses its exit. Manus is also the closest peer to the 'agents with their own email and wallet' idea."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "figure",
+            "alt": "A large oil tanker at sea under a grey sky",
+            "caption": "An oil tanker in the North Sea, file photo. Photo: ImagePerson (Wikimedia Commons, CC BY 4.0).",
+            "img": "photos/d4-g3.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Yesterday's recap",
+            "kicker": "India, Thursday 8 October"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Nifty 50",
+                "v": "22,231.80, down 371.25 points (1.64%). Opened 22,599.05, which was also the day high. Low 22,179.90, a new 52-week low."
+              },
+              {
+                "k": "Sensex",
+                "v": "71,593.24, down 1,045.46 points (1.44%)"
+              },
+              {
+                "k": "Bank Nifty",
+                "v": "54,515.05, down 0.98%"
+              },
+              {
+                "k": "Midcap and smallcap",
+                "v": "Nifty Midcap 100 down 2.53%, Smallcap 100 down 2.34% (NineFifteenAM)"
+              },
+              {
+                "k": "Volatility",
+                "v": "India VIX 15.28, up 10.01%"
+              },
+              {
+                "k": "Breadth",
+                "v": "Zerodha counts 2,068 decliners to 248 advancers and 68 new 52-week lows to 1 high. NineFifteenAM, quoting HDFC Sky for all NSE shares, counts 3,280 falling and 951 rising. The universes differ."
+              },
+              {
+                "k": "Sectors",
+                "v": "All sector indices fell. IT -0.08%, Financial Services -1.11%, FMCG -2.02%, Pharma -2.32%, Auto -2.49%, Energy -2.82%, Realty -3.16%, Metal -3.55%."
+              },
+              {
+                "k": "Flows",
+                "v": "FPIs net sold about ₹12,943 cr (provisional BSE data via Mint). The Wednesday figure, now final on 5paisa, was a net ₹6,121.40 cr sale."
+              },
+              {
+                "k": "Rupee and crude",
+                "v": "Rupee about 96.8 per dollar. Moneycontrol has 96.78 against 96.77, HDFC Sky via NineFifteenAM has 96.88 after a 13 paise fall. The two sources differ. Brent about $104 a barrel across sources."
+              },
+              {
+                "k": "TCS, after the close",
+                "v": "September-quarter net profit ₹13,884 cr, up 14.98% on the year, dividend ₹12 a share, per Upstox via NineFifteenAM. Total contract value $9.6 billion and headcount 598,056 are also from that report."
+              }
+            ]
+          },
+          {
+            "t": "story",
+            "title": "Overseas panel",
+            "kicker": "Global, as reported on 8 October"
+          },
+          {
+            "t": "p",
+            "html": "US stock index futures fell on Thursday as oil rose and Treasury yields stayed near multi-year highs, with the 10-year at 5.34%, close to its highest since 2002, per Reuters on Kitco. Megacap tech and chip stocks were down, and Reuters notes a WSJ report that Broadcom is lining up $50 billion of financing for OpenAI, which that report says has raised fears of heavy tech debt issuance. XTB has Brent above $104, WTI near $92, the Euro Stoxx 50 down 1.1%, gold near $4,120 an ounce, and Samsung shares down about 2.5% despite record preliminary quarterly operating profit of KRW 107.4 trillion. These are intraday readings, not official closes."
+          },
+          {
+            "t": "story",
+            "title": "Today's watch list",
+            "kicker": "What to watch, not what to buy"
+          },
+          {
+            "t": "p",
+            "html": "Events first: Friday 9 October is the first session after TCS's results, Monday 12 October brings HCLTech's results, Wednesday 14 October is the TCS dividend record date, Tuesday 20 October is an NSE holiday and Infosys reports on Friday 23 October (NineFifteenAM's calendar). Each name is listed because of a reported development. No view on direction is implied. Closes are 8 October from NineFifteenAM's exchange data unless marked."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "TCS",
+                "detail": "Closed ₹2,076, down 0.21%, before results. Net profit ₹13,884 cr after the close."
+              },
+              {
+                "n": "2",
+                "title": "Infosys",
+                "detail": "₹997.00, up 0.50%. One of only three Nifty gainers. Reports 23 October."
+              },
+              {
+                "n": "3",
+                "title": "Tech Mahindra",
+                "detail": "₹1,496.20, up 0.34%, also a gainer."
+              },
+              {
+                "n": "4",
+                "title": "HCL Technologies",
+                "detail": "Reports Monday 12 October."
+              },
+              {
+                "n": "5",
+                "title": "Axis Bank",
+                "detail": "₹1,245.00, up 0.20%, the third gainer."
+              },
+              {
+                "n": "6",
+                "title": "HDFC Bank",
+                "detail": "₹692.25, down 1.49%. Mint notes DII holding (43.44%) now exceeds FII holding (39.39%) for the first time in over 10 years."
+              },
+              {
+                "n": "7",
+                "title": "Claude Haiku 5.5 in Cursor (model)",
+                "detail": "7 Oct. Cursor says Anthropic's small model is now in Cursor and costs 10x less than Haiku 4.5 on shorter requests. COMPANY POST, a vendor claim."
+              },
+              {
+                "n": "8",
+                "title": "ITC",
+                "detail": "₹255.00, down 4.03%. Mint reports bulk deals by GQG-managed funds with mutual funds buying."
+              },
+              {
+                "n": "9",
+                "title": "Adani Enterprises",
+                "detail": "₹2,596.00, down 5.36%, the biggest Nifty loser. NineFifteenAM found no company-specific reason."
+              },
+              {
+                "n": "10",
+                "title": "Adani Green Energy",
+                "detail": "Down 7.88% on about 4.1 times usual volume (Zerodha)."
+              },
+              {
+                "n": "13",
+                "title": "InterGlobe Aviation (IndiGo)",
+                "detail": "₹4,813.10, down 3.55%, with crude above $104."
+              },
+              {
+                "n": "14",
+                "title": "Tata Motors Passenger Vehicles",
+                "detail": "₹273.00, down 3.53%."
+              },
+              {
+                "n": "15",
+                "title": "Power Grid",
+                "detail": "₹244.65, down 3.32%."
+              },
+              {
+                "n": "16",
+                "title": "Jubilant FoodWorks",
+                "detail": "Down 7.16% on heavy volume (Zerodha)."
+              },
+              {
+                "n": "17",
+                "title": "Vodafone Idea",
+                "detail": "Implied volatility rose 6 points to 47.5%, the biggest jump in Zerodha's tracker."
+              },
+              {
+                "n": "18",
+                "title": "PB Fintech",
+                "detail": "Policybazaar's parent. June-quarter profit ₹163 cr, up 92% (Fortune India). No price pulled. See today's long read."
+              },
+              {
+                "n": "19",
+                "title": "LIC",
+                "detail": "Sathe says its costs are already below the proposed 12.5% life expense ceiling. No price pulled."
+              },
+              {
+                "n": "20",
+                "title": "SBI Life",
+                "detail": "Named alongside LIC for the same reason. No price pulled."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Sources: <a href=\"https://ninefifteenam.com/notes/post-market-report-8-october-2026\" target=\"_blank\" rel=\"noopener\">NineFifteenAM</a>, <a href=\"https://www.moneycontrol.com/news/business/markets/taking-stock-nifty-hits-fresh-52-week-low-ends-below-22-250-sensex-tanks-1-045-pts-14047706.html/amp\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>, <a href=\"https://www.livemint.com/market/nifty-50-performance-in-2026-fii-fpi-selling-inflation-rbi-nse-crude-oil-11791461972358.html\" target=\"_blank\" rel=\"noopener\">Mint</a>, <a href=\"https://aftermarketreport.zerodha.com/p/nifty-sinks-to-fresh-52-week-low\" target=\"_blank\" rel=\"noopener\">Zerodha Aftermarket Report</a>, <a href=\"https://justticks.in/fii-dii-data\" target=\"_blank\" rel=\"noopener\">flows tracker</a>, <a href=\"https://www.kitco.com/news/off-the-wire/2026-10-08/wall-st-futures-decline-oil-surge-high-yields-stoke-inflation-worries\" target=\"_blank\" rel=\"noopener\">Reuters via Kitco</a>, <a href=\"https://www.xtb.com/en/market-analysis/market-wrap-a-4-surge-in-oil-prices-weighs-on-indices-08-10-2026\" target=\"_blank\" rel=\"noopener\">XTB</a>. Technical levels quoted by brokers in these reports are omitted on purpose."
+          }
+        ]
+      },
+      {
+        "heading": "Finance goldmine",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Why oil, bond yields and the rate hike landed on the same day",
+            "kicker": "Mechanism"
+          },
+          {
+            "t": "p",
+            "html": "India imports most of its oil, so dearer crude pushes up inflation, the import bill and the rupee's weakness together. The RBI had just raised rates and moved to \"calibrated tightening\", which tells markets cuts are off the table. Outlook Business quotes a broker saying crude above $100 matters for margins across oil-sensitive sectors. Meanwhile US yields near 5.3% make safer assets pay more, which Mint says is pulling foreign money out of emerging-market stocks. SBI Securities' head of research, quoted by Mint, says the biggest risk is crude staying high for longer. DSP's CEO says domestic demand looks healthy and valuations are closer to fair. Both are opinions from market participants."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It explains why every sector fell, even IT, which was nearly flat only because it has dollar earnings."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.outlookbusiness.com/markets/nifty-hits-2026-low-what-triggered-the-market-bloodbath\" target=\"_blank\" rel=\"noopener\">Outlook Business</a> / <a href=\"https://www.livemint.com/market/nifty-50-performance-in-2026-fii-fpi-selling-inflation-rbi-nse-crude-oil-11791461972358.html\" target=\"_blank\" rel=\"noopener\">Mint</a> / <a href=\"https://www.xtb.com/en/market-analysis/market-wrap-a-4-surge-in-oil-prices-weighs-on-indices-08-10-2026\" target=\"_blank\" rel=\"noopener\">XTB</a>"
+          },
+          {
+            "t": "story",
+            "title": "India's solar factories are running at 35 to 40% as US tariffs shut their biggest market",
+            "kicker": "Business"
+          },
+          {
+            "t": "p",
+            "html": "India has 233 GW of solar module capacity against about 50 GW of yearly domestic demand, and factories run at 35 to 40% against the 50 to 65% needed to be sustainable, per a report Mint cites. US shipments of Indian solar products were $61.47 million from April to July, against $646.23 million a year earlier, after duties of up to 126% (the report cites combined duties above 200% for most makers). The renewable energy secretary said the ministry is working with Exim Bank on credit lines for African and Latin American buyers. Chinese suppliers already sell there at low prices, as the same report notes. The plan is a proposal, not an announced scheme."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It is a clean case of a policy shock to a business that grew for one customer. The government's answer, export credit lines to Africa and Latin America, is also a product opportunity for trade finance and insurance."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.livemint.com/industry/energy/india-plans-exim-bank-credit-lines-to-rescue-solar-exports-after-us-tariff-blow-11791453975856.html\" target=\"_blank\" rel=\"noopener\">Mint</a>"
+          },
+          {
+            "t": "story",
+            "title": "An AI financing question: the debt behind the compute",
+            "kicker": "Global"
+          },
+          {
+            "t": "p",
+            "html": "Reuters, on Kitco, says investors are weighing expensive money and high yields against strong earnings and AI spending, and notes the WSJ report of $50 billion of Broadcom financing for OpenAI, with Oracle also seeking funds. The amounts are as relayed by Reuters."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If AI capital spending is increasingly funded with debt, rising yields change who can afford to keep building. That is a risk to track, not a conclusion."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.kitco.com/news/off-the-wire/2026-10-08/wall-st-futures-decline-oil-surge-high-yields-stoke-inflation-worries\" target=\"_blank\" rel=\"noopener\">Reuters via Kitco</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Startup intelligence",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "DailyObjects raised ₹332 cr at about ₹1,050 cr valuation while its loss widened",
+            "kicker": "Insight"
+          },
+          {
+            "t": "p",
+            "html": "Xponentia, Anicut and Axiom Asia led the Series C, a mix of primary and secondary. Roots Ventures partly exited at 18x. The company plans 150 exclusive stores in five years from about 350 touchpoints today. FY25 operating revenue was ₹110 cr, up 31%, and total expenses rose 29.7% to ₹124.5 cr, so the loss widened to ₹16 cr from ₹10 cr (company financials per Entrackr). By our calculation the valuation is about 9.5 times FY25 operating revenue. That multiple is our calculation on FY25 revenue."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It is a useful case of a brand paying for growth with partly secondary money. An early investor took an 18x return while the company is still loss-making, which says what late-stage investors will pay for retail and brand scale."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://entrackr.com/news/dailyobjects-raises-rs-332-cr-in-series-c-round-led-by-xponentia-anicut-axiom-asia-12638318\" target=\"_blank\" rel=\"noopener\">Entrackr</a>"
+          },
+          {
+            "t": "story",
+            "title": "Miko's maker is selling its robot AI as foundation models to other machine makers, and is closing ₹300 cr",
+            "kicker": "Deeptech"
+          },
+          {
+            "t": "p",
+            "html": "Inner Sky Labs, which makes Miko children's robots, launched models for vision, audio, touch, action and safety, meant for robots and other physical systems. It is closing about ₹300 cr (about $30.9 million) from existing backers and new global investors, which would take total funding to $100 million. The CEO says it will sell to enterprises and governments that want sovereign AI. The round is not closed and the capabilities are company claims."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> An Indian company that spent a decade building in stealth is turning a consumer product's AI into a platform. Watch whether others buy it."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://inc42.com/buzz/miko-maker-inner-sky-labs-unveils-foundation-models-for-physical-ai/\" target=\"_blank\" rel=\"noopener\">Inc42</a>"
+          },
+          {
+            "t": "story",
+            "title": "Vesta's mortgage agents raised $30 million in the US",
+            "kicker": "Pattern"
+          },
+          {
+            "t": "p",
+            "html": "Vesta raised $30 million led by Conversion Capital, with customers Pennymac and New American Funding also investing. The CEO says revenue is up 12x year on year, that it has helped originate more than $100 billion a year in loans, and that it holds under 5% of the market. All of that is company-reported. Customers begin with a person approving the agent's work, then let it handle a share on its own. Every action and its reasoning is logged for audit."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Its model is the one that works for regulated work: start with a person approving each agent action, then widen autonomy. That maps directly to insurance servicing."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>"
+          },
+          {
+            "t": "story",
+            "title": "Opportunities",
+            "kicker": "Where the gap might be"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "Audit trails for agents in regulated work. Both Google and Vesta lean on logged, attributed agent actions. Tools that make that log readable for a compliance officer are a plausible need.",
+              "Trade credit and insurance for redirected exports. If India offers credit lines to new solar buyers, someone has to underwrite the risk.",
+              "Verification of AI output. The maths row is a preview: when results arrive faster than people can check them, checking becomes the scarce service."
+            ]
+          },
+          {
+            "t": "story",
+            "title": "A suitability record for insurance distributors",
+            "kicker": "One idea, a hypothesis to test, not a validated market"
+          },
+          {
+            "t": "p",
+            "html": "If IRDAI's draft keeps its proposed suitability rules and clawbacks for proven mis-selling, distributors will need to show what advice they gave and why. The idea is a light tool that records each customer conversation's needs analysis, the product shown and the reason for the recommendation, then attaches it to the policy. Vesta's pattern, with a person approving first, is the way to start. The test: ask five mid-size brokers whether they could produce that record for a random policy sold last year. If most cannot, there is a need. If most say they already can, there is none."
+          }
+        ]
+      },
+      {
+        "heading": "Vibe coding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Cursor lets you watch and steer your local coding agents from your phone",
+            "kicker": "Tools"
+          },
+          {
+            "t": "p",
+            "html": "Cursor's changelog says Remote Control for local agents is on by default for everyone except Enterprise organisations. You sign in on the Cursor iOS app, approve pairing on the desktop app, see your local agents, and reply to them. The agents keep running on the computer. It must stay on, and Cursor suggests plugging it in with the lid open. The same page earlier describes Rollouts and Security Review bots from 23 September, available on Teams and Enterprise plans."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The pattern is agents that keep running on your machine while you supervise remotely. It is useful if you start long builds and walk away, but your computer has to stay awake and online."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://cursor.com/changelog\" target=\"_blank\" rel=\"noopener\">Cursor changelog</a> / <a href=\"https://x.com/cursor_ai/status/2107897245282799864\" target=\"_blank\" rel=\"noopener\">Cursor on X, Haiku 5.5</a>"
+          }
+        ]
+      },
+      {
+        "heading": "AI hack of the day",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Turn a weekly chore into an automation you can check",
+            "kicker": "Friday: automation"
+          },
+          {
+            "t": "p",
+            "html": "Most automations fail quietly. The fix is to design the check before the action. Paste this into your assistant with a chore you do every week, such as collecting renewal dates or summarising a team channel. The prompt and the method are mine, not from a source."
+          },
+          {
+            "t": "callout",
+            "html": "Copy and pasteI do this chore every week: [describe it in two sentences]. Design it as an automation with four parts. 1) Trigger: what starts it and how often. 2) Steps: each step as one action with one input and one output. 3) Check: for each step, one thing I can look at in under ten seconds to know it worked, and what a silent failure looks like. 4) Stop rule: when it should stop and message me instead of continuing. Then list what could go wrong if the input is empty, duplicated or late. Do not build anything yet. Ask me up to three questions first."
+          },
+          {
+            "t": "p",
+            "html": "Why it works: the model is good at listing failure modes if you ask for them before it writes anything. Run it on one chore this weekend and keep only the steps whose check you would actually look at."
+          }
+        ]
+      },
+      {
+        "heading": "Startup case study",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "One startup story per edition, told in full. Today's is Policybazaar: how an insurance comparison site became India's largest online insurance seller, where the founders disagree with the record, and why it matters to the IRDAI debate. Read it here: <a href=\"https://files.instinct.com/21gxaz5puc1d-how-policybazaar-built-a-market\" target=\"_blank\" rel=\"noopener\">How Policybazaar built a market</a>. Each edition's case study will be a different company."
+          }
+        ]
+      },
+      {
+        "heading": "Source notes and caveats",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "AI leads were found on the public X profiles of AI labs and tools (latest posts only) and checked against company pages or news reports. Reddit reactions are small samples of opinion.",
+              "Update to yesterday: the 722-manuscripts figure is now confirmed by the OpenAI repo and heise."
+            ]
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "The Bombay Stock Exchange tower on Dalal Street with its red BSE sign",
+      "caption": "Bombay Stock Exchange, Dalal Street. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
+      "img": "photos/d2-g1.jpg"
+    }
+  },
+  "audio": null,
+  "times": null
+}
