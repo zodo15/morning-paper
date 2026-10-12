@@ -208,7 +208,8 @@
   }
   function tickerHTML(day) {
     var ed = D.editions[day];
-    var g = ed.groups.filter(function (x) { return x.heading.indexOf('Eight things') === 0; })[0];
+    var g = ed.groups.filter(function (x) { return x.heading.indexOf('Eight things') === 0; })[0] ||
+            ed.groups.filter(function (x) { return x.blocks.some(function (b) { return b.t === 'bullets'; }); })[0];
     if (!g) return '';
     var items = [];
     g.blocks.forEach(function (b) { if (b.t === 'bullets') items = items.concat(b.items); });
