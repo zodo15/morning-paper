@@ -146,7 +146,7 @@
       (off ? '<div class="player-note">Audio lands with edition 8 - the reader below reads this page aloud today.</div>' : '<div class="player-track"><div class="player-fill"></div></div>') +
       '</div>' +
       '<div class="player-right">' +
-      '<button class="speed-btn" ' + (off ? 'disabled' : '') + '>1&times;</button>' +
+      (off ? '<span class="player-soon">Soon</span>' : '<button class="speed-btn">1&times;</button>') +
       '<span class="player-dur">' + (off ? '--:--' : '0:00') + '</span></div></div>';
   }
   function wirePlayers(root) {
@@ -192,6 +192,7 @@
       case 'callout': return '<aside class="callout rp">' + b.html + '</aside>';
       case 'closing': return '<div class="closing rp">' + b.html + '</div>';
       case 'figure': return b.img ? '<figure class="plate"><img src="' + b.img + '" alt="' + esc(b.alt || '') + '" loading="lazy">' + (b.caption ? '<figcaption>' + esc(b.caption) + '</figcaption>' : '') + '</figure>' : '';
+      case 'chart': return '<figure class="plate chart-fig">' + b.svg + (b.label ? '<figcaption>' + esc(b.label) + '</figcaption>' : '') + '</figure>';
     }
     return '';
   }
