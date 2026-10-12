@@ -113,6 +113,7 @@
     R.playing = false;
     try { window.speechSynthesis.cancel(); } catch (e) {}
     clearMarks();
+    clearHL();
     rbar.hidden = true;
   }
   rbToggle.addEventListener('click', function () {
@@ -140,33 +141,136 @@
     var audio = D.audio[String(day)];
     var src = audio && audio[kind];
     var off = !src;
-    return '<div class="player' + (dark ? ' dark' : '') + (off ? ' off' : '') + '" data-src="' + (src || '') + '">' +
+    var times = audio && audio.times && audio.times[kind];
+    return '<div class="player' + (dark ? ' dark' : '') + (off ? ' off' : '') + '" data-src="' + (src || '') + '"' +
+      (times ? ' data-times="' + times + '"' : '') + ' data-kind="' + kind + '">' +
       '<button class="play-btn" ' + (off ? 'disabled' : '') + ' aria-label="Play ' + label + '"></button>' +
       '<div class="player-mid"><div class="player-meta"><b>' + label + '</b><span>' + sub + '</span></div>' +
-      (off ? '<div class="player-note">Audio lands with edition 8 - the reader below reads this page aloud today.</div>' : '<div class="player-track"><div class="player-fill"></div></div>') +
+      (off ? '<div class="player-note">No recording for this edition - print only.</div>' : '<div class="player-track"><div class="player-fill"></div></div>') +
       '</div>' +
       '<div class="player-right">' +
       (off ? '<span class="player-soon">Soon</span>' : '<button class="speed-btn">1&times;</button>') +
       '<span class="player-dur">' + (off ? '--:--' : '0:00') + '</span></div></div>';
   }
+  function fmt(t) { if (!isFinite(t)) return '--:--'; var m = Math.floor(t / 60), s = Math.floor(t % 60); return m + ':' + (s < 10 ? '0' : '') + s; }
+
+  /* sentence highlight synced to the recorded full read */
+  var HL = { items: [], ready: false, pending: false, failed: false };
+  function clearHL() {
+    var on = document.querySelectorAll('.w2.on, .w2.done, .rp.reading-on, .rp.reading-done');
+    for (var i = 0; i < on.length; i++) on[i].classList.remove('on', 'done', 'reading-on', 'reading-done');
+    HL.items = []; HL.ready = false; HL.pending = false; HL.failed = false;
+  }
+  function wrapBlockSentences(el, sentences) {
+    var text = el.textContent, pos = 0, ranges = [];
+    for (var i = 0; i < sentences.length; i++) {
+      var t = sentences[i].t;
+      var idx = text.indexOf(t, pos);
+      if (idx < 0) return null; // text drifted from the script: caller falls back to block-level
+      ranges.push({ a: idx, b: idx + t.length, s: sentences[i].s, e: sentences[i].e });
+      pos = idx + t.length;
+    }
+    var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null);
+    var nodes = [], n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    var items = ranges.map(function (r) { return { s: r.s, e: r.e, spans: [], block: el }; });
+    var off = 0;
+    nodes.forEach(function (node) {
+      var start = off, end = off + node.nodeValue.length;
+      var segs = [], cur = start;
+      ranges.forEach(function (r, ri) {
+        if (r.b <= start || r.a >= end) return;
+        var a = Math.max(r.a, start), b = Math.min(r.b, end);
+        if (a > cur) segs.push({ a: cur, b: a });
+        segs.push({ a: a, b: b, ri: ri });
+        cur = Math.max(cur, b);
+      });
+      if (cur < end) segs.push({ a: cur, b: end });
+      if (!segs.length) { off = end; return; }
+      var frag = document.createDocumentFragment();
+      segs.forEach(function (g) {
+        var piece = node.nodeValue.slice(g.a - start, g.b - start);
+        if (g.ri == null) { frag.appendChild(document.createTextNode(piece)); return; }
+        var sp = document.createElement('span');
+        sp.className = 'w2'; sp.textContent = piece;
+        frag.appendChild(sp);
+        items[g.ri].spans.push(sp);
+      });
+      node.parentNode.replaceChild(frag, node);
+      off = end;
+    });
+    return items;
+  }
+  function loadHighlight(timesUrl, scopeEl) {
+    if (HL.ready || HL.pending || HL.failed) return;
+    HL.pending = true;
+    fetch(timesUrl).then(function (r) { if (!r.ok) throw 0; return r.json(); }).then(function (data) {
+      var els = scopeEl.querySelectorAll('.rp');
+      var items = [];
+      for (var i = 0; i < data.blocks.length && i < els.length; i++) {
+        var bm = data.blocks[i];
+        if (!bm) continue;
+        var got = wrapBlockSentences(els[i], bm.sentences || []);
+        if (got) items = items.concat(got);
+        else if (bm.s != null) items.push({ s: bm.s, e: bm.e, spans: [], block: els[i] });
+      }
+      items.sort(function (x, y) { return x.s - y.s; });
+      HL.items = items; HL.ready = true; HL.pending = false;
+    }).catch(function () { HL.pending = false; HL.failed = true; });
+  }
+  function setSpans(it, cls, on) {
+    it.spans.forEach(function (sp) {
+      if (on) sp.classList.add(cls); else sp.classList.remove(cls);
+    });
+  }
+  function updateHL(t) {
+    if (!HL.ready) return;
+    var cur = null;
+    for (var i = 0; i < HL.items.length; i++) {
+      var it = HL.items[i];
+      if (t >= it.e) {
+        setSpans(it, 'on', false); setSpans(it, 'done', true);
+        it.block.classList.remove('reading-on'); it.block.classList.add('reading-done');
+      } else if (t >= it.s) {
+        cur = it;
+      } else {
+        setSpans(it, 'on', false); setSpans(it, 'done', false);
+        it.block.classList.remove('reading-on', 'reading-done');
+      }
+    }
+    if (cur) {
+      setSpans(cur, 'on', true);
+      cur.block.classList.add('reading-on');
+    }
+  }
+
   function wirePlayers(root) {
     root.querySelectorAll('.player:not(.off)').forEach(function (p) {
       var a = new Audio(p.dataset.src);
       var btn = p.querySelector('.play-btn');
       var fill = p.querySelector('.player-fill');
+      var track = p.querySelector('.player-track');
       var dur = p.querySelector('.player-dur');
       var spd = p.querySelector('.speed-btn');
       var si = 0;
-      function fmt(t) { if (!isFinite(t)) return '--:--'; var m = Math.floor(t / 60), s = Math.floor(t % 60); return m + ':' + (s < 10 ? '0' : '') + s; }
-      a.addEventListener('loadedmetadata', function () { dur.textContent = fmt(a.duration); });
+      a.addEventListener('loadedmetadata', function () { dur.textContent = '0:00 / ' + fmt(a.duration); });
       a.addEventListener('timeupdate', function () {
         if (a.duration) fill.style.width = (a.currentTime / a.duration * 100) + '%';
-        dur.textContent = fmt(a.currentTime);
+        dur.textContent = fmt(a.currentTime) + ' / ' + fmt(a.duration);
+        if (p.dataset.times) updateHL(a.currentTime);
       });
       a.addEventListener('ended', function () { btn.classList.remove('playing'); });
+      if (track) track.addEventListener('click', function (e) {
+        if (!a.duration) return;
+        var r = track.getBoundingClientRect();
+        a.currentTime = Math.min(Math.max((e.clientX - r.left) / r.width, 0), 1) * a.duration;
+      });
       btn.addEventListener('click', function () {
         root.querySelectorAll('.player:not(.off)').forEach(function (o) { if (o !== p && o._a) { o._a.pause(); o.querySelector('.play-btn').classList.remove('playing'); } });
-        if (a.paused) { a.play(); btn.classList.add('playing'); } else { a.pause(); btn.classList.remove('playing'); }
+        if (a.paused) {
+          if (p.dataset.times) loadHighlight(p.dataset.times, root);
+          a.play(); btn.classList.add('playing');
+        } else { a.pause(); btn.classList.remove('playing'); }
       });
       spd.addEventListener('click', function () {
         si = (si + 1) % SPEEDS.length;
@@ -244,10 +348,11 @@
       h += '<figure class="plate"><img src="' + ed.hero.img + '" alt="' + esc(ed.hero.alt || '') + '">' +
         (ed.hero.caption ? '<figcaption>' + esc(ed.hero.caption) + '</figcaption>' : '') + '</figure>';
     }
+    var hasFull = D.audio[String(day)] && D.audio[String(day)].full;
     ed.groups.forEach(function (g, gi) {
       h += '<section class="section" id="g' + gi + '"><div class="section-head">' +
         '<div class="section-title">' + esc(g.heading) + '</div>' +
-        '<button class="listen-btn" data-g="' + gi + '">&#9654; Listen</button></div>';
+        (hasFull ? '' : '<button class="listen-btn" data-g="' + gi + '">&#9654; Listen</button>') + '</div>';
       var plate = plateFor(day, g.heading);
       if (plate) h += '<figure class="plate"><img src="' + plate + '" alt="" loading="lazy"></figure>';
       g.blocks.forEach(function (b) { h += blockHTML(b); });
