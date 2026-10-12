@@ -16,6 +16,10 @@ plain HTML/CSS/JS deployed on Vercel.
 ## Adding a new edition (daily publish)
 1. Append the day's structured edition to `window.PAPER_DATA.editions` in
    `data/editions.js`, add its `meta` entry, bump `PAPER_DATA.today`.
+   Put the day's One Concept a Day (single merged section, includes Did You
+   Know) on the edition record as `concept: {label, name, line}`. The site
+   renders one concept slot on the Today page only; past editions stay as
+   published. Section names are never hardcoded - groups render from data.
 2. Drop the day's images into `photos/`.
 3. When audio exists, set `PAPER_DATA.audio["<day>"] = { full: "audio/<day>-full.mp3", quick: "audio/<day>-quick.mp3" }`
    and commit the mp3s under `audio/`.
