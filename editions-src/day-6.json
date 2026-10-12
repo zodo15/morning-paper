@@ -1,0 +1,517 @@
+{
+  "day": 6,
+  "meta": {
+    "date": "Sunday 11 October 2026",
+    "short": "Sun 11 Oct",
+    "longread": 6
+  },
+  "edition": {
+    "title": "Morning paper, Sunday 11 October 2026",
+    "fact": "Edition 6 of 7. The deep edition: the RBI's rupee defense, Jio's repriced IPO, the week's AI launches and the Groww teardown.",
+    "intro": "The RBI spent Saturday building a shield around the rupee, which closed Friday nine paise from its record low. New reporting reprices the Jio IPO lower but still record-breaking, UPI's merchant fee slips to January, and the AI industry spent the week shipping the plumbing of agent work.",
+    "groups": [
+      {
+        "heading": "Eight things to know",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "The RBI unveiled a Saturday package to defend the rupee: a 20% cash reserve on large forex derivative deals, a ban on rebooking cancelled contracts, a hedge-limit cut from $100 million to $5 million, and a special dollar window for the three state oil refiners from Monday.",
+              "The rupee closed Friday at 96.73 per dollar, nine paise from its all-time closing low, down about 7% this year. Bankers expect a Monday bounce and a collapse in forward premiums; that is their forecast, not an outcome.",
+              "New reporting reprices the Jio Platforms IPO: a roughly ₹30,000 crore all-fresh issue at ₹1,065 to ₹1,119 a share, opening 21 October. Still India's largest IPO ever, but below earlier talk.",
+              "UPI's merchant fee, 0.4% on person-to-merchant payments above ₹2,000, is likely deferred from 15 October to 1 January. The framework itself is unchanged; the Supreme Court refused to stay it on 28 September.",
+              "Indian startup funding fell 72% week on week to $113.35 million across 28 deals. DailyObjects' ₹332 crore Series C led; Marico put ₹1,012 crore more into Plix's parent.",
+              "The GST Council's own document confirms arrest powers are to be withdrawn, the prosecution threshold rises from ₹1 crore to ₹5 crore, and input tax credit is unblocked for health and life insurance, a direct tailwind for group-cover economics.",
+              "Riyadh's airport was attacked for the third time this week, killing 12 and suspending operations. The same conflict is why crude is above $100 and why the RBI had to act on Saturday.",
+              "The week's AI launches were plumbing, not chatbots: Microsoft's Decision-1 router model, Reflection's Beam with open weights promised this month, Claude Code Projects for all paid applicants, and Tencent's Git-based TeamAI."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Inside:</strong> Front page / Policy desk / What's new radar / AI race / Markets / Startup intelligence / Global / Consumption / Sport / Try this today / Case study / Seven-day calendar / Notes."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The RBI spent Saturday building a shield around the rupee",
+            "kicker": "Lead, macro"
+          },
+          {
+            "t": "p",
+            "html": "The <a href=\"https://en.wikipedia.org/wiki/Reserve_Bank_of_India\" target=\"_blank\" rel=\"noopener\">Reserve Bank of India</a> (India's central bank) announced a package of measures in the early hours of Saturday to slow the rupee's slide. The rupee closed Friday at 96.73 per dollar, within nine paise of its all-time closing low of 96.82; the record intraday low is 96.96, hit in May. The currency has lost about 7% this year, among the worst performers in Asia, under pressure from sustained foreign capital outflows and crude above $100 a barrel (Economic Times)."
+          },
+          {
+            "t": "p",
+            "html": "The package has four parts. First, a new Foreign Exchange Risk Reserve, FERR: for rupee derivative contracts above $2 million, banks must park cash worth 20% of the rupee equivalent with the RBI, making large dollar bets expensive to carry. Second, companies can no longer rebook a cancelled forex derivative contract, a common way importers re-enter hedges after the market moves; rollovers at maturity stay allowed. Third, the threshold for hedging without documented underlying exposure fell from $100 million to $5 million, with a matching cut in exchange-traded currency derivatives. Fourth, from Monday the RBI will sell dollars directly to the three state-owned oil marketing companies, Indian Oil, HPCL and BPCL, covering their entire daily dollar needs through designated banks, until further notice (ET, Indian Express)."
+          },
+          {
+            "t": "p",
+            "html": "Why each lever exists: the first three squeeze speculative and hedging demand for dollars in the market, and the fourth removes the oil companies, the biggest single buyers of dollars, from that same market. India imports more than 88% of its crude, and the refiners were reportedly losing over ₹500 crore a day in September as pump prices lagged crude. Their daily dollar buying was itself weakening the rupee. The backdrop: forex reserves fell $12.95 billion to $734.6 billion in the week to 2 October, and retail inflation is forecast at 5.2% for FY27 with the RBI already on a hiking cycle, repo now 5.50% (Indian Express)."
+          },
+          {
+            "t": "p",
+            "html": "The cost, as bankers quoted by ET describe it: the 20% reserve makes hedging heavy on working capital for importers (RBL Bank's Anshul Chandak), forward premiums should collapse, and the spot rupee likely appreciates about 1% on Monday (DBS Bank's Ashhish Vaidya). Some bankers called the measures restrictive and said they could produce an abnormal rupee value. Those are practitioner views, and the sustainability question is theirs too: the window buys time, it does not fix a 7% slide driven by capital flows and oil."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A weaker rupee raises the price of everything India imports, starting with fuel, and it is the channel through which the Gulf war reaches your grocery bill and your insurer's claims costs. The RBI's package tells you how worried the central bank is: it acted on a weekend, three days after raising rates."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/news/economy/finance/rbi-steps-in-to-support-rupee-as-currency-nears-record-low-tightens-forex-rules/articleshow/134851766.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 10 October</a> / <a href=\"https://indianexpress.com/article/business/rbi-special-dollar-window-oil-psus-rupee-crude-prices-reserve-bank-of-india-10915196/\" target=\"_blank\" rel=\"noopener\">Indian Express, 10 October</a>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Rupee close versus record lows\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 220\"><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"200\" y=\"45.33333333333333\">Friday close</text><rect fill=\"#8c1d18\" height=\"48.666666666666664\" width=\"193.20000000000334\" x=\"210\" y=\"14\"></rect><text fill=\"#8c1d18\" font-size=\"17\" x=\"411.20000000000334\" y=\"45.33333333333333\">96.73</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"200\" y=\"103.99999999999999\">Record closing low</text><rect fill=\"#8c1d18\" height=\"48.666666666666664\" width=\"268.79999999999427\" x=\"210\" y=\"72.66666666666666\"></rect><text fill=\"#8c1d18\" font-size=\"17\" x=\"486.79999999999427\" y=\"103.99999999999999\">96.82</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"200\" y=\"162.66666666666666\">Record intraday low (May)</text><rect fill=\"#8c1d18\" height=\"48.666666666666664\" width=\"386.39999999999475\" x=\"210\" y=\"131.33333333333331\"></rect><text fill=\"#8c1d18\" font-size=\"17\" x=\"604.3999999999947\" y=\"162.66666666666666\">96.96</text></g><text fill=\"#777\" font-size=\"14\" x=\"0\" y=\"214\">Rupees per US dollar; higher is weaker. Source: Economic Times, 10 Oct 2026.</text></svg>",
+            "label": "Rupee close versus record lows"
+          },
+          {
+            "t": "story",
+            "title": "New reporting reprices the Jio IPO lower: about ₹30,000 crore, ₹1,065 to ₹1,119 a share",
+            "kicker": "Primary market"
+          },
+          {
+            "t": "p",
+            "html": "Jio Platforms, the telecom and digital arm of Reliance Industries, has finished international roadshows across the Americas, Europe and Southeast Asia, with Akash and Isha Ambani meeting investors personally, and is now running domestic roadshows, the Economic Times reports, citing people familiar with the matter. The plan: an entirely fresh issue of about ₹30,000 crore with no offer-for-sale, at ₹1,065 to ₹1,119 a share (figures attributed to Bloomberg), valuing Jio at up to ₹10.3 lakh crore. Existing investors, Meta's Jaadhu Holdings at 9.98% and Google at 7.73% the largest, are not selling; some want to increase their stakes. The anchor book opens 19 October, the public issue runs 21 to 23 October, and listing is targeted for 28 October."
+          },
+          {
+            "t": "p",
+            "html": "Two credible reports now disagree on size. ET's 6 October report had a band of ₹1,150 to ₹1,220 raising about ₹37,700 crore; the newer reporting puts it at ₹30,000 to ₹30,200 crore. The newer report itself explains the gap: earlier expectations near ₹11 lakh crore in valuation were tempered by the market selloff. Both are pre-prospectus reporting of unnamed sources; the filed document, expected after 12 October, is what settles it. At ₹30,000 crore the issue would still surpass Hyundai Motor India's ₹27,800 crore IPO of October 2024 as India's largest, and make Jio the first top-three company to list. Nineteen banks are on the mandate."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The largest IPO in Indian history sets the tone for every other listing and pulls liquidity from the rest of the market. The repricing also tells you what the eight-week selloff did to big-ticket valuations."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://carbonmedia.in/exclusive-akash-isha-ambani-take-rs-30-000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stakes\" target=\"_blank\" rel=\"noopener\">Economic Times report, 10 October, via CarbonMedia</a> / <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-plans-indias-largest-ipo-at-rs-37700-crore-around-dussehra/articleshow/134720381.cms\" target=\"_blank\" rel=\"noopener\">ET’s earlier report, 6 October</a>"
+          },
+          {
+            "t": "story",
+            "title": "UPI's merchant fee slips to 1 January; the framework itself is unchanged",
+            "kicker": "Payments"
+          },
+          {
+            "t": "p",
+            "html": "The new <a href=\"https://indianexpress.com/article/business/upi-mdr-framework-rollout-deferred-january-2027-festive-season-rbi-10912304/\" target=\"_blank\" rel=\"noopener\">merchant discount rate</a> (the fee merchants pay to accept a payment) framework for <a href=\"https://en.wikipedia.org/wiki/Unified_Payments_Interface\" target=\"_blank\" rel=\"noopener\">UPI</a> (Unified Payments Interface, India's instant bank-to-bank payment rail) is likely to take effect on 1 January 2027 instead of 15 October, people familiar with the matter told Financial Express, giving merchants and the payments ecosystem the festive season to prepare. The framework itself stands: 0.4% on person-to-merchant UPI transactions above ₹2,000, capped at ₹300 for payments of ₹75,000 or more. The Supreme Court refused to stay the Centre's decision on 28 September."
+          },
+          {
+            "t": "p",
+            "html": "Two negotiation threads remain open. Payment aggregators, the firms that process online payments for merchants, are talking to sponsor banks to keep 50% to 80% of the acquiring banks' share of the new fee. And RBI Governor Sanjay Malhotra said Wednesday he does not expect the fee to dent volumes: \"As of now, we do not see any drop in UPI volumes, and I don't personally think that a small fee will have a major impact.\" UPI volumes grew 22.2% in the September quarter, slower than the 24.2% of the previous quarter."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If you work anywhere near payments, insurance collections or e-commerce, this is the fee structure of the rails you settle on. The deferral also signals the government will not risk transaction friction in the middle of the festive season."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://indianexpress.com/article/business/upi-mdr-framework-rollout-deferred-january-2027-festive-season-rbi-10912304/\" target=\"_blank\" rel=\"noopener\">Indian Express, 8 October</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Policy desk",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The GST Council's own document: arrests out, prosecution above ₹5 crore, and input credit for insurance",
+            "kicker": "Policy, primary source"
+          },
+          {
+            "t": "p",
+            "html": "Friday's edition covered the 57th GST Council meeting from a summary. The Council's own release adds the detail. On enforcement: arrest powers under section 69 of the CGST Act are to be withdrawn entirely, the monetary threshold for prosecution rises from ₹1 crore to ₹5 crore, the maximum general penalty falls from ₹25,000 to ₹10,000, and no show-cause notice will be issued below ₹10,000 of tax, including for pending cases. On cash flow: refunds of excess cash balance get fully automated sanction, and zero-rated and inverted-duty refunds get 90% provisional sanction by the system without an officer, with acknowledgement due in 10 days instead of 15."
+          },
+          {
+            "t": "p",
+            "html": "On input tax credit, the credit businesses claim for tax paid on their inputs: the Council recommended unblocking credit on outdoor catering, health and life insurance, telecom towers, pipelines laid outside factory premises, free samples, and goods written off on expiry as required by law. For inverted-duty refunds, credit on input services applies from 1 November 2026; credit on capital goods, spread over 60 months, from 1 April 2027. Small sellers on e-commerce platforms get automatic registration in states where they have no office, using the platform's warehouse as their principal place of business. These are Council recommendations; they become law through amendments to the CGST and IGST Acts and rules."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Two of these land directly on your industry. Unblocked input tax credit on health and life insurance lowers the net cost of group cover for every business buyer, and a trust-based tax administration changes how every corporate client budgets compliance risk."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934&lang=1&reg=48\" target=\"_blank\" rel=\"noopener\">Press Information Bureau, GST Council release, 8 October</a>"
+          },
+          {
+            "t": "story",
+            "title": "India opens an anti-dumping probe into Chinese penicillin-G",
+            "kicker": "Trade, brief"
+          },
+          {
+            "t": "p",
+            "html": "India has initiated an anti-dumping investigation into imports of Penicillin-G and its salts from China, the base ingredient for a large family of antibiotics. Anti-dumping probes examine whether imports are priced below fair value and hurting domestic producers; duties follow only if injury is found. The why: India has spent two years trying to rebuild domestic fermentation capacity for bulk drugs after decades of Chinese price pressure hollowed it out (The Hindu)."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindu.com/business/Industry/india-initiates-anti-dumping-probe-on-pen-g-salts-from-china/article71569088.ece\" target=\"_blank\" rel=\"noopener\">The Hindu, 10 October</a>"
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, since Friday",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Launched or announced in the last 48 hours. PRIMARY means the company's own page; REPORT means a news report. Vendor numbers are labelled as such."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Decision-1 (Microsoft)",
+                "detail": "10 Oct. Small model for classification, evaluation and routing, built on Qwen3.5-9B. On Microsoft Foundry and OpenRouter at $0.042 per million input tokens, output tokens free. 'Most accurate across 36 benchmarks' is Microsoft's claim. REPORT."
+              },
+              {
+                "n": "2",
+                "title": "Beam (Reflection AI)",
+                "detail": "Previewed 5 Oct, reported widely 10 Oct. Coding and tool-use model, 501B parameters with 23B active, open weights under Apache 2.0 promised later this month. REPORT, benchmarks company-run. Details below."
+              },
+              {
+                "n": "3",
+                "title": "Claude Code Projects, open beta (Anthropic)",
+                "detail": "10 Oct. The Projects redesign from 17 September is now open to all Pro and Max applicants: a coordinator conversation fans work out to parallel cloud sessions, each on its own git branch, opening pull requests. REPORT."
+              },
+              {
+                "n": "4",
+                "title": "TeamAI (Tencent Cloud)",
+                "detail": "10 Oct, MIT licence. Stores agent skills, rules and tool configs in Git with merge-request review; works with 16 coding agents including Claude Code and Cursor. Claims of 76% lower model cost are Tencent's internal tests. REPORT."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "AI race, deeper",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Reflection's Beam: the open-weights challenger bets on efficiency, not size",
+            "kicker": "Models"
+          },
+          {
+            "t": "p",
+            "html": "Reflection AI, the startup founded by former DeepMind researchers, previewed Beam on 5 October: a mixture-of-experts model, 501 billion total parameters with 23 billion active per token, built for coding and tool use. On the company's scorecard, Beam posts 80.1 on Terminal-Bench 2.1 against 63.8 for Thinking Machines' Inkling, and 65.5 on SWE-Bench Pro v1 against Inkling's 54.3 and Z.ai GLM-5.2's 62.1; GLM-5.2 still edges Beam on Terminal-Bench at 81.0, and Moonshot's Kimi K3 leads that test at 88.3. All of these are vendor-run numbers on different harnesses, not a controlled comparison. Reflection says Beam matches GLM-5.2's advanced-reasoning scores using three to four times less inference compute, trained on 23.8 trillion tokens plus a four-week reinforcement run on 10,500 Nvidia GB300 GPUs."
+          },
+          {
+            "t": "p",
+            "html": "The strategy under the numbers: Beam is built for organizations that want a Western model they can run and adapt themselves, CEO Misha Laskin told Semafor. Weights under Apache 2.0, a technical report and safety evaluations are promised later this month; the business is selling deployment and customization around the open model. A reasoning-effort dial lets users trade response length against depth. Until the weights ship, the core promise, run it yourself, remains just that."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If your company cannot or will not send data to Chinese models, the open Western options have been thin. Beam, with weights promised under Apache 2.0 within weeks, is the first credible new entry at frontier-adjacent coding scores, and its cost claims target exactly the enterprise workloads you would automate."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://winbuzzer.com/2026/10/10/reflection-previews-beam-promising-more-efficient-ai-coding-xcxwbn/\" target=\"_blank\" rel=\"noopener\">WinBuzzer report, 10 October</a>"
+          },
+          {
+            "t": "story",
+            "title": "The pattern of the week: agents are becoming infrastructure",
+            "kicker": "Analysis"
+          },
+          {
+            "t": "p",
+            "html": "Three of the week's four launches are components, not products you chat with. Microsoft's Decision-1 does one narrow job, classification and routing, at $0.042 per million input tokens with output free: the cheap front-door model that decides which expensive model handles each request. Anthropic's Claude Code Projects turns a goal into parallel cloud sessions, each writing code on its own git branch and opening pull requests back to a coordinator, with shared project memory and a 200-thread daily cap. Tencent's TeamAI puts the agent's skills and tool configs themselves under Git version control, so a team's improvements propagate like code; Tencent claims a 76% model-cost reduction when cheaper models draw on that shared knowledge, its own internal test across 13 tasks. The common thread: the economics and governance of agent fleets, not raw IQ."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Routing models, shared team memory and Git-managed agent skills are the unglamorous layers that decide whether an agent deployment is cheap and governable. If you are scoping agent features for insurance workflows, these three launches are the reference architecture, not the headline models."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://notesfromtheterminal.com/story/2026-10-10-microsoft-decision-1-decision-model/\" target=\"_blank\" rel=\"noopener\">Notes from the Terminal</a> / <a href=\"https://mlllm.io/articles/3482-anthropic-opens-claude-code-projects-beta-to-all-applicants/\" target=\"_blank\" rel=\"noopener\">mlllm.io</a> / <a href=\"https://chinaaiwire.com/news/tencent-cloud-teamai-open-source-agent-collaboration-20261010\" target=\"_blank\" rel=\"noopener\">China AI Wire</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Where things stand",
+            "kicker": "Friday's close, carried into the weekend"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Friday, 9 October",
+                "v": "Nifty 22,520.45, up 1.30%; Sensex 72,472.33, up 879 points. The eight-week losing streak ended. IT led on TCS results."
+              },
+              {
+                "k": "The counter-trend",
+                "v": "Foreign investors still sold for a tenth straight session (₹3,569 crore) and have now sold for eight straight weeks (ET). Domestic institutions kept absorbing."
+              },
+              {
+                "k": "Rupee",
+                "v": "Closed 96.73 per dollar, nine paise from the record closing low. The RBI package above is the weekend response; a roughly 1% Monday bounce is bankers’ expectation, not a fact."
+              },
+              {
+                "k": "Crude",
+                "v": "Brent eased to about $102.9 on Friday but remains above $100, the level that triggered the oil companies’ dollar window."
+              },
+              {
+                "k": "Gold",
+                "v": "22-carat gold ₹13,895 a gram at retail Friday, up ₹105."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Sources: <a href=\"https://tbtflow.com/daily/fii-dii-data-today\" target=\"_blank\" rel=\"noopener\">TBTflow flows data</a>, <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-eight-straight-weeks-is-a-reversal-on-the-cards-or-more-pain-ahead/articleshow/134851502.cms\" target=\"_blank\" rel=\"noopener\">Economic Times on the eight-week FII streak</a>, Friday editions as linked in Notes."
+          },
+          {
+            "t": "story",
+            "title": "The week ahead for markets",
+            "kicker": "What to watch, not what to buy"
+          },
+          {
+            "t": "p",
+            "html": "Monday is the heavyweight: September CPI inflation (a Mint poll of 19 economists expects 5.6%, a 23-month high), HCLTech's results, the Supreme Court hearing on the 30% cancer-drug margin cap, and the first day of the RBI's oil-company dollar window. The Jio prospectus is expected to be filed any day after 12 October. Wednesday brings wholesale inflation plus US and China CPI, the TCS dividend record date and the Fusion CX IPO opening. No view on direction is implied."
+          }
+        ]
+      },
+      {
+        "heading": "Startup intelligence",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The week's funding halved, then halved again: $113 million across 28 deals",
+            "kicker": "Funding, weekly wrap"
+          },
+          {
+            "t": "p",
+            "html": "Indian startups raised $113.35 million across 28 disclosed deals in the week to 10 October, down 72% from $411.46 million and 24 deals the previous week, and below the $231.6 million eight-week average. Three growth-stage deals accounted for $55.3 million; 22 early-stage deals made up $58.05 million. Bengaluru led with 10 deals, Delhi-NCR had six and Mumbai three. E-commerce led sectors with eight deals, AI had five and healthtech four; seed rounds were the most common stage with 13."
+          },
+          {
+            "t": "p",
+            "html": "The growth-stage three: <a href=\"https://timesofindia.indiatimes.com/technology/tech-news/dailyobjects-raises-rs-332-crore-in-series-c-round-led-by-xponentia-anicut-and-axiom-asia/articleshow/134853765.cms\" target=\"_blank\" rel=\"noopener\">DailyObjects</a> (lifestyle-tech accessories brand) raised ₹332 crore, about $35 million, in a Series C led by Xponentia Capital Partners, Anicut Capital and Axiom Asia (corroborated by the Times of India). Smart-kitchen startup Beyond Appliances raised ₹110 crore in a Series B led by Fireside Ventures. And MSME lender NeoGrowth took ₹85 crore in equity and debt from FMO, the Dutch development bank, and LeapFrog Investments."
+          },
+          {
+            "t": "p",
+            "html": "Early stage: <a href=\"https://www.thehindubusinessline.com/companies/nat-habit-raises-142-crore-in-a-series-c-funding-round-led-by-trident-growth-partners/article71567824.ece\" target=\"_blank\" rel=\"noopener\">Nat Habit</a> (direct-to-consumer ayurvedic beauty brand) raised ₹142 crore in a Series C led by Trident Growth Partners (Hindu BusinessLine). Photon-based quantum computing startup Quanfluence's $10 million and voice-AI startup Desible.ai's ₹32 crore were covered in Friday's edition. Edtech byteXL raised $9 million from Elevar Equity; medtech Sunfox Technologies raised $7 million co-led by Ashish Kacholia, Lashit Sanghvi, Alchemy Capital and 3one4 Capital; quantum startup QpiAI took ₹50 crore in venture debt from InnoVen Capital."
+          },
+          {
+            "t": "p",
+            "html": "Beyond cheques: FMCG major <a href=\"https://en.wikipedia.org/wiki/Marico\" target=\"_blank\" rel=\"noopener\">Marico</a> (listed consumer goods company, Parachute and Saffola) bought a further 24.09% of Satiya Nutraceuticals, parent of plant-based wellness brand Plix, for ₹1,012 crore. <a href=\"https://en.wikipedia.org/wiki/Sarvam_AI\" target=\"_blank\" rel=\"noopener\">Sarvam AI</a> (Bengaluru startup building Indian-language AI models) hired former Google Cloud India managing director Sashikumar Sreedharan as president and chief business officer. And in listed-broker data, <a href=\"https://files.instinct.com/gmztqdyil4zu-growws-money-machine-listed\" target=\"_blank\" rel=\"noopener\">Groww</a> (India's largest investment platform by active clients) added over 1 lakh active clients in September while the industry added 1.6 lakh, taking the total to 4.61 crore; newcomer Sahi grew fastest among the top 20, up 11% month on month (NSE data via the same weekly report)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> One slow week after a $411 million week is normalisation, not a trend; the eight-week average is $231.6 million. What is worth watching is the mix: consumer brands raised the big cheques in festive season while enterprise and deeptech took debt and small rounds."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://startupspotlightindia.com/indian-startups-raise-113-35-million-across-28-deals-05-oct-10-oct-2026/\" target=\"_blank\" rel=\"noopener\">Startup Spotlight India weekly report, 10 October</a>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Indian startup weekly funding\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 230\"><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"47\">Previous week</text><rect fill=\"#1f6feb\" height=\"52\" width=\"374.0545454545454\" x=\"170\" y=\"14\"></rect><text fill=\"#444\" font-size=\"17\" x=\"552.0545454545454\" y=\"47\">$411.46M, 24 deals</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"109\">8-week average</text><rect fill=\"#1f6feb\" height=\"52\" width=\"210.54545454545456\" x=\"170\" y=\"76\"></rect><text fill=\"#444\" font-size=\"17\" x=\"388.54545454545456\" y=\"109\">$231.60M, 22 deals</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"171\">This week</text><rect fill=\"#8c1d18\" height=\"52\" width=\"103.04545454545456\" x=\"170\" y=\"138\"></rect><text fill=\"#444\" font-size=\"17\" x=\"281.04545454545456\" y=\"171\">$113.35M, 28 deals</text></g><text fill=\"#777\" font-size=\"14\" x=\"0\" y=\"224\">Disclosed startup funding, weeks ended 3 and 10 Oct 2026. Source: Startup Spotlight India.</text></svg>",
+            "label": "Indian startup weekly funding"
+          },
+          {
+            "t": "story",
+            "title": "Opportunities",
+            "kicker": "Where the gap might be"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "Forex-hedging operations for mid-size importers. The RBI just made large hedges 20% more cash-hungry and banned rebooking. Importers with lazy treasury processes will mis-hedge or over-pay; tooling and advisory that re-plans hedge ladders under the new rules has a forcing event behind it.",
+              "Festive consumer brands are getting funded at Series C (DailyObjects, Nat Habit). The picks-and-shovels version: retention analytics for the festive cohort, the customers acquired at deep discount in October who churn by January.",
+              "Refund-readiness tooling, carried from yesterday: the GST Council's own document now confirms automated 90% provisional refunds after system risk checks. Businesses with messy filings fail those checks; the clean-up service now has a dated, primary-source mandate."
+            ]
+          },
+          {
+            "t": "story",
+            "title": "A hedge-cost calculator for the FERR era",
+            "kicker": "One idea, a hypothesis to test, not a validated market"
+          },
+          {
+            "t": "p",
+            "html": "The 20% Foreign Exchange Risk Reserve changed the arithmetic of hedging for every importer running derivative books above $2 million. The idea: a simple calculator that takes a company's open exposures and shows the working-capital cost of hedging each tranche under the new reserve rules versus staying unhedged at a range of rupee levels. The test: ask five import-heavy CFOs or their treasury consultants how they re-ran their hedge books this weekend. If they used spreadsheets and guesses, there is a product. If their banks handed them the analysis free, there is none."
+          }
+        ]
+      },
+      {
+        "heading": "Global",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Riyadh's airport attacked a third time in a week; 12 dead, operations suspended",
+            "kicker": "Middle East"
+          },
+          {
+            "t": "p",
+            "html": "At least 12 people were killed and more than 300 wounded in the third attack this week on King Khalid International Airport in Riyadh. The <a href=\"https://en.wikipedia.org/wiki/Houthis\" target=\"_blank\" rel=\"noopener\">Houthis</a> (Iran-backed armed movement controlling much of Yemen) claimed responsibility, a major escalation of their campaign against Saudi Arabia, and airport operations are suspended with at least 225 flights cancelled over 24 hours. The strikes follow a Saudi-led coalition offensive against Houthi positions in Yemen; earlier attacks on Wednesday and Thursday killed a Sudanese national and three Saudis, including a pilot. President Trump, asked on Friday, said \"It's not good\" and \"I'm not happy\"; there has been no sign of US military support in response. Saudi authorities have warned the public that filming or sharing strike footage carries legal liability (ABC News)."
+          },
+          {
+            "t": "p",
+            "html": "Elsewhere in the conflict map: Israeli strikes killed at least five Palestinians in Gaza on Saturday, with Israel saying Hamas is rearming in violation of the year-old ceasefire, which Hamas denies. Palestinian president Mahmoud Abbas postponed legislative elections, due next month, to 11 September 2027; Palestinians have not held national elections since 2006. And in Ukraine, Russian strikes killed 21 as Presidents Trump and Zelensky clashed publicly over a diesel supply deal (ABC, Al Jazeera, AFP via Inquirer)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is not distant news. The same escalation is why Brent is above $100, why the rupee is at record lows, and why the RBI opened an emergency dollar window on Saturday. One conflict connects this section to the front page."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.abc.net.au/news/2026-10-11/saudi-airport-attacked-twelve-dead/107252320\" target=\"_blank\" rel=\"noopener\">ABC News, 11 October</a> / <a href=\"https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis\" target=\"_blank\" rel=\"noopener\">Al Jazeera live coverage</a>"
+          },
+          {
+            "t": "figure",
+            "alt": "A large oil tanker at sea under a grey sky",
+            "caption": "Brent crude stayed above $100 a barrel this week, the immediate pressure on the rupee and the reason for the RBI's oil-dollar window. File photo: ImagePerson (Wikimedia Commons, CC BY 4.0).",
+            "img": "photos/d4-g3.jpg"
+          }
+        ]
+      },
+      {
+        "heading": "Consumption",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The festive sales opened with records on both big platforms",
+            "kicker": "E-commerce"
+          },
+          {
+            "t": "p",
+            "html": "Amazon India and Flipkart both opened their flagship festive sales this week, Amazon's Great Indian Festival and Flipkart's Big Billion Days, and both report record starts. Amazon says it crossed 440 million visits in the opening phase, its highest ever, with products ordered up 100% year on year, app downloads up fivefold, 72% of visits from outside the top nine metros, and orders from every pin code in the country. Flipkart says it peaked at 6.3 million concurrent users per minute, six times a regular hour, with 287 million sessions during early access and about 60% of traction from non-metro markets; new customers grew 34%. All figures are company-reported, the platforms mark their own homework. Category standouts, also company-reported: premium Android phones up 70% year on year on Amazon, large appliances up to 80 times regular days, and men's perfume selling at 1,600 units a minute at Flipkart's peak."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Festive-season sale numbers are the first hard read on consumer demand after the rate hike, landing 48 hours before Monday's inflation print. Strong demand plus high inflation is the combination that keeps rates higher for longer."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://yourstory.com/2026/10/amazon-flipkart-see-strong-start-to-2026-festive-sales\" target=\"_blank\" rel=\"noopener\">YourStory, 10 October</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Sport",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "West Indies chase 250 to level the T20 series",
+            "kicker": "Cricket"
+          },
+          {
+            "t": "p",
+            "html": "West Indies pulled off their highest successful T20I chase, 252 for 4 against India's 249 for 5, in the second T20 international on Friday night. Captain Shai Hope made 102 not out and Sherfane Rutherford 84. India had won the first match in Lucknow behind Shreyas Iyer's maiden T20I century, so the series is level 1-1. The why, beyond the result: chasing 250 requires a scoring rate India rarely concedes at home, and it came against a full-strength attack in a World Cup cycle year."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-2nd-t20i-1529231/match-report\" target=\"_blank\" rel=\"noopener\">ESPNcricinfo match report</a> / <a href=\"https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-1st-t20i-1529230/match-report\" target=\"_blank\" rel=\"noopener\">First T20I report</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Try this today",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "NotebookLM on the rupee defense",
+            "kicker": "Sunday wild card: turn the lead story into a 10-minute audio briefing"
+          },
+          {
+            "t": "p",
+            "html": "Today's tool: <a href=\"https://notebooklm.google.com/\" target=\"_blank\" rel=\"noopener\">NotebookLM</a> (Google's AI research assistant that answers only from sources you give it). The use: convert the RBI story into a listenable briefing for your Monday commute, grounded in the actual reporting rather than a model's memory. Time: about 15 minutes, of which five is the tool generating audio while you do something else."
+          },
+          {
+            "t": "callout",
+            "html": "The exact steps1. Open notebooklm.google.com and create a notebook named \"Rupee defense\". 2. Add two sources via \"Add source, website\": the Economic Times and Indian Express articles linked in the lead item above. Add the GST Council's PIB release too if you want the policy angle. 3. Click \"Audio Overview\" and let it generate, about five minutes. 4. Listen once through. 5. Quality check: the hosts should cite the same figures this paper does (96.73 close, 20% reserve, $2 million threshold, window opens 12 October). If the audio states a number that differs from the article text, trust the article; generated audio paraphrases and occasionally drifts."
+          },
+          {
+            "t": "p",
+            "html": "What a good result looks like: an 8 to 12 minute two-host conversation you would forward to a colleague, one that explains why the oil companies' dollar window matters more than the headline reserve requirement. If it stays at headline level, regenerate with a prompt in the customize box: \"Focus on the mechanism of each measure and who pays the cost.\""
+          }
+        ]
+      },
+      {
+        "heading": "Startup case study",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "One business teardown per edition, and today it pairs with yesterday's. After Zerodha, the private incumbent, today's long read is Groww: the listed challenger. How a platform that acquires 83% of users organically turned 21.6 million transacting users into a ₹2,083 crore annual profit, why 55% of its revenue still rides on the derivatives the regulator is shrinking, and what its first year as a listed company reveals. Read it here: <a href=\"https://files.instinct.com/gmztqdyil4zu-growws-money-machine-listed\" target=\"_blank\" rel=\"noopener\">Groww's money machine, listed</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Seven-day calendar, 11 to 18 October",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "12",
+                "title": "Mon: September CPI; HCLTech Q2; cancer-drug cap hearing; RBI window opens",
+                "detail": "Inflation expected at 5.6%, a 23-month high (Mint poll of 19 economists, via DayStarter). HCLTech reports Q2 and considers a third interim dividend (Financial Express). The Supreme Court hears the 30% trade-margin cap on cancer medicines. The RBI's dollar window for oil companies takes effect. Watch for the Jio prospectus filing any day after 12 October."
+              },
+              {
+                "n": "13",
+                "title": "Tue: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "14",
+                "title": "Wed: WPI inflation; US and China CPI; Fusion CX IPO opens",
+                "detail": "India's wholesale inflation, plus US consumer inflation (previous 3.4%) and China's (previous 0.8%), via DayStarter's calendar. TCS dividend record date. Fusion CX, a customer-experience company, opens a ₹702 crore IPO at ₹275-289 a share, closing 16 October (Economic Times)."
+              },
+              {
+                "n": "15",
+                "title": "Thu: Wipro and Persistent Systems Q2",
+                "detail": "Wipro after market hours; Persistent's board meets the same day (Financial Express). The UPI merchant fee was due to take effect today before its likely deferral to 1 January."
+              },
+              {
+                "n": "16",
+                "title": "Fri: Tech Mahindra Q2; Fusion CX closes",
+                "detail": "Tech Mahindra's board also considers an interim dividend and possibly bonus shares (Financial Express)."
+              },
+              {
+                "n": "17",
+                "title": "Sat: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "18",
+                "title": "Sun: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Just beyond the window: Jio's anchor book is expected 19 October and the public issue 21 to 23 October (pre-prospectus reporting); the SAT order on Jane Street's appeal lands 21 October; Infosys reports 23 October (Financial Express)."
+          }
+        ]
+      },
+      {
+        "heading": "Notes",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Dropped item: a widely circulated report this weekend framed OpenAI's GPT-5.6 and an enterprise agent product as newly launched. OpenAI's own page dates GPT-5.6's general availability to 9 July, and the report's launch claims do not match any primary announcement, so it does not appear in today's radar.",
+              "Jio IPO terms are pre-prospectus reporting. Two credible reports disagree on the size and band (₹37,700 crore at ₹1,150-1,220 versus about ₹30,000 crore at ₹1,065-1,119); both versions are labelled where they appear.",
+              "Banker expectations for Monday's rupee open are quoted views, not outcomes. Festive-sale figures are company-reported. Benchmark scores for Beam and Decision-1 are vendor-run.",
+              "X public profiles still load in a logged-out browser (latest posts only, no search). Today's radar is built from official pages and reports read in full.",
+              "Nothing here is investment advice. Watch items are reported facts, not calls on direction."
+            ]
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "The Reserve Bank of India tower in Mumbai",
+      "caption": "The Reserve Bank of India tower, Mumbai. The central bank announced its rupee measures in the early hours of Saturday. Photo: KuwarOnline (Wikimedia Commons, CC BY-SA 3.0).",
+      "img": "photos/d6-hero.jpg"
+    }
+  },
+  "audio": null,
+  "times": null
+}
