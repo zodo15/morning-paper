@@ -1,0 +1,591 @@
+{
+  "day": 5,
+  "meta": {
+    "date": "Saturday 10 October 2026",
+    "short": "Sat 10 Oct",
+    "longread": 5
+  },
+  "edition": {
+    "title": "Morning paper, Saturday 10 October 2026",
+    "fact": "Edition 5 of 7. Markets, an AI agent wave, startup funding and the money hack.",
+    "intro": "The Nifty snapped its eight-week losing streak with a 1.30% rally led by IT after TCS's results, foreign investors kept selling but gently, Jio Platforms' record IPO took shape, and Google gave its work agent an email address of its own.",
+    "groups": [
+      {
+        "heading": "Eight things to know",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "The Nifty rose 1.30% to 22,520.45 on Friday and the Sensex 879 points to 72,472.33, ending an eight-week losing streak. IT led, up more than 3%, on TCS's results.",
+              "TCS's annualised AI revenue reached $3.1 billion, over 10% of total revenue, up from $2.6 billion a quarter earlier. Profit rose 14.9% to ₹13,884 crore.",
+              "Foreign investors sold for a tenth straight session, but only ₹3,569 crore against Thursday's ₹12,944 crore. Domestic institutions bought ₹4,743 crore.",
+              "September inflation lands Monday. Economists expect 5.6%, a 23-month high, in the first reading after the RBI's rate hike.",
+              "Jio Platforms is lining up India's largest IPO at about ₹37,700 crore, with the public issue expected to open around 21 October (Economic Times).",
+              "Google announced Gemini Agent, a general work agent that gets its own email address, audit trail and spending limits. Limited preview for now.",
+              "Odyssey launched Odyssey-3, a world model claiming the top score on a physics benchmark, with a free browser preview. Numbers are vendor-reported, labelled inside.",
+              "Saturday money hack inside: the SBI chairman says deposit rates will not rise for up to three months. What that window means for your FD renewals."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Inside:</strong> Front page / What's new radar / AI race / Markets, with two charts / Finance goldmine / Startup intelligence / Vibe coding / Money hack / Case study / Seven-day calendar / Notes."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The Nifty snapped its eight-week losing streak with a 1.30% relief rally",
+            "kicker": "Money"
+          },
+          {
+            "t": "p",
+            "html": "The Nifty 50 rose 288.65 points, or 1.30%, to close at 22,520.45 on Friday, and the Sensex rose 879.09 points, or 1.23%, to 72,472.33 (The Hindu BusinessLine). For the week the Nifty gained about 100 points, avoiding a ninth straight weekly loss; over the eight-week slide it had lost 8.7% (Economic Times). Every sector index rose, market breadth was 47 advances to 3 declines, and India VIX, the volatility index, fell 5.37% to 14.46."
+          },
+          {
+            "t": "p",
+            "html": "The rally was a mix of oversold buying and short covering after TCS's results, with FMCG and auto joining IT (ET, quoting Geojit and PL Capital). Sentiment also got help from crude cooling: Brent fell 1.32% to $102.9 a barrel, and ET's sources link that to indications that US military action against Iran is unlikely before the midterm elections. The rupee firmed. The same report carries the caution: <a href=\"https://nseindia.com/reports/fii-dii\" target=\"_blank\" rel=\"noopener\">foreign portfolio investors</a> (overseas funds investing in Indian markets) kept selling, US 10-year yields stayed above 5%, and Geojit's Vinod Nair calls this a relief rally that needs confirmation from earnings and inflation data."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> After Thursday's 18-month-low close, this is a breather, not an all-clear. Monday's inflation print decides whether the recovery gets a second leg, and the same forces (oil, US yields, foreign selling) are still in place."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9th-october-2026/article71560336.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine</a> / <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/friday-heavy-lifting-saves-nifty-from-record-nine-weeks-of-losses-can-bulls-take-charge-now/articleshow/134830751.cms\" target=\"_blank\" rel=\"noopener\">Economic Times</a>"
+          },
+          {
+            "t": "story",
+            "title": "TCS's $3.1 billion AI business carried the IT rally",
+            "kicker": "Earnings"
+          },
+          {
+            "t": "p",
+            "html": "TCS's September-quarter numbers, filed on 8 October: revenue ₹73,188 crore, up 11.2%, profit ₹13,884 crore, up 14.9%, operating margin steady at 24.0%, and deal wins of $9.6 billion. The line the market traded on Friday was annualised AI revenue of $3.1 billion, over 10% of total revenue, up from $2.6 billion in the June quarter. Note the unit: annualised run rate, not revenue earned in the quarter. The stock rose as much as 4.19% intraday on Friday and Nifty IT closed up more than 3%."
+          },
+          {
+            "t": "p",
+            "html": "The sober details, from the same filing: dollar revenue of $7.64 billion was TCS's slowest second-quarter growth in three years, brokers trimmed margin estimates after the call, and CFO Samir Seksaria said the MHP acquisition (€320 million) will shave about 50 basis points off margins in the second half. A subsidiary agreed to acquire MHP Management- und IT-Beratung, Porsche's consulting and IT arm, and the Best Buy deal moves that retailer's India tech centre into a TCS AI Capability Centre."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the clearest revenue proof yet that AI services sell at scale, and it arrives right before HCLTech, Wipro and Tech Mahindra report next week. Read those against this bar."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter, reading the TCS filing</a> / <a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9th-october-2026/article71560336.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine</a>"
+          },
+          {
+            "t": "story",
+            "title": "Foreign investors sold a tenth straight session, but gently",
+            "kicker": "Flows"
+          },
+          {
+            "t": "p",
+            "html": "Foreign portfolio investors net sold ₹3,569 crore on Friday while domestic institutions net bought ₹4,743 crore (TBTflow). That is a tenth consecutive session of foreign selling, but far below Thursday's ₹12,944 crore, the biggest single-day sale since 29 May. Foreign investors have now net sold ₹57,979 crore across September and October to 8 October."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The streak is the story, not the day. Domestic buyers absorbed another session, which is why the index could rise while foreigners sold."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://tbtflow.com/daily/fii-dii-data-today\" target=\"_blank\" rel=\"noopener\">TBTflow, 9 October</a> / <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter, series to 8 October</a>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"FII and DII daily net flows, 24 September to 9 October 2026\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 760 300\"><line stroke=\"#555\" stroke-width=\"1\" x1=\"10\" x2=\"750\" y1=\"130.96296296296296\" y2=\"130.96296296296296\"></line><g><rect fill=\"#c0392b\" height=\"13.76629629629629\" width=\"20.18181818181818\" x=\"21.454545454545453\" y=\"117.19666666666667\"></rect><rect fill=\"#1f7a4d\" height=\"34.726592592592596\" width=\"20.18181818181818\" x=\"45.63636363636363\" y=\"96.23637037037037\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"43.63636363636363\" y=\"262\">24</text></g><g><rect fill=\"#c0392b\" height=\"37.286074074074065\" width=\"20.18181818181818\" x=\"88.72727272727272\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"22.91422222222222\" width=\"20.18181818181818\" x=\"112.9090909090909\" y=\"108.04874074074074\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"110.9090909090909\" y=\"262\">25</text></g><g><rect fill=\"#c0392b\" height=\"28.856740740740747\" width=\"20.18181818181818\" x=\"155.99999999999997\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"41.89637037037038\" width=\"20.18181818181818\" x=\"180.18181818181816\" y=\"89.06659259259258\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"178.18181818181816\" y=\"262\">28</text></g><g><rect fill=\"#c0392b\" height=\"44.71422222222225\" width=\"20.18181818181818\" x=\"223.27272727272725\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"56.13903703703704\" width=\"20.18181818181818\" x=\"247.45454545454544\" y=\"74.82392592592592\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"245.45454545454544\" y=\"262\">29</text></g><g><rect fill=\"#c0392b\" height=\"86.73977777777779\" width=\"20.18181818181818\" x=\"290.5454545454545\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"91.01096296296296\" width=\"20.18181818181818\" x=\"314.7272727272727\" y=\"39.952\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"312.7272727272727\" y=\"262\">30</text></g><g><rect fill=\"#c0392b\" height=\"77.26888888888891\" width=\"20.18181818181818\" x=\"357.81818181818176\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"81.07985185185186\" width=\"20.18181818181818\" x=\"381.99999999999994\" y=\"49.88311111111111\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"379.99999999999994\" y=\"262\">1</text></g><g><rect fill=\"#c0392b\" height=\"77.79370370370373\" width=\"20.18181818181818\" x=\"425.09090909090907\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"41.83985185185185\" width=\"20.18181818181818\" x=\"449.27272727272725\" y=\"89.12311111111111\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"447.27272727272725\" y=\"262\">5</text></g><g><rect fill=\"#c0392b\" height=\"34.56511111111112\" width=\"20.18181818181818\" x=\"492.3636363636363\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"41.08896296296297\" width=\"20.18181818181818\" x=\"516.5454545454545\" y=\"89.874\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"514.5454545454545\" y=\"262\">6</text></g><g><rect fill=\"#c0392b\" height=\"20.104444444444454\" width=\"20.18181818181818\" x=\"559.6363636363636\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"37.11651851851852\" width=\"20.18181818181818\" x=\"583.8181818181818\" y=\"93.84644444444444\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"581.8181818181818\" y=\"262\">7</text></g><g><rect fill=\"#c0392b\" height=\"104.51081481481481\" width=\"20.18181818181818\" x=\"626.9090909090909\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"86.41681481481481\" width=\"20.18181818181818\" x=\"651.090909090909\" y=\"44.54614814814815\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"649.090909090909\" y=\"262\">8</text></g><g><rect fill=\"#c0392b\" height=\"28.81637037037038\" width=\"20.18181818181818\" x=\"694.1818181818181\" y=\"130.96296296296296\"></rect><rect fill=\"#1f7a4d\" height=\"38.29533333333333\" width=\"20.18181818181818\" x=\"718.3636363636363\" y=\"92.66762962962963\"></rect><text fill=\"#444\" font-size=\"16\" text-anchor=\"middle\" x=\"716.3636363636363\" y=\"262\">9</text></g><text fill=\"#c0392b\" font-size=\"15\" text-anchor=\"middle\" x=\"581.8181818181818\" y=\"229.47377777777777\">-12,944</text><text fill=\"#c0392b\" font-size=\"15\" text-anchor=\"middle\" x=\"716.3636363636363\" y=\"175.77933333333334\">-3,569</text><text fill=\"#777\" font-size=\"15\" x=\"10\" y=\"14\">Sessions: Sep 24, 25, 28, 29, 30; Oct 1, 5, 6, 7, 8, 9 (2026)</text><rect fill=\"#c0392b\" height=\"14\" width=\"14\" x=\"440\" y=\"4\"></rect><text fill=\"#444\" font-size=\"16\" x=\"460\" y=\"16\">FII net</text><rect fill=\"#1f7a4d\" height=\"14\" width=\"14\" x=\"540\" y=\"4\"></rect><text fill=\"#444\" font-size=\"16\" x=\"560\" y=\"16\">DII net</text><text fill=\"#777\" font-size=\"15\" x=\"0\" y=\"292\">Unit: ₹ crore per session. Source: NSDL/NSE provisional via Zerodha AMR (to 8 Oct); TBTflow (9 Oct).</text></svg>",
+            "label": "FII and DII daily net flows, 24 September to 9 October 2026"
+          },
+          {
+            "t": "story",
+            "title": "Jio Platforms is lining up India's largest IPO at about ₹37,700 crore",
+            "kicker": "Primary market"
+          },
+          {
+            "t": "p",
+            "html": "Jio Platforms is expected to file its red herring prospectus, the detailed offer document, after 12 October, with the anchor book opening 19 October, the public issue 21 to 23 October, allotment 26 October and listing targeted for 28 October, the Economic Times reports, citing people familiar with the plans. The expected price band is ₹1,150 to ₹1,220 a share, raising about $4 billion (₹37,700 crore), mostly to prepay borrowings. Akash Ambani said publicly this week that Jio wants its IPO to be India's largest. All dates and the band are ET's reporting of unnamed sources, not a filed document; treat them as the company's tentative calendar."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> An issue this size pulls money from everywhere else in the market. The dates also tell you when brokerages, and the indices, start repositioning."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-plans-indias-largest-ipo-at-rs-37700-crore-around-dussehra/articleshow/134720381.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 6 October</a>"
+          },
+          {
+            "t": "story",
+            "title": "Google's Gemini Agent, a day on: the coworker design in detail",
+            "kicker": "AI, agents"
+          },
+          {
+            "t": "p",
+            "html": "Yesterday's edition covered the announcement. GIGAZINE's report, published 9 October from the Gemini at Work event on 8 October, fills in the design: Gemini Agent is a general-purpose work agent integrated into Gemini Enterprise. Give it a goal and it plans the steps, then works across Gmail, Drive, Docs, Sheets and Calendar, plus Microsoft 365, Slack and Salesforce. It can research a market, build the spreadsheet and compile the deck as one job, and it keeps working in the cloud after you close your laptop (GIGAZINE's report of the event)."
+          },
+          {
+            "t": "p",
+            "html": "The governance design is the interesting half. \"Coworker agents\" get their own email address, calendar and Drive, so employees can assign them work through chat or document comments. Every agent gets a cryptographic identity in an Agent Registry, actions are logged, an Agent Gateway applies internal security rules to external calls, and project-level spending caps pause the agent when hit. Users can pick models per task, including Google's Gemini 4 Argon or Anthropic's Claude Opus 5.5. Industry versions for financial services and legal work are in preview. General availability has no date."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the template for agents inside regulated workplaces, including insurance operations: a named identity, an audit trail, spending limits and a gateway for external calls. Whoever builds agent features will be compared with this permission model."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://gigazine.net/gsc_news/en/20261009-gemini-agent/\" target=\"_blank\" rel=\"noopener\">GIGAZINE, 9 October</a> / <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/\" target=\"_blank\" rel=\"noopener\">Google Cloud blog</a>"
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, last 48 hours",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Launched or announced since Thursday. PRIMARY means the company's own page. REPORT means a news report. COMPANY BLOG means a company post. Vendor-reported numbers are labelled as such."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Gemini Agent (Google)",
+                "detail": "Announced 8 Oct, limited preview. Work agent with identity, audit log and spend caps. PRIMARY plus REPORT. Covered above."
+              },
+              {
+                "n": "2",
+                "title": "Odyssey-3 (world model)",
+                "detail": "8 Oct. Claims the top Physics-IQ Verified score, 66.1 video-to-video (benchmark of real physics experiments, by Anates Labs and DeepMind). Free browser preview; no open weights or pricing. PRIMARY plus REPORT. Details below."
+              },
+              {
+                "n": "3",
+                "title": "Mellum2.1 (JetBrains)",
+                "detail": "8 Oct. Open coding model, Apache 2.0, trained with reinforcement learning for agent work. On Hugging Face. PRIMARY. In Vibe coding below."
+              },
+              {
+                "n": "4",
+                "title": "Terra (Exia Labs)",
+                "detail": "9 Oct, preview at a16z's Speedrun. Geospatial AI agent: site selection, weather impact, maps from natural language. COMPANY BLOG."
+              },
+              {
+                "n": "5",
+                "title": "Autoloop (Kore.ai)",
+                "detail": "9 Oct. Optimization engine that keeps AI agents performing in production. REPORT, CXOToday."
+              },
+              {
+                "n": "6",
+                "title": "Ling-3.1-Flash (Ant Group's Antling)",
+                "detail": "8 Oct. Available on OpenRouter, free until 13 October. REPORT, Coincamps."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "AI race, deeper",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Odyssey-3: a world model you can walk around in, with a physics score to defend",
+            "kicker": "Models"
+          },
+          {
+            "t": "p",
+            "html": "Odyssey-3, released 8 October, is an autoregressive diffusion transformer that generates an environment from a prompt and predicts in real time how it changes as you act in it. Odyssey says the Pro version scores 66.1 on Physics-IQ Verified's video-to-video benchmark, the highest reported, and 54.7 image-to-video; Physics-IQ tests whether models can continue videos of real physics experiments. The company also claims first place in 3 of 4 WorldMark categories, which is its own evaluation, so treat that one as self-reported. The free research preview runs a faster Flash variant in the browser, with first and third-person navigation; API access is by request, with no open weights or public pricing. For robotics, Odyssey says an action decoder trained on tens of hours of demos can control robot arms, including recovery behaviours absent from training data."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> World models are the next claimed route to robotics and agents that understand physical space. A free browser preview means you can test the claim yourself this weekend."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://odyssey.systems/meet-odyssey-3\" target=\"_blank\" rel=\"noopener\">Odyssey announcement</a> / <a href=\"https://aicoder.com/news/news-20261009-odyssey-3-world-model-physics-iq-sota\" target=\"_blank\" rel=\"noopener\">AICoder report</a>"
+          },
+          {
+            "t": "story",
+            "title": "The AI buildout is showing up in chip profits",
+            "kicker": "Business"
+          },
+          {
+            "t": "p",
+            "html": "Samsung projected third-quarter operating profit of 107.4 trillion won, about $80.2 billion, almost nine times the year-earlier level, on demand for AI memory chips; that would be a record quarterly profit for a technology company. TSMC reported record third-quarter revenue of NT$1.49 trillion, about $46.7 billion, up 50% year on year, also on AI chip demand."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> When the money reaches memory chips and foundries at this scale, the AI spending cycle is real revenue, not only valuations. It also tells you where the bottlenecks, and prices, go next."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter, from company reports</a>"
+          },
+          {
+            "t": "story",
+            "title": "Enterprise AI spending between Anthropic and OpenAI is now roughly even",
+            "kicker": "Companies"
+          },
+          {
+            "t": "p",
+            "html": "Across roughly 120,000 companies using Anthropic and OpenAI tools, spending was about evenly split between the two in September, against about 75% for Anthropic at the start of the year. The same report says Anthropic is working towards an IPO as soon as November. Both are as reported; the spending split is tracked data, not company disclosure."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> At the start of the year Anthropic held about three-quarters of this spending. Parity in nine months tells you how fast enterprise budgets are being re-decided, and both vendors now court the same regulated buyers you sell to."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter, citing tracked company data</a>"
+          },
+          {
+            "t": "story",
+            "title": "India's minister asks for an AI safety consultation paper",
+            "kicker": "Policy"
+          },
+          {
+            "t": "p",
+            "html": "Union minister Ashwini Vaishnaw said: \"The time has come for AI regulations. I'll request the department to come out with a regulation-focused consultation paper, which focuses on safety. That's the most important point: safety related to AI use.\" A request for a paper, not a draft law."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A consultation paper is the first step of Indian AI regulation. If your products touch customer data or advice, the definitions in that paper will matter."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter, quote</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "figure",
+            "alt": "A large oil tanker at sea under a grey sky",
+            "caption": "Crude cooled 1.32% to $102.9 a barrel on Friday, which helped the rally. An oil tanker in the North Sea, file photo. Photo: ImagePerson (Wikimedia Commons, CC BY 4.0).",
+            "img": "photos/d4-g3.jpg"
+          },
+          {
+            "t": "story",
+            "title": "The session in numbers",
+            "kicker": "India, Friday 9 October, closing"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Nifty 50",
+                "v": "22,520.45, up 288.65 points (1.30%). Weekly gain of about 100 points ends eight weeks of losses."
+              },
+              {
+                "k": "Sensex",
+                "v": "72,472.33, up 879.09 points (1.23%). Day high 72,669.20."
+              },
+              {
+                "k": "Breadth",
+                "v": "47 advances to 3 declines on the Nifty. Smallcaps rose 0.5%, midcaps 0.1%."
+              },
+              {
+                "k": "Volatility",
+                "v": "India VIX 14.46, down 5.37%."
+              },
+              {
+                "k": "Sectors",
+                "v": "All 15 sector indices rose. IT up more than 3%, FMCG 2.22%, PSU banks 1.41%."
+              },
+              {
+                "k": "Flows",
+                "v": "FII net sale ₹3,569 cr; DII net buy ₹4,743 cr (TBTflow). Tenth straight session of FII selling."
+              },
+              {
+                "k": "Crude and currency",
+                "v": "Brent $102.9 a barrel, down 1.32%. The rupee firmed (ET). Thursday’s close was 96.88 per dollar."
+              },
+              {
+                "k": "Gold and silver",
+                "v": "22-carat gold ₹13,895 a gram, up ₹105 (retail). Silver ₹2,24,859 a kg in futures, up 1.64%."
+              },
+              {
+                "k": "Leaders and laggards",
+                "v": "Top Nifty gainers: TCS, Adani Ports, Infosys, HCLTech, L&T, HDFC Bank. Reliance was the only blue-chip to fall."
+              }
+            ]
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Sector returns on 9 October 2026\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 250\"><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"33.16666666666667\">IT</text><rect fill=\"#1f7a4d\" height=\"26.333333333333336\" width=\"487.5\" x=\"130\" y=\"13\"></rect><text fill=\"#1f7a4d\" font-size=\"18\" x=\"625.5\" y=\"33.16666666666667\">+3.00%</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"67.5\">FMCG</text><rect fill=\"#1f7a4d\" height=\"26.333333333333336\" width=\"360.75\" x=\"130\" y=\"47.333333333333336\"></rect><text fill=\"#1f7a4d\" font-size=\"18\" x=\"498.75\" y=\"67.5\">+2.22%</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"101.83333333333334\">PSU Bank</text><rect fill=\"#1f7a4d\" height=\"26.333333333333336\" width=\"229.125\" x=\"130\" y=\"81.66666666666667\"></rect><text fill=\"#1f7a4d\" font-size=\"18\" x=\"367.125\" y=\"101.83333333333334\">+1.41%</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"136.16666666666666\">Auto</text><rect fill=\"#1f7a4d\" height=\"26.333333333333336\" width=\"221\" x=\"130\" y=\"116\"></rect><text fill=\"#1f7a4d\" font-size=\"18\" x=\"359\" y=\"136.16666666666666\">+1.36%</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"170.5\">Private Bank</text><rect fill=\"#1f7a4d\" height=\"26.333333333333336\" width=\"219.375\" x=\"130\" y=\"150.33333333333334\"></rect><text fill=\"#1f7a4d\" font-size=\"18\" x=\"357.375\" y=\"170.5\">+1.35%</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"204.83333333333334\">Media</text><rect fill=\"#1f7a4d\" height=\"26.333333333333336\" width=\"199.875\" x=\"130\" y=\"184.66666666666669\"></rect><text fill=\"#1f7a4d\" font-size=\"18\" x=\"337.875\" y=\"204.83333333333334\">+1.23%</text></g><text fill=\"#777\" font-size=\"15\" x=\"0\" y=\"244\">Day change at close, %, 9 Oct 2026. IT \"more than 3%\", shown as 3.0. Source: Hindu BusinessLine.</text></svg>",
+            "label": "Sector returns on 9 October 2026"
+          },
+          {
+            "t": "story",
+            "title": "The week ahead for markets",
+            "kicker": "What to watch, not what to buy"
+          },
+          {
+            "t": "p",
+            "html": "Monday brings September inflation (expectation: 5.6%, a 23-month high, per a Mint poll of 19 economists) and HCLTech's results. Wednesday brings wholesale inflation, US and China inflation, the TCS dividend record date and the Fusion CX IPO opening. Wipro and Persistent Systems report Thursday, Tech Mahindra Friday. The full calendar is at the end. No view on direction is implied."
+          },
+          {
+            "t": "p",
+            "html": "Sources: <a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-9th-october-2026/article71560336.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine, 9 Oct</a>, <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/friday-heavy-lifting-saves-nifty-from-record-nine-weeks-of-losses-can-bulls-take-charge-now/articleshow/134830751.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 9 Oct</a>, <a href=\"https://tbtflow.com/daily/fii-dii-data-today\" target=\"_blank\" rel=\"noopener\">TBTflow</a>, <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Finance goldmine",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The GST overhaul has a date: 1 April 2027, with 90% of refunds on autopilot",
+            "kicker": "Policy"
+          },
+          {
+            "t": "p",
+            "html": "The GST Council's procedural overhaul, approved Thursday, is targeted to take effect 1 April 2027. Every refund claim must be acknowledged within 10 days, and for exporters and inverted-duty cases, about two-thirds of claims, 90% of the refund releases automatically within three days after a risk check. Rates are unchanged; officers' arrest powers go; credit expands to employee health and life insurance, telecom towers and pipelines. A committee has three months to study input credit for honest buyers whose suppliers defaulted."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If you sell to businesses, their cash flow improves when refunds arrive in days, not months. And input tax credit on employee health and life insurance is a direct tailwind for group cover, your industry's product."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter</a>"
+          },
+          {
+            "t": "story",
+            "title": "Banks are in no hurry to raise deposit rates",
+            "kicker": "Banking"
+          },
+          {
+            "t": "p",
+            "html": "SBI chairman C.S. Setty said he does not expect deposit rates to rise for up to three months because the banking system still has excess liquidity, and that the RBI's tighter stance could help banks expand net interest margins, the gap between lending and deposit rates, for up to three quarters. That is the chairman of the State Bank of India describing his own pricing room."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Direct input to the money hack below: the largest bank's chairman is telling you the repricing clock."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter</a>"
+          },
+          {
+            "t": "story",
+            "title": "A 30% margin cap on cancer drugs goes to the Supreme Court on Monday",
+            "kicker": "Health"
+          },
+          {
+            "t": "p",
+            "html": "The Centre is preparing to cap trade margins on all non-scheduled anti-cancer medicines at 30% of MRP. Officials say this could cut retail prices by as much as 70% and save patients ₹2,500 to 3,500 crore a year. The Supreme Court hears the matter on 12 October."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Cheaper cancer drugs mean lower claim costs for health insurers, which feeds into premiums and product design. Directly your sector."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter</a>"
+          },
+          {
+            "t": "story",
+            "title": "Two more worth knowing",
+            "kicker": "Briefs"
+          },
+          {
+            "t": "p",
+            "html": "India is considering delaying the planned 0.4% merchant fee on UPI payments above ₹2,000 by a few months. And the microfinance loan book fell 11% to ₹3.34 trillion in FY26, with loans overdue by 180 days or more rising to 17.04% from 10.67%, stress at the bottom of the credit pyramid while markets watch AI."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://fin.preparoo.app/daystarter-october-09-2026\" target=\"_blank\" rel=\"noopener\">Preparoo DayStarter</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Startup intelligence",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Voice AI for BFSI keeps getting funded: Desible.ai raises ₹32 crore from Prime Venture Partners",
+            "kicker": "Funding, your sector"
+          },
+          {
+            "t": "p",
+            "html": "Desible.ai raised ₹32 crore in a Seed Plus round from Prime Venture Partners to build what it calls an AI operating layer for BFSI, including voice agents (CNBC-TV18, Inc42). The capabilities are company claims; the round and investor are reported by both outlets."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Investors are paying for agents that handle regulated call volume in banking, financial services and insurance. If IRDAI's commission draft squeezes distribution economics, automation of servicing calls is where the cost pressure lands first."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.cnbctv18.com/business/startup/desible-ai-raises-rs32-crore-from-prime-venture-partners-to-build-ai-operating-layer-for-bfsi-20007709.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a> / <a href=\"https://inc42.com/buzz/desible-ai-raises-%E2%82%B932-cr-to-build-ai-operating-layer-for-bfsi/\" target=\"_blank\" rel=\"noopener\">Inc42</a>"
+          },
+          {
+            "t": "story",
+            "title": "The rest of the funding wire",
+            "kicker": "Funding"
+          },
+          {
+            "t": "p",
+            "html": "CurvetAI, a Pune startup building AI agents for complex tasks, raised ₹6 crore (Indian Startup News). Quanfluence raised $10 million led by Chiratae Ventures to build a full-stack photonic quantum computer in India (DeepTech India). Gramiyaa, a wood-pressed oil brand, raised a Series A at a ₹110 crore valuation (Entrackr). NeoGrowth, an MSME lender, raised ₹85 crore led by Dutch development bank FMO, and devtools company Harness acquired assets of Augment Code, including its Cosmos coding agent, which becomes the Harness Cosmos Software Factory Agent (YourStory)."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://indianstartupnews.com/funding/pune-ai-startup-curvetai-raises-rs-6-crore-to-build-ai-agents-that-can-handle-complex-tasks-12644454\" target=\"_blank\" rel=\"noopener\">Indian Startup News</a> / <a href=\"https://thedeeptech.in/article/quanfluence-raises-10-million-to-build-a-full-stack-photonic-quantum-computer\" target=\"_blank\" rel=\"noopener\">DeepTech India</a> / <a href=\"https://entrackr.com/exclusive/exclusive-gramiyaa-raises-fresh-capital-in-series-a-round-at-rs-110-cr-valuation-12658745\" target=\"_blank\" rel=\"noopener\">Entrackr</a> / <a href=\"https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-9-2026\" target=\"_blank\" rel=\"noopener\">YourStory roundup</a>"
+          },
+          {
+            "t": "story",
+            "title": "Opportunities",
+            "kicker": "Where the gap might be"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "Compliance-grade voice agents for insurance servicing. Desible's round says buyers exist; the differentiator in BFSI is an audit trail a regulator accepts, which is exactly the design Google chose for Gemini Agent.",
+              "Refund-readiness tooling for SMEs. From April 2027, 90% of GST refunds release automatically after a risk check. Businesses with messy filings will fail those checks; someone sells the clean-up.",
+              "Quantum-adjacent talent and tooling. Quanfluence's $10 million says Indian photonics is fundable; the picks-and-shovels layer (testing, control software) is earlier than the computers themselves."
+            ]
+          },
+          {
+            "t": "story",
+            "title": "A refund-readiness check for small exporters",
+            "kicker": "One idea, a hypothesis to test, not a validated market"
+          },
+          {
+            "t": "p",
+            "html": "The GST change makes refund speed depend on passing an automated risk check. The idea: a tool that reads a small exporter's filings and flags the mismatches that would fail the check, before the claim is filed. The test: ask five SME exporters whether their last refund was delayed and why. If delays trace to fixable filing errors, there is a product. If refunds already arrive on time, there is none."
+          }
+        ]
+      },
+      {
+        "heading": "Vibe coding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Mellum2.1: an open coding model small enough to run yourself, trained the agent way",
+            "kicker": "Open models"
+          },
+          {
+            "t": "p",
+            "html": "JetBrains released Mellum2.1, a 12-billion-parameter mixture-of-experts model, a design where only part of the network runs per token, with 2.5 billion active parameters, under the Apache 2.0 licence. The architecture is unchanged from Mellum2; the work went into post-training with reinforcement learning inside thousands of sandboxed coding environments, so the model can explore a repository, edit files and check its own changes. JetBrains' own benchmarks show it beating Qwen3.5-9B and Gemma 4 E4B on agentic coding, and serving almost twice as many tokens under load; those are vendor-run comparisons. It is on Hugging Face now, with llama.cpp, Ollama and LM Studio builds coming."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If you build with coding agents, a capable open model means your code never leaves your hardware, and sub-agents cost nothing per call. This one is built exactly for that pattern."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/\" target=\"_blank\" rel=\"noopener\">JetBrains blog</a>"
+          }
+        ]
+      },
+      {
+        "heading": "AI hack of the day",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Use the three-month deposit window for your FD renewals",
+            "kicker": "Saturday: money"
+          },
+          {
+            "t": "p",
+            "html": "The RBI has raised the repo rate, the rate at which banks borrow from it, to 5.5% and shifted to calibrated tightening. Normally deposit rates follow. But the SBI chairman says excess liquidity means banks will not raise deposit rates for up to three months (attributed above). That gap is the window: if you lock a long fixed deposit today, you book today's rate just before a likely repricing. The mechanism, not a product recommendation."
+          },
+          {
+            "t": "callout",
+            "html": "The weekend task, 20 minutesList every FD you hold with its maturity date. For any maturing in the next 90 days, plan a short renewal (six to twelve months) rather than a long one, so the money is free to rebook if banks raise rates after the liquidity absorbs. Keep emergency cash in a sweep-in or liquid option so you never break an FD early, since premature withdrawal usually costs a penalty on the rate. Recheck the decision when the next RBI policy or the big banks' rate cards change."
+          },
+          {
+            "t": "p",
+            "html": "The same logic, reversed, is why banks like this window: they keep deposits cheap while loan rates adjust, which is the margin expansion Setty described. Knowing which side of the trade you are on is the hack."
+          }
+        ]
+      },
+      {
+        "heading": "Startup case study",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "One business teardown per edition. Today's is Zerodha: how a bootstrapped brokerage built a ₹22,679 crore cash moat, why its revenue depends on the very options trading the regulator is shrinking, and the five lessons with the evidence behind each. Read it here: <a href=\"https://files.instinct.com/debmcmlq4ejy-how-zerodha-built-a-moat\" target=\"_blank\" rel=\"noopener\">How Zerodha built a moat, and what happens when regulation taxes it</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Seven-day calendar, 10 to 17 October",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "12",
+                "title": "Mon: September CPI inflation",
+                "detail": "First price reading after the RBI hike. Economists expect 5.6%, a 23-month high (Mint poll of 19, via DayStarter). A high print keeps rate cuts distant."
+              },
+              {
+                "n": "12",
+                "title": "Mon: Supreme Court hears cancer-drug margin cap",
+                "detail": "30% trade-margin cap on non-scheduled anti-cancer medicines; prices could fall up to 70% (officials, via DayStarter). Health-claim costs, so insurance-relevant."
+              },
+              {
+                "n": "12",
+                "title": "Mon: HCLTech Q2 results",
+                "detail": "First big IT read after TCS; board also considers a third interim dividend (Financial Express)."
+              },
+              {
+                "n": "14",
+                "title": "Wed: Wholesale inflation; US and China CPI",
+                "detail": "India's WPI/PPI and, the same day, US consumer inflation (previous 3.4%) and China's (previous 0.8%), via DayStarter's calendar. US inflation moves the yields that drive FII selling."
+              },
+              {
+                "n": "14",
+                "title": "Wed: TCS dividend record date; Fusion CX IPO opens",
+                "detail": "₹12 second interim dividend (TCS filing). Fusion CX, a customer-experience company, opens a ₹702 crore IPO at ₹275-289 a share, closing 16 Oct (Economic Times)."
+              },
+              {
+                "n": "15",
+                "title": "Thu: Wipro and Persistent Systems Q2",
+                "detail": "Wipro after market hours; Persistent's board meets the same day (Financial Express). Unemployment rate also due (DayStarter)."
+              },
+              {
+                "n": "16",
+                "title": "Fri: Tech Mahindra Q2",
+                "detail": "Board also considers an interim dividend and possibly bonus shares (Financial Express)."
+              },
+              {
+                "n": "17",
+                "title": "Sat: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Just beyond the window: Jio Platforms' anchor book is expected 19 October and the public issue 21 to 23 October (ET's reporting); the SAT order on Jane Street's appeal lands 21 October; Infosys reports 23 October (Financial Express)."
+          }
+        ]
+      },
+      {
+        "heading": "Notes",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "X public profiles load in a logged-out browser (latest posts only, no search). Today's radar is built from official pages and reports read in full, not from X.",
+              "No Reddit pulse item today; nothing in the last 48 hours rose to a scoop needing one.",
+              "Jio IPO dates and its price band are Economic Times reporting of unnamed sources, not a filed prospectus.",
+              "Benchmark scores for Odyssey-3 and Mellum2.1 are vendor-reported and labelled where they appear.",
+              "Nothing here is investment advice. Watch items are reported facts, not calls on direction."
+            ]
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "The Bombay Stock Exchange tower on Dalal Street with its red BSE sign",
+      "caption": "Bombay Stock Exchange, Dalal Street. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
+      "img": "photos/d2-g1.jpg"
+    }
+  },
+  "audio": null,
+  "times": null
+}
