@@ -1,0 +1,349 @@
+{
+  "day": 7,
+  "meta": {
+    "date": "Monday 12 October 2026",
+    "short": "Mon 12 Oct",
+    "longread": 7
+  },
+  "edition": {
+    "title": "Morning paper, Monday 12 October 2026",
+    "fact": "Edition 7 of 7, the final edition of the trial. CPI day, the rupee's first test under the RBI shield, HCLTech results, and the PhonePe teardown.",
+    "intro": "Two numbers land today: September inflation, expected at a 23-month high, and HCLTech's results. The rupee gets its first trading session under the RBI's Saturday defense package, and Saudi Arabia is promising retaliation for the airport strike that killed 12.",
+    "groups": [
+      {
+        "heading": "Eight things to know",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "September CPI inflation is due this evening. A Mint poll of 19 economists expects 5.6%, a 23-month high, with estimates in a 5% to 5.9% band. The print lands inside an RBI hiking cycle, repo at 5.50%.",
+              "The rupee trades its first session under the RBI's Saturday shield: the oil-company dollar window opens today. Kotak's research desk sees a sub-95 handle as possible; bankers on Saturday expected roughly a 1% bounce. Those are desk views, not outcomes.",
+              "Hedging dollars just got more expensive. Kotak estimates the new 20% cash reserve on large hedges, plus tighter cash-reserve rules for banks, could drain a durable ₹1.5 lakh crore of liquidity if the measures stay a month.",
+              "HCLTech reports Q2 today. The average of seven brokerages: profit up about 12% and revenue up about 16% year on year. The thing to watch is guidance, expected to be revised from 1-4% to 3-4% (Economic Times preview).",
+              "Saudi Arabia has vowed retaliation against the Houthis after Friday's strike on Riyadh's airport killed 12 and wounded over 300. President Trump suggested the US could join Saudi operations (Washington Post, Al Jazeera). Brent is the reason this is on an India business front page.",
+              "India beat West Indies by 14 runs in the third T20I on Sunday to lead the series 2-1. Abhishek Sharma made 69; Arshdeep Singh led the defense of 223.",
+              "The weekend's verified AI launch radar is thin: one genuine open beta, Vertical Marketplace, where a company's own AI lists and prices its data for other AIs to buy. It is a company blog claim, labelled as such.",
+              "This is edition 7 of 7. Today's long read is the PhonePe teardown: how 45% of UPI became a ₹12,000 crore IPO filing, a pause, and a road back."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Inside:</strong> Front page / What's new radar / Markets / Global / Sport / Try this today / Case study / Seven-day calendar / Notes."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The rupee's first test: what the Street expects from today's open",
+            "kicker": "Lead, macro"
+          },
+          {
+            "t": "p",
+            "html": "The <a href=\"https://en.wikipedia.org/wiki/Reserve_Bank_of_India\" target=\"_blank\" rel=\"noopener\">Reserve Bank of India</a> (India's central bank) measures announced in the early hours of Saturday get their first market verdict today: the 20% Foreign Exchange Risk Reserve on derivative contracts above $2 million, the ban on rebooking cancelled forex contracts, the hedge-limit cut from $100 million to $5 million, and the special dollar window covering the entire daily dollar needs of the three state oil refiners, which opens this morning (ET, Saturday)."
+          },
+          {
+            "t": "p",
+            "html": "Sunday's follow-through reporting maps what bank research desks expect. <a href=\"https://www.kotak.com/en/home.html\" target=\"_blank\" rel=\"noopener\">Kotak</a> (Kotak Mahindra group; its institutional research desk quoted here) sees the rupee possibly trading stronger than 95 to the dollar, with forward premia, the cost of locking in a future exchange rate, softening. <a href=\"https://www.idfcfirstbank.com/\" target=\"_blank\" rel=\"noopener\">IDFC FIRST Bank</a> (private-sector bank; economics research desk quoted here) puts the terminal repo rate for this cycle at 6% to 6.25%, and projects core banking-system liquidity falling from ₹10.4 lakh crore to about ₹2 lakh crore by March 2027 (TOI, citing both banks' research)."
+          },
+          {
+            "t": "p",
+            "html": "The cost side of the shield is now quantified. Kotak estimates a durable liquidity drain of about ₹1.5 lakh crore if the measures stay in place for a month, because the FERR forces banks to park 20% of the rupee value of large hedge contracts with the RBI as cash, earning nothing. Add the RBI's own operations: a ₹25,000 crore open-market sale of government bonds this month, and the cash reserve ratio banks must maintain daily rising from 90% to 99% of the requirement. Hedging costs for importers are expected to rise 1% to 1.6%, per the dealers TOI quotes. Every figure in this paragraph is a research-desk estimate or an announced RBI operation; the open itself is a fact only after 9:15 AM."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The RBI built the shield on Saturday; today the market grades it. If the measures hold the rupee, importers' costs stabilize and the inflation print matters a little less. If they do not, the next lever is interest rates, and that reprices every loan and every insurance product's discount rate."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://timesofindia.indiatimes.com/business/india-business/rupee-relief-higher-hedging-costs-what-rbis-new-forex-rules-mean/articleshow/134872828.cms\" target=\"_blank\" rel=\"noopener\">Times of India, 11 October</a> / <a href=\"https://economictimes.indiatimes.com/news/economy/finance/rbi-steps-in-to-support-rupee-as-currency-nears-record-low-tightens-forex-rules/articleshow/134851766.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 10 October</a>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Rupee close versus record lows, through Friday 9 October\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 220\"><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"200\" y=\"45.33333333333333\">Friday close</text><rect fill=\"#8c1d18\" height=\"48.666666666666664\" width=\"193.20000000000334\" x=\"210\" y=\"14\"></rect><text fill=\"#8c1d18\" font-size=\"17\" x=\"411.20000000000334\" y=\"45.33333333333333\">96.73</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"200\" y=\"103.99999999999999\">Record closing low</text><rect fill=\"#8c1d18\" height=\"48.666666666666664\" width=\"268.79999999999427\" x=\"210\" y=\"72.66666666666666\"></rect><text fill=\"#8c1d18\" font-size=\"17\" x=\"486.79999999999427\" y=\"103.99999999999999\">96.82</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"200\" y=\"162.66666666666666\">Record intraday low (May)</text><rect fill=\"#8c1d18\" height=\"48.666666666666664\" width=\"386.39999999999475\" x=\"210\" y=\"131.33333333333331\"></rect><text fill=\"#8c1d18\" font-size=\"17\" x=\"604.3999999999947\" y=\"162.66666666666666\">96.96</text></g><text fill=\"#777\" font-size=\"14\" x=\"0\" y=\"214\">Rupees per US dollar; higher is weaker. Levels through Friday's close. Source: Economic Times, 10 Oct 2026.</text></svg>",
+            "label": "Rupee close versus record lows, through Friday 9 October"
+          },
+          {
+            "t": "story",
+            "title": "September inflation, due today, is expected at a 23-month high of 5.6%",
+            "kicker": "Macro, data day"
+          },
+          {
+            "t": "p",
+            "html": "The <a href=\"https://en.wikipedia.org/wiki/Consumer_price_index\" target=\"_blank\" rel=\"noopener\">consumer price index</a> (the retail inflation gauge the RBI targets) print for September is due this evening. A Mint poll of 19 economists pegs it at 5.6%, which would be the highest in 23 months, with individual estimates ranging from 5% to 5.9%. The poll was published 8 October; the number itself is an expectation, and the print will either confirm or embarrass it."
+          },
+          {
+            "t": "p",
+            "html": "The why behind the expectation: food prices firming through September, and the pass-through of a weak rupee and crude above $100 into fuel and transport costs. The same two forces sit behind the RBI's Saturday rupee package and its hiking cycle, repo now 5.50% with IDFC FIRST's desk pencilling a 6% to 6.25% terminal rate. Today's print is the first hard data point that either validates or contradicts that path; wholesale inflation follows on Wednesday."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Inflation at 5.6% with the repo already at 5.50% keeps rate cuts off the table and another hike live. For insurance distribution, that holds policy rates and discount assumptions where they are, and it squeezes the household budgets that fund premiums."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.livemint.com/economy/retail-inflation-likely-hit-23-month-high-of-5-6-in-sep-mint-poll-11791453904208.html\" target=\"_blank\" rel=\"noopener\">Mint poll, 8 October</a>"
+          },
+          {
+            "t": "story",
+            "title": "HCLTech reports Q2 today: the Street wants a guidance upgrade",
+            "kicker": "Earnings"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://en.wikipedia.org/wiki/HCLTech\" target=\"_blank\" rel=\"noopener\">HCLTech</a> (India's third-largest IT services company) announces September-quarter results today. The average of seven brokerages in ET's preview: profit up about 12% and revenue up about 16% year on year, with constant-currency growth, the measure that strips out currency swings, of 2.7% to 3%. The headline to watch is the FY27 revenue guidance, currently 1% to 4%, which the brokerages expect management to revise up to 3% to 4%."
+          },
+          {
+            "t": "p",
+            "html": "The machinery behind the numbers, per the preview: Kotak estimates deal wins of $3.75 billion total contract value, including a €1 billion mega deal and the ramp of the Guardian Life insurance contract; the HPE Telco and Jaspersoft acquisitions add about 100 basis points of inorganic growth; and EBIT margin is expected up 70 to 120 basis points. The board also considers a third interim dividend (Financial Express, via Friday's edition). All of this is the preview; the results themselves land today, and this paper does not carry them."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> HCLTech is the first large-cap IT report of the season after TCS, and its guidance revision is the cleanest read on whether enterprise tech spending is genuinely recovering. IT led Friday's market rebound, so the sector walks in with expectations loaded."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q2-preview-will-the-it-major-narrow-its-guidance-5-things-to-watch-out-for/articleshow/134865454.cms\" target=\"_blank\" rel=\"noopener\">Economic Times Q2 preview, 11 October</a>"
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, since Saturday",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Launched or announced in the last 48 hours. COMPANY BLOG means the only source is the maker's own page. It was a quiet 48 hours for verified launches: three widely circulated \"new launch\" stories turned out to be dated July, April and February respectively, and are in Notes instead."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Vertical Marketplace, open beta (buymydata.ai)",
+                "detail": "12 Oct. A marketplace where a business's own AI agent analyzes, lists and prices the company's data, and other AI agents buy access to it, per query, over MCP or a REST API. Buyers get cryptographically signed data from the source. The maker says 64 US patent filings are pending. All claims are the company's own; no independent coverage yet. COMPANY BLOG."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "The why behind watching this one, labelled as analysis, from <a href=\"https://buymydata.ai/blog/announcing-vertical-marketplace\" target=\"_blank\" rel=\"noopener\">the maker's launch post</a>: agent products have hit the same wall, models that know the world in general but not a specific vendor's contract or price list. A two-sided data market where the seller's agent does the listing work is one plausible fix, and it runs on <a href=\"https://en.wikipedia.org/wiki/Model_Context_Protocol\" target=\"_blank\" rel=\"noopener\">MCP</a> (Model Context Protocol, the open standard for connecting AI models to external data and tools), the rail most agent stacks already speak. Whether anyone pays per query is the open question."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Where things stand",
+            "kicker": "Friday's close, carried into the week"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Friday, 9 October",
+                "v": "Nifty 22,520.45, up 1.30%; Sensex 72,472.33, up 879 points. The eight-week losing streak ended. IT led on TCS results."
+              },
+              {
+                "k": "The counter-trend",
+                "v": "Foreign investors still sold for a tenth straight session (₹3,569 crore) and have now sold for eight straight weeks (ET). Domestic institutions kept absorbing."
+              },
+              {
+                "k": "Rupee",
+                "v": "Closed 96.73 per dollar, nine paise from the record closing low. Today is the first session under the Saturday package; desk expectations are in the lead item."
+              },
+              {
+                "k": "Crude",
+                "v": "Brent eased to about $102.9 on Friday but remains above $100, the level that triggered the oil companies’ dollar window opening today."
+              },
+              {
+                "k": "Gold",
+                "v": "22-carat gold ₹13,895 a gram at retail Friday, up ₹105."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Sources: <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-eight-straight-weeks-is-a-reversal-on-the-cards-or-more-pain-ahead/articleshow/134851502.cms\" target=\"_blank\" rel=\"noopener\">Economic Times on the eight-week FII streak</a>, Saturday's edition as linked in Notes."
+          },
+          {
+            "t": "story",
+            "title": "The week ahead for markets",
+            "kicker": "What to watch, not what to buy"
+          },
+          {
+            "t": "p",
+            "html": "Today is the heavyweight: September CPI this evening, HCLTech results, the Supreme Court hearing on the 30% cancer-drug trade-margin cap, and day one of the RBI's oil-dollar window. The Jio Platforms prospectus is expected to be filed any day now, with its anchor book reported for 19 October and the public issue 21 to 23 October. Wednesday brings wholesale inflation plus US and China CPI and the Fusion CX IPO opening; Wipro and Persistent Systems report Thursday; Tech Mahindra on Friday. No view on direction is implied."
+          }
+        ]
+      },
+      {
+        "heading": "Global",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Saudi Arabia vows retaliation for the airport strike; Trump floats joining in",
+            "kicker": "Middle East"
+          },
+          {
+            "t": "p",
+            "html": "Saudi Arabia has vowed to retaliate against the <a href=\"https://en.wikipedia.org/wiki/Houthis\" target=\"_blank\" rel=\"noopener\">Houthis</a> (Iran-backed armed movement controlling much of Yemen) after Friday's strike on King Khalid International Airport in Riyadh, the third attack on the airport in a week, which killed 12 people and wounded more than 300 (Washington Post). President Trump has suggested the United States could join Saudi operations against the Houthis (Al Jazeera). Airport operations were suspended after the strike, and the Indian Express reports Umrah pilgrims from India among those stranded."
+          },
+          {
+            "t": "p",
+            "html": "The why for this page: Friday's strike is the same escalation chain that pushed Brent above $100, dragged the rupee to 96.73, and forced the RBI's Saturday package. A vowed Saudi retaliation, with possible US participation, points to more of that pressure, not less, which is why this story leads the global section of an India money paper two days running."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Retaliation means the conflict widens rather than cools, and a wider Gulf conflict is the direct channel to Brent above $100, the rupee's slide, and this morning's RBI dollar window. For an insurance reader: war-risk premiums, aviation exposure and claims inflation all reprice on escalation."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.washingtonpost.com/world/2026/10/11/saudi-arabia-vows-retaliation-against-houthis-after-riyadh-airport-strike/\" target=\"_blank\" rel=\"noopener\">Washington Post, 11 October</a> / <a href=\"https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know\" target=\"_blank\" rel=\"noopener\">Al Jazeera, 11 October</a>"
+          },
+          {
+            "t": "figure",
+            "alt": "A large oil tanker at sea under a grey sky",
+            "caption": "Brent crude stayed above $100 a barrel last week, the pressure behind both the rupee's slide and today's inflation expectation. File photo: ImagePerson (Wikimedia Commons, CC BY 4.0).",
+            "img": "photos/d4-g3.jpg"
+          }
+        ]
+      },
+      {
+        "heading": "Sport",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "India defend 223 to take a 2-1 series lead over West Indies",
+            "kicker": "Cricket"
+          },
+          {
+            "t": "p",
+            "html": "India beat West Indies by 14 runs in the third T20 international on Sunday: 223 against 209, with Abhishek Sharma's 69 and Ishan Kishan's 37 setting the total and Arshdeep Singh leading the defense. India lead the series 2-1. The why beyond the result: two days after West Indies pulled off their highest-ever T20I chase of 252, India's bowlers closed out a defendable total, the more repeatable skill in a World Cup cycle year (ESPNcricinfo)."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-3rd-t20i-1529232/match-report\" target=\"_blank\" rel=\"noopener\">ESPNcricinfo match report, 11 October</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Try this today",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Beat the HCLTech headline by 20 minutes",
+            "kicker": "Monday prompting: read a results filing in three passes"
+          },
+          {
+            "t": "p",
+            "html": "When HCLTech's results PDF drops today (large-cap IT usually files after market hours, 3:30 PM onwards), skip the news rewrites and read the filing with an AI assistant in three structured passes. Time: about 10 minutes once you have the PDF. Tool: any assistant that accepts a PDF upload, Claude, ChatGPT or Gemini all work; the method is the point."
+          },
+          {
+            "t": "callout",
+            "html": "The exact steps1. Download the results PDF from HCLTech's investor relations page or the BSE/NSE filing, not from a news site. 2. Pass 1, extraction: upload the PDF and prompt: \"Extract into a table: revenue, constant-currency growth, EBIT margin, attrition, total contract value of deal wins, and FY27 guidance, each with the page number.\" 3. Pass 2, comparison: paste the preview numbers from this paper's HCLTech item and prompt: \"Compare each extracted metric against these preview estimates. List beats, misses and in-lines in a table.\" 4. Pass 3, questions: prompt: \"Write five questions an analyst would ask on this earnings call, ranked by how much the answer would move the stock.\" 5. Before reusing any number, check it against the PDF page the assistant cited."
+          },
+          {
+            "t": "p",
+            "html": "What a good result looks like: one screen with the six-metric table, a beats-and-misses column, and five call questions you could actually ask, ready before the first news rewrite publishes. If the assistant gives a number without a page reference, that number does not exist until you find it in the PDF."
+          }
+        ]
+      },
+      {
+        "heading": "Startup case study",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Today's teardown closes the payments arc the week built toward, after Policybazaar, Zerodha and Groww. PhonePe runs 45% of UPI by volume, grew revenue 40% last year, and still lost ₹1,727 crore. It got SEBI's IPO nod in January, paused in March, and is now targeting a February-March 2027 listing. The long read traces how UPI dominance became both the moat and the margin problem, what the deferred merchant fee changes, and what the IPO math says about a $10 billion question. Read it here: <a href=\"https://files.instinct.com/gvc2w9n3snoh-phonepes-road-back-to-ipo\" target=\"_blank\" rel=\"noopener\">PhonePe's road back to IPO</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Seven-day calendar, 12 to 19 October",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "12",
+                "title": "Mon: September CPI; HCLTech Q2; cancer-drug cap hearing; RBI window day one",
+                "detail": "CPI due this evening, poll expectation 5.6% (Mint). HCLTech reports Q2 and considers a third interim dividend (ET, Financial Express). The Supreme Court hears the 30% trade-margin cap on cancer medicines. The RBI's dollar window for oil companies takes effect. Watch for the Jio prospectus filing."
+              },
+              {
+                "n": "13",
+                "title": "Tue: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "14",
+                "title": "Wed: WPI inflation; US and China CPI; Fusion CX IPO opens",
+                "detail": "India's wholesale inflation, plus US consumer inflation (previous 3.4%) and China's (previous 0.8%). TCS dividend record date. Fusion CX, a customer-experience company, opens a ₹702 crore IPO at ₹275-289 a share, closing 16 October (Economic Times)."
+              },
+              {
+                "n": "15",
+                "title": "Thu: Wipro and Persistent Systems Q2",
+                "detail": "Wipro after market hours; Persistent's board meets the same day (Financial Express). The UPI merchant fee was due to take effect today before its deferral to 1 January 2027."
+              },
+              {
+                "n": "16",
+                "title": "Fri: Tech Mahindra Q2; Fusion CX closes",
+                "detail": "Tech Mahindra's board also considers an interim dividend and possibly bonus shares (Financial Express)."
+              },
+              {
+                "n": "17",
+                "title": "Sat: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "18",
+                "title": "Sun: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Just beyond the window: Jio's anchor book is reported for 19 October and the public issue 21 to 23 October, both pre-prospectus reporting; the SAT order on Jane Street's appeal lands 21 October; Infosys reports 23 October (Financial Express)."
+          }
+        ]
+      },
+      {
+        "heading": "Notes",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Dropped items, all recirculated with fresh-looking October datelines: an AMD Instella model launch that AMD's own page dates to 31 July; a Claude Mythos announcement dated 10 April; and a Blackstone-Neysa $1.2 billion investment story whose article is dated 16 February. None appears as news in this edition.",
+              "CPI figures today are poll expectations, not the print; the print is due this evening. Bank and brokerage views (Kotak's sub-95 scenario, the ₹1.5 lakh crore drain estimate, the HCLTech preview averages) are attributed research, not outcomes. The rupee's Monday open is not covered; markets open after this paper ships.",
+              "The Vertical Marketplace launch is sourced only to the maker's blog and is labelled as such.",
+              "X public profiles still load in a logged-out browser (latest posts only, no search), last checked 10 October. Today's radar is built from official pages and reports read in full.",
+              "Nothing here is investment advice. Watch items are reported facts, not calls on direction."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Saturday's edition, with the full RBI package detail: <a href=\"https://files.instinct.com/sobaosho0ztv-rbis-weekend-rupee-shield\" target=\"_blank\" rel=\"noopener\">The RBI's weekend rupee shield</a>."
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "The Reserve Bank of India tower in Mumbai",
+      "caption": "The Reserve Bank of India tower, Mumbai. The central bank's dollar window for state oil companies opens today. Photo: KuwarOnline (Wikimedia Commons, CC BY-SA 3.0).",
+      "img": "photos/d6-hero.jpg"
+    },
+    "concept": {
+      "label": "One concept a day",
+      "name": "Anchoring",
+      "line": "The first number you hear quietly sets every number after it. Yesterday's CPI poll said 5.6% - watch how today's coverage treats anything near it as “expected”."
+    }
+  },
+  "audio": {
+    "quick": "audio/d7-quick.m4a",
+    "full": null
+  },
+  "times": null
+}
