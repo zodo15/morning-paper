@@ -27,3 +27,40 @@ plain HTML/CSS/JS deployed on Vercel.
 
 Editions 1-7 (the trial week, Oct 6-12 2026) ship with placeholder audio;
 the players unlock from edition 8.
+
+## Daily publish contract (from edition 8, Oct 13 2026)
+
+Every morning, three artifacts move from the newspaper pipeline to this repo:
+
+| What | From | Format |
+| --- | --- | --- |
+| Edition source | newspaper agent | `editions-src/day-N.json` (schema below) |
+| Full-read audio | main (TTS) | any audio file + the full-read script as .txt |
+| Quick-listen audio | main (TTS) | any audio file |
+
+Publish steps (publisher: the site task agent):
+
+1. Convert the edition File into `editions-src/day-N.json`. Required:
+   `day`, `meta{date,short,longread}`, `edition{fact,intro,groups,concept}`.
+   `concept` is the single merged One Concept a Day section
+   (`{label:"One concept a day",name,line}`) - the site renders one concept
+   slot on the Today page only. Section names are never hardcoded; groups
+   render from data. Past editions are immutable.
+2. `python3 scripts/publish_day.py editions-src/day-N.json --full FULL.mp3 --quick QUICK.mp3 --script-full full-read-script.txt`
+   - validates schema and day sequence
+   - converts audio to AAC m4a 64k mono in `audio/`
+   - derives sentence-sync timings for the full read from the audio itself
+     (silence detection + script alignment) into `audio/dN-full.times.json`
+   - regenerates `data/editions.js` (never edit that file by hand)
+3. Push the printed file list to GitHub; Vercel auto-deploys in ~1 min.
+4. Verify live at 390px: edition page renders, both players play,
+   concept card populated, charts present, highlight follows the full read.
+
+Script ground rules for the highlight to stay real:
+- The full-read script must follow the printed text section by section, in
+  paper order. Spoken glue (greeting, transitions) and numbers spelled as
+  words are fine - the aligner normalizes and skips those.
+- If the aligner reports <80% block coverage, inspect before publishing;
+  blocks that do not match simply get no highlight, never wrong highlight.
+- No timestamps are ever invented: sentence times come from the audio's own
+  speech/pause structure mapped to the script.
