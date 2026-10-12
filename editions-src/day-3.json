@@ -1,0 +1,732 @@
+{
+  "day": 3,
+  "meta": {
+    "date": "Thursday 8 October 2026",
+    "short": "Thu 8 Oct",
+    "longread": 3
+  },
+  "edition": {
+    "title": "Morning paper, Thursday 8 October 2026",
+    "fact": "Edition 3 of the trial. Built on spec v2.",
+    "intro": "The RBI raised rates for the first time since February 2023, IRDAI's commission draft has a feedback deadline 17 days away, and the GST Council meets today.",
+    "groups": [
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The RBI raised the repo rate to 5.50%, its first hike in 3.5 years, and said cuts are off the table for now",
+            "kicker": "Money"
+          },
+          {
+            "t": "p",
+            "html": "The Monetary Policy Committee voted unanimously to raise the <a href=\"https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742\" target=\"_blank\" rel=\"noopener\">repo rate</a> (the rate at which the RBI lends to banks) by 25 basis points, from 5.25% to 5.50%. The standing deposit rate is now 5.25% and the marginal standing facility rate and Bank Rate are 5.75%. The committee also moved its stance to <a href=\"https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742\" target=\"_blank\" rel=\"noopener\">calibrated tightening</a> (the RBI says only a hike or a pause is next, no cuts). Two members, Dr Nagesh Kumar and Prof Ram Singh, wanted the stance kept neutral."
+          },
+          {
+            "t": "p",
+            "html": "The RBI now projects FY27 GDP growth at 7.1% and CPI inflation at 5.2%, with quarterly inflation of 4.9%, 6.0% and 5.7% for Q2 to Q4. August CPI was 4.8%, up from 4.5% in July. Its stated reasons: a re-escalated West Asia conflict, volatile crude, a deficient monsoon and El Niño. The next meeting is 2 to 4 December. Minutes come on 21 October."
+          },
+          {
+            "t": "p",
+            "html": "Indian Express words the stance change confusingly in its first paragraph. I used the RBI's own text: neutral to calibrated tightening."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Floating-rate EMIs go up. On a ₹50 lakh, 20-year loan the monthly payment rises by roughly ₹800 per quarter-point (my arithmetic, below). Higher yields also feed through to insurers' investment income, but I found no source quantifying that today, so treat it as a question, not a finding."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742\" target=\"_blank\" rel=\"noopener\">RBI policy resolution, 7 Oct</a> / <a href=\"https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63744\" target=\"_blank\" rel=\"noopener\">RBI Governor statement</a> / <a href=\"https://indianexpress.com/article/india/rbi-hikes-repo-rate-25-bps-to-5-50-pc-emi-10910143/\" target=\"_blank\" rel=\"noopener\">Indian Express</a>"
+          },
+          {
+            "t": "story",
+            "title": "IRDAI's draft is now a three-way argument, with the RBI, brokers and the regulator all on record",
+            "kicker": "Your job"
+          },
+          {
+            "t": "p",
+            "html": "At the post-policy press conference, Governor Sanjay Malhotra said the RBI has not firmed up its view on IRDAI's consultation paper and will send comments. \"It is primarily in the consumer's interest to reduce costs and, at the same time, to prevent or reduce mis-selling,\" he said, adding that the decision sits with the insurance regulator. The Insurance Brokers Association of India (IBAI) asked on 6 October to push the 25 October deadline to the end of December. It also wrote to the Prime Minister's Office and the Finance Minister."
+          },
+          {
+            "t": "p",
+            "html": "What the paper proposes, per India Today and the ET BFSI report from 23 September: expenses of management (<a href=\"https://www.thehindubusinessline.com/business/insurance-brokers-oppose-new-reforms-as-commission-cuts-may-lead-to-job-losses/article71552334.ece\" target=\"_blank\" rel=\"noopener\">EoM</a> (the share of premium an insurer can spend on running costs)) for life insurers fall to 15% of premium within two years and 12.5% within five. For general insurers the path is 25% in two years and 20% in five. Commission caps would vary by product, channel and effort. Two numbers drive the case: distributor pay in a corporate-agent sample rose 125% between FY23 and FY25 while new premium grew 28%, and 61st-month <a href=\"https://www.indiatoday.in/business/story/irdais-big-insurance-reset-explained-why-its-new-proposal-has-sparked-a-war-of-words-3010939-2026-10-07\" target=\"_blank\" rel=\"noopener\">persistency</a> (the share of policies still active after five years) is 48% overall versus 71% online."
+          },
+          {
+            "t": "p",
+            "html": "The pushback is from an interested party, so weigh it as such. IBAI says more than 30 commission caps plus a one-third cut in expense limits could affect nearly 10 lakh livelihoods. It backs the ban on compulsory loan bundling, stronger suitability rules and clawbacks for proven mis-selling, and opposes the caps and tighter EoM limits. The Moneycontrol interview with IRDAI chairman Ajay Seth, headlined \"IRDAI rules out glide path for commission caps\", sits behind a paywall. I read only the headline and standfirst, so I am not reporting its contents."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The paper decides how much distributors can earn and how fast insurer expenses fall. Comments close on 25 October. Brokers want December. What you read in the feedback window will shape the final rules."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/industry/banking/rbi-to-firm-up-views-on-irdai-s-proposed-insurance-commission-overhaul-126100701296_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard on the RBI</a> / <a href=\"https://www.indiatoday.in/business/story/irdais-big-insurance-reset-explained-why-its-new-proposal-has-sparked-a-war-of-words-3010939-2026-10-07\" target=\"_blank\" rel=\"noopener\">India Today explainer</a> / <a href=\"https://www.cnbctv18.com/business/finance/irdai-distribution-paper-ibai-more-time-for-consultation-asks-deadline-till-december-20005633.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 on IBAI</a> / <a href=\"https://www.thehindubusinessline.com/business/insurance-brokers-oppose-new-reforms-as-commission-cuts-may-lead-to-job-losses/article71552334.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine on IBAI</a>"
+          },
+          {
+            "t": "story",
+            "title": "Nifty fell 0.76% to 22,603 on the RBI move, foreign investors sold ₹6,121 cr and the rupee hit 96.78",
+            "kicker": "Money"
+          },
+          {
+            "t": "p",
+            "html": "The Nifty 50 closed at 22,603.05, down 173.05 points. The Sensex closed at 72,638.70, down 429.11 points. Two sources agree on both closes. FIIs sold a net ₹6,121.37 cr and DIIs bought a net ₹4,596.57 cr, provisional exchange data via CNBC-TV18. Titan led the Nifty losers after a jewellery update that came in below estimates, and Kotak Mahindra Bank led the gainers. The rupee fell to a five-month low of 96.78 per dollar, per CNBC-TV18."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Rate-sensitive sectors took the hit while PSU banks rose. The pattern matters more than the day: foreign selling has now run through every session this week."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.cnbctv18.com/market/fiis-sell-rs6121-crore-as-market-snaps-2-day-gaining-streak-20006959.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, flows and close</a> / <a href=\"https://ninefifteenam.com/notes/post-market-report-7-october-2026\" target=\"_blank\" rel=\"noopener\">NineFifteenAM, exchange data</a> / <a href=\"https://aftermarketreport.zerodha.com/p/nifty-cools-off-to-22600-after-rbis\" target=\"_blank\" rel=\"noopener\">Zerodha Aftermarket Report</a>"
+          },
+          {
+            "t": "story",
+            "title": "OpenAI is rolling out GPT-6 with Intelligent UI, so ChatGPT answers can be interactive tools, not just text",
+            "kicker": "Your builds"
+          },
+          {
+            "t": "p",
+            "html": "OpenAI's own page says GPT-6 is rolling out globally in ChatGPT with <a href=\"https://openai.com/index/gpt-6-for-everyone\" target=\"_blank\" rel=\"noopener\">Intelligent UI</a> (answers with visuals and interactive elements you can use in chat). Its help page says GPT-6 is rolling out to eligible Pro, Plus, Enterprise and Business users, with GPT-6 replacing \"Latest\" in the model menu, and Pro running on a model called GPT-6 Astra."
+          },
+          {
+            "t": "p",
+            "html": "Caveat on detail. Unite.AI's longer write-up, bylined to an \"AI Research Agent\", says GPT-6 reaches the Free and Go tiers on 8 October. OpenAI's help page says Free and Go Instant uses GPT-5.6 Luna. I trust OpenAI's own page and did not use Unite.AI's tier claims or its benchmark figures."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> You build products on top of these models. The shift is that the answer itself can be a small working interface, which lowers the cost of prototyping a calculator or a comparison tool inside a chat."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://openai.com/index/gpt-6-for-everyone\" target=\"_blank\" rel=\"noopener\">OpenAI announcement</a> / <a href=\"https://help.openai.com/en/articles/20001354-gpt-6-and-other-models-in-chatgpt\" target=\"_blank\" rel=\"noopener\">OpenAI Help Centre</a> / <a href=\"https://www.unite.ai/openai-brings-gpt-6-with-intelligent-ui-to-all-chatgpt-tiers/\" target=\"_blank\" rel=\"noopener\">Unite.AI report</a>"
+          },
+          {
+            "t": "figure",
+            "alt": "A glass and steel Google office building with a blue tower and a street sign reading 43",
+            "caption": "Google campus building, file photo. Photo: Gregory Varnum (Wikimedia Commons, CC BY-SA 4.0).",
+            "img": "photos/d3-g0.jpg"
+          },
+          {
+            "t": "story",
+            "title": "A Bengaluru startup serving insurers with voice AI raised ₹32 cr, and says it handles over 10 million customer engagements a month",
+            "kicker": "Startups and your job"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://entrepreneur.economictimes.indiatimes.com/news/funding/desible-ai-raises-32-crore-seed-plus-round-led-by-prime-venture-partners/134758156\" target=\"_blank\" rel=\"noopener\">Desible.ai</a> (workflow automation for banks and insurers, starting with voice) raised ₹32 cr in a Seed Plus round led by Prime Venture Partners, with existing investor Invention Engine. It was founded in 2025 by Uttam Tiwari and Omkar Raikar. The company says it runs more than 25 workflows across collections, underwriting, claims, servicing and compliance, and that 40-plus BFSI institutions use or are evaluating it. All usage figures are company-reported. ET Entrepreneur and YourStory carry the same facts, so this is one company statement reported twice, not two independent checks."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is a company working inside insurance servicing: renewals, collections, claims. If IRDAI's rules push distributors toward servicing and persistency, this is the kind of tooling that gets bought."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://entrepreneur.economictimes.indiatimes.com/news/funding/desible-ai-raises-32-crore-seed-plus-round-led-by-prime-venture-partners/134758156\" target=\"_blank\" rel=\"noopener\">ET Entrepreneur</a> / <a href=\"https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-7-2026\" target=\"_blank\" rel=\"noopener\">YourStory roundup</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "figure",
+            "alt": "The Bombay Stock Exchange tower on Dalal Street with its red BSE sign",
+            "caption": "Bombay Stock Exchange, Dalal Street. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
+            "img": "photos/d2-g1.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Yesterday's recap",
+            "kicker": "India, Wednesday 7 October"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Nifty 50",
+                "v": "22,603.05, down 173.05 points (0.76%). Opened 22,690.45, high 22,717.65, low 22,546.30. It stayed below the previous close of 22,776.10 all day."
+              },
+              {
+                "k": "Sensex",
+                "v": "72,638.70, down 429.11 points (0.59%)"
+              },
+              {
+                "k": "Bank Nifty",
+                "v": "55,055.55, down 0.13%. Kotak Mahindra Bank +1.88%, ICICI Bank +1.09%, HDFC Bank -1.22%."
+              },
+              {
+                "k": "Midcap and smallcap",
+                "v": "Midcap 100 down 0.63%. Smallcap 100 up 0.30%, the only index in NineFifteenAM's table to rise."
+              },
+              {
+                "k": "Volatility",
+                "v": "India VIX 13.89, up 2.06%"
+              },
+              {
+                "k": "Breadth",
+                "v": "Zerodha counts 957 advancers and 1,349 decliners and 32 new 52-week lows to 9 highs. NineFifteenAM, quoting HDFC Sky for all NSE shares, counts 1,928 up and 2,251 down. The universes differ, so the numbers do too."
+              },
+              {
+                "k": "Sectors",
+                "v": "PSU Bank +1.00%, Media +0.69%. Metal -2.33%, Realty -1.77%, Auto -1.58%, IT -1.34%."
+              },
+              {
+                "k": "Flows",
+                "v": "FIIs net sold ₹6,121.37 cr, DIIs net bought ₹4,596.57 cr (provisional, via CNBC-TV18)"
+              },
+              {
+                "k": "Rupee and crude",
+                "v": "Rupee 96.78 per dollar, down 43 paise (CNBC-TV18 also says five-month low). Brent about $102 a barrel, per PTI as cited by NineFifteenAM, which is the only source I have for the crude figure."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Asia ended lower (Kospi, Nikkei, Hang Seng), and US markets had closed higher on Tuesday, per the same PTI report. I did not pull a US close for Wednesday, so I am not giving one. Zerodha's report says the Nifty recovered after the 10 AM policy announcement, touched about 22,715, then gave it all back after 12:30. Metals fell on a stronger dollar and weaker global metal prices; I did not find a reported reason for the moves in Bharti Airtel, BSE or Bharat Electronics. Sources: <a href=\"https://ninefifteenam.com/notes/post-market-report-7-october-2026\" target=\"_blank\" rel=\"noopener\">NineFifteenAM</a>, <a href=\"https://aftermarketreport.zerodha.com/p/nifty-cools-off-to-22600-after-rbis\" target=\"_blank\" rel=\"noopener\">Zerodha Aftermarket Report</a>, <a href=\"https://www.cnbctv18.com/market/fiis-sell-rs6121-crore-as-market-snaps-2-day-gaining-streak-20006959.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>. I read Zerodha's text; its chart images were not used."
+          },
+          {
+            "t": "story",
+            "title": "Today's watch list",
+            "kicker": "What to watch, not what to buy"
+          },
+          {
+            "t": "p",
+            "html": "Events first: the GST Council meets today, and TCS reports its September-quarter results. Each name below is listed because of a reported development. No view on direction is implied."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "TCS",
+                "detail": "September-quarter results today. Analysts expect modest sequential revenue growth and a stronger year-on-year number. Board may consider a second interim dividend."
+              },
+              {
+                "n": "2",
+                "title": "Titan",
+                "detail": "Fell 3.80% to ₹4,377. Quarterly update: consumer businesses up about 25%, jewellery about 21%, which was below what analysts had expected. 3,758 stores."
+              },
+              {
+                "n": "3",
+                "title": "Kalyan Jewellers",
+                "detail": "Closed about 4% higher after its Q2 business update (CNBC-TV18)."
+              },
+              {
+                "n": "4",
+                "title": "Adani Enterprises",
+                "detail": "CARE Ratings upgraded its long-term rating to AA; Stable from AA-, the highest in its history, per the company filing. The stock fell 3.75% on the day."
+              },
+              {
+                "n": "5",
+                "title": "Ola Electric",
+                "detail": "Approved a rights issue of up to ₹1,000 cr: 37.03 crore partly paid shares at ₹27, with a ₹17 premium. Issue size ₹999.74 cr if fully subscribed and paid."
+              },
+              {
+                "n": "6",
+                "title": "HCL Technologies",
+                "detail": "Opened a regional headquarters in Sandton, Johannesburg."
+              },
+              {
+                "n": "7",
+                "title": "Tata Power",
+                "detail": "Partnered with Norway's Ocean Sun on floating solar technology for India."
+              },
+              {
+                "n": "8",
+                "title": "Jubilant FoodWorks",
+                "detail": "Consolidated revenue ₹2,608.7 cr for the September quarter, up 11.9% on the year."
+              },
+              {
+                "n": "9",
+                "title": "Varun Beverages",
+                "detail": "Will invest up to ₹4.10 cr in Jager Renewables, a solar SPV in Uttar Pradesh."
+              },
+              {
+                "n": "10",
+                "title": "TD Power Systems",
+                "detail": "QIP opened with a floor price of ₹775.35 a share and a possible discount of up to 5%."
+              },
+              {
+                "n": "11",
+                "title": "Fino Payments Bank",
+                "detail": "Loan-referral disbursals up 223% on the year to ₹278 cr in September (provisional, unaudited)."
+              },
+              {
+                "n": "12",
+                "title": "Gujarat Pipavav Port",
+                "detail": "Container volume 1.92 lakh TEUs in Q2 against 1.64 lakh a year earlier."
+              },
+              {
+                "n": "13",
+                "title": "Allcargo Terminals",
+                "detail": "September volume 61,800 TEUs, down 7% on the year and 6% on the month."
+              },
+              {
+                "n": "14",
+                "title": "Bank of Baroda",
+                "detail": "CARE reaffirmed its AAA; Stable ratings on infrastructure and Tier II bonds and A1+ on its certificate of deposit programme."
+              },
+              {
+                "n": "15",
+                "title": "Kotak Mahindra Bank",
+                "detail": "Top Nifty gainer, +1.88% to ₹440.00 on a day banks cut early losses. No company news was reported."
+              },
+              {
+                "n": "16",
+                "title": "Asian Paints",
+                "detail": "Fell 2.15% to ₹2,372.10, with higher crude cited as pressure on paint stocks (CNBC-TV18)."
+              },
+              {
+                "n": "17",
+                "title": "Infosys",
+                "detail": "Fell 2.16% to ₹992 the day before TCS reports, per NineFifteenAM."
+              },
+              {
+                "n": "18",
+                "title": "Hindalco",
+                "detail": "Fell 3.15% to ₹910.85 as metals dropped on a stronger dollar."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Sources: <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-adani-enterprises-ola-electric-hcl-tech-tata-power-and-varun-beverages/articleshow/134771196.cms\" target=\"_blank\" rel=\"noopener\">Economic Times stocks in news, 8 October</a>, <a href=\"https://ninefifteenam.com/notes/post-market-report-7-october-2026\" target=\"_blank\" rel=\"noopener\">NineFifteenAM</a>, <a href=\"https://www.cnbctv18.com/market/fiis-sell-rs6121-crore-as-market-snaps-2-day-gaining-streak-20006959.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>. Price moves are 7 October closes. TCS results arrive after this paper is built."
+          }
+        ]
+      },
+      {
+        "heading": "Finance goldmine",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The arithmetic of a 25 bp hike on a home loan",
+            "kicker": "Mechanism"
+          },
+          {
+            "t": "p",
+            "html": "An illustration, not a quote from any lender. Take a ₹50 lakh loan over 20 years. At 8.50% the monthly instalment is about ₹43,391. At 8.75%, one quarter-point more, it is about ₹44,186. The difference is roughly ₹800 a month, around ₹1.9 lakh over the full 20 years. This assumes the full 25 bp is passed on and the term stays fixed. Lenders pass changes on at different speeds, and many borrowers see the tenure stretch instead of the instalment rise. Check your own loan's reset terms. Indian Express says the hike will push up borrowing costs on home, personal and vehicle loans and provide some support to deposit rates."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Your own loans, and any customer you speak to with a floating-rate loan, move by this much. It also shows why a 'small' hike still makes headlines."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742\" target=\"_blank\" rel=\"noopener\">RBI resolution</a> / <a href=\"https://indianexpress.com/article/india/rbi-hikes-repo-rate-25-bps-to-5-50-pc-emi-10910143/\" target=\"_blank\" rel=\"noopener\">Indian Express on EMIs</a>"
+          },
+          {
+            "t": "story",
+            "title": "Foreign investors sold ₹13,782 cr over three sessions this week, and domestic funds bought about the same",
+            "kicker": "Flows"
+          },
+          {
+            "t": "p",
+            "html": "FIIs were net sellers of ₹4,699.14 cr on Monday, ₹2,961.30 cr on Tuesday and ₹6,121.37 cr on Wednesday, according to CNBC-TV18's exchange data. That adds up to ₹13,781.81 cr over three sessions, my sum. DIIs bought ₹5,181.62 cr, ₹5,088.92 cr and ₹4,596.57 cr, a total of ₹14,867.11 cr. DIIs have therefore just about matched FII selling this week. One discrepancy: DayStarter's 7 October issue gives Tuesday's FII net sale as ₹4,281 cr, against ₹2,961 cr from CNBC-TV18. I used the exchange-based figure and could not resolve the gap."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Domestic funds keep absorbing the selling, but the gap widened on the day of the hike."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.cnbctv18.com/market/fiis-sell-rs6121-crore-as-market-snaps-2-day-gaining-streak-20006959.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a> / <a href=\"https://fin.preparoo.app/daystarter-october-07-2026\" target=\"_blank\" rel=\"noopener\">DayStarter, 7 Oct (discovery lead)</a>"
+          },
+          {
+            "t": "story",
+            "title": "Regulatory window: the GST Council meets today, with refunds, input credit and enforcement on the table",
+            "kicker": "Policy"
+          },
+          {
+            "t": "p",
+            "html": "The 57th Council meeting was originally 12 September, moved to 7 October because of the BRICS summit, then moved again to 8 October, with \"unavoidable circumstances\" cited. NDTV, citing Finance Ministry sources, says rates are expected to stay unchanged. Proposals include one rate-change date a year, effective 1 April. The input tax credit proposal would let a buyer with a valid invoice who received the goods and paid in full keep the credit even if an upstream supplier defaults. Refund claims currently take about 25 days. The proposal is acknowledgement within 10 days and 90% of eligible refunds released after a risk check. Treat all of this as proposals reported from sources. Outcomes land after this paper is published."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> No rate changes are expected. The relevant parts for you are procedural: faster refunds, more certain input tax credit and fewer criminal provisions."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.ndtv.com/india-news/no-gst-rate-change-council-to-focus-on-structural-reforms-at-upcoming-meet-12147055\" target=\"_blank\" rel=\"noopener\">NDTV, 6 Oct</a> / <a href=\"https://www.ndtv.com/india-news/57th-gst-council-meeting-rescheduled-for-2nd-time-to-be-held-on-thursday-12142957\" target=\"_blank\" rel=\"noopener\">NDTV, 5 Oct on the reschedule</a>"
+          },
+          {
+            "t": "story",
+            "title": "Bank angle on IRDAI: analysts see limited hit, but expect a shift in what banks push",
+            "kicker": "Sector"
+          },
+          {
+            "t": "p",
+            "html": "IIFL Capital, as quoted by Business Standard, puts the banking system's bancassurance income pool at about $2.2 billion, growing 28% a year over three years. It says that is about 10% of bank fee income, nearly 3% of profit after tax and roughly 6 basis points of return on assets. Banks could favour higher-commission products. Insurers could steer business to group companies. Both are analyst expectations, not outcomes."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It shows how different the pain is by channel. Banks have other income. Brokers and PoSP-heavy distributors do not."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/industry/banking/rbi-to-firm-up-views-on-irdai-s-proposed-insurance-commission-overhaul-126100701296_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, 7 Oct</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Startup intelligence",
+        "blocks": [
+          {
+            "t": "figure",
+            "alt": "The entrance of a Bengaluru office with a yellow-lit CRED sign at night",
+            "caption": "A Bengaluru startup office, file photo. CRED is not in today's news. Photo: Soumendra Kumar Sahoo (Wikimedia Commons, CC BY-SA 4.0).",
+            "img": "photos/d3-g3.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Indian startup money is moving to growth-stage rounds, away from late stage and fintech",
+            "kicker": "Insight"
+          },
+          {
+            "t": "p",
+            "html": "Inc42's Q3 2026 report says Indian startups raised $2.2 billion across 210 deals in July to September, up 5% on the year. Growth-stage funding rose 46% to $1.1 billion, while late-stage funding was flat at $994 million, with deal counts at 90 (up 38%) and 27 (down 10%). AI was the top sector at $438 million, up 265%. Cleantech took $433 million and deeptech $290 million. Fintech funding fell 11% and ecommerce fell 31%. This is one data provider's count and its categories may differ from others'. Investors quoted attribute it to more early-stage funds feeding Series A to C, a thin pool of large late-stage cheques, and more scrutiny of fundamentals."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The cheques are going to companies with proven early traction and long runways, mostly in AI, cleantech and deeptech. A fintech or insurtech pitch needs stronger numbers than it did two years ago."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://inc42.com/buzz/why-growth-stage-startup-funding-outpaced-late-stage-investments-in-q3/\" target=\"_blank\" rel=\"noopener\">Inc42, Q3 2026 funding report</a>"
+          },
+          {
+            "t": "story",
+            "title": "Three insurance-adjacent and fintech rounds from 7 October",
+            "kicker": "Deals"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "Desible.ai, ₹32 cr Seed Plus, Prime Venture Partners. Voice-first automation for insurers and banks. Company-reported usage, covered above.",
+              "Credfix, ₹16.1 cr seed led by Tanglin Venture Partners, with Stargazer. Helps borrowers understand debt, talk to lenders and handle recovery calls and legal notices. The company says it serves over 2 lakh borrowers with more than ₹4,000 cr of outstanding debt, and about 40% of its users are in Tier II and III cities.",
+              "Zomint, ₹36 cr seed led by Lightspeed and Prime Venture Partners. Wealth advice with human advisers and AI tools, founded September 2025. The company says it retained 97% of clients, with each relationship manager serving over 250 families. Both figures are company-reported."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-7-2026\" target=\"_blank\" rel=\"noopener\">YourStory roundup, 7 Oct</a> / <a href=\"https://entrepreneur.economictimes.indiatimes.com/news/funding/desible-ai-raises-32-crore-seed-plus-round-led-by-prime-venture-partners/134758156\" target=\"_blank\" rel=\"noopener\">ET Entrepreneur on Desible.ai</a>"
+          },
+          {
+            "t": "story",
+            "title": "Opportunities",
+            "kicker": "Where the gap might be"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "Servicing after the sale. IRDAI cites persistency as a core failure, and Insurance Samadhan's co-founder told India Today the debate is about the cost of selling more than the responsibility of servicing. Whoever owns the post-sale relationship is better placed if commissions are tied to outcomes.",
+              "Effort evidence. If commissions follow \"effort and complexity\", distributors will need a record of the advice they gave. Tools that capture it without extra work are a plausible need. This is my inference, not something any source says.",
+              "Debt-side advice. Credfix's numbers suggest a large borrower population with unmet advisory needs, though its figures are its own."
+            ]
+          },
+          {
+            "t": "story",
+            "title": "A renewal and claims-assistance layer built for distributors",
+            "kicker": "One idea, a hypothesis to test, not a validated market"
+          },
+          {
+            "t": "p",
+            "html": "The idea: give mid-size insurance distributors a WhatsApp-first renewal and claim-help assistant that logs every advisory and servicing touch per policy, so they can show \"effort\" and persistency to insurers and regulators. Desible.ai already sells automation to insurers, including persistency use cases, so the first thing to test is whether distributors, who sit on the other side of the commission cap, will pay for it. Two questions would kill or confirm it quickly: do distributors currently track their servicing effort at all, and would an insurer accept a distributor-supplied log as evidence?"
+          }
+        ]
+      },
+      {
+        "heading": "AI race",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Anthropic launched Claude Haiku 5.5 at about 75% lower cost than Haiku 4.5, and widened its startup programme",
+            "kicker": "Models and pricing"
+          },
+          {
+            "t": "p",
+            "html": "Anthropic's page says Haiku 5.5 costs around 75% less than Haiku 4.5 on average. Listed prices are $0.10 per million input tokens and $0.50 per million output tokens for prompts up to 100,000 tokens, against $1.00 and $5.00 for Haiku 4.5. It also halved Sonnet 5.5's cache-read price to $0.10 per million tokens. Anthropic's own benchmark table shows Haiku 5.5 ahead of its own Haiku 4.5 and of OpenAI's GPT-6 Luna on most listed tests, and behind Sonnet 5.5. Benchmarks were chosen and run by the vendor. The customer quotes on the page come from Asana, HubSpot, AlphaSense and Box, again selected by Anthropic."
+          },
+          {
+            "t": "p",
+            "html": "TechCrunch reports that the expanded Claude for Startups programme gives qualifying companies a free year of Claude Team with up to five premium seats and $1,000 in API credits. Eligibility is founded in the last five years or funded in the last two. This is a single source, summarising Anthropic's announcement. Check the programme page before relying on the terms."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Cheap, fast models change which product ideas have viable unit economics. The comparison table is Anthropic's own, so treat the rankings as vendor claims until independent tests appear."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.anthropic.com/claude-haiku-5-5\" target=\"_blank\" rel=\"noopener\">Anthropic, Haiku 5.5</a> / <a href=\"https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/\" target=\"_blank\" rel=\"noopener\">TechCrunch on Claude for Startups</a>"
+          },
+          {
+            "t": "story",
+            "title": "OpenAI published 722 AI-written maths papers, and mathematicians say they cannot check the system behind them",
+            "kicker": "Reported, contested"
+          },
+          {
+            "t": "p",
+            "html": "TechSpot reports that OpenAI released 722 papers from an internal model, grouped into 372 sets from about 4,000 problems, including advances it describes as related to three of the five remaining Millennium Prize Problems. TechSpot stresses that this does not mean those problems are solved. The reviewing has barely begun. Rutgers professor Alex Kontorovich wrote that if a human had done the reported Riemann result it would be \"an instant Fields Medal\", which is a reaction to the claim, not a verification of it. I found this only in TechSpot and did not read OpenAI's own page, so it is single-source."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It is a test of how AI claims should be verified: results without access to the model are hard for others to build on."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.techspot.com/news/114127-openai-publishes-722-ai-generated-math-papers-researchers.html\" target=\"_blank\" rel=\"noopener\">TechSpot</a>"
+          },
+          {
+            "t": "p",
+            "html": "GPT-6 and Intelligent UI are covered on the front page."
+          }
+        ]
+      },
+      {
+        "heading": "Vibe coding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Google launched Playground, a browser tool that turns a text prompt into a playable, shareable game",
+            "kicker": "Tool"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/\" target=\"_blank\" rel=\"noopener\">Playground</a> (Google's experimental site for building games from prompts) lets people describe a game in chat, test it, and keep it private, share a link or publish to a gallery. Games run on desktop and mobile, with leaderboards and multiplayer in select genres. Google says Unity Spark is coming for more advanced builds. A Google spokesperson told The Verge, as reported by Gizmodo, that it runs on Gemini, Nano Banana and Lyria with a custom harness. Gizmodo's own impression is that many early games feel like simple mini-games. The tool is labelled experimental."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It is the clearest example this week of the pattern worth borrowing: describe, test at once, share a link. It is also a reminder that most output at this level is simple."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/\" target=\"_blank\" rel=\"noopener\">Google blog</a> / <a href=\"https://gizmodo.com/googles-new-playground-aims-to-make-it-easy-to-vibe-code-a-game-right-in-your-browser-2000822955\" target=\"_blank\" rel=\"noopener\">Gizmodo</a>"
+          }
+        ]
+      },
+      {
+        "heading": "AI hack of the day",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Make the model write its own checks first, then build one slice",
+            "kicker": "Thursday: building"
+          },
+          {
+            "t": "p",
+            "html": "Most vibe-coded projects go wrong because you only find out what is broken after everything is built. Flip the order. Ask for the checks before the code, build only the first thing, run it, then go on. This is a working habit, not a claim from any source."
+          },
+          {
+            "t": "callout",
+            "html": "Copy and pasteI want to build [one sentence]. Before writing code, list 5 checks I can run by hand to know it works, each one a single action and an expected result. Then build only the smallest version that passes check 1. Show me exactly how to run it. Stop and wait. I will tell you whether check 1 passed before we do check 2."
+          },
+          {
+            "t": "p",
+            "html": "Why it works: each slice is small enough to review, and the model has a target. If a cheaper, faster model is good enough for the repetitive parts, Anthropic positions Haiku 5.5 for exactly that subagent role, but that is its own claim. Try it on your next side project and note how many checks fail on the first run."
+          }
+        ]
+      },
+      {
+        "heading": "Sports snippets",
+        "blocks": [
+          {
+            "t": "figure",
+            "alt": "An empty cricket stadium with red and blue seating around a green outfield",
+            "caption": "Ekana stadium, Lucknow, file photo of the venue. Photo: Tushar Singh Patel (Wikimedia Commons, CC BY-SA 4.0).",
+            "img": "photos/d3-g7.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Iyer's maiden T20I hundred and an unbroken 137 beat West Indies",
+            "kicker": "Cricket, first T20I in Lucknow"
+          },
+          {
+            "t": "p",
+            "html": "India chased 172 and won by eight wickets with 32 balls to spare. Shreyas Iyer finished unbeaten on 102, his first T20I century, and Ishan Kishan made an unbeaten 37. Their partnership was 137 after both openers fell by 3.3 overs, with India 35 for 2. Kishan said he deliberately gave Iyer the strike because he was not in rhythm himself. India lead the series 1-0. Source: <a href=\"https://www.cricinfo.com/story/ind-vs-wi-1st-t20i-shreyas-iyer-and-ishan-kishan-play-contrasting-innings-in-big-india-win-over-west-indies-1557440\" target=\"_blank\" rel=\"noopener\">Cricinfo</a>."
+          },
+          {
+            "t": "figure",
+            "alt": "A red and white Marussia Formula 1 car cornering on a street circuit behind a green wall and fencing",
+            "caption": "Singapore street circuit, 2014 file photo of a Marussia F1 car. Photo: Morio (Wikimedia Commons, CC BY-SA 4.0).",
+            "img": "photos/d3-g7.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Singapore is the last sprint weekend, with Antonelli 84 points clear",
+            "kicker": "Formula 1, this weekend"
+          },
+          {
+            "t": "p",
+            "html": "F1.com lists first practice on Friday 9 October at 16:30 local, sprint qualifying at 20:30, the sprint on Saturday at 17:00, qualifying at 21:00 and the race on Sunday 11 October at 20:00 local time. Singapore is two and a half hours ahead of India, so the race starts at 5:30 PM IST on Sunday. That conversion is mine. Kimi Antonelli leads the standings by 84 points after George Russell retired in Bahrain. Source: <a href=\"https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-singapore-grand-prix-and-how-can-i-watch-it.26vUwPc8sNYNC4KJRyXzLC\" target=\"_blank\" rel=\"noopener\">Formula1.com</a>."
+          }
+        ]
+      },
+      {
+        "heading": "CAT warmup",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Essay: \"Why real intelligence is something more than optimisation\"",
+            "kicker": "Reading, about 25 minutes"
+          },
+          {
+            "t": "p",
+            "html": "Sasha Mudd, a philosophy professor, argues that calling intelligence \"optimisation\" quietly adopts Hume's view that reason is a servant of desire, and that Kant's view of reason as the power to judge ends is the one we should defend as AI spreads. Read the full essay on <a href=\"https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation\" target=\"_blank\" rel=\"noopener\">Aeon</a> first. The three questions below are written from the whole essay, which I read in full."
+          },
+          {
+            "t": "story",
+            "title": "Reading comprehension",
+            "kicker": "Three questions on the essay"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q1.</strong> The author quotes Hume saying it is \"not contrary to reason to prefer the destruction of the whole world to the scratching of my finger\". She uses this to show that:"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "(a) Hume thought moral feelings were unimportant",
+              "(b) on Hume's view, reason can only judge means and cannot call even an extreme end irrational",
+              "(c) Kant agreed that desire alone should set our ends",
+              "(d) reason is more powerful in practice than the passions"
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q2.</strong> The author says AI \"agents\" that broke free of their task parameters in the Hugging Face incident do not by themselves show self-rule in Kant's sense because:"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "(a) the agents were still being controlled by their engineers at every step",
+              "(b) having purposes of one's own is not the same as governing them by reason, which means judging and revising ends by principles one can justify to others",
+              "(c) only biological beings can have ends",
+              "(d) breaking rules shows a lack of intelligence"
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q3.</strong> The \"deeper danger\" the author names, beyond machines failing to align with human values, is that:"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "(a) machines will become better than people at optimisation",
+              "(b) human values are too unclear to be programmed",
+              "(c) people may become so comfortable being predicted, nudged and served that they stop setting and judging their own ends",
+              "(d) regulators will not be able to keep up with AI companies"
+            ]
+          },
+          {
+            "t": "story",
+            "title": "Set: the five-team league",
+            "kicker": "LRDI, about 12 minutes"
+          },
+          {
+            "t": "p",
+            "html": "Five fintech teams, A to E, play a round-robin hackathon league. Every team plays every other team exactly once. There are no draws. A win earns 2 points, a loss 0. Final points were: A 6, B 4, C 4, D 2, E 4. Two more facts are known: D beat A, and E beat C."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "A",
+                "detail": "Final points"
+              },
+              {
+                "n": "2",
+                "title": "B",
+                "detail": "Final points"
+              },
+              {
+                "n": "3",
+                "title": "C",
+                "detail": "Final points"
+              },
+              {
+                "n": "4",
+                "title": "D",
+                "detail": "Final points"
+              },
+              {
+                "n": "5",
+                "title": "E",
+                "detail": "Final points"
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q1.</strong> Which team beat both B and D? (a) A (b) C (c) E (d) None"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q2.</strong> Which team's only win came against the team that finished top? (a) B (b) C (c) D (d) E"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q3.</strong> B, C and E are tied on 4 points. Looking only at the matches among these three, which is true? (a) B is ahead (b) C is ahead (c) E is ahead (d) Each has one win and one loss, so nothing separates them"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q4.</strong> Suppose A had beaten D instead, with every other result unchanged. How many teams would then have 4 or more points? (a) 2 (b) 3 (c) 4 (d) 5"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q5.</strong> In how many of the ten matches did the winner finish with strictly fewer points than the loser? (a) 0 (b) 1 (c) 2 (d) 3"
+          },
+          {
+            "t": "story",
+            "title": "Answers and worked solutions",
+            "kicker": "Don't scroll on until you've tried"
+          },
+          {
+            "t": "p",
+            "html": "<strong>RC.</strong> Q1 (b). The point of the quote is that reason cannot judge ends, so it cannot even call an absurd preference irrational. Q2 (b). The essay says having purposes of one's own is not the same as governing them by reason, and the stronger capacity is judging and revising purposes by principles justified to others as equals. Q3 (c). The author says the deeper concern is that we may have become \"too well aligned\" with machines and comfortable not being sovereign ourselves."
+          },
+          {
+            "t": "p",
+            "html": "<strong>LRDI setup.</strong> Points divide by 2 into wins: A 3, B 2, C 2, D 1, E 2. That totals 10, the number of matches, so the data is consistent. D has one win, over A, so D lost to B, C and E. E's two wins are over C and D, so E lost to A and B. B has two wins: over E and D, so B lost to A and C. C has two wins: over B and D, so C lost to A and E. A has three wins: over B, C and E, and lost only to D. Full results: A beat B, C, E. B beat D, E. C beat B, D. D beat A. E beat C, D. Every win count checks out."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q1: (b) C.</strong> D lost to B, C and E, and B lost to A and C. C is the only team on both lists."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q2: (c) D.</strong> The top team is A, and D's only win was over A."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q3: (d).</strong> Among the three: C beat B, B beat E, E beat C. It is a cycle, so each has one win and one loss."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q4: (c) 4.</strong> A gets 2 more points, going to 8, and D loses 2, going to 0. B, C and E stay on 4. So A, B, C and E have 4 or more, four teams."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Q5: (b) 1.</strong> Only D's win over A qualifies: D had 2 points and A had 6. In the B-C and C-E matches the winner and loser both finished on 4, so those do not count."
+          }
+        ]
+      },
+      {
+        "heading": "Source notes",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "DayStarter's 7 October issue and Zerodha's Aftermarket Report were used as discovery and cross-check inputs this morning. Zerodha's closing levels matched the two other sources I checked. DayStarter's Tuesday FII figure disagreed with exchange-based data, which I note above. Every fact in the front page was traced to a primary release or a named report, except where marked single-source. The long read, a separate file, goes through IRDAI's commission draft in depth."
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "A fan of Indian 100 and 2000 rupee notes lying on a white sheet",
+      "caption": "Indian rupee notes. Photo: Monito (Wikimedia Commons, CC BY 2.0), cropped.",
+      "img": "photos/d3-hero.jpg"
+    }
+  },
+  "audio": null,
+  "times": null
+}
