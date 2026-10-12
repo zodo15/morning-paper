@@ -216,8 +216,9 @@
     var txt = items.slice(0, 5).map(function (i) { return esc(i.split('.')[0]); }).join(' &nbsp;&bull;&nbsp; ');
     return '<div class="ticker"><span class="ticker-in">' + txt + ' &nbsp;&bull;&nbsp; ' + txt + '</span></div>';
   }
-  function conceptHTML() {
-    var c = D.concept;
+  function conceptHTML(day) {
+    var c = (D.editions[day] && D.editions[day].concept) || D.concept;
+    if (!c) return '';
     return '<div class="concept"><div class="concept-label">' + esc(c.label) + '</div>' +
       '<div class="concept-name">' + esc(c.name) + '</div><div class="concept-line">' + esc(c.line) + '</div></div>';
   }
@@ -237,7 +238,7 @@
     if (isToday) {
       h += playerHTML(day, 'full', 'The full read', 'Every section, read aloud', true);
       h += playerHTML(day, 'quick', 'The quick listen', 'Five minutes, just what matters', false);
-      h += conceptHTML();
+      h += conceptHTML(day);
     }
     if (ed.hero && ed.hero.img) {
       h += '<figure class="plate"><img src="' + ed.hero.img + '" alt="' + esc(ed.hero.alt || '') + '">' +
