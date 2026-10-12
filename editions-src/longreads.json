@@ -1,0 +1,962 @@
+{
+  "2": {
+    "title": "A paper promise, a square code",
+    "fact": "Long read, Wednesday 7 October 2026. About 12 minutes.",
+    "intro": "Every few generations India rebuilds the way money crosses distance. The tools change completely. The problem never does.",
+    "groups": [
+      {
+        "heading": "One",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Money that never travelled",
+            "kicker": "The paper era"
+          },
+          {
+            "t": "p",
+            "html": "The Reserve Bank of India describes the hundi as a credit instrument that evolved in India, most widely used in the 12th century and still around in modern times. The Economic Times, quoting that description, lists three jobs a hundi did: send funds from one place to another, work as a loan, and finance trade as a bill of exchange."
+          },
+          {
+            "t": "p",
+            "html": "The forms were specific. A darshani hundi was payable the moment it was shown. A muddati hundi was payable after a stated period or on a fixed date. A jokhami hundi tied payment to the safe arrival of goods, which makes it close to a primitive insurance contract. A trader choosing between them was choosing between speed, delay and risk."
+          },
+          {
+            "t": "p",
+            "html": "The paper was never the point. The point was the network of merchants and bankers who knew each other's credit well enough to honour it."
+          },
+          {
+            "t": "p",
+            "html": "That is the part worth keeping. The ET piece is careful to say a hundi was not simply an old-fashioned piece of paper. It worked because the instrument was backed by merchants and indigenous bankers who understood one another's reputation. It cites the historian Claude Markovits, whose work on trading communities such as the Shikarpuris shows how such networks moved capital across borders and kept relationships alive far from home. The ET writer also says the hundi was not an early version of UPI. I agree with that. But it faced a problem that survives every technology since: how do you move value without moving the money?"
+          }
+        ]
+      },
+      {
+        "heading": "Two",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "A second system arrives, and the two run side by side",
+            "kicker": "The branch era"
+          },
+          {
+            "t": "p",
+            "html": "Alongside these indigenous networks the British built a formal one. The Bank of Bengal was set up in 1806, the Bank of Bombay in 1840 and the Bank of Madras in 1843. In 1921 the three Presidency Banks merged into the Imperial Bank of India. The Reserve Bank of India began operating on 1 April 1935 under the RBI Act of 1934, and was nationalised on 1 January 1949. ET sums up the situation in 1947 neatly: India had two financial histories running at once, one of trust networks and one of formal banking."
+          },
+          {
+            "t": "figure",
+            "alt": "The Reserve Bank of India building in Mumbai behind trees",
+            "caption": "Reserve Bank of India, Mumbai. Photo: Sailko (Wikimedia Commons, CC BY 3.0).",
+            "img": "photos/d2-g0.jpg"
+          },
+          {
+            "t": "p",
+            "html": "After Independence the question changed. It was no longer only how money moved, but who could get into the system that moved it. The Imperial Bank became the State Bank of India in 1955. On 19 July 1969 the government nationalised 14 major banks, and six more in 1980. RBI data quoted by ET show branches growing from 8,262 in 1969 to 59,752 by March 1990. Lead bank schemes, regional rural banks and priority-sector lending pushed formal finance toward people it had never reached."
+          },
+          {
+            "t": "p",
+            "html": "Still, the branch stayed at the centre. To move money you often had to go to a counter, fill a form, hand over a cheque and wait while paper travelled between institutions. The hundi had been replaced by a better-governed, wider piece of paper, but the shape was the same."
+          }
+        ]
+      },
+      {
+        "heading": "Three",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The paper disappears, one layer at a time",
+            "kicker": "The rails era"
+          },
+          {
+            "t": "p",
+            "html": "Electronic payment came in stages, and each stage is easy to miss because payment infrastructure is mostly invisible. RTGS went live on 26 March 2004, first for transfers between banks. NEFT followed in November 2005 and gave ordinary customers a nationwide electronic transfer. The Payment and Settlement Systems Act of 2007 gave the whole area a legal framework. NPCI was incorporated in 2008 as an umbrella body for retail payments. Immediate Payment Service, IMPS, arrived in 2010 with round-the-clock interbank transfers."
+          },
+          {
+            "t": "p",
+            "html": "There was a catch. Faster rails are useless to people with nothing to pay from. The Pradhan Mantri Jan Dhan Yojana was announced on 15 August 2014 and launched on 28 August. By 22 July 2026, official data quoted by ET show 58.84 crore beneficiaries, ₹3.11 lakh crore in their accounts and 41.01 crore RuPay debit cards issued. Add Aadhaar for identity and the mobile phone as the access point, and you get the layers the SBI executive Rama Mohan Rao Amara calls the JAM trinity, Jan Dhan, Aadhaar and Mobile. UPI is built on top of them."
+          }
+        ]
+      },
+      {
+        "heading": "Four",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Ten years, and the numbers that matter",
+            "kicker": "The QR era"
+          },
+          {
+            "t": "p",
+            "html": "UPI went live as a pilot on 11 April 2016, with then RBI Governor Raghuram Rajan launching it in Mumbai. Twenty-one banks took part. The idea was a common platform for instant push and pull payments, linking several bank accounts through one interface. It reused what existed: IMPS for instant transfer, banks for the accounts, the phone for the screen. What it added was interoperability."
+          },
+          {
+            "t": "p",
+            "html": "The scale since is hard to take in. The PIB release says annual transactions went from about 2 crore in 2016-17 to 24,162 crore in 2025-26, a rise of nearly 12,000 times, while annual value went from ₹0.07 lakh crore to about ₹314 lakh crore. The Economic Times, citing NPCI, puts July 2026 at 23.66 billion transactions worth ₹29.88 lakh crore."
+          },
+          {
+            "t": "p",
+            "html": "The World Bank gives the comparison. Between July and September 2025, it says, UPI processed about 59 billion transactions, more than Mastercard's global total of roughly 54 billion and approaching Visa's roughly 82 billion. In 2024 UPI alone handled 172.2 billion transactions, against a combined 79.8 billion across the fast payment systems of eleven Latin American and Caribbean countries, Brazil's Pix included."
+          },
+          {
+            "t": "figure",
+            "alt": "A signboard reading BHIM UPI Accepted Here with a large QR code, standing among trees near a pile of bricks",
+            "caption": "A BHIM/UPI sign at the Shaurya Smarak, Bhopal. Photo: Suyash.dwivedi (Wikimedia Commons, CC BY-SA 4.0).",
+            "img": "photos/lr2-g3.jpg"
+          },
+          {
+            "t": "p",
+            "html": "Now look at the sign above. It is a banner on a post in a park. It has no counter, no staff and no opening hours. The SBI executive's column calls the QR code at a roadside tea stall \"perhaps the smallest branch of India's financial system\". The government figure behind that: 86% of person-to-merchant transactions in 2025-26 were below ₹500. The tiny payment is the product. Large transfers were already possible through banks."
+          }
+        ]
+      },
+      {
+        "heading": "Five",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Not the speed. The trust.",
+            "kicker": "What actually changed"
+          },
+          {
+            "t": "p",
+            "html": "It is tempting to say UPI is faster. It is, but the hundi was also faster than carrying coins, and the NEFT transfer was faster than a cheque. Speed does not explain a country switching habits."
+          },
+          {
+            "t": "p",
+            "html": "The World Bank authors give a better account. Their point is that India turned instant payments from a tool for large bank-to-bank settlement into a service for everyone. Earlier mobile money systems showed that simple phone payments could spread, but most were run by one provider and did not work with each other. India's move was to make the system open and interoperable, and to let non-bank apps compete on how it felt to use. They write that the real revolution was not technology alone but how technology is felt by people."
+          },
+          {
+            "t": "p",
+            "html": "The SBI column puts the same thing in one line: \"UPI did not simply digitise cash. It digitised trust.\" A hundi trusted a network of merchants. A branch trusted a building and a passbook. UPI asks you to trust a mobile number, a virtual payment address or a square code, enough to settle a promise between two people who may never meet. The column, I should say, is written by an executive of the country's largest bank, so read the praise with that in mind. But the same line about trust is what the hundi era ran on."
+          },
+          {
+            "t": "p",
+            "html": "Each generation found a new way to let strangers trust a promise. The paper, the building, the rail and the code are the packaging."
+          }
+        ]
+      },
+      {
+        "heading": "Six",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Where the sources say the next test is",
+            "kicker": "The open questions"
+          },
+          {
+            "t": "p",
+            "html": "Both the World Bank and the SBI column end on cautions, not victory laps. The World Bank names operational resilience, concentration risk that could hurt competition, transparency for users and open finance. The SBI column adds fraud: social engineering, mule accounts, synthetic identities and AI-enabled scams. It also raises a question about data. A richer digital footprint should widen a citizen's choices, it argues, not narrow them, which is why consent and purpose limits matter."
+          },
+          {
+            "t": "p",
+            "html": "Two numbers show how fast the system is still changing. The column says more than 800 million UPI transactions worth over ₹35,000 crore in July 2026 were authenticated by fingerprint or face. It also says UPI now runs in nine countries, with Cambodia the latest in 2026. The PIB release lists eight countries, and gives 703 banks live on UPI as of March 2026 against the column's 741 in August. The gap is probably timing, but I cannot confirm that from either source."
+          },
+          {
+            "t": "callout",
+            "html": "Where the sources differPIB (30 April 2026): 703 banks live, 8 countries accepting UPI. SBI column (24 August 2026): 741 banks, 9 countries. The PIB release also has internal inconsistencies in its launch-month figures, so I used only its annual numbers."
+          },
+          {
+            "t": "p",
+            "html": "A hundi worked because the merchants behind it were known. The next problem is making that true for a small shopkeeper whose digital receipts have never counted as proof of anything. The SBI column imagines using consented payment data, GST information and RBI's Unified Lending Interface to help lenders judge such borrowers better. It is a hope, not a result, and it is written by one bank's executive."
+          }
+        ]
+      },
+      {
+        "heading": "Seven",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Why this matters in insurance distribution",
+            "kicker": "For you, as my own note"
+          },
+          {
+            "t": "p",
+            "html": "This section is my reading, not something the sources say. Three things from the history look relevant to your work."
+          },
+          {
+            "t": "p",
+            "html": "First, the jokhami hundi. India had a payment instrument that bundled a transfer with a risk condition, payable on safe arrival of goods. Payments and risk cover were close relatives long before the two industries separated."
+          },
+          {
+            "t": "p",
+            "html": "Second, the pattern that worked. UPI built open rails, let banks and non-banks plug in, and competed on the experience above them. That is the argument the World Bank makes, and it is the same argument the insurance distribution fight turns on: who is allowed to build on top, and what the economics look like when they do. It is a useful lens for the IRDAI commission-cap debate in today's paper."
+          },
+          {
+            "t": "p",
+            "html": "Third, the limit. The rails made payments effortless. They did not by themselves make credit or cover effortless. If the SBI column's next step is right, the rail for protection and credit is consent-based data, and that is where a distribution platform could matter. Treat that as a question to chase, not a forecast."
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "A photographed album page with a small handwritten hundi in English and Persian, signed William Moorcroft, with a wax seal",
+      "caption": "A hundi for 11,000 rupees, signed by William Moorcroft on 20 December 1824. Photograph of the document from an album in the World Digital Library, via Wikimedia Commons (public domain).",
+      "img": "photos/lr2-hero.jpg"
+    }
+  },
+  "3": {
+    "title": "What IRDAI's commission reset changes",
+    "fact": "Long read, Thursday 8 October 2026. About 2,300 words.",
+    "intro": "The regulator says distributor pay has grown several times faster than the business it is paid on. Brokers say the fix would cost jobs and reach. Here is what the draft proposes, where the numbers conflict, and what it would mean for the people who sell insurance.",
+    "groups": [
+      {
+        "heading": "The problem, in IRDAI's words",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "On 23 September IRDAI released a two-part consultation paper called \"Recalibrating Economics of Insurance Distribution\". Its argument is simple. After the 2023 reforms gave insurers more freedom on how they spend, distribution costs went back up, while the number of people with cover barely moved."
+          },
+          {
+            "t": "p",
+            "html": "The paper backs that with growth rates. In a life-insurance sample covering about 92% of corporate-agent premium, new business premium grew 28% between FY23 and FY25 while total distributor pay grew 125% (<a href=\"https://bfsi.economictimes.indiatimes.com/articles/irdai-proposes-sweeping-insurance-distribution-overhaul-cuts-eom-caps-commissions-targets-mis-selling/134442049\" target=\"_blank\" rel=\"noopener\">ET BFSI</a>). The paper's own line, as quoted by ThePrint, is that \"remuneration is growing four to five times faster than the business it is paid on\". In general insurance, premium sourced through brokers grew 37% while commissions grew 173%, and average broker commission went from 8.5% to 17%. In motor, premium grew about 34% and commissions about 259% (<a href=\"https://theprint.in/health/irdais-insurance-sector-overhaul-proposes-lower-costs-tighter-commissions-simpler-distribution/3053657/\" target=\"_blank\" rel=\"noopener\">ThePrint</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Two figures describe what the regulator thinks the cost buys. The first is <a href=\"https://www.indiatoday.in/business/story/irdais-big-insurance-reset-explained-why-its-new-proposal-has-sparked-a-war-of-words-3010939-2026-10-07\" target=\"_blank\" rel=\"noopener\">persistency</a> (the share of policies still active years later). For life insurance, 61st-month persistency is 48%, against 71% for policies bought online. The paper reads this as evidence that choices made independently tend to last. The second is complaints. General insurance grievances went from 78,347 in FY23 to 1,37,361 in FY25, and nearly 69% of complaints on IRDAI's Bima Bharosa portal were linked to claims (ThePrint)."
+          },
+          {
+            "t": "p",
+            "html": "One more number matters because it is about incentives, not averages. IRDAI says distributor pay is nearly 27% of first-year premium, and rewards and incentives add another 30% to 60% on top of base commission. So base commission alone understates the real cost (ET BFSI). That is why the draft counts every form of payment."
+          }
+        ]
+      },
+      {
+        "heading": "What the draft proposes",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Lower expense limits",
+            "kicker": "Part one: how much insurers can spend"
+          },
+          {
+            "t": "p",
+            "html": "The central change is a lower ceiling on <a href=\"https://www.thehindubusinessline.com/business/insurance-brokers-oppose-new-reforms-as-commission-cuts-may-lead-to-job-losses/article71552334.ece\" target=\"_blank\" rel=\"noopener\">expenses of management</a> (EoM, the share of premium an insurer spends on running costs, including commissions). For life insurers: 15% within two years and 12.5% within five, with cuts starting in FY2027-28. Insurers already below the benchmark in FY25 would go to 10% within five years. For general insurers: 25% in two years and 20% in five. For general insurers, EoM would be measured against gross direct premium income in India, not gross written premium, which removes inward reinsurance and the double counting that comes with it (ET BFSI, ThePrint). IRDAI would also cut its own fee on insurers from 0.05% to 0.04% of premium, capped at ₹20 crore."
+          },
+          {
+            "t": "story",
+            "title": "Commission limits by product, channel and effort",
+            "kicker": "Part two: what distributors can earn"
+          },
+          {
+            "t": "p",
+            "html": "Commission limits would depend on segment, line of business, channel, product complexity and the effort of selling and servicing. Two adjustments stand out. Business sourced from towns with populations below 10 lakh would get an extra 10% on the applicable limit, and business from towns below 50,000 people and rural areas an extra 20%. Distributors in a closed architecture, who can sell only certain insurers' products, would have higher commission opportunities than open-architecture distributors (ET BFSI)."
+          },
+          {
+            "t": "p",
+            "html": "Moneycontrol reports specific caps: first-year commissions of 5% to 20% depending on tenure, health at 15% to 20% for first-time purchases, and renewals and porting at 5% to 10%. IBAI counts more than 30 caps across products and channels (<a href=\"https://www.thehindubusinessline.com/business/insurance-brokers-oppose-new-reforms-as-commission-cuts-may-lead-to-job-losses/article71552334.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>). The exact schedule is in the paper, which I did not read."
+          },
+          {
+            "t": "story",
+            "title": "Incentives, bundling and accountability",
+            "kicker": "Part three: the rules around selling"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "All remuneration, direct or indirect, cash or non-cash, would count as commission. For bank and NBFC staff selling insurance, volume-linked and reward-linked incentives would be banned. The paper names foreign and domestic trips, luxury gifts, milestone bonuses and contest rewards as examples.",
+              "Compulsory bundling of insurance with loans would be prohibited, with specific package offers allowed where there is a demonstrable customer benefit. Where insurance is offered as additional security, the customer would be told the loan rate with and without it.",
+              "Mis-selling would attach to the individual. The functional identity of the salesperson, PoSP or agent would be tagged to each policy, and mis-selling incidents would become part of a public performance record. Mis-selling would also trigger commission clawback by the insurer.",
+              "Listed practices that could count as mis-selling include presenting a regular-premium product as single premium, selling term cover to people without dependants or outside working age, selling ULIPs to risk-averse or older customers without explaining charges, and selling insurance as a fixed deposit.",
+              "Insurers would face mandatory cost audits covering all expenses including non-monetary incentives. Distributors with insurance revenue above ₹100 crore would need cost audits, and those above ₹50 crore would publicly disclose revenue, expenses, related-party payments and profit after tax."
+            ]
+          },
+          {
+            "t": "story",
+            "title": "Three categories and a digital channel",
+            "kicker": "Part four: who is allowed to sell"
+          },
+          {
+            "t": "p",
+            "html": "The draft would replace today's intermediary types with three: Insurance Distribution Entities, Insurance Distribution Persons and Market Infrastructure Institutions, under the principle \"same structure, same functions, same norms\". Entry and capital requirements would be lower. Hospitals could distribute health insurance as entities with lower commission limits, and non-dealer garages could sell motor insurance as associates of insurers. Market Infrastructure Institutions are digital, not-for-profit marketplaces. Bima Sugam is named as one, and IRDAI expects it to be running with a wide range of products in four to six months. Starting one would need at least 11 insurers with no significant holder (ET BFSI). The stated aim is a model where \"insurance is also purchased\", not only sold."
+          }
+        ]
+      },
+      {
+        "heading": "Where the reports disagree",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Reading several outlets side by side shows gaps that only the paper can settle."
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "The EoM base. ET BFSI says life insurers would go to 15% \"of premium\". The Hindu says 15% \"of gross direct premium income\", from a present level of 30% to 35%. These are different yardsticks, and I do not know which is right.",
+              "Motor commissions. ET BFSI gives an average of about 24% across a range of 13% to 50%. ThePrint says motor commissions nearly tripled from about 9% to 25%. These can both be true if one is a level and the other a change, but the outlets do not say so.",
+              "The size of the cut. CNBC-TV18 quotes Swami Saran Sharma of Helios Global Solutions saying the proposal cuts commissions by about 10%. The Moneycontrol caps look like cuts of very different sizes by product. I cannot reconcile the two without the paper.",
+              "The deadline. Feedback closes on 25 October. IBAI asked on 6 October for the end of December. IRDAI has not, in anything I read, agreed. A Moneycontrol interview with chairman Ajay Seth is headlined \"IRDAI rules out glide path for commission caps\", but it is paywalled and I could not read it."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The case for and against",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The consumer-first argument",
+            "kicker": "For"
+          },
+          {
+            "t": "p",
+            "html": "Monika Halan, a financial educator, told India Today the proposal puts the policyholder at the centre for the first time and that removing caps in 2023 produced \"a free-for-all\", with commissions, costs, mis-selling complaints and unpaid claims all rising. She thinks two and five years are too slow and says the cap should apply within six months. The India Today piece also describes two mis-selling cases, a retired Kolkata couple who paid about ₹12 lakh for two policies sold by a bank assistant manager, and a Mumbai man told he needed insurance to get a ₹40 lakh loan (<a href=\"https://www.indiatoday.in/business/story/irdais-big-insurance-reset-explained-why-its-new-proposal-has-sparked-a-war-of-words-3010939-2026-10-07\" target=\"_blank\" rel=\"noopener\">India Today</a>). Those are individual accounts in a news story, not data."
+          },
+          {
+            "t": "story",
+            "title": "The effort, choice and process arguments",
+            "kicker": "Against"
+          },
+          {
+            "t": "p",
+            "html": "Mahavir Chopra of insurtech Beshak does not dispute that mis-selling and excess commission exist. His objection is that a common cap treats a distributor who explains exclusions and helps with claims the same as one who only processes a transaction. He suggests grading pay by product complexity and distributor capability, with part of it tied to persistency, complaints and satisfaction. Thomas Devasia, a former IRDAI member for non-life, told CNBC-TV18 that hard caps are regressive because tightening the EoM framework would have been enough, and that the problem was enforcement of the 2023 rules (<a href=\"https://www.cnbctv18.com/business/irdai-insurance-distribution-reforms-commission-caps-dark-patterns-mii-policyholders-19997899.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)."
+          },
+          {
+            "t": "p",
+            "html": "IBAI, which represents brokers and so has a direct interest, argues four things. First, the 2023 framework has a scheduled review in 2028, and the draft reverses it \"without a regulatory impact assessment\". Second, the paper has no mechanism to make sure savings reach policyholders as lower premiums, so, it says, savings would move from distributors' and insurers' employees to insurers' owners. Third, an \"untested\" framework that does not exist elsewhere in the world needs wider consultation. Fourth, jobs: it estimates at least 10 lakh livelihoods at risk over five years, which it itself calls a preliminary estimate, against a total of more than 83 lakh distribution professionals by IRDAI's data. IBAI also supports parts of the draft: the ban on compulsory loan bundling, stronger suitability checks, and clawbacks for proven mis-selling (<a href=\"https://www.cnbctv18.com/business/finance/irdai-distribution-paper-ibai-more-time-for-consultation-asks-deadline-till-december-20005633.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>, <a href=\"https://www.thehindubusinessline.com/business/insurance-brokers-oppose-new-reforms-as-commission-cuts-may-lead-to-job-losses/article71552334.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>)."
+          },
+          {
+            "t": "p",
+            "html": "One point nobody in the coverage rebuts directly: IBAI's claim that savings would not reach customers. IRDAI's stated aim is to expand the risk pool and improve policyholder returns, but the reports I read do not show a mechanism either way."
+          }
+        ]
+      },
+      {
+        "heading": "Who feels it, and how",
+        "blocks": [
+          {
+            "t": "callout",
+            "html": "From here, my analysisEverything above is reported. This section is my reading of those reports. It is a set of questions and plausible effects, not findings."
+          },
+          {
+            "t": "story",
+            "title": "The arithmetic is thin",
+            "kicker": "Small, retail distributors"
+          },
+          {
+            "t": "p",
+            "html": "Indraneel Chatterjee, co-founder of InsuranceDekho, gave Moneycontrol two worked examples. A 5% commission on an own-damage premium of ₹800 leaves ₹40 at the entity level, before PoSP splits. A PoSP who sells three or four policies a month with combined premium of about ₹20,000 would, at a 4% net rate after broker retention, earn about ₹800 a month. The sums check out (5% of ₹800 is ₹40, and 4% of ₹20,000 is ₹800). The inputs are his assumptions, and he runs an affected business. The point stands as an illustration: on low-ticket products, a flat percentage leaves almost nothing for field effort. The draft's 10% and 20% allowances for small towns and rural areas look like a partial answer to this, but I have not seen anyone quantify them."
+          },
+          {
+            "t": "story",
+            "title": "Limited earnings hit, bigger product-mix question",
+            "kicker": "Banks"
+          },
+          {
+            "t": "p",
+            "html": "IIFL Capital, quoted by Business Standard, puts the banking system's bancassurance income pool at about $2.2 billion, around 10% of bank fee income, close to 3% of profit after tax and about 6 basis points of return on assets. Analysts therefore see a limited profit impact. They expect banks to reconsider which products they push in branches, favouring higher-commission ones and offsetting lower payouts with volume. The loan-bundling ban and the staff-incentive ban hit the bank channel in a different way, because they change how branch staff are paid and what they can attach to a loan (<a href=\"https://www.business-standard.com/industry/banking/rbi-to-firm-up-views-on-irdai-s-proposed-insurance-commission-overhaul-126100701296_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>)."
+          },
+          {
+            "t": "story",
+            "title": "Cheaper to run on paper, harder to steer",
+            "kicker": "Insurers"
+          },
+          {
+            "t": "p",
+            "html": "A lower EoM ceiling forces insurers to find savings somewhere. Commissions are the largest controllable item, which is why the two parts of the draft go together. The Business Standard report adds that insurers could steer business to group companies where the economics are easier to manage. The Hindu notes the timing, six months after FDI in insurance was raised to 100%, and asks whether the transition treats new and established insurers differently. That question is the Hindu's, not a finding."
+          },
+          {
+            "t": "story",
+            "title": "The market reacted on day one",
+            "kicker": "Online aggregators and insurtechs"
+          },
+          {
+            "t": "p",
+            "html": "Moneycontrol reports PB Fintech fell 15% and Turtlemint 20% after the paper was released, and ThePrint says insurance stocks came under sharp selling. One day's move is not a verdict. The draft cuts two ways for this group. Lower commissions squeeze margins, while the push towards digital and pull-based buying through Bima Sugam could bring in new competitors, or in IRDAI's framing, remove layers. Which effect dominates depends on the final caps, which are not yet written."
+          }
+        ]
+      },
+      {
+        "heading": "What to watch",
+        "blocks": [
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "25 October",
+                "v": "Feedback deadline on the draft. IBAI has asked for the end of December."
+              },
+              {
+                "k": "RBI comments",
+                "v": "Governor Sanjay Malhotra said on 7 October that the RBI has not firmed up its view and will send comments. He added that it is primarily in the consumer's interest to reduce costs and prevent mis-selling."
+              },
+              {
+                "k": "Bima Sugam",
+                "v": "IRDAI expected it to run with a wide product range in four to six months from the draft. In my reading, a delay would leave the digital channel without its flagship."
+              },
+              {
+                "k": "Final schedule",
+                "v": "The product-level caps and the small-town allowances are where the real economics sit. Watch for changes to those, not the headline EoM numbers."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "The draft is two arguments in one document. One is about cost, and the evidence IRDAI gives on pay outrunning premium is strong. The other is about what the cost buys, and nobody has shown yet how a cap turns into better persistency or fewer claim disputes."
+          },
+          {
+            "t": "p",
+            "html": "For your own work, three questions would sharpen your view before the deadline. What share of your distribution is low-ticket, where a flat cap bites hardest? What evidence of advice and servicing effort do you currently keep per policy, given the paper ties pay to effort? And how much of your revenue depends on renewal commission, given the reported 5% to 10% renewal and porting caps in health?"
+          }
+        ]
+      },
+      {
+        "heading": "Sources",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "ET BFSI, 23 September: IRDAI proposes sweeping insurance distribution overhaul",
+              "ThePrint, 25 September: IRDAI sector overhaul proposes lower costs, tighter commissions",
+              "The Hindu, 29 September: Insurance 2.0 after 100% FDI",
+              "Moneycontrol, 24 September: Six key concerns in IRDAI draft paper",
+              "CNBC-TV18, 24 September: IRDAI distribution reforms and what they mean for policyholders",
+              "India Today, 7 October: IRDAI big insurance reset explained",
+              "Business Standard, 7 October: RBI to firm up views on IRDAI commission overhaul",
+              "CNBC-TV18 and Hindu BusinessLine, 6 October: IBAI seeks more time"
+            ]
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "A fan of Indian 100 and 2000 rupee notes on a white sheet",
+      "caption": "Indian rupee notes. Photo: Monito (Wikimedia Commons, CC BY 2.0), cropped.",
+      "img": "photos/d3-hero.jpg"
+    }
+  },
+  "4": {
+    "title": "How Policybazaar built a market",
+    "fact": "Startup case study, edition 4. Founded 2008, listed 2021, now profitable.",
+    "intro": "Policybazaar started as a comparison website in 2008, when insurers saw it as a threat, and became the largest online seller of insurance in India. This is how it happened, where the record disagrees with itself, and why it matters while IRDAI rewrites commission rules.",
+    "groups": [
+      {
+        "heading": "The case study",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The idea came from travel",
+            "kicker": "2008"
+          },
+          {
+            "t": "p",
+            "html": "Policybazaar was founded in June 2008 by Yashish Dahiya, Alok Bansal and Avaneesh Nirjar (Wikipedia and Founder Nation agree on the date and the names). Dahiya had studied at IIT Delhi and IIM Ahmedabad, then INSEAD, worked at Bain and then at the online travel business ebookers. Forbes India quotes him in 2017 saying that the idea of becoming an aggregator emerged from ebookers. That is the core of the model: in travel, a site lists every airline's price and the customer chooses. That is the model it applied to insurance."
+          },
+          {
+            "t": "p",
+            "html": "Early money came from Info Edge, the company behind Naukri. The amount is where sources split. Forbes India's 2018 profile says ₹20 crore. Wikipedia says ₹30 million, which is ₹3 crore. These cannot both be right, and I could not find a primary source, so I am not giving a figure. Intel Capital invested in 2011."
+          },
+          {
+            "t": "p",
+            "html": "A second conflict is when co-founder Nirjar left. Forbes in 2017 and Founder Nation say 2011. Forbes in 2018 says 2013. I have not resolved it."
+          },
+          {
+            "t": "story",
+            "title": "Showing cost and commission",
+            "kicker": "The product that insurers disliked"
+          },
+          {
+            "t": "p",
+            "html": "Dahiya told Forbes in 2017 that insurers went to the regulator to \"kill us\". One reason, in the same coverage, was that Policybazaar's selling point was transparency: it showed customers what a policy cost and what the commissions were. For an industry whose sales ran through agents, a site that lined up products side by side threatened the usual way of selling. The company survived, and the regulator eventually licensed web aggregators as a category. A web-aggregator licence existed, since Policybazaar surrendered one in 2021."
+          },
+          {
+            "t": "figure",
+            "alt": "Bombay Stock Exchange tower on Dalal Street",
+            "caption": "Bombay Stock Exchange, Dalal Street, where Policybazaar's parent PB Fintech listed in 2021. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
+            "img": "photos/d2-g1.jpg"
+          },
+          {
+            "t": "story",
+            "title": "Profit, scale and voice calls",
+            "kicker": "2016 to 2018"
+          },
+          {
+            "t": "p",
+            "html": "Forbes India's 2018 profile says the aggregator business turned profitable in FY2016-17. At that time online insurance was about 5% of the Indian market, and Policybazaar had about half of that. In June 2018 a round led by SoftBank put in $238 million. Forbes breaks that into $200 million of new capital and $38 million bought from existing holders. Info Edge's share of that deal was $58 million. Tencent invested in 2019."
+          },
+          {
+            "t": "p",
+            "html": "The same profile shows how the company actually sold. Customers filled in a form online, then the call centre did the work: about 2 lakh voice calls a day, with speech analytics on the recordings, and around 75% of conversations in Hindi. The website was the lead source, and the phone was the sales channel. That detail matters for anyone who thinks online insurance means self-service. In India it largely meant online lead generation and human selling. The company also launched DocPrime, a doctor-booking service, in the same period."
+          },
+          {
+            "t": "story",
+            "title": "Listing, and a change of licence",
+            "kicker": "2021"
+          },
+          {
+            "t": "p",
+            "html": "PB Fintech went public on 15 November 2021 and raised ₹5,625 crore. Earlier that year, in June 2021, the company obtained a broking licence, surrendered its web-aggregator licence and began opening offline outlets. In plain terms, it stopped being only a comparison site. As a broker it can advise and place business and be paid commissions, with different rules from an aggregator."
+          },
+          {
+            "t": "figure",
+            "alt": "A Life Insurance Corporation of India death-claim settlement photo",
+            "caption": "A death-claim settlement event, LIC Janashree Bima Yojana. Photo: Ministry of Information and Broadcasting, Government of India (Wikimedia Commons, GODL-India).",
+            "img": "photos/lr4-g0.jpg"
+          },
+          {
+            "t": "story",
+            "title": "The June 2026 quarter",
+            "kicker": "Where it stands"
+          },
+          {
+            "t": "p",
+            "html": "Fortune India reported on 5 August 2026 for the first quarter of FY27. Revenue was ₹1,888 crore, up 40.1%. Profit after tax was ₹163 crore, up 92.4%. Total premium sold was ₹8,372 crore, up 41%. Core insurance renewal revenue was running at an annualised rate (ARR) of ₹999 crore, a run rate and not revenue earned in the quarter. The platform had sold 7.16 crore policies to 2.81 crore customers. Its profit margin moved from minus 47% in the June 2021 quarter to plus 9% now. I am leaving out full-year FY26 profit growth because two sources give 90% and 115%."
+          },
+          {
+            "t": "story",
+            "title": "Fines, a breach and a raid",
+            "kicker": "The other record"
+          },
+          {
+            "t": "p",
+            "html": "Wikipedia lists three events. In May 2021 the insurance regulator fined the company ₹2.4 million. In July 2022 there was a data breach. In January 2025 there was a GST raid. I have not read primary documents on any of them, so these are listed as reported and not assessed."
+          },
+          {
+            "t": "story",
+            "title": "Lessons, and my reading",
+            "kicker": "What a founder or product person can take from it"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "Pick a customer pain the industry hides. Showing prices and commissions made the product popular with buyers and unpopular with insurers. This is supported by Dahiya's own account.",
+              "Online demand, human closing. The 2 lakh daily calls show that in complex, low-frequency products, the website finds the customer and a person completes the sale. This is my reading of the Forbes figures.",
+              "Renewals are the quiet engine. Renewal revenue, running at an annualised ₹999 crore per Fortune India, is the part that compounds, though I do not have the same figure for earlier years to show the trend.",
+              "Regulation is part of the business. The company moved from aggregator to broker in 2021. Today it faces IRDAI's draft commission caps, whose feedback window closes 25 October."
+            ]
+          },
+          {
+            "t": "callout",
+            "html": "Why it matters this weekThe draft proposes lower commissions on health, motor and credit-linked insurance. ICRA expects the effect in FY28. I do not know how much of PB Fintech's revenue comes from the product lines affected, so I will not guess its exposure."
+          },
+          {
+            "t": "p",
+            "html": "Next case study: a different company in the next edition."
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "DLF Galleria shopping complex in Gurgaon lit up at night",
+      "caption": "Gurgaon, where Policybazaar is based. File photo, not of the company. Photo: Slyronit (Wikimedia Commons, CC BY-SA 4.0).",
+      "img": "photos/lr4-hero.jpg"
+    }
+  },
+  "5": {
+    "title": "How Zerodha built a moat, and what happens when regulation taxes it",
+    "fact": "Business teardown, edition 5. Founded 2010, bootstrapped, debt-free.",
+    "intro": "Zerodha took discount broking from six employees and ₹2 crore to India's most profitable brokerage, without raising venture money. Its FY25 numbers show the first real crack: a regulatory squeeze on the options traders it earns from. This is how the machine works, and where it is exposed.",
+    "groups": [
+      {
+        "heading": "Chronology",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "2010: Nithin and Nikhil Kamath found Zerodha in Bengaluru as a discount brokerage. The name joins \"zero\" with \"rodha\", Sanskrit for barrier. Six employees, ₹2 crore from Nithin's savings and a Singapore-based friend (Wikipedia).",
+              "2010 onwards: flat ₹20 per executed order on intraday and F&O trades; equity delivery commission-free (Wikipedia).",
+              "2013: Kailash Nadh joins to start the technology team and stays CTO; the platforms are built in-house (Wikipedia).",
+              "2014: Rainmatter, an early-stage fintech fund, is set up; it later backs CRED, Smallcase, Sensibull, GoldenPi and WintWealth (Wikipedia).",
+              "2019: Zerodha overtakes ICICI Securities as India's largest retail broker by active clients. True Beacon, an alternative investment fund, starts the same year (Wikipedia).",
+              "2020: a self-assessed $1 billion valuation through an ESOP buyback. Customers grow from about 1.3 million in early 2020 to nearly 10 million by the end of 2022 (Wikipedia).",
+              "2023: Zerodha Fund House launches with Smallcase, selling direct-only index funds that pay no distributor commissions (Wikipedia).",
+              "2025-26: invests in market-data platform Tijori Finance (Nov 2025) and gets a merchant banking licence through Zerodha Corporate Advisors (2026), per Wikipedia."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The machine, part by part",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Content instead of advertising",
+            "kicker": "Acquisition and distribution"
+          },
+          {
+            "t": "p",
+            "html": "Zerodha spent ₹47 crore on advertising in FY25, about 0.5% of its ₹8,847 crore revenue (our calculation from the Entrackr figures). Its distribution runs on free education and word of mouth: Varsity, Daily Brief, Zero1 and other content properties that Kamath says have become default places to learn finance, and Varsity Live, which crossed 2 lakh registrations for a free course (Z-Connect). Kamath also describes a deliberate stance against growth tricks: no trackers or analytics in the apps, no revenue-driven A/B testing, no notifications engineered to make people trade. He frames this as philosophy; functionally, it means acquisition cost stays near zero while competitors pay for installs. A Mint article cited in the same post notes Zerodha is the only broker that does not ask for intrusive app permissions."
+          },
+          {
+            "t": "story",
+            "title": "Free to open, free to invest",
+            "kicker": "Conversion"
+          },
+          {
+            "t": "p",
+            "html": "Account opening was made free in February 2024, and equity delivery trades carry no brokerage (Z-Connect, Wikipedia). The pricing removes every reason not to start. The paid product is the active trader: ₹20 per executed intraday or F&O order. Kamath's own framing is blunt about where revenue comes from: \"almost every brokerage business model relies on earnings from active traders who trade options\" (Z-Connect)."
+          },
+          {
+            "t": "story",
+            "title": "About ₹12,200 per user per year",
+            "kicker": "Money per customer"
+          },
+          {
+            "t": "p",
+            "html": "FY25 revenue of ₹8,847 crore across 7.26 million users works out to roughly ₹12,200 per user per year (our calculation; the user count is NSE data cited by Entrackr and is not the same base as paying traders, so treat this as an average, not per-trader yield). Brokerage is the primary stream; interest income, software services and investment-management fees add to it (Entrackr). The cost base is small for the scale: total FY25 costs were ₹3,238 crore, including ₹539 crore of salaries and ₹2,328 crore of fees and commissions, producing a 63.78% EBITDA margin and 32% ROCE (Entrackr)."
+          },
+          {
+            "t": "story",
+            "title": "Assets that stay, and lend",
+            "kicker": "The renewal engine"
+          },
+          {
+            "t": "p",
+            "html": "The repeat business is not a subscription; it is that client money stays on the platform. Assets held by Zerodha customers account for about 10% of all retail and HNI assets in the country (Z-Connect). On top of that base, newer products compound: the Margin Trading Facility, which lets clients buy shares with borrowed money, reached a book of about ₹5,000 crore and roughly 5% market share within nine months of launch, and Zerodha Capital's loan-against-securities book stands at ₹430 crore with same-day disbursal (Z-Connect)."
+          },
+          {
+            "t": "story",
+            "title": "A balance sheet as the moat",
+            "kicker": "Defensibility"
+          },
+          {
+            "t": "p",
+            "html": "Zerodha's exchange-calculated net worth is a little over ₹13,000 crore (LC Gupta method, which excludes private investments and discounts pledged assets), more than 50% of the client funds it handles on any given day, with zero debt (Z-Connect). FY25 cash and bank balances were ₹22,679 crore against total current assets of ₹35,719 crore (Entrackr). It self-hosts core systems, so customer data stays on its own infrastructure, publishes incident disclosures without being required to, and runs Kite Backup, a WhatsApp-based emergency trading channel on separate infrastructure (Z-Connect). Kamath presents the no-dark-patterns stance as a trust moat; the financial cushion is what lets him keep it when revenue falls."
+          }
+        ]
+      },
+      {
+        "heading": "The crack",
+        "blocks": [
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Zerodha revenue and profit, FY24 versus FY25\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 320\"><line stroke=\"#999\" stroke-width=\"1\" x1=\"0\" x2=\"720\" y1=\"250\" y2=\"250\"></line><g><rect fill=\"#b8c2cc\" height=\"209.853\" width=\"120\" x=\"37\" y=\"40.147000000000006\"></rect><rect fill=\"#1f6feb\" height=\"185.787\" width=\"120\" x=\"203\" y=\"64.213\"></rect><text fill=\"#444\" font-size=\"20\" text-anchor=\"middle\" x=\"97\" y=\"32.147000000000006\">₹9,993 cr</text><text fill=\"#1f6feb\" font-size=\"20\" text-anchor=\"middle\" x=\"263\" y=\"56.212999999999994\">₹8,847 cr</text><text fill=\"#222\" font-size=\"21\" text-anchor=\"middle\" x=\"180\" y=\"280\">Revenue from operations</text></g><g><rect fill=\"#b8c2cc\" height=\"115.416\" width=\"120\" x=\"397\" y=\"134.584\"></rect><rect fill=\"#1f6feb\" height=\"88.97699999999998\" width=\"120\" x=\"563\" y=\"161.02300000000002\"></rect><text fill=\"#444\" font-size=\"20\" text-anchor=\"middle\" x=\"457\" y=\"126.584\">₹5,496 cr</text><text fill=\"#1f6feb\" font-size=\"20\" text-anchor=\"middle\" x=\"623\" y=\"153.02300000000002\">₹4,237 cr</text><text fill=\"#222\" font-size=\"21\" text-anchor=\"middle\" x=\"540\" y=\"280\">Net profit</text></g><rect fill=\"#b8c2cc\" height=\"16\" width=\"16\" x=\"420\" y=\"8\"></rect><text fill=\"#444\" font-size=\"18\" x=\"442\" y=\"22\">FY24</text><rect fill=\"#1f6feb\" height=\"16\" width=\"16\" x=\"510\" y=\"8\"></rect><text fill=\"#444\" font-size=\"18\" x=\"532\" y=\"22\">FY25</text><text fill=\"#777\" font-size=\"16\" x=\"0\" y=\"312\">Unit: ₹ crore, FY ended March. Source: RoC filings via Entrackr, 21 Nov 2025.</text></svg>",
+            "label": "Zerodha revenue and profit, FY24 versus FY25"
+          },
+          {
+            "t": "p",
+            "html": "FY25 was the first down year in the company's public record. Revenue from operations fell 11.5% to ₹8,847 crore from ₹9,993 crore, and net profit fell 22.9% to ₹4,237 crore from ₹5,496 crore (RoC statements via Entrackr; a Tracxn-based report by Indian Startup News puts revenue at ₹8,868.2 crore and profit at ₹4,236.7 crore, a small difference in source data, shown here as reported by each). The company still paid ₹1,395 crore in taxes, and directors Nithin Kamath, Nikhil Kamath and Seema Patil drew ₹228 crore in combined remuneration (Entrackr)."
+          },
+          {
+            "t": "p",
+            "html": "The cause is regulatory, and Kamath names it himself. SEBI's steps to cool retail F&O speculation - a higher securities transaction tax on options, fewer weekly expiries, a higher basic-services demat limit, and removal of the exchange transaction-charge rebate - began biting from October 2024. In the June 2025 quarter, brokerage revenue fell about 40% from a year earlier, and Kamath wrote that regulators are evaluating whether to stop weekly options altogether, in which case Zerodha would be \"forced to start charging brokerage for equity delivery trades\" to keep the business tenable (Z-Connect). Active clients fell from 7.95 million in February to 7 million in October 2025 on NSE data, while Groww, which listed in November 2025, holds 12 million active users; Groww's September-quarter profit rose 12% to ₹471.33 crore even as its revenue fell 9.5% (Indian Startup News)."
+          },
+          {
+            "t": "callout",
+            "html": "The risk, in one lineZerodha's moat is its balance sheet and trust; its exposure is that the revenue engine sits on a product, retail options trading, that the regulator considers harmful and is actively shrinking. The FY25 decline is small because the rules landed mid-year; the June 2025 quarter's 40% brokerage fall is the fuller picture, in the founder's own numbers."
+          }
+        ]
+      },
+      {
+        "heading": "Lessons, with the evidence behind each",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Distribution can be a by-product of generosity. Free education and zero-friction pricing replaced a marketing budget; advertising was about 0.5% of revenue in FY25 (Entrackr figures, our calculation).",
+              "Let the customer keep the first product free and charge where intensity is highest. Delivery investing is free; the ₹20 fee sits on frequent F&O and intraday orders (Wikipedia). The risk is that regulators can see the same concentration.",
+              "A balance sheet is a strategy, not an outcome. Net worth above 50% of client funds and zero debt (Z-Connect) are what allow Zerodha to refuse dark patterns and survive a 40% quarterly brokerage fall without changing its model.",
+              "Founder pessimism is cheap insurance. Kamath publicly expected the regulatory hit years before it came, and judges the business on a five-year moving average rather than quarterly growth (Z-Connect). The trade-off is visible too: Groww now has nearly twice the active clients (Indian Startup News).",
+              "Adjacencies spread the bet slowly. Asset management, loans against securities, MTF, merchant banking and the Rainmatter portfolio each reduce reliance on options income, but none is yet large enough to replace it (Wikipedia, Z-Connect)."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Next teardown: a different company in the next edition."
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "The Bombay Stock Exchange tower on Dalal Street",
+      "caption": "Dalal Street, Mumbai. Zerodha is a member of the BSE, NSE and MCX. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
+      "img": "photos/d2-g1.jpg"
+    }
+  },
+  "6": {
+    "title": "Groww's money machine, listed",
+    "fact": "Business teardown, edition 6. India's largest investment platform by active clients.",
+    "intro": "Groww converts first-time investors into multi-product regulars at a profit margin most software companies would envy. Its first year as a listed company shows the machine working: 81% revenue growth in the March quarter, a 44.7% profit margin, and market-share gains in every product. It also shows the two dependencies that could hurt: derivatives regulation and the cost of buying growth.",
+    "groups": [
+      {
+        "heading": "Chronology",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "2016: Groww starts in Bengaluru, founded by former Flipkart employees (Reuters). The company was incorporated in 2018 as Billionbrains Garage Ventures, per its corporate identity number; Groww's own IPO page uses 2018.",
+              "March 2023: 5.37 million active clients on the NSE, a 15.09% share of the exchange's active base (prospectus).",
+              "FY23 to FY25: revenue from operations compounds at 84.9% a year (prospectus).",
+              "June 2025: 12.58 million NSE active clients, 26.27% share. Roughly one in three new SIPs in India that month was created on Groww; it held 18.5% of all active SIPs (prospectus, citing AMFI data).",
+              "October 2025: acquires Fisdom, a wealth-management platform (shareholders' letter).",
+              "4-7 November 2025: IPO of ₹6,632 crore at ₹95-100 a share, subscribed 17.6 times (Groww IPO page).",
+              "12 November 2025: lists at ₹112, up 12%, and climbs to ₹124 on debut, valuing the company at ₹761 billion, about $8.6 billion, above listed peers Motilal Oswal and Angel One (Reuters).",
+              "November 2025: first listed quarter, Q2 FY26, shows the regulatory squeeze: revenue down 9.5% year on year (Economic Times).",
+              "March quarter 2026: the rebound. Total income ₹1,536 crore, up 81% year on year; profit ₹686 crore, a 44.7% margin (shareholders' letter).",
+              "September 2026: adds over 1 lakh NSE active clients in the month, keeping the industry lead as the total base reaches 4.61 crore (NSE data via Startup Spotlight India)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The machine",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "One app, five revenue lines",
+            "kicker": "What Groww sells"
+          },
+          {
+            "t": "p",
+            "html": "Groww is a direct-to-customer investment platform: stocks, derivatives, mutual funds, bonds, IPOs, margin funding and personal loans in one app (prospectus). Broking produced 84.5% of FY25 revenue, and management has been widening the mix since. By the March 2026 quarter, <a href=\"https://en.wikipedia.org/wiki/National_Stock_Exchange_of_India\" target=\"_blank\" rel=\"noopener\">equity derivatives</a> (futures and options on stocks and indices) were 54.6% of total income, with stocks, commodities, margin trading, credit and treasury income making up the rest (shareholders' letter)."
+          },
+          {
+            "t": "p",
+            "html": "Product attach is the engine: 72% of active users trade stocks, 60% use mutual funds, 10% trade equity derivatives (letter, Q4 FY26). Commodity derivatives reached 393,000 active traders, up 53.8% in the quarter, still only a 2.4% attach rate, which is why management calls it early. The credit business, loans distributed for partner banks plus some on Groww's own balance sheet, contributed 4.1% of consolidated profit in Q4 FY26."
+          },
+          {
+            "t": "story",
+            "title": "The organic engine",
+            "kicker": "Growth without ads, mostly"
+          },
+          {
+            "t": "p",
+            "html": "Across FY23, FY24, FY25 and the June 2025 quarter, between 81% and 84% of new customers arrived organically, without paid marketing (prospectus). Of users who completed three years on the platform, 77.7% remained. Transacting users opened the app often: a daily-to-monthly active ratio of about 56% in FY25. Cohorts deepen with age: users acquired in early FY22 held 5.36 times more assets per user by FY25, generated 1.86 times more revenue per user, and 53% of them used two or more products (prospectus)."
+          },
+          {
+            "t": "p",
+            "html": "The listed-company wrinkle: acquisition cost is rising as Groww spends on brand. Customer acquisition cost reached ₹1,374 in H1 FY26, against ₹796 a year earlier, after branding campaigns (Economic Times on Q2 FY26). The company's own framing splits spending into \"cost to serve\" (technology and transaction charges, 14.7% of Q4 FY26 revenue), \"cost to grow\" (marketing, 8.5%) and \"cost to operate\" (mostly employees, 18.8%), leaving an EBITDA margin of 66.1% on the platform before the Fisdom and GrowwMF losses."
+          },
+          {
+            "t": "story",
+            "title": "Regulation hits the core product",
+            "kicker": "The squeeze"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India\" target=\"_blank\" rel=\"noopener\">SEBI</a> (the securities market regulator) tightened derivatives rules in October 2024, and the impact was direct: Groww's active broking users fell from 7.24 million in Q1 FY25 to 6.12 million in Q1 FY26 (prospectus). A \"true-to-label\" circular then cut revenue per derivatives order (Economic Times). The September 2025 quarter captured the combined effect: revenue fell 9.5% year on year while profit rose 12%, and the company disclosed that adjusting for a one-time incentive reversal, profit too would have declined 12-13%. Industry-wide, NSE active users shrank from 50.2 million in January 2025 to 45.3 million by September 2025; Groww's fell less, from 13.2 to 11.9 million, so share kept rising through the shrink."
+          },
+          {
+            "t": "p",
+            "html": "The response is the diversification visible in the numbers: margin trading book up 22% in a quarter when indices fell 16-17% and the industry book contracted 7%; commodity derivatives scaling; credit contributing to profit. The two loss-makers are deliberate: Fisdom lost ₹10.2 crore and the GrowwMF fund house lost ₹21.4 crore in Q4 FY26, with Fisdom expected to be profitable in FY28 and GrowwMF needing five to six times its current assets under management to break even (management's statements in the letter)."
+          }
+        ]
+      },
+      {
+        "heading": "The numbers",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Total income and profit",
+            "kicker": "Five quarters, from IPO quarter to record quarter"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Groww total income and profit by quarter, Q4 FY25 to Q4 FY26\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 760 300\"><line stroke=\"#999\" stroke-width=\"1\" x1=\"10\" x2=\"750\" y1=\"250\" y2=\"250\"></line><g><rect fill=\"#b8c2cc\" height=\"111.5625\" width=\"41.440000000000005\" x=\"39.559999999999995\" y=\"138.4375\"></rect><rect fill=\"#1f6feb\" height=\"40.556250000000006\" width=\"41.440000000000005\" x=\"87\" y=\"209.44375\"></rect><text fill=\"#444\" font-size=\"15\" text-anchor=\"middle\" x=\"60.28\" y=\"132.4375\">850</text><text fill=\"#1f6feb\" font-size=\"15\" text-anchor=\"middle\" x=\"107.72\" y=\"203.44375\">309</text><text fill=\"#222\" font-size=\"16\" text-anchor=\"middle\" x=\"84\" y=\"274\">Q4 FY25</text></g><g><rect fill=\"#b8c2cc\" height=\"124.55625\" width=\"41.440000000000005\" x=\"187.56\" y=\"125.44375\"></rect><rect fill=\"#1f6feb\" height=\"49.61249999999998\" width=\"41.440000000000005\" x=\"235\" y=\"200.38750000000002\"></rect><text fill=\"#444\" font-size=\"15\" text-anchor=\"middle\" x=\"208.28\" y=\"119.44375\">949</text><text fill=\"#1f6feb\" font-size=\"15\" text-anchor=\"middle\" x=\"255.72\" y=\"194.38750000000002\">378</text><text fill=\"#222\" font-size=\"16\" text-anchor=\"middle\" x=\"232\" y=\"274\">Q1 FY26</text></g><g><rect fill=\"#b8c2cc\" height=\"140.56875000000002\" width=\"41.440000000000005\" x=\"335.56\" y=\"109.43124999999999\"></rect><rect fill=\"#1f6feb\" height=\"61.81875000000002\" width=\"41.440000000000005\" x=\"383\" y=\"188.18124999999998\"></rect><text fill=\"#444\" font-size=\"15\" text-anchor=\"middle\" x=\"356.28\" y=\"103.43124999999999\">1,071</text><text fill=\"#1f6feb\" font-size=\"15\" text-anchor=\"middle\" x=\"403.72\" y=\"182.18124999999998\">471</text><text fill=\"#222\" font-size=\"16\" text-anchor=\"middle\" x=\"380\" y=\"274\">Q2 FY26</text></g><g><rect fill=\"#b8c2cc\" height=\"165.50625\" width=\"41.440000000000005\" x=\"483.56\" y=\"84.49375\"></rect><rect fill=\"#1f6feb\" height=\"71.79374999999999\" width=\"41.440000000000005\" x=\"531\" y=\"178.20625\"></rect><text fill=\"#444\" font-size=\"15\" text-anchor=\"middle\" x=\"504.28\" y=\"78.49375\">1,261</text><text fill=\"#1f6feb\" font-size=\"15\" text-anchor=\"middle\" x=\"551.72\" y=\"172.20625\">547</text><text fill=\"#222\" font-size=\"16\" text-anchor=\"middle\" x=\"528\" y=\"274\">Q3 FY26</text></g><g><rect fill=\"#b8c2cc\" height=\"201.6\" width=\"41.440000000000005\" x=\"631.56\" y=\"48.400000000000006\"></rect><rect fill=\"#1f6feb\" height=\"90.0375\" width=\"41.440000000000005\" x=\"679\" y=\"159.9625\"></rect><text fill=\"#444\" font-size=\"15\" text-anchor=\"middle\" x=\"652.28\" y=\"42.400000000000006\">1,536</text><text fill=\"#1f6feb\" font-size=\"15\" text-anchor=\"middle\" x=\"699.72\" y=\"153.9625\">686</text><text fill=\"#222\" font-size=\"16\" text-anchor=\"middle\" x=\"676\" y=\"274\">Q4 FY26</text></g><rect fill=\"#b8c2cc\" height=\"14\" width=\"14\" x=\"430\" y=\"8\"></rect><text fill=\"#444\" font-size=\"16\" x=\"450\" y=\"20\">Total income</text><rect fill=\"#1f6feb\" height=\"14\" width=\"14\" x=\"570\" y=\"8\"></rect><text fill=\"#444\" font-size=\"16\" x=\"590\" y=\"20\">Profit after tax</text><text fill=\"#777\" font-size=\"14\" x=\"0\" y=\"294\">Unit: ₹ crore, consolidated. Source: Q4 FY26 shareholders' letter, April 2026.</text></svg>",
+            "label": "Groww total income and profit by quarter, Q4 FY25 to Q4 FY26"
+          },
+          {
+            "t": "p",
+            "html": "FY26 closed with revenue from operations of ₹4,645 crore and profit of ₹2,083 crore, audited and consolidated (Q1 FY27 filing). The newest quarter, Q1 FY27 ended June 2026, brought revenue of ₹1,501 crore, up 66% year on year, and profit of ₹735 crore, up 94%. Platform scale at March 2026: 21.6 million total transacting users, 16.7 million active users, ₹3.0 trillion in customer assets, up 36% year on year, and ₹25,000 crore of net inflows in the March quarter alone. Customer assets dipped 1.1% in that quarter despite inflows, because falling markets marked down existing holdings; the company publishes the split."
+          },
+          {
+            "t": "story",
+            "title": "Market share, Q4 FY25 to Q4 FY26",
+            "kicker": "Share gains across every product"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Groww market share by product, Q4 FY25 versus Q4 FY26\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 260\"><g><text fill=\"#222\" font-size=\"16\" text-anchor=\"end\" x=\"190\" y=\"59.5\">MF SIP inflows</text><rect fill=\"#b8c2cc\" height=\"18.5\" width=\"289.05555555555554\" x=\"200\" y=\"34\"></rect><text fill=\"#666\" font-size=\"14\" x=\"495.05555555555554\" y=\"45.25\">12.1%</text><rect fill=\"#1f6feb\" height=\"18.5\" width=\"375.05555555555554\" x=\"200\" y=\"56.5\"></rect><text fill=\"#1f6feb\" font-size=\"14\" x=\"581.0555555555555\" y=\"71\">15.7%</text></g><g><text fill=\"#222\" font-size=\"16\" text-anchor=\"end\" x=\"190\" y=\"108.5\">Retail cash turnover</text><rect fill=\"#b8c2cc\" height=\"18.5\" width=\"293.8333333333333\" x=\"200\" y=\"83\"></rect><text fill=\"#666\" font-size=\"14\" x=\"499.8333333333333\" y=\"94.25\">12.3%</text><rect fill=\"#1f6feb\" height=\"18.5\" width=\"334.44444444444446\" x=\"200\" y=\"105.5\"></rect><text fill=\"#1f6feb\" font-size=\"14\" x=\"540.4444444444445\" y=\"120\">14.0%</text></g><g><text fill=\"#222\" font-size=\"16\" text-anchor=\"end\" x=\"190\" y=\"157.5\">Retail deriv. premium</text><rect fill=\"#b8c2cc\" height=\"18.5\" width=\"162.44444444444446\" x=\"200\" y=\"132\"></rect><text fill=\"#666\" font-size=\"14\" x=\"368.44444444444446\" y=\"143.25\">6.8%</text><rect fill=\"#1f6feb\" height=\"18.5\" width=\"253.22222222222223\" x=\"200\" y=\"154.5\"></rect><text fill=\"#1f6feb\" font-size=\"14\" x=\"459.22222222222223\" y=\"169\">10.6%</text></g><g><text fill=\"#222\" font-size=\"16\" text-anchor=\"end\" x=\"190\" y=\"206.5\">MTF book</text><rect fill=\"#b8c2cc\" height=\"18.5\" width=\"21.5\" x=\"200\" y=\"181\"></rect><text fill=\"#666\" font-size=\"14\" x=\"227.5\" y=\"192.25\">0.9%</text><rect fill=\"#1f6feb\" height=\"18.5\" width=\"64.5\" x=\"200\" y=\"203.5\"></rect><text fill=\"#1f6feb\" font-size=\"14\" x=\"270.5\" y=\"218\">2.7%</text></g><rect fill=\"#b8c2cc\" height=\"13\" width=\"13\" x=\"420\" y=\"4\"></rect><text fill=\"#444\" font-size=\"15\" x=\"438\" y=\"15\">Q4 FY25</text><rect fill=\"#1f6feb\" height=\"13\" width=\"13\" x=\"520\" y=\"4\"></rect><text fill=\"#444\" font-size=\"15\" x=\"538\" y=\"15\">Q4 FY26</text><text fill=\"#777\" font-size=\"14\" x=\"0\" y=\"254\">Market share, %. Turnover shares now computed on two-sided turnover. Source: Q4 FY26 letter.</text></svg>",
+            "label": "Groww market share by product, Q4 FY25 versus Q4 FY26"
+          },
+          {
+            "t": "p",
+            "html": "The cleanest read on the Groww thesis: in a year when the industry's active base shrank, Groww's share of <a href=\"https://en.wikipedia.org/wiki/Systematic_investment_plan\" target=\"_blank\" rel=\"noopener\">SIP</a> (systematic investment plan, a recurring mutual fund investment) inflows rose from 12.1% to 15.7%, of retail cash-market turnover from 12.3% to 14.0%, of retail derivatives premium turnover from 6.8% to 10.6%, and of the margin-funding book from 0.9% to 2.7% (letter). Gaining share in a shrinking market is how a platform grows through a regulatory squeeze; it is also why the squeeze's cost lands on competitors first."
+          }
+        ]
+      },
+      {
+        "heading": "The contrast",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Groww versus Zerodha",
+            "kicker": "Yesterday's teardown meets today's"
+          },
+          {
+            "t": "p",
+            "html": "Pair this with <a href=\"https://files.instinct.com/debmcmlq4ejy-how-zerodha-built-a-moat\" target=\"_blank\" rel=\"noopener\">yesterday's Zerodha teardown</a> and the two strategies stand in relief. Zerodha, private and bootstrapped, earned ₹4,237 crore on ₹8,847 crore of revenue in FY25, but both shrank, revenue down 11.5% and profit down 22.9%, and it holds ₹22,679 crore in cash (RoC filings via Entrackr). Groww, venture-raised and now listed, earned ₹2,083 crore on ₹4,645 crore in FY26, growing 81% in the final quarter. The incumbent is bigger, more profitable and contracting; the challenger is half the profit, growing fast, and deploying IPO money into lending and wealth. Different periods, labelled: Zerodha's figures are FY25, Groww's are FY26. Same regulator squeezing both core products. Source: <a href=\"https://entrackr.com/fintrackr/zerodha-cash-reserve-stands-at-rs-22679-cr-in-fy25-10799921\" target=\"_blank\" rel=\"noopener\">Entrackr on Zerodha's FY25 RoC filing</a>."
+          }
+        ]
+      },
+      {
+        "heading": "What to watch",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Q2 FY27 results, due around November by last year's pattern: does the 66% revenue growth of Q1 hold, and does acquisition cost keep climbing?",
+              "The derivatives dependency: 54.6% of total income in Q4 FY26, with SEBI still tightening. Every new rule has so far shrunk the market faster than Groww's share gains could fully offset.",
+              "Margin-funding risk: the MTF book grew 22% in a falling market. Leveraged books grow fastest into volatility; the March quarter's risk-cost increase, which management flagged, is the line to watch.",
+              "Fisdom integration: management says profitability in FY28. Wealth management is the natural next attach product after stocks and funds.",
+              "GrowwMF: the fund house needs five to six times current assets to break even, by management's own estimate. Watch new fund launches and whether the platform pushes its own funds to its 18.5% SIP share."
+            ]
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "The Bombay Stock Exchange tower on Dalal Street",
+      "caption": "Dalal Street, Mumbai. Groww's parent, Billionbrains Garage Ventures, listed on the BSE and NSE on 12 November 2025. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
+      "img": "photos/d2-g1.jpg"
+    }
+  },
+  "7": {
+    "title": "PhonePe's road back to IPO",
+    "fact": "A business teardown: how 45% of UPI became a ₹12,000 crore filing, a March pause, and a February-March 2027 target at a lower price.",
+    "intro": "PhonePe carries nearly half of India's instant-payment traffic, grew revenue 40% last year, and still reported a ₹1,727 crore loss. SEBI cleared its IPO in January, the company paused in March, and the listing is now aimed at early 2027. This is how the machine works, where the money is made and lost, and what the offering math says.",
+    "groups": [
+      {
+        "heading": "The company",
+        "blocks": [
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Founded",
+                "v": "December 2015, Bengaluru, by Sameer Nigam (CEO), Rahul Chari (CTO) and Burzin Engineer, all former Flipkart executives."
+              },
+              {
+                "k": "Ownership",
+                "v": "Majority-owned by Walmart, which acquired it through Flipkart; General Atlantic, Ribbit Capital, Tiger Global and TVS Capital hold stakes from the 2023 round at a $12 billion pre-money valuation."
+              },
+              {
+                "k": "Scale",
+                "v": "45.4% of UPI transaction volume and 48.7% of value in December 2025 (NPCI data). Over 4 crore merchants on the network (Inc42)."
+              },
+              {
+                "k": "IPO status",
+                "v": "SEBI approval received 20 January 2026; paused in March 2026; revived in September 2026, targeting February-March 2027 (Inc42, IBJ)."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "The chronology in one pass. PhonePe was incorporated in December 2015, acquired by Flipkart in April 2016, and its app went live on <a href=\"https://en.wikipedia.org/wiki/Unified_Payments_Interface\" target=\"_blank\" rel=\"noopener\">UPI</a> (Unified Payments Interface, India's instant bank-to-bank payment rail) in August 2016 in partnership with Yes Bank. Walmart took control through its Flipkart acquisition, the two companies separated fully in 2022 with PhonePe shifting its domicile from Singapore back to India, and in 2023 the company raised $850 million at a $12 billion pre-money valuation: $350 million from General Atlantic, $200 million from Walmart, and the rest from Ribbit, Tiger Global, TVS and a further General Atlantic cheque. That domicile move matters to the IPO story: listing in India requires being Indian."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://en.wikipedia.org/wiki/PhonePe\" target=\"_blank\" rel=\"noopener\">Wikipedia chronology</a> / <a href=\"https://inc42.com/features/phonepe-profit-puzzle-upi-dominance-diversification/\" target=\"_blank\" rel=\"noopener\">Inc42 feature, 24 Sep 2025</a>"
+          }
+        ]
+      },
+      {
+        "heading": "The engine: UPI dominance, and its speed limits",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "PhonePe's business starts with a simple fact: it is the front end for nearly half of India's instant payments, 45.4% of UPI volume and 48.7% of value in December 2025, ahead of Google Pay and Paytm, per <a href=\"https://en.wikipedia.org/wiki/National_Payments_Corporation_of_India\" target=\"_blank\" rel=\"noopener\">NPCI</a> (National Payments Corporation of India, the retail-body that runs UPI) data. The merchant side is the strategic asset: over 4 crore merchants, many acquired through the soundbox, the speaker that announces each payment, a device on which industry sources tell Inc42 the company earns 80% to 90% margins."
+          },
+          {
+            "t": "p",
+            "html": "But the engine has three speed limits, and each explains a piece of the IPO story. First, UPI carried no merchant fee for a decade, so the highest-volume product earns almost nothing directly; payments still produced 88.5% of revenue in FY25, through adjacent charges. Second, volumes are exposed to policy: the August 2025 ban on real-money gaming knocked UPI transaction volumes down 23% and values down 26% from July levels, and GST enforcement pushed some vendors back to cash (Inc42). Third, share is drifting, 47.22% in June 2025 to 45.4% by December, still dominant, no longer growing."
+          },
+          {
+            "t": "p",
+            "html": "The fee regime that could fix the economics is the new <a href=\"https://indianexpress.com/article/business/upi-mdr-framework-rollout-deferred-january-2027-festive-season-rbi-10912304/\" target=\"_blank\" rel=\"noopener\">merchant discount rate</a> (the fee merchants pay to accept a payment) framework: 0.4% on person-to-merchant UPI payments above ₹2,000, capped at ₹300. Its rollout, originally due 15 October, is now deferred to 1 January 2027 (Indian Express). For PhonePe the deferral cuts both ways: the revenue unlock slips past the planned listing window, but the company avoids a merchant-friction experiment in the middle of its IPO roadshow."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://inc42.com/features/phonepe-profit-puzzle-upi-dominance-diversification/\" target=\"_blank\" rel=\"noopener\">Inc42 feature, 24 Sep 2025</a> / <a href=\"https://indiabusinessjournal.com/full-story/2443/phonepe-gets-sebis-approval-for-ipo-may-mop-up-rs-12000-cr-in-public-offer\" target=\"_blank\" rel=\"noopener\">India Business Journal, Jan 2026</a> / <a href=\"https://indianexpress.com/article/business/upi-mdr-framework-rollout-deferred-january-2027-festive-season-rbi-10912304/\" target=\"_blank\" rel=\"noopener\">Indian Express on the MDR deferral</a>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"PhonePe share of UPI transaction volume\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 240\"><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"47.66666666666667\">June 2025</text><rect fill=\"#1f6feb\" height=\"49.333333333333336\" width=\"244.79999999999995\" x=\"170\" y=\"16\"></rect><text fill=\"#1f6feb\" font-size=\"17\" x=\"422.79999999999995\" y=\"47.66666666666667\">47.22%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"111.00000000000001\">July 2025</text><rect fill=\"#1f6feb\" height=\"49.333333333333336\" width=\"192.60000000000002\" x=\"170\" y=\"79.33333333333334\"></rect><text fill=\"#1f6feb\" font-size=\"17\" x=\"370.6\" y=\"111.00000000000001\">46.64%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"174.33333333333334\">December 2025</text><rect fill=\"#1f6feb\" height=\"49.333333333333336\" width=\"80.99999999999989\" x=\"170\" y=\"142.66666666666669\"></rect><text fill=\"#1f6feb\" font-size=\"17\" x=\"258.9999999999999\" y=\"174.33333333333334\">45.40%</text></g><text fill=\"#777\" font-size=\"14\" x=\"0\" y=\"234\">Share of UPI transaction volume; axis starts at 44.5%. December 2025 value share: 48.7%. Source: NPCI data via Inc42 and India Business Journal.</text></svg>",
+            "label": "PhonePe share of UPI transaction volume"
+          }
+        ]
+      },
+      {
+        "heading": "The money: reading FY25 two ways",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "FY25 revenue rose 40.4% to ₹7,114.9 crore. The mix is the story inside the number: payments grew 23% to ₹6,299 crore, a sharp deceleration from the 77% growth of FY24, while everything else more than tripled, financial services (lending distribution, insurance broking, the payment gateway) to ₹557 crore from ₹207 crore, and the new bets (Share.Market, Pincode, the Indus Appstore) to ₹57 crore. Non-payments is now 11.5% of revenue; it was 5% a year earlier (Inc42)."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"PhonePe FY25 revenue by segment\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 250\"><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"180\" y=\"49.333333333333336\">Payments</text><rect fill=\"#1f6feb\" height=\"52.66666666666667\" width=\"310.1046153846154\" x=\"190\" y=\"16\"></rect><text fill=\"#444\" font-size=\"15\" x=\"508.1046153846154\" y=\"49.333333333333336\">₹6,299 cr, +23% YoY (was +77% in FY24)</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"180\" y=\"116\">Financial services</text><rect fill=\"#8c1d18\" height=\"52.66666666666667\" width=\"27.42153846153846\" x=\"190\" y=\"82.66666666666667\"></rect><text fill=\"#444\" font-size=\"15\" x=\"225.42153846153846\" y=\"116\">₹557 cr, from ₹207 cr in FY24</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"180\" y=\"182.66666666666669\">Other new bets</text><rect fill=\"#8c1d18\" height=\"52.66666666666667\" width=\"3\" x=\"190\" y=\"149.33333333333334\"></rect><text fill=\"#444\" font-size=\"15\" x=\"201\" y=\"182.66666666666669\">₹57 cr, Share.Market, Pincode, app store</text></g><text fill=\"#777\" font-size=\"14\" x=\"0\" y=\"244\">FY25 revenue from operations, ₹7,115 crore total (+40% YoY). Unit: ₹ crore. Source: Inc42, Entrackr analysis of the annual report, Sep 2025.</text></svg>",
+            "label": "PhonePe FY25 revenue by segment"
+          },
+          {
+            "t": "p",
+            "html": "The bottom line needs care, because PhonePe reports it two ways and both are true. The reported net loss narrowed 13.4% to ₹1,727.4 crore, and the <a href=\"https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization\" target=\"_blank\" rel=\"noopener\">EBITDA</a> (earnings before interest, tax, depreciation and amortization, a proxy for operating cash profit) loss narrowed 54% to ₹413.6 crore, a margin of -6% against -18% in FY24 (Inc42). Strip out employee stock-option costs, a non-cash charge, and the picture flips positive: adjusted EBITDA of ₹1,477 crore (from ₹652 crore), adjusted profit after tax of ₹630 crore (from ₹197 crore), the first positive adjusted EBIT at ₹117 crore, and free cash flow positive with ₹1,202 crore of operating cash flow (CNBC-TV18, Entrackr, IBJ). The roughly ₹1,900 crore gap between the two versions is mostly stock compensation, which is real dilution for shareholders even though it is not cash. One more number frames the whole journey: accumulated losses stood at ₹14,860 crore at the end of FY25 (Entrackr)."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"PhonePe adjusted profit versus reported net loss, FY24 and FY25\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 240\"><line stroke=\"#999\" stroke-width=\"1\" x1=\"430\" x2=\"430\" y1=\"22\" y2=\"204\"></line><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"220\" y=\"78.5\">Adjusted PAT (ex-ESOP)</text><rect fill=\"#b8c2cc\" height=\"34.5\" width=\"24.390476190476193\" x=\"430\" y=\"34\"></rect><text fill=\"#666\" font-size=\"15\" text-anchor=\"start\" x=\"460.3904761904762\" y=\"53.25\">+197 FY24</text><rect fill=\"#1f6feb\" height=\"34.5\" width=\"78\" x=\"430\" y=\"74.5\"></rect><text fill=\"#222\" font-size=\"15\" text-anchor=\"start\" x=\"514\" y=\"109\">+630 FY25</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"220\" y=\"163.5\">Reported net result</text><rect fill=\"#b8c2cc\" height=\"34.5\" width=\"247.1238095238095\" x=\"182.8761904761905\" y=\"119\"></rect><text fill=\"#666\" font-size=\"15\" text-anchor=\"end\" x=\"176.8761904761905\" y=\"138.25\">-1,996 FY24</text><rect fill=\"#8c1d18\" height=\"34.5\" width=\"213.81904761904764\" x=\"216.18095238095236\" y=\"159.5\"></rect><text fill=\"#222\" font-size=\"15\" text-anchor=\"end\" x=\"210.18095238095236\" y=\"194\">-1,727 FY25</text></g><text fill=\"#777\" font-size=\"14\" x=\"0\" y=\"234\">Unit: ₹ crore. Adjusted figures exclude employee stock-option costs. Source: CNBC-TV18, Entrackr, Sep 2025.</text></svg>",
+            "label": "PhonePe adjusted profit versus reported net loss, FY24 and FY25"
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://inc42.com/features/phonepe-profit-puzzle-upi-dominance-diversification/\" target=\"_blank\" rel=\"noopener\">Inc42 feature</a> / <a href=\"https://www.cnbctv18.com/business/phonepe-ipo-bound-company-revenue-topline-growth-surges-in-fy25-net-loss-narrows-cash-flow-19683170.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, 22 Sep 2025</a> / <a href=\"https://entrackr.com/fintrackr/phonepe-posts-rs-7115-cr-revenue-and-rs-630-cr-adjusted-pat-in-fy25-10487742\" target=\"_blank\" rel=\"noopener\">Entrackr, 22 Sep 2025</a>"
+          }
+        ]
+      },
+      {
+        "heading": "The diversification bets",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Lending is the intended profit engine. PhonePe acquired an <a href=\"https://en.wikipedia.org/wiki/Non-bank_financial_company\" target=\"_blank\" rel=\"noopener\">NBFC</a> (non-banking financial company, a lender that cannot take deposits) licence in 2023, lends against its merchant transaction data, and has added secured loans against mutual funds. The pitch: 4 crore merchants generate the underwriting data, so credit can be priced better than a bank's guess. The reality check is relative: Inc42 cites PhonePe disbursing about ₹300 crore a month in mid-2024, against Paytm's roughly ₹5,000 crore a quarter, in a field that also includes BharatPe, Jio Financial and every bank app."
+          },
+          {
+            "t": "p",
+            "html": "Around lending sit three smaller bets, each a use for the payments user base. Pincode (April 2023) is a hyperlocal commerce app built on <a href=\"https://en.wikipedia.org/wiki/Open_Network_for_Digital_Commerce\" target=\"_blank\" rel=\"noopener\">ONDC</a> (Open Network for Digital Commerce, the government-backed open e-commerce protocol). Share.Market (August 2023) is a stockbroking and mutual-fund platform, competing with the Groww and Zerodha machines this series has already torn down. The Indus Appstore (February 2024) is a homegrown alternative to Google Play. Together with financial services they are the 11.5% of revenue that is supposed to become the IPO's growth story (Inc42, Wikipedia)."
+          },
+          {
+            "t": "p",
+            "html": "The contrast that prices all of this is Paytm. Paytm is less dependent on payments (58% of a ₹6,900 crore revenue), far ahead in lending, and back to net profit, helped by selling Paytm Insider to Eternal for ₹2,400 crore and its PayPay stake for $279 million. PhonePe has the bigger engine and the weaker second act; the IPO asks public investors to fund the catch-up (Inc42)."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://inc42.com/features/phonepe-profit-puzzle-upi-dominance-diversification/\" target=\"_blank\" rel=\"noopener\">Inc42 feature</a> / <a href=\"https://en.wikipedia.org/wiki/PhonePe\" target=\"_blank\" rel=\"noopener\">Wikipedia chronology</a>"
+          }
+        ]
+      },
+      {
+        "heading": "The IPO math",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The timeline tells the story. PhonePe filed its draft papers confidentially in September 2025. <a href=\"https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India\" target=\"_blank\" rel=\"noopener\">SEBI</a> (the Securities and Exchange Board of India, the markets regulator) cleared the offer on 20 January 2026, and the public <a href=\"https://www.phonepe.com/apollo/investor-relations/phonepe-limited-draft-red-herring-prospectus.pdf\" target=\"_blank\" rel=\"noopener\">draft red herring prospectus</a>, the offer document with everything except price and dates, followed. The plan: about ₹12,000 crore, mostly an <a href=\"https://en.wikipedia.org/wiki/Offer_for_sale\" target=\"_blank\" rel=\"noopener\">offer for sale</a> (existing investors selling their shares rather than the company raising new money) by Walmart, General Atlantic, Ribbit, Tiger Global and TVS Capital. Then, in March 2026, the company paused, citing global market volatility. In September 2026, with the merchant-fee framework settled, the IPO was revived: a refile by the end of this year and a listing targeted for February-March 2027 (Inc42, Mint via Inc42, IBJ)."
+          },
+          {
+            "t": "p",
+            "html": "Three numbers in that paragraph deserve a second look. First, mostly-OFS means the money goes to exiting investors, not into the business; buyers of the IPO are funding the 2023 round's exit more than PhonePe's next chapter. Second, the valuation talk has compressed: the 2023 private round priced PhonePe at $12 billion pre-money, Inc42's September 2025 feature floated $12-15 billion IPO hopes, and the September 2026 revival reports a target near $10 billion. Third, the March pause and the revival bracket exactly one variable, market conditions, which is the one thing the company does not control and the thing the February-March 2027 window is betting on."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://inc42.com/buzz/with-upi-mdr-clarity-phonepe-eyes-ipo-by-march-2027/\" target=\"_blank\" rel=\"noopener\">Inc42, 16 Sep 2026</a> / <a href=\"https://indiabusinessjournal.com/full-story/2443/phonepe-gets-sebis-approval-for-ipo-may-mop-up-rs-12000-cr-in-public-offer\" target=\"_blank\" rel=\"noopener\">India Business Journal, Jan 2026</a> / <a href=\"https://www.phonepe.com/apollo/investor-relations/phonepe-limited-draft-red-herring-prospectus.pdf\" target=\"_blank\" rel=\"noopener\">PhonePe DRHP, Jan 2026 (primary)</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Risks, and what to watch",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "UPI concentration: 88.5% of revenue touches payments, so every UPI policy decision, fees, caps, gaming rules, is a PhonePe earnings event. The gaming ban's 23% volume hit is the worked example.",
+              "The fee deferral: the 0.4% merchant fee now starts 1 January 2027, weeks before the targeted listing. The first full quarter of fee revenue lands after the roadshow, so the IPO prices the promise, not the proof.",
+              "Lending is late and crowded: Paytm disburses roughly five times PhonePe's monthly volume, and banks are in the same merchant-credit market.",
+              "Valuation drift: $12 billion private in 2023, $10 billion targeted for 2027. A further market wobble between refile and listing reopens the March question.",
+              "What to watch: the refiled DRHP (due by year-end per Inc42), monthly NPCI share data, the 1 January 2027 fee go-live, and any change to the February-March 2027 window."
+            ]
+          },
+          {
+            "t": "callout",
+            "html": "How this teardown was sourcedFinancials are from Inc42's feature and Entrackr's and CNBC-TV18's analyses of PhonePe's FY25 annual report; the IPO timeline from India Business Journal and Inc42's September 2026 report; the chronology cross-checked against Wikipedia and PhonePe's own draft prospectus. Adjusted figures exclude stock-option costs and are labelled as such. Vendor-adjacent claims (soundbox margins, disbursement run-rates) are attributed to the sources that reported them."
+          },
+          {
+            "t": "p",
+            "html": "Today's paper pairs with this read: <a href=\"https://files.instinct.com/cqdjrulv2lbk-cpi-day-and-the-rupees-first\" target=\"_blank\" rel=\"noopener\">CPI day and the rupee's first test</a>."
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "alt": "The Bombay Stock Exchange building in Mumbai",
+      "caption": "The Bombay Stock Exchange, Mumbai, where PhonePe intends to list by February-March 2027. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
+      "img": "photos/d2-g1.jpg"
+    }
+  }
+}
