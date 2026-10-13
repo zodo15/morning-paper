@@ -437,12 +437,14 @@
     var act = document.querySelector('.pace-btn.active');
     if (act) act.classList.remove('active');
   }
-  function startPacer(scopeEl, label, fromIdx) {
+  function startPacer(scopeEls, label, fromIdx) {
     stopPacer(true); stopReader();
     root_pausePlayers();
     P.items = [];
-    scopeEl.querySelectorAll('.rp').forEach(function (el) {
-      P.items = P.items.concat(wrapPacerSentences(el));
+    scopeEls.forEach(function (scopeEl) {
+      scopeEl.querySelectorAll('.rp').forEach(function (el) {
+        P.items = P.items.concat(wrapPacerSentences(el));
+      });
     });
     if (!P.items.length) return;
     P.i = fromIdx || 0; P.base = P.i; P.acc = 0; P.label = label;
@@ -675,8 +677,10 @@
     if (!btn) return;
     var sec = btn.closest('.section');
     var label = sec.querySelector('.section-title').textContent;
+    var secs = Array.prototype.slice.call(document.querySelectorAll('.section'));
+    secs = secs.slice(secs.indexOf(sec));
     btn.classList.add('active');
-    startPacer(sec, label, 0);
+    startPacer(secs, label, 0);
   });
   route();
 })();
