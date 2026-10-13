@@ -123,6 +123,9 @@ def strip_html(h):
     return H.unescape(re.sub(r'<[^>]+>', '', h))
 
 def edition_blocks(day_src):
+    """Page blocks in rendered reading order. Must mirror exactly the elements
+    the site renders with class .rp (see blockHTML in app.js): paragraphs,
+    bullet items, row details, callouts, closings - nothing else."""
     ed = day_src['edition']
     blocks = []
     for g in ed['groups']:
@@ -131,22 +134,33 @@ def edition_blocks(day_src):
                 blocks.append(strip_html(b['html']))
             elif b['t'] == 'bullets':
                 blocks.extend(b['items'])
+            elif b['t'] == 'rows':
+                blocks.extend(r['detail'] for r in b['items'])
+            elif b['t'] in ('callout', 'closing'):
+                blocks.append(strip_html(b['html']))
     return blocks
 
 def match_blocks(blocks, placed):
-    """Sequentially match each page block to a run of script sentences."""
+    """Sequentially match each page block to a run of script sentences.
+    The script follows paper order but adds glue (greeting, transitions, the
+    spoken intro), so search a forward window from the running pointer."""
     res, ptr = [], 0
     ratios = []
+    WINDOW = 40
     for btext in blocks:
         bn = norm(btext)
+        if not bn:
+            res.append(None); continue
         best = None
-        for skip in range(0, 4):
-            p0 = ptr + skip
-            if p0 >= len(placed): break
+        hi = min(ptr + WINDOW, len(placed))
+        for p0 in range(ptr, hi):
             for m in range(1, 9):
                 if p0 + m > len(placed): break
                 joined = norm(' '.join(x[2] for x in placed[p0:p0+m]))
-                r = difflib.SequenceMatcher(None, bn, joined).ratio()
+                sm = difflib.SequenceMatcher(None, bn, joined)
+                if best and sm.real_quick_ratio() < best[0]: continue
+                if best and sm.quick_ratio() < best[0]: continue
+                r = sm.ratio()
                 if best is None or r > best[0]:
                     best = (r, p0, m)
         if best and best[0] >= 0.5:
@@ -193,12 +207,18 @@ def main():
 
     json.dump({'version': 1, 'audio': f'audio/d{day_src["day"]}-full.m4a', 'blocks': out_blocks},
               open(out_path,'w'), ensure_ascii=False)
-    cov = sum(1 for x in matched if x) 
-    print(f'duration {dur:.1f}s | {len(sils)} pauses | {len(sents)} script sentences')
-    print(f'blocks matched: {cov}/{len(blocks)}'
+    cov = sum(1 for x in matched if x)
+    # Source lines and Why-it-matters boxes are skipped by the spoken script by design
+    readable = [i for i, b in enumerate(blocks)
+                if not b.startswith('Source:') and not b.startswith('Why it matters to you:')]
+    cov_r = sum(1 for i in readable if matched[i])
+    print(f'blocks matched: {cov}/{len(blocks)} total, {cov_r}/{len(readable)} excluding Source lines'
           + (f' | avg ratio {sum(ratios)/len(ratios):.2f}' if ratios else ''))
-    if len(blocks) and cov/len(blocks) < 0.8:
-        print('WARNING: match coverage below 80% - inspect script vs edition text')
+    if readable and cov_r/len(readable) < 0.9:
+        print('WARNING: content coverage below 90% - inspect script vs edition text')
+        for i in readable:
+            if matched[i] is None:
+                print('  unmatched content block', i, ':', blocks[i][:90])
 
 if __name__ == '__main__':
     main()
