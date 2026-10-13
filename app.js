@@ -562,7 +562,7 @@
     if (!g) return '';
     var items = [];
     g.blocks.forEach(function (b) { if (b.t === 'bullets') items = items.concat(b.items); });
-    var txt = items.slice(0, 5).map(function (i) { return esc(i.split('.')[0]); }).join(' &nbsp;&bull;&nbsp; ');
+    var txt = items.slice(0, 5).map(function (i) { return esc(i.split(/\.(?=\s|$)/)[0]); }).join(' &nbsp;&bull;&nbsp; ');
     return '<div class="ticker"><span class="ticker-in">' + txt + ' &nbsp;&bull;&nbsp; ' + txt + '</span></div>';
   }
   function conceptHTML(day) {
