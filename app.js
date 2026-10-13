@@ -299,6 +299,7 @@
   var P = { items: [], i: 0, running: false, timer: null, tick: null, wpm: 200,
             acc: 0, resumedAt: 0, segStart: 0, segLeft: 0, label: '', base: 0 };
   var pbar = document.getElementById('pacer-bar');
+  window.__P = P;
   var pcToggle = document.getElementById('pc-toggle');
   var pcMinus = document.getElementById('pc-minus');
   var pcPlus = document.getElementById('pc-plus');
@@ -421,14 +422,14 @@
     } catch (e) {}
   }
   function pcFinish() {
-    P.running = false;
+    if (P.running) { P.acc += Date.now() - P.resumedAt; P.running = false; }
     clearTimeout(P.timer); clearInterval(P.tick);
     pcLogResult();
     pcToggle.innerHTML = '&#9654;';
   }
   function stopPacer(silent) {
     if (pbar.hidden) return;
-    P.running = false;
+    if (P.running) { P.acc += Date.now() - P.resumedAt; P.running = false; }
     clearTimeout(P.timer); clearInterval(P.tick);
     if (!silent) pcLogResult();
     pcClearMarks();
