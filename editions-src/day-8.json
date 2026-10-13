@@ -1,0 +1,436 @@
+{
+  "day": 8,
+  "meta": {
+    "date": "Tuesday 13 October 2026",
+    "short": "Tue 13 Oct",
+    "longread": null
+  },
+  "edition": {
+    "title": "Morning paper, Tuesday 13 October 2026",
+    "fact": "Edition 8. Inflation printed at 5.54%, the insurance regulator signaled room on its commission caps, HCLTech raised guidance less than hoped, and Meta shipped its biggest model yet.",
+    "intro": "Monday delivered the numbers this paper was waiting for. September inflation came in at a 23-month high but under the poll, the rupee had its best day in months, and HCLTech beat on profit while its guidance fell short of the Street's hope. For your job, the sharper story is at the insurance regulator: its chairman said a transition period is possible on the commission caps, and the consultation closes 25 October.",
+    "hero": {
+      "img": "photos/d8-hero.jpg",
+      "alt": "The Bombay Stock Exchange building in Mumbai",
+      "caption": "The Bombay Stock Exchange, Mumbai. The Sensex fell 548 points on Monday even as the rupee jumped. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0)."
+    },
+    "concept": {
+      "label": "One concept a day",
+      "name": "Money illusion",
+      "line": "Judging a raise by the number on the payslip, not by what it buys. With inflation at 5.54%, a 5% raise is a real cut - Shafir, Diamond and Tversky showed it in 1997, and today's print makes it yours."
+    },
+    "groups": [
+      {
+        "heading": "Eight things to know",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "IRDAI's chairman Ajay Seth said the regulator is open to a reasonable transition period on proposed commission and expense caps, but not an indefinite one. The consultation closes 25 October, and BusinessLine's sources say that date may be extended (ET, BusinessLine).",
+              "September CPI inflation printed at 5.54%, a 23-month high but under the 5.6% CNBC-TV18 poll. Food inflation hit 7.74%, led by onions, up 108% on the year (NSO via Business Standard, CNBC-TV18).",
+              "The rupee gained 96 paise to 95.77 per dollar, the best session among Asian currencies, after the RBI's dollar window for oil companies opened. The Nifty still fell 0.70% to 22,363.35 on crude and foreign selling (BusinessLine).",
+              "HCLTech's profit rose 21.2% year on year to ₹5,132 crore, beating the poll, but guidance rose only to 2.5% to 4%, not the 3% to 4% brokerages expected. Advanced AI revenue grew 78% (HCLTech, CNBC-TV18).",
+              "Economists now see inflation near 6% in October and another rate hike in December. ICRA called the December hike 'quite certain' (CNBC-TV18, ET).",
+              "Meta released Muse Wonder, its most capable models, aimed at long agent tasks such as working through an insurance claim. The benchmark claims are Meta's own (Meta, SiliconANGLE).",
+              "Jio Platforms' draft prospectus shows Reliance owns 66.43%, with Meta at 9.98% and Google at 7.73%. The anchor book is reported for 19 October (Mint, ET).",
+              "One Concept a Day starts today: money illusion, the 1997 finding that people judge a raise by the number on the payslip rather than by what it buys, with a direct link to today's inflation print."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Inside:</strong> Front page / What's new radar / Markets / Startups and funding / Global / One Concept a Day / Business teardown / Seven-day calendar / Notes."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "IRDAI signals a glide path on commission caps; the consultation closes 25 October",
+            "kicker": "Insurance, lead"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://irdai.gov.in/\" target=\"_blank\" rel=\"noopener\">IRDAI</a> (India's insurance regulator) chairman Ajay Seth told ET the regulator will examine every submission on its distribution reform paper, including concerns on transition. His words: where the industry shows a genuine operational need, a reasonable glide path is possible, but any transition must not become an indefinite postponement. He added that the cut in management expenses is already proposed to be phased over five years (ET)."
+          },
+          {
+            "t": "p",
+            "html": "The paper itself, <em>Recalibrating Economics of Insurance Distribution</em>, was released 23 September. Its core numbers, from IRDAI's press release: for life insurers, an <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/59734/IRDAI-issued-a-Public-Consultation-Paper-on-Recalibrating-Economics-of-Insurance-Distribution-September242026.pdf\" target=\"_blank\" rel=\"noopener\">expense of management</a> (EoM, an insurer's running costs including commissions) limit of 15% within two years and 12.5% within five, measured on <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/59734/IRDAI-issued-a-Public-Consultation-Paper-on-Recalibrating-Economics-of-Insurance-Distribution-September242026.pdf\" target=\"_blank\" rel=\"noopener\">gross direct premium income</a> (GDPI, the premium an insurer writes directly in India); for general insurers, a fall from 30% of gross written premium to 20% of GDPI within five years. Commission limits would vary by segment, line of business, channel and the effort of selling and servicing, with rewards above the normal limits for under-served areas. Remuneration of every kind, direct or indirect, would count as commission, volume-linked incentives for bank and NBFC staff selling insurance would be barred, and commission could be clawed back in mis-selling cases."
+          },
+          {
+            "t": "p",
+            "html": "The why behind the reform, in the regulator's words to ET: very high upfront commissions inflate costs, encourage mis-selling and lead to early lapses, so selling incentives should reward persistency, not first-year sales. The pushback is just as specific. The <a href=\"https://www.thehindubusinessline.com/specials/current-account/regulating-distribution-insurance-reforms-spark-unease/article71572535.ece\" target=\"_blank\" rel=\"noopener\">Insurance Brokers Association of India</a> (IBAI, the brokers' trade body) argued that the evidence does not support the remedy: general-insurance expenses fell from 28.2% of premium in FY23 to 26.5% in FY25, and the highest costs sit in forced-sale channels, where the paper's own figures show loan-linked credit life paying 42% to 45% and dealer-controlled motor up to 75%, against 17% to 18% for independent brokers and agents (BusinessLine). About 15 lakh life agents have asked for no disproportionate cut, and bancassurance, the bank-branch channel the paper calls one of the costliest, is where banks are assessing the hit to their other income. BusinessLine's sources say the 25 October deadline may be extended and implementation pushed beyond the next financial year; insurers have asked for exactly that."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the rulebook your channel will live under. Insurers, brokers and agents are all pushing back on the caps, and the regulator's own wording shows where it can bend (timing) and where it cannot (the direction). A phased timeline changes what distributors can plan for in 2027."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/industry/banking/finance/insure/irdai-may-allow-transition-period-for-insurance-fee-cap/articleshow/134901328.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 13 October</a> / <a href=\"https://www.thehindubusinessline.com/money-and-banking/irdai-may-extend-consultation-implementation-timelines-for-distribution-reforms/article71575994.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, 12 October</a> / <a href=\"https://www.thehindubusinessline.com/specials/current-account/regulating-distribution-insurance-reforms-spark-unease/article71572535.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine analysis, 12 October</a> / <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/59734/IRDAI-issued-a-Public-Consultation-Paper-on-Recalibrating-Economics-of-Insurance-Distribution-September242026.pdf\" target=\"_blank\" rel=\"noopener\">IRDAI press release, 23 September</a>."
+          },
+          {
+            "t": "story",
+            "title": "Inflation at 5.54%: a 23-month high, below the poll, with another hike in view",
+            "kicker": "Macro, data"
+          },
+          {
+            "t": "p",
+            "html": "The <a href=\"https://www.mospi.gov.in/\" target=\"_blank\" rel=\"noopener\">National Statistics Office</a> (NSO, the data arm of India's statistics ministry) put September retail inflation at 5.54%, up from a revised 4.83% in August and the highest since October 2024 on the back series. That is below the 5.6% CNBC-TV18 poll, but above the 5.4% in a Reuters poll. Food inflation, 7.74%, also came in under CNBC-TV18's 7.9% poll estimate. Inflation has now stayed above the RBI's 4% target for four consecutive months and inside the 6% upper tolerance limit."
+          },
+          {
+            "t": "p",
+            "html": "The why, item by item. Food: onion inflation more than doubled to 108.09% from 48.78%, and Bank of Baroda's Madan Sabnavis says the cause is depletion of old stocks before the new crop arrives, so arrivals decide what happens next. Energy: crude-linked transport and services costs pushed restaurants and accommodation to 9.36% and transport to 5.01%. Base effect: HDFC Bank's Sakshi Gupta notes last September's across-the-board GST cut lowered the year-ago base, which flatters this year's increase. Silver and gold jewellery keep the personal-care division at 13.75%, the highest of 12 divisions. Rural inflation, 6.08%, ran well ahead of urban, 4.88%."
+          },
+          {
+            "t": "p",
+            "html": "The outlook is attributed, not ours. Devendra Pant of India Ratings expects about 6% in October. ICRA's Aditi Nayar called another hike in December 'quite certain'. DBS's Radhika Rao says food inflation is broadening and sees room for another hike in December. Tata Asset Management's Akhil Mittal expects another 50 to 75 basis points of a 75 to 100 basis-point cycle. A basis point is a hundredth of a percentage point. October's print is due 12 November."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Inflation above the 4% target for four straight months, with economists now pointing at 6% in October, keeps rate cuts off the table and another hike live. That holds discount rates where they are and squeezes the household budgets that pay premiums."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/economy/news/food-fuel-push-retail-inflation-to-23-month-high-of-5-54-in-september-126101200829_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, 12 October</a> / <a href=\"https://www.cnbctv18.com/economy/india-september-cpi-data-retail-inflation-hits-23-month-high-of-5-54-pc-20010012.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, 12 October</a> / <a href=\"https://economictimes.indiatimes.com/news/economy/indicators/eye-on-the-price-retail-inflation-at-5-54-in-september-most-on-new-base/articleshow/134901734.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 13 October</a>."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 720 330\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"India headline CPI inflation by month, October 2024 to September 2026\"><line x1=\"48\" x2=\"696\" y1=\"256.0\" y2=\"256.0\" stroke=\"#ddd\" stroke-width=\"1\"/><text x=\"40\" y=\"262.0\" text-anchor=\"end\" font-size=\"18\" fill=\"#666\">0%</text><line x1=\"48\" x2=\"696\" y1=\"189.7\" y2=\"189.7\" stroke=\"#ddd\" stroke-width=\"1\"/><text x=\"40\" y=\"195.7\" text-anchor=\"end\" font-size=\"18\" fill=\"#666\">2%</text><line x1=\"48\" x2=\"696\" y1=\"123.4\" y2=\"123.4\" stroke=\"#ddd\" stroke-width=\"1\"/><text x=\"40\" y=\"129.4\" text-anchor=\"end\" font-size=\"18\" fill=\"#666\">4%</text><line x1=\"48\" x2=\"696\" y1=\"57.1\" y2=\"57.1\" stroke=\"#ddd\" stroke-width=\"1\"/><text x=\"40\" y=\"63.1\" text-anchor=\"end\" font-size=\"18\" fill=\"#666\">6%</text><line x1=\"48\" x2=\"696\" y1=\"123.4\" y2=\"123.4\" stroke=\"#1f6feb\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><text x=\"54\" y=\"115.4\" font-size=\"18\" fill=\"#1f6feb\">RBI target 4%</text><line x1=\"48\" x2=\"696\" y1=\"57.1\" y2=\"57.1\" stroke=\"#b36b00\" stroke-width=\"2\" stroke-dasharray=\"2 5\"/><text x=\"54\" y=\"49.1\" font-size=\"18\" fill=\"#b36b00\">Upper band 6%</text><polyline points=\"48.0,50.2 76.2,74.4 104.3,83.0 132.5,121.4 160.7,140.3 188.9,138.0 217.0,145.3 245.2,155.6 273.4,179.4 301.6,202.3 329.7,189.4 357.9,209.3 386.1,254.7 414.3,239.8 442.4,217.2 470.6,165.2 498.8,149.6 527.0,143.3 555.1,140.7 583.3,125.7 611.5,110.8 639.7,108.5 667.8,95.9 696.0,72.4\" fill=\"none\" stroke=\"#8c1d18\" stroke-width=\"3.5\" stroke-linejoin=\"round\"/><circle cx=\"386.1\" cy=\"254.7\" r=\"5\" fill=\"#8c1d18\"/><text x=\"386.1\" y=\"242.7\" text-anchor=\"middle\" font-size=\"18\" fill=\"#8c1d18\">0.04% Oct 25</text><circle cx=\"696.0\" cy=\"72.4\" r=\"6\" fill=\"#8c1d18\"/><text x=\"686.0\" y=\"58.4\" text-anchor=\"end\" font-size=\"20\" font-weight=\"700\" fill=\"#8c1d18\">5.54% Sep 26</text><text x=\"48.0\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Oct 24</text><text x=\"132.5\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Jan 25</text><text x=\"217.0\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Apr 25</text><text x=\"301.6\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Jul 25</text><text x=\"386.1\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Oct 25</text><text x=\"470.6\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Jan 26</text><text x=\"555.1\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Apr 26</text><text x=\"639.7\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Jul 26</text><text x=\"696.0\" y=\"282\" text-anchor=\"middle\" font-size=\"17\" fill=\"#444\">Sep 26</text><text x=\"0\" y=\"300\" font-size=\"17\" fill=\"#555\">Headline CPI, year on year, %. Sep 2026 provisional.</text><text x=\"0\" y=\"322\" font-size=\"17\" fill=\"#555\">Source: NSO via Business Standard, 12 Oct 2026.</text></svg>",
+            "label": "India headline CPI inflation, year on year, October 2024 to September 2026."
+          },
+          {
+            "t": "story",
+            "title": "The rupee's first session under the RBI shield: +96 paise to 95.77",
+            "kicker": "Currency"
+          },
+          {
+            "t": "p",
+            "html": "The rupee closed at 95.77 against the dollar on Monday from 96.73 on Friday, a gain of 96 paise, or 0.96%, the strongest single-session gain among Asian currencies in the data BusinessLine cited. It opened at 95.76 and touched 95.585 during the day (ET). The trigger was the special dollar window the RBI opened for <a href=\"https://en.wikipedia.org/wiki/Oil_marketing_company\" target=\"_blank\" rel=\"noopener\">oil marketing companies</a> (the fuel retailers that import crude), which Moneycontrol's analysts said removes a large block of dollar demand from the open market."
+          },
+          {
+            "t": "p",
+            "html": "The why: the oil companies are a large, predictable buyer of dollars, and routing that demand through the RBI's window takes it off the open market. Moneycontrol's analysts estimated the window could absorb $10 billion to $12 billion of monthly dollar demand."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The shield worked on day one, which takes pressure off importers and off the inflation story. The equity market ignored it because crude, foreign selling and rising bond yields mattered more."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/markets/forex/rupee-jumps-1-as-rbi-curbs-dollar-demand/articleshow/134905376.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 13 October</a> / <a href=\"https://www.thehindubusinessline.com/markets/rupee-gains-96-paise-but-nifty-falls-157-points-on-crude-fii-outflows/article71574872.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, 12 October</a>."
+          },
+          {
+            "t": "story",
+            "title": "HCLTech beats on profit, raises guidance by less than the Street hoped",
+            "kicker": "Earnings"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://en.wikipedia.org/wiki/HCLTech\" target=\"_blank\" rel=\"noopener\">HCLTech</a> (India's third-largest IT services firm) reported a consolidated net profit of ₹5,132 crore for the September quarter, up 11% on the June quarter and 21.2% on a year ago, against a CNBC-TV18 poll of ₹4,963 crore. Revenue was ₹35,620 crore, up 11.5% on the year, a hair under the ₹35,819 crore poll. In <a href=\"https://www.cnbctv18.com/market/hcltech-share-price-q2-earnings-result-raises-fy27-revenue-growth-guidance-profit-revenue-ebit-ai-deal-wins-it-major-20010072.htm\" target=\"_blank\" rel=\"noopener\">constant currency</a> (growth with exchange-rate swings stripped out) revenue grew 2.3% on the quarter and 2.6% on the year. The <a href=\"https://en.wikipedia.org/wiki/Earnings_before_interest_and_taxes\" target=\"_blank\" rel=\"noopener\">EBIT margin</a> (operating profit as a share of revenue) expanded 131 basis points to 18.2%, which includes 84 basis points of restructuring costs (CNBC-TV18)."
+          },
+          {
+            "t": "p",
+            "html": "The guidance is the news. FY27 constant-currency revenue growth moved from 1% to 4% to 2.5% to 4%, and services growth was narrowed from 1.5% to 4.5% down to 3% to 4%. Margin guidance stayed at 17.5% to 18.5%. The ET preview had the Street expecting 3% to 4%, so the floor rose less than hoped. Mint calls it the company's slowest September-quarter growth in three years."
+          },
+          {
+            "t": "p",
+            "html": "The why behind the mix, from the company's own numbers: advanced AI revenue was $219 million, up 28.4% on the quarter and 78% on the year in constant currency, and new bookings were $3.3 billion, up 27%, with record first-half bookings of $5.67 billion (Mint). CEO C Vijayakumar told Mint the industry is in the early phases of AI-led price deflation. The company also announced a Global Premier Partnership with <a href=\"https://www.anthropic.com/\" target=\"_blank\" rel=\"noopener\">Anthropic</a> (maker of the Claude AI models) and declared an interim dividend of ₹12 per share."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> HCLTech's guidance is a direct read on enterprise tech spending. A raised floor with an unchanged ceiling says demand is steadier, not stronger."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.prnewswire.com/news-releases/hcltech-delivers-strong-q2-led-by-record-deal-bookings-of-3-3-billion-302906028.html\" target=\"_blank\" rel=\"noopener\">HCLTech release, 12 October</a> / <a href=\"https://www.cnbctv18.com/market/hcltech-share-price-q2-earnings-result-raises-fy27-revenue-growth-guidance-profit-revenue-ebit-ai-deal-wins-it-major-20010072.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, 12 October</a> / <a href=\"https://www.livemint.com/companies/hcl-technologies-q2-results-202627-11791813143191.html\" target=\"_blank\" rel=\"noopener\">Mint, 12 October</a>."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 720 320\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"HCLTech FY27 constant-currency growth guidance ranges, old and new\"><line x1=\"190.0\" x2=\"190.0\" y1=\"10\" y2=\"244\" stroke=\"#eee\"/><text x=\"190.0\" y=\"266\" text-anchor=\"middle\" font-size=\"16\" fill=\"#666\">0%</text><line x1=\"292.0\" x2=\"292.0\" y1=\"10\" y2=\"244\" stroke=\"#eee\"/><text x=\"292.0\" y=\"266\" text-anchor=\"middle\" font-size=\"16\" fill=\"#666\">1%</text><line x1=\"394.0\" x2=\"394.0\" y1=\"10\" y2=\"244\" stroke=\"#eee\"/><text x=\"394.0\" y=\"266\" text-anchor=\"middle\" font-size=\"16\" fill=\"#666\">2%</text><line x1=\"496.0\" x2=\"496.0\" y1=\"10\" y2=\"244\" stroke=\"#eee\"/><text x=\"496.0\" y=\"266\" text-anchor=\"middle\" font-size=\"16\" fill=\"#666\">3%</text><line x1=\"598.0\" x2=\"598.0\" y1=\"10\" y2=\"244\" stroke=\"#eee\"/><text x=\"598.0\" y=\"266\" text-anchor=\"middle\" font-size=\"16\" fill=\"#666\">4%</text><line x1=\"700.0\" x2=\"700.0\" y1=\"10\" y2=\"244\" stroke=\"#eee\"/><text x=\"700.0\" y=\"266\" text-anchor=\"middle\" font-size=\"16\" fill=\"#666\">5%</text><text x=\"180\" y=\"39.4\" text-anchor=\"end\" font-size=\"17\" fill=\"#222\">FY27 revenue, old</text><rect x=\"292.0\" y=\"18.0\" width=\"306.0\" height=\"30.8\" fill=\"#b8c2cc\" rx=\"3\"/><text x=\"300.0\" y=\"39.4\" font-size=\"16\" fill=\"#222\">1% to 4%</text><text x=\"180\" y=\"86.2\" text-anchor=\"end\" font-size=\"17\" fill=\"#222\">FY27 revenue, new</text><rect x=\"445.0\" y=\"64.8\" width=\"153.0\" height=\"30.8\" fill=\"#1f6feb\" rx=\"3\"/><text x=\"453.0\" y=\"86.2\" font-size=\"16\" fill=\"#fff\">2.5% to 4%</text><text x=\"180\" y=\"133.0\" text-anchor=\"end\" font-size=\"17\" fill=\"#222\">Services, old</text><rect x=\"343.0\" y=\"111.6\" width=\"306.0\" height=\"30.8\" fill=\"#b8c2cc\" rx=\"3\"/><text x=\"351.0\" y=\"133.0\" font-size=\"16\" fill=\"#222\">1.5% to 4.5%</text><text x=\"180\" y=\"179.8\" text-anchor=\"end\" font-size=\"17\" fill=\"#222\">Services, new</text><rect x=\"496.0\" y=\"158.4\" width=\"102.0\" height=\"30.8\" fill=\"#1f6feb\" rx=\"3\"/><text x=\"504.0\" y=\"179.8\" font-size=\"16\" fill=\"#fff\">3% to 4%</text><text x=\"180\" y=\"226.6\" text-anchor=\"end\" font-size=\"17\" fill=\"#222\">Street view (ET)</text><rect x=\"496.0\" y=\"205.2\" width=\"102.0\" height=\"30.8\" fill=\"#c7a008\" rx=\"3\"/><text x=\"504.0\" y=\"226.6\" font-size=\"16\" fill=\"#fff\">3% to 4%</text><text x=\"0\" y=\"290\" font-size=\"17\" fill=\"#555\">FY27 growth guidance, constant currency, revenue.</text><text x=\"0\" y=\"312\" font-size=\"17\" fill=\"#555\">Source: HCLTech and CNBC-TV18, 12 Oct; ET preview.</text></svg>",
+            "label": "HCLTech FY27 constant-currency growth guidance, old range, new range and the Street view."
+          },
+          {
+            "t": "story",
+            "title": "Jio Platforms' prospectus lays out who owns it ahead of the anchor book",
+            "kicker": "Markets, IPO"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://en.wikipedia.org/wiki/Jio_Platforms\" target=\"_blank\" rel=\"noopener\">Jio Platforms</a> (Reliance's telecom and digital arm): per its <a href=\"https://en.wikipedia.org/wiki/Initial_public_offering\" target=\"_blank\" rel=\"noopener\">draft red herring prospectus</a> (DRHP, the offer document filed with the regulator), Reliance Industries holds 66.43%. Meta's affiliate holds 9.98%, Google's 7.73%, and Saudi Arabia's sovereign wealth fund, the Public Investment Fund, 2.31% (Mint). The issue is up to 27 crore fresh shares and no offer for sale, so existing investors are not selling."
+          },
+          {
+            "t": "p",
+            "html": "Price and dates are reported, not filed: Bloomberg, as relayed by ET and Mint, reported a price band of ₹1,065 to ₹1,119, which ET says could raise about ₹30,200 crore at the top and imply a market value near ₹10.3 lakh crore, with the anchor book on 19 October, the issue 21 to 23 October and listing planned for 28 October. Motilal Oswal puts fair value near ₹11 lakh crore, about 12 times FY28 EV/EBITDA, against about 10.3 times for Bharti Airtel's India business; Nomura's range is a little lower (ET)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> India's largest IPO will set the pricing yardstick for every large listing after it, and it puts a public-market price on Reliance's digital arm. Startups and insurers planning listings watch the reception."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.livemint.com/market/ipo-who-really-owns-jio-platforms-reliance-doesnt-own-100-meta-google-7-others-are-major-shareholders-drhp-data-11791786878913.html\" target=\"_blank\" rel=\"noopener\">Mint, 12 October</a> / <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-may-be-valued-at-rs-11-lakh-crore-what-it-means-for-ril-bharti-airtel-and-telecom-stocks/articleshow/134885702.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 12 October</a>."
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, last 48 hours",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Launched or announced since Sunday. COMPANY CLAIM marks figures that come only from the maker. Official pages were read for each item, and a second report read where one exists."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Muse Wonder and Muse Wonder Full, Meta",
+                "detail": "12 Oct. Meta's most capable models, built for long agent tasks: Muse Wonder through the Meta Model API and Muse Code today, Wonder Full for Muse Code subscribers, and a rollout into the Muse assistant soon. Two features: Active Memory, which carries context across conversations, and Active Focus, which keeps working when a task gets hard and checks in before anything important. COMPANY CLAIM on benchmarks. Official: Meta newsroom."
+              },
+              {
+                "n": "2",
+                "title": "Agent37 (YC F26), low-cost agent sandboxes",
+                "detail": "12 Oct, Launch HN post. A hosting service for running AI agent tools such as Claude Code in isolated cloud sandboxes; the founder says customers average $0.37 a month per sandbox and free-plan infrastructure runs $0.05 to $0.10 per user. COMPANY CLAIM on costs. Source: the founder's Hacker News post."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>The why behind Muse Wonder, with the sourcing named.</strong> Meta's pitch is personal and professional agents: its own examples are navigating an insurance claim, making sense of a lease and building a working app (Meta). SiliconANGLE read the model card: Wonder Full led two long coding tests, DeepSWE 1.1 and SWE-Marathon, scoring 57.5% on the latter against 46.3% for <a href=\"https://www.anthropic.com/news\" target=\"_blank\" rel=\"noopener\">Claude Opus 5.5</a> (Anthropic's flagship model), but Opus 5.5 led ProgramBench, HealthBench Pro, OSWorld V2.1 and the Artificial Analysis Intelligence Index, 58 and two points clear. Meta's runs of rival models were best-effort, the card says, and the SWE-Marathon comparison is not controlled. On legal work, 13.1% of tasks passed in Artificial Analysis's version of Harvey's agent benchmark against 8.6% for the nearest rival. The model card does not rule out the high-risk threshold for chemical and biological threats without mitigations; with safeguards it rates moderate or lower, and a full safety report is promised. Business Insider reports the series was internally codenamed Watermelon and that Zuckerberg called it a step to the frontier. For you: the 'insurance claim' example is the use case your sector's customers will ask AI about, and the claim that a model can handle it is Meta's, not a tested result."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://about.fb.com/news/2026/10/introducing-muse-wonder-models/\" target=\"_blank\" rel=\"noopener\">Meta newsroom, 12 October</a> / <a href=\"https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/\" target=\"_blank\" rel=\"noopener\">SiliconANGLE, 12 October</a> / <a href=\"https://www.businessinsider.com/meta-launches-muse-wonder-series-to-rival-anthropic-openai-models-2026-10\" target=\"_blank\" rel=\"noopener\">Business Insider, 12 October</a> / <a href=\"https://news.ycombinator.com/item?id=50059096\" target=\"_blank\" rel=\"noopener\">Agent37 Launch HN</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Where things stand",
+            "kicker": "Monday's close, 12 October"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Indices",
+                "v": "Nifty 50 (NSE's 50-stock index) fell 157.10 points, 0.70%, to 22,363.35; Sensex (BSE's 30-stock index) fell 547.65, 0.76%, to 71,924.68; Bank Nifty fell 338.65 to 54,918. The Nifty opened 70 points higher, touched 22,651.10, then reversed to a low of 22,304.45."
+              },
+              {
+                "k": "Why it fell",
+                "v": "Brent at $102 to $105 in the session, foreign outflows past ₹3 lakh crore so far in 2026, and the 10-year bond yield rising for a fourth straight session. Profit booking began right after the open (BusinessLine, HDFC Securities)."
+              },
+              {
+                "k": "Breadth",
+                "v": "Nifty Smallcap 100 rose 1.42% and Midcap 100 0.08%. Media led sectors at +4.60%, FMCG fell more than 1.70%; PSU banks, IT and metals also ended lower."
+              },
+              {
+                "k": "Rupee",
+                "v": "Closed 95.77 per dollar, up 96 paise. Details in the front-page item."
+              },
+              {
+                "k": "Crude",
+                "v": "Brent futures closed $106.65 a barrel, up 1.8%, after the Riyadh airport attacks (CNBC)."
+              },
+              {
+                "k": "Gold",
+                "v": "Domestic gold fell about ₹1,500 to ₹1,49,950 per 10 grams, which BusinessLine ties to the rupee's rise."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/rupee-gains-96-paise-but-nifty-falls-157-points-on-crude-fii-outflows/article71574872.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, 12 October</a> / <a href=\"https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html\" target=\"_blank\" rel=\"noopener\">CNBC oil report, 12 October</a>."
+          },
+          {
+            "t": "p",
+            "html": "The sector tilt matters more than the headline. A midcap and smallcap bid while the large-cap indices slid says domestic money was buying beaten-down names as foreign sellers hit the index heavyweights. That is BusinessLine's read of the session, with advance-decline at 1.06 for a second day. Levels quoted by SBI Securities' Sudeep Shah: Nifty support at 22,180 to 22,250 and resistance at 22,500 to 22,530. These are an analyst's chart levels, not a call."
+          }
+        ]
+      },
+      {
+        "heading": "Startups and funding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Boldfit raises over ₹400 crore; Nat Habit raises ₹142 crore for offline distribution",
+            "kicker": "Funding"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://entrackr.com/news/kl-rahul-backed-boldfit-raises-over-rs-400-cr-in-series-b-round-led-by-bharat-value-fund-12669777\" target=\"_blank\" rel=\"noopener\">Boldfit</a> (Bengaluru sports and fitness products brand) raised over ₹400 crore, nearly $42 million, in a Series B led by Bharat Value Fund, managed by The Wealth Company Alternates, part of the Pantomath Group, with existing investor <a href=\"https://en.wikipedia.org/wiki/Bessemer_Venture_Partners\" target=\"_blank\" rel=\"noopener\">Bessemer Venture Partners</a> (US venture capital firm) participating. The money goes to nationwide retail expansion, product development and manufacturing, plus selective acquisitions. Its operating revenue was ₹304 crore in FY25, up from ₹140 crore, with a ₹35 crore profit, as filed; FY26 numbers are not yet filed (Entrackr)."
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://inc42.com/buzz/d2c-brand-nat-habit-raises-%E2%82%B9142-cr-to-scale-offline-expansion/\" target=\"_blank\" rel=\"noopener\">Nat Habit</a> (D2C personal-care brand built on ayurvedic formulas) raised ₹142 crore, about $14.7 million, in an all-primary Series C led by Trident Growth Partners. It plans to grow from about 20,000 stores to 2 lakh over three years, enter modern trade and add sunscreens and serums, and says it has served more than 60 lakh households with annualised gross revenue of ₹330 crore. Both the household count and the revenue figure are the company's claims (Inc42)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Both rounds are growth-capital bets on distribution, not on a new product. Boldfit is buying retail and manufacturing reach; Nat Habit is moving from about 20,000 stores to 2 lakh. Money flowing to physical distribution is the opposite of last cycle's online-only playbook."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://entrackr.com/news/kl-rahul-backed-boldfit-raises-over-rs-400-cr-in-series-b-round-led-by-bharat-value-fund-12669777\" target=\"_blank\" rel=\"noopener\">Entrackr, 12 October</a> / <a href=\"https://inc42.com/buzz/d2c-brand-nat-habit-raises-%E2%82%B9142-cr-to-scale-offline-expansion/\" target=\"_blank\" rel=\"noopener\">Inc42, 10 October</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Global",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Saudi Arabia promises a 'serious' response as Riyadh's airport is hit again",
+            "kicker": "Middle East"
+          },
+          {
+            "t": "p",
+            "html": "Saudi Energy Minister Prince Abdulaziz bin Salman told the WPC Energy Congress in Riyadh that the response to the Houthi attacks 'must be equally serious' (BBC). The strike on King Khalid International Airport came on Saturday 10 October and killed 13 people, wounding more than 300; on Sunday a new projectile hit Terminal 4, killing one and wounding eleven, and the Dammam airport was also struck (CNA, NBC). An Indian national injured Saturday has died (NBC). Trump said on Saturday he was weighing joining Saudi operations."
+          },
+          {
+            "t": "p",
+            "html": "The why, per BBC: last month the <a href=\"https://en.wikipedia.org/wiki/Houthis\" target=\"_blank\" rel=\"noopener\">Houthis</a> (Iran-backed movement controlling much of Yemen) launched a surprise offensive on Yemen's south-western Red Sea coast and took areas overlooking the <a href=\"https://en.wikipedia.org/wiki/Bab-el-Mandeb\" target=\"_blank\" rel=\"noopener\">Bab al-Mandab</a> (the narrow strait at the Red Sea's southern end) strait, which matters because the US-Israeli war with Iran had effectively closed the Strait of Hormuz and Saudi Arabia was relying on the Red Sea for oil exports. Brent futures closed at $106.65."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A widening Houthi-Saudi conflict is the direct channel to Brent above $100, the rupee's slide and the RBI's emergency measures. For insurance, aviation, marine and war-risk exposure reprice on every escalation step."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.bbc.com/news/articles/cjly0zqq27e4o\" target=\"_blank\" rel=\"noopener\">BBC, 12 October</a> / <a href=\"https://www.nbcnews.com/world/middle-east/deadly-saudi-airport-strikes-mark-major-mideast-escalation-rcna602922\" target=\"_blank\" rel=\"noopener\">NBC News, 12 October</a> / <a href=\"https://www.channelnewsasia.com/world/saudi-arabia-riyadh-airport-attack-houthis-6451631\" target=\"_blank\" rel=\"noopener\">CNA, 12 October</a>."
+          },
+          {
+            "t": "figure",
+            "img": "photos/d8-tanker.jpg",
+            "alt": "A large oil tanker at sea under a grey sky",
+            "caption": "Brent crude closed at $106.65 on Monday, the pressure behind the rupee's slide and India's imported-inflation worry. File photo: ImagePerson (Wikimedia Commons, CC BY 4.0)."
+          }
+        ]
+      },
+      {
+        "heading": "One Concept a Day",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Money illusion: why a 5% raise can feel like a win when it is a cut",
+            "kicker": "Human psychology, money behavior"
+          },
+          {
+            "t": "p",
+            "html": "<strong>The idea.</strong> <a href=\"https://en.wikipedia.org/wiki/Money_illusion\" target=\"_blank\" rel=\"noopener\">Money illusion</a> (judging money by its face value, not its purchasing power) is the habit of thinking in nominal rupees, the number on the payslip or the price tag, rather than in real terms, what the money buys after inflation. The economist Irving Fisher wrote about it in 1928. The psychologists <a href=\"https://en.wikipedia.org/wiki/Eldar_Shafir\" target=\"_blank\" rel=\"noopener\">Eldar Shafir</a> (Princeton psychologist), Nobel-winning economist <a href=\"https://en.wikipedia.org/wiki/Peter_Diamond\" target=\"_blank\" rel=\"noopener\">Peter Diamond</a> (MIT economist) and <a href=\"https://en.wikipedia.org/wiki/Amos_Tversky\" target=\"_blank\" rel=\"noopener\">Amos Tversky</a> (decision-science pioneer) tested it in <a href=\"https://ideas.repec.org/a/oup/qjecon/v112y1997i2p341-374..html\" target=\"_blank\" rel=\"noopener\">a 1997 paper in the Quarterly Journal of Economics</a> and proposed why it survives: people think about money in both nominal and real terms at once, and the nominal view wins when the question is about feelings rather than arithmetic."
+          },
+          {
+            "t": "p",
+            "html": "<strong>The story.</strong> The paper's first problem describes two graduates in similar jobs at publishing firms, both earning $30,000. Ann works in a year with no inflation and gets a 2% raise. Barbara works in a year with 4% inflation and gets a 5% raise. In economic terms, 71% of the 150 respondents said Ann was doing better, which is right: Ann gained 2% in buying power, Barbara roughly 1%. But when 69 other respondents were asked who was happier, 64% picked Barbara, the bigger raise on paper. And 65% of 139 predicted Ann, the one doing better, was more likely to quit for another job. The authors' reading: the feeling of well-being tracked the nominal raise even though the real raise was lower and the real arithmetic was easy to do."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Use it today.</strong> Today's print puts inflation at 5.54%. Compare every number that has a rupee sign on it, a raise, a premium quote, a salary offer, a commission slab, against that 5.54%, and read the gap, not the headline. A 5% raise is a real cut at this rate."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://ideas.repec.org/a/oup/qjecon/v112y1997i2p341-374..html\" target=\"_blank\" rel=\"noopener\">Shafir, Diamond and Tversky, Money Illusion, QJE 112(2), 1997 (abstract)</a> / <a href=\"https://paperzz.com/doc/6854868/quarterly-journal-of-economics\" target=\"_blank\" rel=\"noopener\">Full text, as read for Problem 1</a>."
+          },
+          {
+            "t": "figure",
+            "img": "photos/d8-chalk.jpg",
+            "alt": "Chalk drawn arrows on a blackboard",
+            "caption": "Photo: Roman Mager (Unsplash, CC0)."
+          }
+        ]
+      },
+      {
+        "heading": "Business teardown",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Today's teardown is a company built on the idea at the centre of the lead story. Acko sells insurance directly with no agent and no commission, bets that renewals will carry the profit, and reported its first profitable year in FY26: a ₹43.6 crore profit after a ₹193.4 crore loss. The read follows its founder from aggregator to insurer, how it found customers through Amazon and Ola, what a zero-commission model does to the unit economics, and what IRDAI's commission caps do to its edge. Read it here: <a href=\"https://files.instinct.com/g2l61apeaqql-ackos-zero-commission-bet\" target=\"_blank\" rel=\"noopener\">Acko's zero-commission bet</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Seven-day calendar, 13 to 19 October",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "13",
+                "title": "Tue: HD Fire Protect IPO opens",
+                "detail": "A ₹712 crore offer for sale by promoters at ₹258 to ₹271, open to Thursday 15 October; the maker of fire-protection equipment raised ₹213 crore from anchor investors on Monday (Moneycontrol). It tests appetite for industrial small-caps after Monday's tilt."
+              },
+              {
+                "n": "14",
+                "title": "Wed: WPI inflation; US CPI; Fusion CX IPO opens",
+                "detail": "India's wholesale inflation for September; August ran 9.92% (Moneycontrol, NDTV Profit). US CPI is released at 8:30 AM ET, 6:00 PM IST (BLS), with a 3.6% consensus (CNBC). Fusion CX, a Kolkata-based customer-experience and support outsourcer, opens a ₹702 crore IPO at ₹275 to ₹289, closing Friday (ET)."
+              },
+              {
+                "n": "15",
+                "title": "Thu: Wipro and Persistent Systems Q2",
+                "detail": "The next IT results after HCLTech, which gives a read on whether its guidance floor is the sector's or its own (NDTV Profit). US PPI and retail sales the same day."
+              },
+              {
+                "n": "16",
+                "title": "Fri: Tech Mahindra Q2; Fusion CX closes",
+                "detail": "Tech Mahindra reports (NDTV Profit). US industrial production is due. HDFC Bank, ICICI Bank and Axis Bank also report during the week; exact dates are on each company's filing page."
+              },
+              {
+                "n": "17",
+                "title": "Sat: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "18",
+                "title": "Sun: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "19",
+                "title": "Mon: Jio Platforms anchor book",
+                "detail": "Reported date, not yet in a filed prospectus (Mint, ET). The public issue is reported for 21 to 23 October and listing for 28 October."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Just beyond the window: the IRDAI consultation on distribution reform closes 25 October (IRDAI), with BusinessLine's sources saying it may be extended; Mistral's Large 4 open weights are scheduled by the end of October (AI News)."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.ndtvprofit.com/markets/the-week-ahead-inflation-data-q2-earnings-ipos-us-cpi-in-focus-12170174\" target=\"_blank\" rel=\"noopener\">NDTV Profit week ahead</a> / <a href=\"https://www.moneycontrol.com/news/business/markets/business-in-the-week-ahead-october-12-16-2026-14048479.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol week ahead</a> / <a href=\"https://www.bls.gov/schedule/2026/10_sched_list.htm\" target=\"_blank\" rel=\"noopener\">BLS release schedule</a> / <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/fusion-cx-sets-price-band-for-rs-702-crore-ipo-issue-opens-on-october-14/articleshow/134806844.cms\" target=\"_blank\" rel=\"noopener\">Fusion CX, ET</a> / <a href=\"https://www.moneycontrol.com/news/business/ipo/hd-fire-protect-raises-rs-213-crore-via-anchor-book-rs-712-crore-ipo-to-open-on-october-13-14050393.html\" target=\"_blank\" rel=\"noopener\">HD Fire Protect, Moneycontrol</a> / <a href=\"https://www.artificialintelligence-news.com/news/mistral-ai-launches-large-4-preview-ahead-open-weight-release/\" target=\"_blank\" rel=\"noopener\">Mistral Large 4 preview, AI News</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Notes",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Correction to edition 7: it dated the Riyadh airport strike to Friday and put the toll at 12. The strike was Saturday 10 October, and the toll is now 13 (NBC News, CNA, BBC).",
+              "Yesterday's expectation items are now results: CPI was 5.54% against a 5.6% poll, and HCLTech's guidance came in at 2.5% to 4%, below the 3% to 4% the ET preview had expected.",
+              "Where two sources differ, both are named: Mint reports the Jio issue at ₹37,700 crore and ET at about ₹30,000 crore; this edition uses ET's figure, which matches 27 crore shares at the top of the reported band.",
+              "Muse Wonder benchmark results are Meta's own, as reported by SiliconANGLE from the model card. Agent37's cost figures are the founder's.",
+              "Nothing here is investment advice. Watch items are reported facts, not calls on direction."
+            ]
+          },
+          {
+            "t": "closing",
+            "html": "Edition 8. The paper continues daily. One Concept a Day replaces Try this today from this edition; tell me what to keep, change or drop."
+          }
+        ]
+      }
+    ]
+  },
+  "audio": {
+    "full": "audio/d8-full.m4a",
+    "quick": "audio/d8-quick.m4a"
+  },
+  "times": {
+    "full": "audio/d8-full.times.json"
+  }
+}
