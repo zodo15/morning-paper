@@ -2,7 +2,7 @@
   'use strict';
   var D = window.PAPER_DATA;
   var app = document.getElementById('app');
-  var SPEEDS = [1, 1.25, 1.5, 0.75];
+  var SPEEDS = [1, 1.25, 1.5, 2, 0.75];
 
   /* ---------- plates: section title pictures ---------- */
   var PLATES = {
