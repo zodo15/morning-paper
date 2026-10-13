@@ -17,7 +17,7 @@ def ffprobe_duration(path):
                           '-of','csv=p=0', path], capture_output=True, text=True)
     return float(out.stdout.strip())
 
-def silences(path, noise='-35dB', mind=0.30):
+def silences(path, noise='-38dB', mind=0.45):
     p = subprocess.run(['ffmpeg','-hide_banner','-i',path,'-af',
                         f'silencedetect=noise={noise}:d={mind}','-f','null','-'],
                        capture_output=True, text=True)
@@ -63,16 +63,52 @@ def place_sentences(sents, intervals):
         out.append([start, off, stext])
     return out
 
-def snap(placed, sils, window=0.9):
-    mids = [(s + e) / 2 for s, e in sils]
+def snap(placed, sils, window=45.0, skip_penalty=50.0):
+    """Anchor internal sentence boundaries to real pauses via global DP.
+    Each boundary either takes one unused pause midpoint (order preserved) at
+    cost |anchor - proportional_estimate|, or keeps its estimate at cost
+    skip_penalty. Global optimum beats greedy: no local dead-ends."""
+    mids = sorted((s + e) / 2 for s, e in sils)
+    n = len(placed) - 1          # internal boundaries count = len(placed)-1
+    m = len(mids)
+    INF = float('inf')
+    props = [placed[i][0] for i in range(1, len(placed))]
+    # dp[i][j]: best cost aligning boundaries 0..i-1 with pauses 0..j-1
+    dp = [[INF]*(m+1) for _ in range(n+1)]
+    back = [[None]*(m+1) for _ in range(n+1)]
+    for j in range(m+1):
+        dp[0][j] = 0.0
+    for i in range(1, n+1):
+        b = props[i-1]
+        dp[i][0] = i * skip_penalty
+        back[i][0] = ('skip', 0)
+        for j in range(1, m+1):
+            best, arg = dp[i][j-1], ('skippause', j-1)
+            if dp[i-1][j] + skip_penalty < best:
+                best, arg = dp[i-1][j] + skip_penalty, ('skip', j)
+            d = abs(b - mids[j-1])
+            if d <= window and dp[i-1][j-1] + d < best:
+                best, arg = dp[i-1][j-1] + d, ('anchor', j-1)
+            dp[i][j] = best
+            back[i][j] = arg
+    # walk back
+    anchors = {}
+    i, j = n, m
+    while i > 0:
+        op, arg = back[i][j]
+        if op == 'anchor':
+            anchors[i] = mids[arg]
+            i -= 1; j = arg
+        elif op == 'skippause':
+            j = arg
+        else:
+            i -= 1
+    prev = 0.0
     for i in range(1, len(placed)):
-        b = placed[i][0]
-        best = None
-        for m in mids:
-            if abs(m - b) <= window and (best is None or abs(m - b) < abs(best - b)):
-                best = m
-        if best is not None:
-            placed[i][0] = placed[i-1][1] = best
+        b = anchors.get(i, max(props[i-1], prev + 0.05))
+        b = max(b, prev + 0.05)
+        placed[i][0] = placed[i-1][1] = b
+        prev = b
     return placed
 
 TOKEN = re.compile(r"[a-z]+|\d+\.\d+|\d+")
@@ -140,6 +176,74 @@ def edition_blocks(day_src):
                 blocks.append(strip_html(b['html']))
     return blocks
 
+def transcribe_clips(audio, tmpdir):
+    """Split audio into 30s clips and transcribe each with the local read tool.
+    Returns list of (clip_start_seconds, transcript) or None on failure."""
+    import subprocess, tempfile, os
+    dur = ffprobe_duration(audio)
+    n = int(dur // 30) + 1
+    clips = []
+    for i in range(n):
+        p = os.path.join(tmpdir, 'c%03d.m4a' % i)
+        r = subprocess.run(['ffmpeg', '-v', 'error', '-ss', str(i*30), '-to', str(i*30+30),
+                            '-i', audio, '-c:a', 'aac', '-b:a', '48k', p, '-y'])
+        if r.returncode != 0:
+            return None
+        clips.append((i * 30.0, p))
+    out = []
+    for t0, p in clips:
+        r = subprocess.run(['tools', 'read', '--file-path', p, '--json'],
+                           capture_output=True, text=True, timeout=120)
+        try:
+            tr = json.loads(r.stdout)['structured']['transcript']
+        except Exception:
+            return None
+        out.append((t0, tr))
+    return out
+
+def transcript_anchor(sents, clips, sils, dur):
+    """True sentence times: align the whole script to the whole transcript with
+    difflib (word-number normalized), map script token offsets to clip-interpolated
+    times, then snap boundaries to real pauses (+-6s). Beats silence-proportional
+    placement, which drifts 15-35s over a long read."""
+    tok_times, tok_text = [], []
+    for t0, tr in clips:
+        toks = norm(tr).split()
+        for j, t in enumerate(toks):
+            tok_text.append(t)
+            tok_times.append(t0 + (j + 0.5) / max(len(toks), 1) * 30.0)
+    stok_text, stok_sent = [], []
+    for k, sent in enumerate(sents):
+        for t in norm(sent).split():
+            stok_text.append(t); stok_sent.append(k)
+    sm = difflib.SequenceMatcher(None, stok_text, tok_text, autojunk=False)
+    mapping = [None] * len(stok_text)
+    for tag, a0, a1, b0, b1 in sm.get_opcodes():
+        if tag == 'equal':
+            for d in range(a1 - a0):
+                mapping[a0 + d] = b0 + d
+        else:
+            if a1 == a0: continue
+            lo, hi = b0 - 0.5, b1 - 0.5
+            for d in range(a1 - a0):
+                mapping[a0 + d] = lo + (d + 0.5) / (a1 - a0) * max(hi - lo, 1)
+    def tok_time(fi):
+        i0 = max(0, min(int(fi), len(tok_times) - 1))
+        i1 = min(i0 + 1, len(tok_times) - 1)
+        return tok_times[i0] + (fi - int(fi)) * (tok_times[i1] - tok_times[i0])
+    starts = {}
+    for ti, k in enumerate(stok_sent):
+        if k not in starts and mapping[ti] is not None:
+            starts[k] = tok_time(mapping[ti])
+    placed, prev_end = [], 0.0
+    for k, sent in enumerate(sents):
+        st = max(starts.get(k, prev_end), prev_end + 0.05)
+        placed.append([st, st + max(0.4, words(sent) * 0.34), sent])
+        prev_end = st
+    placed = snap(placed, sils, window=6.0, skip_penalty=8.0)
+    placed[-1][1] = dur
+    return placed
+
 def match_blocks(blocks, placed):
     """Sequentially match each page block to a run of script sentences.
     The script follows paper order but adds glue (greeting, transitions, the
@@ -179,7 +283,22 @@ def main():
     intervals = speech_intervals(sils, dur)
     script = re.sub(r'\[[^\]]*\]', '', open(script_path).read())  # [curious] cues
     sents = split_sentences(script)
-    placed = snap(place_sentences(sents, intervals), sils)
+    import tempfile
+    with tempfile.TemporaryDirectory() as tmp:
+        clips = transcribe_clips(audio, tmp)
+    if clips:
+        placed = transcript_anchor(sents, clips, sils, dur)
+        print('alignment: transcript-anchored (%d clips)' % len(clips))
+        # cross-check against silence-anchored placement; big disagreement means a
+        # local transcription artifact - spot-check those boundaries by ear
+        ref = snap(place_sentences(sents, intervals), sils)
+        for i in range(len(placed)):
+            if abs(placed[i][0] - ref[i][0]) > 8:
+                print('  REVIEW sentence %d: transcript %.1fs vs silence %.1fs | %s'
+                      % (i, placed[i][0], ref[i][0], sents[i][:70]))
+    else:
+        placed = snap(place_sentences(sents, intervals), sils)
+        print('alignment: FALLBACK silence-anchored (transcription unavailable)')
     day_src = json.load(open(day_path))
     blocks = edition_blocks(day_src)
     matched, ratios = match_blocks(blocks, placed)
