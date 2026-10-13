@@ -150,3 +150,64 @@ a.arch-card { border-bottom: 1px solid var(--line); }
 .w2.on { background: rgba(198,54,44,.22); }
 .w2.done { background: rgba(198,54,44,.05); }
 .rp.reading-done { opacity: .72; }
+
+/* ---------- silent pacer ---------- */
+.pc { border-radius: 3px; transition: background .15s; }
+.pc.pc-on { background: rgba(34,72,47,.22); }
+.pc.pc-done { background: rgba(34,72,47,.05); }
+.pacer-bar[hidden] { display: none; }
+.pacer-bar { position: fixed; left: 50%; transform: translateX(-50%); bottom: 14px; z-index: 50; display: flex; align-items: center; gap: 8px; background: var(--forest); color: var(--paper); border-radius: 999px; padding: 8px 12px; box-shadow: 0 10px 26px rgba(25,23,19,.35); max-width: calc(100vw - 28px); }
+.pacer-bar .rb-label { color: var(--paper); }
+.pc-play { background: var(--red); }
+.pc-step { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 14px; color: var(--paper); background: none; border: 1.5px solid rgba(246,241,231,.6); border-radius: 50%; width: 28px; height: 28px; cursor: pointer; line-height: 1; display: flex; align-items: center; justify-content: center; flex: none; }
+.pc-wpm { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 11px; color: var(--paper); background: none; border: 1.5px solid rgba(246,241,231,.6); border-radius: 999px; padding: 4px 10px; cursor: default; white-space: nowrap; }
+.pc-stats { font-family: 'PS Meta', sans-serif; font-weight: 500; font-size: 11px; opacity: .85; white-space: nowrap; }
+.pace-btn { font-family: 'PS Meta', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: .1em; color: var(--paper); border: 1.5px solid var(--forest); border-radius: 999px; background: var(--forest); padding: 5px 12px; cursor: pointer; flex: none; }
+.pace-btn:hover { background: var(--paper); color: var(--forest); }
+.pace-btn.active { background: var(--paper); color: var(--forest); }
+@media (max-width: 560px) {
+  .pacer-bar .rb-label { display: none; }
+  .pc-stats { display: none; }
+}
+
+/* ---------- desktop layout ---------- */
+@media (min-width: 900px) {
+  .wrap { max-width: 800px; padding: 0 28px 110px; }
+  .mast { padding-top: 30px; }
+  .mast-name { font-size: 68px; }
+  .mast-sub { font-size: 13px; }
+  .tab { font-size: 13.5px; padding: 12px 20px 11px; }
+  .ticker-in { font-size: 12px; }
+  .h1 { font-size: 42px; }
+  .intro { font-size: 17px; }
+  .body-p { font-size: 18px; line-height: 1.75; }
+  .bullets li { font-size: 17px; }
+  .row-detail { font-size: 16px; }
+  .row-title { font-size: 15.5px; }
+  .story-title { font-size: 24px; }
+  .section-title { font-size: 16px; }
+  .facts { padding: 18px 20px; }
+  .facts dd { font-size: 16px; }
+  .callout { font-size: 16.5px; padding: 18px 20px; }
+  figure.plate { position: relative; left: 50%; transform: translateX(-50%); width: min(960px, calc(100vw - 56px)); margin: 22px 0 26px; }
+  figure.plate figcaption { font-size: 12.5px; }
+  .concept { padding: 22px 26px; }
+  .concept-name { font-size: 30px; }
+  .concept-line { font-size: 16px; }
+  .arch-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0 36px; }
+  .arch-title { font-size: 44px; }
+  .player { padding: 12px 18px; }
+  .player-meta b { font-size: 13px; }
+  .player-meta span { font-size: 13px; }
+  .lr-teaser .t { font-size: 26px; }
+  .ednav-btn { font-size: 13.5px; padding: 10px 22px; }
+  .footer { font-size: 12px; }
+  .reader-bar, .pacer-bar { padding: 10px 16px; }
+}
+@media (min-width: 1440px) {
+  .wrap { max-width: 880px; }
+  .mast-name { font-size: 80px; }
+  .h1 { font-size: 46px; }
+  .body-p { font-size: 18.5px; }
+  figure.plate { width: min(1080px, calc(100vw - 64px)); }
+}
