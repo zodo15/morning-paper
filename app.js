@@ -268,6 +268,7 @@
       btn.addEventListener('click', function () {
         root.querySelectorAll('.player:not(.off)').forEach(function (o) { if (o !== p && o._a) { o._a.pause(); o.querySelector('.play-btn').classList.remove('playing'); } });
         if (a.paused) {
+          stopPacer(true);
           if (p.dataset.times) loadHighlight(p.dataset.times, root);
           a.play(); btn.classList.add('playing');
         } else { a.pause(); btn.classList.remove('playing'); }
@@ -280,6 +281,226 @@
       p._a = a;
     });
   }
+
+
+  /* ---------- silent reading pacer (no audio; WPM-paced sentence highlight) ---------- */
+  var splitSents;
+  try {
+    splitSents = new Function('t', 'return t.split(/(?<=[.!?])\\s+/)');
+    splitSents('a. b');
+    splitSents = function (t) { return t.split(/(?<=[.!?])\s+/); };
+  } catch (e) {
+    splitSents = function (t) {
+      var parts = t.split(/([.!?])\s+/), out = [];
+      for (var i = 0; i < parts.length; i += 2) out.push(parts[i] + (parts[i + 1] || ''));
+      return out;
+    };
+  }
+  var P = { items: [], i: 0, running: false, timer: null, tick: null, wpm: 200,
+            acc: 0, resumedAt: 0, segStart: 0, segLeft: 0, label: '', base: 0 };
+  var pbar = document.getElementById('pacer-bar');
+  var pcToggle = document.getElementById('pc-toggle');
+  var pcMinus = document.getElementById('pc-minus');
+  var pcPlus = document.getElementById('pc-plus');
+  var pcWpm = document.getElementById('pc-wpm');
+  var pcLabel = document.getElementById('pc-label');
+  var pcStats = document.getElementById('pc-stats');
+  var pcStop = document.getElementById('pc-stop');
+  try { P.wpm = Math.min(600, Math.max(80, parseInt(localStorage.getItem('pacerWpm'), 10) || 200)); } catch (e) {}
+
+  function wordCount(t) { var m = t.trim().split(/\s+/); return m[0] ? m.length : 0; }
+  function wrapPacerSentences(el) {
+    var text = el.textContent;
+    var sents = splitSents(text).filter(function (x) { return x.trim(); });
+    if (!sents.length) return [];
+    var pos = 0, ranges = [];
+    for (var i = 0; i < sents.length; i++) {
+      var idx = text.indexOf(sents[i], pos);
+      if (idx < 0) return [];
+      ranges.push({ a: idx, b: idx + sents[i].length });
+      pos = idx + sents[i].length;
+    }
+    var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null);
+    var nodes = [], n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    var items = ranges.map(function (r, ri) {
+      return { spans: [], block: el, words: wordCount(sents[ri]), text: sents[ri] };
+    });
+    var off = 0;
+    nodes.forEach(function (node) {
+      var start = off, end = off + node.nodeValue.length;
+      var segs = [], cur = start;
+      ranges.forEach(function (r, ri) {
+        if (r.b <= start || r.a >= end) return;
+        var a = Math.max(r.a, start), b = Math.min(r.b, end);
+        if (a > cur) segs.push({ a: cur, b: a });
+        segs.push({ a: a, b: b, ri: ri });
+        cur = Math.max(cur, b);
+      });
+      if (cur < end) segs.push({ a: cur, b: end });
+      var frag = document.createDocumentFragment();
+      segs.forEach(function (g) {
+        var piece = node.nodeValue.slice(g.a - start, g.b - start);
+        if (g.ri == null) { frag.appendChild(document.createTextNode(piece)); return; }
+        var sp = document.createElement('span');
+        sp.className = 'pc'; sp.textContent = piece;
+        frag.appendChild(sp);
+        items[g.ri].spans.push(sp);
+      });
+      node.parentNode.replaceChild(frag, node);
+      off = end;
+    });
+    return items;
+  }
+  function pcSet(it, cls, on) {
+    it.spans.forEach(function (sp) { if (on) sp.classList.add(cls); else sp.classList.remove(cls); });
+  }
+  function pcClearMarks() {
+    var on = document.querySelectorAll('.pc.pc-on, .pc.pc-done');
+    for (var i = 0; i < on.length; i++) on[i].classList.remove('pc-on', 'pc-done');
+  }
+  function pcElapsed() { return P.acc + (P.running ? Date.now() - P.resumedAt : 0); }
+  function pcWordsRead() {
+    var w = 0;
+    for (var i = P.base; i < P.i && i < P.items.length; i++) w += P.items[i].words;
+    return w;
+  }
+  function pcStatsTick() {
+    var s = Math.round(pcElapsed() / 1000);
+    pcStats.textContent = Math.floor(s / 60) + ':' + ('0' + (s % 60)).slice(-2) + ' \u00b7 ' + pcWordsRead() + ' words';
+  }
+  function pcSchedule() {
+    clearTimeout(P.timer);
+    var it = P.items[P.i];
+    if (!it) return;
+    var dur = Math.max(250, it.words / P.wpm * 60000);
+    P.segStart = Date.now(); P.segLeft = dur;
+    P.timer = setTimeout(pcAdvance, dur);
+  }
+  function pcAdvance() {
+    var it = P.items[P.i];
+    if (it) { pcSet(it, 'pc-on', false); pcSet(it, 'pc-done', true); }
+    P.i++;
+    if (P.i >= P.items.length) { pcFinish(); return; }
+    var nx = P.items[P.i];
+    pcSet(nx, 'pc-on', true);
+    var r = nx.block.getBoundingClientRect();
+    if (r.top < 90 || r.bottom > window.innerHeight - 90) {
+      nx.block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+    P.resumedAt = Date.now();
+    pcSchedule();
+  }
+  function pcPause() {
+    if (!P.running) return;
+    P.running = false;
+    clearTimeout(P.timer); clearInterval(P.tick);
+    var now = Date.now();
+    P.segLeft = Math.max(0, P.segLeft - (now - P.segStart));
+    P.acc += now - P.resumedAt;
+    pcToggle.innerHTML = '&#9654;';
+  }
+  function pcResume() {
+    if (P.running || !P.items.length || P.i >= P.items.length) return;
+    P.running = true;
+    P.resumedAt = Date.now(); P.segStart = Date.now();
+    clearTimeout(P.timer);
+    P.timer = setTimeout(pcAdvance, P.segLeft);
+    P.tick = setInterval(pcStatsTick, 1000);
+    pcToggle.innerHTML = '&#10073;&#10073;';
+  }
+  function pcLogResult() {
+    var words = pcWordsRead(), secs = pcElapsed() / 1000;
+    if (words < 10 || secs < 5) { pcStats.textContent = ''; return; }
+    var eff = Math.round(words / (secs / 60));
+    pcStats.textContent = 'done \u00b7 ' + words + ' words in ' + Math.floor(secs / 60) + ':' + ('0' + Math.round(secs % 60)).slice(-2) + ' \u00b7 ' + eff + ' wpm effective';
+    try {
+      var log = JSON.parse(localStorage.getItem('pacerLog') || '[]');
+      log.push({ d: new Date().toISOString().slice(0, 10), page: P.label, wpm: eff, words: words, secs: Math.round(secs) });
+      localStorage.setItem('pacerLog', JSON.stringify(log.slice(-100)));
+    } catch (e) {}
+  }
+  function pcFinish() {
+    P.running = false;
+    clearTimeout(P.timer); clearInterval(P.tick);
+    pcLogResult();
+    pcToggle.innerHTML = '&#9654;';
+  }
+  function stopPacer(silent) {
+    if (pbar.hidden) return;
+    P.running = false;
+    clearTimeout(P.timer); clearInterval(P.tick);
+    if (!silent) pcLogResult();
+    pcClearMarks();
+    P.items = []; P.i = 0;
+    pbar.hidden = true;
+    var act = document.querySelector('.pace-btn.active');
+    if (act) act.classList.remove('active');
+  }
+  function startPacer(scopeEl, label, fromIdx) {
+    stopPacer(true); stopReader();
+    root_pausePlayers();
+    P.items = [];
+    scopeEl.querySelectorAll('.rp').forEach(function (el) {
+      P.items = P.items.concat(wrapPacerSentences(el));
+    });
+    if (!P.items.length) return;
+    P.i = fromIdx || 0; P.base = P.i; P.acc = 0; P.label = label;
+    pcLabel.textContent = label;
+    pcWpm.textContent = P.wpm + ' wpm';
+    pcStats.textContent = '';
+    pbar.hidden = false;
+    var cur = P.items[P.i];
+    pcSet(cur, 'pc-on', true);
+    cur.block.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    P.segLeft = Math.max(250, cur.words / P.wpm * 60000);
+    P.running = true; P.resumedAt = Date.now(); P.segStart = Date.now();
+    P.timer = setTimeout(pcAdvance, P.segLeft);
+    P.tick = setInterval(pcStatsTick, 1000);
+    pcToggle.innerHTML = '&#10073;&#10073;';
+  }
+  function root_pausePlayers() {
+    document.querySelectorAll('.player').forEach(function (o) {
+      if (o._a) { o._a.pause(); var b = o.querySelector('.play-btn'); if (b) b.classList.remove('playing'); }
+    });
+    clearHL();
+  }
+  pcToggle.addEventListener('click', function () { if (P.running) pcPause(); else pcResume(); });
+  pcStop.addEventListener('click', function () { stopPacer(false); });
+  function pcStep(d) {
+    var old = P.wpm;
+    P.wpm = Math.min(600, Math.max(80, P.wpm + d));
+    if (P.wpm === old) return;
+    try { localStorage.setItem('pacerWpm', String(P.wpm)); } catch (e) {}
+    pcWpm.textContent = P.wpm + ' wpm';
+    if (P.running && P.items[P.i]) {  // live-adjust the current sentence's remaining time
+      var now = Date.now();
+      var left = Math.max(0, P.segLeft - (now - P.segStart));
+      P.segLeft = Math.max(120, left * old / P.wpm);
+      P.segStart = now;
+      clearTimeout(P.timer);
+      P.timer = setTimeout(pcAdvance, P.segLeft);
+    }
+  }
+  pcMinus.addEventListener('click', function () { pcStep(-10); });
+  pcPlus.addEventListener('click', function () { pcStep(10); });
+  document.addEventListener('click', function (e) {  // tap any line to jump the pacer there
+    if (pbar.hidden) return;
+    var sp = e.target.closest('.pc');
+    if (!sp) return;
+    for (var i = 0; i < P.items.length; i++) {
+      if (P.items[i].spans.indexOf(sp) < 0) continue;
+      clearTimeout(P.timer);
+      for (var j = 0; j < P.items.length; j++) {
+        pcSet(P.items[j], 'pc-on', j === i);
+        pcSet(P.items[j], 'pc-done', j < i);
+      }
+      P.i = i;
+      if (P.running) { P.segLeft = Math.max(250, P.items[i].words / P.wpm * 60000); P.segStart = Date.now(); P.resumedAt = Date.now(); P.timer = setTimeout(pcAdvance, P.segLeft); }
+      else { P.segLeft = Math.max(250, P.items[i].words / P.wpm * 60000); }
+      return;
+    }
+  });
 
   /* ---------- render helpers ---------- */
   function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
@@ -352,7 +573,7 @@
     ed.groups.forEach(function (g, gi) {
       h += '<section class="section" id="g' + gi + '"><div class="section-head">' +
         '<div class="section-title">' + esc(g.heading) + '</div>' +
-        (hasFull ? '' : '<button class="listen-btn" data-g="' + gi + '">&#9654; Listen</button>') + '</div>';
+        (hasFull ? '' : '<button class="listen-btn" data-g="' + gi + '">&#9654; Listen</button>') + '<button class="pace-btn" data-g="' + gi + '">&#9201; Pace</button></div>';
       var plate = plateFor(day, g.heading);
       if (plate) h += '<figure class="plate"><img src="' + plate + '" alt="" loading="lazy"></figure>';
       g.blocks.forEach(function (b) { h += blockHTML(b); });
@@ -381,6 +602,7 @@
     var h = '<div class="wrap">' + mast('archive') +
       '<div class="arch-title">The archive</div>' +
       '<div class="arch-sub">Every edition, complete. ' + D.today + ' days and counting.</div>';
+    h += '<div class="arch-grid">';
     for (var n = D.today; n >= 1; n--) {
       var ed = D.editions[n];
       var thumb = (ed.hero && ed.hero.img) || plateFor(n, 'Front page') || 'photos/concept-compounding.jpg';
@@ -389,7 +611,7 @@
         '<span>' + esc(ed.fact) + '</span></span>' +
         '<img class="arch-thumb" src="' + thumb + '" alt="" loading="lazy"></a>';
     }
-    h += '<div class="footer"><span>The Morning Paper</span><span>' + D.today + ' editions</span></div></div>';
+    h += '</div><div class="footer"><span>The Morning Paper</span><span>' + D.today + ' editions</span></div></div>';
     app.innerHTML = h;
   }
   function renderEdition(n) {
@@ -417,7 +639,7 @@
     }
     lr.groups.forEach(function (g, gi) {
       h += '<section class="section"><div class="section-head"><div class="section-title">' + esc(g.heading) + '</div>' +
-        '<button class="listen-btn" data-lg="' + gi + '">&#9654; Listen</button></div>';
+        '<button class="listen-btn" data-lg="' + gi + '">&#9654; Listen</button>' + '<button class="pace-btn" data-lg="' + gi + '">&#9201; Pace</button></div>';
       g.blocks.forEach(function (b) { h += blockHTML(b); });
       h += '</section>';
     });
@@ -429,6 +651,7 @@
   /* ---------- router ---------- */
   function route() {
     stopReader();
+    stopPacer(true);
     var hash = location.hash.replace(/^#\/?/, '');
     var m;
     if (!hash || hash === 'today') renderToday();
@@ -446,6 +669,14 @@
     var label = sec.querySelector('.section-title').textContent;
     startReader(sec, label);
     sec.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest('.pace-btn');
+    if (!btn) return;
+    var sec = btn.closest('.section');
+    var label = sec.querySelector('.section-title').textContent;
+    btn.classList.add('active');
+    startPacer(sec, label, 0);
   });
   route();
 })();
