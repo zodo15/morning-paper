@@ -279,7 +279,11 @@
         if (a.duration) fill.style.width = (a.currentTime / a.duration * 100) + '%';
         dur.textContent = fmt(a.currentTime) + ' / ' + fmt(a.duration);
         if (p.dataset.times) updateHL(a.currentTime);
+        if (A.on && A.a === a) audioProgress();
       });
+      a.addEventListener('seeked', function () { if (A.a === a) A.last = a.currentTime; });
+      a.addEventListener('play', function () { btn.classList.add('playing'); if (A.on && A.a === a) pcToggle.innerHTML = '&#10073;&#10073;'; });
+      a.addEventListener('pause', function () { btn.classList.remove('playing'); if (A.on && A.a === a) pcToggle.innerHTML = '&#9654;'; });
       a.addEventListener('ended', function () { btn.classList.remove('playing'); });
       if (track) track.addEventListener('click', function (e) {
         if (!a.duration) return;
@@ -292,6 +296,7 @@
           stopPacer(true);
           if (p.dataset.times) loadHighlight(p.dataset.times, root);
           a.play(); btn.classList.add('playing');
+          enterAudio(a, p, spd);
         } else { a.pause(); btn.classList.remove('playing'); }
       });
       spd.addEventListener('click', function () {
@@ -482,15 +487,80 @@
     P.tick = setInterval(pcStatsTick, 1000);
     pcToggle.innerHTML = '&#10073;&#10073;';
   }
+
+  /* ---------- pacer + voice together: the bar follows the recorded read ---------- */
+  var A = { on: false, a: null, last: 0, accWords: 0, accWall: 0, spd: null, hasWords: false };
+  function itemWords(it) {
+    if (it.words == null) {
+      var t = it.spans.length ? it.spans.map(function (sp) { return sp.textContent; }).join('') : it.block.textContent;
+      it.words = wordCount(t);
+    }
+    return it.words;
+  }
+  function wordsAt(t) {
+    if (!HL.ready) return 0;
+    var w = 0;
+    for (var i = 0; i < HL.items.length; i++) {
+      var it = HL.items[i];
+      if (t >= it.e) w += itemWords(it);
+      else if (t > it.s) w += itemWords(it) * (t - it.s) / Math.max(0.01, it.e - it.s);
+    }
+    return w;
+  }
+  function audioStats() {
+    var s = Math.round(A.accWall), words = Math.round(A.accWords);
+    var useW = A.hasWords && HL.ready;
+    pcStats.textContent = Math.floor(s / 60) + ':' + ('0' + (s % 60)).slice(-2) + (useW ? ' \u00b7 ' + words + ' words' : '');
+    var wpm = (useW && A.accWall > 8) ? Math.round(A.accWords / (A.accWall / 60)) : null;
+    pcWpm.textContent = (wpm ? wpm : '--') + ' wpm \u00b7 ' + A.a.playbackRate + '\u00d7';
+  }
+  function audioProgress() {
+    var t = A.a.currentTime, dt = t - A.last;
+    if (!A.a.paused && dt > 0 && dt < 2) {
+      A.accWall += dt / A.a.playbackRate;
+      if (A.hasWords) A.accWords += wordsAt(t) - wordsAt(A.last);
+    }
+    A.last = t;
+    audioStats();
+  }
+  function enterAudio(a, p, spd) {
+    stopPacer(true); stopReader();
+    if (A.a !== a) { A.accWords = 0; A.accWall = 0; }
+    A.on = true; A.a = a; A.spd = spd; A.last = a.currentTime; A.hasWords = !!p.dataset.times;
+    var nm = p.querySelector('.player-meta b');
+    pcLabel.textContent = 'Listening' + (nm ? ' \u00b7 ' + nm.textContent : '');
+    pcToggle.innerHTML = '&#10073;&#10073;';
+    pbar.hidden = false;
+    audioStats();
+  }
+  function exitAudio() {
+    if (!A.on) return;
+    A.on = false;
+    pbar.hidden = true;
+  }
   function root_pausePlayers() {
+    exitAudio();
     document.querySelectorAll('.player').forEach(function (o) {
       if (o._a) { o._a.pause(); var b = o.querySelector('.play-btn'); if (b) b.classList.remove('playing'); }
     });
     clearHL();
   }
-  pcToggle.addEventListener('click', function () { if (P.running) pcPause(); else pcResume(); });
-  pcStop.addEventListener('click', function () { stopPacer(false); });
+  pcToggle.addEventListener('click', function () {
+    if (A.on) { if (A.a.paused) A.a.play(); else A.a.pause(); return; }
+    if (P.running) pcPause(); else pcResume();
+  });
+  pcStop.addEventListener('click', function () {
+    if (A.on) { A.a.pause(); A.on = false; pbar.hidden = true; return; }
+    stopPacer(false);
+  });
   function pcStep(d) {
+    if (A.on) {
+      var r = Math.min(3, Math.max(0.5, Math.round((A.a.playbackRate + d / 100) * 100) / 100));
+      A.a.playbackRate = r;
+      if (A.spd) A.spd.innerHTML = r + '&times;';
+      audioStats();
+      return;
+    }
     var old = P.wpm;
     P.wpm = Math.min(600, Math.max(80, P.wpm + d));
     if (P.wpm === old) return;
@@ -724,3 +794,4 @@
   });
   route();
 })();
+
