@@ -201,6 +201,19 @@
     });
     return items;
   }
+  function wrapWholeBlock(el) {
+    var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null);
+    var nodes = [], n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    var spans = [];
+    nodes.forEach(function (node) {
+      var sp = document.createElement('span');
+      sp.className = 'w2'; sp.textContent = node.nodeValue;
+      node.parentNode.replaceChild(sp, node);
+      spans.push(sp);
+    });
+    return spans;
+  }
   function loadHighlight(timesUrl, scopeEl) {
     if (HL.ready || HL.pending || HL.failed) return;
     HL.pending = true;
@@ -215,6 +228,14 @@
         else if (bm.s != null) items.push({ s: bm.s, e: bm.e, spans: [], block: els[i] });
       }
       items.sort(function (x, y) { return x.s - y.s; });
+      if (items.length && items[0].s > 2) {  // spoken opening (greeting, nameplate, fact, intro) has no sentence map: light the title + intro as one honest block, no faked timings
+        var leadSpans = [];
+        var h1el = scopeEl.querySelector('.h1');
+        var introEl = scopeEl.querySelector('.intro');
+        if (h1el) leadSpans = leadSpans.concat(wrapWholeBlock(h1el));
+        if (introEl) leadSpans = leadSpans.concat(wrapWholeBlock(introEl));
+        if (leadSpans.length) items.unshift({ s: 0, e: items[0].s, spans: leadSpans, block: introEl || h1el });
+      }
       HL.items = items; HL.ready = true; HL.pending = false;
     }).catch(function () { HL.pending = false; HL.failed = true; });
   }
