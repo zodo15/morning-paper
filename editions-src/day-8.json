@@ -3,7 +3,7 @@
   "meta": {
     "date": "Tuesday 13 October 2026",
     "short": "Tue 13 Oct",
-    "longread": null
+    "longread": 8
   },
   "edition": {
     "title": "Morning paper, Tuesday 13 October 2026",
@@ -348,7 +348,7 @@
         "blocks": [
           {
             "t": "p",
-            "html": "Today's teardown is a company built on the idea at the centre of the lead story. Acko sells insurance directly with no agent and no commission, bets that renewals will carry the profit, and reported its first profitable year in FY26: a ₹43.6 crore profit after a ₹193.4 crore loss. The read follows its founder from aggregator to insurer, how it found customers through Amazon and Ola, what a zero-commission model does to the unit economics, and what IRDAI's commission caps do to its edge. Read it here: <a href=\"https://files.instinct.com/g2l61apeaqql-ackos-zero-commission-bet\" target=\"_blank\" rel=\"noopener\">Acko's zero-commission bet</a>."
+            "html": "Today's teardown is a company built on the idea at the centre of the lead story. Acko sells insurance directly with no agent and no commission, bets that renewals will carry the profit, and reported its first profitable year in FY26: a ₹43.6 crore profit after a ₹193.4 crore loss. The read follows its founder from aggregator to insurer, how it found customers through Amazon and Ola, what a zero-commission model does to the unit economics, and what IRDAI's commission caps do to its edge. Read it here: <a href=\"#/longread/8\">Acko's zero-commission bet</a>."
           }
         ]
       },
