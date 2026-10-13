@@ -60,6 +60,15 @@ Script ground rules for the highlight to stay real:
 - The full-read script must follow the printed text section by section, in
   paper order. Spoken glue (greeting, transitions) and numbers spelled as
   words are fine - the aligner normalizes and skips those.
+- The script must NOT include photo captions or photo credits - print-only
+  lines. If one slips through, the publisher cuts it from the audio
+  (transcript-verified) and strips the line before aligning. (Rule added
+  after day 8, where three narrated captions were surgically removed.)
+- Alignment is transcript-anchored: the audio is transcribed in 30s clips,
+  the transcript is aligned to the script globally (difflib with spoken-number
+  normalization), and boundaries are snapped to real pauses. Pure
+  silence-proportional timing drifts 15-35s over a 30-minute read - do not
+  ship it alone.
 - If the aligner reports <80% block coverage, inspect before publishing;
   blocks that do not match simply get no highlight, never wrong highlight.
 - No timestamps are ever invented: sentence times come from the audio's own
