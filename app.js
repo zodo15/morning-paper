@@ -629,7 +629,7 @@
     h += '<div class="arch-grid">';
     for (var n = D.today; n >= 1; n--) {
       var ed = D.editions[n];
-      var thumb = (ed.hero && ed.hero.img) || plateFor(n, 'Front page') || 'photos/concept-compounding.jpg';
+      var thumb = ed.thumb || (ed.hero && ed.hero.img) || plateFor(n, 'Front page') || 'photos/concept-compounding.jpg';
       h += '<a class="arch-card" href="#/edition/' + n + '"><span class="arch-num">' + n + '</span>' +
         '<span class="arch-meta"><b>' + esc(D.meta[n].date) + (n === D.today ? ' &nbsp;<span class="arch-today-tag">Today</span>' : '') + '</b>' +
         '<span>' + esc(ed.fact) + '</span></span>' +
