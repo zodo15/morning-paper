@@ -162,7 +162,7 @@ def edition_blocks(day_src):
     """Page blocks in rendered reading order. Must mirror exactly the elements
     the site renders with class .rp (see blockHTML in app.js): paragraphs,
     bullet items, row details, callouts, closings - nothing else."""
-    ed = day_src['edition']
+    ed = day_src['edition'] if 'edition' in day_src else day_src  # long reads have groups at the top level
     blocks = []
     for g in ed['groups']:
         for b in g['blocks']:
@@ -324,7 +324,12 @@ def main():
                 cur = e
         out_blocks.append({'s': round(bs,2), 'e': round(be,2), 'sentences': sent_entries})
 
-    json.dump({'version': 1, 'audio': f'audio/d{day_src["day"]}-full.m4a', 'blocks': out_blocks},
+    import os
+    if 'day' in day_src:
+        audio_rel = f'audio/d{day_src["day"]}-full.m4a'
+    else:  # long read: lr8-full.times.json -> audio/lr8-full.m4a
+        audio_rel = 'audio/' + os.path.basename(out_path).replace('.times.json', '.m4a')
+    json.dump({'version': 1, 'audio': audio_rel, 'blocks': out_blocks},
               open(out_path,'w'), ensure_ascii=False)
     cov = sum(1 for x in matched if x)
     # Source lines and Why-it-matters boxes are skipped by the spoken script by design
