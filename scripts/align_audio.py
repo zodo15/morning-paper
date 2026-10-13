@@ -209,9 +209,10 @@ def transcript_anchor(sents, clips, sils, dur):
     tok_times, tok_text = [], []
     for t0, tr in clips:
         toks = norm(tr).split()
+        clip_len = max(1.0, min(30.0, dur - t0))  # the last clip is usually shorter than 30s
         for j, t in enumerate(toks):
             tok_text.append(t)
-            tok_times.append(t0 + (j + 0.5) / max(len(toks), 1) * 30.0)
+            tok_times.append(t0 + (j + 0.5) / max(len(toks), 1) * clip_len)
     stok_text, stok_sent = [], []
     for k, sent in enumerate(sents):
         for t in norm(sent).split():
