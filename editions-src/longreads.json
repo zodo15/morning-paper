@@ -958,5 +958,160 @@
       "caption": "The Bombay Stock Exchange, Mumbai, where PhonePe intends to list by February-March 2027. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0).",
       "img": "photos/d2-g1.jpg"
     }
+  },
+  "8": {
+    "title": "Acko's zero-commission bet",
+    "fact": "A business teardown: an insurer with no agents, a motor book that is over 60% renewals, and a first profit after four years of losses.",
+    "intro": "Acko sells insurance directly to customers and pays no one a sales commission. It reported its first profit in FY26, ₹43.6 crore, and has appointed bankers for an IPO. The regulator's proposed caps on commissions, the lead story in today's paper, test whether the model is a structural edge or a head start.",
+    "hero": {
+      "img": "photos/d8-hero.jpg",
+      "alt": "The Bombay Stock Exchange building in Mumbai",
+      "caption": "The Bombay Stock Exchange, Mumbai, where Acko's IPO is reported to be headed. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0)."
+    },
+    "groups": [
+      {
+        "heading": "The company",
+        "blocks": [
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Founded",
+                "v": "2016 by Varun Dua and Ruchi Deepak (Inc42). The insurance licence came in late 2017 and operations began in 2018 (CNBC-TV18)."
+              },
+              {
+                "k": "What it sells",
+                "v": "Motor, health and travel cover, mostly direct to the customer and through partner platforms."
+              },
+              {
+                "k": "Funding",
+                "v": "About $200 million raised by December 2020 (Forbes India), then a $255 million Series D in 2021 (Inc42)."
+              },
+              {
+                "k": "Latest result",
+                "v": "FY26 insurer net profit ₹43.6 crore against a ₹193.4 crore loss in FY25 (Inc42)."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Dua's route to insurance matters for what Acko became. Forbes India says he started a CRM and contact-centre firm in 2009, then a company called GlitterBug, then joined the insurance aggregator Coverfox (an online insurance comparison site) in October 2013; Moneycontrol says he left in 2016. A decade of seeing how insurance is sold online, and who gets paid for it, is the background to a company built on not paying that cost."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/can-digital-insurance-startup-acko-disrupt-the-complex-sector/64625/1\" target=\"_blank\" rel=\"noopener\">Forbes India, Dec 2020</a> / <a href=\"https://yourstory.com/2018/07/from-coverfox-to-acko-varun-dua-recounts-how-he-rewrote-indias-insurance-story\" target=\"_blank\" rel=\"noopener\">YourStory, 2018</a> / <a href=\"https://inc42.com/buzz/ipo-bound-acko-turns-profitable-posts-%E2%82%B943-6-cr-profit-in-fy26/\" target=\"_blank\" rel=\"noopener\">Inc42, FY26 results</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Finding customers without agents",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The why of Acko's early years is distribution without a salesforce. Dua told YourStory the first weeks brought no buyers, so he called friends; the first organic customer came from Hyderabad. The scalable answer was platforms that already had the customer's attention at the moment of need: Amazon Pay for motor cover (Moneycontrol, 2020), a one-rupee trip cover on Ola, plus redBus and MakeMyTrip, and an Amazon phone-protection plan priced at ₹400 to ₹500."
+          },
+          {
+            "t": "p",
+            "html": "It worked on volume. Forbes India puts gross written premium, the premium an insurer writes in a year, at ₹141.89 crore in FY19 and ₹373.07 crore in FY20. It also shows the catch: Moneycontrol reported that Q1 FY21 premium fell 16% to ₹56.2 crore. Cover sold inside a trip or a purchase is only as steady as the trips and purchases."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://yourstory.com/2018/07/from-coverfox-to-acko-varun-dua-recounts-how-he-rewrote-indias-insurance-story\" target=\"_blank\" rel=\"noopener\">YourStory, 2018</a> / <a href=\"https://www.moneycontrol.com/news/business/companies/cover-story-why-acko-general-insurance-refuses-to-follow-the-herd-5608821.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol cover story, 2020</a> / <a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/can-digital-insurance-startup-acko-disrupt-the-complex-sector/64625/1\" target=\"_blank\" rel=\"noopener\">Forbes India, Dec 2020</a>."
+          }
+        ]
+      },
+      {
+        "heading": "The money: losses, then a turn",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Mint's reading of Acko's filings puts the group's FY24 loss at ₹670 crore on revenue of ₹2,106.2 crore, and FY25 at a ₹424.4 crore loss on ₹2,887.4 crore. CNBC-TV18 gives a ₹2,837 crore FY25 revenue figure; this read uses Mint's, which is drawn from the filings."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 720 268\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Acko group loss, FY24 and FY25\"><text x=\"190\" y=\"40\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">FY24 group loss</text><rect x=\"200\" y=\"20\" width=\"370.0\" height=\"32\" fill=\"#8c1d18\" rx=\"2\"/><text x=\"578.0\" y=\"42\" font-size=\"18\" fill=\"#444\">-₹670 cr</text><text x=\"190\" y=\"92\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">FY25 group loss</text><rect x=\"200\" y=\"72\" width=\"234.4\" height=\"32\" fill=\"#8c1d18\" rx=\"2\"/><text x=\"442.4\" y=\"94\" font-size=\"18\" fill=\"#444\">-₹424.4 cr</text><text x=\"190\" y=\"144\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">FY25 insurer loss</text><rect x=\"200\" y=\"124\" width=\"106.8\" height=\"32\" fill=\"#b36b00\" rx=\"2\"/><text x=\"314.8\" y=\"146\" font-size=\"18\" fill=\"#444\">-₹193.4 cr</text><text x=\"190\" y=\"196\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">FY26 insurer profit</text><rect x=\"200\" y=\"176\" width=\"24.1\" height=\"32\" fill=\"#1f6feb\" rx=\"2\"/><text x=\"232.1\" y=\"198\" font-size=\"18\" fill=\"#444\">₹43.6 cr</text><text x=\"0\" y=\"260\" font-size=\"17\" fill=\"#555\">₹ crore. Group: Mint. Insurer entity: Inc42.</text></svg>",
+            "label": "Acko group loss, FY24 and FY25"
+          },
+          {
+            "t": "p",
+            "html": "The FY26 insurer result is where the turn shows. Net earned premium, premium actually earned in the period, rose 26% to ₹1,917.9 crore. The claims ratio, claims paid as a share of premium, improved to 66.3% from 69.95%. Operating expenses were ₹623.1 crore. Investment income was ₹265.1 crore, about six times the profit, which means the profit is thin and owes a lot to the float the insurer earns on premiums it holds before paying claims (Inc42). Alongside the result, Inc42 reports about 60 layoffs, or 5% of staff, a pivot away from unit-linked and endowment products toward pure protection, and ICICI Securities, Morgan Stanley and Kotak appointed as IPO bankers."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://inc42.com/buzz/ipo-bound-acko-turns-profitable-posts-%E2%82%B943-6-cr-profit-in-fy26/\" target=\"_blank\" rel=\"noopener\">Inc42, FY26 results</a> / <a href=\"https://www.livemint.com/companies/news/acko-ipo-filing-september-300-million-issue-2-billion-valuation-11780980823154.html\" target=\"_blank\" rel=\"noopener\">Mint, IPO filing report, 9 June</a> / <a href=\"https://www.acko.com/annual-reports/\" target=\"_blank\" rel=\"noopener\">Annual reports</a>."
+          }
+        ]
+      },
+      {
+        "heading": "The renewal engine",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "CEO Animesh Das told Moneycontrol on 31 July that over 60% of the motor book is renewals, at margins of about 20%. A renewal needs no new customer acquisition cost, and a direct insurer pays no renewal commission, so the second-year economics are the whole point. He also gave service numbers: a 99.4% motor claim settlement ratio, 90% of claims settled within 15 days, and 65% to 70% of customers contacting Acko directly at claim time, which is where a direct brand earns the right to be renewed. Health began scaling in 2023."
+          },
+          {
+            "t": "p",
+            "html": "Dua's own claims, in CNBC-TV18's March interview, are a founder's projection and should be read that way. He says commissions in the industry run 25% to 40% of premium, targets a 25% to 30% <a href=\"https://en.wikipedia.org/wiki/Return_on_equity\" target=\"_blank\" rel=\"noopener\">return on equity</a> (ROE, profit as a share of shareholders' money) and says Acko will be among the most profitable insurers India has seen. He adds that agents warned customers off a digital-only insurer, which is the incentive problem in one sentence: the seller earns from the sale, not from the claim."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/personal-finance/over-60-of-our-motor-insurance-business-comes-from-renewals-acko-ceo-13989148.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol, CEO interview, 31 July</a> / <a href=\"https://www.cnbctv18.com/business/startup/acko-will-be-one-of-the-most-profitable-insurance-companies-india-has-seen-varun-dua-bets-big-on-d2c-model-ws-l-19870162.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, Varun Dua, 17 March</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Is it defensible? The IRDAI link",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "This section is analysis, built on the facts above and today's paper. IRDAI's consultation proposes capping commissions and total expense of management, with a five-year phase-in. If caps arrive, distributors-led insurers lose some of the room they use to pay for sales, and the cost gap between a direct insurer and a distributed one narrows. That shrinks Acko's price advantage while its renewals keep the margin advantage. The opposite pressure is also real: if distribution gets cheaper for everyone, competitors can match Acko's direct prices without matching its tech spend."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>What to watch.</strong> Whether the 25 October consultation deadline moves, how the final caps treat motor and health separately, and whether Acko's investment income stays larger than its underwriting profit."
+          }
+        ]
+      },
+      {
+        "heading": "The IPO, as reported",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Reuters, relayed by ET on 27 April, put the valuation target at $2 billion to $2.5 billion with a listing in early 2027. Mint reported on 9 June that the draft prospectus papers were due by September. Both are reports from sources, not filed numbers. Bankers have been appointed (Inc42). The draft prospectus, once public, will show the first audited view of the unit economics CNBC-TV18 previewed."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/general-atlantic-backed-indian-insurer-acko-eyes-up-to-2-5-billion-valuation-in-ipo-sources-say/articleshow/130556528.cms\" target=\"_blank\" rel=\"noopener\">ET, 27 April</a> / <a href=\"https://www.livemint.com/companies/news/acko-ipo-filing-september-300-million-issue-2-billion-valuation-11780980823154.html\" target=\"_blank\" rel=\"noopener\">Mint, 9 June</a> / <a href=\"https://www.cnbctv18.com/market/acko-sets-ipo-wheels-in-motion-drhp-sebi-valuation-issue-size-unit-economics-ws-el-19893953.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, DRHP preview</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Risks",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Thin profit: investment income of ₹265.1 crore is six times the ₹43.6 crore profit.",
+              "Claims ratio: 66.3% leaves little room if claims costs rise.",
+              "Platform dependence: early growth came from partners such as Amazon and Ola, and the Q1 FY21 dip shows the exposure.",
+              "Regulation cuts both ways: commission caps narrow the gap with distributors.",
+              "Valuation: reported targets are from sources, and the filed document may differ."
+            ]
+          },
+          {
+            "t": "callout",
+            "html": "<strong>How this teardown was sourced.</strong> Financials are from Inc42's FY26 report and Mint's reading of the filings; operating metrics are from the CEO's Moneycontrol interview; the IPO details are source-based reports by ET and Mint; Dua's targets are his own claims, labelled as such. Where CNBC-TV18 and Mint differ on FY25 revenue, Mint's figure is used."
+          },
+          {
+            "t": "p",
+            "html": "Today's paper pairs with this read: <a href=\"https://files.instinct.com/1x82gx00lgyn-cpi-at-5-54-and-the\" target=\"_blank\" rel=\"noopener\">CPI at 5.54% and the IRDAI fee fight</a>."
+          },
+          {
+            "t": "closing",
+            "html": "One teardown per edition: Policybazaar, Zerodha, Groww, PhonePe, and now Acko."
+          }
+        ]
+      }
+    ]
   }
 }
