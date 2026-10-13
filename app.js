@@ -748,20 +748,26 @@
       h += '<figure class="plate"><img src="' + lr.hero.img + '" alt="' + esc(lr.hero.alt || '') + '">' +
         (lr.hero.caption ? '<figcaption>' + esc(lr.hero.caption) + '</figcaption>' : '') + '</figure>';
     }
+    if (D.audio && D.audio['lr' + n] && D.audio['lr' + n].full) {  // recorded read of the whole long read (no on-device voice)
+      h += playerHTML('lr' + n, 'full', 'Listen to this long read', 'Recorded read, highlighted line by line', true);
+    }
     lr.groups.forEach(function (g, gi) {
       h += '<section class="section"><div class="section-head"><div class="section-title">' + esc(g.heading) + '</div>' +
-        '<button class="listen-btn" data-lg="' + gi + '">&#9654; Listen</button>' + '<button class="pace-btn" data-lg="' + gi + '">&#9201; Pace</button></div>';
+        '<button class="pace-btn" data-lg="' + gi + '">&#9201; Pace</button></div>';
       g.blocks.forEach(function (b) { h += blockHTML(b); });
       h += '</section>';
     });
     h += '<div class="ednav"><a class="ednav-btn" href="#/edition/' + n + '">&larr; Back to the edition</a></div>' +
       '<div class="footer"><span>The Morning Paper &middot; long reads</span></div></div>';
     app.innerHTML = h;
+    wirePlayers(app);
   }
 
   /* ---------- router ---------- */
   function route() {
     stopReader();
+    root_pausePlayers();  // also leaves audio mode and clears the old page's highlight
+    HL.items = []; HL.ready = false; HL.pending = false; HL.failed = false;
     stopPacer(true);
     var hash = location.hash.replace(/^#\/?/, '');
     var m;
