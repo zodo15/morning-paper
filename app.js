@@ -389,7 +389,6 @@
     if (r.top < 90 || r.bottom > window.innerHeight - 90) {
       nx.block.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
-    P.resumedAt = Date.now();
     pcSchedule();
   }
   function pcPause() {
@@ -497,7 +496,7 @@
         pcSet(P.items[j], 'pc-done', j < i);
       }
       P.i = i;
-      if (P.running) { P.segLeft = Math.max(250, P.items[i].words / P.wpm * 60000); P.segStart = Date.now(); P.resumedAt = Date.now(); P.timer = setTimeout(pcAdvance, P.segLeft); }
+      if (P.running) { P.segLeft = Math.max(250, P.items[i].words / P.wpm * 60000); P.segStart = Date.now(); P.timer = setTimeout(pcAdvance, P.segLeft); }
       else { P.segLeft = Math.max(250, P.items[i].words / P.wpm * 60000); }
       return;
     }
