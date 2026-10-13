@@ -305,7 +305,7 @@
     return '<div class="mast">' +
       '<div class="mast-top"><span class="live-dot"></span><span>A personal daily &middot; brewed before breakfast</span></div>' +
       '<div class="mast-name"><a href="#/">The Morning Paper</a></div>' +
-      '<div class="mast-sub">' + esc(today.date) + ' &middot; Edition ' + D.today + ' of 7 &middot; the trial week</div>' +
+      '<div class="mast-sub">' + esc(today.date) + ' &middot; Edition ' + D.today + ' &middot; daily</div>' +
       '<div class="mast-rule"></div>' +
       '<div class="tabs"><a class="tab' + (active === 'today' ? ' active' : '') + '" href="#/">Today</a>' +
       '<a class="tab' + (active === 'archive' ? ' active' : '') + '" href="#/archive">Archive</a></div></div>';
@@ -373,14 +373,14 @@
       '<h1 class="h1">' + esc(ed.fact) + '</h1>' +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
       editionBody(D.today, true) + ednavHTML(D.today) +
-      '<div class="footer"><span>The Morning Paper &middot; trial week, Oct 6-12</span><span>Set in Fraunces &amp; Source Serif</span></div></div>';
+      '<div class="footer"><span>The Morning Paper &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span></div></div>';
     app.innerHTML = h;
     wirePlayers(app);
   }
   function renderArchive() {
     var h = '<div class="wrap">' + mast('archive') +
       '<div class="arch-title">The archive</div>' +
-      '<div class="arch-sub">Every edition of the trial week, complete. Seven days, Oct 6-12.</div>';
+      '<div class="arch-sub">Every edition, complete. ' + D.today + ' days and counting.</div>';
     for (var n = D.today; n >= 1; n--) {
       var ed = D.editions[n];
       var thumb = (ed.hero && ed.hero.img) || plateFor(n, 'Front page') || 'photos/concept-compounding.jpg';
@@ -389,7 +389,7 @@
         '<span>' + esc(ed.fact) + '</span></span>' +
         '<img class="arch-thumb" src="' + thumb + '" alt="" loading="lazy"></a>';
     }
-    h += '<div class="footer"><span>The Morning Paper</span><span>7 editions</span></div></div>';
+    h += '<div class="footer"><span>The Morning Paper</span><span>' + D.today + ' editions</span></div></div>';
     app.innerHTML = h;
   }
   function renderEdition(n) {
