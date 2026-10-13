@@ -356,7 +356,7 @@
       var plate = plateFor(day, g.heading);
       if (plate) h += '<figure class="plate"><img src="' + plate + '" alt="" loading="lazy"></figure>';
       g.blocks.forEach(function (b) { h += blockHTML(b); });
-      if (g.heading.indexOf('Startup case study') === 0) h += lrTeaser(day);
+      if (g.heading.indexOf('Startup case study') === 0 || g.heading.indexOf('Business teardown') === 0) h += lrTeaser(day);
       h += '</section>';
     });
     return h;
