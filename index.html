@@ -16,6 +16,15 @@
   <button id="rb-speed" class="rb-speed">1&times;</button>
   <button id="rb-stop" class="rb-btn rb-stop" aria-label="Stop">&times;</button>
 </div>
+<div id="pacer-bar" class="pacer-bar" hidden>
+  <button id="pc-toggle" class="rb-btn pc-play" aria-label="Pause or resume pacer">&#10073;&#10073;</button>
+  <button id="pc-minus" class="pc-step" aria-label="Slower">&minus;</button>
+  <button id="pc-wpm" class="pc-wpm">200 wpm</button>
+  <button id="pc-plus" class="pc-step" aria-label="Faster">+</button>
+  <span id="pc-label" class="rb-label">Pacing</span>
+  <span id="pc-stats" class="pc-stats"></span>
+  <button id="pc-stop" class="rb-btn rb-stop" aria-label="Stop pacer">&times;</button>
+</div>
 <noscript><p style="font-family:Georgia,serif;padding:24px">The Morning Paper needs JavaScript to load its editions.</p></noscript>
 <script src="data/editions.js"></script>
 <script src="app.js"></script>
