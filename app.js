@@ -531,7 +531,8 @@
       '<div class="mast-sub">' + esc(today.date) + ' &middot; Edition ' + D.today + ' &middot; daily</div>' +
       '<div class="mast-rule"></div>' +
       '<div class="tabs"><a class="tab' + (active === 'today' ? ' active' : '') + '" href="#/">Today</a>' +
-      '<a class="tab' + (active === 'archive' ? ' active' : '') + '" href="#/archive">Archive</a></div></div>';
+      '<a class="tab' + (active === 'archive' ? ' active' : '') + '" href="#/archive">Archive</a>' +
+      '<a class="tab' + (active === 'longreads' ? ' active' : '') + '" href="#/longreads">Long reads</a></div></div>';
   }
   function tickerHTML(day) {
     var ed = D.editions[day];
@@ -628,6 +629,23 @@
     app.innerHTML = h;
     wirePlayers(app);
   }
+  function renderLongreads() {
+    var h = '<div class="wrap">' + mast('longreads') +
+      '<div class="arch-title">The long reads</div>' +
+      '<div class="arch-sub">One company, taken apart properly, every day.</div><div class="arch-grid">';
+    for (var n = D.today; n >= 1; n--) {
+      var lr = D.longreads[n];
+      if (!lr) continue;
+      var thumb = (lr.hero && lr.hero.img) || 'photos/concept-compounding.jpg';
+      h += '<a class="lr-card" href="#/longread/' + n + '">' +
+        '<img src="' + thumb + '" alt="" loading="lazy">' +
+        '<span class="lr-card-meta"><span class="m">' + esc(D.meta[n].date) + (n === D.today ? ' &middot; Today' : '') + '</span>' +
+        '<span class="t">' + esc(lr.title) + '</span>' +
+        '<span class="d">' + esc(lr.fact) + '</span></span></a>';
+    }
+    h += '</div><div class="footer"><span>The Morning Paper &middot; long reads</span><span><a href="#/archive">Full archive</a></span></div></div>';
+    app.innerHTML = h;
+  }
   function renderLongread(n) {
     var lr = D.longreads[n];
     if (!lr) { renderArchive(); return; }
@@ -658,6 +676,7 @@
     var m;
     if (!hash || hash === 'today') renderToday();
     else if (hash === 'archive') renderArchive();
+    else if (hash === 'longreads') renderLongreads();
     else if ((m = hash.match(/^edition\/(\d+)$/))) renderEdition(parseInt(m[1], 10));
     else if ((m = hash.match(/^longread\/(\d+)$/))) renderLongread(parseInt(m[1], 10));
     else renderToday();
