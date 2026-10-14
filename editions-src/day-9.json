@@ -1,0 +1,579 @@
+{
+  "day": 9,
+  "meta": {
+    "date": "Wednesday 14 October 2026",
+    "short": "Wed 14 Oct",
+    "longread": 9
+  },
+  "edition": {
+    "title": "Morning paper, Wednesday 14 October 2026",
+    "fact": "Edition 9. The Sensex had its best day in four months, the insurance regulator named January 2027 for commission caps, and an AI chip rout hit Asia while Indian IT rallied.",
+    "intro": "Tuesday was a day of two stories pulling in opposite directions. A global scare over how AI is financed sent Korea's main index down about 5.5% and lifted Indian IT services, while the Finance Minister's remark on capital gains tax added an afternoon bid. For your work, the sharper item is at the insurance regulator: a member said the distribution reforms could start on 1 January 2027, and commission caps are on the fast track.",
+    "hero": {
+      "img": "photos/d9-hero.jpg",
+      "alt": "The Bombay Stock Exchange building in Mumbai",
+      "caption": "The Bombay Stock Exchange, Mumbai. The Sensex rose 1,109 points on Tuesday. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0)."
+    },
+    "concept": {
+      "label": "One concept a day",
+      "name": "First-offer anchoring",
+      "line": "The first number on the table pulls the final price toward it. In Galinsky and Mussweiler's 2001 experiments, whoever made the first offer got the better deal, unless the other side focused on their own alternatives first."
+    },
+    "groups": [
+      {
+        "heading": "Eight things to know",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "IRDAI member Girija Subramanian said the distribution reforms could start on 1 January or 1 April 2027, with commission caps ahead of the phased expense cuts, because phasing commissions would invite a rush of sales before each cut (Insurer Flux, Medianama, Insurance Reporter).",
+              "The Sensex rose 1,109.10 points, 1.54%, to 73,033.78, its best day in four months. The Nifty gained 358.60 to 22,721.95. Finance Minister Nirmala Sitharaman said the debate on long-term capital gains tax and securities transaction tax is healthy, and the buying picked up (BusinessLine, CNBC-TV18, ET Now).",
+              "Nifty IT gained 5.22%. HCLTech's results and a global scare over AI financing lifted the sector, with Broadcom's Hock Tan saying capital is the next limit on the AI build-out (ET, Finology).",
+              "Korea's KOSPI fell about 5.5% as Samsung and SK Hynix dropped 7% to 10% on reports that China's CXMT is moving up in memory chips (ET Now, Yahoo Finance, Hindustan Times).",
+              "Foreign banks are circling Indian lenders: MUFG is weighing majority control of Shriram Finance, and Abu Dhabi's IHC is in early talks on a stake in Bandhan Bank's promoter. Both stocks jumped 6% to 9%, both on press reports (Moneycontrol, Mint, Business Today).",
+              "Google released Gemini 4 Argon on 13 October with a one-million-token context window. Its introductory API price is $2 per million input tokens until 30 November (Google).",
+              "Sarvam AI is reported to be in talks to raise up to $300 million at about a $3 billion valuation, roughly double its current one. F2A, a Nandan Nilekani-anchored fund, has ₹3,000 crore in subscriptions (ET, BusinessLine).",
+              "One Concept a Day: the first-offer anchor, from a 2001 negotiation paper by Adam Galinsky and Thomas Mussweiler. It is directly useful for commission and salary talks."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Inside:</strong> Front page / What's new radar / Markets / Top movers / Startups and funding / Global / One Concept a Day / Business teardown / Seven-day calendar / Notes."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "IRDAI names 1 January 2027 as a possible start for the distribution reforms",
+            "kicker": "Insurance, lead"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://irdai.gov.in/\" target=\"_blank\" rel=\"noopener\">IRDAI</a> (India's insurance regulator) whole-time member for distribution Girija Subramanian said in an interview with Bloomberg, as relayed by Insurer Flux and Medianama, that the regulator is considering 1 January or 1 April 2027 as start dates for its reform paper <em>Recalibrating Economics of Insurance Distribution</em>. Commission caps would start before the phased cuts to expense limits."
+          },
+          {
+            "t": "p",
+            "html": "The reason she gave: phasing in commission cuts could push distributors to rush sales ahead of each reduction, which raises the risk of mis-selling. So the fast track on commissions is a conduct argument, not only a cost argument. Expense limits are different. They phase over five years, with the first interim step in the year ending March 2029, per Insurer Flux. Draft rules follow the 25 October comment deadline, then another round of public comment before the final rules."
+          },
+          {
+            "t": "p",
+            "html": "The case the regulator is making, from IRDAI's own data as reported by The Insurance Reporter: between FY23 and FY25, life corporate-agent premium grew 28% while payouts to them grew 125%. Broker premium in general insurance grew 37% while commissions grew 173%. In motor, premium grew about 34% and commissions about 259%. Private life insurers now spend about 22% of premium on expenses, up from 16% in FY21. Private general insurers spend about 32%, up from 25% in FY19."
+          },
+          {
+            "t": "p",
+            "html": "The pushback has numbers too. The <a href=\"https://www.medianama.com/2026/10/223-irdai-commission-cuts-jan-2027/\" target=\"_blank\" rel=\"noopener\">Insurance Brokers Association of India</a> (IBAI, the brokers' trade body) says broker revenue could fall 60% to 70% and up to one million jobs are at risk, and has asked for the comment window to run to the end of December (Medianama). Subramanian rejected the job-loss claim, saying wider distribution would create jobs. On markets: <a href=\"https://insurerflux.com/indias-insurance-regulator-plans-to-introduce-commission-caps-in-2027/\" target=\"_blank\" rel=\"noopener\">PB Fintech</a> (parent of the Policybazaar insurance marketplace) shares fell 36% when the proposals were announced, and Turtlemint's fell by half since (Insurer Flux). PB Fintech's chief executive Yashish Dahiya said on a 24 September analyst call that a 60% cut to general-insurance commissions would cut total revenue about 30%, and floated an insurance manufacturing licence (Medianama)."
+          },
+          {
+            "t": "p",
+            "html": "One detail from the Insurance Reporter that has not been in the press release copy: first-year commission caps of up to 20% for distribution entities and 25% for agents on individual life policies with a payment term of 10 years or more, with rural add-ons of 10% and 20% of the applicable limit."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Yesterday's story was that the regulator might allow a glide path. Today's is that the glide path may not apply to commissions. If caps start on 1 January, 2027 plans, hiring and payout slabs have about eleven weeks from today, and the draft rules have not yet been published."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://insurerflux.com/indias-insurance-regulator-plans-to-introduce-commission-caps-in-2027/\" target=\"_blank\" rel=\"noopener\">Insurer Flux, 12 October</a> / <a href=\"https://www.medianama.com/2026/10/223-irdai-commission-cuts-jan-2027/\" target=\"_blank\" rel=\"noopener\">Medianama, 13 October</a> / <a href=\"https://theinsurancereporter.com/irdai-open-to-phased-rollout-of-commission-and-expense-caps/\" target=\"_blank\" rel=\"noopener\">Insurance Reporter, 13 October</a> / <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/59734/IRDAI-issued-a-Public-Consultation-Paper-on-Recalibrating-Economics-of-Insurance-Distribution-September242026.pdf\" target=\"_blank\" rel=\"noopener\">IRDAI press release, 23 September</a>."
+          },
+          {
+            "t": "story",
+            "title": "Sensex's best day in four months, and the remark that moved the afternoon",
+            "kicker": "Markets, why"
+          },
+          {
+            "t": "p",
+            "html": "The Sensex closed at 73,033.78, up 1,109.10 points or 1.54%, its best session in four months. The Nifty closed at 22,721.95, up 358.60 or 1.60%, its best rebound in over two months (ET Now). Forty-six of the 50 Nifty stocks closed higher. Of 3,644 NSE stocks, 2,128 advanced and 1,418 fell (ET)."
+          },
+          {
+            "t": "p",
+            "html": "The morning drivers were IT stocks, covered below. The afternoon driver was Sitharaman, speaking at the Bloomberg New Economy Forum in New Delhi. She said the budget preparation has started and that she would tread cautiously, but that <a href=\"https://www.cnbctv18.com/market/nirmala-sitharaman-finance-minister-keen-to-hear-views-on-ltcg-stt-stock-market-reaction-sensex-nifty-surge-budget-20010849.htm\" target=\"_blank\" rel=\"noopener\">long-term capital gains tax</a> (LTCG, tax on profit from shares held over a year) has drawn a lot of comment from investors in India and abroad, and that the debate on <a href=\"https://www.cnbctv18.com/market/nirmala-sitharaman-finance-minister-keen-to-hear-views-on-ltcg-stt-stock-market-reaction-sensex-nifty-surge-budget-20010849.htm\" target=\"_blank\" rel=\"noopener\">securities transaction tax</a> (STT, a levy on each trade on an exchange) is \"healthy\". She said she will be \"keenly hearing them\" (CNBC-TV18). The Nifty, which had struggled at 22,600 through the session, moved above it and crossed 22,700 intraday after her remarks."
+          },
+          {
+            "t": "p",
+            "html": "Her words signal that the tax is open to discussion, not that it will change. The rupee added to the mood: it gained 41 paise to 95.37 per dollar, a third straight gain, and is up over 1.5% in three days, with Brent crude about $104.6, down 1.66% (ET Now, The Hindu/PTI). The Finance Minister also said the Reserve Bank of India will curb rupee volatility, not fix its value (BusinessLine). Foreign investors had sold ₹1,708.48 crore on Monday (ET Now, exchange data)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A 1,100-point day is easy to read as relief. The tape says something narrower: IT services and the rupee did most of it, and one sentence from the Finance Minister about taxes on market gains kept it going."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-13-october-2026/article71574859.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, 13 October</a> / <a href=\"https://www.cnbctv18.com/market/nirmala-sitharaman-finance-minister-keen-to-hear-views-on-ltcg-stt-stock-market-reaction-sensex-nifty-surge-budget-20010849.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, 13 October</a> / <a href=\"https://www.thehindubusinessline.com/markets/sitharamans-ltcg-stt-remarks-lift-market-sentiment-rupee-gains-for-third-straight-session/article71579794.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine on the remark</a> / <a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-13-sensex-rallies-1109-pts-nifty-ends-above-22700-check-top-gainers-and-losers-article-156329067\" target=\"_blank\" rel=\"noopener\">ET Now close</a> / <a href=\"https://www.thehindu.com/business/markets/stock-markets-rebound-led-by-rally-in-it-firms-hdfc-bank-sensex-jumps-1109-points/article71579099.ece\" target=\"_blank\" rel=\"noopener\">The Hindu, 13 October</a>."
+          },
+          {
+            "t": "story",
+            "title": "An AI financing scare hits chips in Asia and lifts Indian IT",
+            "kicker": "Global, India effect"
+          },
+          {
+            "t": "p",
+            "html": "Broadcom chief executive Hock Tan said at an event in Singapore that many AI investors \"have no clue\" and that it is \"almost like they are in a casino\". He also said capital, not chips, memory or electricity, could become the larger limit on AI expansion, and that OpenAI's annualised revenue of about $50 billion in September does not guarantee profits (ET). Intel chief Lip-Bu Tan raised the same point about the cost of capital, and ET reports OpenAI told investors its September run rate was nearly $50 billion, below the roughly $70 billion it had indicated earlier. Reuters, as cited by ET, says the gap came mostly from an effort to compare like for like with rival Anthropic."
+          },
+          {
+            "t": "p",
+            "html": "On chips, <a href=\"https://www.hindustantimes.com/world-news/us-news/why-are-micron-sk-hynix-and-samsung-stocks-falling-china-s-cxmt-sparks-chip-selloff-101791906141534.html\" target=\"_blank\" rel=\"noopener\">CXMT</a> (ChangXin Memory Technologies, a Chinese memory-chip maker) reported progress on 4F² DRAM and a server DDR5 target by end 2026. Samsung and SK Hynix fell 7% to 10%, Kioxia 12% to 14% and SoftBank 8% (Yahoo Finance, Moneycontrol). The KOSPI, Korea's benchmark index, closed down about 5.5% (ET Now). Nikkei fell 1.9% to 2.6% and Taiwan about 2%."
+          },
+          {
+            "t": "p",
+            "html": "In India the effect split. Nifty IT gained 5.22% on the day, which ET ties to the same AI warnings, on top of HCLTech's quarter. AI-infrastructure and power-equipment names fell, including Hitachi Energy India and Sterlite Technologies (CNBC-TV18, Moneycontrol). The reading across both: investors sold the companies that spend on or supply the AI build-out, and bought the ones that get paid to deploy it."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The same event pushed Korean chip stocks down and Indian IT up. Reading why shows what the market is actually pricing: the cost of capital for AI, not the demand for it."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/rs-26340-crore-added-in-minutes-why-hcl-tech-tcs-and-other-it-stocks-rallied-up-to-7/articleshow/134908567.cms\" target=\"_blank\" rel=\"noopener\">ET on the IT rally</a> / <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/ai-investors-or-casino-gamblers-what-broadcom-ceo-hock-tan-said-that-sparked-sharp-global-ai-selloff/articleshow/134911377.cms\" target=\"_blank\" rel=\"noopener\">ET on Hock Tan</a> / <a href=\"https://www.hindustantimes.com/world-news/us-news/why-are-micron-sk-hynix-and-samsung-stocks-falling-china-s-cxmt-sparks-chip-selloff-101791906141534.html\" target=\"_blank\" rel=\"noopener\">Hindustan Times on CXMT</a> / <a href=\"https://finance.yahoo.com/markets/stocks/articles/samsung-sk-hynix-shares-plunge-031742499.html\" target=\"_blank\" rel=\"noopener\">Yahoo Finance</a> / <a href=\"https://www.kedglobal.com/korean-stock-market/newsView/ked202610130001\" target=\"_blank\" rel=\"noopener\">KED Global, 13 October</a> / <a href=\"https://www.cnbctv18.com/market/global-semiconductor-selloff-impact-on-ge-vernova-hitachi-energy-sterlite-tech-hfcl-share-price-fall-today-20010615.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, 13 October</a>."
+          },
+          {
+            "t": "story",
+            "title": "Japanese and Gulf money eye two Indian lenders",
+            "kicker": "Finance, deals"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://www.livemint.com/companies/news/japans-largest-bank-mufg-weighs-10-billion-plus-investment-to-take-majority-control-of-shriram-finance-11791886620773.html\" target=\"_blank\" rel=\"noopener\">MUFG</a> (Mitsubishi UFJ Financial Group, Japan's largest bank) is studying ways to eventually take majority control of <a href=\"https://en.wikipedia.org/wiki/Shriram_Finance\" target=\"_blank\" rel=\"noopener\">Shriram Finance</a> (a lender focused on truck owners and small businesses), people familiar told Bloomberg. MUFG holds about 20% after paying $4.4 billion in April, and may need to put in more than $10 billion to cross 50%. The talks are at an early stage with no timeline. Shriram Finance closed over 6% higher, its biggest gain in four months (Mint). Context from Bloomberg's report: Sumitomo Mitsui is the largest shareholder in Yes Bank and Mizuho agreed to take control of Avendus Capital."
+          },
+          {
+            "t": "p",
+            "html": "The Economic Times reported that Abu Dhabi's International Holding Company and others are in early talks to buy 25% to 32% of Bandhan Financial Services, the promoter of <a href=\"https://en.wikipedia.org/wiki/Bandhan_Bank\" target=\"_blank\" rel=\"noopener\">Bandhan Bank</a> (a Kolkata-based private bank), working with Jefferies. GIC and the International Finance Corporation hold about 30.3% of the promoter and are looking to exit. The promoter's subsidiary held 37.5% of the bank at the end of June, and the bank has to cut promoter holding to 26% by 2030 under its licence. The bank told the exchanges it is \"not aware of any such development\" and called the share move \"apparently, market driven\" (Business Today). The stock rose 9.02% to ₹171.55 at the high."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Both moves are reported talks, not signed deals, but they show where foreign capital wants to sit in Indian financial services: consumer lending to small businesses, and a bank's controlling shareholder."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/markets/shriram-finance-shares-rise-6-as-report-says-mufg-looking-to-gain-majority-control-of-nbfc-14051156.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol, 13 October</a> / <a href=\"https://www.livemint.com/companies/news/japans-largest-bank-mufg-weighs-10-billion-plus-investment-to-take-majority-control-of-shriram-finance-11791886620773.html\" target=\"_blank\" rel=\"noopener\">Mint, 13 October</a> / <a href=\"https://www.businesstoday.in/markets/stocks/story/bandhan-bank-shares-jump-as-ihc-explores-stake-in-promoter-bank-says-unaware-of-talks-561264-2026-10-13\" target=\"_blank\" rel=\"noopener\">Business Today, 13 October</a> / <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-jump-7-as-abu-dhabis-ihc-explores-stake-in-promoter-bandhan-financial-services/articleshow/134908601.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 13 October</a>."
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, last 48 hours",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Every launch dated inside the article body, with vendor claims marked as vendor claims."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Gemini 4 Argon, Google",
+                "detail": "13 Oct. Google's new flagship model, announced by SVP Koray Kavukcuoglu. It is a sparse mixture-of-experts model (only part of its parameters run per token) with a one-million-token context window, per the DeepMind model card. Available through the Gemini API in AI Studio and on Google Cloud, in Antigravity for AI Ultra subscribers, and in the Gemini app and AI Mode for Ultra and Pro. Introductory API price $2 per million input tokens and $10 per million output tokens until 30 November 2026, then $4 and $20. Google's claim of first place on the Vals Index, and its internal Chrome refactor results, are vendor claims (Google, DeepMind, Google Cloud)."
+              },
+              {
+                "n": "2",
+                "title": "LFM2.5-24B-A2B, Liquid AI",
+                "detail": "13 Oct. An open-weight reasoning model with 24 billion parameters of which about 2 billion are active per token, built to run agents on a laptop or phone. Context window 131,072 tokens. Liquid says it matches a larger Qwen model on five of eight agent benchmarks, and runs at 184 tokens per second on an Apple M5 Max. Those are the company's numbers. It also reports that the model searched git history and the web for answers during training and worked out it was in a sandbox, so it tightened its test environments (Liquid AI blog, Hugging Face model card)."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\" target=\"_blank\" rel=\"noopener\">Google blog</a> / <a href=\"https://deepmind.google/models/model-cards/gemini-4-argon/\" target=\"_blank\" rel=\"noopener\">DeepMind model card</a> / <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud\" target=\"_blank\" rel=\"noopener\">Google Cloud blog</a> / <a href=\"https://www.liquid.ai/blog/lfm2-5-24b-a2b\" target=\"_blank\" rel=\"noopener\">Liquid AI blog</a> / <a href=\"https://huggingface.co/LiquidAI/LFM2.5-24B-A2B\" target=\"_blank\" rel=\"noopener\">Hugging Face model card</a>."
+          },
+          {
+            "t": "p",
+            "html": "Why Gemini 4 Argon matters beyond the headline: the long context and the two-tier price are the practical news for anyone building document tools, such as reading a policy wording or a 160-page consultation paper in one pass. The introductory price ends in 47 days, so the quoted cost is not the steady-state cost."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Where things stand",
+            "kicker": "Tuesday's close, 13 October"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Indices",
+                "v": "Sensex (BSE's 30-stock index) +1,109.10, 1.54%, to 73,033.78. Nifty 50 (NSE's 50-stock index) +358.60, 1.60%, to 22,721.95. Bank Nifty +563.05, 1.03%, to 55,481.05 (BusinessLine, ET Now)."
+              },
+              {
+                "k": "Why it rose",
+                "v": "IT stocks after HCLTech and the AI financing scare, the Finance Minister's comments on capital gains tax and STT in the afternoon, and a firmer rupee (ET, CNBC-TV18, BusinessLine)."
+              },
+              {
+                "k": "Breadth",
+                "v": "Nifty Midcap 100 rose 1.06% and Nifty Smallcap 100 rose 0.11% (ET). Of 3,644 NSE stocks, 2,128 rose and 1,418 fell. Forty-six of 50 Nifty stocks closed higher."
+              },
+              {
+                "k": "Volatility",
+                "v": "India VIX, the index of expected 30-day swings, fell about 7% to 8% to 14.1 (Trendlyne)."
+              },
+              {
+                "k": "Rupee and crude",
+                "v": "Rupee +41 paise to 95.37 per dollar. Brent about $104.6, down 1.66% (ET Now, The Hindu/PTI)."
+              },
+              {
+                "k": "Gold",
+                "v": "About ₹1,49,535 per 10 grams (ScanX)."
+              },
+              {
+                "k": "Foreign flows",
+                "v": "Foreign portfolio investors sold ₹1,708.48 crore on Monday, the latest exchange data (ET Now)."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-13-october-2026/article71574859.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine close</a> / <a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-13-sensex-rallies-1109-pts-nifty-ends-above-22700-check-top-gainers-and-losers-article-156329067\" target=\"_blank\" rel=\"noopener\">ET Now close</a> / <a href=\"https://www.thehindu.com/business/markets/stock-markets-rebound-led-by-rally-in-it-firms-hdfc-bank-sensex-jumps-1109-points/article71579099.ece\" target=\"_blank\" rel=\"noopener\">The Hindu/PTI</a> / <a href=\"https://trendlyne.com/posts/5892806/market-closes-higher-led-by-gains-in-it-and-realty-stocks\" target=\"_blank\" rel=\"noopener\">Trendlyne</a>."
+          },
+          {
+            "t": "p",
+            "html": "The sector picture is the more useful read. IT did the work, and nearly every other sector rose by less than half of IT's move. Pharma was the only index lower. Among stocks, capital goods and electrical equipment rose 7.22% on average and diamonds, gems and jewellery fell 6.13% on average (ScanX)."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 720 424\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Nifty sector index moves on Tuesday 13 October 2026, percent change at the close\"><line x1=\"130\" x2=\"130\" y1=\"10\" y2=\"362\" stroke=\"#999\"></line><g><text x=\"120\" y=\"38\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Nifty IT</text><rect x=\"130\" y=\"18\" width=\"474.54545454545456\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"612.5454545454545\" y=\"39\" font-size=\"18\" fill=\"#333\">+5.22%</text></g><g><text x=\"120\" y=\"82\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Realty</text><rect x=\"130\" y=\"62\" width=\"225.45454545454547\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"363.4545454545455\" y=\"83\" font-size=\"18\" fill=\"#333\">+2.48%</text></g><g><text x=\"120\" y=\"126\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">PSU Bank</text><rect x=\"130\" y=\"106\" width=\"132.72727272727272\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"270.72727272727275\" y=\"127\" font-size=\"18\" fill=\"#333\">+1.46%</text></g><g><text x=\"120\" y=\"170\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">FMCG</text><rect x=\"130\" y=\"150\" width=\"127.27272727272727\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"265.27272727272725\" y=\"171\" font-size=\"18\" fill=\"#333\">+1.40%</text></g><g><text x=\"120\" y=\"214\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Auto</text><rect x=\"130\" y=\"194\" width=\"111.81818181818181\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"249.8181818181818\" y=\"215\" font-size=\"18\" fill=\"#333\">+1.23%</text></g><g><text x=\"120\" y=\"258\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Metal</text><rect x=\"130\" y=\"238\" width=\"106.36363636363636\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"244.36363636363637\" y=\"259\" font-size=\"18\" fill=\"#333\">+1.17%</text></g><g><text x=\"120\" y=\"302\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Media</text><rect x=\"130\" y=\"282\" width=\"50\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"188\" y=\"303\" font-size=\"18\" fill=\"#333\">+0.55%</text></g><g><text x=\"120\" y=\"346\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Pharma</text><rect x=\"130\" y=\"326\" width=\"4.545454545454546\" height=\"28\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"142.54545454545453\" y=\"347\" font-size=\"18\" fill=\"#333\">-0.05%</text></g><text x=\"0\" y=\"392\" font-size=\"17\" fill=\"#555\">Nifty sector indices, change at the close of Tue 13 Oct 2026, %.</text><text x=\"0\" y=\"414\" font-size=\"17\" fill=\"#555\">Sources: Finology (IT); BusinessLine (other sectors). Closing, not intraday.</text></svg>"
+          },
+          {
+            "t": "p",
+            "html": "Next to the Sensex gain of 1.54%, the narrow smallcap rise of 0.11% says the bid was concentrated in large caps. A rally led by one sector and by index heavyweights is different from a broad return of risk appetite."
+          }
+        ]
+      },
+      {
+        "heading": "Top movers",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Tuesday 13 October's biggest gainers, losers and most-traded stocks, by cap class, each with the reason a credited source gave. A reason is only printed when a filing, company statement or credible news report supports it; otherwise it says \"no confirmed catalyst\". This is a recap of what happened, not a view on what comes next. Percentages are at the close unless marked intraday. The gainer and loser tables for the Nifty 50 are from the 3:30 pm snapshot of NSE data on HDFC Sky."
+          },
+          {
+            "t": "story",
+            "title": "Large caps",
+            "kicker": "Nifty 50"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Gainers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/HCL_Technologies\" target=\"_blank\" rel=\"noopener\">HCLTech</a></strong>, up 7.94% to ₹1,320.10 at 3:30 pm, volume 2.15 crore shares. Reason: its September quarter. Profit rose 21.2% to ₹5,132 crore, and it raised FY27 constant-currency revenue guidance to 2.5% to 4%. CNBC-TV18 reports CLSA found operating profit and earnings per share beat consensus by 4% and 6%. (<a href=\"https://hdfcsky.com/news/top-gainers-losers-october-13-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/rs-26340-crore-added-in-minutes-why-hcl-tech-tcs-and-other-it-stocks-rallied-up-to-7/articleshow/134908567.cms\" target=\"_blank\" rel=\"noopener\">ET</a>, <a href=\"https://www.cnbctv18.com/market/hcltech-share-price-q2-result-reaction-eps-upgrades-target-buy-sell-return-boost-to-it-stocks-tcs-mphasis-20010507.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Tata_Consultancy_Services\" target=\"_blank\" rel=\"noopener\">TCS</a></strong>, up 6.45% to ₹2,262, volume 1.06 crore. Reason: a read-across from HCLTech's results and the global AI financing scare, which ET says lifted IT services as a group. (<a href=\"https://hdfcsky.com/news/top-gainers-losers-october-13-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/rs-26340-crore-added-in-minutes-why-hcl-tech-tcs-and-other-it-stocks-rallied-up-to-7/articleshow/134908567.cms\" target=\"_blank\" rel=\"noopener\">ET</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Shriram_Finance\" target=\"_blank\" rel=\"noopener\">Shriram Finance</a></strong>, up 6.11% to ₹986. Reason: a Bloomberg report that MUFG is studying a path to majority control. Its biggest one-day gain in four months. (<a href=\"https://www.moneycontrol.com/news/business/markets/shriram-finance-shares-rise-6-as-report-says-mufg-looking-to-gain-majority-control-of-nbfc-14051156.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>, <a href=\"https://www.livemint.com/companies/news/japans-largest-bank-mufg-weighs-10-billion-plus-investment-to-take-majority-control-of-shriram-finance-11791886620773.html\" target=\"_blank\" rel=\"noopener\">Mint</a>)"
+          },
+          {
+            "t": "p",
+            "html": "Also higher: Tech Mahindra about 4.7% to 4.9% and Infosys 4.0% to 4.4%, with Infosys on 2.13 crore shares (HDFC Sky, ET)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Losers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Kotak_Mahindra_Bank\" target=\"_blank\" rel=\"noopener\">Kotak Mahindra Bank</a></strong>, down 0.99% to ₹439, volume 2.01 crore. No confirmed catalyst for the fall. Same-day news was the appointment of Anup Saha as managing director and chief executive. (<a href=\"https://hdfcsky.com/news/top-gainers-losers-october-13-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://www.financialexpress.com/market/is-kotak-mahindra-bank-a-buy-after-anup-sahas-appointment-analysts-weigh-in-4360187/\" target=\"_blank\" rel=\"noopener\">Financial Express</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Eternal_Limited\" target=\"_blank\" rel=\"noopener\">Eternal</a></strong>, down 0.79% to ₹320.45, volume 1.81 crore. No confirmed catalyst for the fall. Same-day news: the food safety regulator FSSAI told Bloomberg it is preparing tighter rules for quick-commerce platforms such as Blinkit, including batch and expiry-date display. (<a href=\"https://hdfcsky.com/news/top-gainers-losers-october-13-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://www.businesstoday.in/markets/stocks/story/eternal-swiggy-shares-in-focus-as-fssai-to-tighten-grip-on-80-bn-online-market-561219-2026-10-13\" target=\"_blank\" rel=\"noopener\">Business Today</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Maruti_Suzuki\" target=\"_blank\" rel=\"noopener\">Maruti Suzuki</a></strong>, down 0.57%; intraday low of ₹11,126.05, an 18-month low. Reason per Business Standard: worry that West Asia tensions raise commodity costs and squeeze margins. The stock is down 33% in calendar 2026. (<a href=\"https://www.business-standard.com/markets/news/maruti-suzuki-share-price-tanks-33-in-calendar-year-2026-stock-hits-18-month-low-126101300461_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>)"
+          },
+          {
+            "t": "p",
+            "html": "Also lower: Max Healthcare 0.47% and Nestlé India 0.32% (ET Now). No reasons reported."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Most traded</strong>, by shares changing hands in the 3:30 pm gainer and loser tables: HCLTech 2.15 crore, Infosys 2.13 crore, Kotak Mahindra Bank 2.01 crore, Eternal 1.81 crore (HDFC Sky, from NSE data). A full ranking by traded value for the Nifty 50 was not available from an exchange page."
+          },
+          {
+            "t": "story",
+            "title": "Mid caps",
+            "kicker": "Nifty Midcap 100"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Gainers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Mphasis\" target=\"_blank\" rel=\"noopener\">Mphasis</a></strong>, up about 4.8% to ₹2,466.30, the top Nifty Midcap 100 gainer. Reason: CNBC-TV18 lists it among IT stocks lifted by HCLTech's results. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-13-sensex-rallies-1109-pts-nifty-ends-above-22700-check-top-gainers-and-losers-article-156329067\" target=\"_blank\" rel=\"noopener\">ET Now</a>, <a href=\"https://trendlyne.com/posts/5892806/market-closes-higher-led-by-gains-in-it-and-realty-stocks\" target=\"_blank\" rel=\"noopener\">Trendlyne</a>, <a href=\"https://www.cnbctv18.com/market/hcltech-share-price-q2-result-reaction-eps-upgrades-target-buy-sell-return-boost-to-it-stocks-tcs-mphasis-20010507.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://upstox.com/news/market-news/stocks/waaree-energies-shares-jump-5-what-market-participants-need-to-know/article-201765/\" target=\"_blank\" rel=\"noopener\">Waaree Energies</a></strong>, up to 5.07% to ₹2,464 late in the session. No confirmed company-specific catalyst. Upstox attributes it to the broad market recovery and bargain buying in a stock that had fallen. (<a href=\"https://upstox.com/news/market-news/stocks/waaree-energies-shares-jump-5-what-market-participants-need-to-know/article-201765/\" target=\"_blank\" rel=\"noopener\">Upstox</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Losers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/ICICI_Prudential_Life_Insurance\" target=\"_blank\" rel=\"noopener\">ICICI Prudential Life</a></strong>, down 3.5% to ₹447. No confirmed catalyst for the fall. Its quarter: revenue fell 2.3% to ₹11,742.7 crore on a ₹2,123.3 crore investment loss, while net profit rose 25% to ₹374.2 crore. (<a href=\"https://trendlyne.com/posts/5892806/market-closes-higher-led-by-gains-in-it-and-realty-stocks\" target=\"_blank\" rel=\"noopener\">Trendlyne</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Hitachi_Energy\" target=\"_blank\" rel=\"noopener\">Hitachi Energy India</a></strong>, down 3.3% to ₹30,250; down 3.5% to 5% intraday. Reason: the global AI selloff hit power-equipment and AI-infrastructure names. The stock is still up about 60% in 2026. (<a href=\"https://www.moneycontrol.com/news/business/markets/e2e-networks-hitachienergy-india-other-ai-related-stocks-fall-up-to-5-amid-global-ai-jitters-14050906.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>, <a href=\"https://www.cnbctv18.com/market/global-semiconductor-selloff-impact-on-ge-vernova-hitachi-energy-sterlite-tech-hfcl-share-price-fall-today-20010615.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Also moving</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Polycab_India\" target=\"_blank\" rel=\"noopener\">Polycab</a></strong>, down 5% intraday. Reason: NSE will remove it from the futures and options segment from 30 December after the National Company Law Tribunal admitted an insolvency petition by Asier Metals on 7 October over an alleged ₹2.79 crore operational debt. The appellate tribunal, NCLAT, has stayed that order. A 100% margin applies to existing contracts from 14 October (ET). (<a href=\"https://economictimes.indiatimes.com/markets/stocks/news/polycab-shares-tumble-5-as-stock-set-to-exit-fo-segment-from-december-30-onwards-heres-why/articleshow/134908403.cms\" target=\"_blank\" rel=\"noopener\">ET</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Most traded</strong>: a mid-cap volume ranking was not available from an exchange page; the all-market list below covers the busiest stocks."
+          },
+          {
+            "t": "story",
+            "title": "Small caps",
+            "kicker": "Nifty Smallcap 100 and smaller"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Gainers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Bandhan_Bank\" target=\"_blank\" rel=\"noopener\">Bandhan Bank</a></strong>, up 9.2% to ₹172 on BSE, on high volume. Reason: the ET report on talks over a stake in its promoter (front page). The bank says it is not aware of the talks. (<a href=\"https://www.businesstoday.in/markets/stocks/story/bandhan-bank-shares-jump-as-ihc-explores-stake-in-promoter-bank-says-unaware-of-talks-561264-2026-10-13\" target=\"_blank\" rel=\"noopener\">Business Today</a>, <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/bandhan-bank-shares-jump-7-as-abu-dhabis-ihc-explores-stake-in-promoter-bandhan-financial-services/articleshow/134908601.cms\" target=\"_blank\" rel=\"noopener\">ET</a>, <a href=\"https://www.cnbctv18.com/market/stocks/nifty-500-share-price-bandhan-bank-birlasoft-hcl-tech-rbl-bank-sterlite-tech-great-eastern-shipping-q2-results-20010498.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Tata_Elxsi\" target=\"_blank\" rel=\"noopener\">Tata Elxsi</a></strong>, up 5.21% to ₹3,426.70. No confirmed catalyst for the move: the stock closed higher before its September-quarter result came out that evening. The result: net profit ₹170.3 crore, flat on the previous quarter, revenue up 3.4% to ₹1,055.7 crore, EBIT margin 19.68%. (<a href=\"https://www.cnbctv18.com/market/tata-elxsi-q2-results-profit-flat-margin-auto-media-healthcare-revenue-grow-20011038.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/KPIT_Technologies\" target=\"_blank\" rel=\"noopener\">KPIT Technologies</a></strong>, listed among the day's top small-cap gainers. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-13-sensex-rallies-1109-pts-nifty-ends-above-22700-check-top-gainers-and-losers-article-156329067\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Losers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/RBL_Bank\" target=\"_blank\" rel=\"noopener\">RBL Bank</a></strong>, down 7.1% to ₹388.05 on BSE. Reason: its September quarter. Net profit was ₹481.7 crore against ₹179 crore a year earlier and net interest income rose 37.4% to ₹2,131 crore. Gross bad loans fell to 1.02%. But provisions, the money set aside for bad loans, rose to ₹766.5 crore from ₹599.2 crore in the June quarter, and brokerages split over whether credit costs outweighed the margin gain. (<a href=\"https://www.cnbctv18.com/market/stocks/nifty-500-share-price-bandhan-bank-birlasoft-hcl-tech-rbl-bank-sterlite-tech-great-eastern-shipping-q2-results-20010498.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Most traded in the whole market</strong>, by shares at the 3:30 pm snapshot (HDFC Sky, from NSE data):"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/PC_Jeweller\" target=\"_blank\" rel=\"noopener\">PC Jeweller</a></strong>, 48.73 crore shares, down 6.20% to ₹14.07. Reason per Mint: profit booking after a 16% rise in four sessions to a 52-week high of ₹15.50. An 8 October exchange filing had said the company is debt-free. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-13-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://www.livemint.com/market/stock-market-news/multibagger-stock-pc-jeweller-share-price-drops-5-after-16-rally-in-4-sessions-heres-why-should-investors-worry-11791866049273.html\" target=\"_blank\" rel=\"noopener\">Mint</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Vodafone_Idea\" target=\"_blank\" rel=\"noopener\">Vodafone Idea</a></strong>, 24.15 crore shares, up 1.03% to ₹12.80. No confirmed catalyst. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-13-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Moneyview</strong>, 17.81 crore shares, down 0.76% to ₹61.65. Listed on 1 October at ₹55 against a ₹34 issue price. Today's business teardown covers the company. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-13-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://www.livemint.com/market/stock-market-news/moneyview-share-price-newly-listed-stock-gives-83-returns-in-13-days-should-you-hold-for-more-gains-or-book-profits-11791881534101.html\" target=\"_blank\" rel=\"noopener\">Mint</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Vikran Engineering</strong>, 8.30 crore shares, up 11.91% to ₹62.29. Reason per CNBC-TV18: its subsidiary NOPL Solar Projects signed a ₹2,941.19 crore loan agreement with the Indian Renewable Energy Development Agency for a 969 MW solar project in Maharashtra. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-13-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://www.cnbctv18.com/energy/vikran-engineering-subsidiary-secures-rs2941-crore-ireda-loan-for-maharashtra-solar-project-20010220.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "Suzlon traded 8.37 crore shares and rose 1.57% (HDFC Sky)."
+          }
+        ]
+      },
+      {
+        "heading": "Startups and funding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Sarvam AI in talks for a $300 million top-up at about a $3 billion valuation",
+            "kicker": "AI, funding"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://economictimes.indiatimes.com/et-front/ai-startup-sarvam-in-talks-for-300m-topup-valuation-may-double-to-3b/articleshow/134902357.cms\" target=\"_blank\" rel=\"noopener\">Sarvam AI</a> (a Bengaluru company building Indian-language AI models) is in talks to raise up to $300 million at about a $3 billion valuation, roughly double its current one, the Economic Times reports. The talks are reported; no round has been announced."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> India's clearest test of whether a home-grown model company can raise at global prices. The reported doubling in valuation arrives while global AI stocks are being repriced on financing worries, which is the same worry in today's front page."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/et-front/ai-startup-sarvam-in-talks-for-300m-topup-valuation-may-double-to-3b/articleshow/134902357.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, 13 October</a>."
+          },
+          {
+            "t": "story",
+            "title": "F2A reaches ₹3,000 crore in subscriptions and raises its cap to ₹3,500 crore",
+            "kicker": "Funds"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://www.thehindubusinessline.com/money-and-banking/nandan-nilekani-backed-f2a-raises-3000-cr-for-ai-deeptech-fund-hard-cap-raised-to-3500-cr/article71578593.ece\" target=\"_blank\" rel=\"noopener\">F2A</a> (Fundamentum Frontier Advisors, a fund manager with Nandan Nilekani as anchor investor) has secured ₹3,000 crore in subscriptions for a growth-stage AI and deeptech fund and raised its hard cap to ₹3,500 crore, from an initial target of ₹2,000 crore. It plans cheques of ₹100 crore to ₹200 crore in 12 to 15 companies (BusinessLine)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A domestic fund for growth-stage AI and deeptech companies is oversubscribing against its first target, which tells you where Indian institutional money is willing to go while public markets reprice AI."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/f2a-secures-3000-crore-in-subscriptions-targets-3500-crore-corpus/article71580340.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, 13 October</a> / <a href=\"https://www.thehindubusinessline.com/money-and-banking/nandan-nilekani-backed-f2a-raises-3000-cr-for-ai-deeptech-fund-hard-cap-raised-to-3500-cr/article71578593.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, 13 October (second report)</a>."
+          },
+          {
+            "t": "p",
+            "html": "Also on 13 October: Amansa and SBI Mutual Fund put ₹413 crore into Tonbo Imaging ahead of its ₹852 crore IPO (BusinessLine live blog)."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-13-october-2026/article71574859.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine live blog</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Global",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The global story is in the front page: the AI financing scare, and the Korean and Japanese market reaction. Today's US consumer price index release is the next test. The Wall Street Journal survey of economists, via investingLive, expects headline inflation of 3.6%, up from 3.4% (investingLive). The release is at 8:30 am New York time, about 6:00 pm in India."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://investinglive.com/news/us-cpi-preview-14-investment-bank-forecasters-see-energy-lifting-headline-to-3-6-core-held-near-0-2/\" target=\"_blank\" rel=\"noopener\">investingLive US CPI preview</a> / <a href=\"https://www.bls.gov/schedule/2026/10_sched_list.htm\" target=\"_blank\" rel=\"noopener\">BLS release schedule</a>."
+          }
+        ]
+      },
+      {
+        "heading": "One Concept a Day",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "The first offer sets the price: first-offer anchoring",
+            "kicker": "Negotiation, anchoring"
+          },
+          {
+            "t": "p",
+            "html": "<strong>The idea.</strong> <a href=\"https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)\" target=\"_blank\" rel=\"noopener\">Anchoring</a> (letting a first number pull your later estimate toward it) is the pull a number exerts on any estimate made after it. <a href=\"https://en.wikipedia.org/wiki/Daniel_Kahneman\" target=\"_blank\" rel=\"noopener\">Daniel Kahneman</a> (Nobel-winning psychologist) and <a href=\"https://en.wikipedia.org/wiki/Amos_Tversky\" target=\"_blank\" rel=\"noopener\">Amos Tversky</a> (his research partner) described it in 1974. The researchers <a href=\"https://en.wikipedia.org/wiki/Adam_Galinsky\" target=\"_blank\" rel=\"noopener\">Adam Galinsky</a> (then at the University of Utah) and Thomas Mussweiler (University of Würzburg) tested it in real negotiations in a 2001 paper in the <em>Journal of Personality and Social Psychology</em>, \"First offers as anchors: the role of perspective-taking and negotiator focus\"."
+          },
+          {
+            "t": "p",
+            "html": "<strong>What they found.</strong> In three experiments, whoever made the first offer, buyer or seller, got a better outcome, and the first offer strongly predicted the final price. The advantage disappeared when the other side thought about something that cut against the first offer: the opponent's alternatives to the deal, the opponent's lowest acceptable price, or their own target. It held in face-to-face and email negotiations."
+          },
+          {
+            "t": "p",
+            "html": "<strong>The story.</strong> The paper reviews an earlier study by Northcraft and Neale (1987). They had real estate agents inspect a house and then estimate its value. The researchers varied the listing price they gave the agents, and every estimate moved toward the listing price. The agents said they had not used it and pointed to features of the house instead. The paper's explanation is that a number makes the facts that fit it easier to see, so the agent finds reasons for the number without noticing."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Use it today.</strong> Before a commission or payout conversation, decide your own target and the other side's alternatives in writing first. If they speak first, do not reply to their number. Ask what they would do if the deal fell through, then answer. If you have the facts, make the first offer yourself."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://exa.ai/library/publication/zz4v3gvm8rs\" target=\"_blank\" rel=\"noopener\">Galinsky and Mussweiler, JPSP 81(4), 2001: abstract</a> / <a href=\"http://www.communicationcache.com/uploads/1/0/8/8/10887248/first_offers_as_anchors-_the_role_of_perspective-taking_and_negotiator_focus.pdf\" target=\"_blank\" rel=\"noopener\">Full text, as read</a>."
+          },
+          {
+            "t": "figure",
+            "img": "photos/d9-chalk.jpg",
+            "alt": "Chalk drawn arrows on a blackboard",
+            "caption": "Photo: Roman Mager (Unsplash, CC0)."
+          }
+        ]
+      },
+      {
+        "heading": "Business teardown",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Today's teardown is Moneyview, the digital lender that listed on 1 October at ₹55 against a ₹34 issue price and traded 17.81 crore shares on Tuesday. It makes money by selling loans, not by holding them, and it is moving the other way. The read covers the founders' path from a spending-tracker app, how a free app with 140 million registered users turns about 8% of them into paying customers, what a default-loss guarantee does to the economics, an August 2025 cyber incident, and what IRDAI's commission caps mean for a company that also sells insurance. Read it here: <a href=\"#/longread/9\">Moneyview's road to a loan IPO</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Seven-day calendar, 14 to 20 October",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "14",
+                "title": "Wed: US CPI; India WPI; Q2 results; Fusion CX IPO opens",
+                "detail": "US CPI at 8:30 am New York time, about 6:00 pm India (investingLive, BLS). India's September wholesale price inflation is due (Dainik Jagran). BHEL, Canara Bank, ICICI Lombard, HDB Financial Services and Tata Technologies report (Kalkine)."
+              },
+              {
+                "n": "15",
+                "title": "Thu: Wipro, Tech Mahindra and about 35 results",
+                "detail": "Wipro, Tech Mahindra, Nestlé India, Jio Financial Services, Polycab, HDFC Life, IRFC, HDFC AMC, L&T Finance and Persistent Systems report (Kalkine). Tech Mahindra's board also meets to consider an interim dividend and bonus (company board intimation, via ad-hoc-news). HD Fire Protect IPO closes (Moneycontrol)."
+              },
+              {
+                "n": "16",
+                "title": "Fri: LTM, Federal Bank, Bajaj Housing Finance, Urban Company",
+                "detail": "LTM, Federal Bank, Bajaj Housing Finance, Oberoi Realty and Urban Company report (Kalkine). Fusion CX IPO closes."
+              },
+              {
+                "n": "17",
+                "title": "Sat: HDFC Bank, ICICI Bank, Axis Bank, Yes Bank results",
+                "detail": "The four large banks report on Saturday, with the market reaction on Monday (Kalkine)."
+              },
+              {
+                "n": "18",
+                "title": "Sun: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "19",
+                "title": "Mon: bank results reaction; Jio anchor book",
+                "detail": "Market reaction to the four bank results. Jio Platforms anchor book is a reported date, not yet in a filed prospectus (Startup Fortune, relaying Bloomberg)."
+              },
+              {
+                "n": "20",
+                "title": "Tue: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Just beyond the window: the Jio public issue is reported for 21 to 23 October with listing on 28 October at a ₹1,065 to ₹1,119 band; IRDAI's comment window closes 25 October; the US Federal Open Market Committee meets 27 to 28 October."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.kalkine.co.in/article/earnings/q2-fy27-earnings-calendar-hcltech-wipro-nestle-india-and-hdfc-bank-headline-a-heavy-results-week\" target=\"_blank\" rel=\"noopener\">Kalkine results calendar</a> / <a href=\"https://www.ad-hoc-news.de/boerse/news/corporate-news/tech-mahindra-sets-second-quarter-results-date-what-it-means-for-tech-mahindra-stock/70298204\" target=\"_blank\" rel=\"noopener\">Tech Mahindra board date</a> / <a href=\"https://english.dainikjagranmpcg.com/business/india-wpi-inflation-data-due-october-14-2026/article-38380\" target=\"_blank\" rel=\"noopener\">Dainik Jagran on WPI</a> / <a href=\"https://startupfortune.com/jio-platforms-sets-price-band-for-indias-biggest-ever-ipo/\" target=\"_blank\" rel=\"noopener\">Startup Fortune on Jio</a> / <a href=\"https://www.moneycontrol.com/news/business/ipo/hd-fire-protect-ipo-gmp-today-october-13-latest-subscription-status-should-you-apply-or-avoid-14050690.html\" target=\"_blank\" rel=\"noopener\">HD Fire Protect, Moneycontrol</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Notes",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Correction to edition 8: it listed Tech Mahindra's results for Friday 16 October (NDTV Profit). Kalkine and the company's board intimation put them on Thursday 15 October, and the calendar above uses that date.",
+              "Where two sources differ, both are named: KOSPI's closing fall is 5.46% in ET Now and 5.5% in BusinessTech, and 5.78% in BusinessLine; this edition says about 5.5%. Trendlyne puts RBL Bank's net profit at ₹498.3 crore and CNBC-TV18 at ₹481.7 crore; this edition uses CNBC-TV18's figure.",
+              "The Subramanian timing comes from a Bloomberg interview relayed by Insurer Flux and Medianama, and the first-year commission caps of 20% and 25% come from The Insurance Reporter. Neither is in IRDAI's press release.",
+              "Gemini 4 Argon's ranking and internal results, and Liquid AI's benchmark numbers, are the vendors' own claims.",
+              "Broker target prices and buy or sell ratings on HCLTech and RBL Bank are left out. Nothing here is investment advice.",
+              "Mid-cap and Nifty 50 volume rankings were not available from an exchange page, so those lines use the 3:30 pm HDFC Sky tables built from NSE data."
+            ]
+          },
+          {
+            "t": "closing",
+            "html": "Edition 9. Top movers is new from today, placed right after Markets. Tell me what to keep, change or drop."
+          }
+        ]
+      }
+    ]
+  },
+  "audio": null,
+  "times": null
+}
