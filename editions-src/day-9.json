@@ -574,6 +574,9 @@
       }
     ]
   },
-  "audio": null,
+  "audio": {
+    "quick": "audio/d9-quick.m4a",
+    "full": null
+  },
   "times": null
 }
