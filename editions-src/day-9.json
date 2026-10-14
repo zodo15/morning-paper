@@ -576,7 +576,9 @@
   },
   "audio": {
     "quick": "audio/d9-quick.m4a",
-    "full": null
+    "full": "audio/d9-full.m4a"
   },
-  "times": null
+  "times": {
+    "full": "audio/d9-full.times.json"
+  }
 }
