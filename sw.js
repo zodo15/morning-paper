@@ -2,7 +2,7 @@
    - Shell + data: network first (a new edition shows up the moment it is published), cached copy when offline.
    - Fonts, photos, icons: cache first, filled as you read (so every edition you opened works offline).
    - Audio: never cached here (large, range requests); it needs a connection. */
-var VERSION = 'mp-v3';
+var VERSION = 'mp-v4';
 var SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'data/editions.js', 'data/lraudio.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png',
   'fonts/fraunces-var.woff2', 'fonts/inter-var.woff2', 'fonts/sourceserif4-var.woff2'];
@@ -58,7 +58,10 @@ self.addEventListener('push', function (e) {
 self.addEventListener('notificationclick', function (e) {
   e.notification.close();
   var target = (e.notification.data && e.notification.data.url) || './';
-  var abs = new URL(target, self.registration.scope).href;
+  var abs = new URL(target, self.registration.scope);
+  var hm = abs.hash.match(/^#\/cards\/(c[a-z0-9]+)$/);
+  if (hm) { abs.hash = ''; abs.search = '?c=' + hm[1]; }
+  abs = abs.href;
   var internal = abs.indexOf(self.registration.scope) === 0;
   e.waitUntil(self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then(function (cs) {
     if (internal) {
