@@ -651,7 +651,9 @@
   },
   "audio": {
     "quick": "audio/d10-quick.m4a",
-    "full": null
+    "full": "audio/d10-full.m4a"
   },
-  "times": null
+  "times": {
+    "full": "audio/d10-full.times.json"
+  }
 }
