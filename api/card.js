@@ -3,6 +3,8 @@ import { authed, pushAll, readFeed, writeFeed } from './_lib.js';
 import { put } from '@vercel/blob';
 var LANES = ['markets', 'insurance', 'fintech', 'ai', 'startups'];
 function clean(s, n) { return String(s == null ? '' : s).replace(/\s+/g, ' ').trim().slice(0, n); }
+var LIM = { headline: 140, body: 900, why: 450, watch: 600 };
+function over(b, keys) { for (var k of keys) { if (b[k] != null && String(b[k]).replace(/\s+/g, ' ').trim().length > LIM[k]) return k + ' is over ' + LIM[k] + ' characters (not truncated; shorten it)'; } return null; }
 function firstSentence(t, n) {
   var m = String(t).match(/^(.+?[.!?])(\s|$)/); var s = m ? m[1] : String(t);
   return s.length > n ? s.slice(0, n - 1).trim() + '\u2026' : s;
@@ -41,17 +43,20 @@ export default async function handler(req, res) {
     var n0 = feed.length; feed = feed.filter(function (c) { return c.id !== b.remove; }); await writeFeed(feed);
     return res.status(200).json({ removed: n0 - feed.length });
   }
+  var tooLong = over(b, ['headline', 'body', 'why', 'watch']);
+  if (tooLong) return res.status(400).json({ error: tooLong });
   if (b.update) {
     var tgt = feed.find(function (x) { return x.id === b.update; });
     if (!tgt) return res.status(404).json({ error: 'no such card' });
+    ['headline', 'body', 'why', 'watch'].forEach(function (k) { if (b[k] != null) tgt[k] = clean(b[k], LIM[k]); });
     try { var im0 = await ingestImage(tgt.id, b.image); if (im0) tgt.image = im0; } catch (e) { return res.status(422).json({ error: String(e.message || e) }); }
     await writeFeed(feed);
-    return res.status(200).json({ updated: tgt.id, image: tgt.image });
+    return res.status(200).json({ updated: tgt.id, image: tgt.image || null });
   }
   var card = {
     lane: LANES.indexOf(b.lane) >= 0 ? b.lane : 'markets',
     tags: (Array.isArray(b.tags) ? b.tags : []).map(function (t) { return clean(t, 16).toUpperCase(); }).filter(Boolean).slice(0, 5),
-    headline: clean(b.headline, 140), body: clean(b.body, 700), why: clean(b.why, 320), watch: clean(b.watch, 260),
+    headline: clean(b.headline, LIM.headline), body: clean(b.body, LIM.body), why: clean(b.why, LIM.why), watch: clean(b.watch, LIM.watch),
     sources: (Array.isArray(b.sources) ? b.sources : []).filter(function (s) { return s && /^https:\/\//.test(s.url || ''); }).map(function (s) { return { name: clean(s.name, 40) || 'Source', url: String(s.url).slice(0, 500) }; }).slice(0, 4),
     kind: clean(b.kind, 40), timeLabel: clean(b.timeLabel, 60),
     image: null,
