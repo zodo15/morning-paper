@@ -38,7 +38,7 @@ export default async function handler(req, res) {
   await writeFeed(feed.slice(0, 200));
   var out = { id: card.id, pushed: false };
   if (b.push !== false) {
-    out.push = await pushAll({ title: clean(b.pushTitle, 110) || card.headline, body: clean(b.pushGist, 160) || firstSentence(card.body, 150), url: '#/cards/' + card.id, tag: card.id }, b.force === true);
+    out.push = await pushAll({ title: clean(b.pushTitle, 110) || card.headline, body: clean(b.pushGist, 160) || firstSentence(card.body, 150), url: './?c=' + card.id, tag: card.id }, b.force === true);
     out.pushed = true;
   }
   res.status(200).json(out);
