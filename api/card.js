@@ -16,8 +16,9 @@ function sniff(buf) {
 /* image: {url | data(base64), credit, page}. Fetched or decoded here, checked by magic bytes, stored in private Blob, served by /api/img. */
 async function ingestImage(id, im) {
   if (!im) return null;
+  var pos = /^(left|center|right)( (top|center|bottom))?$/.test(im.pos || '') ? im.pos : '';
   var credit = clean(im.credit, 120), page = /^https:\/\//.test(im.page || '') ? String(im.page).slice(0, 500) : '';
-  if (typeof im.src === 'string' && /^photos\/[\w.-]+$/.test(im.src)) return { src: im.src, credit: credit, page: page };
+  if (typeof im.src === 'string' && /^photos\/[\w.-]+$/.test(im.src)) return { src: im.src, credit: credit, page: page, pos: pos };
   var buf;
   if (im.data) buf = Buffer.from(String(im.data), 'base64');
   else if (/^https:\/\//.test(im.url || '')) {
@@ -29,7 +30,7 @@ async function ingestImage(id, im) {
   var ext = sniff(buf); if (!ext) throw new Error('not a jpg/png/webp');
   var path = 'img/' + id + '.' + ext;
   await put(path, buf, { access: 'private', addRandomSuffix: false, allowOverwrite: true, contentType: ext === 'jpg' ? 'image/jpeg' : 'image/' + ext });
-  return { src: 'api/img?p=' + path, credit: credit, page: page };
+  return { src: 'api/img?p=' + path, credit: credit, page: page, pos: pos };
 }
 export default async function handler(req, res) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'POST only' });
