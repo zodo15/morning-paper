@@ -313,3 +313,10 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .cfs-sheet-in { background: var(--card); width: 100%; padding: 18px 22px calc(env(safe-area-inset-bottom, 0px) + 20px); border-radius: 16px 16px 0 0; font-size: 16px; line-height: 1.55; }
 .cfs-sheet-in b { font-family: 'PS Meta', sans-serif; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--red); }
 .cfs-sheet-in p { margin: 8px 0 14px; }
+
+/* arrows v2 */
+.cfs-arrows { right: 10px; bottom: calc(env(safe-area-inset-bottom, 0px) + 12px); flex-direction: column; align-items: center; gap: 6px; background: none; border: 0; padding: 0; }
+.cfs .cards-pos { font-size: 11px; letter-spacing: .04em; min-width: 0; margin-bottom: 2px; }
+.arw { width: 44px; height: 44px; border-radius: 50%; background: var(--card); border: 1px solid var(--line); color: var(--ink); display: flex; align-items: center; justify-content: center; padding: 0; font-size: 0; -webkit-tap-highlight-color: transparent; }
+.arw:active { background: var(--line); }
+.arw[disabled] { opacity: .3; }
