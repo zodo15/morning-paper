@@ -782,40 +782,76 @@
   function filteredCards() {
     return (CARDS.list || []).filter(function (c) { return CARDS.lane === 'all' || c.lane === CARDS.lane; });
   }
-  function cardHTML(c, pos, total) {
-    var tags = (c.tags || []).map(function (t) { return '<span class="ctag">' + esc(t) + '</span>'; }).join('');
+  function cardHTML(c) {
+    var tags = (c.tags || []).slice(0, 4).map(function (t) { return '<span class="ctag">' + esc(t) + '</span>'; }).join('');
     var src = (c.sources || []).map(function (x) { return '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.name) + '</a>'; }).join(' &middot; ');
-    return '<article class="ncard" data-id="' + esc(c.id) + '">' +
+    return '<section class="pg" data-id="' + esc(c.id) + '"><article class="pg-in">' +
       '<div class="ncard-k"><span>' + esc(c.kind || LANE_NAMES[c.lane] || 'Markets') + '</span><span class="ncard-t">' + (c.timeLabel ? esc(c.timeLabel) : cardTime(c)) + '</span></div>' +
-      (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="" loading="lazy">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '') +
+      (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '') +
       '<h2 class="ncard-h">' + esc(c.headline) + '</h2>' +
       '<p class="ncard-b">' + esc(c.body) + '</p>' +
       (c.why ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(c.why) + '</span></div>' : '') +
-      (c.watch ? '<details class="ncard-watch"><summary>What could change this</summary><p>' + esc(c.watch) + '</p></details>' : '') +
-      (tags ? '<div class="ncard-tags">' + tags + '</div>' : '') +
-      '<div class="ncard-src">Source: ' + src + '</div>' +
-      '</article>';
+      '<div class="ncard-foot">' + (tags ? '<div class="ncard-tags">' + tags + '</div>' : '') +
+      '<div class="ncard-src">Source: ' + src + (c.watch ? ' &middot; <button class="more-btn" data-act="more">What could change this</button>' : '') + '</div></div>' +
+      '</article></section>';
+  }
+  function endHTML() {
+    return '<section class="pg"><div class="pg-in cards-end"><div class="cards-end-k">Caught up</div><div class="cards-end-h">You\'re caught up.</div><p>Nothing newer is waiting. A push will tell you when the next card lands.</p><button class="cbtn" data-act="first">Back to the newest</button></div></section>';
+  }
+  function fitPanels() {
+    var ins = document.querySelectorAll('.pg-in');
+    for (var k = 0; k < ins.length; k++) {
+      var el = ins[k]; el.classList.remove('noimg'); el.style.removeProperty('--bs'); el.style.removeProperty('--hs');
+      var bs = 17, hs = 28;
+      el.style.setProperty('--bs', bs + 'px'); el.style.setProperty('--hs', hs + 'px');
+      var guard = 0;
+      while (el.scrollHeight > el.clientHeight + 1 && guard++ < 40) {
+        if (bs > 15) bs -= 0.5; else if (!el.classList.contains('noimg') && el.querySelector('.ncard-img')) el.classList.add('noimg'); else if (bs > 13.5) bs -= 0.5; else if (hs > 22) hs -= 1; else break;
+        el.style.setProperty('--bs', bs + 'px'); el.style.setProperty('--hs', hs + 'px');
+      }
+    }
   }
   function renderCardsView() {
     var list = filteredCards(), n = list.length;
+    document.documentElement.classList.add('cards-fs');
     var lanes = ['all', 'markets', 'insurance', 'fintech', 'ai', 'startups'].map(function (l) {
       return '<button class="lane' + (CARDS.lane === l ? ' on' : '') + '" data-lane="' + l + '">' + LANE_NAMES[l] + '</button>';
     }).join('');
-    var body;
-    if (CARDS.list === null) body = '<div class="cards-empty">Loading cards...</div>';
-    else if (!n) body = '<div class="cards-empty">' + (CARDS.list.length ? 'No cards in this lane yet.' : 'No cards yet. They appear here as the day\'s news lands.') + '</div>';
-    else if (CARDS.i >= n) body = '<div class="cards-end"><div class="cards-end-k">Caught up</div><div class="cards-end-h">You\'re caught up.</div><p>Nothing newer is waiting. A push will tell you when the next card lands.</p><button class="cbtn" data-act="first">Back to the newest</button></div>';
-    else { var c = list[CARDS.i]; markSeen(c.id); body = cardHTML(c, CARDS.i + 1, n); }
-    var nav = (n && CARDS.i < n) ? '<div class="cards-nav"><button class="cbtn" data-act="prev"' + (CARDS.i <= 0 ? ' disabled' : '') + '>&larr; Newer</button><span class="cards-pos">' + (CARDS.i + 1) + ' of ' + n + '</span><button class="cbtn primary" data-act="next">' + (CARDS.i >= n - 1 ? 'Finish' : 'Older &rarr;') + '</button></div><div class="cards-hint">Swipe up for the next card</div>' : '';
-    app.innerHTML = '<div class="wrap">' + mast('cards') +
-      '<div class="cards-bar"><span class="cards-bar-t">Live cards</span><span class="cards-ctl"><a href="#" class="push-link" data-push="1" hidden></a></span></div>' +
-      '<div class="cards-quiet"><label><input type="checkbox" id="quiet-toggle"' + (quietPref() ? ' checked' : '') + '> Quiet hours <span>11 PM to 7 AM IST, no pushes</span></label></div>' +
-      '<div class="lanes">' + lanes + '</div>' +
-      '<div class="cardstage" id="cardstage">' + body + '</div>' + nav +
-      '<div class="footer"><span>The Morning Paper &middot; cards</span><span>Facts, not buy calls</span></div></div>';
+    var panels;
+    if (CARDS.list === null) panels = '<section class="pg"><div class="pg-in cards-empty">Loading cards...</div></section>';
+    else if (!n) panels = '<section class="pg"><div class="pg-in cards-empty">' + (CARDS.list.length ? 'No cards in this lane yet.' : 'No cards yet. They appear here as the day\'s news lands.') + '</div></section>';
+    else panels = list.map(cardHTML).join('') + endHTML();
+    app.innerHTML = '<div class="cfs">' +
+      '<div class="cfs-top"><a class="cfs-home" href="#/" aria-label="Back to the paper">&larr; Paper</a><div class="lanes">' + lanes + '</div><button class="cfs-gear" data-act="gear" aria-label="Card settings">&#9881;</button></div>' +
+      '<div class="cfs-set" id="cfs-set" hidden><label><input type="checkbox" id="quiet-toggle"' + (quietPref() ? ' checked' : '') + '> Quiet hours <span>11 PM to 7 AM IST, no pushes</span></label><a href="#" class="push-link" data-push="1" hidden></a></div>' +
+      '<div class="pager" id="pager"><div class="track" id="track">' + panels + '</div></div>' +
+      '<div class="cfs-arrows"><button class="arw" data-act="prev" aria-label="Previous card">&#8963;</button><span class="cards-pos" id="cpos"></span><button class="arw" data-act="next" aria-label="Next card">&#8964;</button></div>' +
+      '<div class="cfs-sheet" id="cfs-sheet" hidden><div class="cfs-sheet-in"><b>What could change this</b><p id="cfs-sheet-p"></p><button class="cbtn" data-act="closemore">Close</button></div></div></div>';
     pushRefresh();
     updateCardsDot();
+    CARDS.i = Math.max(0, Math.min(n ? n : 0, CARDS.i));
+    fitPanels();
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitPanels);
+    applyTrack(false);
+    var c = list[CARDS.i]; if (c) markSeen(c.id);
   }
+  function pagerH() { var p = document.getElementById('pager'); return p ? p.clientHeight : 0; }
+  function lastIdx() { var n = filteredCards().length; return n ? n : 0; }
+  function applyTrack(anim, extra) {
+    var tr = document.getElementById('track'); if (!tr) return;
+    tr.style.transition = anim ? 'transform .34s cubic-bezier(.22,.8,.24,1)' : 'none';
+    tr.style.transform = 'translate3d(0,' + (-CARDS.i * pagerH() + (extra || 0)) + 'px,0)';
+    var n = filteredCards().length, pos = document.getElementById('cpos');
+    if (pos) pos.textContent = n ? (CARDS.i >= n ? 'end' : (CARDS.i + 1) + ' / ' + n) : '';
+    var arr = document.querySelectorAll('.arw');
+    if (arr.length) { arr[0].disabled = CARDS.i <= 0; arr[1].disabled = CARDS.i >= lastIdx(); }
+  }
+  function goTo(i) {
+    var n = filteredCards().length; CARDS.i = Math.max(0, Math.min(lastIdx(), i)); applyTrack(true);
+    var c = filteredCards()[CARDS.i]; if (c) { markSeen(c.id); updateCardsDot(); if (history.replaceState) history.replaceState(null, '', '#/cards/' + c.id); }
+    else if (n && history.replaceState) history.replaceState(null, '', '#/cards');
+  }
+  function cardStep(d) { goTo(CARDS.i + d); }
   function updateCardsDot() {
     var d = document.getElementById('cards-dot'); if (!d || !CARDS.list) return;
     var seen = seenSet(); d.hidden = !CARDS.list.some(function (c) { return seen.indexOf(c.id) < 0; });
@@ -834,20 +870,28 @@
       if (id) { var l = (CARDS.list || []); var ix = l.findIndex(function (c) { return c.id === id; }); CARDS.lane = 'all'; CARDS.i = ix >= 0 ? ix : 0; }
     }
     place(); renderCardsView();
-    loadCards(function () { if (location.hash.indexOf('#/cards') !== 0) return; if (id) place(); renderCardsView(); });
+    var sig0 = JSON.stringify((CARDS.list || []).map(function (c) { return c.id; }));
+    loadCards(function () {
+      if (location.hash.indexOf('#/cards') !== 0) return;
+      var sig1 = JSON.stringify((CARDS.list || []).map(function (c) { return c.id; }));
+      if (sig1 === sig0) return;
+      var cur = filteredCards()[CARDS.i]; if (id) place(); else if (cur) { var ix2 = filteredCards().findIndex(function (c) { return c.id === cur.id; }); if (ix2 >= 0) CARDS.i = ix2; }
+      renderCardsView();
+    });
   }
-  function cardStep(d) {
-    var n = filteredCards().length; CARDS.i = Math.max(0, Math.min(n, CARDS.i + d)); renderCardsView(); window.scrollTo(0, 0);
-    if (CARDS.i < n) { var c = filteredCards()[CARDS.i]; if (c && history.replaceState) history.replaceState(null, '', '#/cards/' + c.id); }
-  }
+  function closeSheet() { var s = document.getElementById('cfs-sheet'); if (s) s.hidden = true; }
   document.addEventListener('click', function (e) {
     var l = e.target.closest && e.target.closest('.lane');
     if (l) { CARDS.lane = l.getAttribute('data-lane'); CARDS.i = 0; renderCardsView(); return; }
-    var b = e.target.closest && e.target.closest('.cbtn');
+    var b = e.target.closest && e.target.closest('[data-act]');
     if (!b || b.disabled) return;
     var a = b.getAttribute('data-act');
-    if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') { CARDS.i = 0; renderCardsView(); window.scrollTo(0, 0); }
+    if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') goTo(0);
+    else if (a === 'gear') { var g = document.getElementById('cfs-set'); if (g) g.hidden = !g.hidden; }
+    else if (a === 'more') { var c = filteredCards()[CARDS.i]; var s = document.getElementById('cfs-sheet'); if (c && s) { document.getElementById('cfs-sheet-p').textContent = c.watch || ''; s.hidden = false; } }
+    else if (a === 'closemore') closeSheet();
   });
+  document.addEventListener('click', function (e) { if (e.target && e.target.id === 'cfs-sheet') closeSheet(); });
   document.addEventListener('change', function (e) {
     if (e.target && e.target.id === 'quiet-toggle') {
       try { localStorage.setItem('mp-quiet', e.target.checked ? '1' : '0'); } catch (x) {}
@@ -857,24 +901,48 @@
     }
   });
   (function () {
-    var y0 = 0, x0 = 0, atBottom = false, atTop = false, on = false;
+    var st = null;
+    function inPager(t) { var p = document.getElementById('pager'); return p && p.contains(t); }
     document.addEventListener('touchstart', function (e) {
-      var st = document.getElementById('cardstage'); on = !!(st && st.contains(e.target)); if (!on) return;
-      y0 = e.touches[0].clientY; x0 = e.touches[0].clientX;
-      atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 6; atTop = window.scrollY <= 2;
+      if (!inPager(e.target) || e.touches.length !== 1) { st = null; return; }
+      var t = e.touches[0]; st = { y: t.clientY, x: t.clientX, t: Date.now(), dy: 0, mode: null };
+      var tr = document.getElementById('track'); if (tr) tr.style.transition = 'none';
     }, { passive: true });
-    document.addEventListener('touchend', function (e) {
-      if (!on) return; on = false;
-      var dy = e.changedTouches[0].clientY - y0, dx = e.changedTouches[0].clientX - x0;
-      if (Math.abs(dy) < 70 || Math.abs(dy) < Math.abs(dx) * 1.5) return;
-      if (dy < 0 && atBottom) cardStep(1); else if (dy > 0 && atTop && CARDS.i > 0) cardStep(-1);
-    }, { passive: true });
+    document.addEventListener('touchmove', function (e) {
+      if (!st) return;
+      var t = e.touches[0], dy = t.clientY - st.y, dx = t.clientX - st.x;
+      if (!st.mode) { if (Math.abs(dy) < 6 && Math.abs(dx) < 6) return; st.mode = Math.abs(dy) >= Math.abs(dx) ? 'v' : 'h'; }
+      if (st.mode !== 'v') return;
+      if (e.cancelable) e.preventDefault();
+      var off = dy; if ((CARDS.i <= 0 && dy > 0) || (CARDS.i >= lastIdx() && dy < 0)) off = dy * 0.28;
+      st.dy = dy; applyTrack(false, off);
+    }, { passive: false });
+    function end() {
+      if (!st) return; var s = st; st = null;
+      if (s.mode !== 'v') return;
+      var H = pagerH() || 700, v = s.dy / Math.max(1, Date.now() - s.t), d = 0;
+      if (s.dy < -H * 0.14 || v < -0.4) d = 1; else if (s.dy > H * 0.14 || v > 0.4) d = -1;
+      goTo(CARDS.i + d);
+    }
+    document.addEventListener('touchend', end, { passive: true });
+    document.addEventListener('touchcancel', end, { passive: true });
+    var wl = 0;
+    document.addEventListener('wheel', function (e) {
+      if (!inPager(e.target) || Math.abs(e.deltaY) < 12 || Date.now() - wl < 520) return;
+      wl = Date.now(); e.preventDefault(); cardStep(e.deltaY > 0 ? 1 : -1);
+    }, { passive: false });
+    document.addEventListener('keydown', function (e) {
+      if (!document.getElementById('pager')) return;
+      if (e.key === 'ArrowDown' || e.key === 'PageDown') { e.preventDefault(); cardStep(1); } else if (e.key === 'ArrowUp' || e.key === 'PageUp') { e.preventDefault(); cardStep(-1); }
+    });
+    window.addEventListener('resize', function () { if (document.getElementById('pager')) { fitPanels(); applyTrack(false); } });
   })();
   function cardsDotBoot() { loadCards(function () { updateCardsDot(); }); }
   cardsDotBoot();
 
   /* ---------- router ---------- */
   function route() {
+    document.documentElement.classList.remove('cards-fs');
     stopReader();
     root_pausePlayers();  // also leaves audio mode and clears the old page's highlight
     HL.items = []; HL.ready = false; HL.pending = false; HL.failed = false;
