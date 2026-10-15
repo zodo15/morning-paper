@@ -274,3 +274,42 @@ a.lr-card:hover .t { color: var(--red); }
 .cards-end-h { font-family: 'PS Display', serif; font-weight: 900; font-size: 32px; margin: 8px 0 8px; }
 .cards-end p { color: var(--stone); font-size: 15.5px; line-height: 1.55; margin: 0 0 18px; }
 @media (max-width: 380px) { .tab { padding: 10px 11px 9px; } .ncard-h { font-size: 26px; } }
+
+/* ---------- cards: full-screen pager ---------- */
+html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-behavior: none; }
+.cfs { position: fixed; inset: 0; height: 100vh; height: 100dvh; display: flex; flex-direction: column; background: var(--paper); z-index: 40; overscroll-behavior: none; user-select: none; -webkit-user-select: none; }
+.cfs-top { display: flex; align-items: center; gap: 6px; padding: calc(env(safe-area-inset-top, 0px) + 8px) 12px 0 14px; border-bottom: 1px solid var(--line); flex: none; }
+.cfs-home { font-family: 'PS Meta', sans-serif; font-size: 12.5px; font-weight: 600; color: var(--ink); border: 0; white-space: nowrap; padding: 10px 6px 10px 0; min-height: 44px; display: flex; align-items: center; }
+.cfs .lanes { flex: 1; display: flex; flex-wrap: nowrap; gap: 0 14px; overflow-x: auto; border: 0; margin: 0; padding: 0 4px; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+.cfs .lanes::-webkit-scrollbar { display: none; }
+.cfs .lane { flex: none; font-size: 13px; padding: 12px 0; min-height: 44px; }
+.cfs-gear { flex: none; background: none; border: 0; font-size: 18px; color: var(--stone); width: 40px; height: 44px; cursor: pointer; }
+.cfs-set { flex: none; padding: 10px 16px; background: var(--card); border-bottom: 1px solid var(--line); font-family: 'PS Meta', sans-serif; font-size: 12.5px; color: var(--stone); display: flex; flex-direction: column; gap: 8px; }
+.cfs-set[hidden] { display: none; }
+.cfs-set label { display: flex; align-items: center; gap: 8px; min-height: 32px; }
+.cfs-set input { accent-color: var(--red); width: 16px; height: 16px; }
+.pager { flex: 1; min-height: 0; position: relative; overflow: hidden; touch-action: none; overscroll-behavior: none; }
+.track { position: absolute; left: 0; right: 0; top: 0; height: 100%; will-change: transform; }
+.pg { height: 100%; padding: 16px 22px calc(env(safe-area-inset-bottom, 0px) + 64px); box-sizing: border-box; max-width: 640px; margin: 0 auto; }
+.pg-in { height: 100%; overflow: hidden; --bs: 17px; --hs: 28px; }
+.pg-in .ncard-k { margin-bottom: 10px; }
+.pg-in .ncard-img { margin: 0 0 12px; }
+.pg-in .ncard-img img { height: 28vh; max-height: 190px; min-height: 120px; }
+.pg-in.noimg .ncard-img { display: none; }
+.pg-in .ncard-h { font-size: var(--hs); margin: 2px 0 10px; line-height: 1.12; }
+.pg-in .ncard-b { font-size: var(--bs); line-height: 1.55; margin: 0 0 12px; }
+.pg-in .ncard-why { margin: 12px 0; }
+.pg-in .ncard-why span { font-size: calc(var(--bs) - 2px); line-height: 1.45; }
+.pg-in .ncard-tags { margin: 8px 0 8px; }
+.pg-in .ncard-src { line-height: 1.8; }
+.more-btn { background: none; border: 0; padding: 0; font: inherit; color: var(--stone); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.cfs .cards-end, .cfs .cards-empty { display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; height: 100%; padding: 0 10px; }
+.cfs-arrows { position: absolute; right: 12px; bottom: calc(env(safe-area-inset-bottom, 0px) + 14px); display: flex; align-items: center; gap: 4px; background: rgba(252,250,245,.92); border: 1px solid var(--line); border-radius: 22px; padding: 2px 4px; z-index: 5; }
+.cfs .cards-pos { font-family: 'PS Meta', sans-serif; font-size: 11.5px; color: var(--stone); min-width: 38px; text-align: center; }
+.arw { background: none; border: 0; font-size: 22px; line-height: 1; width: 40px; height: 40px; color: var(--ink); cursor: pointer; }
+.arw[disabled] { opacity: .25; }
+.cfs-sheet { position: absolute; inset: 0; background: rgba(25,23,19,.4); z-index: 10; display: flex; align-items: flex-end; }
+.cfs-sheet[hidden] { display: none; }
+.cfs-sheet-in { background: var(--card); width: 100%; padding: 18px 22px calc(env(safe-area-inset-bottom, 0px) + 20px); border-radius: 16px 16px 0 0; font-size: 16px; line-height: 1.55; }
+.cfs-sheet-in b { font-family: 'PS Meta', sans-serif; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--red); }
+.cfs-sheet-in p { margin: 8px 0 14px; }
