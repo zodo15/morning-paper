@@ -782,6 +782,10 @@
   function filteredCards() {
     return (CARDS.list || []).filter(function (c) { return CARDS.lane === 'all' || c.lane === CARDS.lane; });
   }
+  function sane(t) {
+    t = String(t || '').trim(); if (!t || /[.!?)"'\u201D\u2019]$/.test(t)) return t;
+    var m = t.match(/^[\s\S]*[.!?](?=\s|$)/); return m ? m[0] : '';
+  }
   function cardHTML(c) {
     var tags = (c.tags || []).slice(0, 4).map(function (t) { return '<span class="ctag">' + esc(t) + '</span>'; }).join('');
     var src = (c.sources || []).map(function (x) { return '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.name) + '</a>'; }).join(' &middot; ');
@@ -789,14 +793,14 @@
       '<div class="ncard-k"><span>' + esc(c.kind || LANE_NAMES[c.lane] || 'Markets') + '</span><span class="ncard-t">' + (c.timeLabel ? esc(c.timeLabel) : cardTime(c)) + '</span></div>' +
       (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="" onerror="this.parentNode.classList.add(\'bad\')">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '<figure class="ncard-img plate-ph lane-' + esc(c.lane || 'markets') + '"><div class="ph-t">' + esc((c.tags && c.tags[0]) || LANE_NAMES[c.lane] || '') + '</div><div class="ph-s">' + esc((c.tags || []).slice(1, 3).join(' · ')) + '</div></figure>') +
       '<h2 class="ncard-h">' + esc(c.headline) + '</h2>' +
-      '<p class="ncard-b">' + esc(c.body) + '</p>' +
-      (c.why ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(c.why) + '</span></div>' : '') +
+      '<p class="ncard-b">' + esc(sane(c.body)) + '</p>' +
+      (sane(c.why) ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(sane(c.why)) + '</span></div>' : '') +
       '<div class="ncard-foot">' + (tags ? '<div class="ncard-tags">' + tags + '</div>' : '') +
-      '<div class="ncard-src">Source: ' + src + (c.watch ? ' &middot; <button class="more-btn" data-act="more">What could change this</button>' : '') + '</div></div>' +
+      '<div class="ncard-src">Source: ' + src + (sane(c.watch) ? ' &middot; <button class="more-btn" data-act="more">What could change this</button>' : '') + '</div></div>' +
       '</article></section>';
   }
   function endHTML() {
-    return '<section class="pg"><div class="pg-in cards-end"><div class="cards-end-k">Caught up</div><div class="cards-end-h">You\'re caught up.</div><p>Nothing newer is waiting. A push will tell you when the next card lands.</p><button class="cbtn" data-act="first">Back to the newest</button></div></section>';
+    return '<section class="pg"><div class="pg-in cards-end"><div class="cards-end-k">Caught up</div><div class="cards-end-h">You\'re caught up.</div><p id="end-note">Nothing newer is waiting.</p><button class="cbtn" data-act="first">Back to the newest</button></div></section>';
   }
   function fitPanels() {
     var ins = document.querySelectorAll('.pg-in');
@@ -837,10 +841,18 @@
     pushRefresh();
     updateCardsDot();
     CARDS.i = Math.max(0, Math.min(n ? n : 0, CARDS.i));
+    alertsNote();
     fitPanels();
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitPanels);
     applyTrack(false);
     var c = list[CARDS.i]; if (c) markSeen(c.id);
+  }
+  function alertsNote() {
+    var el = document.getElementById('end-note'); if (!el) return;
+    function set(on) { el.textContent = on ? 'Nothing newer is waiting. A push will tell you when the next card lands.' : 'Nothing newer is waiting. Alerts are off. Tap the gear to turn them on and get a push for new cards.'; }
+    set(false);
+    if (!pushSupported() || (window.Notification && Notification.permission !== 'granted')) return;
+    navigator.serviceWorker.ready.then(function (reg) { return reg.pushManager.getSubscription(); }).then(function (s) { set(!!s); }).catch(function () {});
   }
   function pagerH() { var p = document.getElementById('pager'); return p ? p.clientHeight : 0; }
   function lastIdx() { var n = filteredCards().length; return n ? n : 0; }
@@ -895,7 +907,7 @@
     var a = b.getAttribute('data-act');
     if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') goTo(0);
     else if (a === 'gear') { var g = document.getElementById('cfs-set'); if (g) g.hidden = !g.hidden; }
-    else if (a === 'more') { var c = filteredCards()[CARDS.i]; var s = document.getElementById('cfs-sheet'); if (c && s) { document.getElementById('cfs-sheet-p').textContent = c.watch || ''; s.hidden = false; } }
+    else if (a === 'more') { var c = filteredCards()[CARDS.i]; var s = document.getElementById('cfs-sheet'); if (c && s) { document.getElementById('cfs-sheet-p').textContent = sane(c.watch); s.hidden = false; } }
     else if (a === 'closemore') closeSheet();
   });
   document.addEventListener('click', function (e) { if (e.target && e.target.id === 'cfs-sheet') closeSheet(); });
