@@ -231,3 +231,46 @@ a.lr-card:hover .t { color: var(--red); }
   .lr-card > img { width: 128px; height: 84px; }
 }
 .push-link { flex-basis: 100%; cursor: pointer; }
+
+/* ---------- cards ---------- */
+.tab-dot { display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--red); margin-left: 5px; vertical-align: 6px; }
+.tab-dot[hidden] { display: none; }
+.cards-bar { display: flex; justify-content: space-between; align-items: baseline; margin: 4px 0 2px; font-family: 'PS Meta', sans-serif; font-size: 11px; letter-spacing: .12em; font-variant-caps: all-small-caps; font-weight: 600; color: var(--stone); }
+.cards-bar-t { color: var(--ink); }
+.cards-bar .push-link { flex-basis: auto; font-size: 11.5px; letter-spacing: .04em; font-variant-caps: normal; }
+.cards-quiet { font-family: 'PS Meta', sans-serif; font-size: 12px; color: var(--stone); margin: 6px 0 4px; }
+.cards-quiet label { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; min-height: 32px; }
+.cards-quiet input { accent-color: var(--red); width: 16px; height: 16px; }
+.cards-quiet span { color: var(--stone); }
+.lanes { display: flex; flex-wrap: wrap; gap: 0 16px; border-bottom: 1px solid var(--line); margin: 6px 0 4px; }
+.lane { background: none; border: 0; font-family: 'PS Meta', sans-serif; font-size: 13px; color: var(--stone); padding: 10px 0; min-height: 40px; cursor: pointer; }
+.lane.on { color: var(--red); font-weight: 600; box-shadow: inset 0 -2px 0 var(--red); }
+.cardstage { min-height: 52vh; padding-top: 14px; }
+.ncard-k { display: flex; justify-content: space-between; gap: 10px; font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--red); margin-bottom: 12px; }
+.ncard-t { font-weight: 600; letter-spacing: .06em; color: var(--stone); text-align: right; }
+.ncard-img { margin: 0 0 14px; }
+.ncard-img img { width: 100%; height: 170px; object-fit: cover; object-position: 50% 38%; display: block; border: 1px solid var(--ink); border-radius: 6px; }
+.ncard-img figcaption { font-family: 'PS Meta', sans-serif; font-size: 10.5px; color: var(--stone); margin-top: 5px; }
+.ncard-h { font-family: 'PS Display', serif; font-weight: 900; font-size: 29px; line-height: 1.12; letter-spacing: -.015em; margin: 4px 0 12px; }
+.ncard-b { font-size: 17px; line-height: 1.62; margin: 0 0 16px; }
+.ncard-why { border-left: 3px solid var(--red); padding: 2px 0 2px 13px; margin: 16px 0; display: flex; flex-direction: column; gap: 4px; }
+.ncard-why b { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--red); }
+.ncard-why span { font-size: 15px; line-height: 1.55; }
+.ncard-watch { margin: 8px 0 14px; font-size: 14.5px; }
+.ncard-watch summary { cursor: pointer; font-family: 'PS Meta', sans-serif; font-size: 12.5px; color: var(--stone); text-decoration: underline; text-underline-offset: 3px; min-height: 32px; display: flex; align-items: center; }
+.ncard-watch p { background: var(--card); border: 1px solid var(--line); padding: 12px 14px; line-height: 1.55; margin: 6px 0 0; }
+.ncard-tags { display: flex; flex-wrap: wrap; gap: 7px; margin: 6px 0 12px; }
+.ctag { font-family: 'PS Meta', sans-serif; font-size: 11px; font-weight: 600; letter-spacing: .04em; border: 1px solid var(--line); padding: 3px 8px; border-radius: 3px; background: var(--card); }
+.ncard-src { font-family: 'PS Meta', sans-serif; font-size: 12px; color: var(--stone); line-height: 1.7; }
+.cards-nav { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: 22px 0 6px; padding-top: 14px; border-top: 1px solid var(--line); }
+.cbtn { font-family: 'PS Meta', sans-serif; font-weight: 600; font-size: 13px; min-height: 46px; padding: 0 16px; border: 1px solid var(--ink); background: var(--card); color: var(--ink); border-radius: 8px; cursor: pointer; }
+.cbtn.primary { background: var(--ink); color: var(--paper); }
+.cbtn[disabled] { opacity: .35; cursor: default; }
+.cards-pos { font-family: 'PS Meta', sans-serif; font-size: 12px; color: var(--stone); }
+.cards-hint { text-align: center; font-family: 'PS Meta', sans-serif; font-size: 11px; color: var(--stone); margin: 2px 0 8px; }
+.cards-empty { padding: 40px 0; text-align: center; color: var(--stone); font-size: 15px; }
+.cards-end { padding: 36px 0 20px; text-align: center; }
+.cards-end-k { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 11px; letter-spacing: .15em; text-transform: uppercase; color: var(--red); }
+.cards-end-h { font-family: 'PS Display', serif; font-weight: 900; font-size: 32px; margin: 8px 0 8px; }
+.cards-end p { color: var(--stone); font-size: 15.5px; line-height: 1.55; margin: 0 0 18px; }
+@media (max-width: 380px) { .tab { padding: 10px 11px 9px; } .ncard-h { font-size: 26px; } }
