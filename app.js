@@ -871,6 +871,7 @@
     }, { passive: true });
   })();
   function cardsDotBoot() { loadCards(function () { updateCardsDot(); }); }
+  cardsDotBoot();
 
   /* ---------- router ---------- */
   function route() {
