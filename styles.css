@@ -334,3 +334,4 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .ph-t { font-family: 'PS Display', serif; font-weight: 900; font-size: 34px; letter-spacing: -.01em; position: relative; z-index: 1; line-height: 1.05; }
 .ph-s { font-family: 'PS Meta', sans-serif; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; margin-top: 8px; opacity: .8; position: relative; z-index: 1; }
 .ncard-img img { background: var(--line); }
+.pg-in .ncard-img img, .pg-in .ncard-img.plate-ph { height: var(--ih, min(28vh, 190px)); min-height: 0; max-height: none; }
