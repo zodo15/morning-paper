@@ -909,6 +909,12 @@
     btn.classList.add('active');
     startPacer(secs, label, 0);
   });
+  (function () {
+    try {
+      var q = new URLSearchParams(location.search).get('c');
+      if (q && /^c[a-z0-9]+$/.test(q)) { history.replaceState(null, '', location.pathname + '#/cards/' + q); }
+    } catch (x) {}
+  })();
   route();
 
   /* Web Push: one tap to turn alerts on (iOS needs the Home Screen app and a tap). */
@@ -945,7 +951,7 @@
     var a = e.target.closest && e.target.closest('[data-push]');
     if (!a) return; e.preventDefault(); if (pushSupported()) pushToggle();
   });
-  if ('serviceWorker' in navigator) navigator.serviceWorker.addEventListener('message', function (e) { if (e.data && e.data.type === 'nav' && e.data.url) { try { var u = new URL(e.data.url); if (u.origin === location.origin) location.hash = u.hash || '#/'; } catch (x) {} } });
+  if ('serviceWorker' in navigator) navigator.serviceWorker.addEventListener('message', function (e) { if (e.data && e.data.type === 'nav' && e.data.url) { try { var u = new URL(e.data.url); if (u.origin === location.origin) { var cq = u.searchParams.get('c'); location.hash = cq ? '#/cards/' + cq : (u.hash || '#/'); } } catch (x) {} } });
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
   }
