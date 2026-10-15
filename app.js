@@ -787,7 +787,7 @@
     var src = (c.sources || []).map(function (x) { return '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.name) + '</a>'; }).join(' &middot; ');
     return '<section class="pg" data-id="' + esc(c.id) + '"><article class="pg-in">' +
       '<div class="ncard-k"><span>' + esc(c.kind || LANE_NAMES[c.lane] || 'Markets') + '</span><span class="ncard-t">' + (c.timeLabel ? esc(c.timeLabel) : cardTime(c)) + '</span></div>' +
-      (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '') +
+      (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="" onerror="this.parentNode.classList.add(\'bad\')">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '<figure class="ncard-img plate-ph lane-' + esc(c.lane || 'markets') + '"><div class="ph-t">' + esc((c.tags && c.tags[0]) || LANE_NAMES[c.lane] || '') + '</div><div class="ph-s">' + esc((c.tags || []).slice(1, 3).join(' · ')) + '</div></figure>') +
       '<h2 class="ncard-h">' + esc(c.headline) + '</h2>' +
       '<p class="ncard-b">' + esc(c.body) + '</p>' +
       (c.why ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(c.why) + '</span></div>' : '') +
