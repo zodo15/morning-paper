@@ -1281,5 +1281,202 @@
     ]
    }
   ]
+ },
+ "10": {
+  "title": "Meesho sells no commission",
+  "fact": "A business teardown: a marketplace that charges sellers no commission, earned ₹12,626 crore in FY26, and is trading growth for cash.",
+  "intro": "Meesho listed in December 2025 and reported its first annual report in August. It serves 264 million annual transacting users and 9.6 lakh sellers, yet it takes no commission on sales. Its shares fell 5.85% on Wednesday as traders booked profits after a festive sale that lifted day-one orders about 75%. This is how the model earns money, what it costs, and what to watch next.",
+  "hero": {
+   "t": "figure",
+   "img": "photos/d10-hero.jpg",
+   "alt": "The Bombay Stock Exchange building in Mumbai",
+   "caption": "The Bombay Stock Exchange, Mumbai. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0)."
+  },
+  "groups": [
+   {
+    "heading": "The company",
+    "blocks": [
+     {
+      "t": "facts",
+      "items": [
+       {
+        "k": "Founded",
+        "v": "2015 as Meri Shop by IIT Delhi batchmates Vidit Aatrey (chief executive) and Sanjeev Barnwal, from a two-room apartment in Bengaluru (Fortune India, Economic Times)."
+       },
+       {
+        "k": "Scale, FY26",
+        "v": "264 million annual transacting users (up 33%), 2.67 billion orders placed (up 45%), 9.61 lakh active sellers (up 87%), net merchandise value of ₹41,560 crore (up 39%) (annual report, via ETRetail and BusinessLine)."
+       },
+       {
+        "k": "Revenue, FY26",
+        "v": "₹12,626 crore from operations, of which the marketplace is ₹12,614 crore, or 99.9% (Inc42)."
+       },
+       {
+        "k": "Listing",
+        "v": "IPO in December 2025 raised over ₹5,400 crore at ₹111 a share. Funding before that was over $1.4 billion from SoftBank, Prosus, Peak XV, Meta and others (Inc42, Economic Times)."
+       },
+       {
+        "k": "Latest quarter",
+        "v": "June 2026: revenue ₹3,712.8 crore, net loss ₹132.8 crore, cash ₹6,521 crore (Mint)."
+       }
+      ]
+     },
+     {
+      "t": "p",
+      "html": "The founders joined <a href=\"https://en.wikipedia.org/wiki/Y_Combinator\" target=\"_blank\" rel=\"noopener\">Y Combinator</a> (the US startup programme) in its Summer 2016 batch, three months in, with 300 users. Their problem was small merchants: millions of Indians sold apparel on Facebook and WhatsApp, and fewer than 5% had websites. The first product was tools for those sellers, built on Facebook's developer interface. Meesho launched a consumer app only in 2021, six years in (Y Combinator). Facebook's 2019 investment was its first equity investment in an Indian startup (Economic Times)."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.fortuneindia.com/long-reads/vidit-aatrey-built-meesho-as-an-e-commerce-brand-with-a-difference-heres-how/125477\" target=\"_blank\" rel=\"noopener\">Fortune India</a> / <a href=\"https://www.ycombinator.com/blog/meesho-goes-public/\" target=\"_blank\" rel=\"noopener\">Y Combinator</a> / <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/how-small-town-india-gave-d-st-its-next-big-ipo-the-meesho-story/articleshow/125633612.cms\" target=\"_blank\" rel=\"noopener\">Economic Times</a> / <a href=\"https://inc42.com/features/decoding-meesho-business-model-seller-centric-revenue-engine/\" target=\"_blank\" rel=\"noopener\">Inc42</a> / <a href=\"https://www.livemint.com/companies/company-results/companies-company-results-meesho-q1fy27-results-revenue-beats-estimates-marketplace-growth-narrows-loss-ai-logistics-11784808003464.html\" target=\"_blank\" rel=\"noopener\">Mint</a>."
+     }
+    ]
+   },
+   {
+    "heading": "How it makes money without a commission",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Most marketplaces take a slice of each sale. Inc42 says Meesho judged that model a poor fit for how small Indian merchants behave, and it charges for services instead. Inc42 lists four. <strong>Shipping:</strong> forward shipping income, charged by weight, delivery zone and cash-on-delivery or prepaid, recognised when the product is delivered, plus return shipping income when a return reaches the seller. <strong>Advertising:</strong> sellers pay per click to be seen in search and recommendations. <strong>Content:</strong> sellers pay a service fee to creators who feature their products, and the payments to creators are booked as an advertising and sales promotion expense. <strong>New services:</strong> AI tools and lending, which brought in ₹12.7 crore in FY26."
+     },
+     {
+      "t": "p",
+      "html": "The reason this works: sellers are not obliged to buy any of it. A seller can ship through its own partner and find its own traffic. Meesho's bet is that its logistics network is cheaper and its feed is the traffic. The reason it is risky, in Inc42's reading: if sellers pick only the cheapest services, profit per order shrinks, and the single revenue line hides which service earns what."
+     },
+     {
+      "t": "p",
+      "html": "Two numbers from the filings put it in scale. Revenue of ₹12,626 crore against NMV of ₹41,560 crore is about 30%, though revenue includes shipping income charged to sellers, so it is not a commission rate. And revenue per order placed is about ₹47, against about ₹156 of NMV per order, both by calculation from the annual report figures. A low-ticket order has little room: a rupee of logistics cost matters."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://inc42.com/features/decoding-meesho-business-model-seller-centric-revenue-engine/\" target=\"_blank\" rel=\"noopener\">Inc42 on the model</a> / <a href=\"https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meeshos-first-annual-report-5-key-takeaways-from-its-fy26-performance/133528702\" target=\"_blank\" rel=\"noopener\">Economic Times on the annual report</a>."
+     }
+    ]
+   },
+   {
+    "heading": "The growth engine: feeds and small towns",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The annual report says more than 75% of orders start in a personalised feed. The company names its recommendation system PRISM, which ranks products by personal intent signals, and TrendPulse, which uses large language models to spot regional trends. Vaani, its AI shopping assistant, launched in the March quarter and passed 1.5 million users in its first month, with a 22% conversion lift for users who adopted it. Those are Meesho's figures (ETRetail)."
+     },
+     {
+      "t": "p",
+      "html": "Meesho's pitch to sellers is zero commission plus low-cost fulfilment, in its own words. Sellers grew 87% in FY26, faster than users at 33%. Orders grew 45%, also faster than users, so the average user ordered more often. That frequency is the number Meesho names as a priority."
+     },
+     {
+      "t": "p",
+      "html": "Its newer lines point up-market. Meesho Mall hosts over 1,200 brands and grew NMV 93% in the June quarter. Content commerce grew NMV 141%, and 1.7 million pieces of content were generating orders (Mint)."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meeshos-first-annual-report-5-key-takeaways-from-its-fy26-performance/133528702\" target=\"_blank\" rel=\"noopener\">ETRetail</a> / <a href=\"https://www.livemint.com/companies/company-results/companies-company-results-meesho-q1fy27-results-revenue-beats-estimates-marketplace-growth-narrows-loss-ai-logistics-11784808003464.html\" target=\"_blank\" rel=\"noopener\">Mint</a>."
+     }
+    ]
+   },
+   {
+    "heading": "The logistics bet",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<a href=\"https://inc42.com/features/decoding-meesho-business-model-seller-centric-revenue-engine/\" target=\"_blank\" rel=\"noopener\">Valmo</a> (Meesho's logistics platform that works with third-party courier partners) is the lever on cost per order. In FY26 Meesho piloted a version in which last-mile partners billed sellers directly and Meesho charged those partners a facilitation fee. It dropped the pilot because sellers found it hard to understand and operate (annual report, via ETRetail). The company also reported temporary cost pressure after consolidation among third-party logistics firms in the September and December quarters."
+     },
+     {
+      "t": "p",
+      "html": "By the June quarter the chief financial officer Dhiresh Bansal said cost per delivered order fell by about a rupee from the previous quarter, and expects costs to keep falling despite fuel and wage inflation. He said future savings would mostly go to sellers and customers as lower prices, and that advertising would drive margin expansion. Nearly two-thirds of sellers that contribute sales now advertise (Mint)."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meeshos-first-annual-report-5-key-takeaways-from-its-fy26-performance/133528702\" target=\"_blank\" rel=\"noopener\">ETRetail</a> / <a href=\"https://www.livemint.com/companies/company-results/companies-company-results-meesho-q1fy27-results-revenue-beats-estimates-marketplace-growth-narrows-loss-ai-logistics-11784808003464.html\" target=\"_blank\" rel=\"noopener\">Mint</a>."
+     }
+    ]
+   },
+   {
+    "heading": "The cost of growth",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "FY26 growth came at a cash price. Contribution margin, earnings after direct costs like logistics and payments, fell from 4.9% to 3.5% of NMV. Marketplace adjusted EBITDA went from -0.4% to -2.8% of NMV. Free cash flow over the last twelve months swung from positive ₹591 crore to negative ₹633 crore. Meesho attributes it to new-user acquisition, consumer incentives, AI infrastructure and talent, and the logistics pressure (ETRetail, BusinessLine)."
+     },
+     {
+      "t": "p",
+      "html": "Chart: FY25 and FY26 are full years; the other two bars are single quarters."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 720 268\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Contribution margin as a percent of NMV\"><g><text x=\"190\" y=\"40\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">FY25</text><rect x=\"200\" y=\"20\" width=\"370\" height=\"32\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"578\" y=\"42\" font-size=\"18\" fill=\"#444\">4.9%</text></g><g><text x=\"190\" y=\"92\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">FY26</text><rect x=\"200\" y=\"72\" width=\"264.2857142857143\" height=\"32\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"472.2857142857143\" y=\"94\" font-size=\"18\" fill=\"#444\">3.5%</text></g><g><text x=\"190\" y=\"144\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Mar 2026 quarter</text><rect x=\"200\" y=\"124\" width=\"302.0408163265306\" height=\"32\" fill=\"#6a8fcb\" rx=\"2\"></rect><text x=\"510.0408163265306\" y=\"146\" font-size=\"18\" fill=\"#444\">4.0%</text></g><g><text x=\"190\" y=\"196\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Jun 2026 quarter</text><rect x=\"200\" y=\"176\" width=\"347.3469387755101\" height=\"32\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"555.3469387755101\" y=\"198\" font-size=\"18\" fill=\"#444\">4.6%</text></g><text x=\"0\" y=\"260\" font-size=\"17\" fill=\"#555\">Contribution margin, % of NMV. Sources: ETRetail, Mint.</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "The quarterly trend runs the other way. Net loss was ₹490.7 crore in the December 2025 quarter, ₹166.3 crore in the March 2026 quarter and ₹132.8 crore in June. Inc42 reports the March loss was 88% below ₹1,391.4 crore a year earlier. In June contribution margin rose to 4.6% from 4.0% on lower logistics cost, better monetisation and fewer cancelled and returned orders, and marketplace adjusted EBITDA loss narrowed to ₹139 crore from ₹198 crore (Mint)."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 720 216\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Meesho net loss by quarter in crore rupees\"><g><text x=\"190\" y=\"40\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Dec 2025 qtr</text><rect x=\"200\" y=\"20\" width=\"370\" height=\"32\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"578\" y=\"42\" font-size=\"18\" fill=\"#444\">₹490.7 cr</text></g><g><text x=\"190\" y=\"92\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Mar 2026 qtr</text><rect x=\"200\" y=\"72\" width=\"125.39433462400653\" height=\"32\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"333.39433462400655\" y=\"94\" font-size=\"18\" fill=\"#444\">₹166.3 cr</text></g><g><text x=\"190\" y=\"144\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Jun 2026 qtr</text><rect x=\"200\" y=\"124\" width=\"100.13450173221929\" height=\"32\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"308.1345017322193\" y=\"146\" font-size=\"18\" fill=\"#444\">₹132.8 cr</text></g><text x=\"0\" y=\"208\" font-size=\"17\" fill=\"#555\">Net loss, ₹ crore. Sources: Inc42, Mint.</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/meeshos-first-annual-report-5-key-takeaways-from-its-fy26-performance/133528702\" target=\"_blank\" rel=\"noopener\">ETRetail</a> / <a href=\"https://www.thehindubusinessline.com/companies/meeshos-fy26-growth-comes-at-a-cash-flow-cost-as-user-acquisition-logistics-spending-rise/article71393362.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://inc42.com/features/decoding-meesho-business-model-seller-centric-revenue-engine/\" target=\"_blank\" rel=\"noopener\">Inc42</a> / <a href=\"https://www.livemint.com/companies/company-results/companies-company-results-meesho-q1fy27-results-revenue-beats-estimates-marketplace-growth-narrows-loss-ai-logistics-11784808003464.html\" target=\"_blank\" rel=\"noopener\">Mint</a>."
+     }
+    ]
+   },
+   {
+    "heading": "What happened this week",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Meesho's Mega Blockbuster Sale opened on 10 October with day-one orders up about 75% on last year, a peak above 75,000 orders a minute in the first 15 minutes, and consumers up about 60%. Meesho Mall orders rose more than 200%, orders from creator content rose about 3.7 times, and about 90% of active creators are nano-creators. All of this is from Meesho's announcement to the exchanges (CNBC-TV18, Business Today)."
+     },
+     {
+      "t": "p",
+      "html": "The shares rose about 5% on Monday 12 October to a high of ₹243.20 from ₹232.70. On Wednesday they fell 5.85%, which CNBC-TV18 attributes to traders booking profits after the sale optimism."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.cnbctv18.com/business/meesho-mega-blockbuster-sale-opens-with-nearly-75-pc-order-growth-on-day-1-20009071.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 on the sale</a> / <a href=\"https://www.businesstoday.in/markets/stocks/story/meesho-shares-gain-5-as-festive-sale-orders-surge-meesho-mall-orders-jump-200-560910-2026-10-12\" target=\"_blank\" rel=\"noopener\">Business Today</a> / <a href=\"https://www.cnbctv18.com/market/closing-bell-sensex-nifty-snap-two-day-rally-as-banks-slide-rupee-extends-gains-20011767.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 closing bell</a>."
+     }
+    ]
+   },
+   {
+    "heading": "What to take from it",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Charge for services, not for the sale. Meesho earns on shipping, ads and content, and lets the seller opt out of each. That keeps the headline price to sellers at zero but puts the burden on proving each service is worth buying.",
+       "Cost per order is the whole game for a low-ticket business. A one-rupee saving per delivered order is a headline in the earnings call.",
+       "Growth bought with incentives shows up in free cash flow first. Watch the cash line next to the revenue line.",
+       "One revenue header hides the mix. Inc42 notes investors cannot tell which service is the profit pool, so disclosure is the next thing to look for."
+      ]
+     },
+     {
+      "t": "callout",
+      "html": "<strong>For your work.</strong> The question for any distributor is how much of its income sits in the commission and how much in services around the sale. Today's front page has the credit-life story, where a regulator is proposing to cap one commission."
+     },
+     {
+      "t": "p",
+      "html": "Today's paper: <a href=\"#/edition/10\">Morning paper, Thursday 15 October 2026</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Notes",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "The per-order figures and the revenue-to-NMV share are this file's arithmetic from reported FY26 numbers. Orders placed and orders delivered are different counts, so treat per-order figures as approximate.",
+       "PRISM, TrendPulse, Vaani and the 22% conversion lift are Meesho's statements in its annual report.",
+       "The festive sale figures are Meesho's own announcement.",
+       "The December and March quarter losses are as reported by Inc42, and the March year-ago comparison is Inc42's.",
+       "Nothing here is investment advice, and no broker rating or target is included."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "One company a day. Tomorrow's teardown will be a different business; tell me which sectors to prioritise."
+     }
+    ]
+   }
+  ]
  }
 }
