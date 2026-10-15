@@ -801,13 +801,20 @@
   function fitPanels() {
     var ins = document.querySelectorAll('.pg-in');
     for (var k = 0; k < ins.length; k++) {
-      var el = ins[k]; el.classList.remove('noimg'); el.style.removeProperty('--bs'); el.style.removeProperty('--hs');
-      var bs = 17, hs = 28;
-      el.style.setProperty('--bs', bs + 'px'); el.style.setProperty('--hs', hs + 'px');
+      var el = ins[k]; el.classList.remove('noimg');
+      var hasImg = !!el.querySelector('.ncard-img');
+      var st = { bs: 17, hs: 28, ih: 0 };
+      function ap() { el.style.setProperty('--bs', st.bs + 'px'); el.style.setProperty('--hs', st.hs + 'px'); if (st.ih) el.style.setProperty('--ih', st.ih + 'px'); else el.style.removeProperty('--ih'); }
+      ap();
       var guard = 0;
-      while (el.scrollHeight > el.clientHeight + 1 && guard++ < 40) {
-        if (bs > 15) bs -= 0.5; else if (!el.classList.contains('noimg') && el.querySelector('.ncard-img')) el.classList.add('noimg'); else if (bs > 13.5) bs -= 0.5; else if (hs > 22) hs -= 1; else break;
-        el.style.setProperty('--bs', bs + 'px'); el.style.setProperty('--hs', hs + 'px');
+      while (el.scrollHeight > el.clientHeight + 1 && guard++ < 80) {
+        if (st.bs > 15.5) st.bs -= 0.5;
+        else if (hasImg && (st.ih || 150) > 100) st.ih = (st.ih || 150) - 10;
+        else if (st.bs > 14) st.bs -= 0.5;
+        else if (st.hs > 22) st.hs -= 1;
+        else if (hasImg && !el.classList.contains('noimg')) el.classList.add('noimg');
+        else break;
+        ap();
       }
     }
   }
