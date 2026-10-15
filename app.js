@@ -622,6 +622,7 @@
       '<div class="mast-sub">' + esc(today.date) + ' &middot; Edition ' + D.today + ' &middot; daily</div>' +
       '<div class="mast-rule"></div>' +
       '<div class="tabs"><a class="tab' + (active === 'today' ? ' active' : '') + '" href="#/">Today</a>' +
+      '<a class="tab' + (active === 'cards' ? ' active' : '') + '" href="#/cards">Cards<span class="tab-dot" id="cards-dot" hidden></span></a>' +
       '<a class="tab' + (active === 'archive' ? ' active' : '') + '" href="#/archive">Archive</a>' +
       '<a class="tab' + (active === 'longreads' ? ' active' : '') + '" href="#/longreads">Long reads</a></div></div>';
   }
@@ -764,6 +765,113 @@
     wirePlayers(app);
   }
 
+
+  /* ---------- cards: short news cards, newest first ---------- */
+  var LANE_NAMES = { all: 'All', markets: 'Markets', insurance: 'Insurance', fintech: 'Fintech', ai: 'AI', startups: 'Startups' };
+  var CARDS = { list: null, lane: 'all', i: 0, loading: false };
+  function cardsCache() { try { return JSON.parse(localStorage.getItem('mp-cards') || 'null'); } catch (e) { return null; } }
+  function seenSet() { try { return JSON.parse(localStorage.getItem('mp-seen') || '[]'); } catch (e) { return []; } }
+  function markSeen(id) { var s = seenSet(); if (s.indexOf(id) < 0) { s.push(id); try { localStorage.setItem('mp-seen', JSON.stringify(s.slice(-300))); } catch (e) {} } }
+  function cardTime(c) {
+    var d = new Date(c.at || c.publishedAt); if (isNaN(d)) return '';
+    var t = d.toLocaleTimeString('en-IN', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'Asia/Kolkata' });
+    var day = d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', timeZone: 'Asia/Kolkata' });
+    var today = new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'short', timeZone: 'Asia/Kolkata' });
+    return (day === today ? 'Today' : day) + ' &middot; ' + t.toUpperCase().replace(' ', '&nbsp;') + ' IST';
+  }
+  function filteredCards() {
+    return (CARDS.list || []).filter(function (c) { return CARDS.lane === 'all' || c.lane === CARDS.lane; });
+  }
+  function cardHTML(c, pos, total) {
+    var tags = (c.tags || []).map(function (t) { return '<span class="ctag">' + esc(t) + '</span>'; }).join('');
+    var src = (c.sources || []).map(function (x) { return '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.name) + '</a>'; }).join(' &middot; ');
+    return '<article class="ncard" data-id="' + esc(c.id) + '">' +
+      '<div class="ncard-k"><span>' + esc(c.kind || LANE_NAMES[c.lane] || 'Markets') + '</span><span class="ncard-t">' + (c.timeLabel ? esc(c.timeLabel) : cardTime(c)) + '</span></div>' +
+      (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="" loading="lazy">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '') +
+      '<h2 class="ncard-h">' + esc(c.headline) + '</h2>' +
+      '<p class="ncard-b">' + esc(c.body) + '</p>' +
+      (c.why ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(c.why) + '</span></div>' : '') +
+      (c.watch ? '<details class="ncard-watch"><summary>What could change this</summary><p>' + esc(c.watch) + '</p></details>' : '') +
+      (tags ? '<div class="ncard-tags">' + tags + '</div>' : '') +
+      '<div class="ncard-src">Source: ' + src + '</div>' +
+      '</article>';
+  }
+  function renderCardsView() {
+    var list = filteredCards(), n = list.length;
+    var lanes = ['all', 'markets', 'insurance', 'fintech', 'ai', 'startups'].map(function (l) {
+      return '<button class="lane' + (CARDS.lane === l ? ' on' : '') + '" data-lane="' + l + '">' + LANE_NAMES[l] + '</button>';
+    }).join('');
+    var body;
+    if (CARDS.list === null) body = '<div class="cards-empty">Loading cards...</div>';
+    else if (!n) body = '<div class="cards-empty">' + (CARDS.list.length ? 'No cards in this lane yet.' : 'No cards yet. They appear here as the day\'s news lands.') + '</div>';
+    else if (CARDS.i >= n) body = '<div class="cards-end"><div class="cards-end-k">Caught up</div><div class="cards-end-h">You\'re caught up.</div><p>Nothing newer is waiting. A push will tell you when the next card lands.</p><button class="cbtn" data-act="first">Back to the newest</button></div>';
+    else { var c = list[CARDS.i]; markSeen(c.id); body = cardHTML(c, CARDS.i + 1, n); }
+    var nav = (n && CARDS.i < n) ? '<div class="cards-nav"><button class="cbtn" data-act="prev"' + (CARDS.i <= 0 ? ' disabled' : '') + '>&larr; Newer</button><span class="cards-pos">' + (CARDS.i + 1) + ' of ' + n + '</span><button class="cbtn primary" data-act="next">' + (CARDS.i >= n - 1 ? 'Finish' : 'Older &rarr;') + '</button></div><div class="cards-hint">Swipe up for the next card</div>' : '';
+    app.innerHTML = '<div class="wrap">' + mast('cards') +
+      '<div class="cards-bar"><span class="cards-bar-t">Live cards</span><span class="cards-ctl"><a href="#" class="push-link" data-push="1" hidden></a></span></div>' +
+      '<div class="cards-quiet"><label><input type="checkbox" id="quiet-toggle"' + (quietPref() ? ' checked' : '') + '> Quiet hours <span>11 PM to 7 AM IST, no pushes</span></label></div>' +
+      '<div class="lanes">' + lanes + '</div>' +
+      '<div class="cardstage" id="cardstage">' + body + '</div>' + nav +
+      '<div class="footer"><span>The Morning Paper &middot; cards</span><span>Facts, not buy calls</span></div></div>';
+    pushRefresh();
+    updateCardsDot();
+  }
+  function updateCardsDot() {
+    var d = document.getElementById('cards-dot'); if (!d || !CARDS.list) return;
+    var seen = seenSet(); d.hidden = !CARDS.list.some(function (c) { return seen.indexOf(c.id) < 0; });
+  }
+  function loadCards(cb) {
+    var cached = cardsCache(); if (cached && CARDS.list === null) CARDS.list = cached;
+    fetch('api/cards', { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); }).then(function (j) {
+      CARDS.list = j.cards || []; try { localStorage.setItem('mp-cards', JSON.stringify(CARDS.list)); } catch (e) {}
+      cb(true);
+    }).catch(function () { if (CARDS.list === null) CARDS.list = []; cb(false); });
+  }
+  function renderCards(id) {
+    var first = CARDS.list === null;
+    if (first) { var cc = cardsCache(); if (cc) { CARDS.list = cc; first = false; } }
+    function place() {
+      if (id) { var l = (CARDS.list || []); var ix = l.findIndex(function (c) { return c.id === id; }); CARDS.lane = 'all'; CARDS.i = ix >= 0 ? ix : 0; }
+    }
+    place(); renderCardsView();
+    loadCards(function () { if (location.hash.indexOf('#/cards') !== 0) return; if (id) place(); renderCardsView(); });
+  }
+  function cardStep(d) {
+    var n = filteredCards().length; CARDS.i = Math.max(0, Math.min(n, CARDS.i + d)); renderCardsView(); window.scrollTo(0, 0);
+    if (CARDS.i < n) { var c = filteredCards()[CARDS.i]; if (c && history.replaceState) history.replaceState(null, '', '#/cards/' + c.id); }
+  }
+  document.addEventListener('click', function (e) {
+    var l = e.target.closest && e.target.closest('.lane');
+    if (l) { CARDS.lane = l.getAttribute('data-lane'); CARDS.i = 0; renderCardsView(); return; }
+    var b = e.target.closest && e.target.closest('.cbtn');
+    if (!b || b.disabled) return;
+    var a = b.getAttribute('data-act');
+    if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') { CARDS.i = 0; renderCardsView(); window.scrollTo(0, 0); }
+  });
+  document.addEventListener('change', function (e) {
+    if (e.target && e.target.id === 'quiet-toggle') {
+      try { localStorage.setItem('mp-quiet', e.target.checked ? '1' : '0'); } catch (x) {}
+      if (pushSupported()) navigator.serviceWorker.ready.then(function (reg) { return reg.pushManager.getSubscription(); }).then(function (sub) {
+        if (sub) fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: pushBody(sub) });
+      }).catch(function () {});
+    }
+  });
+  (function () {
+    var y0 = 0, x0 = 0, atBottom = false, atTop = false, on = false;
+    document.addEventListener('touchstart', function (e) {
+      var st = document.getElementById('cardstage'); on = !!(st && st.contains(e.target)); if (!on) return;
+      y0 = e.touches[0].clientY; x0 = e.touches[0].clientX;
+      atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 6; atTop = window.scrollY <= 2;
+    }, { passive: true });
+    document.addEventListener('touchend', function (e) {
+      if (!on) return; on = false;
+      var dy = e.changedTouches[0].clientY - y0, dx = e.changedTouches[0].clientX - x0;
+      if (Math.abs(dy) < 70 || Math.abs(dy) < Math.abs(dx) * 1.5) return;
+      if (dy < 0 && atBottom) cardStep(1); else if (dy > 0 && atTop && CARDS.i > 0) cardStep(-1);
+    }, { passive: true });
+  })();
+  function cardsDotBoot() { loadCards(function () { updateCardsDot(); }); }
+
   /* ---------- router ---------- */
   function route() {
     stopReader();
@@ -775,6 +883,7 @@
     if (!hash || hash === 'today') renderToday();
     else if (hash === 'archive') renderArchive();
     else if (hash === 'longreads') renderLongreads();
+    else if ((m = hash.match(/^cards(?:\/(c[a-z0-9]+))?$/))) renderCards(m[1] || null);
     else if ((m = hash.match(/^edition\/(\d+)$/))) renderEdition(parseInt(m[1], 10));
     else if ((m = hash.match(/^longread\/(\d+)$/))) renderLongread(parseInt(m[1], 10));
     else renderToday();
@@ -812,18 +921,20 @@
       pushSet(sub && Notification.permission === 'granted' ? 'Alerts on' : 'Turn on alerts', !!sub);
     }).catch(function () {});
   }
+  function quietPref() { try { return localStorage.getItem('mp-quiet') === '1'; } catch (e) { return false; } }
+  function pushBody(sub) { return JSON.stringify({ subscription: sub.toJSON(), quiet: quietPref() }); }
   function b64u(s) { var p = '='.repeat((4 - s.length % 4) % 4), b = (s + p).replace(/-/g, '+').replace(/_/g, '/'), r = atob(b), o = new Uint8Array(r.length); for (var i = 0; i < r.length; i++) o[i] = r.charCodeAt(i); return o; }
   function pushToggle() {
     pushSet('Working...', true);
     navigator.serviceWorker.ready.then(function (reg) {
       return reg.pushManager.getSubscription().then(function (sub) {
-        if (sub) { return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(sub.toJSON()) }).then(function () { pushSet('Alerts on', true); }); }
+        if (sub) { return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: pushBody(sub) }).then(function () { pushSet('Alerts on', true); }); }
         return Notification.requestPermission().then(function (perm) {
           if (perm !== 'granted') { pushRefresh(); return; }
           return fetch('api/vapid').then(function (r) { return r.json(); }).then(function (k) {
             return reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64u(k.publicKey) });
           }).then(function (sub2) {
-            return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(sub2.toJSON()) });
+            return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: pushBody(sub2) });
           }).then(function (r) { if (!r.ok) throw new Error('save'); pushSet('Alerts on', true); });
         });
       });
