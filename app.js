@@ -825,7 +825,7 @@
       '<div class="cfs-top"><a class="cfs-home" href="#/" aria-label="Back to the paper">&larr; Paper</a><div class="lanes">' + lanes + '</div><button class="cfs-gear" data-act="gear" aria-label="Card settings">&#9881;</button></div>' +
       '<div class="cfs-set" id="cfs-set" hidden><label><input type="checkbox" id="quiet-toggle"' + (quietPref() ? ' checked' : '') + '> Quiet hours <span>11 PM to 7 AM IST, no pushes</span></label><a href="#" class="push-link" data-push="1" hidden></a></div>' +
       '<div class="pager" id="pager"><div class="track" id="track">' + panels + '</div></div>' +
-      '<div class="cfs-arrows"><button class="arw" data-act="prev" aria-label="Previous card">&#8963;</button><span class="cards-pos" id="cpos"></span><button class="arw" data-act="next" aria-label="Next card">&#8964;</button></div>' +
+      '<div class="cfs-arrows"><span class="cards-pos" id="cpos"></span><button class="arw" data-act="prev" aria-label="Previous card"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 15l7-7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="arw" data-act="next" aria-label="Next card"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 9l7 7 7-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button></div>' +
       '<div class="cfs-sheet" id="cfs-sheet" hidden><div class="cfs-sheet-in"><b>What could change this</b><p id="cfs-sheet-p"></p><button class="cbtn" data-act="closemore">Close</button></div></div></div>';
     pushRefresh();
     updateCardsDot();
