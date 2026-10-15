@@ -1,0 +1,9 @@
+{
+  "name": "morning-paper",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/blob": "^2.8.2",
+    "web-push": "^3.6.7"
+  }
+}
