@@ -1,10 +1,35 @@
 import crypto from 'node:crypto';
 import { authed, pushAll, readFeed, writeFeed } from './_lib.js';
+import { put } from '@vercel/blob';
 var LANES = ['markets', 'insurance', 'fintech', 'ai', 'startups'];
 function clean(s, n) { return String(s == null ? '' : s).replace(/\s+/g, ' ').trim().slice(0, n); }
 function firstSentence(t, n) {
   var m = String(t).match(/^(.+?[.!?])(\s|$)/); var s = m ? m[1] : String(t);
   return s.length > n ? s.slice(0, n - 1).trim() + '\u2026' : s;
+}
+function sniff(buf) {
+  if (buf.length > 12 && buf[0] === 0xFF && buf[1] === 0xD8) return 'jpg';
+  if (buf.length > 12 && buf[0] === 0x89 && buf[1] === 0x50 && buf[2] === 0x4E) return 'png';
+  if (buf.length > 12 && buf.slice(0, 4).toString() === 'RIFF' && buf.slice(8, 12).toString() === 'WEBP') return 'webp';
+  return null;
+}
+/* image: {url | data(base64), credit, page}. Fetched or decoded here, checked by magic bytes, stored in private Blob, served by /api/img. */
+async function ingestImage(id, im) {
+  if (!im) return null;
+  var credit = clean(im.credit, 120), page = /^https:\/\//.test(im.page || '') ? String(im.page).slice(0, 500) : '';
+  if (typeof im.src === 'string' && /^photos\/[\w.-]+$/.test(im.src)) return { src: im.src, credit: credit, page: page };
+  var buf;
+  if (im.data) buf = Buffer.from(String(im.data), 'base64');
+  else if (/^https:\/\//.test(im.url || '')) {
+    var r = await fetch(im.url, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; MorningPaper/1.0)', Accept: 'image/*', Referer: im.page || im.url }, redirect: 'follow' });
+    if (!r.ok) throw new Error('image fetch ' + r.status);
+    buf = Buffer.from(await r.arrayBuffer());
+  } else return null;
+  if (!buf || buf.length < 2000 || buf.length > 3500000) throw new Error('image size ' + (buf ? buf.length : 0));
+  var ext = sniff(buf); if (!ext) throw new Error('not a jpg/png/webp');
+  var path = 'img/' + id + '.' + ext;
+  await put(path, buf, { access: 'private', addRandomSuffix: false, allowOverwrite: true, contentType: ext === 'jpg' ? 'image/jpeg' : 'image/' + ext });
+  return { src: 'api/img?p=' + path, credit: credit, page: page };
 }
 export default async function handler(req, res) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'POST only' });
@@ -15,13 +40,20 @@ export default async function handler(req, res) {
     var n0 = feed.length; feed = feed.filter(function (c) { return c.id !== b.remove; }); await writeFeed(feed);
     return res.status(200).json({ removed: n0 - feed.length });
   }
+  if (b.update) {
+    var tgt = feed.find(function (x) { return x.id === b.update; });
+    if (!tgt) return res.status(404).json({ error: 'no such card' });
+    try { var im0 = await ingestImage(tgt.id, b.image); if (im0) tgt.image = im0; } catch (e) { return res.status(422).json({ error: String(e.message || e) }); }
+    await writeFeed(feed);
+    return res.status(200).json({ updated: tgt.id, image: tgt.image });
+  }
   var card = {
     lane: LANES.indexOf(b.lane) >= 0 ? b.lane : 'markets',
     tags: (Array.isArray(b.tags) ? b.tags : []).map(function (t) { return clean(t, 16).toUpperCase(); }).filter(Boolean).slice(0, 5),
     headline: clean(b.headline, 140), body: clean(b.body, 700), why: clean(b.why, 320), watch: clean(b.watch, 260),
     sources: (Array.isArray(b.sources) ? b.sources : []).filter(function (s) { return s && /^https:\/\//.test(s.url || ''); }).map(function (s) { return { name: clean(s.name, 40) || 'Source', url: String(s.url).slice(0, 500) }; }).slice(0, 4),
     kind: clean(b.kind, 40), timeLabel: clean(b.timeLabel, 60),
-    image: b.image && /^(photos\/[\w.-]+|https:\/\/.+)$/.test(b.image.src || '') ? { src: String(b.image.src).slice(0, 400), credit: clean(b.image.credit, 120) } : null,
+    image: null,
     at: clean(b.at, 40)
   };
   if (!card.headline || !card.body || !card.sources.length) return res.status(400).json({ error: 'headline, body and at least one https source required' });
@@ -33,10 +65,13 @@ export default async function handler(req, res) {
   card.id = 'c' + now.toISOString().replace(/[-:T]/g, '').slice(2, 12) + crypto.randomBytes(2).toString('hex');
   card.publishedAt = now.toISOString();
   if (!card.at) card.at = card.publishedAt;
+  var imgWarn = null;
+  try { card.image = await ingestImage(card.id, b.image); } catch (e) { imgWarn = String(e.message || e); }
   feed.push(card);
   feed.sort(function (a, c) { return a.publishedAt < c.publishedAt ? 1 : -1; });
   await writeFeed(feed.slice(0, 200));
-  var out = { id: card.id, pushed: false };
+  var out = { id: card.id, pushed: false, image: card.image ? card.image.src : null };
+  if (imgWarn) out.imageWarning = imgWarn;
   if (b.push !== false) {
     out.push = await pushAll({ title: clean(b.pushTitle, 110) || card.headline, body: clean(b.pushGist, 160) || firstSentence(card.body, 150), url: './?c=' + card.id, tag: card.id }, b.force === true);
     out.pushed = true;
