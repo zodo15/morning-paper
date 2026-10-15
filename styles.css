@@ -322,3 +322,15 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .arw[disabled] { opacity: .3; }
 .cfs-arrows { flex-direction: row; gap: 8px; right: 14px; }
 .cfs .cards-pos { margin: 0 4px 0 0; }
+
+/* card images */
+.ncard-img.bad img { display: none; }
+.ncard-img.plate-ph { height: 28vh; max-height: 190px; min-height: 120px; border: 1px solid var(--ink); border-radius: 6px; background: var(--ink); color: var(--paper); display: flex; flex-direction: column; justify-content: center; align-items: flex-start; padding: 0 20px; position: relative; overflow: hidden; }
+.ncard-img.plate-ph::after { content: ''; position: absolute; right: -30px; top: -30px; width: 140px; height: 140px; border-radius: 50%; background: var(--red); opacity: .9; }
+.ncard-img.plate-ph.lane-insurance::after { background: var(--forest); }
+.ncard-img.plate-ph.lane-fintech::after { background: #B8892B; }
+.ncard-img.plate-ph.lane-ai::after { background: #3C5A8A; }
+.ncard-img.plate-ph.lane-startups::after { background: #7A4B8A; }
+.ph-t { font-family: 'PS Display', serif; font-weight: 900; font-size: 34px; letter-spacing: -.01em; position: relative; z-index: 1; line-height: 1.05; }
+.ph-s { font-family: 'PS Meta', sans-serif; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; margin-top: 8px; opacity: .8; position: relative; z-index: 1; }
+.ncard-img img { background: var(--line); }
