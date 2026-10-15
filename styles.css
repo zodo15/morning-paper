@@ -230,4 +230,4 @@ a.lr-card:hover .t { color: var(--red); }
   .lr-card-meta .t { font-size: 22px; }
   .lr-card > img { width: 128px; height: 84px; }
 }
-.push-link { color: var(--red, #C8372D); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; flex-basis: 100%; }
+.push-link { flex-basis: 100%; cursor: pointer; }
