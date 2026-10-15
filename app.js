@@ -688,8 +688,9 @@
       '<h1 class="h1">' + esc(ed.fact) + '</h1>' +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
       editionBody(D.today, true) + ednavHTML(D.today) +
-      '<div class="footer"><span>The Morning Paper &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span></div></div>';
+      '<div class="footer"><span>The Morning Paper &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span><a href="#" class="push-link" data-push="1" hidden></a></div></div>';
     app.innerHTML = h;
+    pushRefresh();
     wirePlayers(app);
   }
   function renderArchive() {
@@ -799,6 +800,40 @@
     startPacer(secs, label, 0);
   });
   route();
+
+  /* Web Push: one tap to turn alerts on (iOS needs the Home Screen app and a tap). */
+  function pushSupported() { return 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window; }
+  function pushLinks() { return document.querySelectorAll('[data-push]'); }
+  function pushSet(txt, off) { pushLinks().forEach(function (a) { a.hidden = false; a.textContent = txt; a.style.opacity = off ? '.6' : ''; }); }
+  function pushRefresh() {
+    if (!pushSupported()) { var standalone = window.navigator.standalone === false && /iPhone|iPad/.test(navigator.userAgent); if (standalone) pushSet('Add to Home Screen for alerts', true); return; }
+    if (Notification.permission === 'denied') { pushSet('Alerts blocked in settings', true); return; }
+    navigator.serviceWorker.ready.then(function (reg) { return reg.pushManager.getSubscription(); }).then(function (sub) {
+      pushSet(sub && Notification.permission === 'granted' ? 'Alerts on' : 'Turn on alerts', !!sub);
+    }).catch(function () {});
+  }
+  function b64u(s) { var p = '='.repeat((4 - s.length % 4) % 4), b = (s + p).replace(/-/g, '+').replace(/_/g, '/'), r = atob(b), o = new Uint8Array(r.length); for (var i = 0; i < r.length; i++) o[i] = r.charCodeAt(i); return o; }
+  function pushToggle() {
+    pushSet('Working...', true);
+    navigator.serviceWorker.ready.then(function (reg) {
+      return reg.pushManager.getSubscription().then(function (sub) {
+        if (sub) { return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(sub.toJSON()) }).then(function () { pushSet('Alerts on', true); }); }
+        return Notification.requestPermission().then(function (perm) {
+          if (perm !== 'granted') { pushRefresh(); return; }
+          return fetch('api/vapid').then(function (r) { return r.json(); }).then(function (k) {
+            return reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64u(k.publicKey) });
+          }).then(function (sub2) {
+            return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(sub2.toJSON()) });
+          }).then(function (r) { if (!r.ok) throw new Error('save'); pushSet('Alerts on', true); });
+        });
+      });
+    }).catch(function () { pushSet('Could not turn on alerts, tap to retry', false); });
+  }
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('[data-push]');
+    if (!a) return; e.preventDefault(); if (pushSupported()) pushToggle();
+  });
+  if ('serviceWorker' in navigator) navigator.serviceWorker.addEventListener('message', function (e) { if (e.data && e.data.type === 'nav' && e.data.url) { try { var u = new URL(e.data.url); if (u.origin === location.origin) location.hash = u.hash || '#/'; } catch (x) {} } });
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); });
   }
