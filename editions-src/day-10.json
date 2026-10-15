@@ -1,0 +1,654 @@
+{
+  "day": 10,
+  "meta": {
+    "date": "Thursday 15 October 2026",
+    "short": "Thu 15 Oct",
+    "longread": 10
+  },
+  "edition": {
+    "title": "Morning paper, Thursday 15 October 2026",
+    "fact": "Edition 10. India's wholesale inflation hit a series record of 11.39%, US inflation came in at 3.7%, and the Cabinet cleared Fairfax's ₹52,878 crore purchase of IDBI Bank.",
+    "intro": "Two inflation reports landed on the same day, and both came in above forecast. India's September wholesale price index rose 11.39%, and US consumer prices rose 3.7% from a year earlier, which put the odds of a Fed rate hike this month at about 54%. The Sensex fell 252 points, but the more telling move was inside the market: IT added about ₹25,000 crore of value while pharma lost almost the same.",
+    "hero": {
+      "t": "figure",
+      "img": "photos/d10-hero.jpg",
+      "alt": "The Bombay Stock Exchange building in Mumbai",
+      "caption": "The Bombay Stock Exchange, Mumbai. The Sensex closed at 72,781.89 on Wednesday. Photo: Niyantha Shekhar (Wikimedia Commons, CC BY 2.0)."
+    },
+    "concept": {
+      "label": "One concept a day",
+      "name": "The testing effect",
+      "line": "Quizzing yourself on what you read beats reading it again. Roediger and Karpicke's 2006 study found students who tested themselves remembered far more a week later than students who reread."
+    },
+    "groups": [
+      {
+        "heading": "Eight things to know",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "India's September wholesale inflation was 11.39%, up from 9.92% in August, a record in the new data series. US consumer inflation was 3.7%, above the 3.6% forecast, and futures put a Fed hike on 27 to 28 October at about 54% (The Hindu, CNBC).",
+              "The Cabinet approved the sale of 60.72% of IDBI Bank to Fairfax Financial Holdings for ₹52,878 crore, India's largest foreign investment in a financial company. IDBI closed up 8.33% after rising 13% in the day (BusinessLine, Business Today).",
+              "Jio Platforms filed its final prospectus. The ₹1,065 to ₹1,119 issue opens on 21 October and closes on 23 October, and at the top of the band it raises about ₹30,213 crore (The Hindu, CNBC-TV18).",
+              "Canara Bank said IRDAI's proposed 2% cap on credit-life commissions could cost it ₹120 crore to ₹145 crore a year in distribution income. ICICI Prudential Life says it is too early to call the effect (ET BFSI, Mint).",
+              "The RBI's higher daily reserve rule takes effect on 16 October. NBFC shares fell on Wednesday: Shriram Finance about 4%, Bajaj Finance about 2%, LIC Housing Finance 5% (Zeebiz, Upstox).",
+              "Nifty IT rose 1.25% while Nifty Pharma fell 1.47% after the Supreme Court questioned the scope of drug trade-margin controls (ET Now, Business Standard).",
+              "Modal raised $750 million at a $15.75 billion valuation, led by Accel, five months after a $4.65 billion round. Sarvam AI launched a cheaper speech model (Modal, Axios, ET EnterpriseAI).",
+              "One Concept a Day: the testing effect. Roediger and Karpicke's 2006 experiments show why quizzing yourself beats rereading."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Inside:</strong> Front page / What's new radar / Markets / Top movers / Startups and funding / Global / One Concept a Day / Business teardown / Seven-day calendar / Notes."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Two inflation reports, one message: rates are not coming down soon",
+            "kicker": "Economy, lead"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://en.wikipedia.org/wiki/Wholesale_price_index\" target=\"_blank\" rel=\"noopener\">WPI</a> (the wholesale price index, which tracks what traders pay each other before retail) inflation was 11.39% in September, against 9.92% in August. The Hindu reports it as a record in the new series (base year 2022-23, data from April 2024) and a 49-month high on the old series. ICRA, the rating agency, said core WPI, which strips out food and fuel, accounted for more than half of the 147 basis point rise (BusinessLine). That matters because core prices are the stubborn part, not the volatile part."
+          },
+          {
+            "t": "p",
+            "html": "The same day the US <a href=\"https://en.wikipedia.org/wiki/Consumer_price_index\" target=\"_blank\" rel=\"noopener\">CPI</a> (the consumer price index, the main US inflation gauge) showed headline inflation at 3.7% over twelve months against a 3.6% forecast and 3.4% in August. Core inflation, without food and energy, was 2.6% against 2.5% expected. Energy rose 5.2% in the month and gasoline 9.1%, about half of the headline rise (CNBC). The cause is oil: the war between the US and Iran, which began in late February, has kept Brent near $106 to $107."
+          },
+          {
+            "t": "p",
+            "html": "After the print, futures priced about a 54% chance that the Federal Reserve raises rates at its 27 to 28 October meeting, according to the CME FedWatch tool (CNBC). Geojit's Vinod Nair told BusinessLine that the WPI figure pushed yields up and revived concerns about tighter policy. The rupee still gained to about 95.15 to 95.17 per dollar, its fourth gain in a row, after RBI steps to redirect oil-related dollar demand and cap derivative trades without an underlying exposure at $5 million."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Higher wholesale prices feed into retail prices with a lag, and a possible US hike keeps the dollar strong. Both push loan rates and bond yields up, which is the cost your lenders and insurers fund themselves at."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindu.com/business/Economy/september-wpi-inflation-rises-to-1139-as-food-fuel-and-manufactured-goods-prices-increase/article71582698.ece\" target=\"_blank\" rel=\"noopener\">The Hindu on WPI</a> / <a href=\"https://www.thehindubusinessline.com/markets/wpi-shock-and-crude-keep-rally-in-check/article71583911.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC on US CPI</a>."
+          },
+          {
+            "t": "story",
+            "title": "IDBI Bank gets a buyer: the Cabinet clears Fairfax at ₹52,878 crore",
+            "kicker": "Banking, Brewing"
+          },
+          {
+            "t": "p",
+            "html": "The CCEA (the Cabinet Committee on Economic Affairs, which approves large state decisions) approved Fairfax Financial Holdings, through its Canadian unit, as the strategic buyer of 60.72% of <a href=\"https://en.wikipedia.org/wiki/IDBI_Bank\" target=\"_blank\" rel=\"noopener\">IDBI Bank</a> (a bank the government and LIC control) for ₹52,878 crore. The Government of India sells 30.48% and <a href=\"https://en.wikipedia.org/wiki/Life_Insurance_Corporation\" target=\"_blank\" rel=\"noopener\">LIC</a> (India's state-owned life insurer) sells 30.24%. After the sale the government keeps 15% and LIC 19%. The bank must still pass the RBI's fit and proper assessment of the buyer (BusinessLine)."
+          },
+          {
+            "t": "p",
+            "html": "IDBI shares rose as much as 13% to ₹93.62 and closed up 8.33% at the 3:30 pm snapshot. CSB Bank, in which Fairfax holds about 40%, rose 5.7% to ₹326 (Business Today). A Bloomberg report quoted by Business Today says the price is ₹81 a share, an open offer for other shareholders will follow, and CSB must be merged into IDBI within two years. That detail is Bloomberg's, not the Cabinet's."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Brewing.</strong> <strong>Chain:</strong> Cabinet approval, then the RBI fit and proper review, then an open offer, then a merger of CSB Bank into IDBI. <strong>Watch:</strong> the RBI's decision and the open offer's size and price. <strong>Proven wrong if:</strong> the RBI declines to clear the buyer or the open offer is not made."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> This is the largest foreign investment in an Indian financial company, and the buyer already owns a bank. It shows what a government exit from a state-run lender looks like after years of delay."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/money-and-banking/cabinet-approves-sale-of-6072-stake-in-idbi-bank-to-fairfax-for-52878-crore/article71583485.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.businesstoday.in/markets/stocks/story/idbi-bank-shares-jump-13-csb-bank-also-gain-6-after-fairfax-approval-heres-why-561592-2026-10-14\" target=\"_blank\" rel=\"noopener\">Business Today</a>."
+          },
+          {
+            "t": "story",
+            "title": "Jio Platforms files its final prospectus: 21 to 23 October, about ₹30,213 crore",
+            "kicker": "IPO"
+          },
+          {
+            "t": "p",
+            "html": "Jio Platforms filed its <a href=\"https://en.wikipedia.org/wiki/Red_herring_prospectus\" target=\"_blank\" rel=\"noopener\">RHP</a> (the red herring prospectus, the final offer document with dates and price band) on Wednesday. Anchor bidding, where large institutions commit a day before the public can, is on Monday 19 October. The issue opens on Wednesday 21 October and closes on Friday 23 October. The price band is ₹1,065 to ₹1,119, the issue is a fresh issue of up to 27 crore shares of ₹10 face value with no sale by existing shareholders, and the minimum bid is 12 shares, ₹13,428 at the top of the band (The Hindu, CNBC-TV18)."
+          },
+          {
+            "t": "p",
+            "html": "Reservations: up to ₹500 crore for employees and up to ₹2,500 crore for shareholders of Reliance Industries, the parent. Employees get a ₹54 discount per share. At the top of the band, 27 crore shares come to about ₹30,213 crore by simple multiplication, about 8% above Hyundai Motor India's ₹27,858.75 crore issue in 2024 and about 47% above LIC's ₹20,557.23 crore. The draft prospectus was filed on 19 June and the regulator SEBI's observation letter followed on 28 August. Jio reports 524 million mobile subscribers and over 27 million fixed broadband customers."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> At this size the issue pulls cash out of the whole market for three days, and its subscription numbers will be read as a verdict on large Indian listings."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindu.com/business/markets/reliances-jio-platforms-files-final-ipo-prospectus-offer-to-open-on-october-21/article71584837.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a> / <a href=\"https://www.cnbctv18.com/market/jio-ipo-rhp-filed-opening-closing-date-timeline-ril-shareholders-quota-eligible-employees-size-20011969.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a> / <a href=\"https://www.thehindubusinessline.com/markets/jio-platforms-ipo-issue-opens-on-october-21-anchor-bidding-on-october-19/article71584232.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-to-open-on-october-21-10-things-to-know-about-the-rs-30000-crore-mega-issue/articleshow/134945374.cms\" target=\"_blank\" rel=\"noopener\">Economic Times</a>."
+          },
+          {
+            "t": "story",
+            "title": "Credit life is the first line IRDAI's draft would hit, and lenders are counting the cost",
+            "kicker": "Insurance, Brewing"
+          },
+          {
+            "t": "p",
+            "html": "Canara Bank's chief executive Brajesh Singh told ET BFSI that the draft norms would cost the bank ₹120 crore to ₹145 crore a year in life insurance distribution income, and up to ₹200 crore in total, about 2% of its FY26 fee income of ₹9,649 crore. Its FY26 bancassurance income was ₹639.20 crore, of which life was ₹457.79 crore and non-life ₹91.53 crore. Its September quarter profit rose 8.4% to ₹5,175 crore."
+          },
+          {
+            "t": "p",
+            "html": "The reason credit life is the target: <a href=\"https://irdai.gov.in/\" target=\"_blank\" rel=\"noopener\">IRDAI</a> (India's insurance regulator)'s paper proposes a 2% commission cap on single-premium credit life sold with loans. Mint reports ICICI Prudential Life's own figures: the average commission in FY25 was 22%, and effective group credit life payouts through NBFCs were about 45%. IRDAI's paper calls the cover near mandatory in practice, while ICICI Life says it is voluntary. Management said it is \"a little too early to call\" the effect. Credit life is about a third of its protection business, and its annualised premium has stayed at ₹602 crore to ₹619 crore for three fiscal years. Comments are due on 25 October."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Brewing.</strong> <strong>Chain:</strong> a 2% cap, then lenders lose fee income, then lenders push other products or lower loan-linked cover. <strong>Watch:</strong> more lenders' disclosures in the September quarter calls, and the comment round closing on 25 October. <strong>Proven wrong if:</strong> the final rules drop or raise the cap, or lenders report no change in fee income."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> You work in distribution, so this is your own arithmetic: the draft does not cut all commissions evenly. It targets a product sold at the bank counter, where the payout is large and the customer rarely asks for it."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://bfsi.economictimes.indiatimes.com/articles/canara-bank-sees-up-to-rs-200-cr-hit-to-distribution-income-under-proposed-irdai-norms/134944221\" target=\"_blank\" rel=\"noopener\">ET BFSI on Canara</a> / <a href=\"https://www.livemint.com/companies/news/icici-life-defends-credit-cover-as-irdai-weighs-steep-commission-cut-11791897611703.html\" target=\"_blank\" rel=\"noopener\">Mint on ICICI Life</a> / <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/59734/IRDAI-issued-a-Public-Consultation-Paper-on-Recalibrating-Economics-of-Insurance-Distribution-September242026.pdf\" target=\"_blank\" rel=\"noopener\">IRDAI consultation paper</a>."
+          },
+          {
+            "t": "story",
+            "title": "The RBI's tighter reserve rule starts on 16 October, and NBFCs sold off ahead of it",
+            "kicker": "Banking, Brewing"
+          },
+          {
+            "t": "p",
+            "html": "On 9 October the RBI raised the minimum daily <a href=\"https://en.wikipedia.org/wiki/Cash_reserve_ratio\" target=\"_blank\" rel=\"noopener\">CRR</a> (the cash reserve ratio, the share of deposits banks must park with the RBI without interest) maintenance to 99% from 90%, effective from the fortnight starting 16 October. The required ratio stays at 3% of deposits. Banks must now hold 99% of the requirement every day instead of meeting it on average, which removes day-to-day flexibility. Business Standard notes the last time the requirement was this tight was in July 2013. The RBI also announced a ₹25,000 crore bond sale on 13 October."
+          },
+          {
+            "t": "p",
+            "html": "Zeebiz reports the NBFC selloff: LIC Housing Finance fell 5.13%, Chola 3.73%, L&amp;T Finance 3.36%, Tata Capital 3.28% and HDB Financial 4.02%. It cites a Jefferies estimate that balances could rise 5% to 10%, draining ₹40,000 crore to ₹80,000 crore and adding 1 to 2 basis points to funding costs. Shriram Finance fell about 4%, and CNBC-TV18 adds that part of this was profit-booking after Monday's 6% jump on the report of a Japanese bank's interest."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Brewing.</strong> <strong>Chain:</strong> a higher daily floor, then tighter bank liquidity, then higher overnight rates, then dearer funding for NBFCs. <strong>Watch:</strong> overnight rates against the repo rate in the first week of the new fortnight. <strong>Proven wrong if:</strong> overnight rates stay at the repo rate because banks park the extra cash without strain."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Lenders that borrow from banks pay more when banks have less spare cash. The market priced that on Wednesday."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/economy/news/rbi-tightens-liquidity-after-rate-rise-raises-daily-crr-maintenance-to-99-126100901382_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard on the RBI order</a> / <a href=\"https://www.zeebiz.com/market-news/news-nbfc-stocks-fall-why-are-bajaj-finance-shriram-finance-lic-housing-others-shares-falling-key-reasons-explained-403932\" target=\"_blank\" rel=\"noopener\">Zeebiz</a> / <a href=\"https://www.cnbctv18.com/market/closing-bell-sensex-nifty-snap-two-day-rally-as-banks-slide-rupee-extends-gains-20011767.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>."
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, last 48 hours",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Every item is dated inside its source, and claims by the company are marked as the company's."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Bulbul V4 Flash, Sarvam AI",
+                "detail": "14 Oct. A text-to-speech model for Indian languages. Sarvam says it is a smaller, cheaper model trained on more than 400 billion audio tokens, with lower delay for live voice calls. The headline claim is 33% lower cost, which is Sarvam's own."
+              },
+              {
+                "n": "2",
+                "title": "Singapore office and government agreement, Anthropic",
+                "detail": "14 Oct. Anthropic opened its fifth Asia-Pacific office and signed an MOU (memorandum of understanding) with Singapore's digital ministry on AI safety, model evaluation and adoption research. It names GovTech Singapore, Grab and DBS as Claude users."
+              },
+              {
+                "n": "3",
+                "title": "Sandboxes virtual machines, Modal",
+                "detail": "14 Oct. Modal says virtual machines inside its Sandboxes product are now generally available, with multi-node training launched recently. This is Modal's own announcement."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://enterpriseai.economictimes.indiatimes.com/news/industry/sarvam-ai-launches-bulbul-v4-flash-text-to-speech-model-at-33-lower-cost/134930718\" target=\"_blank\" rel=\"noopener\">ET EnterpriseAI on Sarvam</a> / <a href=\"https://www.anthropic.com/news/singapore-office-opening\" target=\"_blank\" rel=\"noopener\">Anthropic</a> / <a href=\"https://modal.com/blog/1-billion-annualized-run-rate-series-d\" target=\"_blank\" rel=\"noopener\">Modal</a>."
+          },
+          {
+            "t": "p",
+            "html": "Why the speech model matters here: voice is how most Indian customers reach a lender or an insurer, and cost per call decides whether a bot replaces a call centre. A cheaper model in Hindi and other Indian languages lowers that price."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Where things stand",
+            "kicker": "Wednesday's close, 14 October"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Indices",
+                "v": "Sensex (BSE's 30-stock index) -251.89, 0.34%, to 72,781.89. Nifty 50 (NSE's 50-stock index) -99.25, 0.44%, to 22,622.70. Bank Nifty -165.05, 0.30%, to 55,316 (ET Now, CNBC-TV18)."
+              },
+              {
+                "k": "Why it fell",
+                "v": "Banks and insurers fell and pharma dropped, while IT and FMCG rose. WPI at 11.39% and crude above $107 on Gulf attacks pushed yields up (BusinessLine)."
+              },
+              {
+                "k": "Breadth",
+                "v": "Nifty Midcap 100 fell 0.08% to 59,409.10 and Nifty Smallcap 100 fell 0.32% to 19,384.80 (ET Now)."
+              },
+              {
+                "k": "Volatility",
+                "v": "India VIX, the index of expected 30-day swings, peaked at 15.02 (BusinessLine)."
+              },
+              {
+                "k": "Rupee and crude",
+                "v": "Rupee about 95.15 to 95.17 per dollar, up 1.7% in a week from 96.78 on 7 October. Brent about $106 to $107 (Business Standard, BusinessLine)."
+              },
+              {
+                "k": "Foreign flows",
+                "v": "Foreign portfolio investors sold ₹1,857 crore and domestic institutions bought ₹2,670 crore on Wednesday (CNBC-TV18)."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now close</a> / <a href=\"https://www.cnbctv18.com/market/closing-bell-sensex-nifty-snap-two-day-rally-as-banks-slide-rupee-extends-gains-20011767.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 closing bell</a> / <a href=\"https://www.thehindubusinessline.com/markets/wpi-shock-and-crude-keep-rally-in-check/article71583911.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.business-standard.com/markets/news/it-s-25k-crore-market-value-gain-mirrors-pharma-s-loss-as-nifty-falls-126101401231_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.cnbctv18.com/market/fiis-sell-rs1857-crore-of-indian-shares-diis-buy-rs2670-crore-as-market-ends-lower-20011950.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 flows</a>."
+          },
+          {
+            "t": "p",
+            "html": "The sector picture is the more useful read. Business Standard counts IT adding ₹25,029 crore in market value and pharma losing ₹25,169 crore, so the index fall was a rotation, not a flight. IT and FMCG held up while financials and pharma carried the loss. The pharma reason: the Supreme Court questioned the scope of trade-margin controls on medicine prices, which keeps price regulation in focus, in the words of Motilal Oswal's Siddhartha Khemka."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 720 468\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Nifty sector index moves on Wednesday 14 October 2026, percent change at the close\"><line x1=\"130\" x2=\"130\" y1=\"10\" y2=\"406\" stroke=\"#999\"></line><g><text x=\"120\" y=\"38\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Nifty IT</text><rect x=\"130\" y=\"18\" width=\"390.625\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"528.625\" y=\"39\" font-size=\"18\" fill=\"#333\">+1.25%</text></g><g><text x=\"120\" y=\"82\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">FMCG</text><rect x=\"130\" y=\"62\" width=\"293.74999999999994\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"431.74999999999994\" y=\"83\" font-size=\"18\" fill=\"#333\">+0.94%</text></g><g><text x=\"120\" y=\"126\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Media</text><rect x=\"130\" y=\"106\" width=\"184.37499999999997\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"322.375\" y=\"127\" font-size=\"18\" fill=\"#333\">+0.59%</text></g><g><text x=\"120\" y=\"170\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">PSU Bank</text><rect x=\"130\" y=\"150\" width=\"43.75000000000001\" height=\"28\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"181.75\" y=\"171\" font-size=\"18\" fill=\"#333\">+0.14%</text></g><g><text x=\"120\" y=\"214\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Private Bank</text><rect x=\"130\" y=\"194\" width=\"106.25\" height=\"28\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"244.25\" y=\"215\" font-size=\"18\" fill=\"#333\">-0.34%</text></g><g><text x=\"120\" y=\"258\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Metal</text><rect x=\"130\" y=\"238\" width=\"209.375\" height=\"28\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"347.375\" y=\"259\" font-size=\"18\" fill=\"#333\">-0.67%</text></g><g><text x=\"120\" y=\"302\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Realty</text><rect x=\"130\" y=\"282\" width=\"271.875\" height=\"28\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"409.875\" y=\"303\" font-size=\"18\" fill=\"#333\">-0.87%</text></g><g><text x=\"120\" y=\"346\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Auto</text><rect x=\"130\" y=\"326\" width=\"293.74999999999994\" height=\"28\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"431.74999999999994\" y=\"347\" font-size=\"18\" fill=\"#333\">-0.94%</text></g><g><text x=\"120\" y=\"390\" text-anchor=\"end\" font-size=\"18\" fill=\"#222\">Pharma</text><rect x=\"130\" y=\"370\" width=\"459.375\" height=\"28\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"597.375\" y=\"391\" font-size=\"18\" fill=\"#333\">-1.47%</text></g><text x=\"0\" y=\"436\" font-size=\"17\" fill=\"#555\">Nifty sector indices, change at the close of Wed 14 Oct 2026, %.</text><text x=\"0\" y=\"458\" font-size=\"17\" fill=\"#555\">Source: ET Now. Closing, not intraday.</text></svg>"
+          },
+          {
+            "t": "p",
+            "html": "Midcaps fell by less than a tenth of a percent while smallcaps fell by a third, so the weakness sat in financials and the largest names rather than across the market."
+          }
+        ]
+      },
+      {
+        "heading": "Top movers",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Wednesday's biggest moves, with the cause where a source names one. Facts, not advice."
+          },
+          {
+            "t": "story",
+            "title": "Large caps",
+            "kicker": "Nifty 50"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Gainers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Nestl%C3%A9_India\" target=\"_blank\" rel=\"noopener\">Nestlé India</a></strong>, up 3.69% to ₹1,383.20. No confirmed catalyst for the move. It reports September quarter results today. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>, <a href=\"https://hdfcsky.com/news/top-gainers-losers-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Tata_Consumer_Products\" target=\"_blank\" rel=\"noopener\">Tata Consumer Products</a></strong>, up 2.91% to ₹987.90. No confirmed catalyst. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>, <a href=\"https://hdfcsky.com/news/top-gainers-losers-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Infosys\" target=\"_blank\" rel=\"noopener\">Infosys</a></strong>, up 2.44% to ₹1,088. Part of the IT rise: Nifty IT added ₹25,029 crore in value. Samco's Om Mehra says the index is still below 32,000 and the main trend remains down. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>, <a href=\"https://www.business-standard.com/markets/news/it-s-25k-crore-market-value-gain-mirrors-pharma-s-loss-as-nifty-falls-126101401231_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Tata_Consultancy_Services\" target=\"_blank\" rel=\"noopener\">TCS</a></strong>, up 2.11% to ₹2,304.90. Same IT rise. No company-specific catalyst confirmed. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>, <a href=\"https://hdfcsky.com/news/top-gainers-losers-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Coal_India\" target=\"_blank\" rel=\"noopener\">Coal India</a></strong>, up 2.08% to ₹417. No confirmed catalyst. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Losers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Shriram_Finance\" target=\"_blank\" rel=\"noopener\">Shriram Finance</a></strong>, down about 4% to about ₹949. Reason: the NBFC selloff on the RBI reserve rule, plus profit-booking after Monday's jump. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>, <a href=\"https://www.zeebiz.com/market-news/news-nbfc-stocks-fall-why-are-bajaj-finance-shriram-finance-lic-housing-others-shares-falling-key-reasons-explained-403932\" target=\"_blank\" rel=\"noopener\">Zeebiz</a>, <a href=\"https://www.cnbctv18.com/market/closing-bell-sensex-nifty-snap-two-day-rally-as-banks-slide-rupee-extends-gains-20011767.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/HDFC_Life\" target=\"_blank\" rel=\"noopener\">HDFC Life</a></strong>, down 2.85%. No confirmed catalyst. BusinessLine says insurance names took the sharpest Nifty losses by midday. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>, <a href=\"https://www.thehindubusinessline.com/markets/early-gains-fade-by-afternoon-insurance-pharma-stocks-pull-indices-lower/article71582765.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Bajaj_Finance\" target=\"_blank\" rel=\"noopener\">Bajaj Finance</a></strong>, down 2.16%. Reason: the NBFC selloff on the reserve rule. Zeebiz puts the fall at 2.52%. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>, <a href=\"https://www.zeebiz.com/market-news/news-nbfc-stocks-fall-why-are-bajaj-finance-shriram-finance-lic-housing-others-shares-falling-key-reasons-explained-403932\" target=\"_blank\" rel=\"noopener\">Zeebiz</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Mahindra_%26_Mahindra\" target=\"_blank\" rel=\"noopener\">Mahindra &amp; Mahindra</a></strong>, down 2.47%. No confirmed catalyst. Nifty Auto fell 0.94%. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/SBI_Life_Insurance_Company\" target=\"_blank\" rel=\"noopener\">SBI Life Insurance</a></strong>, down 2.20%. No confirmed catalyst. (<a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-14-shriram-finance-falls-4-hdfc-lic-down-3-nestle-surges-4-check-list/article-201847/\" target=\"_blank\" rel=\"noopener\">Upstox</a>)"
+          },
+          {
+            "t": "story",
+            "title": "Mid caps",
+            "kicker": "Nifty Midcap 100"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Gainers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/JSW_Energy\" target=\"_blank\" rel=\"noopener\">JSW Energy</a></strong>, up 6.47%; closed at ₹490 on BSE. No confirmed company-specific catalyst. Energy Headlines reports a wider rise in power and clean-energy stocks, with Tata Power up 2.17%. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>, <a href=\"https://energyheadlines.com/green-energy-stocks-rally-up-to-6-52-despite-weakness-in-indian-benchmark-indices-14-october-2026/\" target=\"_blank\" rel=\"noopener\">Energy Headlines</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Bharat_Heavy_Electricals\" target=\"_blank\" rel=\"noopener\">BHEL</a></strong>, up 4.89% to a record high. Reason: September quarter results. Net profit was ₹810 crore, up 120% from ₹368 crore, and standalone revenue rose 24% to ₹9,300 crore. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>, <a href=\"https://www.cnbctv18.com/market/closing-bell-sensex-nifty-snap-two-day-rally-as-banks-slide-rupee-extends-gains-20011767.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>NLC India</strong>, up 4.79%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>PI Industries</strong>, up 4.17%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Havells\" target=\"_blank\" rel=\"noopener\">Havells India</a></strong>, up 3.50%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Losers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Meesho\" target=\"_blank\" rel=\"noopener\">Meesho</a></strong>, down 5.85%. Reason per CNBC-TV18: traders booked profits after optimism about its festive sale. Today's teardown is on Meesho. (<a href=\"https://www.cnbctv18.com/market/closing-bell-sensex-nifty-snap-two-day-rally-as-banks-slide-rupee-extends-gains-20011767.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>, <a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/LIC_Housing_Finance\" target=\"_blank\" rel=\"noopener\">LIC Housing Finance</a></strong>, down 5.14%. Reason: the NBFC selloff on the reserve rule. (<a href=\"https://www.zeebiz.com/market-news/news-nbfc-stocks-fall-why-are-bajaj-finance-shriram-finance-lic-housing-others-shares-falling-key-reasons-explained-403932\" target=\"_blank\" rel=\"noopener\">Zeebiz</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>L&amp;T Finance</strong>, down 3.29%. Reason: the same NBFC selloff. It reports results on Thursday. (<a href=\"https://www.zeebiz.com/market-news/news-nbfc-stocks-fall-why-are-bajaj-finance-shriram-finance-lic-housing-others-shares-falling-key-reasons-explained-403932\" target=\"_blank\" rel=\"noopener\">Zeebiz</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Exide_Industries\" target=\"_blank\" rel=\"noopener\">Exide Industries</a></strong>, down 3.16%, closed at ₹383. No confirmed catalyst. (<a href=\"https://energyheadlines.com/green-energy-stocks-rally-up-to-6-52-despite-weakness-in-indian-benchmark-indices-14-october-2026/\" target=\"_blank\" rel=\"noopener\">Energy Headlines</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Max_Financial_Services\" target=\"_blank\" rel=\"noopener\">Max Financial Services</a></strong>, down 3.13%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "story",
+            "title": "Small caps",
+            "kicker": "Nifty Smallcap 100 and smaller"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Gainers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Vedanta_Limited\" target=\"_blank\" rel=\"noopener\">Vedanta Power</a></strong>, up 11.23% to ₹33.67. Reason per CNBC-TV18: Vedanta group stocks rebounded. Mint adds volume more than tripled after a five-day fall, with a 52-week low of ₹29.92 on 13 October. The business came out of a demerger of Vedanta with a record date of 1 May 2026. (<a href=\"https://www.livemint.com/market/stock-market-news/vedanta-power-shares-jump-13-today-after-a-5-day-loss-can-a-rebound-in-the-stock-sustain-tech-experts-decode-11791956815471.html\" target=\"_blank\" rel=\"noopener\">Mint</a>, <a href=\"https://www.cnbctv18.com/market/closing-bell-sensex-nifty-snap-two-day-rally-as-banks-slide-rupee-extends-gains-20011767.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/IDBI_Bank\" target=\"_blank\" rel=\"noopener\">IDBI Bank</a></strong>, up 8.33% to ₹89.85 at 3:30 pm. Reason: the Cabinet approved the Fairfax sale. See the front page. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://www.businesstoday.in/markets/stocks/story/idbi-bank-shares-jump-13-csb-bank-also-gain-6-after-fairfax-approval-heres-why-561592-2026-10-14\" target=\"_blank\" rel=\"noopener\">Business Today</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Aegis Logistics</strong>, up 6.68%. Reason per its filing as reported by ET Now: a step-down subsidiary agreed to buy about 89.8% of Tristar Holdings for $809 million of equity value. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Tata_Elxsi\" target=\"_blank\" rel=\"noopener\">Tata Elxsi</a></strong>, up 5.73%. Reason: its September quarter results. Profit after tax was ₹170.2 crore against ₹154.81 crore a year earlier, up 10%, and nearly flat on the June quarter's ₹170.6 crore. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Chennai_Petroleum_Corporation\" target=\"_blank\" rel=\"noopener\">Chennai Petroleum</a></strong>, up 5.70%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Losers</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Sterlite_Technologies\" target=\"_blank\" rel=\"noopener\">Sterlite Technologies</a></strong>, down 4.30%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Gallantt Ispat</strong>, down 3.76%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/City_Union_Bank\" target=\"_blank\" rel=\"noopener\">City Union Bank</a></strong>, down 3.72%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>IIFL Finance</strong>, down 3.37%. No confirmed catalyst. It is an NBFC, the group that fell on the reserve rule. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Welspun_Corp\" target=\"_blank\" rel=\"noopener\">Welspun Corp</a></strong>, down 3.35%. No confirmed catalyst. (<a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-14-sensex-falls-251-pts-nifty-below-22650-check-top-gainers-and-losers-article-156338583\" target=\"_blank\" rel=\"noopener\">ET Now</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Most traded by shares, all of NSE, 3:30 pm</strong>"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/PC_Jeweller\" target=\"_blank\" rel=\"noopener\">PC Jeweller</a></strong>, 41.28 crore shares, up 2.34% to ₹14.43. No confirmed catalyst. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Vedanta Power</strong>, 25.68 crore shares, up 11.23% to ₹33.67. See gainers above. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>, <a href=\"https://www.livemint.com/market/stock-market-news/vedanta-power-shares-jump-13-today-after-a-5-day-loss-can-a-rebound-in-the-stock-sustain-tech-experts-decode-11791956815471.html\" target=\"_blank\" rel=\"noopener\">Mint</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong><a href=\"https://en.wikipedia.org/wiki/Vodafone_Idea\" target=\"_blank\" rel=\"noopener\">Vodafone Idea</a></strong>, 19.15 crore shares, down 1.02% to ₹12.67. No confirmed catalyst. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>IDBI Bank</strong>, 14.86 crore shares, up 8.33% to ₹89.85. See gainers above. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>)"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Moneyview</strong>, 14.00 crore shares, up 0.54% to ₹61.99. No confirmed catalyst. Yesterday's teardown covered this lender. (<a href=\"https://hdfcsky.com/news/most-active-stocks-october-14-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>)"
+          }
+        ]
+      },
+      {
+        "heading": "Startups and funding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Modal raises $750 million at $15.75 billion, with sandboxes for AI agents a $300 million line on their own",
+            "kicker": "AI infrastructure, funding"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://modal.com/blog/1-billion-annualized-run-rate-series-d\" target=\"_blank\" rel=\"noopener\">Modal</a> (a company that rents out computing for AI code and models) raised a $750 million Series D at a $15.75 billion valuation after the investment, led by Accel with Kleiner Perkins joining. In May it raised $355 million at $4.65 billion. Founder Erik Bernhardsson says usage has tripled since the May round, annual growth is over 15 times, and annualised run rate, the latest month's revenue multiplied by twelve, has passed $1 billion. These are Modal's own figures."
+          },
+          {
+            "t": "p",
+            "html": "The reason for the jump: Sandboxes, launched in 2023 when customers started using AI to generate code, is now a $300 million run-rate product by itself, with close to 3 billion sandboxes started, per Modal. Named customers include DoorDash, Cognition, Ramp, Runway and Linear."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The pattern for builders: once AI writes code, that code has to run somewhere isolated."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://modal.com/blog/1-billion-annualized-run-rate-series-d\" target=\"_blank\" rel=\"noopener\">Modal blog</a> / <a href=\"https://www.axios.com/pro/enterprise-software-deals/2026/10/14/modal-accel-ai-infrastructure\" target=\"_blank\" rel=\"noopener\">Axios</a> / <a href=\"https://modal.com/blog/modal-series-c\" target=\"_blank\" rel=\"noopener\">Modal Series C</a>."
+          },
+          {
+            "t": "story",
+            "title": "Scimplify raises $25 million to make specialty chemicals in two months instead of a year",
+            "kicker": "India, deep tech"
+          },
+          {
+            "t": "p",
+            "html": "Bengaluru's Scimplify, founded in 2023, raised $25 million in an all-equity round led by Hitachi Ventures, with customers Henkel and Teknor Apex joining, and existing investors Accel India, Bertelsmann India Investments, Omnivore and 3one4 Capital taking part. Total equity funding is $80 million. Co-founder Sachin Santhosh says some orders have gone from customer requirements to finished material in two months. That timing is the founder's account."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> It is a bet that Western manufacturers will pay to reduce reliance on Chinese suppliers, and that software can compress the 12 to 18 months it takes to qualify a new chemical."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>."
+          },
+          {
+            "t": "story",
+            "title": "Zenzap raises $44 million for a work messenger with AI built in",
+            "kicker": "Global, funding"
+          },
+          {
+            "t": "p",
+            "html": "Founder Guy Weiss raised $44 million from investors including Bessemer and Lightspeed, in the first fundraise of his career."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Businesses already run staff coordination on WhatsApp, which leaves company data outside IT's control. Zenzap sells the same habit inside company rules."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Global",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The US inflation print is on the front page. The rest of the global calendar is Thursday's UK GDP, US producer prices and US retail sales (BusinessLine), and on Friday Fed Chair Warsh speaks at the IMF meetings in Bangkok. After a 3.7% CPI, those speeches carry more weight than they would have last week."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/wpi-shock-and-crude-keep-rally-in-check/article71583911.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC on US CPI</a>."
+          }
+        ]
+      },
+      {
+        "heading": "One Concept a Day",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Quizzing yourself beats rereading: the testing effect",
+            "kicker": "Learning science, the testing effect"
+          },
+          {
+            "t": "p",
+            "html": "<strong>The idea.</strong> The <a href=\"https://en.wikipedia.org/wiki/Testing_effect\" target=\"_blank\" rel=\"noopener\">testing effect</a> (the finding that recalling something strengthens memory more than studying it again) says that trying to recall material from memory teaches you more than reading it again, even when nobody gives you the answers."
+          },
+          {
+            "t": "p",
+            "html": "<strong>What they found.</strong> Henry Roediger and Jeffrey Karpicke at Washington University in St. Louis, in <em>Psychological Science</em> in 2006, had students study science passages and then either restudy them or take free-recall tests with no feedback. Five minutes later, restudying won. Two days and a week later, the tested students remembered substantially more. In a second experiment, the tested group read the material 3.4 times on average and recalled 61% a week later. The group that only reread averaged 14.2 readings and recalled 40%."
+          },
+          {
+            "t": "p",
+            "html": "<strong>The story.</strong> The twist is confidence. The students who reread felt surer they would remember, and they remembered less. Cramming feels productive because the material is fresh on the page, and the test a week later is what shows it was not."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Use it today.</strong> After you read a long document, such as IRDAI's consultation paper, close it and write the three numbers and the one reason you remember. Check against the page. Do it again tomorrow."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://pubmed.ncbi.nlm.nih.gov/16507066/\" target=\"_blank\" rel=\"noopener\">Roediger and Karpicke, Psychological Science 17(3), 2006: abstract</a> / <a href=\"https://www.psychologicalscience.org/observer/test-enhanced-learning\" target=\"_blank\" rel=\"noopener\">APS Observer summary with the second experiment figures</a>."
+          },
+          {
+            "t": "figure",
+            "img": "photos/d10-chalk.jpg",
+            "alt": "Chalk drawn arrows on a blackboard",
+            "caption": "Photo: Roman Mager (Unsplash, CC0)."
+          }
+        ]
+      },
+      {
+        "heading": "Business teardown",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Today's teardown is Meesho, the marketplace that charges sellers no commission and still reported ₹12,626 crore of revenue in FY26. Its shares fell 5.85% on Wednesday as traders took profit after its festive sale. Read it here: <a href=\"#/longread/10\">Meesho sells no commission</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Seven-day calendar, 15 to 21 October",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "15",
+                "title": "Thu: Wipro, Tech Mahindra, Nestlé India, Jio Financial Services, Polycab",
+                "detail": "Second quarter results from Wipro, Tech Mahindra, Nestlé India, Jio Financial Services and Polycab (BusinessLine). UK GDP, US producer prices and US retail sales are also due."
+              },
+              {
+                "n": "16",
+                "title": "Fri: the RBI reserve rule starts; Fed Chair Warsh speaks",
+                "detail": "The 99% daily reserve requirement applies from the fortnight starting today (Business Standard). Fed Chair Warsh speaks at the IMF meetings in Bangkok (BusinessLine)."
+              },
+              {
+                "n": "17",
+                "title": "Sat: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "18",
+                "title": "Sun: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "19",
+                "title": "Mon: Jio anchor bidding",
+                "detail": "Large institutions bid for Jio Platforms shares a day ahead of the public (BusinessLine)."
+              },
+              {
+                "n": "20",
+                "title": "Tue: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "21",
+                "title": "Wed: Jio Platforms issue opens",
+                "detail": "The issue is open for bids from 21 to 23 October (The Hindu)."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Just beyond the window: IRDAI's comment window on the distribution paper closes on 25 October (Mint), and the US Federal Reserve meets on 27 to 28 October (CNBC)."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/wpi-shock-and-crude-keep-rally-in-check/article71583911.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.business-standard.com/economy/news/rbi-tightens-liquidity-after-rate-rise-raises-daily-crr-maintenance-to-99-126100901382_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.thehindubusinessline.com/markets/jio-platforms-ipo-issue-opens-on-october-21-anchor-bidding-on-october-19/article71584232.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine on Jio</a> / <a href=\"https://www.thehindu.com/business/markets/reliances-jio-platforms-files-final-ipo-prospectus-offer-to-open-on-october-21/article71584837.ece\" target=\"_blank\" rel=\"noopener\">The Hindu on Jio</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Notes",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Where two sources differ, both are named: Nifty Pharma fell 1.47% in ET Now and 1.30% in Business Standard; Nifty IT rose 1.25% in ET Now and 1.14% in Business Standard; Nifty FMCG rose 0.94% in ET Now and 1.21% in Business Standard. The chart uses ET Now for every sector.",
+              "The rupee closed at 95.15 in Moneycontrol and ET Now, 95.16 in Business Standard and 95.17 in The Hindu, so the text gives the range.",
+              "Bajaj Finance fell 2.16% in Upstox and 2.52% in Zeebiz.",
+              "The IDBI price of ₹81 a share, the open offer and the CSB merger timing come from a Bloomberg report quoted by Business Today. The Cabinet release has none of them.",
+              "The Jio issue size is the top of the band multiplied by 27 crore shares, which is this edition's arithmetic, not a figure from the prospectus. The comparison with Hyundai and LIC uses their issue sizes as reported.",
+              "Modal's run rate, growth and sandbox figures, Sarvam's cost claim and Scimplify's two-month claim are the companies' own statements.",
+              "Fed hike odds are the CME FedWatch reading quoted by CNBC and move with every data point.",
+              "Broker ratings and target prices are left out. Nothing here is investment advice.",
+              "The Top movers volumes come from the HDFC Sky 3:30 pm tables built from NSE data. Closing percentages come from Upstox and ET Now."
+            ]
+          },
+          {
+            "t": "closing",
+            "html": "Edition 10. A new Brewing tag now marks three stories that could lead somewhere, each with what to watch and what would prove it wrong. Tell me what to keep, change or drop."
+          }
+        ]
+      }
+    ]
+  },
+  "audio": null,
+  "times": null
+}
