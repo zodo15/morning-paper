@@ -1,0 +1,610 @@
+{
+  "day": 11,
+  "meta": {
+    "date": "Friday 16 October 2026",
+    "short": "Fri 16 Oct",
+    "longread": 11
+  },
+  "edition": {
+    "title": "Morning paper, Friday 16 October 2026",
+    "fact": "Edition 11. Nifty jumps 1.7% on IT and banks; smaller shares fall. Nifty 50 closed at 22,997.35 on Thursday. The RBI's higher daily cash-reserve rule starts today. The long read is Groww.",
+    "intro": "The lead route below takes about 5 minutes. Everything after it is for when you want the detail, and every share-by-share move sits in the appendix at the end.",
+    "hero": {
+      "t": "figure",
+      "img": "photos/d11-hero.jpg",
+      "alt": "The Reserve Bank of India building and tower in Mumbai",
+      "caption": "The Reserve Bank of India, Mumbai. Photo: Pinakpani (Wikimedia Commons, CC BY-SA 4.0)."
+    },
+    "concept": {
+      "label": "One concept a day",
+      "name": "The multitask trap",
+      "line": "Pay people only for what you can measure and they drop what you cannot. Holmstrom and Milgrom's 1991 paper shows why, and when a flat wage beats strong pay for each task."
+    },
+    "groups": [
+      {
+        "heading": "Contents and reading times",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Correction note (1 min) / 5-minute lead route / Front page (6 min) / Insurance (3 min) / What's new radar (3 min) / Markets and sector chart (3 min) / Startups and funding (3 min) / Global (2 min) / One Concept a Day (6 min) / Long read: Groww / Seven-day calendar (1 min) / Notes / Appendix: all movers"
+          },
+          {
+            "t": "p",
+            "html": "Long read, about 20 minutes: <a href=\"https://files.instinct.com/yvv3tn6gzo5h-groww-from-advice-app-to-top\" target=\"_blank\" rel=\"noopener\">Groww: from advice app to top broker</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Correction note on edition 10",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "RBI cash reserve rule: the fortnightly average of 3% of deposits stays. What changes is the daily floor, which rises from 90% to 99% of the requirement, from the fortnight starting 16 October (<a href=\"https://www.tallyatcloud.com/news/section-421-of-the-reserve-bank-of-india-act-1934-change-in-daily-minimum-cash-reserve-maintenance-requirement\" target=\"_blank\" rel=\"noopener\">RBI circular RBI/2026-27/290, 9 Oct 2026</a>, listed on the <a href=\"https://rbi.org.in/scripts/FS_Notification.aspx?fn=2\" target=\"_blank\" rel=\"noopener\">RBI notifications page</a>).",
+              "Jio Platforms: anchor bidding is Monday 19 October and the public issue opens Wednesday 21 October, two days later, not \"a day before\" (<a href=\"https://www.thehindubusinessline.com/markets/jio-platforms-ipo-issue-opens-on-october-21-anchor-bidding-on-october-19/article71584232.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>, <a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-15-sensex-zooms-1534-pts-nifty-near-23000-factors-behind-thursdays-rally-check-top-gainers-and-losers-article-156345174\" target=\"_blank\" rel=\"noopener\">ET Now</a>).",
+              "IDBI Bank's Wednesday close: edition 10 gave 89.85 from a 3:30 pm snapshot and a card gave 90.39. The NSE close on Wednesday 14 October was ₹90.39 (<a href=\"https://www.livemint.com/market/stock-market-news/idbi-bank-share-price-crashes-6-but-lic-is-up-1-prem-watsa-led-52-877-crore-fairfax-deal-decoded-for-investors-11792038475195.html\" target=\"_blank\" rel=\"noopener\">Mint</a>, <a href=\"https://www.business-standard.com/markets/news/idbi-bank-stake-sale-price-a-surprise-no-rub-off-on-psu-stocks-analysts-126101401323_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>, both quoting the NSE previous close). Thursday's NSE session opened at ₹89.86."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The 5-minute lead route",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "<strong>Market:</strong> the Nifty 50 rose 1.66% to 22,997.35, but 898 NSE shares rose against 1,755 that fell, because the gain sat in large shares. Midcap 100 fell 0.36% and Smallcap 100 fell 1.31%. Chart and numbers.",
+              "<strong>Rates:</strong> the RBI raised the repo rate to 5.50% on 7 October and its daily reserve floor rises to 99% today. Overnight money cost a weighted 5.55% on Wednesday..",
+              "<strong>Results day:</strong> Wipro guided flat, Tech Mahindra reported 7.2% constant-currency growth, and Nestlé India fell 7.76% on a 36% profit rise..",
+              "<strong>Insurance:</strong> IRDAI's chair said distributor livelihood fears are misplaced; comments on the commission paper close 25 October..",
+              "<strong>One idea:</strong> why paying only for what you can measure backfires (multitask incentives), with a closed-book test at the end.."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "A narrow rally: large shares up, the rest of the market down",
+            "kicker": "Markets, lead"
+          },
+          {
+            "t": "p",
+            "html": "The <a href=\"https://en.wikipedia.org/wiki/NIFTY_50\" target=\"_blank\" rel=\"noopener\">Nifty 50</a> (the NSE's index of 50 large shares) closed at 22,997.35, up 374.65 points or 1.66%, its best day since 12 June and its highest close since 25 September. Business Standard counts 42 of the 50 shares higher, adding ₹2.61 trillion in value, while declining shares outnumbered advancing ones 1,755 to 898 on the NSE. Total investor wealth rose only ₹47,634 crore, which means shares outside the Nifty 50 lost about ₹2.1 trillion."
+          },
+          {
+            "t": "p",
+            "html": "Reliance Industries added the most to the index, rising 3.44% to ₹1,215 and adding ₹54,671 crore in value after the Jio Platforms IPO price band was set. Nifty IT rose 1.82% for a third day, up 10.76% in a week but still 19.52% lower for the year. The cause named by the market commentary: crude fell about 2% on a report that the US is considering easing tanker sanctions, and traders closed bets against the market. Mint cites the put-call ratio on Nifty weekly options jumping to 1.65 from 1.01, which an analyst reads as call sellers cutting positions. If so, part of Thursday's move was a short squeeze, which fades once the covering ends."
+          },
+          {
+            "t": "p",
+            "html": "Foreign investors (<a href=\"https://en.wikipedia.org/wiki/Foreign_institutional_investor\" target=\"_blank\" rel=\"noopener\">FIIs</a> (foreign institutional investors, overseas funds buying Indian shares)) were net sellers of ₹5,285 crore and domestic institutions bought ₹3,319 crore on Thursday. FIIs have sold ₹38,722 crore in October so far, per NSDL data quoted by Mint."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> When a few heavyweights carry an index, the index overstates how many shares gained. Compare the Nifty with the Midcap and Smallcap indices before reading a day as a recovery."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/markets/news/it-private-banks-lift-nifty-1-7-as-asian-ai-stocks-tumble-smallcaps-fall-126101501402_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.thehindubusinessline.com/markets/nifty-touches-23000-as-india-bucks-asian-rout-yes-bank-idbi-crash-on-rulings/article71587864.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.livemint.com/market/nifty-market-equity-ai-selloff-11792068678919.html\" target=\"_blank\" rel=\"noopener\">Mint</a>"
+          },
+          {
+            "t": "story",
+            "title": "Rates: repo at 5.50%, and the daily reserve floor rises to 99% today",
+            "kicker": "Economy, Brewing"
+          },
+          {
+            "t": "p",
+            "html": "On 7 October the RBI's <a href=\"https://en.wikipedia.org/wiki/Monetary_Policy_Committee_(India)\" target=\"_blank\" rel=\"noopener\">MPC</a> (the Monetary Policy Committee, which sets India's policy rate) voted unanimously to raise the <a href=\"https://en.wikipedia.org/wiki/Repo_rate\" target=\"_blank\" rel=\"noopener\">repo rate</a> (the rate at which the RBI lends to banks) by 25 basis points to 5.50% and changed its stance to calibrated tightening. The statement says rate cuts are off the table in the near term, and the next move is a hike or a pause. Two members, Dr Nagesh Kumar and Prof Ram Singh, wanted the stance to stay neutral. The RBI projects CPI inflation at 5.2% for 2026-27 and GDP growth at 7.1%. August CPI inflation was 4.8%."
+          },
+          {
+            "t": "p",
+            "html": "Two days later, on 9 October, the RBI told banks that the minimum daily <a href=\"https://en.wikipedia.org/wiki/Cash_reserve_ratio\" target=\"_blank\" rel=\"noopener\">CRR</a> (the cash reserve ratio, the share of deposits banks hold with the RBI without interest) balance rises from 90% to 99% of the requirement, from the fortnight starting 16 October (today). The fortnightly average requirement is unchanged. Its stated reason is \"current liquidity conditions\". If banks must hold nearly the full requirement every day, they lose the room to run low on some days and rebuild on others, so the effective cash locked up rises even with the average unchanged."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Brewing: liquidity tightening.</strong> <strong>Chain:</strong> higher daily floor, then less spare cash in banks, then higher overnight rates, then dearer funding for finance companies. <strong>Baseline:</strong> weighted average overnight rate 5.55% on 14 October against a 5.50% repo rate (call money 5.52%, triparty repo 5.58%). <strong>Next release:</strong> the RBI's daily money market operations release, through the first week of the new fortnight. <strong>Weakens if:</strong> the weighted overnight rate returns to or below the repo rate while the 99% floor is in force."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Banks that must hold more idle cash each day have less to lend overnight, so short-term borrowing costs rise first and loan prices follow."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742\" target=\"_blank\" rel=\"noopener\">RBI policy statement, 7 Oct</a> / <a href=\"https://www.tallyatcloud.com/news/section-421-of-the-reserve-bank-of-india-act-1934-change-in-daily-minimum-cash-reserve-maintenance-requirement\" target=\"_blank\" rel=\"noopener\">RBI circular text, 9 Oct</a> / <a href=\"https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63808\" target=\"_blank\" rel=\"noopener\">RBI money market operations, 14 Oct</a> / <a href=\"https://www.business-standard.com/economy/news/rbi-tightens-liquidity-after-rate-rise-raises-daily-crr-maintenance-to-99-126100901382_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>"
+          },
+          {
+            "t": "story",
+            "title": "Results day: Wipro guides flat, Tech Mahindra grows, Nestlé India falls on a strong quarter",
+            "kicker": "Companies"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Wipro</strong> (IT services company) reported IT services revenue flat on the quarter in constant currency and up 0.6% on the year, with an operating margin of 16.5%. Total bookings were $2,595 million, down 22.9% on the quarter, and large-deal bookings were $674 million, down 58.6%. It guides December-quarter IT services revenue at $2,571 million to $2,625 million, which is minus 1.5% to plus 0.5% sequentially in constant currency. Bookings are the order book that turns into revenue, so a 58.6% fall in large deals sets the base for the guidance. Net income was ₹32.0 billion, down 4.7% on the quarter and 1.9% on the year."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Tech Mahindra</strong> reported revenue of $1,693 million, up 2.4% on the quarter and 7.2% on the year in constant currency, an operating margin of 14.8% and new deal wins of $1,023 million, up 25.4% on the year. Profit after tax was ₹1,586 crore, up 32.7%. The board recommended a 1:1 bonus share issue (one extra share for each share held) and an interim dividend of ₹15. The shares closed up 4.75% on the NSE. The two IT companies reported on the same day with opposite order trends: Tech Mahindra's wins rose while Wipro's large deals fell."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Nestlé India</strong> reported profit of about ₹1,027 crore, up 36.4%, on revenue of ₹6,788 crore, up 20.3%, and an EBITDA margin of 23.8% against 21.9% a year earlier. The shares fell as much as 8.87% to ₹1,260.50 and closed down 7.76% at ₹1,275.80. ET Now attributes the fall to rich valuations, in-line earnings and inflation-led cost worries. Business Standard notes that the FMCG index had led gains the day before, so the result met a market that had already bid the sector up."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Jio Financial Services</strong> reported a consolidated profit of ₹340.44 crore, down 51% from ₹695 crore, while total income rose 70% to ₹1,699.41 crore. Total expenses rose to ₹1,166 crore from ₹436.50 crore. Interest income was ₹1,257.68 crore against ₹392.37 crore, so the lending book is growing faster than its costs are under control. The shares closed flat at ₹219.01."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> IT results set the tone for a sector that is down 19.52% for the year, and Nestlé shows the market pricing in cost pressure before it shows up in profit."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.wipro.com/content/dam/nexus/en/investor/quarterly-results/2026-2027/q2fy27/press-release-q2fy27.pdf\" target=\"_blank\" rel=\"noopener\">Wipro release</a> / <a href=\"https://www.techmahindra.com/insights/press-releases/techmahindra-q2-fy27-results/\" target=\"_blank\" rel=\"noopener\">Tech Mahindra release</a> / <a href=\"https://www.etnownews.com/markets/nestle-india-shares-fall-9-percent-despite-strong-q2-fy27-earnings-here-is-why-article-156344514\" target=\"_blank\" rel=\"noopener\">ET Now on Nestlé India</a> / <a href=\"https://upstox.com/news/market-news/earnings/jio-financial-services-q2-fy-27-net-profit-declines-51-as-total-expenses-jump-to-1-166-crore-yo-y/article-201938/\" target=\"_blank\" rel=\"noopener\">Upstox on Jio Financial</a> / <a href=\"https://www.cnbctv18.com/market/earnings/hdfc-life-q2-results-net-profit-rises-nearly14-pc-to-rs-508-crore-net-premium-income-jumps-almost-16-pc-20012785.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 on HDFC Life</a>"
+          },
+          {
+            "t": "story",
+            "title": "IDBI Bank and Yes Bank fall on two separate court and Cabinet decisions",
+            "kicker": "Banking"
+          },
+          {
+            "t": "p",
+            "html": "The Cabinet cleared the sale of 60.72% of <a href=\"https://en.wikipedia.org/wiki/IDBI_Bank\" target=\"_blank\" rel=\"noopener\">IDBI Bank</a> (a bank owned by the government and LIC) to a Fairfax Financial Holdings vehicle at ₹81 a share, against a government fair value of ₹75.99 (CNBC). IDBI fell 8.1% on Thursday, in the Smallcap 100 index (Upstox). The DIPAM secretary says Fairfax must now clear the RBI's fit-and-proper review, sign a share purchase agreement and make an open offer to minority shareholders, with completion expected by March 2027 (Moneycontrol). An open offer is a bid to buy more shares from other holders at a set price."
+          },
+          {
+            "t": "p",
+            "html": "Yes Bank fell 14.53%, the biggest drop in the Midcap 100, after the Supreme Court upheld the Bombay High Court's cancellation of the write-off of its ₹8,415 crore AT1 bonds. <a href=\"https://en.wikipedia.org/wiki/Additional_Tier_1_capital\" target=\"_blank\" rel=\"noopener\">AT1 bonds</a> (bank bonds that can be written off to absorb losses) are issued by banks as capital. BusinessLine records the PSU bank index down 1.55% that day, with Canara Bank down 6.12%, on the same bond-risk concern."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Both show the price the market puts on how a weak bank is resolved: IDBI's buyer pays below the market price, and the Yes Bank ruling reopens how bondholders are treated in a rescue."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/idbi-bank-fairfax-deal-expected-to-close-by-march-2027-rbi-review-and-open-offer-next-dipam-secretary-14053142.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a> / <a href=\"https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html\" target=\"_blank\" rel=\"noopener\">CNBC</a> / <a href=\"https://www.thehindubusinessline.com/markets/nifty-touches-23000-as-india-bucks-asian-rout-yes-bank-idbi-crash-on-rulings/article71587864.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>"
+          },
+          {
+            "t": "story",
+            "title": "Jio Platforms IPO: ₹1,065 to ₹1,119 a share, anchor bidding Monday",
+            "kicker": "IPO, Brewing"
+          },
+          {
+            "t": "p",
+            "html": "The <a href=\"https://en.wikipedia.org/wiki/Initial_public_offering\" target=\"_blank\" rel=\"noopener\">IPO</a> (initial public offering, a first sale of shares to the public) of Jio Platforms (the telecom and digital arm of Reliance Industries) has a price band of ₹1,065 to ₹1,119 and a fresh issue of up to 27 crore shares. It opens Wednesday 21 October and closes Friday 23 October, with trading planned for 28 October (Mint). At the top of the band CNBC puts Jio at about $108 billion, below the $117.5 billion market value of Bharti Airtel per LSEG data. CNBC notes that Meta and Google will not sell shares in the issue, per the offer documents. Mint reports average revenue per user of ₹215.6 against ₹214 at the end of March."
+          },
+          {
+            "t": "p",
+            "html": "An <a href=\"https://en.wikipedia.org/wiki/Initial_public_offering\" target=\"_blank\" rel=\"noopener\">anchor allocation</a> (a pre-issue allocation to large institutions, a share of which goes to domestic mutual funds) happens on Monday 19 October. Rumour, not confirmed: Mint writes, citing four unnamed people, that about 15 domestic fund houses and global investors including ADIA, GIC, Norges Bank and BlackRock have asked for slots in an ₹8,000 crore anchor book. Jio's parent has not commented."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Brewing: Jio IPO.</strong> <strong>Chain:</strong> institutional demand at the anchor stage, then the public subscription multiple, then the listing, which sets the reference value for large unlisted Indian companies. <strong>Baseline:</strong> price band ₹1,065 to ₹1,119, top-of-band size about ₹30,213 crore. <strong>Next event:</strong> anchor allocation on Monday 19 October, then subscription on 21 to 23 October. <strong>Weakens if:</strong> the confirmed anchor book is well below the ₹8,000 crore rumoured size."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> At about ₹30,213 crore at the top of the band, subscription numbers will be read as a verdict on large Indian listings, and the cash needed pulls from the same pool of institutional money the rest of the market uses."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.cnbc.com/2026/10/14/jio-ipo-meta-google-ambani-musk.html\" target=\"_blank\" rel=\"noopener\">CNBC</a> / <a href=\"https://www.livemint.com/market/ipo/blackrock-adia-norges-seek-anchor-slots-in-jio-s-3-2-bn-ipo-11792059501690.html\" target=\"_blank\" rel=\"noopener\">Mint</a> / <a href=\"https://www.thehindubusinessline.com/markets/jio-platforms-ipo-issue-opens-on-october-21-anchor-bidding-on-october-19/article71584232.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-15-sensex-zooms-1534-pts-nifty-near-23000-factors-behind-thursdays-rally-check-top-gainers-and-losers-article-156345174\" target=\"_blank\" rel=\"noopener\">ET Now</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Insurance",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "IRDAI's chair: livelihood fears about the distribution paper are misplaced",
+            "kicker": "Regulation, Brewing"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://en.wikipedia.org/wiki/Insurance_Regulatory_and_Development_Authority_of_India\" target=\"_blank\" rel=\"noopener\">IRDAI</a> (the insurance regulator) released the consultation paper \"Recalibrating Economics of Insurance Distribution\" on 23 September. It proposes three kinds of distribution entity under the rule \"same structure, same functions, same norms\", commission limits that vary by segment, line of business, channel, product complexity and effort, extra rewards for under-served areas, lower Expense of Management limits on a glide path, linking each policy to the individual distributor, public disclosure of mis-selling and commission claw-backs in proven cases. Comments close on 25 October 2026, per the IRDAI release."
+          },
+          {
+            "t": "p",
+            "html": "On Thursday chair Ajay Seth said job-loss worry is \"sort of misplaced\" and the intent is an \"orderly transition\". He said feedback differs by group, with larger and smaller insurers, new entrants and distributor types raising different points, including longer transition periods and small-ticket policies. He asked stakeholders to explain the economic logic and how a proposal helps the policyholder, and said a deadline extension is not ruled out. He also said the Public Insurance Registry beta is planned for January 2028, hosted by the Insurance Information Bureau as a not-for-profit company, and described Account Aggregator uses such as loans against surrender value and premium financing as needing standard data and viable business models first."
+          },
+          {
+            "t": "p",
+            "html": "Two named sources report the broker body's claims differently. Business Standard writes that the Insurance Brokers Association of India said nearly 1 million jobs and 60 to 70% of distributor revenue are at stake. BusinessLine writes that the body's letter to the Prime Minister's office cited a one-third revenue cut and about 10 lakh jobs. The IRDAI paper itself is the source for the proposals, and the claims are the association's."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>Brewing: distribution reform.</strong> <strong>Chain:</strong> the comment round, then a revised draft, then final rules that set commission by effort, then changes in how aggregators and brokers earn. <strong>Baseline:</strong> comments close 25 October 2026; the broker association has asked for a longer window. <strong>Next event:</strong> the 25 October deadline, and any IRDAI notice of an extension. <strong>Weakens if:</strong> IRDAI extends the window or publishes a revised draft with a longer phase-in for commission limits."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Your product and distribution work sits on the commission model this paper changes, and the public comment window decides how much of the draft survives."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/59734/IRDAI-issued-a-Public-Consultation-Paper-on-Recalibrating-Economics-of-Insurance-Distribution-September242026.pdf\" target=\"_blank\" rel=\"noopener\">IRDAI press release</a> / <a href=\"https://www.business-standard.com/finance/insurance/irdai-s-proposed-distribution-reforms-aim-for-orderly-transition-ajay-seth-126101501444_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.thehindubusinessline.com/money-and-banking/insurance-reforms-irdai-chief-says-job-loss-concerns-are-misplaced/article71588872.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.thehindu.com/business/Industry/irdai-moots-changes-to-distribution-payout-norms/article71505136.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>"
+          },
+          {
+            "t": "story",
+            "title": "HDFC Life: new business profit grew faster than premium",
+            "kicker": "Companies"
+          },
+          {
+            "t": "p",
+            "html": "In the first half of FY27 HDFC Life reported VNB of ₹2,037 crore, up 12.1%, against annualised premium equivalent (APE, new premium scaled to a year) up 11% to ₹8,245 crore. The new business margin was 24.7% against 24.5%. Q2 net profit was ₹508 crore against ₹447 crore, and net premium income was ₹21,727 crore, up 15.7%. Individual weighted received premium grew 11% against 10% for private life insurers."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Value of new business (VNB) is the expected profit on policies sold, so growth ahead of premium growth means the mix or the margin improved."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.cnbctv18.com/market/earnings/hdfc-life-q2-results-net-profit-rises-nearly14-pc-to-rs-508-crore-net-premium-income-jumps-almost-16-pc-20012785.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>"
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, last 48 hours",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Every item is dated 15 October 2026 inside its source. Performance and speed claims are the vendors' own and are not independently tested."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Muse Spark Open, Meta",
+                "detail": "Meta released weights for an 816-billion-parameter mixture-of-experts model with 42 billion parameters active per token and a 1 million-token context. In such a design a router picks 8 of 256 experts for each token, so it computes like a 42B model but needs memory for all 816B (Hugging Face). Meta says it is the most capable US open-weight model and runs on two Apple M5 Ultra Mac Studios. Available through Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter and Together AI. Benchmarks are Meta's own."
+              },
+              {
+                "n": "2",
+                "title": "Nemotron 3.5 Super VL and Bolt, NVIDIA",
+                "detail": "NVIDIA released an open 120-billion-parameter vision-language model for agents and two smaller edge models, Bolt 74B-A9B and Bolt E4B (E4B due 23 October). NVIDIA says Super VL matches its largest reasoning model at about one-fifth the parameters and runs 5x faster. These are NVIDIA's claims."
+              },
+              {
+                "n": "3",
+                "title": "Apertus 1.5, Swiss AI",
+                "detail": "Open weights, open data, open training details for 8B and 70B models, now with image and audio input, a thinking mode and a 262,144-token context. The model weights were published on 24 July 2026, and the release notes appeared 15 October."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://research.meta.ai/blog/muse-spark-open\" target=\"_blank\" rel=\"noopener\">Meta</a> / <a href=\"https://huggingface.co/blog/meta-muse-spark-open\" target=\"_blank\" rel=\"noopener\">Hugging Face on Muse Spark Open</a> / <a href=\"https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/\" target=\"_blank\" rel=\"noopener\">NVIDIA</a> / <a href=\"https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes\" target=\"_blank\" rel=\"noopener\">Hugging Face on Apertus 1.5</a>"
+          },
+          {
+            "t": "p",
+            "html": "Why it matters here: an open model that fits on a desktop lets a small team run an agent on customer data inside its own systems, which is the first question a regulated insurer or broker asks about AI."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Where things stand",
+            "kicker": "NSE close, Thursday 15 October 2026, 3:30 pm IST"
+          },
+          {
+            "t": "facts",
+            "items": [
+              {
+                "k": "Nifty 50 (NSE)",
+                "v": "22,997.35, +374.65 points, +1.66%. Wednesday 14 October close: 22,622.70. Intraday range 22,637.40 to 23,056.40."
+              },
+              {
+                "k": "Broader NSE indices",
+                "v": "Midcap 100 -0.36% to 59,197.25. Smallcap 100 -1.31% to 19,131.70 (Upstox)."
+              },
+              {
+                "k": "Sensex (BSE)",
+                "v": "74,315.61, +1,533.72 points, +2.11% (ET Now). Shown for reference, as a BSE index."
+              },
+              {
+                "k": "Rupee, 3:30 pm",
+                "v": "95.06 per dollar, a fifth straight gain (Business Standard)."
+              },
+              {
+                "k": "Brent crude",
+                "v": "About $104 a barrel at the Indian close, down about 2% (Business Standard)."
+              },
+              {
+                "k": "Flows, Thursday",
+                "v": "FIIs net sold ₹5,285 crore; DIIs net bought ₹3,319 crore (Mint)."
+              }
+            ]
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"NSE sector index moves at the close on Thursday 15 October 2026, percent change, centred on zero\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 384\"><line stroke=\"#555\" x1=\"405\" x2=\"405\" y1=\"10\" y2=\"318\"></line><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"140\" y=\"38\">Private Banks</text><rect fill=\"#1f6feb\" height=\"28\" rx=\"2\" width=\"229.49999999999997\" x=\"405\" y=\"18\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"642.5\" y=\"39\">+1.89%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"140\" y=\"82\">Services</text><rect fill=\"#1f6feb\" height=\"28\" rx=\"2\" width=\"222.21428571428572\" x=\"405\" y=\"62\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"635.2142857142858\" y=\"83\">+1.83%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"140\" y=\"126\">IT</text><rect fill=\"#1f6feb\" height=\"28\" rx=\"2\" width=\"221\" x=\"405\" y=\"106\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"634\" y=\"127\">+1.82%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"140\" y=\"170\">Midcap 100</text><rect fill=\"#8c1d18\" height=\"28\" rx=\"2\" width=\"43.71428571428571\" x=\"361.2857142857143\" y=\"150\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"353.2857142857143\" y=\"171\">-0.36%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"140\" y=\"214\">FMCG</text><rect fill=\"#8c1d18\" height=\"28\" rx=\"2\" width=\"128.71428571428572\" x=\"276.2857142857143\" y=\"194\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"268.2857142857143\" y=\"215\">-1.06%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"140\" y=\"258\">Smallcap 100</text><rect fill=\"#8c1d18\" height=\"28\" rx=\"2\" width=\"159.07142857142858\" x=\"245.92857142857142\" y=\"238\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"237.92857142857142\" y=\"259\">-1.31%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"140\" y=\"302\">PSU Banks</text><rect fill=\"#8c1d18\" height=\"28\" rx=\"2\" width=\"188.21428571428572\" x=\"216.78571428571428\" y=\"282\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"208.78571428571428\" y=\"303\">-1.55%</text></g><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"344\">NSE indices, % change at the close, Thu 15 Oct 2026 (3:30 pm IST). Blue up, red down.</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"364\">Sources: Business Standard, IANS, BusinessLine, Upstox. Change in index value only.</text></svg>"
+          },
+          {
+            "t": "p",
+            "html": "The chart shows index moves only. Private banks, services and IT led, and PSU banks and FMCG fell. A sector index moving does not by itself show money moving between sectors."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/markets/news/it-private-banks-lift-nifty-1-7-as-asian-ai-stocks-tumble-smallcaps-fall-126101501402_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.etnownews.com/markets/stock-market-closing-today-oct-15-sensex-zooms-1534-pts-nifty-near-23000-factors-behind-thursdays-rally-check-top-gainers-and-losers-article-156345174\" target=\"_blank\" rel=\"noopener\">ET Now</a> / <a href=\"https://www.thehindubusinessline.com/markets/nifty-touches-23000-as-india-bucks-asian-rout-yes-bank-idbi-crash-on-rulings/article71587864.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-15-tech-mahindra-jumps-4-7-ril-gains-3-nestle-india-tanks-8-check-full-list/article-201925/\" target=\"_blank\" rel=\"noopener\">Upstox</a> / <a href=\"https://www.livemint.com/market/nifty-market-equity-ai-selloff-11792068678919.html\" target=\"_blank\" rel=\"noopener\">Mint</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Startups and funding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Ramp raises $1.85 billion at a $60 billion valuation",
+            "kicker": "Funding"
+          },
+          {
+            "t": "p",
+            "html": "Ramp (corporate cards and spend management) raised $1.85 billion, valued at $60 billion four months after $750 million at $44 billion. It says annualised revenue passed $2 billion from a reported $1.5 billion in June, and annualised purchase volume is over $275 billion, up 175%. It also says it has 85,000 customers. Purchase volume is spend that flows over the cards, and revenue is the fee on it, so the ratio between them is the take rate to watch. Cost exposure: it competes with Rippling on the same finance-team budgets. These figures are not independently tested."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Ask what the price pays for: usage growth, revenue quality, or the AI story. The public numbers are all Ramp's own."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>"
+          },
+          {
+            "t": "story",
+            "title": "Confido Health: AI agents that finish clinic paperwork",
+            "kicker": "Funding"
+          },
+          {
+            "t": "p",
+            "html": "Confido Health raised a $12.5 million Series A extension led by Z47 (formerly Matrix Partners India) with Together Fund and Blume Ventures, on top of a $10 million Series A. It says its agents handle scheduling, insurance verification and billing across 1,500 sites in 27 states, and reports 15x growth since its last round. It sells first to private-equity owners and then to their portfolio clinics. All usage figures are the company's."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A founder-run software company sold through private-equity portfolios shows a defensibility question: the buyer owns the distribution."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.fiercehealthcare.com/ai-and-machine-learning/confido-health-expands-beyond-voice-ai-agentic-platform-medical-practices\" target=\"_blank\" rel=\"noopener\">Fierce Healthcare</a>"
+          },
+          {
+            "t": "story",
+            "title": "Apate sends AI agents to be scammed, to gather fraud intelligence",
+            "kicker": "Product"
+          },
+          {
+            "t": "p",
+            "html": "Apate (Australian, founded 2024 from Macquarie University research) says its agents ran 2.5 million conversations with scammers and learned their bank accounts, wallets and phone numbers, which it passes to bank and telecom customers. The FBI counted 22,000 AI-related crime complaints in 2025 with about $893 million lost, per TechCrunch. Apate's conversation counts are its own."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Fraud is a cost line for lenders and insurers, and this product sells intelligence to banks and telecoms before the victim is reached."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Global",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "US prices: producer inflation 6.3%, retail sales +0.8%, and the Fed chair speaks today",
+            "kicker": "Economy"
+          },
+          {
+            "t": "p",
+            "html": "The <a href=\"https://en.wikipedia.org/wiki/Producer_price_index\" target=\"_blank\" rel=\"noopener\">PPI</a> (producer price index, what producers receive for goods and services) for final demand rose 1.3% in September and 6.3% over twelve months, against forecasts of 0.6% and 5.5% (BLS, CNBC). Final demand goods rose 2.6%, the largest rise since the series began in December 2009. Over 80% of that rise is from final demand energy, up 10.8%, and half of it traces to gasoline, up 20.3% (BLS). Retail sales rose 0.8% against 0.4% expected. Excluding autos and petrol they rose 0.25%, down from about 1.1% a month earlier, which CNBC reads as fuel costs squeezing other spending."
+          },
+          {
+            "t": "p",
+            "html": "The RBI's 7 October statement records that the US Fed raised rates by 25 basis points in September. Fed Chair Kevin Warsh joins an IMF fireside chat in Bangkok at 10:30 am local time today, 9:00 am IST (Nation Thailand)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A hotter US price path raises the odds of another Fed hike, which strengthens the dollar and pressures Indian rates and the rupee."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.bls.gov/news.release/archives/ppi_10152026.htm\" target=\"_blank\" rel=\"noopener\">BLS PPI release</a> / <a href=\"https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html\" target=\"_blank\" rel=\"noopener\">CNBC</a> / <a href=\"https://www.nationthailand.com/business/economy/40072340\" target=\"_blank\" rel=\"noopener\">Nation Thailand</a> / <a href=\"https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742\" target=\"_blank\" rel=\"noopener\">RBI statement</a>"
+          },
+          {
+            "t": "story",
+            "title": "Asia's technology shares sold off while India rose",
+            "kicker": "Markets"
+          },
+          {
+            "t": "p",
+            "html": "South Korea's Kospi fell 7.57% and Japan's Nikkei about 4.9%. The S&P 500 fell 1.11% and the Nasdaq 1.88% overnight (Business Standard). Mint lists CoreWeave, Nebius and Marvell as the biggest Nasdaq decliners on 14 October, down 15%, 10% and 8.8%, and quotes fund manager Christy Mathai of Quantum Mutual Fund saying it is too early to conclude that global investors are shifting to India."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> India's index has little exposure to AI-linked shares, so a tech sell-off can pass it by, but Mint's own commentary says it is too early to call this a shift of money to India."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/markets/news/it-private-banks-lift-nifty-1-7-as-asian-ai-stocks-tumble-smallcaps-fall-126101501402_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.livemint.com/market/nifty-market-equity-ai-selloff-11792068678919.html\" target=\"_blank\" rel=\"noopener\">Mint</a>"
+          }
+        ]
+      },
+      {
+        "heading": "One Concept a Day: the multitask trap",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>The paper.</strong> Bengt Holmström and Paul Milgrom, <a href=\"http://web.stanford.edu/~milgrom/publishedarticles/Multitask%20Principal%20Agent.pdf\" target=\"_blank\" rel=\"noopener\">\"Multitask Principal-Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design\"</a>, Journal of Law, Economics and Organization, 1991. Read here: the introduction and the model through section 2.3. Section 3 results are taken from the paper's own introduction."
+          },
+          {
+            "t": "p",
+            "html": "<strong>The design.</strong> An agent (an employee or a seller) chooses effort across several tasks. The effort cost depends on total attention, so more effort on one task means less on another. Pay is linear in measured signals, and measurement is noisy. The paper shows that the shared surplus is expected benefit minus effort cost minus a risk cost of one-half times the agent's risk aversion times the variance of the pay slope. The fixed part of pay only splits that surplus, so the design question is the slope on each measure."
+          },
+          {
+            "t": "p",
+            "html": "<strong>The mechanism.</strong> Pay on one task pulls attention away from the others. The paper's results: paying for any one task should weaken as it gets harder to measure the tasks that compete with it for attention, and a flat wage can be the best contract even when output is cleanly measured. Its examples: piece rates raise output volume at the expense of unmeasured quality or machine care; teachers paid on test scores shift time from curiosity to test items (a 1989 Greenville, South Carolina teacher gave students answers to lift her rating); franchisees face steep incentives while managers of company-owned stores get none; electronics firms use their own sales staff when parts of selling are hard to measure. Other remedies the paper derives are restricting competing activities and splitting jobs, so one person holds the measurable task and another holds the rest."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Limits.</strong> The result depends on linear pay, a one-time effort choice, normally distributed errors and effort costs that depend on total attention. If tasks do not compete for attention, or both are measured equally well, strong pay on each is fine."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Applications.</strong>"
+          },
+          {
+            "t": "bullets",
+            "items": [
+              "Insurance distribution: commission pays for the sale, which is measured. Fit to the customer, claim-time help and keeping the policy in force are harder to measure. IRDAI's paper adds measures for the missing tasks: an individual distributor linked to each policy, public mis-selling disclosure, commission claw-backs in proven mis-selling, and commission by effort and product complexity. These match the paper's remedy of building a measure for the neglected task.",
+              "Product work: a team rewarded on conversion alone will push conversion over fit. Groww's derivatives share of income, now 44.8%, comes from the most measurable activity, and the long read follows how the company shifted its mix.",
+              "AI agents: an agent scored on tickets closed per hour will close tickets, not solve problems, unless a quality check is measured too."
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<strong>Decision rule.</strong> Before attaching a metric to a role, list what else competes for that person's attention. For each task ask if it is measured. If an important task is not, either lower the pay on the measured one, put a hard constraint on the shortcut, split the roles, or build a measure for the missing task first. Pair any volume metric with a quality metric on the same person."
+          },
+          {
+            "t": "callout",
+            "html": "<strong>60-second closed-book recall.</strong> Close the page and answer. 1) What two things does the cost of effort depend on in this model? 2) What happens to the best pay on task A when task B is hard to measure and competes for attention? 3) Name one remedy besides weaker pay. 4) Give one insurance distribution example. 5) State the decision rule in one sentence.<br><br><strong>Answers.</strong> 1) Total attention across tasks, so effort is shared. 2) It falls, and a flat wage can be best. 3) Restrict the competing activity, split jobs by measurability, or add a measure for task B. 4) Commission on sales neglects fit and claims help, which IRDAI's claw-back and distributor-ID proposals try to measure. 5) List the competing tasks, check which are measured, and pair a volume metric with a quality metric."
+          }
+        ]
+      },
+      {
+        "heading": "Long read: Groww",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Today's long read is the story of Groww, from four Flipkart colleagues and a mutual fund app in 2016 to India's largest broker by active clients, with its second quarterly results as a listed company out this week. Groww reported a Q2 FY27 profit of ₹725 crore on 14 October (Financial Express). Read it here: <a href=\"https://files.instinct.com/yvv3tn6gzo5h-groww-from-advice-app-to-top\" target=\"_blank\" rel=\"noopener\">Groww: from advice app to top broker</a> (about 20 minutes). The company's own earnings pack is <a href=\"https://resources.groww.in/web-assets/media-library/2026/10/Q2%20FY27%20AI%20Earnings%20Pack.md\" target=\"_blank\" rel=\"noopener\">here</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Seven-day calendar, 16 to 22 October",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "16",
+                "title": "Fri: RBI daily reserve floor starts; Fed Chair Warsh speaks",
+                "detail": "99% daily floor from the fortnight starting today (RBI circular). Warsh at the IMF fireside chat, 9:00 am IST (Nation Thailand)."
+              },
+              {
+                "n": "17",
+                "title": "Sat: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "18",
+                "title": "Sun: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "19",
+                "title": "Mon: Jio anchor allocation",
+                "detail": "Large institutions are allotted shares before the public issue (BusinessLine)."
+              },
+              {
+                "n": "20",
+                "title": "Tue: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "21",
+                "title": "Wed: Jio Platforms issue opens",
+                "detail": "Open to bids 21 to 23 October (ET Now)."
+              },
+              {
+                "n": "22",
+                "title": "Thu: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Also dated: IRDAI comment deadline on 25 October, and Nvidia's Bolt E4B model on 23 October."
+          }
+        ]
+      },
+      {
+        "heading": "Notes",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Market numbers are NSE closes at 3:30 pm IST on 15 October, taken from Business Standard, Upstox and ET Now. The Sensex is a BSE index and is shown once for reference.",
+              "The CRR circular text was read as reproduced by TallyAtCloud, and its listing on the RBI notifications page was checked. The RBI policy statement and money market release were read on rbi.org.in.",
+              "The IRDAI comment deadline of 25 October is from the IRDAI press release. A line in the Business Standard story gives 17 October, which conflicts with the IRDAI release, and the IRDAI release is used.",
+              "Mint prints the Jio band's lower end as 1,069 in one line. ET Now, CNBC and Upstox give 1,065, which is used.",
+              "Sector index moves come from Business Standard, IANS and BusinessLine, and are changes in index value.",
+              "Radar, funding and company claims are the companies' own, labelled where they appear. Broker ratings and target prices are left out. Nothing here is investment advice.",
+              "New primary sources read in full for this edition: Meta Research, the NVIDIA blog and Fierce Healthcare."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Appendix: every mover",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "NSE closing prices and percent changes, Thursday 15 October 2026, from Upstox and HDFC Sky. Price in rupees."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Nifty 50 gainers",
+                "detail": "Tech Mahindra 1,650.00 (+4.75%), ICICI Bank 1,389.40 (+3.80%), Reliance Industries 1,215.00 (+3.44%), Bharti Airtel 1,854.00 (+3.31%), BSE Ltd 3,428.00 (+2.70%)."
+              },
+              {
+                "n": "2",
+                "title": "Nifty 50 losers",
+                "detail": "Nestlé India 1,275.80 (-7.76%), Adani Enterprises 2,700.00 (-0.83%), Trent 2,949.70 (-0.72%), Shriram Finance 943.80 (-0.65%), Bharat Electronics 380.40 (-0.51%)."
+              },
+              {
+                "n": "3",
+                "title": "Midcap 100 gainers",
+                "detail": "Tata Communications +5.47% (profit ₹341 crore, up 86%), Hindustan Petroleum +5.27%, Hero MotoCorp +3.80%, Godrej Properties +2.82%, Billionbrains Garage Ventures (Groww) +2.72%."
+              },
+              {
+                "n": "4",
+                "title": "Midcap 100 losers",
+                "detail": "Yes Bank -14.53%, BHEL -6.41%, GE Vernova T&D India -5.75%, Apar Industries -5.58%, Bank of Maharashtra -3.54%."
+              },
+              {
+                "n": "5",
+                "title": "Smallcap 100 gainers",
+                "detail": "Gallantt Ispat +8.90%, Cemindia Projects +5.77%, Apollo Tyres +3.46%, Cohance Lifesciences +3.33%, Angel One +2.27%."
+              },
+              {
+                "n": "6",
+                "title": "Smallcap 100 losers",
+                "detail": "IDBI Bank -8.10%, Netweb Technologies -7.33%, Chennai Petroleum -6.93%, Anant Raj -6.84%."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://upstox.com/news/market-news/stocks/top-gainers-and-losers-oct-15-tech-mahindra-jumps-4-7-ril-gains-3-nestle-india-tanks-8-check-full-list/article-201925/\" target=\"_blank\" rel=\"noopener\">Upstox</a> / <a href=\"https://hdfcsky.com/news/top-gainers-losers-on-october-15-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>"
+          },
+          {
+            "t": "closing",
+            "html": "Edition 11. The paper now opens with a 5-minute route, and all share-by-share moves sit in the appendix. Tell me what to keep, change or drop."
+          }
+        ]
+      }
+    ]
+  },
+  "audio": {
+    "full": "audio/d11-full.m4a",
+    "quick": "audio/d11-quick.m4a"
+  },
+  "times": {
+    "full": "audio/d11-full.times.json"
+  }
+}
