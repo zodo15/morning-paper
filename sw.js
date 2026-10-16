@@ -2,7 +2,7 @@
    - Shell + data: network first (a new edition shows up the moment it is published), cached copy when offline.
    - Fonts, photos, icons: cache first, filled as you read (so every edition you opened works offline).
    - Audio: never cached here (large, range requests); it needs a connection. */
-var VERSION = 'mp-v5';
+var VERSION = 'mp-v6';
 var SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'data/editions.js', 'data/lraudio.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png',
   'fonts/fraunces-var.woff2', 'fonts/inter-var.woff2', 'fonts/sourceserif4-var.woff2'];
@@ -14,7 +14,7 @@ self.addEventListener('install', function (e) {
 });
 self.addEventListener('activate', function (e) {
   e.waitUntil(caches.keys().then(function (ks) {
-    return Promise.all(ks.filter(function (k) { return k !== VERSION; }).map(function (k) { return caches.delete(k); }));
+    return Promise.all(ks.filter(function (k) { return k !== VERSION && k !== 'mp-nav'; }).map(function (k) { return caches.delete(k); }));
   }).then(function () { return self.clients.claim(); }));
 });
 function networkFirst(req) {
@@ -63,7 +63,9 @@ self.addEventListener('notificationclick', function (e) {
   if (hm) { abs.hash = ''; abs.search = '?c=' + hm[1]; }
   abs = abs.href;
   var internal = abs.indexOf(self.registration.scope) === 0;
-  e.waitUntil(self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then(function (cs) {
+  /* iOS can open the installed app at its start page and ignore the URL, so also leave a note the page reads on launch / resume. */
+  var note = internal ? caches.open('mp-nav').then(function (c) { return c.put('/__nav', new Response(JSON.stringify({ u: abs, t: Date.now() }))); }).catch(function () {}) : Promise.resolve();
+  e.waitUntil(note.then(function () { return self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then(function (cs) {
     if (internal) {
       for (var i = 0; i < cs.length; i++) {
         if (cs[i].url.indexOf(self.registration.scope) === 0 && 'focus' in cs[i]) {
@@ -72,5 +74,5 @@ self.addEventListener('notificationclick', function (e) {
       }
     }
     return self.clients.openWindow(abs);
-  }));
+  }); }));
 });
