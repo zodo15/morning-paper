@@ -1713,11 +1713,11 @@
      {
       "t": "bullets",
       "items": [
-       "<strong>Kill the feature your users do not use.</strong> The coaching product, the robo-adviser and the customer profiling were all dropped within the first year, and each cut moved the product towards the one thing users asked for: choose and buy.",
-       "<strong>Treat distribution as the product.</strong> Customer support run by founders, WhatsApp groups and word of mouth produced 70% to 80% of users, at a time when the company says it had little revenue.",
-       "<strong>The unit that carries the margin can also carry the risk.</strong> A year ago derivatives were 56.9% of income. When a rule changed the product's economics, the company's answer was mix: margin lending, commodities, an asset manager and a wealth business.",
-       "<strong>A volume metric needs a quality metric.</strong> A platform paid on trading activity earns most from the most active traders. In the multitask framework of <a href=\"http://web.stanford.edu/~milgrom/publishedarticles/Multitask%20Principal%20Agent.pdf\" target=\"_blank\" rel=\"noopener\">Holmström and Milgrom</a>, a reward on the measured task (volume) pulls attention from the unmeasured one (investor outcomes). The F&O share fall from 18% to 10% of customers and the growth of SIPs show a business tilting back towards the second.",
-       "<strong>For your own work.</strong> Insurance aggregators face the same shape. Commission measures the sale and is easy to count; fit, claim support and persistency are hard to count. IRDAI's current paper tries to put measures on the second group."
+       "Kill the feature your users do not use. The coaching product, the robo-adviser and the customer profiling were all dropped within the first year, and each cut moved the product towards the one thing users asked for: choose and buy.",
+       "Treat distribution as the product. Customer support run by founders, WhatsApp groups and word of mouth produced 70% to 80% of users, at a time when the company says it had little revenue.",
+       "The unit that carries the margin can also carry the risk. A year ago derivatives were 56.9% of income. When a rule changed the product's economics, the company's answer was mix: margin lending, commodities, an asset manager and a wealth business.",
+       "A volume metric needs a quality metric. A platform paid on trading activity earns most from the most active traders. In the multitask framework of Holmström and Milgrom, a reward on the measured task (volume) pulls attention from the unmeasured one (investor outcomes). The F&O share fall from 18% to 10% of customers and the growth of SIPs show a business tilting back towards the second.",
+       "For your own work. Insurance aggregators face the same shape. Commission measures the sale and is easy to count; fit, claim support and persistency are hard to count. IRDAI's current paper tries to put measures on the second group."
       ]
      },
      {
@@ -1749,19 +1749,19 @@
      {
       "t": "bullets",
       "items": [
-       "<a href=\"https://resources.groww.in/web-assets/media-library/2026/10/Q2%20FY27%20AI%20Earnings%20Pack.md\" target=\"_blank\" rel=\"noopener\">Groww Q2 FY27 earnings pack</a> (company primary, summarising its financial results, KPI handbook and shareholders' letter, 14 October 2026).",
-       "<a href=\"https://www.financialexpress.com/business/industry-groww-q2-results-net-profit-up-54-to-rs-725-crore-derivatives-income-dips-14-on-cas-4361076/\" target=\"_blank\" rel=\"noopener\">Financial Express, Groww Q2 results</a>, 14 October 2026.",
-       "<a href=\"https://economictimes.indiatimes.com/tech/technology/growws-10-year-journey-to-an-ipo-from-mutual-fund-seller-to-stock-market-leader/articleshow/125253136.cms\" target=\"_blank\" rel=\"noopener\">ET, Groww's 10-year journey to an IPO</a>, 11 November 2025.",
-       "<a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-four-exflipsters-built-groww-into-a-unicorn/70003/1\" target=\"_blank\" rel=\"noopener\">Forbes India, how four ex-Flipsters built Groww into a unicorn</a>, 25 August 2021.",
-       "<a href=\"https://yourstory.com/2018/02/flipkart-mafia-flipped-financial-services-got-funded-y-combinator\" target=\"_blank\" rel=\"noopener\">YourStory, how ex-Flipkart employees flipped into financial services</a>, 13 February 2018.",
-       "<a href=\"https://yourstory.com/2020/06/product-roadmap-flipkart-mafia-groww-simpler-customisation\" target=\"_blank\" rel=\"noopener\">YourStory, product roadmap</a>, 24 June 2020, and <a href=\"https://yourstory.com/2024/09/groww-lalit-keshre-customer-obsession-techsparks\" target=\"_blank\" rel=\"noopener\">TechSparks interview</a>, 26 September 2024.",
-       "<a href=\"https://inc42.com/features/growws-lalit-keshre-on-getting-millennials-to-save-by-simplifying-investments-mutual-funds/\" target=\"_blank\" rel=\"noopener\">Inc42, Keshre interview</a>, 19 August 2019, and <a href=\"https://inc42.com/features/how-growws-contrarian-too-many-options-approach-worked-its-magic-on-indias-millennial-investors/\" target=\"_blank\" rel=\"noopener\">Inc42, the too-many-options approach</a>, 9 April 2021.",
-       "<a href=\"https://timesofindia.indiatimes.com/business/startups/people/my-startup-idea-groww/articleshow/62853074.cms\" target=\"_blank\" rel=\"noopener\">Times of India, My Startup Idea</a>, 11 February 2018.",
-       "<a href=\"https://techcrunch.com/2020/09/09/groww-an-investment-app-for-millennials-in-india-raises-30m-led-by-yc-continuity/\" target=\"_blank\" rel=\"noopener\">TechCrunch, Series C</a> (9 September 2020), <a href=\"https://techcrunch.com/2021/04/07/investment-app-for-millennials-groww-raises-83-million-at-over-1-billion-valuation/\" target=\"_blank\" rel=\"noopener\">Series D</a> (7 April 2021) and <a href=\"https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/\" target=\"_blank\" rel=\"noopener\">the reverse flip and IPO</a> (16 September 2025).",
-       "<a href=\"https://www.reuters.com/world/india/indian-investment-platform-groww-valued-3-bln-new-funding-round-2021-10-25/\" target=\"_blank\" rel=\"noopener\">Reuters, the $3 billion round</a>, 25 October 2021.",
-       "<a href=\"https://inc42.com/features/zerodha-angel-one-groww-revenue-squeeze-sebi-crackdown/\" target=\"_blank\" rel=\"noopener\">Inc42, the SEBI squeeze on brokers</a> (6 October 2025), <a href=\"https://inc42.com/buzz/brokers-in-september-groww-strengthens-lead-angel-one-closes-in-on-zerodha/\" target=\"_blank\" rel=\"noopener\">Inc42, brokers in September</a> (14 October 2026).",
-       "<a href=\"https://www.medianama.com/2026/05/223-groww-q4-fy26-fo-user-share-decline-customer-shift-mutual-funds-etfs/\" target=\"_blank\" rel=\"noopener\">Medianama, the Q4 FY26 earnings call</a>, 1 May 2026.",
-       "<a href=\"https://www.thehindubusinessline.com/markets/ipo-bound-groww-completes-acquisition-of-fisdom-after-sebi-nod-marks-entry-into-wealth-management/article70131128.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, the Fisdom acquisition</a>, 6 October 2025, and <a href=\"https://www.thehindubusinessline.com/markets/nifty-touches-23000-as-india-bucks-asian-rout-yes-bank-idbi-crash-on-rulings/article71587864.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, market close</a>, 15 October 2026."
+       "Groww Q2 FY27 earnings pack (company primary, summarising its financial results, KPI handbook and shareholders' letter, 14 October 2026).",
+       "Financial Express, Groww Q2 results, 14 October 2026.",
+       "ET, Groww's 10-year journey to an IPO, 11 November 2025.",
+       "Forbes India, how four ex-Flipsters built Groww into a unicorn, 25 August 2021.",
+       "YourStory, how ex-Flipkart employees flipped into financial services, 13 February 2018.",
+       "YourStory, product roadmap, 24 June 2020, and TechSparks interview, 26 September 2024.",
+       "Inc42, Keshre interview, 19 August 2019, and Inc42, the too-many-options approach, 9 April 2021.",
+       "Times of India, My Startup Idea, 11 February 2018.",
+       "TechCrunch, Series C (9 September 2020), Series D (7 April 2021) and the reverse flip and IPO (16 September 2025).",
+       "Reuters, the $3 billion round, 25 October 2021.",
+       "Inc42, the SEBI squeeze on brokers (6 October 2025), Inc42, brokers in September (14 October 2026).",
+       "Medianama, the Q4 FY26 earnings call, 1 May 2026.",
+       "BusinessLine, the Fisdom acquisition, 6 October 2025, and BusinessLine, market close, 15 October 2026."
       ]
      },
      {
