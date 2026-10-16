@@ -1009,6 +1009,29 @@
       if (q && /^c[a-z0-9]+$/.test(q)) { history.replaceState(null, '', location.pathname + '#/cards/' + q); }
     } catch (x) {}
   })();
+  /* Pending deep link left by the service worker when a notification was tapped (iOS may open the app on Today and drop the URL). */
+  function applyPendingNav() {
+    try {
+      if (!window.caches) return;
+      caches.open('mp-nav').then(function (c) {
+        return c.match('/__nav').then(function (r) {
+          if (!r) return;
+          return r.json().then(function (j) {
+            c.delete('/__nav');
+            if (!j || !j.u || Date.now() - j.t > 120000) return;
+            var u = new URL(j.u); if (u.origin !== location.origin) return;
+            var cq = u.searchParams.get('c');
+            var want = cq && /^c[a-z0-9]+$/.test(cq) ? '#/cards/' + cq : (u.hash || '');
+            if (want && location.hash !== want) location.hash = want;
+          });
+        });
+      }).catch(function () {});
+    } catch (x) {}
+  }
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'visible') applyPendingNav(); });
+  window.addEventListener('pageshow', applyPendingNav);
+  window.addEventListener('focus', applyPendingNav);
+  applyPendingNav();
   route();
 
   /* Web Push: one tap to turn alerts on (iOS needs the Home Screen app and a tap). */
