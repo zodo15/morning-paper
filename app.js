@@ -232,7 +232,9 @@
         var leadSpans = [];
         var h1el = scopeEl.querySelector('.h1');
         var introEl = scopeEl.querySelector('.intro');
+        var deckEl = scopeEl.querySelector('.deck');
         if (h1el) leadSpans = leadSpans.concat(wrapWholeBlock(h1el));
+        if (deckEl) leadSpans = leadSpans.concat(wrapWholeBlock(deckEl));
         if (introEl) leadSpans = leadSpans.concat(wrapWholeBlock(introEl));
         if (leadSpans.length) items.unshift({ s: 0, e: items[0].s, spans: leadSpans, block: introEl || h1el });
       }
@@ -682,11 +684,16 @@
       '<a class="ednav-btn' + (day <= 1 ? ' disabled' : '') + '" href="#/edition/' + (day - 1) + '">&larr; ' + (day > 1 ? esc(D.meta[day - 1].short) : '') + '</a>' +
       '<a class="ednav-btn next' + (day >= D.today ? ' disabled' : '') + '" href="#/edition/' + (day + 1) + '">' + (day < D.today ? esc(D.meta[day + 1].short) : '') + ' &rarr;</a></div>';
   }
+  function leadSplit(fact) {
+    var t = String(fact || '').replace(/^Edition \d+\.\s*/, '');
+    var m = t.match(/^(.+?[.!?])\s+(?=[A-Z])/);
+    return m ? { head: m[1], deck: t.slice(m[0].length) } : { head: t, deck: '' };
+  }
   function renderToday() {
     var ed = D.editions[D.today];
     var h = '<div class="wrap">' + mast('today') + tickerHTML(D.today) +
       '<div class="kicker">Today &middot; ' + esc(D.meta[D.today].date) + '</div>' +
-      '<h1 class="h1">' + esc(ed.fact) + '</h1>' +
+      '<h1 class="h1">' + esc(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + esc(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
       editionBody(D.today, true) + ednavHTML(D.today) +
       '<div class="footer"><span>The Morning Paper &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span><a href="#" class="push-link" data-push="1" hidden></a></div></div>';
@@ -704,7 +711,7 @@
       var thumb = ed.thumb || (ed.hero && ed.hero.img) || plateFor(n, 'Front page') || 'photos/concept-compounding.jpg';
       h += '<a class="arch-card" href="#/edition/' + n + '"><span class="arch-num">' + n + '</span>' +
         '<span class="arch-meta"><b>' + esc(D.meta[n].date) + (n === D.today ? ' &nbsp;<span class="arch-today-tag">Today</span>' : '') + '</b>' +
-        '<span>' + esc(ed.fact) + '</span></span>' +
+        '<span>' + esc(leadSplit(ed.fact).head) + '</span></span>' +
         '<img class="arch-thumb" src="' + thumb + '" alt="" loading="lazy"></a>';
     }
     h += '</div><div class="footer"><span>The Morning Paper</span><span>' + D.today + ' editions</span></div></div>';
@@ -715,7 +722,7 @@
     if (!ed) { renderArchive(); return; }
     var h = '<div class="wrap">' + mast('') +
       '<div class="kicker">Edition ' + n + ' &middot; ' + esc(D.meta[n].date) + '</div>' +
-      '<h1 class="h1">' + esc(ed.fact) + '</h1>' +
+      '<h1 class="h1">' + esc(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + esc(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
       editionBody(n, n === D.today) + ednavHTML(n) +
       '<div class="footer"><span>The Morning Paper</span><span><a href="#/archive">Full archive</a></span></div></div>';
