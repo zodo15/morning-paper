@@ -64,8 +64,9 @@ a:hover { border-bottom-color: var(--red); }
 
 /* ---------- article ---------- */
 .kicker { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 12.5px; letter-spacing: .15em; font-variant-caps: all-small-caps; color: var(--red); margin: 26px 0 6px; }
-.h1 { font-family: 'PS Display', serif; font-weight: 700; font-size: 30px; line-height: 1.18; letter-spacing: -.01em; margin: 0 0 10px; }
+.h1 { font-family: 'PS Body', Georgia, serif; font-weight: 600; font-size: 28px; line-height: 1.22; letter-spacing: 0; text-wrap: balance; margin: 0 0 10px; }
 .dek { font-weight: 600; font-size: 16.5px; line-height: 1.5; color: #4A453B; margin: 0 0 14px; }
+.deck { font-family: 'PS Body', Georgia, serif; font-size: 18px; line-height: 1.5; color: #4A453B; margin: 0 0 14px; }
 .intro { font-size: 15.5px; line-height: 1.6; color: #4A453B; border-left: 3px solid var(--red); padding-left: 14px; margin: 0 0 20px; }
 .body-p { font-size: 16.5px; line-height: 1.7; margin: 0 0 14px; }
 .section { border-top: 1px solid var(--line); margin-top: 26px; padding-top: 4px; }
@@ -75,7 +76,7 @@ a:hover { border-bottom-color: var(--red); }
 .listen-btn { font-family: 'PS Meta', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: .1em; color: var(--ink); border: 1.5px solid var(--ink); border-radius: 999px; background: none; padding: 5px 12px; cursor: pointer; flex: none; }
 .listen-btn:hover { background: var(--ink); color: var(--paper); }
 .story-kicker { font-family: 'PS Meta', sans-serif; font-weight: 600; font-size: 11.5px; letter-spacing: .14em; font-variant-caps: all-small-caps; color: var(--stone); margin: 20px 0 4px; }
-.story-title { font-family: 'PS Display', serif; font-weight: 700; font-size: 21px; line-height: 1.25; margin: 0 0 8px; font-variation-settings: normal; }
+.story-title { font-family: 'PS Body', Georgia, serif; font-weight: 600; font-size: 21px; line-height: 1.28; margin: 0 0 8px; font-variation-settings: normal; }
 .bullets { margin: 0 0 14px; padding-left: 20px; }
 .bullets li { font-size: 16px; line-height: 1.65; margin-bottom: 9px; }
 .bullets li::marker { color: var(--red); }
@@ -109,7 +110,7 @@ a.arch-card { border-bottom: 1px solid var(--line); }
 .arch-num { flex: none; width: 40px; height: 40px; border-radius: 11px; background: var(--red); color: #FCFAF5; font-family: 'PS Display', serif; font-weight: 700; font-size: 20px; display: flex; align-items: center; justify-content: center; }
 .arch-meta { flex: 1; min-width: 0; }
 .arch-meta b { display: block; font-family: 'PS Meta', sans-serif; font-weight: 600; font-size: 13.5px; margin-bottom: 2px; }
-.arch-meta span { display: block; font-size: 14px; color: #4A453B; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.arch-meta span { display: block; font-size: 15px; line-height: 1.35; font-weight: 600; color: var(--ink); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 .arch-thumb { flex: none; width: 74px; height: 56px; object-fit: cover; border-radius: 8px; border: 1px solid var(--ink); }
 .arch-today-tag { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 9.5px; letter-spacing: .14em; color: var(--red); font-variant-caps: all-small-caps; }
 
@@ -122,7 +123,7 @@ a.arch-card { border-bottom: 1px solid var(--line); }
 /* ---------- long read teaser ---------- */
 .lr-teaser { display: block; border: 1.5px solid var(--ink); border-radius: 14px; padding: 16px 18px; margin: 18px 0; background: var(--card); text-decoration: none; color: var(--ink); }
 .lr-teaser .k { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 11px; letter-spacing: .18em; font-variant-caps: all-small-caps; color: var(--red); }
-.lr-teaser .t { font-family: 'PS Display', serif; font-weight: 700; font-size: 22px; line-height: 1.2; margin: 6px 0 4px; }
+.lr-teaser .t { font-family: 'PS Body', Georgia, serif; font-weight: 600; font-size: 22px; line-height: 1.25; margin: 6px 0 4px; }
 .lr-teaser .d { font-size: 14.5px; color: #4A453B; }
 .lr-teaser .go { font-family: 'PS Meta', sans-serif; font-weight: 700; font-size: 12px; color: var(--red); margin-top: 8px; }
 
@@ -141,7 +142,7 @@ a.arch-card { border-bottom: 1px solid var(--line); }
 
 @media (min-width: 720px) {
   .mast-name { font-size: 54px; }
-  .h1 { font-size: 36px; }
+  .h1 { font-size: 34px; }
 }
 
 /* recorded-reader sync highlight */
@@ -178,7 +179,7 @@ a.arch-card { border-bottom: 1px solid var(--line); }
   .mast-sub { font-size: 13px; }
   .tab { font-size: 13.5px; padding: 12px 20px 11px; }
   .ticker-in { font-size: 12px; }
-  .h1 { font-size: 42px; }
+  .h1 { font-size: 38px; }
   .intro { font-size: 17px; }
   .body-p { font-size: 18px; line-height: 1.75; }
   .bullets li { font-size: 17px; }
@@ -207,7 +208,7 @@ a.arch-card { border-bottom: 1px solid var(--line); }
 @media (min-width: 1440px) {
   .wrap { max-width: 880px; }
   .mast-name { font-size: 80px; }
-  .h1 { font-size: 46px; }
+  .h1 { font-size: 42px; }
   .body-p { font-size: 18.5px; }
   figure.plate { width: min(1080px, calc(100vw - 64px)); }
 }
@@ -217,7 +218,7 @@ a.arch-card { border-bottom: 1px solid var(--line); }
 .lr-card > img { flex: none; width: 108px; height: 72px; object-fit: cover; border-radius: 8px; border: 1px solid var(--ink); }
 .lr-card-meta { flex: 1; min-width: 0; }
 .lr-card-meta .m { display: block; font-family: 'PS Meta', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: .1em; font-variant-caps: all-small-caps; color: var(--stone); margin-bottom: 4px; }
-.lr-card-meta .t { display: block; font-family: 'PS Display', serif; font-weight: 700; font-size: 19px; line-height: 1.25; margin-bottom: 4px; }
+.lr-card-meta .t { display: block; font-family: 'PS Body', Georgia, serif; font-weight: 600; font-size: 19px; line-height: 1.28; margin-bottom: 4px; }
 .lr-card-meta .d { display: block; font-size: 14.5px; line-height: 1.5; color: #4A453B; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 a.lr-card:hover .t { color: var(--red); }
 
@@ -251,7 +252,7 @@ a.lr-card:hover .t { color: var(--red); }
 .ncard-img { margin: 0 0 14px; }
 .ncard-img img { width: 100%; height: 170px; object-fit: cover; object-position: 50% 38%; display: block; border: 1px solid var(--ink); border-radius: 6px; }
 .ncard-img figcaption { font-family: 'PS Meta', sans-serif; font-size: 10.5px; color: var(--stone); margin-top: 5px; }
-.ncard-h { font-family: 'PS Display', serif; font-weight: 900; font-size: 29px; line-height: 1.12; letter-spacing: -.015em; margin: 4px 0 12px; }
+.ncard-h { font-family: 'PS Body', Georgia, serif; font-weight: 600; font-size: 26px; line-height: 1.22; letter-spacing: 0; margin: 4px 0 12px; }
 .ncard-b { font-size: 17px; line-height: 1.62; margin: 0 0 16px; }
 .ncard-why { border-left: 3px solid var(--red); padding: 2px 0 2px 13px; margin: 16px 0; display: flex; flex-direction: column; gap: 4px; }
 .ncard-why b { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--red); }
@@ -296,7 +297,7 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .pg-in .ncard-img { margin: 0 0 12px; }
 .pg-in .ncard-img img { height: 28vh; max-height: 190px; min-height: 120px; }
 .pg-in.noimg .ncard-img { display: none; }
-.pg-in .ncard-h { font-size: var(--hs); margin: 2px 0 10px; line-height: 1.12; }
+.pg-in .ncard-h { font-size: var(--hs); margin: 2px 0 10px; line-height: 1.2; }
 .pg-in .ncard-b { font-size: var(--bs); line-height: 1.55; margin: 0 0 12px; }
 .pg-in .ncard-why { margin: 12px 0; }
 .pg-in .ncard-why span { font-size: calc(var(--bs) - 2px); line-height: 1.45; }
