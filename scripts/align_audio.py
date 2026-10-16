@@ -259,7 +259,7 @@ def match_blocks(blocks, placed):
         best = None
         hi = min(ptr + WINDOW, len(placed))
         for p0 in range(ptr, hi):
-            for m in range(1, 9):
+            for m in range(1, 17):
                 if p0 + m > len(placed): break
                 joined = norm(' '.join(x[2] for x in placed[p0:p0+m]))
                 sm = difflib.SequenceMatcher(None, bn, joined)
@@ -268,7 +268,7 @@ def match_blocks(blocks, placed):
                 r = sm.ratio()
                 if best is None or r > best[0]:
                     best = (r, p0, m)
-        if best and best[0] >= 0.5:
+        if best and best[0] >= float(__import__('os').environ.get('MATCH_MIN','0.5')):
             r, p0, m = best
             ptr = p0 + m
             ratios.append(r)
