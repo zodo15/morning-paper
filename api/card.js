@@ -43,6 +43,11 @@ export default async function handler(req, res) {
     var n0 = feed.length; feed = feed.filter(function (c) { return c.id !== b.remove; }); await writeFeed(feed);
     return res.status(200).json({ removed: n0 - feed.length });
   }
+  if (b.pushOnly) {
+    var pu = String(b.url || ''); if (!/^\.\/\?c=c[a-z0-9]+$/.test(pu)) return res.status(400).json({ error: 'url must be ./?c=<card id>' });
+    var pr = await pushAll({ title: clean(b.pushTitle, 110), body: clean(b.pushGist, 160), url: pu, tag: clean(b.tag, 60) || undefined }, b.force === true);
+    return res.status(200).json({ pushOnly: true, push: pr });
+  }
   var tooLong = over(b, ['headline', 'body', 'why', 'watch']);
   if (tooLong) return res.status(400).json({ error: tooLong });
   if (b.update) {
