@@ -1478,5 +1478,302 @@
     ]
    }
   ]
+ },
+ "11": {
+  "title": "Groww: from advice app to top broker",
+  "fact": "Long read, Friday 16 October 2026. Four Flipkart colleagues built a mutual fund app in 2016. By September 2026 Groww held 29.16% of India's active broking clients.",
+  "intro": "This is the story of how a catalogue of 5,000 funds, a failed advice product, a pandemic and a regulator's rules shaped India's largest broker, and what its newest quarter says about the next chapter.",
+  "hero": {
+   "t": "figure",
+   "img": "photos/lr11-hero.jpg",
+   "alt": "UB City towers in Bengaluru, the city where Groww is based",
+   "caption": "UB City, Bengaluru, the city Groww calls home. Photo: Saad Faruque (Wikimedia Commons, CC BY 2.0)."
+  },
+  "groups": [
+   {
+    "heading": "Contents and reading time",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "About 20 minutes. Timeline / 1. The idea / 2. The pivot nobody planned / 3. The first build / 4. Money and rivals / 5. Stocks and the pandemic / 6. The regulator and the flip / 7. Listing / 8. The newest quarter / Lessons / Sources. Back to the <a href=\"https://files.instinct.com/1xx6tnax07z9-nifty-jumps-1-7-as-it\" target=\"_blank\" rel=\"noopener\">morning paper</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Timeline",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "2016",
+        "title": "Four founders leave Flipkart",
+        "detail": "Lalit Keshre quits in April 2016 and the other three follow (Inc42, 2021). The company is incorporated in 2016 and launches in 2017 (YourStory, 2018)."
+       },
+       {
+        "n": "2017",
+        "title": "The new product, May",
+        "detail": "Groww launches as a catalogue of mutual funds. In the first month it signs up six times the users it expected (Keshre to Inc42, 2021)."
+       },
+       {
+        "n": "2018",
+        "title": "Seed round, January",
+        "detail": "Y Combinator, Mukesh Bansal and Ankit Nagori back the company (Forbes India, YourStory)."
+       },
+       {
+        "n": "2019",
+        "title": "Series A and B; broking licence",
+        "detail": "Sequoia India leads a $6.2 million Series A in January and a $21.4 million Series B follows in September (Forbes India). ET reports the SEBI stock-broking licence in 2019."
+       },
+       {
+        "n": "2020",
+        "title": "Stocks and $30 million",
+        "detail": "Groww adds stock investing in June (BusinessLine) and raises a $30 million Series C led by YC Continuity in September (TechCrunch)."
+       },
+       {
+        "n": "2021",
+        "title": "Unicorn, then $3 billion",
+        "detail": "$83 million at over $1 billion in April, led by Tiger Global (TechCrunch). $251 million at $3 billion in October, led by ICONIQ Growth (Reuters)."
+       },
+       {
+        "n": "2023",
+        "title": "Passes Zerodha on active traders",
+        "detail": "In September, 6.6 million against 6.4 million (ET)."
+       },
+       {
+        "n": "2024",
+        "title": "Moves its legal home to India",
+        "detail": "In May the company shifts from the US to India and pays about $159 million in tax (TechCrunch)."
+       },
+       {
+        "n": "2025",
+        "title": "Fisdom and the listing",
+        "detail": "Groww completes its Fisdom purchase on 6 October (BusinessLine) and lists on 12 November (ET)."
+       },
+       {
+        "n": "2026",
+        "title": "Q2 results, 14 October",
+        "detail": "Profit of ₹725 crore on revenue of ₹1,501 crore (Financial Express, Groww)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "1. The idea: buy financial products the way you buy a phone",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 2016 Lalit Keshre was thinking about his second company. He had built an education start-up, Eduflix, that Forbes India says he ran for about two and a half years before folding it in mid-2013 when it did not scale fast enough. Times of India puts his earlier start-up at 2010 and attributes its end to lack of funds. Either way, he knew what a failed company felt like, and he had spent years at Flipkart, where he worked on product. He shortlisted education and finance as the next category, and finance won because, as he told the Times of India, \"despite the e-commerce boom, the finance sector was still quite traditional. People only had fixed deposits as options.\""
+     },
+     {
+      "t": "p",
+      "html": "The team came together as friends do. Keshre and Harsh Jain had met after graduating from IIT, worked at a start-up, drifted apart and then landed in the same team at Flipkart, per Inc42. They brought in Neeraj Singh, who would become the technology head. Ishan Bansal, who looked at deals for Flipkart's corporate development team, joined after a lunch where he told Keshre he had been thinking about the same problem (Inc42, 2019). Jain put the thesis in a line in 2018: the idea of Groww is \"to buy financial products the same way you buy products on Flipkart.\""
+     },
+     {
+      "t": "p",
+      "html": "The opening they saw was a gap between money and behaviour. Sequoia India's Ashish Agrawal wrote when leading the Series A that Indians save about 30% of disposable income, much of it in gold, property, fixed deposits or cash, and that fewer than 3% of Indians invested in equities (Forbes India, 2021). The founders did not have a financial-services background. They had a conviction, drawn from e-commerce, that customer experience was missing in the category. They also did not rush. Keshre says it took almost a year to launch because they spent so much time talking to customers on the ground (Inc42, 2019)."
+     }
+    ]
+   },
+   {
+    "heading": "2. The pivot nobody planned",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The first version of Groww was an advice company. Times of India reports that within six months of setting up, Groww changed from providing a financial coach to providing financial products, after Keshre found there were few takers for coaching. Keshre says users kept asking whether they could buy on the platform. The company dropped coaching and built a catalogue instead."
+     },
+     {
+      "t": "p",
+      "html": "That catalogue was the bet. In 2017 the usual industry approach was to curate a short list, because too many choices scare a first-time investor. Groww went the other way. Keshre called it \"contrarian\" to offer 5,000 mutual funds and let customers choose, and the team compensated by giving every fund a page that showed what it held, the expense ratio, who managed it and the manager's record (Inc42, 2021). When the product relaunched in May 2017, Keshre says, it signed up six times the users the team expected in the first month. He calls it the moment they knew it would work."
+     },
+     {
+      "t": "p",
+      "html": "Being first was never the claim. In 2018 Neeraj Singh answered a question about Paytm and PhonePe entering the category by pointing to Flipkart itself: it was not the first e-commerce company either, and big entrants only validated the idea (YourStory, 2018). Years later at a conference Keshre put it more sharply: \"Being first is not important; it's more important to be the last\" (YourStory, 2024)."
+     },
+     {
+      "t": "callout",
+      "html": "<strong>A conflict between two accounts.</strong> YourStory reported in February 2018 that Groww earned 1% to 1.5% of assets in commissions from fund houses and that adding direct plans was its next goal. ET's 2025 retrospective says Groww went direct from the start while rivals such as FundsIndia and Scripbox ran regular plans. Both are named sources and they disagree on when the model shifted."
+     }
+    ]
+   },
+   {
+    "heading": "3. The first build",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Neeraj Singh described the first build to YourStory in 2020. The team was six: the four founders and two engineers, one of them a former Flipkart colleague and the other a fresher. They needed people who would work for less than the market rate and bring their own laptops. The first version went live with three mutual funds and took two months to build."
+     },
+     {
+      "t": "p",
+      "html": "For six months the same team ran experiments: customer profiling, a robo-adviser, a risk analysis, and the purchase flow itself. Then they cut. They dropped robo-advice and profiling and expanded from three schemes to every fund from every fund house, again on user feedback. Singh says the team was never satisfied with the product, even though users said they loved the design. The hardest early problem was trust. Nobody had heard of Groww, so the founders answered customer support themselves, talked to users and kept the product stable. People then recommended it to family and friends."
+     },
+     {
+      "t": "p",
+      "html": "The feedback loop was physical as well as digital. Keshre told TechSparks in 2024 that the team spent hundreds of hours talking to customers, including strangers waiting in cinema queues, and watched facial expressions because polite Indians will not say a product is bad. Groww also ran WhatsApp groups. By early 2018 it had more than 35 of them, and the founders said they expected peer groups to make people comfortable investing (YourStory, 2018). Keshre says 70% to 80% of users came through word of mouth."
+     },
+     {
+      "t": "p",
+      "html": "A customer in the Forbes India profile shows what they were solving. In 2016 Sonia Chauhan, a young fashion designer in Bengaluru, wanted to invest in mutual funds, but the fast-spoken risk disclaimer at the end of fund advertisements scared her off. The word she remembered was \"risk.\""
+     }
+    ]
+   },
+   {
+    "heading": "4. Money and rivals",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Funding followed the traction. The undisclosed seed in January 2018 came from <a href=\"https://en.wikipedia.org/wiki/Y_Combinator\" target=\"_blank\" rel=\"noopener\">Y Combinator</a> (the US start-up accelerator), Mukesh Bansal, who founded Myntra and Cure.fit, and Ankit Nagori, Cure.fit's co-founder. A pre-Series A of $1.1 million followed in six months. Sequoia India led a $6.2 million Series A in January 2019 and a $21.4 million Series B followed in September 2019 (Forbes India). The September 2020 Series C was $30 million, led by YC Continuity with Sequoia India, Ribbit Capital and Propel Ventures, which took the total raised to $59 million. At that point Groww had more than 8 million registered users for mutual funds and 200,000 stock buyers, and Keshre said more than 60% of users were outside the big cities (TechCrunch)."
+     },
+     {
+      "t": "p",
+      "html": "The unicorn round was $83 million in April 2021, led by <a href=\"https://en.wikipedia.org/wiki/Tiger_Global_Management\" target=\"_blank\" rel=\"noopener\">Tiger Global</a> (a US investment firm), at a valuation above $1 billion, up from $250 million a few months earlier. Groww had 15 million registered users, two-thirds of them first-time investors (TechCrunch). Six months later ICONIQ Growth led a $251 million round at $3 billion, with Sequoia and Tiger participating (Reuters)."
+     },
+     {
+      "t": "p",
+      "html": "The competition was Zerodha, Paytm Money, Upstox, ET Money and Smallcase, with Zerodha the profitable incumbent that never took venture money (Inc42, 2021). Keshre's answer was a posture, not a tactic. At the unicorn moment he told Inc42 that Groww was \"not fighting with\" banks and financial institutions but partnering with them to create a market. His stated plan was to deepen the investment products for a year before moving into lending."
+     },
+     {
+      "t": "p",
+      "html": "Keshre also says Groww made no revenue for its first four years, a strategy he calls delayed monetisation, adding \"we're not building this company for today or next year.\" ET offers a different number: between FY17 and FY20, operating revenue stayed between ₹25 lakh and ₹30 lakh while the active user base grew quickly. Both are named sources, and the gap between zero and a few lakh rupees shows how small the revenue was compared with the user count."
+     }
+    ]
+   },
+   {
+    "heading": "5. Stocks and the pandemic",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "ET reports that Groww secured a stock-broking licence from <a href=\"https://en.wikipedia.org/wiki/Securities_and_Exchange_Board_of_India\" target=\"_blank\" rel=\"noopener\">SEBI</a> (India's securities regulator) in 2019 and launched stock investing in June 2020 (BusinessLine). The timing mattered. As trading opened up during the pandemic years, ET writes, Groww was \"at the right place at the right time\", and SEBI's move to digital customer onboarding helped. In 2021 Zerodha had around 3.4 million active traders and Groww 0.7 million. In September 2023 Groww passed Zerodha with 6.6 million against 6.4 million."
+     },
+     {
+      "t": "p",
+      "html": "Two things explain the climb in ET's account. One was brand: Groww used video where Zerodha used text education, and its YouTube channel has 2.4 million subscribers against about 740,000 for Zerodha. Keshre said the company never worked with financial influencers. The other was the word of mouth that had worked for funds: an industry executive told ET that first-time traders heard to \"try Groww.\" Paytm and PhonePe, the two large payments companies, stayed on banking and payments, which left wealth management open to Groww."
+     },
+     {
+      "t": "p",
+      "html": "Broking brought profits. ET reports that Groww closed FY25 with revenue above ₹4,000 crore and a net profit of ₹1,819 crore. A first-time investor who came for an index fund in 2017 was by 2021 able to trade futures and options on the same screen."
+     }
+    ]
+   },
+   {
+    "heading": "6. The regulator, the flip and the cost",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Two shocks tested the company. The first was structural. Groww had been incorporated in the US, like many Indian start-ups with American investors. In May 2024 it moved its legal home to India in a <a href=\"https://en.wikipedia.org/wiki/Flip_(startup)\" target=\"_blank\" rel=\"noopener\">reverse flip</a> (a move of a company's holding structure back to India) and paid about $159 million in tax. TechCrunch notes that the previous year showed a net loss of about ₹8 billion, mainly from expenses tied to the relocation, while the year to March 2025 showed profit after tax of ₹18.2 billion on total income of ₹40.6 billion, up 45%."
+     },
+     {
+      "t": "p",
+      "html": "The second was regulatory. After SEBI tightened futures and options <a href=\"https://en.wikipedia.org/wiki/Futures_and_options\" target=\"_blank\" rel=\"noopener\">F&amp;O</a> (derivatives that are contracts on future prices) rules in November 2024, Inc42 reported that derivatives had fuelled 70% to 90% of the incomes of Zerodha, Angel One and Groww, and that trading volumes fell. Groww's own management said its F&O customer penetration fell from 18% in November 2024 to 10% in the March 2026 quarter, per Medianama's report of the earnings call, with customers instead joining through mutual funds and ETFs."
+     },
+     {
+      "t": "p",
+      "html": "The company had pushed ahead anyway. In October 2025 it completed the purchase of wealth platform <a href=\"https://en.wikipedia.org/wiki/Fisdom\" target=\"_blank\" rel=\"noopener\">Fisdom</a> (a Bengaluru wealth platform), opening a business for affluent customers under the name W. The DRHP said more than 2.7 lakh active affluent users held portfolios above ₹25 lakh, a segment that had grown nine-fold between FY23 and the June 2025 quarter (BusinessLine, citing the DRHP). ET framed the risk: wealth management is relationship-driven and Groww, a do-it-yourself platform, would have to build offline capacity and compete for relationship managers whose pay had risen 50% to 100%."
+     }
+    ]
+   },
+   {
+    "heading": "7. Listing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Groww filed its draft prospectus in September 2025 with an IPO of fresh shares and an offer for sale. TechCrunch notes that four investors, Peak XV Partners, Y Combinator, Ribbit and Tiger Global, were selling about 394 million shares, roughly 9.4% of the equity, while the four founders were selling about 4 million, 0.7% of the offer. The company listed on 12 November 2025 with a price band of ₹95 to ₹100 and a planned raise of ₹6,600 crore, which at the top of the band valued it at ₹62,332 crore (ET). ET listed the challenges on listing day: reliance on broking, a crowded wealth market and the regulator's focus on speculative trading."
+     }
+    ]
+   },
+   {
+    "heading": "8. The newest quarter",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "On 14 October 2026 Groww reported results for the quarter to September (the Q2 shareholders' letter and earnings pack are on its investor site, with a Financial Express summary). Revenue from operations was ₹1,501.53 crore, up 47.4%, and profit was ₹724.70 crore, up 53.8% on the year and 1.3% lower than the June quarter. EBITDA margin was 64.5%. Total transacting users reached 2.406 crore, up 26.6%, and customer assets ₹3.89 lakh crore, up 45.7%. Of those users 1.815 crore are active, defined as having transacted in three months or holding assets. Groww says its share of retail stock turnover rose to 15.4% from 12.9%, its mutual fund SIP inflow share to 14.8% from 13.1%, and its margin-lending share to 2.7% from 1.6%."
+     },
+     {
+      "t": "p",
+      "html": "The notable line is the income mix. Equity derivatives were 56.9% of total income a year ago and 44.8% now. Margin lending (MTF, loans against shares) rose from 4.7% to 10.1%, and commodity derivatives from 0.2% to 6.2%."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg aria-label=\"Groww share of total income by product, Q2 FY26 against Q2 FY27\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 360\"><g><text fill=\"#222\" font-size=\"16\" text-anchor=\"end\" x=\"180\" y=\"46\">Equity derivatives</text><rect fill=\"#9aa5b1\" height=\"24\" rx=\"2\" width=\"445.7166666666667\" x=\"190\" y=\"16\"></rect><text fill=\"#444\" font-size=\"15\" x=\"643.7166666666667\" y=\"34\">56.9%</text><rect fill=\"#1f6feb\" height=\"24\" rx=\"2\" width=\"350.9333333333333\" x=\"190\" y=\"44\"></rect><text fill=\"#444\" font-size=\"15\" x=\"548.9333333333333\" y=\"62\">44.8%</text></g><g><text fill=\"#222\" font-size=\"16\" text-anchor=\"end\" x=\"180\" y=\"116\">Stocks</text><rect fill=\"#9aa5b1\" height=\"24\" rx=\"2\" width=\"139.43333333333334\" x=\"190\" y=\"86\"></rect><text fill=\"#444\" font-size=\"15\" x=\"337.43333333333334\" y=\"104\">17.8%</text><rect fill=\"#1f6feb\" height=\"24\" rx=\"2\" width=\"136.29999999999998\" x=\"190\" y=\"114\"></rect><text fill=\"#444\" font-size=\"15\" x=\"334.29999999999995\" y=\"132\">17.4%</text></g><g><text fill=\"#222\" font-size=\"16\" text-anchor=\"end\" x=\"180\" y=\"186\">Margin lending (MTF)</text><rect fill=\"#9aa5b1\" height=\"24\" rx=\"2\" width=\"36.81666666666667\" x=\"190\" y=\"156\"></rect><text fill=\"#444\" font-size=\"15\" x=\"234.81666666666666\" y=\"174\">4.7%</text><rect fill=\"#1f6feb\" height=\"24\" rx=\"2\" width=\"79.11666666666667\" x=\"190\" y=\"184\"></rect><text fill=\"#444\" font-size=\"15\" x=\"277.1166666666667\" y=\"202\">10.1%</text></g><g><text fill=\"#222\" font-size=\"16\" text-anchor=\"end\" x=\"180\" y=\"256\">Commodity derivatives</text><rect fill=\"#9aa5b1\" height=\"24\" rx=\"2\" width=\"3\" x=\"190\" y=\"226\"></rect><text fill=\"#444\" font-size=\"15\" x=\"199.56666666666666\" y=\"244\">0.2%</text><rect fill=\"#1f6feb\" height=\"24\" rx=\"2\" width=\"48.56666666666666\" x=\"190\" y=\"254\"></rect><text fill=\"#444\" font-size=\"15\" x=\"246.56666666666666\" y=\"272\">6.2%</text></g><rect fill=\"#9aa5b1\" height=\"16\" width=\"16\" x=\"190\" y=\"308\"></rect><text fill=\"#333\" font-size=\"15\" x=\"214\" y=\"321\">Q2 FY26 (Jul to Sep 2025)</text><rect fill=\"#1f6feb\" height=\"16\" width=\"16\" x=\"440\" y=\"308\"></rect><text fill=\"#333\" font-size=\"15\" x=\"464\" y=\"321\">Q2 FY27 (Jul to Sep 2026)</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"348\">Share of total income, %. Source: Groww Q2 FY27 shareholders' letter, as summarised in its earnings pack.</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "The company attributes the derivatives drop to the new closing auction system (CAS), under which SEBI replaced the earlier volume-weighted average price method with a 20-minute auction from 3:15 to 3:35 pm for F&O-eligible shares from 3 August 2026. Equity derivatives revenue fell 14.3% from the June quarter, which Groww says matches the industry. Groww says it expects activity to normalise if SEBI adopts a consultation paper that would separate derivatives settlement from the closing auction price. BusinessLine records that SEBI's advisory panel backed keeping the existing 30-minute VWAP method, leaving the CAS-linked formula on hold. The two positions describe the same open question from different sides."
+     },
+     {
+      "t": "p",
+      "html": "Growth in the other lines shows where the company is spending effort. Groww AMC, its mutual fund arm, held ₹7,179 crore of assets, up 145.2%, and wealth assets crossed ₹10,000 crore at ₹10,789.66 crore (earnings pack). In September 2026 NSE data showed Groww with 1.34 crore active clients, a 29.16% share of the market, adding 1.01 lakh in the month against Zerodha's 67.92 lakh, which fell by 5,313, and Angel One's 67.56 lakh, which rose by 36,956 (Inc42)."
+     }
+    ]
+   },
+   {
+    "heading": "Lessons",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "<strong>Kill the feature your users do not use.</strong> The coaching product, the robo-adviser and the customer profiling were all dropped within the first year, and each cut moved the product towards the one thing users asked for: choose and buy.",
+       "<strong>Treat distribution as the product.</strong> Customer support run by founders, WhatsApp groups and word of mouth produced 70% to 80% of users, at a time when the company says it had little revenue.",
+       "<strong>The unit that carries the margin can also carry the risk.</strong> A year ago derivatives were 56.9% of income. When a rule changed the product's economics, the company's answer was mix: margin lending, commodities, an asset manager and a wealth business.",
+       "<strong>A volume metric needs a quality metric.</strong> A platform paid on trading activity earns most from the most active traders. In the multitask framework of <a href=\"http://web.stanford.edu/~milgrom/publishedarticles/Multitask%20Principal%20Agent.pdf\" target=\"_blank\" rel=\"noopener\">Holmström and Milgrom</a>, a reward on the measured task (volume) pulls attention from the unmeasured one (investor outcomes). The F&O share fall from 18% to 10% of customers and the growth of SIPs show a business tilting back towards the second.",
+       "<strong>For your own work.</strong> Insurance aggregators face the same shape. Commission measures the sale and is easy to count; fit, claim support and persistency are hard to count. IRDAI's current paper tries to put measures on the second group."
+      ]
+     },
+     {
+      "t": "facts",
+      "items": [
+       {
+        "k": "Open question",
+        "v": "Whether SEBI keeps the existing settlement method or the closing-auction formula, which sets how much derivatives income recovers (Groww letter, BusinessLine)."
+       },
+       {
+        "k": "Baseline",
+        "v": "Equity derivatives 44.8% of Q2 FY27 income; active client share 29.16% in September 2026."
+       },
+       {
+        "k": "Next release",
+        "v": "NSE's monthly active-client data for October, and Groww's Q3 results."
+       },
+       {
+        "k": "Weakens the CAS explanation if",
+        "v": "The derivatives share of income recovers toward the 56.9% of a year ago without a rule change, which would show the CAS effect was not the cause."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Sources read",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "<a href=\"https://resources.groww.in/web-assets/media-library/2026/10/Q2%20FY27%20AI%20Earnings%20Pack.md\" target=\"_blank\" rel=\"noopener\">Groww Q2 FY27 earnings pack</a> (company primary, summarising its financial results, KPI handbook and shareholders' letter, 14 October 2026).",
+       "<a href=\"https://www.financialexpress.com/business/industry-groww-q2-results-net-profit-up-54-to-rs-725-crore-derivatives-income-dips-14-on-cas-4361076/\" target=\"_blank\" rel=\"noopener\">Financial Express, Groww Q2 results</a>, 14 October 2026.",
+       "<a href=\"https://economictimes.indiatimes.com/tech/technology/growws-10-year-journey-to-an-ipo-from-mutual-fund-seller-to-stock-market-leader/articleshow/125253136.cms\" target=\"_blank\" rel=\"noopener\">ET, Groww's 10-year journey to an IPO</a>, 11 November 2025.",
+       "<a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-four-exflipsters-built-groww-into-a-unicorn/70003/1\" target=\"_blank\" rel=\"noopener\">Forbes India, how four ex-Flipsters built Groww into a unicorn</a>, 25 August 2021.",
+       "<a href=\"https://yourstory.com/2018/02/flipkart-mafia-flipped-financial-services-got-funded-y-combinator\" target=\"_blank\" rel=\"noopener\">YourStory, how ex-Flipkart employees flipped into financial services</a>, 13 February 2018.",
+       "<a href=\"https://yourstory.com/2020/06/product-roadmap-flipkart-mafia-groww-simpler-customisation\" target=\"_blank\" rel=\"noopener\">YourStory, product roadmap</a>, 24 June 2020, and <a href=\"https://yourstory.com/2024/09/groww-lalit-keshre-customer-obsession-techsparks\" target=\"_blank\" rel=\"noopener\">TechSparks interview</a>, 26 September 2024.",
+       "<a href=\"https://inc42.com/features/growws-lalit-keshre-on-getting-millennials-to-save-by-simplifying-investments-mutual-funds/\" target=\"_blank\" rel=\"noopener\">Inc42, Keshre interview</a>, 19 August 2019, and <a href=\"https://inc42.com/features/how-growws-contrarian-too-many-options-approach-worked-its-magic-on-indias-millennial-investors/\" target=\"_blank\" rel=\"noopener\">Inc42, the too-many-options approach</a>, 9 April 2021.",
+       "<a href=\"https://timesofindia.indiatimes.com/business/startups/people/my-startup-idea-groww/articleshow/62853074.cms\" target=\"_blank\" rel=\"noopener\">Times of India, My Startup Idea</a>, 11 February 2018.",
+       "<a href=\"https://techcrunch.com/2020/09/09/groww-an-investment-app-for-millennials-in-india-raises-30m-led-by-yc-continuity/\" target=\"_blank\" rel=\"noopener\">TechCrunch, Series C</a> (9 September 2020), <a href=\"https://techcrunch.com/2021/04/07/investment-app-for-millennials-groww-raises-83-million-at-over-1-billion-valuation/\" target=\"_blank\" rel=\"noopener\">Series D</a> (7 April 2021) and <a href=\"https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/\" target=\"_blank\" rel=\"noopener\">the reverse flip and IPO</a> (16 September 2025).",
+       "<a href=\"https://www.reuters.com/world/india/indian-investment-platform-groww-valued-3-bln-new-funding-round-2021-10-25/\" target=\"_blank\" rel=\"noopener\">Reuters, the $3 billion round</a>, 25 October 2021.",
+       "<a href=\"https://inc42.com/features/zerodha-angel-one-groww-revenue-squeeze-sebi-crackdown/\" target=\"_blank\" rel=\"noopener\">Inc42, the SEBI squeeze on brokers</a> (6 October 2025), <a href=\"https://inc42.com/buzz/brokers-in-september-groww-strengthens-lead-angel-one-closes-in-on-zerodha/\" target=\"_blank\" rel=\"noopener\">Inc42, brokers in September</a> (14 October 2026).",
+       "<a href=\"https://www.medianama.com/2026/05/223-groww-q4-fy26-fo-user-share-decline-customer-shift-mutual-funds-etfs/\" target=\"_blank\" rel=\"noopener\">Medianama, the Q4 FY26 earnings call</a>, 1 May 2026.",
+       "<a href=\"https://www.thehindubusinessline.com/markets/ipo-bound-groww-completes-acquisition-of-fisdom-after-sebi-nod-marks-entry-into-wealth-management/article70131128.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, the Fisdom acquisition</a>, 6 October 2025, and <a href=\"https://www.thehindubusinessline.com/markets/nifty-touches-23000-as-india-bucks-asian-rout-yes-bank-idbi-crash-on-rulings/article71587864.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine, market close</a>, 15 October 2026."
+      ]
+     },
+     {
+      "t": "p",
+      "html": "Company claims, such as user counts and market shares, are Groww's own. The Y Combinator, Sequoia, Tiger Global and ICONIQ round sizes come from the funding announcements cited above. Nothing here is investment advice."
+     },
+     {
+      "t": "closing",
+      "html": "Long read, 16 October 2026. A different company each day. Tell me who you want next."
+     }
+    ]
+   }
+  ]
  }
 }
