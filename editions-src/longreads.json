@@ -1775,5 +1775,356 @@
     ]
    }
   ]
+ },
+ "12": {
+  "title": "Zerodha: built without a rupee of outside money",
+  "fact": "A company story in about 20 minutes. Two brothers, sons of a Canara Bank employee, built India's most trusted broker with no investors and no advertising. This week it sits 35,830 clients ahead of losing the number two spot it has held for a decade, and a promise it made in 2010 is on the table.",
+  "intro": "Read it straight through; the story is chronological. The numbers are boxed at the end, and every source read is listed.",
+  "hero": {
+   "t": "figure",
+   "img": "photos/lr12-hero.jpg",
+   "alt": "Nithin Kamath, founder and CEO of Zerodha",
+   "caption": "Nithin Kamath. Photo: Karthik Rangappa (Wikimedia Commons, CC BY 2.0). Rangappa is the same Karthik who joined Zerodha in 2014 and wrote Varsity single-handedly."
+  },
+  "groups": [
+   {
+    "heading": "Contents",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Timeline / 1. The trader / 2. The crash that paid for the licence / 3. Zero plus Rodha / 4. The ceiling: four lakh speculators / 5. The tech turn / 6. Coin / 7. The philosophy / 8. What they got wrong / 9. The risk crystallises / 10. The decision on the table / Appendix: the numbers / Sources read"
+     }
+    ]
+   },
+   {
+    "heading": "Timeline",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Age 17",
+        "detail": "Nithin Kamath discovers trading by accident."
+       },
+       {
+        "n": "2",
+        "title": "Early 2000s",
+        "detail": "Borrows money, blows up his trading account. Works four years at a US call centre at night, trades by day, meets Seema there."
+       },
+       {
+        "n": "3",
+        "title": "2005",
+        "detail": "Takes a franchise of a bigger broking firm."
+       },
+       {
+        "n": "4",
+        "title": "2008",
+        "detail": "The crash: makes just enough money to afford a broking licence."
+       },
+       {
+        "n": "5",
+        "title": "15 Aug 2010",
+        "detail": "Zerodha starts operations: Zero plus Rodha, the Sanskrit word for barrier."
+       },
+       {
+        "n": "6",
+        "title": "2014",
+        "detail": "Karthik Rangappa joins and writes Varsity alone."
+       },
+       {
+        "n": "7",
+        "title": "2014-15",
+        "detail": "The founders realise India has only three to four lakh real speculators. Kailash Nadh joins to build in-house tech."
+       },
+       {
+        "n": "8",
+        "title": "Dec 2015",
+        "detail": "Kite, the first self-built trading platform."
+       },
+       {
+        "n": "9",
+        "title": "27 Mar 2017",
+        "detail": "Coin: direct mutual funds, zero commission."
+       },
+       {
+        "n": "10",
+        "title": "2020",
+        "detail": "Rainmatter Foundation starts taking 10% of earnings."
+       },
+       {
+        "n": "11",
+        "title": "2023",
+        "detail": "Platform reliability problems during busy trading periods, admitted publicly."
+       },
+       {
+        "n": "12",
+        "title": "Jan 2024",
+        "detail": "Nithin has a stroke. Fourteen months on: body almost normal, mind at about 85%."
+       },
+       {
+        "n": "13",
+        "title": "Jun 2025 qtr",
+        "detail": "Brokerage revenue falls about 40% as F&O curbs bite."
+       },
+       {
+        "n": "14",
+        "title": "Sep 2025",
+        "detail": "The warning: if weekly options end, Zerodha will be forced to charge for delivery trades."
+       },
+       {
+        "n": "15",
+        "title": "Sep 2026",
+        "detail": "67.92 lakh active clients, down 5,313 in the month. Angel One closes to within 35,830."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "1. The trader",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Nithin Kamath was a below-average student who discovered the markets by accident at seventeen. What followed was the standard trader's education: he borrowed money in the early 2000s and blew up his account. To repay the debt he spent four years at a US call centre, selling everything from mobile phones to DVDs on the night shift, trading Indian markets by day. He met his wife Seema on that floor. He left only when the first person asked him to manage a portfolio, and he has said he learnt more about work in those three years than anywhere since: in Zerodha's first two years he was still cold-calling customers himself. \"Not everyone can just pick up a phone and make a call,\" he told YourStory. \"I think I've had the most fun in my life during my call centre days.\""
+     },
+     {
+      "t": "p",
+      "html": "The detail that matters for everything after: he went bust twice before he was twenty-five. A founder who has personally blown up a trading account builds a different kind of brokerage, one that warns customers about leverage instead of selling it to them."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://yourstory.com/2020/03/matrix-moments-nithin-kamath-zerodha\" target=\"_blank\" rel=\"noopener\">YourStory, Matrix Moments interview</a> / <a href=\"https://www.cnbctv18.com/market/nithin-kamath-on-how-zerodha-grew-without-advertising-fund-raising-7997771.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, Nithin essay</a>"
+     }
+    ]
+   },
+   {
+    "heading": "2. The crash that paid for the licence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "By 2005, Nithin was running a franchise of a bigger broking firm, the standard route for a sub-broker in that decade. Then came 2008. The crash that wiped out a generation of traders was, for him, the best market he had ever traded: \"In 2008, when there was slowdown and markets fell, he made a little bit of money,\" YourStory records, \"it was just enough to get a licence.\" The profits of the worst year in modern market history became the deposit for a broking membership. His younger brother Nikhil joined as co-founder; their father was a Canara Bank employee, and neither brother finished college."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://yourstory.com/2020/03/matrix-moments-nithin-kamath-zerodha\" target=\"_blank\" rel=\"noopener\">YourStory</a> / <a href=\"https://www.thehindubusinessline.com/blchangemakers/the-billionaire-brokers/article65865885.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine profile</a>"
+     }
+    ]
+   },
+   {
+    "heading": "3. Zero plus Rodha",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Operations began on 15 August 2010. The name joined Zero to Rodha, the Sanskrit word for barrier: zero barriers to cost, support and technology, as the company's own about page still puts it. The pricing was the barrier-breaker: a flat ₹20 per executed trade, at a time when established brokers charged a percentage of each trade's value. For an active trader, the saving ran to roughly ninety per cent."
+     },
+     {
+      "t": "p",
+      "html": "What made a discount broker possible at all was the exchange itself. In an essay published on 11 September 2026, sixteen years in, Nithin spelled out the debt: \"Back in 2010, one of the reasons we even considered becoming a brokerage firm was because of NSE NOW. It was a free trading platform provided by the NSE that brokers could offer to their clients.\" The brothers had no money to build technology. When they went to Chennai to ask about membership, the exchange, on realising how little they had, waived the membership fee of about ₹5 lakh. \"In many ways, we are around only because of the NSE,\" he wrote. \"If there is one company I personally feel a sense of obligation towards, it is the NSE.\""
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://zerodha.com/about/\" target=\"_blank\" rel=\"noopener\">zerodha.com/about</a> / <a href=\"https://nithinkamath.me/blog/the-role-nse-played-in-zerodhas-early-days/\" target=\"_blank\" rel=\"noopener\">Nithin Kamath, 11 Sep 2026</a> / <a href=\"https://podcast.factordaily.com/wp-content/uploads/2020/04/TRANSCRIPT-Nithin-Kamath-Outliers-Podcast.docx.pdf\" target=\"_blank\" rel=\"noopener\">FactorDaily Outliers transcript</a>"
+     }
+    ]
+   },
+   {
+    "heading": "4. The ceiling: four lakh speculators",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "For its first four years Zerodha served day traders, and it grew on word of mouth alone. Then the founders ran the arithmetic that changed the company. \"India does not have more than 300,000 to 400,000 people who actually speculate,\" Nithin told YourStory. \"We realised that we can't build a business just on this.\" A flat-fee broker for speculators had a ceiling of a few lakh customers, and every rival was fishing the same pool."
+     },
+     {
+      "t": "p",
+      "html": "The decision that followed defines the company: stop selling to speculators and start building for investors who had never traded at all. That meant education instead of advertising, and technology built in-house instead of bought from vendors. \"Until then, it was all vendor-based products; there was no tech in house, and the only tech I had done was excel sheets,\" Nithin admitted."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://yourstory.com/2020/03/matrix-moments-nithin-kamath-zerodha\" target=\"_blank\" rel=\"noopener\">YourStory</a>"
+     }
+    ]
+   },
+   {
+    "heading": "5. The tech turn",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Kailash Nadh joined around 2014-15 as chief technology officer and pushed the company to build for the new-age user. The first fruit was Kite, Zerodha's own trading platform, in December 2015: the first product the company had ever built itself. The team behind it stayed famously small; in 2020 Nithin was still marvelling that a thirty-person tech team ran the whole stack, and that barely anyone in the first hundred employees had left. Karthik Rangappa, who took the photograph at the top of this story, joined in 2014 and wrote Varsity, the markets curriculum, single-handedly; it is now among the most-read capital-market education resources in the world. Together, Varsity and the product were the entire marketing budget. \"We have achieved this without ever advertising, or raising any external capital or debt,\" Nithin wrote in 2021."
+     },
+     {
+      "t": "figure",
+      "img": "photos/lr12-kailash.jpg",
+      "alt": "Kailash Nadh speaking at NIT Calicut",
+      "caption": "Kailash Nadh, Zerodha's CTO, speaking at FOSSMeet'26 at NIT Calicut. Photo: Aman03062006 (Wikimedia Commons, CC0)."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://podcast.factordaily.com/wp-content/uploads/2020/04/TRANSCRIPT-Nithin-Kamath-Outliers-Podcast.docx.pdf\" target=\"_blank\" rel=\"noopener\">FactorDaily</a> / <a href=\"https://www.cnbctv18.com/market/nithin-kamath-on-how-zerodha-grew-without-advertising-fund-raising-7997771.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a> / <a href=\"https://yourstory.com/2020/03/matrix-moments-nithin-kamath-zerodha\" target=\"_blank\" rel=\"noopener\">YourStory</a>"
+     }
+    ]
+   },
+   {
+    "heading": "6. Coin: giving up the commission on purpose",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "On 27 March 2017, Zerodha launched Coin, a direct mutual fund platform, made possible by a SEBI decision to let exchange platforms offer direct plans. Direct plans pay the distributor no commission. Every established distributor fought them for years; Zerodha switched its customers to them by default and charged nothing. It was the flat-fee logic applied to funds: give up the spread everyone else lived on, and make it up on volume and trust. The trust compounded. By the company's own current count, over 1.8 crore clients route over 15% of all Indian retail trading volumes through its platforms."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://zerodha.com/z-connect/coin/introducing-coin-our-direct-mutual-fund-platform\" target=\"_blank\" rel=\"noopener\">Z-Connect, 27 Mar 2017</a> / <a href=\"https://zerodha.com/about/\" target=\"_blank\" rel=\"noopener\">zerodha.com/about</a>"
+     }
+    ]
+   },
+   {
+    "heading": "7. The philosophy: five-year moving averages",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Zerodha's internal operating system is one sentence long, from Nithin's thirtieth-anniversary-of-trading post in September 2025: \"For many years, I have been looking at a 5-year moving average to see if the business is trending up or not.\" Quarterly and even annual numbers, he argues, push a founder into wrong decisions at every dip. He is explicit about why he can think this way: \"This is possible because we don't have external investors.\" Ten per cent of everything the company earns goes to the Rainmatter Foundation, started in 2020, for climate and social entrepreneurs. No venture fund would have signed either of those terms, which is rather the point."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://zerodha.com/z-connect/business-updates/15-years-of-zerodha-the-risk-crystallises\" target=\"_blank\" rel=\"noopener\">Z-Connect, \"15 years of Zerodha\", 30 Sep 2025</a>"
+     }
+    ]
+   },
+   {
+    "heading": "8. What they got wrong",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three honest entries. First, reliability: the platform broke during busy trading periods in 2023, and the company says so itself, noting that 2024 and 2025 were much better, with one minor issue, and that it publishes every incident on a disclosures page without any regulation requiring it. It has since built Kite Backup, an emergency trading service that runs on WhatsApp on a completely separate cloud provider."
+     },
+     {
+      "t": "p",
+      "html": "Second, the revenue engine. The company that swore off building for speculators ended up earning a large share of its brokerage from exactly that pool, weekly options traders. When the regulator finally curbed the trade, brokerage revenue fell about 40% in a single quarter. The founders do not deny the dependence; the September 2025 post is titled \"The risk crystallises.\""
+     },
+     {
+      "t": "p",
+      "html": "Third, scale itself. Zerodha's active client base has stopped growing: it shrank by 5,313 in September 2026 while Angel One added 36,956. The gap between the number two and number three broker in India is now 35,830 clients, one decent month for the challenger."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://zerodha.com/z-connect/business-updates/15-years-of-zerodha-the-risk-crystallises\" target=\"_blank\" rel=\"noopener\">Z-Connect</a> / <a href=\"https://economictimes.indiatimes.com/markets/options/after-40-hit-from-fo-curbs-nithin-kamath-warns-of-brokerage-pivot-if-weekly-options-expiry-ends/articleshow/124234630.cms\" target=\"_blank\" rel=\"noopener\">ET, Oct 2025</a> / <a href=\"https://inc42.com/buzz/brokers-in-september-groww-strengthens-lead-angel-one-closes-in-on-zerodha/\" target=\"_blank\" rel=\"noopener\">Inc42</a> / <a href=\"https://www.cnbctv18.com/market/nse-active-clients-growth-september-groww-zerodha-angel-one-upstox-20007504.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, 8 Oct 2026</a>"
+     }
+    ]
+   },
+   {
+    "heading": "9. The risk crystallises",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The numbers arrived in sequence. Brokerage revenue fell about 40% in the June 2025 quarter after SEBI's F&O curbs (ET). FY25 profit fell 22.9% to ₹4,237 crore from ₹5,496 crore, and revenue fell 11.5% to ₹8,847 crore (Financial Express, from Entrackr's numbers). And in September 2026 the client count ticked down while both rivals either side grew. The chart below is the standings on the NSE last month."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg aria-label=\"Active clients on the NSE in September 2026: Groww 134.5 lakh, Zerodha 67.92 lakh, Angel One 67.56 lakh\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 238\"><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"42\">Groww</text><rect fill=\"#1f6feb\" height=\"34\" rx=\"2\" width=\"422.7142857142857\" x=\"130\" y=\"18\"></rect><text fill=\"#333\" font-size=\"16\" x=\"560.7142857142858\" y=\"42\">134.5 lakh (29.16%)</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"98\">Zerodha</text><rect fill=\"#8c1d18\" height=\"34\" rx=\"2\" width=\"213.46285714285716\" x=\"130\" y=\"74\"></rect><text fill=\"#333\" font-size=\"16\" x=\"351.46285714285716\" y=\"98\">67.92 lakh (14.73%)</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"154\">Angel One</text><rect fill=\"#1f6feb\" height=\"34\" rx=\"2\" width=\"212.33142857142857\" x=\"130\" y=\"130\"></rect><text fill=\"#333\" font-size=\"16\" x=\"350.33142857142855\" y=\"154\">67.56 lakh (14.65%)</text></g><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"214\">Active clients on the NSE, September 2026, with market share. Zerodha in red.</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"234\">Source: NSE data via CNBC-TV18, 8 Oct 2026, and Inc42, 14 Oct 2026.</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "And yet: cash and bank balances more than doubled in the same bad year, to ₹22,679 crore from ₹10,211 crore. Operating margin improved to 63.78% from 55.25%. The exchanges compute Zerodha's net worth at a little over ₹13,000 crore, with zero debt, against client funds that the net worth covers to more than 50% on any given day, a ratio the company calls unprecedented. A broker whose profit falls 23% while its cash doubles is a broker that was never spending the money in the first place."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.financialexpress.com/business/industry/zerodha-fy25-profit-falls-23/4052338/\" target=\"_blank\" rel=\"noopener\">Financial Express</a> / <a href=\"https://economictimes.indiatimes.com/markets/options/after-40-hit-from-fo-curbs-nithin-kamath-warns-of-brokerage-pivot-if-weekly-options-expiry-ends/articleshow/124234630.cms\" target=\"_blank\" rel=\"noopener\">ET</a> / <a href=\"https://zerodha.com/z-connect/business-updates/15-years-of-zerodha-the-risk-crystallises\" target=\"_blank\" rel=\"noopener\">Z-Connect</a>"
+     }
+    ]
+   },
+   {
+    "heading": "10. The decision on the table",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Here is where the story stops being history. The regulators are evaluating whether to stop weekly options completely, the trade that built Zerodha's revenue. In September 2025, Nithin wrote the sentence every Zerodha customer should read twice: \"If this were to happen, we would be forced to start charging brokerage for equity delivery trades to make the business tenable. Most of our competitors already charge for delivery trades.\""
+     },
+     {
+      "t": "p",
+      "html": "Free delivery was the founding promise, the zero in Zerodha's pitch to a generation of first-time investors. The hedge is already built: a margin trading facility launched nine months ago has about 5% of the market and a book of roughly ₹5,000 crore, and client assets on the platform are about 10% of all retail and HNI money in the country. The philosophy says the five-year average is what matters, and on a five-year average the business is fine. But the promise is repriced one regulation away, and the man who must decide spent January 2024 in a hospital. Fourteen months after his stroke, he wrote that his body was almost back to normal and his mind at about 85%. The company he built is the rare one that can survive its worst case. The question for its sixteenth year is what the promise is worth when the worst case is a regulator's pen."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://zerodha.com/z-connect/business-updates/15-years-of-zerodha-the-risk-crystallises\" target=\"_blank\" rel=\"noopener\">Z-Connect</a> / <a href=\"https://economictimes.indiatimes.com/markets/options/after-40-hit-from-fo-curbs-nithin-kamath-warns-of-brokerage-pivot-if-weekly-options-expiry-ends/articleshow/124234630.cms\" target=\"_blank\" rel=\"noopener\">ET</a> / <a href=\"https://nithinkamath.me/blog/my-recovery-journey/\" target=\"_blank\" rel=\"noopener\">nithinkamath.me, recovery</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Appendix: the numbers",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "FY25 profit",
+        "detail": "₹4,237 crore, down 22.9% from ₹5,496 crore in FY24 (Financial Express, from Entrackr)."
+       },
+       {
+        "n": "2",
+        "title": "FY25 revenue",
+        "detail": "₹8,847 crore, down 11.5%. Operating margin up to 63.78% from 55.25%."
+       },
+       {
+        "n": "3",
+        "title": "Cash",
+        "detail": "₹22,679 crore in cash and bank balances, up from ₹10,211 crore a year earlier."
+       },
+       {
+        "n": "4",
+        "title": "Net worth",
+        "detail": "A little over ₹13,000 crore as computed by the exchanges (LC Gupta method); zero debt; more than 50% of client funds handled on any given day."
+       },
+       {
+        "n": "5",
+        "title": "Clients",
+        "detail": "67.92 lakh active on the NSE in September 2026, down 5,313 in the month; 14.73% share. Groww 1.34 crore (29.16%), Angel One 67.56 lakh (14.65%)."
+       },
+       {
+        "n": "6",
+        "title": "MTF",
+        "detail": "Margin trading book of about ₹5,000 crore, roughly 5% market share, nine months after launch."
+       },
+       {
+        "n": "7",
+        "title": "Client assets",
+        "detail": "About 10% of all Indian retail and HNI assets under management sit with Zerodha customers."
+       },
+       {
+        "n": "8",
+        "title": "Quarterly shock",
+        "detail": "Brokerage revenue fell about 40% in the June 2025 quarter after F&O curbs (ET)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Sources read",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "zerodha.com/about: the founding date, the name, and current client claims (<a href=\"https://zerodha.com/about/\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "YourStory, Matrix Moments interview, March 2020: the call centre years, the 2008 licence money, the 3-4 lakh speculator ceiling, Kailash's arrival (<a href=\"https://yourstory.com/2020/03/matrix-moments-nithin-kamath-zerodha\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "CNBC-TV18, Nithin's own essay, January 2021: the early bust, Seema, Karthik and Varsity, no advertising or external capital (<a href=\"https://www.cnbctv18.com/market/nithin-kamath-on-how-zerodha-grew-without-advertising-fund-raising-7997771.htm\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "FactorDaily, Outliers podcast transcript, 2020: the ₹20 flat fee, Kite's December 2015 build, the thirty-person tech team (<a href=\"https://podcast.factordaily.com/wp-content/uploads/2020/04/TRANSCRIPT-Nithin-Kamath-Outliers-Podcast.docx.pdf\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "nithinkamath.me, \"The role NSE played in Zerodha's early days\", 11 September 2026: NSE NOW and the waived ₹5 lakh fee (<a href=\"https://nithinkamath.me/blog/the-role-nse-played-in-zerodhas-early-days/\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "Z-Connect, \"Introducing Coin\", 27 March 2017: direct mutual funds by default (<a href=\"https://zerodha.com/z-connect/coin/introducing-coin-our-direct-mutual-fund-platform\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "Z-Connect, \"15 years of Zerodha - The risk crystallises\", 30 September 2025: the five-year average, MTF, net worth, the delivery-brokerage warning, 2023 reliability admission (<a href=\"https://zerodha.com/z-connect/business-updates/15-years-of-zerodha-the-risk-crystallises\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "Economic Times, October 2025: the 40% brokerage hit and the pivot warning (<a href=\"https://economictimes.indiatimes.com/markets/options/after-40-hit-from-fo-curbs-nithin-kamath-warns-of-brokerage-pivot-if-weekly-options-expiry-ends/articleshow/124234630.cms\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "Financial Express, November 2025: FY25 profit, revenue, margins and cash (<a href=\"https://www.financialexpress.com/business/industry/zerodha-fy25-profit-falls-23/4052338/\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "nithinkamath.me, \"My recovery journey\": the stroke and the 85% (<a href=\"https://nithinkamath.me/blog/my-recovery-journey/\" target=\"_blank\" rel=\"noopener\">link</a>).",
+       "CNBC-TV18, 8 October 2026, and Inc42, 14 October 2026: NSE September 2026 active-client data (<a href=\"https://www.cnbctv18.com/market/nse-active-clients-growth-september-groww-zerodha-angel-one-upstox-20007504.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>, <a href=\"https://inc42.com/buzz/brokers-in-september-groww-strengthens-lead-angel-one-closes-in-on-zerodha/\" target=\"_blank\" rel=\"noopener\">Inc42</a>).",
+       "BusinessLine, \"The billionaire brokers\", 2022: the Canara Bank household and the dropout brothers (<a href=\"https://www.thehindubusinessline.com/blchangemakers/the-billionaire-brokers/article65865885.ece\" target=\"_blank\" rel=\"noopener\">link</a>)."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Zerodha's own posts did most of the reporting here; where the company's account and the data disagree, the data is shown. Next week: another company, chosen from the week's news."
+     }
+    ]
+   }
+  ]
  }
 }
