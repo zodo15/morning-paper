@@ -66,6 +66,7 @@ export default async function handler(req, res) {
     var tgt = feed.find(function (x) { return x.id === b.update; });
     if (!tgt) return res.status(404).json({ error: 'no such card' });
     ['headline', 'body', 'why', 'watch'].forEach(function (k) { if (b[k] != null) tgt[k] = clean(b[k], LIM[k]); });
+    if (Array.isArray(b.tags) && b.tags.length) tgt.tags = b.tags.map(function (t) { return clean(t, 24).toUpperCase(); }).filter(Boolean).slice(0, 5);
     if (Array.isArray(b.sources) && b.sources.length) {
       tgt.sources = b.sources.filter(function (x) { return x && /^https:\/\//.test(x.url || ''); }).map(function (x) { return { name: clean(x.name, 60) || 'Source', url: String(x.url).slice(0, 500) }; }).slice(0, 4);
     }
