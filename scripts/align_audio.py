@@ -169,9 +169,9 @@ def edition_blocks(day_src):
             if b['t'] == 'p':
                 blocks.append(strip_html(b['html']))
             elif b['t'] == 'bullets':
-                blocks.extend(b['items'])
+                blocks.extend(strip_html(x) for x in b['items'])
             elif b['t'] == 'rows':
-                blocks.extend(r['detail'] for r in b['items'])
+                blocks.extend(strip_html(r['detail']) for r in b['items'])
             elif b['t'] in ('callout', 'closing'):
                 blocks.append(strip_html(b['html']))
     return blocks
