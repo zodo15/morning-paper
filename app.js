@@ -634,7 +634,7 @@
             ed.groups.filter(function (x) { return x.blocks.some(function (b) { return b.t === 'bullets'; }); })[0];
     if (!g) return '';
     var items = [];
-    g.blocks.forEach(function (b) { if (b.t === 'bullets') items = items.concat(b.items); });
+    g.blocks.forEach(function (b) { if (b.t === 'bullets') items = items.concat(b.items); else if (b.t === 'p') items.push(b.html); });
     var txt = items.slice(0, 5).map(function (i) { return esc(i.replace(/<[^>]*>/g, '').split(/\.(?=\s|$)/)[0]); }).join(' &nbsp;&bull;&nbsp; ');
     return '<div class="ticker"><span class="ticker-in">' + txt + ' &nbsp;&bull;&nbsp; ' + txt + '</span></div>';
   }
