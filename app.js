@@ -793,6 +793,32 @@
     t = String(t || '').trim(); if (!t || /[.!?)"'\u201D\u2019]$/.test(t)) return t;
     var m = t.match(/^[\s\S]*[.!?](?=\s|$)/); return m ? m[0] : '';
   }
+  function ageOf(d) {
+    var ms = Date.now() - d.getTime(); if (ms < 0) ms = 0;
+    var m = Math.floor(ms / 60000); if (m < 60) return m + 'm old';
+    var h = Math.floor(m / 60); if (h < 48) return h + 'h old';
+    return Math.floor(h / 24) + 'd old';
+  }
+  function pubLine(c) {
+    var v = c.published_at_source; if (!v) return '';
+    var dateOnly = /^\d{4}-\d{2}-\d{2}$/.test(v);
+    var d = new Date(dateOnly ? v + 'T00:00:00+05:30' : v); if (isNaN(d)) return '';
+    var day = d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', timeZone: 'Asia/Kolkata' });
+    var out = 'Source published ' + day;
+    if (!dateOnly) out += ' \u00b7 ' + d.toLocaleTimeString('en-IN', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'Asia/Kolkata' }).toUpperCase().replace(' ', '\u00a0') + ' IST';
+    out += ' \u00b7 ' + ageOf(d);
+    if (dateOnly) out += ' \u00b7 time n/a';
+    return out;
+  }
+  function hasMore(c) { return sane(c.watch) || sane(c.watch_next) || sane(c.wrong_if) || sane(c.market_reaction); }
+  function moreHTML(c) {
+    var h = '';
+    if (sane(c.market_reaction)) h += '<b>Market reaction</b><p>' + esc(sane(c.market_reaction)) + '</p>';
+    if (sane(c.watch_next)) h += '<b>Watch next</b><p>' + esc(sane(c.watch_next)) + '</p>';
+    if (sane(c.wrong_if)) h += '<b>Wrong if</b><p>' + esc(sane(c.wrong_if)) + '</p>';
+    if (sane(c.watch)) h += '<b>What could change this</b><p>' + esc(sane(c.watch)) + '</p>';
+    return h;
+  }
   function cardHTML(c) {
     var tags = (c.tags || []).slice(0, 4).map(function (t) { return '<span class="ctag">' + esc(t) + '</span>'; }).join('');
     var src = (c.sources || []).map(function (x) { return '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.name) + '</a>'; }).join(' &middot; ');
@@ -801,9 +827,10 @@
       (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="" onerror="this.parentNode.classList.add(\'bad\')">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '<figure class="ncard-img plate-ph lane-' + esc(c.lane || 'markets') + '"><div class="ph-t">' + esc((c.tags && c.tags[0]) || LANE_NAMES[c.lane] || '') + '</div><div class="ph-s">' + esc((c.tags || []).slice(1, 3).join(' · ')) + '</div></figure>') +
       '<h2 class="ncard-h">' + esc(c.headline) + '</h2>' +
       '<p class="ncard-b">' + esc(sane(c.body)) + '</p>' +
+      (pubLine(c) ? '<div class="ncard-meta">' + pubLine(c) + '</div>' : '') +
       (sane(c.why) ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(sane(c.why)) + '</span></div>' : '') +
       '<div class="ncard-foot">' + (tags ? '<div class="ncard-tags">' + tags + '</div>' : '') +
-      '<div class="ncard-src">Source: ' + src + (sane(c.watch) ? ' &middot; <button class="more-btn" data-act="more">What could change this</button>' : '') + '</div></div>' +
+      '<div class="ncard-src">Source: ' + src + (hasMore(c) ? ' &middot; <button class="more-btn" data-act="more">More</button>' : '') + '</div></div>' +
       '</article></section>';
   }
   function endHTML() {
@@ -844,7 +871,7 @@
       '<div class="cfs-set" id="cfs-set" hidden><label><input type="checkbox" id="quiet-toggle"' + (quietPref() ? ' checked' : '') + '> Quiet hours <span>11 PM to 7 AM IST, no pushes</span></label><a href="#" class="push-link" data-push="1" hidden></a></div>' +
       '<div class="pager" id="pager"><div class="track" id="track">' + panels + '</div></div>' +
       '<div class="cfs-arrows"><span class="cards-pos" id="cpos"></span><button class="arw" data-act="prev" aria-label="Previous card"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 15l7-7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="arw" data-act="next" aria-label="Next card"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 9l7 7 7-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button></div>' +
-      '<div class="cfs-sheet" id="cfs-sheet" hidden><div class="cfs-sheet-in"><b>What could change this</b><p id="cfs-sheet-p"></p><button class="cbtn" data-act="closemore">Close</button></div></div></div>';
+      '<div class="cfs-sheet" id="cfs-sheet" hidden><div class="cfs-sheet-in" id="cfs-sheet-p"></div><button class="cbtn" data-act="closemore" style="margin-top:10px">Close</button></div></div>';
     pushRefresh();
     updateCardsDot();
     CARDS.i = Math.max(0, Math.min(n ? n : 0, CARDS.i));
@@ -914,7 +941,7 @@
     var a = b.getAttribute('data-act');
     if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') goTo(0);
     else if (a === 'gear') { var g = document.getElementById('cfs-set'); if (g) g.hidden = !g.hidden; }
-    else if (a === 'more') { var c = filteredCards()[CARDS.i]; var s = document.getElementById('cfs-sheet'); if (c && s) { document.getElementById('cfs-sheet-p').textContent = sane(c.watch); s.hidden = false; } }
+    else if (a === 'more') { var c = filteredCards()[CARDS.i]; var s = document.getElementById('cfs-sheet'); if (c && s) { document.getElementById('cfs-sheet-p').innerHTML = moreHTML(c); s.hidden = false; } }
     else if (a === 'closemore') closeSheet();
   });
   document.addEventListener('click', function (e) { if (e.target && e.target.id === 'cfs-sheet') closeSheet(); });
