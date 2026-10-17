@@ -3,7 +3,7 @@ import { authed, pushAll, readFeed, writeFeed } from './_lib.js';
 import { put } from '@vercel/blob';
 var LANES = ['markets', 'insurance', 'fintech', 'ai', 'startups'];
 function clean(s, n) { return String(s == null ? '' : s).replace(/\s+/g, ' ').trim().slice(0, n); }
-var LIM = { headline: 140, body: 900, why: 450, watch: 600 };
+var LIM = { headline: 140, body: 900, why: 450, watch: 600, source_name: 60, watch_next: 120, wrong_if: 120, market_reaction: 160 };
 function over(b, keys) { for (var k of keys) { if (b[k] != null && String(b[k]).replace(/\s+/g, ' ').trim().length > LIM[k]) return k + ' is over ' + LIM[k] + ' characters (not truncated; shorten it)'; } return null; }
 function firstSentence(t, n) {
   var m = String(t).match(/^(.+?[.!?])(\s|$)/); var s = m ? m[1] : String(t);
@@ -34,6 +34,18 @@ async function ingestImage(id, im) {
   await put(path, buf, { access: 'private', addRandomSuffix: false, allowOverwrite: true, contentType: ext === 'jpg' ? 'image/jpeg' : 'image/' + ext });
   return { src: 'api/img?p=' + path, credit: credit, page: page, pos: pos };
 }
+
+/* optional card metadata: provenance + depth fields (all optional; old cards lack them) */
+function applyMeta(b, card) {
+  if (typeof b.source_name === 'string' && b.source_name.trim()) card.source_name = clean(b.source_name, LIM.source_name);
+  if (typeof b.watch_next === 'string' && b.watch_next.trim()) card.watch_next = clean(b.watch_next, LIM.watch_next);
+  if (typeof b.wrong_if === 'string' && b.wrong_if.trim()) card.wrong_if = clean(b.wrong_if, LIM.wrong_if);
+  if (typeof b.market_reaction === 'string' && b.market_reaction.trim()) card.market_reaction = clean(b.market_reaction, LIM.market_reaction);
+  if (typeof b.published_at_source === 'string') {
+    var v = b.published_at_source.trim();
+    if ((/^\d{4}-\d{2}-\d{2}$/.test(v) || !isNaN(Date.parse(v))) && v.length <= 40) card.published_at_source = v;
+  }
+}
 export default async function handler(req, res) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'POST only' });
   if (!authed(req)) return res.status(401).json({ error: 'unauthorized' });
@@ -48,12 +60,13 @@ export default async function handler(req, res) {
     var pr = await pushAll({ title: clean(b.pushTitle, 110), body: clean(b.pushGist, 160), url: pu, tag: clean(b.tag, 60) || undefined }, b.force === true);
     return res.status(200).json({ pushOnly: true, push: pr });
   }
-  var tooLong = over(b, ['headline', 'body', 'why', 'watch']);
+  var tooLong = over(b, ['headline', 'body', 'why', 'watch', 'source_name', 'watch_next', 'wrong_if', 'market_reaction']);
   if (tooLong) return res.status(400).json({ error: tooLong });
   if (b.update) {
     var tgt = feed.find(function (x) { return x.id === b.update; });
     if (!tgt) return res.status(404).json({ error: 'no such card' });
     ['headline', 'body', 'why', 'watch'].forEach(function (k) { if (b[k] != null) tgt[k] = clean(b[k], LIM[k]); });
+    applyMeta(b, tgt);
     try { var im0 = await ingestImage(tgt.id, b.image); if (im0) tgt.image = im0; } catch (e) { return res.status(422).json({ error: String(e.message || e) }); }
     await writeFeed(feed);
     return res.status(200).json({ updated: tgt.id, image: tgt.image || null });
@@ -67,6 +80,7 @@ export default async function handler(req, res) {
     image: null,
     at: clean(b.at, 40)
   };
+  applyMeta(b, card);
   if (!card.headline || !card.body || !card.sources.length) return res.status(400).json({ error: 'headline, body and at least one https source required' });
   if (!b.force) {
     var dupe = feed.find(function (c) { return c.headline.toLowerCase() === card.headline.toLowerCase(); });
