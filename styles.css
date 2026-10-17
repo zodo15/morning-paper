@@ -260,6 +260,10 @@ a.lr-card:hover .t { color: var(--red); }
 .ncard-why b { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--red); }
 .ncard-why span { font-size: 15px; line-height: 1.55; }
 .ncard-watch { margin: 8px 0 14px; font-size: 14.5px; }
+.ncard-meta { font-family: 'PS Meta', sans-serif; font-weight: 600; font-size: 10.5px; letter-spacing: .07em; color: #8a857b; margin: 8px 0 0; }
+.cfs-sheet-in b { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--red); display: block; margin: 12px 0 3px; }
+.cfs-sheet-in b:first-child { margin-top: 0; }
+.cfs-sheet-in p { margin: 0 0 4px; font-size: 15px; line-height: 1.55; }
 .ncard-watch summary { cursor: pointer; font-family: 'PS Meta', sans-serif; font-size: 12.5px; color: var(--stone); text-decoration: underline; text-underline-offset: 3px; min-height: 32px; display: flex; align-items: center; }
 .ncard-watch p { background: var(--card); border: 1px solid var(--line); padding: 12px 14px; line-height: 1.55; margin: 6px 0 0; }
 .ncard-tags { display: flex; flex-wrap: wrap; gap: 7px; margin: 6px 0 12px; }
