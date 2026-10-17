@@ -25,17 +25,36 @@
     "heading": "The 5-minute lead route",
     "blocks": [
      {
-      "t": "bullets",
-      "items": [
-       "<strong>IPO:</strong> Jio Platforms set a band of ₹1,065 to ₹1,119 for India's largest-ever IPO, raising up to ₹30,213 crore from Wednesday, below the ₹33,000 to ₹38,000 crore brokerages expected. Sovereign funds are queueing for the ₹8,000 crore anchor book on Monday..",
-       "<strong>Market:</strong> the Nifty 50 rose 0.65% to 23,146.15 on Friday and 2.78% over the week, carried by IT. Midcap and smallcap indices ended the day flat. Chart and numbers.",
-       "<strong>IT:</strong> Tech Mahindra jumped 8.45%, its biggest single-day gain since March 2020, after its results and a 1:1 bonus announcement. The Nifty IT index rose 3.92% in a day and 11.72% in five sessions..",
-       "<strong>Insurance:</strong> IRDAI's chairman called broker job-loss fears misplaced and floated loans against surrender value to stop lapses. Comments on the distribution paper close 25 October..",
-       "<strong>AI:</strong> Meta released an open-weights model with 816 billion parameters that runs on two Mac Studio desktops..",
-       "<strong>Global:</strong> the Nasdaq fell 2% on Friday to its worst week since June, on AI-infrastructure debt and oil above $100..",
-       "<strong>One idea:</strong> the market for lemons, why bad products drive out good when buyers cannot tell them apart, and why insurers know this paper by heart..",
-       "<strong>Long read:</strong> Zerodha, the broker that grew to 67.9 lakh clients on zero advertising and now faces the end of the regulation that made it. Read it."
-      ]
+      "t": "p",
+      "html": "<strong>IPO:</strong> Jio Platforms set a band of ₹1,065 to ₹1,119 for India's largest-ever IPO, raising up to ₹30,213 crore from Wednesday, below the ₹33,000 to ₹38,000 crore brokerages expected. Sovereign funds are queueing for the ₹8,000 crore anchor book on Monday.."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Market:</strong> the Nifty 50 rose 0.65% to 23,146.15 on Friday and 2.78% over the week, carried by IT. Midcap and smallcap indices ended the day flat. Chart and numbers."
+     },
+     {
+      "t": "p",
+      "html": "<strong>IT:</strong> Tech Mahindra jumped 8.45%, its biggest single-day gain since March 2020, after its results and a 1:1 bonus announcement. The Nifty IT index rose 3.92% in a day and 11.72% in five sessions.."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Insurance:</strong> IRDAI's chairman called broker job-loss fears misplaced and floated loans against surrender value to stop lapses. Comments on the distribution paper close 25 October.."
+     },
+     {
+      "t": "p",
+      "html": "<strong>AI:</strong> Meta released an open-weights model with 816 billion parameters that runs on two Mac Studio desktops.."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Global:</strong> the Nasdaq fell 2% on Friday to its worst week since June, on AI-infrastructure debt and oil above $100.."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One idea:</strong> the market for lemons, why bad products drive out good when buyers cannot tell them apart, and why insurers know this paper by heart.."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Long read:</strong> Zerodha, the broker that grew to 67.9 lakh clients on zero advertising and now faces the end of the regulation that made it. Read it."
      }
     ]
    },
@@ -215,7 +234,7 @@
      },
      {
       "t": "p",
-      "html": "OpenAI updated its ChatGPT Chrome extension to read and reason across a user's open tabs (The Verge, 15 October). The standalone Atlas browser, launched last year, is being folded into the extension approach."
+      "html": "OpenAI updated its ChatGPT Chrome extension to read and reason across a user's open tabs (The Verge, 15 October). The standalone Atlas browser, launched last year, is gone."
      },
      {
       "t": "p",
@@ -368,12 +387,16 @@
     "heading": "Global",
     "blocks": [
      {
-      "t": "bullets",
-      "items": [
-       "<strong>US stocks:</strong> Dow -0.34%, Nasdaq -2% on Friday, the Nasdaq's worst week since June. AI-infrastructure debt and oil above $100 drove the selling (AP, investing.com).",
-       "<strong>Anthropic:</strong> quarterly revenue jumped 45% to $16.8 billion ahead of its IPO (Bloomberg, attributed). Private AI revenue compounding while public AI stocks fall is the tension to watch.",
-       "<strong>Oil:</strong> Brent at $105.6 a barrel keeps India's import bill and inflation math under pressure; the rupee closed at 94.95 per dollar (ET Now)."
-      ]
+      "t": "p",
+      "html": "<strong>US stocks:</strong> Dow -0.34%, Nasdaq -2% on Friday, the Nasdaq's worst week since June. AI-infrastructure debt and oil above $100 drove the selling (AP, investing.com)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Anthropic:</strong> quarterly revenue jumped 45% to $16.8 billion ahead of its IPO (Bloomberg, attributed). Private AI revenue compounding while public AI stocks fall is the tension to watch."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Oil:</strong> Brent at $105.6 a barrel keeps India's import bill and inflation math under pressure; the rupee closed at 94.95 per dollar (ET Now)."
      }
     ]
    },
@@ -436,7 +459,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "Today's long read is the story of Zerodha: a 17-year-old trader, two busts, four years on a call-centre night shift, and a broking licence bought with crash savings, which became India's most trusted broker without a rupee of outside money or advertising, and which now faces the regulator ending the weekly-options trade that made it. It ends on the decision the founders themselves say is on the table: charging for delivery trades for the first time. Read it here: <a href=\"https://files.instinct.com/vnugo0nqmfub-zerodha-built-without-a-rupee-of\" target=\"_blank\" rel=\"noopener\">Zerodha: built without a rupee of outside money</a> (about 20 minutes)."
+      "html": "Today's long read is the story of Zerodha: a 17-year-old trader, two busts, four years on a call-centre night shift, and a broking licence bought with crash savings, which built India's second-largest broker by active clients without a rupee of outside money or advertising, and which now faces the regulator ending the weekly-options trade that made it. It ends on the decision the founders themselves say is on the table: charging for delivery trades for the first time. Read it here: <a href=\"https://files.instinct.com/vnugo0nqmfub-zerodha-built-without-a-rupee-of\" target=\"_blank\" rel=\"noopener\">Zerodha: built without a rupee of outside money</a> (about 20 minutes)."
      }
     ]
    },
@@ -462,19 +485,14 @@
         "detail": "Institutions bid in the roughly ₹8,000 crore anchor book, a day before the public issue (Mint)."
        },
        {
-        "n": "20",
-        "title": "Tue: HD Fire Protect, Vaibhav Vyapaar list",
-        "detail": "Two SME listings (Upstox)."
-       },
-       {
         "n": "21",
         "title": "Wed: Jio Platforms and Paras Healthcare open",
-        "detail": "Both issues run 21 to 23 October. Fusion CX and Ravita Engineering Services list (Upstox)."
+        "detail": "Both issues run 21 to 23 October. HD Fire Protect and Vaibhav Vyapaar list (Upstox)."
        },
        {
         "n": "22",
-        "title": "Thu: NVIDIA Bolt E4B expected",
-        "detail": "The smaller open model NVIDIA announced for 23 October (NVIDIA blog)."
+        "title": "Thu: Fusion CX and Ravita Engineering Services list",
+        "detail": "Two listings (Upstox)."
        },
        {
         "n": "23",
@@ -587,12 +605,5 @@
     ]
    }
   ]
- },
- "audio": {
-  "full": "audio/d12-full.m4a",
-  "quick": "audio/d12-quick.m4a"
- },
- "times": {
-  "full": "audio/d12-full.times.json"
  }
 }
