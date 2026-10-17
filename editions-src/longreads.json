@@ -1778,7 +1778,7 @@
  },
  "12": {
   "title": "Zerodha: built without a rupee of outside money",
-  "fact": "A company story in about 20 minutes. Two brothers, sons of a Canara Bank employee, built India's most trusted broker with no investors and no advertising. This week it sits 35,830 clients ahead of losing the number two spot it has held for a decade, and a promise it made in 2010 is on the table.",
+  "fact": "A company story in about 20 minutes. Two brothers, sons of a Canara Bank employee, built India's second-largest broker by active clients with no investors and no advertising. This week it sits 35,830 clients ahead of losing the number two spot it has held since 2023, and a promise it made in 2010 is on the table.",
   "intro": "Read it straight through; the story is chronological. The numbers are boxed at the end, and every source read is listed.",
   "hero": {
    "t": "figure",
@@ -1875,7 +1875,7 @@
        {
         "n": "15",
         "title": "Sep 2026",
-        "detail": "67.92 lakh active clients, down 5,313 in the month. Angel One closes to within 35,830."
+        "detail": "67.9 lakh active clients, down 5,313 in the month. Angel One closes to within 35,830."
        }
       ]
      }
@@ -1890,7 +1890,7 @@
      },
      {
       "t": "p",
-      "html": "The detail that matters for everything after: he went bust twice before he was twenty-five. A founder who has personally blown up a trading account builds a different kind of brokerage, one that warns customers about leverage instead of selling it to them."
+      "html": "The detail that matters for everything after: he went bust twice. A founder who has personally blown up a trading account builds a different kind of brokerage, one that warns customers about leverage instead of selling it to them."
      },
      {
       "t": "p",
@@ -1903,7 +1903,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "By 2005, Nithin was running a franchise of a bigger broking firm, the standard route for a sub-broker in that decade. Then came 2008. The crash that wiped out a generation of traders was, for him, the best market he had ever traded: \"In 2008, when there was slowdown and markets fell, he made a little bit of money,\" YourStory records, \"it was just enough to get a licence.\" The profits of the worst year in modern market history became the deposit for a broking membership. His younger brother Nikhil joined as co-founder; their father was a Canara Bank employee, and neither brother finished college."
+      "html": "By 2005, Nithin was running a franchise of a bigger broking firm, the standard route for a sub-broker in that decade. Then came 2008. The crash that wiped out a generation of traders was, for him, the best market he had ever traded: \"In 2008, when there was slowdown and markets fell, he made a little bit of money,\" YourStory records, \"it was just enough to get a licence.\" The profits from that crash became the deposit for a broking membership. His younger brother Nikhil joined as co-founder; their father was a Canara Bank employee, and neither brother finished college."
      },
      {
       "t": "p",
@@ -1982,7 +1982,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "Zerodha's internal operating system is one sentence long, from Nithin's thirtieth-anniversary-of-trading post in September 2025: \"For many years, I have been looking at a 5-year moving average to see if the business is trending up or not.\" Quarterly and even annual numbers, he argues, push a founder into wrong decisions at every dip. He is explicit about why he can think this way: \"This is possible because we don't have external investors.\" Ten per cent of everything the company earns goes to the Rainmatter Foundation, started in 2020, for climate and social entrepreneurs. No venture fund would have signed either of those terms, which is rather the point."
+      "html": "Zerodha's internal operating system is one sentence long, from Nithin's September 2025 post marking fifteen years of Zerodha: \"For many years, I have been looking at a 5-year moving average to see if the business is trending up or not.\" Quarterly and even annual numbers, he argues, push a founder into wrong decisions at every dip. He is explicit about why he can think this way: \"This is possible because we don't have external investors.\" Ten per cent of everything the company earns goes to the Rainmatter Foundation, started in 2020, for climate and social entrepreneurs. No venture fund would have signed either of those terms, which is rather the point."
      },
      {
       "t": "p",
@@ -2003,7 +2003,7 @@
      },
      {
       "t": "p",
-      "html": "Third, scale itself. Zerodha's active client base has stopped growing: it shrank by 5,313 in September 2026 while Angel One added 36,956. The gap between the number two and number three broker in India is now 35,830 clients, one decent month for the challenger."
+      "html": "Third, scale itself. Zerodha's active client base has stopped growing: it shrank by 5,313 in September 2026 while Angel One added 36,956. The gap between the number two and number three broker in India is now 35,830 clients, one decent month for the challenger. Zerodha has held that number two rank <span style=\"text-decoration:underline;text-decoration-color:#c9a227;text-decoration-thickness:2px;text-underline-offset:3px\">since October 2023, when Groww passed it</span>."
      },
      {
       "t": "p",
@@ -2020,7 +2020,7 @@
      },
      {
       "t": "chart",
-      "svg": "<svg aria-label=\"Active clients on the NSE in September 2026: Groww 134.5 lakh, Zerodha 67.92 lakh, Angel One 67.56 lakh\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 238\"><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"42\">Groww</text><rect fill=\"#1f6feb\" height=\"34\" rx=\"2\" width=\"422.7142857142857\" x=\"130\" y=\"18\"></rect><text fill=\"#333\" font-size=\"16\" x=\"560.7142857142858\" y=\"42\">134.5 lakh (29.16%)</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"98\">Zerodha</text><rect fill=\"#8c1d18\" height=\"34\" rx=\"2\" width=\"213.46285714285716\" x=\"130\" y=\"74\"></rect><text fill=\"#333\" font-size=\"16\" x=\"351.46285714285716\" y=\"98\">67.92 lakh (14.73%)</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"154\">Angel One</text><rect fill=\"#1f6feb\" height=\"34\" rx=\"2\" width=\"212.33142857142857\" x=\"130\" y=\"130\"></rect><text fill=\"#333\" font-size=\"16\" x=\"350.33142857142855\" y=\"154\">67.56 lakh (14.65%)</text></g><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"214\">Active clients on the NSE, September 2026, with market share. Zerodha in red.</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"234\">Source: NSE data via CNBC-TV18, 8 Oct 2026, and Inc42, 14 Oct 2026.</text></svg>"
+      "svg": "<svg aria-label=\"Active clients on the NSE in September 2026: Groww 134.5 lakh, Zerodha 67.9 lakh, Angel One 67.6 lakh\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 238\"><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"42\">Groww</text><rect fill=\"#1f6feb\" height=\"34\" rx=\"2\" width=\"422.7142857142857\" x=\"130\" y=\"18\"></rect><text fill=\"#333\" font-size=\"16\" x=\"560.7142857142858\" y=\"42\">134.5 lakh (29.16%)</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"98\">Zerodha</text><rect fill=\"#8c1d18\" height=\"34\" rx=\"2\" width=\"213.4\" x=\"130\" y=\"74\"></rect><text fill=\"#333\" font-size=\"16\" x=\"351.4\" y=\"98\">67.9 lakh (14.73%)</text></g><g><text fill=\"#222\" font-size=\"18\" text-anchor=\"end\" x=\"120\" y=\"154\">Angel One</text><rect fill=\"#1f6feb\" height=\"34\" rx=\"2\" width=\"212.45714285714283\" x=\"130\" y=\"130\"></rect><text fill=\"#333\" font-size=\"16\" x=\"350.4571428571428\" y=\"154\">67.6 lakh (14.65%)</text></g><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"214\">Active clients on the NSE, September 2026, with market share. Zerodha in red.</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"234\">Source: NSE data via CNBC-TV18, 8 Oct 2026, and Inc42, 14 Oct 2026.</text></svg>"
      },
      {
       "t": "p",
@@ -2078,7 +2078,7 @@
        {
         "n": "5",
         "title": "Clients",
-        "detail": "67.92 lakh active on the NSE in September 2026, down 5,313 in the month; 14.73% share. Groww 1.34 crore (29.16%), Angel One 67.56 lakh (14.65%)."
+        "detail": "67.9 lakh active on the NSE in September 2026, down 5,313 in the month; 14.73% share. Groww 134.5 lakh (29.16%), Angel One 67.6 lakh (14.65%)."
        },
        {
         "n": "6",
