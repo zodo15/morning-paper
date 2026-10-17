@@ -605,5 +605,12 @@
     ]
    }
   ]
+ },
+ "audio": {
+  "full": "audio/d12-full.m4a",
+  "quick": "audio/d12-quick.m4a"
+ },
+ "times": {
+  "full": "audio/d12-full.times.json"
  }
 }
