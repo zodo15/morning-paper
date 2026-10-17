@@ -66,6 +66,9 @@ export default async function handler(req, res) {
     var tgt = feed.find(function (x) { return x.id === b.update; });
     if (!tgt) return res.status(404).json({ error: 'no such card' });
     ['headline', 'body', 'why', 'watch'].forEach(function (k) { if (b[k] != null) tgt[k] = clean(b[k], LIM[k]); });
+    if (Array.isArray(b.sources) && b.sources.length) {
+      tgt.sources = b.sources.filter(function (x) { return x && /^https:\/\//.test(x.url || ''); }).map(function (x) { return { name: clean(x.name, 60) || 'Source', url: String(x.url).slice(0, 500) }; }).slice(0, 4);
+    }
     applyMeta(b, tgt);
     try { var im0 = await ingestImage(tgt.id, b.image); if (im0) tgt.image = im0; } catch (e) { return res.status(422).json({ error: String(e.message || e) }); }
     await writeFeed(feed);
@@ -75,7 +78,7 @@ export default async function handler(req, res) {
     lane: LANES.indexOf(b.lane) >= 0 ? b.lane : 'markets',
     tags: (Array.isArray(b.tags) ? b.tags : []).map(function (t) { return clean(t, 16).toUpperCase(); }).filter(Boolean).slice(0, 5),
     headline: clean(b.headline, LIM.headline), body: clean(b.body, LIM.body), why: clean(b.why, LIM.why), watch: clean(b.watch, LIM.watch),
-    sources: (Array.isArray(b.sources) ? b.sources : []).filter(function (s) { return s && /^https:\/\//.test(s.url || ''); }).map(function (s) { return { name: clean(s.name, 40) || 'Source', url: String(s.url).slice(0, 500) }; }).slice(0, 4),
+    sources: (Array.isArray(b.sources) ? b.sources : []).filter(function (s) { return s && /^https:\/\//.test(s.url || ''); }).map(function (s) { return { name: clean(s.name, 60) || 'Source', url: String(s.url).slice(0, 500) }; }).slice(0, 4),
     kind: clean(b.kind, 40), timeLabel: clean(b.timeLabel, 60),
     image: null,
     at: clean(b.at, 40)
