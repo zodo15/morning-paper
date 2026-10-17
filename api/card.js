@@ -76,7 +76,7 @@ export default async function handler(req, res) {
   }
   var card = {
     lane: LANES.indexOf(b.lane) >= 0 ? b.lane : 'markets',
-    tags: (Array.isArray(b.tags) ? b.tags : []).map(function (t) { return clean(t, 16).toUpperCase(); }).filter(Boolean).slice(0, 5),
+    tags: (Array.isArray(b.tags) ? b.tags : []).map(function (t) { return clean(t, 24).toUpperCase(); }).filter(Boolean).slice(0, 5),
     headline: clean(b.headline, LIM.headline), body: clean(b.body, LIM.body), why: clean(b.why, LIM.why), watch: clean(b.watch, LIM.watch),
     sources: (Array.isArray(b.sources) ? b.sources : []).filter(function (s) { return s && /^https:\/\//.test(s.url || ''); }).map(function (s) { return { name: clean(s.name, 60) || 'Source', url: String(s.url).slice(0, 500) }; }).slice(0, 4),
     kind: clean(b.kind, 40), timeLabel: clean(b.timeLabel, 60),
