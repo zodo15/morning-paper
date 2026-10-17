@@ -603,7 +603,7 @@
     switch (b.t) {
       case 'story': return (b.kicker ? '<div class="story-kicker">' + esc(b.kicker) + '</div>' : '') + '<h3 class="story-title">' + esc(b.title) + '</h3>';
       case 'p': return '<p class="body-p rp">' + b.html + '</p>';
-      case 'bullets': return '<ul class="bullets">' + b.items.map(function (i) { return '<li class="rp">' + esc(i) + '</li>'; }).join('') + '</ul>';
+      case 'bullets': return '<ul class="bullets">' + b.items.map(function (i) { return '<li class="rp">' + i + '</li>'; }).join('') + '</ul>';
       case 'rows': return '<div class="rows">' + b.items.map(function (r) {
           return '<div class="row">' + (r.n ? '<span class="row-n">' + esc(r.n) + '</span>' : '') +
             '<div><span class="row-title">' + esc(r.title) + '</span><span class="row-detail rp">' + esc(r.detail) + '</span></div></div>';
