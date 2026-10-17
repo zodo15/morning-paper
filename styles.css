@@ -336,3 +336,8 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .ph-s { font-family: 'PS Meta', sans-serif; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; margin-top: 8px; opacity: .8; position: relative; z-index: 1; }
 .ncard-img img { background: var(--line); }
 .pg-in .ncard-img img, .pg-in .ncard-img.plate-ph { height: var(--ih, min(28vh, 190px)); min-height: 0; max-height: none; }
+
+.pg-in.phc .ncard-img.plate-ph { padding: 0 16px; }
+.pg-in.phc .ph-t { font-size: 20px; }
+.pg-in.phc .ph-s { display: none; }
+.pg-in.phc .ncard-img.plate-ph::after { width: 90px; height: 90px; right: -24px; top: -34px; }
