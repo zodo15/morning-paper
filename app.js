@@ -820,7 +820,7 @@
       var guard = 0;
       while (el.scrollHeight > el.clientHeight + 1 && guard++ < 80) {
         if (st.bs > 15.5) st.bs -= 0.5;
-        else if (hasImg && (st.ih || 150) > (isPh ? 56 : 100)) { st.ih = (st.ih || 150) - 10; if (isPh && st.ih < 100) el.classList.add('phc'); }
+        else if (hasImg && (st.ih || 150) > (isPh ? 66 : 100)) { st.ih = (st.ih || 150) - 10; if (isPh && st.ih < 100) el.classList.add('phc'); }
         else if (st.bs > 14) st.bs -= 0.5;
         else if (st.hs > 22) st.hs -= 1;
         else if (hasImg && !isPh && !el.classList.contains('noimg')) el.classList.add('noimg');
