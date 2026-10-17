@@ -13,9 +13,11 @@
 }
 * { box-sizing: border-box; }
 html, body { margin: 0; padding: 0; }
+html, body { overflow-x: hidden; overflow-x: clip; }
 body { background: var(--paper); color: var(--ink); font-family: 'PS Body', Georgia, serif; font-weight: 400; -webkit-font-smoothing: antialiased; }
 strong, b { font-weight: 600; }
 img { max-width: 100%; }
+.body-p, .bullets li, .row-detail, .facts dd, .callout, .closing, .story-title, .deck, .intro { overflow-wrap: anywhere; }
 a { color: var(--red); text-decoration: none; border-bottom: 1px solid rgba(198,54,44,.35); }
 a:hover { border-bottom-color: var(--red); }
 
