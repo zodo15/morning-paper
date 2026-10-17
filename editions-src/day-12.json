@@ -1,0 +1,622 @@
+{
+  "day": 12,
+  "meta": {
+    "date": "Saturday 17 October 2026",
+    "short": "Sat 17 Oct",
+    "longread": 12
+  },
+  "edition": {
+    "title": "Morning paper, Saturday 17 October 2026",
+    "fact": "Edition 12. IT lifts Nifty to 23,146; India's biggest IPO prices below the street. The Nifty 50 closed Friday at 23,146.15, up 0.65%. Jio Platforms opens India's largest-ever IPO on Wednesday. The long read is Zerodha.",
+    "intro": "The lead route below takes about 5 minutes. Everything after it is for when you want the detail. Friday's share-by-share movers sit in the appendix, corporate actions and this week's IPOs have their own blocks.",
+    "hero": {
+      "t": "figure",
+      "img": "photos/d12-hero.jpg",
+      "alt": "The Phiroze Jeejeebhoy Towers, home of the Bombay Stock Exchange, in Mumbai",
+      "caption": "Phiroze Jeejeebhoy Towers, home of the Bombay Stock Exchange. Photo: Appaiah (Wikimedia Commons, CC BY-SA 2.0)."
+    },
+    "concept": {
+      "label": "One concept a day",
+      "name": "The market for lemons",
+      "line": "Why bad products drive out good ones when buyers cannot tell them apart. Akerlof's 1970 paper explains why information gaps can unravel a market."
+    },
+    "groups": [
+      {
+        "heading": "Contents and reading times",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Correction note (1 min) / 5-minute lead route / Editor's read (1 min) / Front page (7 min) / Insurance (3 min) / What's new radar (3 min) / Markets and sector chart (3 min) / IPOs this week (4 min) / Startups and funding (3 min) / Global (2 min) / Brewing (1 min) / One Concept a Day (6 min) / Long read: Zerodha / Seven-day calendar (1 min) / Notes / Appendix: movers / Corporate actions"
+          },
+          {
+            "t": "p",
+            "html": "Long read, about 20 minutes: <a href=\"https://files.instinct.com/vnugo0nqmfub-zerodha-built-without-a-rupee-of\" target=\"_blank\" rel=\"noopener\">Zerodha: built without a rupee of outside money</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Correction note on edition 11",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Groww's active clients: edition 11 printed two figures, 1.815 crore and 1.34 crore, that read as a conflict. Both are correct on different definitions. 1.815 crore is Groww's own count, clients who transacted in the last three months or hold assets, from its Q2 FY27 shareholder letter. 1.34 crore is the NSE's September count, which counts a client as active with as little as one trade in twelve months (<a href=\"https://resources.groww.in/web-assets/media-library/2026/10/Q2%20FY27%20Shareholders%27%20Letter.pdf\" target=\"_blank\" rel=\"noopener\">Groww letter</a>, <a href=\"https://www.business-standard.com/companies/news/nse-active-clients-see-21-rise-in-fy25-groww-cements-lead-with-36-growth-125041100286_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard on the NSE definition</a>). Groww also reports 2.4 crore cumulative transacting users, a figure that is not de-duplicated across platforms, as its own footnote says."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The 5-minute lead route",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "<strong>IPO:</strong> Jio Platforms set a band of ₹1,065 to ₹1,119 for India's largest-ever IPO, raising up to ₹30,213 crore from Wednesday, below the ₹33,000 to ₹38,000 crore brokerages expected. Sovereign funds are queueing for the ₹8,000 crore anchor book on Monday..",
+              "<strong>Market:</strong> the Nifty 50 rose 0.65% to 23,146.15 on Friday and 2.78% over the week, carried by IT. Midcap and smallcap indices ended the day flat. Chart and numbers.",
+              "<strong>IT:</strong> Tech Mahindra jumped 8.45%, its biggest single-day gain since March 2020, after its results and a 1:1 bonus announcement. The Nifty IT index rose 3.92% in a day and 11.72% in five sessions..",
+              "<strong>Insurance:</strong> IRDAI's chairman called broker job-loss fears misplaced and floated loans against surrender value to stop lapses. Comments on the distribution paper close 25 October..",
+              "<strong>AI:</strong> Meta released an open-weights model with 816 billion parameters that runs on two Mac Studio desktops..",
+              "<strong>Global:</strong> the Nasdaq fell 2% on Friday to its worst week since June, on AI-infrastructure debt and oil above $100..",
+              "<strong>One idea:</strong> the market for lemons, why bad products drive out good when buyers cannot tell them apart, and why insurers know this paper by heart..",
+              "<strong>Long read:</strong> Zerodha, the broker that grew to 67.9 lakh clients on zero advertising and now faces the end of the regulation that made it. Read it."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Editor's read: this IPO is a deleveraging event, not a growth story",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Read the use of proceeds, not the headlines. Of the ₹28,755 to ₹30,213 crore Jio Platforms raises, up to ₹27,500 crore repays borrowings, leaving ₹1,255 to ₹2,713 crore for everything else (BusinessLine). Reliance is selling about 3% of Jio to clean its subsidiary's balance sheet, and it is pricing the sale to move: Uday Kotak of the lead bank said plainly, \"We priced for investors to have returns in this IPO.\" That is smart treasury work, and the anchor queue of sovereign funds is the market's answer on demand. But it means the growth story buyers are paying for, Akash Ambani's voice-AI bet, is funded by faith, not by this money. My confidence: high on the arithmetic, because the RHP is filed and the filing is public; lower on how the market will price that AI optionality against ARPU that has been flat for two quarters. What would prove me wrong: an anchor book on Monday that fills overwhelmingly at the ₹1,119 cap, which would show institutions are paying for the story, not the discount."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/indias-largest-ipo-jio-platforms-sets-1065-1119-price-band-below-street-estimates/article71584847.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.livemint.com/market/ipo/blackrock-adia-norges-seek-anchor-slots-in-jio-s-3-2-bn-ipo-11792059501690.html\" target=\"_blank\" rel=\"noopener\">Mint</a> / <a href=\"https://www.ril.com/sites/default/files/2026-10/RIL_SE_14102026_.pdf\" target=\"_blank\" rel=\"noopener\">RIL filing (primary)</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "India's largest-ever IPO is priced lower than the street expected",
+            "kicker": "Jio Platforms"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://en.wikipedia.org/wiki/Jio_Platforms\" target=\"_blank\" rel=\"noopener\">Jio Platforms Ltd</a> (the telecom and digital arm of Reliance Industries) set a price band of ₹1,065 to ₹1,119 a share on Wednesday for an <a href=\"https://en.wikipedia.org/wiki/Initial_public_offering\" target=\"_blank\" rel=\"noopener\">initial public offering</a> (a first sale of shares to the public) of 27 crore fresh shares, opening 21 October and closing 23 October. Employees get a ₹54 discount, the lot size is 12 shares (₹13,428 at the cap), and the face value is ₹10, all from Reliance's own exchange filing."
+          },
+          {
+            "t": "p",
+            "html": "Three things sit inside that pricing. First, it is entirely a fresh issue: no existing investor, not Meta, Google, KKR, Silver Lake or General Atlantic, is selling a share. Second, the money mostly goes to lenders: the company carries borrowings of about ₹27,500 crore, so repayment leaves only ₹1,255 to ₹2,713 crore for general purposes (BusinessLine). Deven Choksey of DRChoksey FinServ estimates the deleveraging cuts annual interest costs by ₹2,000 to ₹2,500 crore. Third, demand is already visible: Mint reports ADIA, QIA, GIC, Norges Bank, Mubadala, BlackRock, FMR, Goldman Sachs Asset Management and Franklin Templeton, plus about 15 domestic asset managers, are seeking slots in an anchor book of about ₹8,000 crore, citing four people familiar with the plans."
+          },
+          {
+            "t": "p",
+            "html": "The risk the roadshow kept circling is <a href=\"https://en.wikipedia.org/wiki/Average_revenue_per_user\" target=\"_blank\" rel=\"noopener\">ARPU</a> (average revenue per user, the monthly bill per subscriber): it rose to ₹215.6 from ₹214 across a year, and was flat the quarter before. Managing director Akash Ambani's answer: realisation per user can grow outside licensed services, \"one key example being our voice AI service.\" The company reported a profit of ₹30,064 crore on revenue of ₹1.49 lakh crore in FY26. Reserved quotas: ₹2,500 crore for Reliance shareholders and ₹500 crore for employees."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The pricing tells you what the seller thinks the market will pay, not what the business is worth. Kotak said the band was set from roadshow feedback so investors make money. If that intent is real, Monday's anchor book fills near the ₹1,119 cap; if it fills near the ₹1,065 floor, the discount was demanded by buyers, not offered by the seller."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.ril.com/sites/default/files/2026-10/RIL_SE_14102026_.pdf\" target=\"_blank\" rel=\"noopener\">RIL filing (primary)</a> / <a href=\"https://www.thehindubusinessline.com/markets/indias-largest-ipo-jio-platforms-sets-1065-1119-price-band-below-street-estimates/article71584847.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a> / <a href=\"https://www.livemint.com/market/ipo/blackrock-adia-norges-seek-anchor-slots-in-jio-s-3-2-bn-ipo-11792059501690.html\" target=\"_blank\" rel=\"noopener\">Mint</a> / <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-files-red-herring-prospectus-for-indias-biggest-public-issue/articleshow/134954464.cms\" target=\"_blank\" rel=\"noopener\">ET</a>"
+          },
+          {
+            "t": "story",
+            "title": "Tech Mahindra jumps 8.45% and carries the Nifty to 23,146; smaller shares sit it out",
+            "kicker": "Markets"
+          },
+          {
+            "t": "p",
+            "html": "The Nifty 50 closed up 148.80 points at 23,146.15 and the Sensex up 413.66 at 74,729.27. <a href=\"https://en.wikipedia.org/wiki/Tech_Mahindra\" target=\"_blank\" rel=\"noopener\">Tech Mahindra</a> (an IT services exporter) rose 8.45%, its biggest single-day gain since March 2020 (CNBC-TV18), after its quarterly results and a 1:1 bonus announcement. TCS added 4.74% and Infosys 4.46%; TCS is up nearly 19% since its results on 8 October. The Nifty IT index rose 3.92%, its fourth straight session of gains."
+          },
+          {
+            "t": "p",
+            "html": "Breadth was positive, 2,131 advances to 1,422 declines, but the Nifty Midcap 150 slipped 0.09% and the Smallcap 250 added only 0.06%. Foreign investors bought ₹1,165.92 crore while domestic institutions sold ₹3,661.28 crore (CNBC-TV18). The rupee closed at 94.95 to the dollar, Brent crude at $105.6 a barrel, and the <a href=\"https://en.wikipedia.org/wiki/India_VIX\" target=\"_blank\" rel=\"noopener\">India VIX</a> (the volatility index, a fear gauge derived from option prices) at 14.08. Over the week the Nifty gained 2.78% and the Sensex 3.11%, computed from the 9 October closes."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Friday was an earnings rally in one sector, not a broad risk-on move. The tell: the Nifty IT index rose 3.92% while midcap and smallcap indices ended flat and domestic institutions sold ₹3,661 crore. If the move were broad, smaller shares would have joined."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.etnownews.com/markets/stock-market-live-updates-16-october-2026-sensex-nifty-movement-top-gainers-losers-and-market-trends-liveblog-156348826\" target=\"_blank\" rel=\"noopener\">ET Now liveblog</a> / <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tech-mahindra-tcs-interglobe-bse-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134992216.cms\" target=\"_blank\" rel=\"noopener\">ET market wrap</a> / <a href=\"https://www.cnbctv18.com/market/fiis-return-to-buying-indian-stocks-with-rs1166-crore-net-inflows-diis-sell-rs3661-crore-20013872.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>"
+          },
+          {
+            "t": "story",
+            "title": "The insurance regulator wants a loan market for lapsing policies",
+            "kicker": "Insurance"
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://irdai.gov.in/\" target=\"_blank\" rel=\"noopener\">IRDAI</a> (the Insurance Regulatory and Development Authority of India) is exploring premium financing: a policyholder who cannot pay a year's premium would borrow against the policy's own surrender value instead of surrendering at a loss. Chairman Ajay Seth floated the idea at Samvaad 2026, organised by <a href=\"https://sahamati.org.in/\" target=\"_blank\" rel=\"noopener\">Sahamati</a> (the self-regulatory body for account aggregators, the licensed intermediaries that move financial data with consent). His reasoning: surrender locks in a loss for the policyholder and a lapse for the insurer, while a loan against surrender value keeps both whole. A grey market in policy assignments already operates outside the Insurance Act, so a formal channel is the cleaner option. His own caveat: the loan has to be cheap enough."
+          },
+          {
+            "t": "p",
+            "html": "A day earlier, Seth had sharper words for the industry lobby. The Insurance Brokers Association of India has warned the proposed distribution reforms could cost nearly 10 lakh jobs and 60 to 70% of distributor revenue. Seth called those claims misplaced: \"The intent is not to disrupt any business model, the attempt is to have an orderly transition to a better system.\" Comments on the distribution consultation paper close 25 October. The deeper dive is in the insurance section."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> If you work in insurance distribution, this is the regulator attacking the lapse problem from the product side for the first time: instead of only policing mis-selling, it wants a financing market that keeps policies alive. The idea works only if the loan is cheaper than surrendering, which Seth himself flagged as the open question."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.ndtvprofit.com/personal-finance/irdai-explores-financing-options-to-help-you-keep-your-life-insurance-policy-instead-of-surrendering-it-12193714\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a> / <a href=\"https://timesofindia.indiatimes.com/business/india-business/irdai-looking-at-ways-to-help-policyholders-stay-the-course/articleshow/134980488.cms\" target=\"_blank\" rel=\"noopener\">Times of India</a> / <a href=\"https://www.business-standard.com/finance/insurance/irdai-s-proposed-distribution-reforms-aim-for-orderly-transition-ajay-seth-126101501444_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>"
+          },
+          {
+            "t": "story",
+            "title": "Meta's 816-billion-parameter open model runs on two desktop Macs",
+            "kicker": "AI"
+          },
+          {
+            "t": "p",
+            "html": "Meta released Muse Spark Open on Thursday: <a href=\"https://en.wikipedia.org/wiki/Open-weight_model\" target=\"_blank\" rel=\"noopener\">open weights</a> (the trained model files are published, so anyone can download and run them), 816 billion total parameters with 42 billion active per token, and a 1 million token <a href=\"https://en.wikipedia.org/wiki/Large_language_model\" target=\"_blank\" rel=\"noopener\">context window</a> (how much text the model can hold in mind at once, here about 7.5 lakh words). Meta says it runs on two Apple Mac Studio machines with M5 Ultra chips, and calls it the most capable open-weight model from a US lab; the capability claim is Meta's, not an independent benchmark's. The license allows commercial use with limits."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> A model of this size that runs on owned hardware turns AI from a monthly rent into a capital purchase. For an Indian startup building agents, the testable claim is Meta's own: the most capable open-weight model from a US lab. That claim fails if independent benchmarks disagree."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://research.meta.ai/blog/muse-spark-open\" target=\"_blank\" rel=\"noopener\">Meta Research (primary)</a> / <a href=\"https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs\" target=\"_blank\" rel=\"noopener\">The Verge</a>"
+          },
+          {
+            "t": "story",
+            "title": "Wall Street's worst week since June lands two days before India's biggest IPO",
+            "kicker": "Global"
+          },
+          {
+            "t": "p",
+            "html": "The Dow Jones Industrial Average closed 0.34% lower on Friday and the Nasdaq Composite fell 2%, capping its worst week since June (AP). The drivers: worry about the debt piling up behind AI data centres, and crude oil above $100 a barrel. The contrast worth noting: in the same week, Anthropic's quarterly revenue jumped 45% to $16.8 billion ahead of its IPO (Bloomberg, attributed). Private AI revenue is still compounding while public AI stocks de-rate; both cannot be right about each other for long."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Indian IT's Friday rally was built on earnings while its biggest export market was selling AI stocks. If the US selloff continues on Monday, Indian IT typically feels it first; if it stabilises, Friday's earnings logic has room to run."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628\" target=\"_blank\" rel=\"noopener\">AP</a> / <a href=\"https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-034-4954815\" target=\"_blank\" rel=\"noopener\">investing.com</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Insurance",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Orderly transition, a public registry, and a deadline eight days away",
+            "kicker": "For your desk"
+          },
+          {
+            "t": "p",
+            "html": "Seth on Thursday: \"There is absolutely no intention that there should be a disruption for any market player or individual. There must not be any disruption, at the same time everybody must move towards better efficiency.\" He said larger and smaller insurers, new entrants and different distributor categories have raised different concerns, including longer transition periods and the treatment of small-ticket policies, and asked every stakeholder to explain the business and economic rationale behind their recommendations, including how they benefit policyholders."
+          },
+          {
+            "t": "p",
+            "html": "On plumbing: the proposed <a href=\"https://irdai.gov.in/\" target=\"_blank\" rel=\"noopener\">Public Insurance Registry</a> (PIR, a central digital record of insurance policies) reaches beta by January 2028, hosted by the Insurance Information Bureau, which will be converted into a not-for-profit company. Seth said the account aggregator ecosystem, <a href=\"https://en.wikipedia.org/wiki/Bima_Sugam\" target=\"_blank\" rel=\"noopener\">Bima Sugam</a> (the industry's digital marketplace for policies) and the PIR play complementary roles: data sharing, direct purchase, and business-facing information. A separate consultation paper on this information infrastructure closed for feedback today, 17 October."
+          },
+          {
+            "t": "p",
+            "html": "The named conflict, labelled: the Insurance Brokers Association of India says the distribution overhaul threatens nearly 10 lakh jobs and 60 to 70% of distributor revenue; IRDAI's chairman says those fears are misplaced and that reforms will create business opportunities within and beyond insurance. Both positions are on the record."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Two concrete dates now frame your industry's next year: comments on the distribution paper close 25 October, and the Public Insurance Registry enters beta by January 2028. Seth asked stakeholders to argue from the policyholder's benefit, not their own revenue, which tells you how he intends to read your industry's submissions."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.business-standard.com/finance/insurance/irdai-s-proposed-distribution-reforms-aim-for-orderly-transition-ajay-seth-126101501444_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.ndtvprofit.com/personal-finance/irdai-explores-financing-options-to-help-you-keep-your-life-insurance-policy-instead-of-surrendering-it-12193714\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>"
+          }
+        ]
+      },
+      {
+        "heading": "What's new radar, last 48 hours",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "NVIDIA ships Nemotron 3.5 Super VL and teases a faster Bolt",
+            "kicker": "AI models"
+          },
+          {
+            "t": "p",
+            "html": "NVIDIA released Nemotron 3.5 Super VL, a 120-billion-parameter vision-language model for document and video understanding, alongside Bolt 74B-A9B, a 74-billion model that fits on a single 24GB consumer GPU. A smaller Bolt E4B follows on 23 October with what NVIDIA claims is 5x faster inference. All three are open."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> NVIDIA's open-model line is aimed at enterprises that want frontier-class vision-language models they can host themselves; a 120B model that reads documents and video competes with the hosted APIs your vendors resell. The 5x speed claim for Bolt is NVIDIA's."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/\" target=\"_blank\" rel=\"noopener\">NVIDIA blog (primary)</a>"
+          },
+          {
+            "t": "story",
+            "title": "ChatGPT's Chrome extension can now read your open tabs",
+            "kicker": "AI product"
+          },
+          {
+            "t": "p",
+            "html": "OpenAI updated its ChatGPT Chrome extension to read and reason across a user's open tabs (The Verge, 15 October). The standalone Atlas browser, launched last year, is being folded into the extension approach."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> An assistant that reads your open tabs replaces the copy-paste step for research work, and it puts your browsing context inside OpenAI's product. Worth testing on low-sensitivity research first; check what your organisation's data policy says before pointing it at client work."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs\" target=\"_blank\" rel=\"noopener\">The Verge</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Selected NSE sector index moves at the close on Friday 16 October 2026, percent change, centred on zero\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 580\"><line stroke=\"#555\" x1=\"415\" x2=\"415\" y1=\"10\" y2=\"514\"></line><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"37\">IT</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"228.66666666666666\" x=\"415\" y=\"18\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"651.6666666666666\" y=\"38\">+3.92%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"79\">India Digital</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"121.91666666666666\" x=\"415\" y=\"60\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"544.9166666666666\" y=\"80\">+2.09%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"121\">Media</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"112\" x=\"415\" y=\"102\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"535\" y=\"122\">+1.92%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"163\">Cement</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"94.5\" x=\"415\" y=\"144\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"517.5\" y=\"164\">+1.62%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"205\">Metal</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"55.41666666666666\" x=\"415\" y=\"186\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"478.41666666666663\" y=\"206\">+0.95%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"247\">Auto</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"43.75\" x=\"415\" y=\"228\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"466.75\" y=\"248\">+0.75%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"289\">PSU Bank</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"39.083333333333336\" x=\"415\" y=\"270\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"462.0833333333333\" y=\"290\">+0.67%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"331\">Bank</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"3.5\" x=\"415\" y=\"312\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"426.5\" y=\"332\">+0.06%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"373\">Pharma</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"8.166666666666666\" x=\"406.8333333333333\" y=\"354\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"398.8333333333333\" y=\"374\">-0.14%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"415\">FMCG</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"22.75\" x=\"392.25\" y=\"396\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"384.25\" y=\"416\">-0.39%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"457\">Consumer Durables</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"35.58333333333333\" x=\"379.4166666666667\" y=\"438\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"371.4166666666667\" y=\"458\">-0.61%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"499\">Capital Markets</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"62.416666666666664\" x=\"352.5833333333333\" y=\"480\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"344.5833333333333\" y=\"500\">-1.07%</text></g><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"540\">NSE sector indices, % change at the close, Fri 16 Oct 2026. Blue up, red down. 12 of 23 shown; 14 of 23 rose.</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"560\">Source: neximpera.com sector desk, end-of-day close.</text></svg>"
+          },
+          {
+            "t": "p",
+            "html": "The chart shows sector index moves only, 12 of 23 NSE sectoral indices. IT led at +3.92% and Capital Markets lagged at -1.07%; 14 of 23 rose. Over the past five sessions the Nifty IT index is up 11.72%, the strongest weekly move of any sector. A sector index moving shows the average stock in it moved; it is not by itself proof of money rotating between sectors."
+          },
+          {
+            "t": "p",
+            "html": "Flows: foreign institutional investors bought ₹1,165.92 crore on Friday, returning after a selling stretch, while domestic institutional investors sold ₹3,661.28 crore (CNBC-TV18). The rupee closed at 94.95 per dollar and Brent at $105.6 a barrel; both matter for Monday because oil is India's largest import bill and IT earns in dollars."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://neximpera.com/signal-desk/sector\" target=\"_blank\" rel=\"noopener\">neximpera sector desk</a> / <a href=\"https://www.cnbctv18.com/market/fiis-return-to-buying-indian-stocks-with-rs1166-crore-net-inflows-diis-sell-rs3661-crore-20013872.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a> / <a href=\"https://xflot.com/day/2026-10-16\" target=\"_blank\" rel=\"noopener\">xflot</a> / <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tech-mahindra-tcs-interglobe-bse-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134992216.cms\" target=\"_blank\" rel=\"noopener\">ET wrap</a>"
+          }
+        ]
+      },
+      {
+        "heading": "IPOs this week",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Jio Platforms: dates, arithmetic and the grey market",
+            "kicker": "Mainboard, 21-23 Oct"
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Issue",
+                "detail": "27 crore fresh shares, ₹28,755 to ₹30,213 crore, no offer for sale. Largest IPO in India's history."
+              },
+              {
+                "n": "2",
+                "title": "Band",
+                "detail": "₹1,065 floor, ₹1,119 cap, face value ₹10, employee discount ₹54, lot of 12 shares (₹13,428 at cap)."
+              },
+              {
+                "n": "3",
+                "title": "Dates",
+                "detail": "Anchor bidding Mon 19 Oct, open Wed 21, close Fri 23, allotment expected Mon 26, listing Wed 28 Oct on NSE and BSE."
+              },
+              {
+                "n": "4",
+                "title": "Reservations",
+                "detail": "₹2,500 crore for Reliance Industries shareholders of record on 14 October, ₹500 crore for employees."
+              },
+              {
+                "n": "5",
+                "title": "Use of proceeds",
+                "detail": "Repay borrowings of about ₹27,500 crore at Reliance Jio Infocomm; the rest, ₹1,255 to ₹2,713 crore, for general purposes."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "<a href=\"https://en.wikipedia.org/wiki/Grey_market\" target=\"_blank\" rel=\"noopener\">Grey market premium</a> (GMP, the unofficial price at which IPO applications trade before listing) stands at ₹221 per share, 19.75% above the cap, implying an estimated listing price of ₹1,340, as of 11:37 pm on 16 October (investorgain.com). This is unofficial grey market data, dated, and shown as sentiment, not as a forecast. The 13-session trend:"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg aria-label=\"Jio Platforms grey market premium per share, 4 to 16 October 2026, rising from 148 to 221 rupees\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 250\"><line stroke=\"#555\" x1=\"60\" x2=\"700\" y1=\"210\" y2=\"210\"></line><g><rect fill=\"#1f6feb\" height=\"120.86666666666667\" rx=\"2\" width=\"37.23076923076923\" x=\"66\" y=\"89.13333333333333\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"84.61538461538461\" y=\"228\">4 Oct</text><text fill=\"#222\" font-size=\"14\" text-anchor=\"middle\" x=\"84.61538461538461\" y=\"83.13333333333333\">₹148</text></g><g><rect fill=\"#1f6feb\" height=\"127.4\" rx=\"2\" width=\"37.23076923076923\" x=\"115.23076923076923\" y=\"82.6\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"133.84615384615384\" y=\"228\">5</text></g><g><rect fill=\"#1f6feb\" height=\"136.38333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"164.46153846153845\" y=\"73.61666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"183.07692307692307\" y=\"228\">6</text></g><g><rect fill=\"#1f6feb\" height=\"148.63333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"213.6923076923077\" y=\"61.366666666666674\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"232.30769230769232\" y=\"228\">7</text></g><g><rect fill=\"#1f6feb\" height=\"136.38333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"262.9230769230769\" y=\"73.61666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"281.53846153846155\" y=\"228\">8</text></g><g><rect fill=\"#1f6feb\" height=\"141.28333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"312.1538461538462\" y=\"68.71666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"330.76923076923083\" y=\"228\">9</text></g><g><rect fill=\"#1f6feb\" height=\"139.65\" rx=\"2\" width=\"37.23076923076923\" x=\"361.3846153846154\" y=\"70.35\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"380.00000000000006\" y=\"228\">10</text></g><g><rect fill=\"#1f6feb\" height=\"140.46666666666667\" rx=\"2\" width=\"37.23076923076923\" x=\"410.61538461538464\" y=\"69.53333333333333\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"429.2307692307693\" y=\"228\">11</text></g><g><rect fill=\"#1f6feb\" height=\"148.63333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"459.84615384615387\" y=\"61.366666666666674\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"478.4615384615385\" y=\"228\">12</text></g><g><rect fill=\"#1f6feb\" height=\"178.03333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"509.0769230769231\" y=\"31.96666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"527.6923076923077\" y=\"228\">13</text></g><g><rect fill=\"#1f6feb\" height=\"168.23333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"558.3076923076924\" y=\"41.76666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"576.923076923077\" y=\"228\">14</text></g><g><rect fill=\"#1f6feb\" height=\"180.48333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"607.5384615384615\" y=\"29.51666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"626.1538461538462\" y=\"228\">15</text></g><g><rect fill=\"#1f6feb\" height=\"180.48333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"656.7692307692308\" y=\"29.51666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"675.3846153846155\" y=\"228\">16 Oct</text><text fill=\"#222\" font-size=\"14\" text-anchor=\"middle\" x=\"675.3846153846155\" y=\"23.51666666666668\">₹221</text></g><text fill=\"#555\" font-size=\"14\" x=\"0\" y=\"12\">Jio Platforms grey market premium per share, 4-16 Oct 2026 (investorgain.com, unofficial).</text></svg>"
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Worth a closer look if you planned to apply for one large listing this year: the anchor queue and a band set below street estimates give the issue visible support. The case weakens if Monday's anchor book fills near the ₹1,065 floor instead of the cap, or if grey market premiums collapse after the anchor names are public."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.ril.com/sites/default/files/2026-10/RIL_SE_14102026_.pdf\" target=\"_blank\" rel=\"noopener\">RIL filing (primary)</a> / <a href=\"https://www.chittorgarh.com/ipo/jio-platforms-ipo/\" target=\"_blank\" rel=\"noopener\">chittorgarh.com</a> / <a href=\"https://www.investorgain.com/gmp/jio-platforms-ipo-gmp/2306/\" target=\"_blank\" rel=\"noopener\">investorgain.com</a>"
+          },
+          {
+            "t": "story",
+            "title": "Paras Healthcare: eight hospitals, ₹1,450 crore, half of it old shares",
+            "kicker": "Mainboard, 21-23 Oct"
+          },
+          {
+            "t": "p",
+            "html": "Paras Healthcare runs eight hospitals across Patna, Darbhanga, Gurugram, Panchkula, Udaipur, Ranchi, Kanpur and Srinagar. The issue: ₹660 to ₹693 a share, lot of 21, a fresh issue of 71.15 lakh shares (₹500 crore) plus an <a href=\"https://en.wikipedia.org/wiki/Public_offering\" target=\"_blank\" rel=\"noopener\">offer for sale</a> (OFS, existing shareholders selling their shares) of 1.37 crore shares (₹950 crore) by promoter Dr Dharminder Kumar Nagar and Commelina. Fresh proceeds go to repaying debt at the company and its subsidiary PMHPL, and general purposes. Grey market premium stands at ₹95 per share, 13.71% above the cap, implying an estimated listing price of ₹788, as of 9:37 pm on 16 October (investorgain.com); unofficial grey market data, steady over the last three sessions, shown as sentiment."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Worth a closer look only if you are comfortable with regional hospital chains. The case weakens on the structure: ₹950 crore of the ₹1,450 crore issue is promoters selling, and the fresh ₹500 crore goes to repay debt, so listing-day buyers fund an exit and a balance sheet, not new beds."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://upstox.com/news/market-news/ipo/upcoming-ip-os-oct-18-week-jio-platforms-paras-healthcare-issues-to-open-for-subscription-9-listings-scheduled-check-list/article-201986/\" target=\"_blank\" rel=\"noopener\">Upstox</a> / <a href=\"https://www.investorgain.com/gmp/paras-healthcare-ipo/1728/\" target=\"_blank\" rel=\"noopener\">investorgain.com</a>"
+          },
+          {
+            "t": "p",
+            "html": "Also listing this week (Upstox): HD Fire Protect and Vaibhav Vyapaar on Tuesday 21 October; Fusion CX and Ravita Engineering Services on Wednesday 22; Sahajanand Medical Technologies, Tonbo Imaging, Bonfiglioli Transmissions, Zetwerk and Shellz India on Thursday 23."
+          }
+        ]
+      },
+      {
+        "heading": "Startups and funding",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Funding doubled week on week to $231.5 million, and it is still 45% below last year",
+            "kicker": "The week"
+          },
+          {
+            "t": "p",
+            "html": "Indian startups raised $231.5 million across 26 rounds this week, more than double the previous week and down 45.3% from a year ago (Tracxn data via ETtech). The four largest: Boldfit, the fitness brand, ₹400 crore; GreenCell Mobility, the electric bus operator, ₹330 crore led by Impact Fund Denmark; Scimplify, a specialty chemicals sourcing platform, $25 million led by Hitachi Ventures; Nat Habit, an ayurvedic personal care brand, ₹142 crore."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> The week-on-week doubling is a base effect after a slow week; the year-on-year drop of 45.3% is the structural number. Seed and early-stage cheques keep flowing while late-stage stays scarce, which is what a valuation-reset market looks like."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-boldfit-greencell-lead-as-weekly-funding-hits-232-million-down-45-on-year/articleshow/134999523.cms\" target=\"_blank\" rel=\"noopener\">ETtech Deals Digest</a>"
+          },
+          {
+            "t": "story",
+            "title": "Startup idea: the IPO promises tracker",
+            "kicker": "One idea"
+          },
+          {
+            "t": "p",
+            "html": "Every red herring prospectus states what the money will do; almost nobody checks twelve months later. Build a tracker that reads RHPs, extracts the stated use of proceeds, and scores each company's annual report against its own promise. Buyers: institutional research desks, IPO-focused retail platforms, and the anchor desks themselves. Why now: a record pipeline means a record pile of promises. What breaks it: ministry filings are messy to parse, and \"general corporate purposes\" is designed to be untrackable, so the product has to score honesty about vagueness too."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Jio's own raise shows the gap: 91% of India's largest IPO goes to lenders, while the roadshow sells an AI story. A promises-versus-delivery scoreboard would price that gap across every listing, and anchor investors and analysts would pay for it."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/indias-largest-ipo-jio-platforms-sets-1065-1119-price-band-below-street-estimates/article71584847.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Global",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "<strong>US stocks:</strong> Dow -0.34%, Nasdaq -2% on Friday, the Nasdaq's worst week since June. AI-infrastructure debt and oil above $100 drove the selling (AP, investing.com).",
+              "<strong>Anthropic:</strong> quarterly revenue jumped 45% to $16.8 billion ahead of its IPO (Bloomberg, attributed). Private AI revenue compounding while public AI stocks fall is the tension to watch.",
+              "<strong>Oil:</strong> Brent at $105.6 a barrel keeps India's import bill and inflation math under pressure; the rupee closed at 94.95 per dollar (ET Now)."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Brewing",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Federal Bank and Jana Small Finance Bank",
+                "detail": "ET Now reports acquisition talks; the bank declined to comment, so treat this as a rumour. The chain: private banks have bought small finance banks before to buy deposit franchises and branch networks. Watch for board meeting notices or a formal denial. Proven wrong if: either bank denies on record."
+              },
+              {
+                "n": "2",
+                "title": "IRDAI premium financing",
+                "detail": "Now an exploration, not a proposal. The chain: Samvaad float, then a consultation paper, then rules for a formal policy-loan market under the Insurance Act. Watch for a working-group note after the 25 October comment deadline. Proven wrong if: IRDAI's post-consultation roadmap omits it entirely."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "One Concept a Day: the market for lemons",
+        "blocks": [
+          {
+            "t": "story",
+            "title": "Why bad products drive out good ones when buyers cannot tell them apart",
+            "kicker": "George Akerlof, 1970"
+          },
+          {
+            "t": "p",
+            "html": "In August 1970, the Quarterly Journal of Economics published \"The Market for Lemons: Quality Uncertainty and the Market Mechanism\" by George Akerlof, then fresh from a year at the Indian Statistical Institute in Delhi, which the paper thanks. It won him a share of the 2001 Nobel Prize. The setup: a used-car market where sellers know which cars are lemons and buyers do not. Buyers therefore pay only the average price. Sellers of good cars refuse to sell at the average price and leave. The average quality falls, so buyers lower their price again, and the market unwinds until only lemons trade."
+          },
+          {
+            "t": "p",
+            "html": "Akerlof's own insurance example is the sharpest part of the paper. People over 65 struggle to buy health insurance at any price: as premiums rise to cover the riskiest applicants, healthier seniors drop out, and the pool gets sicker. He noted group insurance through employers fixes this by pooling the healthy and the sick together. His larger point: when information is asymmetric, markets do not just price badly, they can fail to exist, and institutions such as guarantees, brand names and licensing arise precisely to keep them alive."
+          },
+          {
+            "t": "p",
+            "html": "The line to carry into Monday: IRDAI's lapse problem is the same machine running in reverse. A policyholder who surrenders tells the insurer something the insurer prices against; a loan against surrender value is an attempt to keep the good risks in the pool. Whether it works depends on the loan's price, which is why Seth flagged exactly that."
+          },
+          {
+            "t": "p",
+            "html": "Closed-book test: 1) Why do sellers of good used cars leave a market where buyers cannot verify quality? 2) Why does employer group insurance resist the lemons spiral better than individual senior-citizen policies? 3) Name two countervailing institutions Akerlof lists. Answers: 1) They refuse the average price, which prices their car as if it were a lemon. 2) The pool is assembled for a reason other than insurance, so the healthy cannot self-select out. 3) Guarantees and brand names (licensing is the third)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Why it matters to you:</strong> Insurance exists inside this problem. An insurer cannot tell a healthy 40-year-old from a sick one at the same price, so it prices for the average, the healthy leave, prices rise, and more healthy leave. Every institution in your industry, medical tests, waiting periods, group policies, is a countervailing institution of exactly the kind Akerlof listed."
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://pims.math.ca/files/Akerlof1970.pdf\" target=\"_blank\" rel=\"noopener\">The paper (primary, PDF)</a> / <a href=\"https://en.wikipedia.org/wiki/The_Market_for_Lemons\" target=\"_blank\" rel=\"noopener\">Wikipedia</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Long read: Zerodha",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Today's long read is the story of Zerodha: a 17-year-old trader, two busts, four years on a call-centre night shift, and a broking licence bought with crash savings, which became India's most trusted broker without a rupee of outside money or advertising, and which now faces the regulator ending the weekly-options trade that made it. It ends on the decision the founders themselves say is on the table: charging for delivery trades for the first time. Read it here: <a href=\"https://files.instinct.com/vnugo0nqmfub-zerodha-built-without-a-rupee-of\" target=\"_blank\" rel=\"noopener\">Zerodha: built without a rupee of outside money</a> (about 20 minutes)."
+          }
+        ]
+      },
+      {
+        "heading": "Seven-day calendar, 17 to 23 October",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "17",
+                "title": "Sat: IRDAI information-infrastructure paper feedback closes",
+                "detail": "The distribution-paper deadline is separate, 25 October (Business Standard)."
+              },
+              {
+                "n": "18",
+                "title": "Sun: nothing scheduled",
+                "detail": "No verified market, policy or startup event found for this date."
+              },
+              {
+                "n": "19",
+                "title": "Mon: Jio anchor bidding",
+                "detail": "Institutions bid in the roughly ₹8,000 crore anchor book, a day before the public issue (Mint)."
+              },
+              {
+                "n": "20",
+                "title": "Tue: HD Fire Protect, Vaibhav Vyapaar list",
+                "detail": "Two SME listings (Upstox)."
+              },
+              {
+                "n": "21",
+                "title": "Wed: Jio Platforms and Paras Healthcare open",
+                "detail": "Both issues run 21 to 23 October. Fusion CX and Ravita Engineering Services list (Upstox)."
+              },
+              {
+                "n": "22",
+                "title": "Thu: NVIDIA Bolt E4B expected",
+                "detail": "The smaller open model NVIDIA announced for 23 October (NVIDIA blog)."
+              },
+              {
+                "n": "23",
+                "title": "Fri: Jio and Paras close; five listings; record date",
+                "detail": "Sahajanand Medical, Tonbo Imaging, Bonfiglioli, Zetwerk and Shellz list (Upstox). Record date for Modison, Oberoi Realty and LTM dividends (Mint). NVIDIA Bolt E4B also dated today."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Also dated: IRDAI distribution-paper comments close Sunday 25 October."
+          }
+        ]
+      },
+      {
+        "heading": "Notes",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Market numbers are NSE closes at 3:30 pm IST on 16 October, from ET Now's liveblog, the ET market wrap and CNBC-TV18. The Sensex is a BSE index and is shown once for reference.",
+              "Weekly index moves are computed from the 9 October closes (Nifty 22,520.45). ET Now's liveblog prints the Nifty's weekly gain as 2.42%; BusinessLine prints 2.77%; the computed 2.78% is used.",
+              "The Jio price band, lot size, employee discount and reservations are from Reliance's own exchange filing, read as the primary source. An Indian Express figure of ₹37,700 crore for the issue size conflicts with the filed 27 crore shares and is dropped.",
+              "Grey market premium is unofficial grey market data from investorgain.com, dated 16 October 11:37 pm, shown as sentiment. A cross-check against chittorgarh.com was attempted; their live GMP figure sits behind a script and is not readable here, so one source is shown.",
+              "Sector index moves come from neximpera.com's end-of-day sector desk; index-level closes only.",
+              "Radar, funding and company claims are the companies' own, labelled as such. Broker ratings and target prices are left out. Nothing here is investment advice.",
+              "New primary sources read in full for this edition: the Reliance exchange filing, Meta Research's Muse Spark Open post, the NVIDIA Nemotron blog, Akerlof's 1970 paper, Groww's Q2 FY27 shareholder letter, and the IRDAI coverage in Business Standard, NDTV Profit and Times of India."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Appendix: movers",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "NSE closing prices and percent changes, Friday 16 October 2026, from ET Now's liveblog and xflot. Price in rupees."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Nifty 50 gainers",
+                "detail": "Tech Mahindra +8.45%, TCS +4.74% (2,461.40), Infosys +4.46% (1,159.55)."
+              },
+              {
+                "n": "2",
+                "title": "Nifty 50 losers",
+                "detail": "InterGlobe Aviation -2.01% (4,682.20), BSE Ltd -1.75% (3,368.00), Tata Consumer Products -1.51% (976.50)."
+              },
+              {
+                "n": "3",
+                "title": "Index cards",
+                "detail": "Nifty 50 23,146.15 (+0.65%), Sensex 74,729.27 (+0.56%), Nifty Bank 55,844.00 (+0.06%), Midcap 150 21,736.75 (-0.09%), Smallcap 250 17,637.65 (+0.06%), Nifty IT 31,924.10 (+3.92%), India VIX 14.08."
+              },
+              {
+                "n": "4",
+                "title": "Biggest single-stock moves (all NSE)",
+                "detail": "Onward Technologies +19.99%, Comfort Intech +19.81%, Singer India +19.25%; Amal -20.00%, OCCL -13.76%, Cyient DLM -12.90%. These are mostly small caps; size the liquidity before reading anything into them."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.etnownews.com/markets/stock-market-live-updates-16-october-2026-sensex-nifty-movement-top-gainers-losers-and-market-trends-liveblog-156348826\" target=\"_blank\" rel=\"noopener\">ET Now liveblog</a> / <a href=\"https://xflot.com/day/2026-10-16\" target=\"_blank\" rel=\"noopener\">xflot</a>"
+          }
+        ]
+      },
+      {
+        "heading": "Corporate actions",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Declared this week. The <a href=\"https://en.wikipedia.org/wiki/Record_date\" target=\"_blank\" rel=\"noopener\">record date</a> (the day the company checks its shareholder register to decide who gets paid) is Friday 23 October unless noted; to receive a dividend you must hold the share before the ex-date, which is the record date itself under T+1 settlement."
+          },
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Modison Ltd: ₹4 per share dividend",
+                "detail": "Announced 16 October with Q2 results: profit ₹23.32 crore, up from ₹11.66 crore a year ago. Record date 23 October."
+              },
+              {
+                "n": "2",
+                "title": "Oberoi Realty: ₹2 per share, second interim",
+                "detail": "Announced 16 October. Quarterly profit ₹761.65 crore, roughly flat; total income down 6%. Record date 23 October."
+              },
+              {
+                "n": "3",
+                "title": "LTM Ltd: ₹25 per share interim",
+                "detail": "Announced 16 October. Record date 23 October."
+              },
+              {
+                "n": "4",
+                "title": "Tech Mahindra: 1:1 bonus plus ₹15 interim",
+                "detail": "Announced 15 October with results: one bonus share for every share held, plus a ₹15 interim dividend. Record dates to be filed."
+              }
+            ]
+          },
+          {
+            "t": "p",
+            "html": "Source: <a href=\"https://www.livemint.com/market/stock-market-news/dividend-delight-on-d-street-modison-ltm-to-oberoi-realty-announce-dividends-on-october-16-amount-record-dates-11792166904111.html\" target=\"_blank\" rel=\"noopener\">Mint corporate actions</a>"
+          },
+          {
+            "t": "closing",
+            "html": "Edition 12. New this week: an IPOs block with the grey market trend, and a Corporate actions block after the appendix. Tell me what to keep, change or drop."
+          }
+        ]
+      }
+    ]
+  },
+  "audio": {
+    "full": "audio/d12-full.m4a",
+    "quick": "audio/d12-quick.m4a"
+  },
+  "times": {
+    "full": "audio/d12-full.times.json"
+  }
+}
