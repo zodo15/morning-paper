@@ -190,15 +190,27 @@ def transcribe_clips(audio, tmpdir):
         if r.returncode != 0:
             return None
         clips.append((i * 30.0, p))
+    import time
     out = []
+    failed = 0
     for t0, p in clips:
-        r = subprocess.run(['tools', 'read', '--file-path', p, '--json'],
-                           capture_output=True, text=True, timeout=120)
-        try:
-            tr = json.loads(r.stdout)['structured']['transcript']
-        except Exception:
-            return None
+        tr = None
+        for attempt in range(4):
+            r = subprocess.run(['tools', 'read', '--file-path', p, '--json'],
+                               capture_output=True, text=True, timeout=120)
+            try:
+                tr = json.loads(r.stdout)['structured']['transcript']
+                break
+            except Exception:
+                tr = None
+                time.sleep(2 + attempt * 2)
+        if tr is None:
+            failed += 1
+            print('  WARN clip %d untranscribed after retries' % len(out))
+            tr = ''
         out.append((t0, tr))
+    if failed > max(1, len(clips) // 10):
+        return None
     return out
 
 def transcript_anchor(sents, clips, sils, dur):
