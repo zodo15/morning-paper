@@ -1,620 +1,620 @@
 {
-  "day": 13,
-  "meta": {
-    "date": "Sunday 18 October 2026",
-    "short": "Sun 18 Oct",
-    "longread": 13
+ "day": 13,
+ "meta": {
+  "date": "Sunday 18 October 2026",
+  "short": "Sun 18 Oct",
+  "longread": 13
+ },
+ "edition": {
+  "title": "Morning paper, Sunday 18 October 2026",
+  "fact": "Edition 13. Banks beat on Saturday; India heads into Jio week. The Nifty 50 closed Friday at 23,146.15, up 2.78% on the week. Jio Platforms' anchor book opens Monday and the IPO opens Wednesday. The long read is Policybazaar.",
+  "intro": "The lead route below takes about 5 minutes. Sections after it carry the detail. Saturday brought the first big bank results of the September-quarter season; the week ahead brings India's largest IPO, a Dussehra trading holiday on Tuesday and the RBI's policy minutes on Wednesday.",
+  "hero": {
+   "t": "figure",
+   "img": "photos/d13-hero.jpg",
+   "alt": "Line chart of Nifty 50 daily closes for the week of 12 to 16 October 2026, rising from 22,520 to 23,146",
+   "caption": "The Nifty 50's week: a Monday dip, then four sessions of recovery to 23,146.15, the best week for the index in months. Chart: NSE closing data via investing.com historical table."
   },
-  "edition": {
-    "title": "Morning paper, Sunday 18 October 2026",
-    "fact": "Edition 13. Banks beat on Saturday; India heads into Jio week. The Nifty 50 closed Friday at 23,146.15, up 2.78% on the week. Jio Platforms' anchor book opens Monday and the IPO opens Wednesday. The long read is Policybazaar.",
-    "intro": "The lead route below takes about 5 minutes. Sections after it carry the detail. Saturday brought the first big bank results of the September-quarter season; the week ahead brings India's largest IPO, a Dussehra trading holiday on Tuesday and the RBI's policy minutes on Wednesday.",
-    "hero": {
-      "t": "figure",
-      "img": "photos/d13-hero.jpg",
-      "alt": "Line chart of Nifty 50 daily closes for the week of 12 to 16 October 2026, rising from 22,520 to 23,146",
-      "caption": "The Nifty 50's week: a Monday dip, then four sessions of recovery to 23,146.15, the best week for the index in months. Chart: NSE closing data via investing.com historical table."
-    },
-    "concept": {
-      "label": "One concept a day",
-      "name": "The principal-agent problem",
-      "line": "Why hired hands don't act like owners. Jensen and Meckling's 1976 paper named the cost of that gap - agency cost - and drew the two levers that still run boardrooms."
-    },
-    "groups": [
-      {
-        "heading": "The 5-minute lead route",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>Banks:</strong> ICICI Bank's profit rose 22% to ₹16,333 crore and Axis Bank's rose 39% to ₹7,705 crore in Saturday's September-quarter results; HDFC Bank grew 5% and IDBI fell 39%."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Insurance:</strong> the agents' federation LIAFI has asked IRDAI to raise first-year commissions to as much as 35%, days after the regulator's draft proposed capping them at 20 to 25% and banning dark patterns on insurance websites. Comments close 25 October."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Jio week:</strong> anchor investors bid Monday for India's largest-ever IPO (band ₹1,065 to ₹1,119, up to ₹30,213 crore). Markets are shut Tuesday for Dussehra; the issue opens Wednesday and closes Friday; listing is set for 28 October."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Markets:</strong> SEBI has rebuilt the closing auction: from 7 December the last ten minutes of trading become a formal auction with a VWAP reference price, and derivative settlement prices move to a 30-minute VWAP."
-          },
-          {
-            "t": "p",
-            "html": "<strong>AI:</strong> DeepSeek released V4.1-Flash-1017, a 552-billion-parameter checkpoint it says beats its September model on all 11 of its reported benchmarks, and opened its web search and fetch APIs to all developers. Vendor claims, labelled."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Macro:</strong> forex reserves fell $8.58 billion to $726.03 billion in the week to 9 October as the RBI defended the rupee at 94.95 per dollar; the central bank's October minutes on Wednesday explain its shift to a tightening stance."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Long read:</strong> Policybazaar began as a comparison shop against the agent's commission; it is now India's largest insurance seller, just as the regulator rewrites how insurance may be sold. Read it."
-          }
-        ]
-      },
-      {
-        "heading": "Editor's read: the rally now has an earnings test, and the first answer is yes",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "Two weeks ago this market was falling on inflation fear; last week it rose 2.78% on an IT bounce, and the open question was whether profits would back the prices. Saturday's bank results are the first real answer, and they mostly say yes: ICICI and Axis grew profit at five to eight times the pace HDFC Bank managed, and bad-loan ratios kept improving at the state-owned banks. What the market may still be underpricing is the squeeze between two facts it holds separately: the RBI raised rates in October and turned hawkish, and this week's Jio issue pulls ₹30,213 crore of cash out of the same pool. My confidence: moderate, because one Saturday of banks is not a season. What would prove me wrong: an anchor book on Monday that struggles to fill, or management commentary this week flagging margin compression from the rate cycle."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/q2-results-highlights-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-central-bank-of-india-punjab-amp-sind-bank-results-company-results-17-october-2026/article71595336.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine Q2 liveblog</a> / <a href=\"https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html\" target=\"_blank\" rel=\"noopener\">Mint week ahead</a>"
-          }
-        ]
-      },
-      {
-        "heading": "Front page",
-        "blocks": [
-          {
-            "t": "story",
-            "title": "Saturday's bank results: ICICI and Axis sprint, HDFC jogs, IDBI stumbles",
-            "kicker": "Q2 earnings"
-          },
-          {
-            "t": "p",
-            "html": "<a href=\"https://en.wikipedia.org/wiki/ICICI_Bank\" target=\"_blank\" rel=\"noopener\">ICICI Bank</a> (India's second-largest private sector lender) reported a 22.28% rise in consolidated September-quarter profit to ₹16,333.18 crore (standalone up 20.1% to ₹14,843 crore), on strong loan growth, higher <a href=\"https://en.wikipedia.org/wiki/Net_interest_income\" target=\"_blank\" rel=\"noopener\">net interest income</a> (the gap between what a bank earns on loans and pays on deposits) and better asset quality. <a href=\"https://en.wikipedia.org/wiki/Axis_Bank\" target=\"_blank\" rel=\"noopener\">Axis Bank</a> (India's third-largest private sector lender) did even better: consolidated profit up 39.4% to ₹7,704.67 crore (standalone up 37.6% to ₹7,003.28 crore). <a href=\"https://en.wikipedia.org/wiki/HDFC_Bank\" target=\"_blank\" rel=\"noopener\">HDFC Bank</a> (India's largest private sector lender), the heavyweight, grew just 5% to ₹19,510 crore on a standalone basis, with net interest income up 10%."
-          },
-          {
-            "t": "p",
-            "html": "Three side-plots matter. <a href=\"https://en.wikipedia.org/wiki/Yes_Bank\" target=\"_blank\" rel=\"noopener\">YES Bank</a> (the private lender rescued in 2020) posted a 65% profit rise to ₹1,080 crore, excluding the impact of a Supreme Court ruling on its ₹8,400 crore AT-1 bond write-off; <a href=\"https://en.wikipedia.org/wiki/Additional_Tier_1\" target=\"_blank\" rel=\"noopener\">AT-1 bonds</a> (perpetual bank bonds that can be written off in a crisis) remain a live legal risk. <a href=\"https://en.wikipedia.org/wiki/IDBI_Bank\" target=\"_blank\" rel=\"noopener\">IDBI Bank</a> (the lender majority-owned by LIC and the government) fell 39% to ₹2,205 crore as non-interest income moderated. And state-run <a href=\"https://en.wikipedia.org/wiki/Central_Bank_of_India\" target=\"_blank\" rel=\"noopener\">Central Bank of India</a> (a large public sector bank) rose 21% to ₹1,469 crore, a day after the finance ministry said public sector banks made a record ₹1.98 lakh crore in FY26 with bad loans at a multi-decade low."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> Banks are a third of the Nifty's weight, so their profit season sets the index's floor. The spread between the fastest (Axis at 39%) and the slowest (HDFC at 5%) tells you the rally is rewarding loan growth and treasury gains, not size. Watch Monday's reaction: results came after the weekend close."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/q2-results-highlights-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-central-bank-of-india-punjab-amp-sind-bank-results-company-results-17-october-2026/article71595336.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine Q2 liveblog</a>"
-          },
-          {
-            "t": "story",
-            "title": "SEBI rebuilds the market's closing price: a 10-minute auction and a VWAP reference from 7 December",
-            "kicker": "Market rules"
-          },
-          {
-            "t": "p",
-            "html": "SEBI's 15 October circular, read in full, reworks the <a href=\"https://en.wikipedia.org/wiki/Closing_auction\" target=\"_blank\" rel=\"noopener\">closing auction session</a> (a fixed window where orders pool and one closing price is struck) (CAS). From 7 December, cash-market trading pauses at 3:30 pm and a separate ten-minute auction runs to 3:40 pm: five minutes for all orders, then limit-only, with a random close between 3:38 and 3:40 pm to deter gaming. The auction's reference price is the <a href=\"https://en.wikipedia.org/wiki/Volume-weighted_average_price\" target=\"_blank\" rel=\"noopener\">VWAP</a> (volume-weighted average price, the average trade price weighted by size) of the last 15 minutes of continuous trading. Index derivatives trade to 3:45 pm (expiring index contracts stop at 3:30 on expiry day; stock derivatives run to 3:45 daily), and a post-close session runs 3:50 to 4:00 pm at the closing price."
-          },
-          {
-            "t": "p",
-            "html": "The second change is bigger for derivatives: on expiry day, settlement prices for index and stock contracts move to the VWAP of the last 30 minutes of continuous trading, replacing closes struck under the old framework, with exchanges publishing indicative values in real time. New iceberg orders (large orders shown in small slices) are banned inside the auction, and stop-loss orders are not allowed; unexecuted day orders carry in with priority. SEBI consulted on this in September and settled it through its Secondary Market Advisory Committee."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> The closing price decides your NAV, your index fund's tracking and every derivative settlement. SEBI is making it an auction instead of a last trade, which makes closes harder to game and more representative. If you invest through mutual funds or ETFs, this quietly changes what 'the close' means."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792079571420.pdf\" target=\"_blank\" rel=\"noopener\">SEBI circular (primary)</a> / <a href=\"https://www.mid-day.com/business/business-news/article/sebi-changes-derivatives-settlement-methodology-revises-cas-frame\" target=\"_blank\" rel=\"noopener\">Mid-day explainer</a>"
-          },
-          {
-            "t": "story",
-            "title": "Jio week: anchors Monday, holiday Tuesday, open Wednesday to Friday, listing 28 October",
-            "kicker": "India's largest IPO"
-          },
-          {
-            "t": "p",
-            "html": "The timetable, from the RHP and exchange filings: anchor bidding Monday 19 October; the issue opens Wednesday 21 and closes Friday 23 October for everyone else, with a ₹2,500 crore quota reserved for Reliance Industries shareholders and ₹500 crore for employees; listing is scheduled for 28 October. At the ₹1,065 to ₹1,119 band, <a href=\"https://en.wikipedia.org/wiki/Jio_Platforms\" target=\"_blank\" rel=\"noopener\">Jio Platforms</a> (the telecom and digital arm of Reliance Industries) is valued at roughly ₹10.3 trillion, ahead of Hyundai Motor India's ₹27,857 crore issue in 2024 as the country's largest. The entire issue is fresh shares; up to ₹27,500 crore of proceeds repays borrowings."
-          },
-          {
-            "t": "p",
-            "html": "Demand signals so far: Mint reported ADIA, QIA, GIC, Norges Bank, Mubadala, BlackRock and about 15 domestic asset managers seeking slots in the roughly ₹8,000 crore anchor book. The grey market, an unofficial indicator, was pricing a premium of ₹221 a share on 16 October, implying a listing near ₹1,340, about 20% over the cap (investorgain.com, dated and unofficial). The week is shortened: exchanges are shut Tuesday for Dussehra, with MCX running only an evening session from 5 pm (Goodreturns)."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> At ₹30,213 crore this is the largest public issue India has run, priced below street estimates to leave money for investors. How the anchor book fills on Monday is the single best read on institutional appetite for Indian large-caps this quarter, and the issue pulls real cash out of the market in a holiday-shortened week."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.ril.com/sites/default/files/2026-10/RIL_SE_14102026_.pdf\" target=\"_blank\" rel=\"noopener\">RIL filing (primary)</a> / <a href=\"https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html\" target=\"_blank\" rel=\"noopener\">Mint week ahead</a> / <a href=\"https://www.thehindubusinessline.com/markets/indias-largest-ipo-jio-platforms-sets-1065-1119-price-band-below-street-estimates/article71584847.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>"
-          },
-          {
-            "t": "story",
-            "title": "The agent force pushes back: LIAFI wants 35% commissions while IRDAI drafts caps at 20 to 25%",
-            "kicker": "Insurance distribution"
-          },
-          {
-            "t": "p",
-            "html": "The Life Insurance Agents' Federation of India (LIAFI) wrote to the IRDAI chairman on 15 October seeking first-year commissions of 27% for policies with premium terms of five to nine years, 30% for ten to fourteen years and 35% for fifteen years and above, plus renewal commissions of 7.5% in years two to six and 6% from year seven to maturity (Mint, citing an Economic Times report). The letter argues the 'Insurance for All' goal needs a financially sustainable agency force, notes the average LIC agent earned about ₹16,774 a month in commissions, and says LIC's commission spend fell 4.55% in FY26 even as individual agents generated about 93% of its business."
-          },
-          {
-            "t": "p",
-            "html": "The federation also opposed publishing agent-wise commissions on insurer websites, saying policyholders may then demand a cut of the commission, and asked for tighter oversight of corporate agents, banks and brokers, arguing mis-selling is not an individual-agent monopoly. Its letter lands on top of the regulator's own draft, which proposes caps of 20 to 25% on first-year life commissions and a ban on website dark patterns. Detail in the Insurance section."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> This is the collision your desk lives on. The regulator's distribution paper proposes commission ceilings and a dark-patterns ban; the largest agents' federation has answered with a formal demand for higher, legislated commissions. What settles after the 25 October comment deadline will shape payouts, persistence and staffing across distribution."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.livemint.com/insurance/news/liafi-writes-to-irdai-seeking-higher-commissions-for-insurance-agents-check-demands-11792226349270.html\" target=\"_blank\" rel=\"noopener\">Mint on the LIAFI letter</a> / <a href=\"https://consumerarena.in/irdai-insurance-dark-patterns-proposal/\" target=\"_blank\" rel=\"noopener\">Consumer Arena on the draft</a>"
-          },
-          {
-            "t": "story",
-            "title": "DeepSeek's new checkpoint and an open search API: the agent stack gets cheaper",
-            "kicker": "AI launches"
-          },
-          {
-            "t": "p",
-            "html": "DeepSeek released V4.1-Flash-1017 on 17 October, a post-training checkpoint of its V4.1-Flash model: 552 billion backbone parameters plus 196 billion 'Engram' parameters, activating 8 to 16 billion per token, with a one-million-token context window. The company reports it beats the September checkpoint on all 11 benchmarks it published, scoring 77.0 on its DeepSWE coding test versus 74.0 for Anthropic's Claude Opus 5 in DeepSeek's own table; Claude still leads several reasoning benchmarks in the same table. Alongside, DeepSeek opened its Search and Fetch APIs to every developer, giving agent builders a first-party web layer (MarkTechPost; benchmark figures are the vendor's)."
-          },
-          {
-            "t": "p",
-            "html": "NVIDIA, two days earlier, expanded its open Nemotron 3.5 family: Super VL, a 120-billion-parameter vision-language model for always-on agents, and two smaller Bolt models for local hardware, the 74B-A9B now and the 4-billion-parameter E4B on 23 October (NVIDIA blog, primary)."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> If you build or buy AI workflows, a credible cheap coding model plus a first-party web search layer behind one API key cuts the cost of agents that read the web. Benchmark figures are DeepSeek's own and labelled as such."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/\" target=\"_blank\" rel=\"noopener\">MarkTechPost (read in full)</a> / <a href=\"https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/\" target=\"_blank\" rel=\"noopener\">NVIDIA blog (primary)</a>"
-          }
-        ]
-      },
-      {
-        "heading": "Insurance",
-        "blocks": [
-          {
-            "t": "story",
-            "title": "What the LIAFI letter actually asks for, and what it concedes",
-            "kicker": "Distribution"
-          },
-          {
-            "t": "p",
-            "html": "Beyond the headline numbers, three asks stand out. One, renewal commissions running to policy maturity, framed as payment for long-term servicing, the exact duty the regulator says agents often abandon after the sale. Two, a level field across channels: LIAFI alleges private insurers kept paying high commissions while some LIC policy payouts were cut to as low as 7% from October 2024, after maximum commission limits were removed in 2023. Three, no public disclosure of individual agent commissions, which the federation says would invite policyholders to claim a share."
-          },
-          {
-            "t": "p",
-            "html": "The timing is deliberate: IRDAI's distribution consultation closes 25 October, and chairman Ajay Seth has publicly promised an orderly transition with no intention to disrupt any market player. The agent force is putting its number on the table before the final rules are drafted."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> The demands quantify what the agency channel thinks survival costs: a 35% first-year ceiling on long-term policies is above what most private life insurers pay today, and the renewal ask (6% to maturity) is a pension for the agent force. The letter also shows the channel's weakest flank: it resists commission disclosure to customers."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.livemint.com/insurance/news/liafi-writes-to-irdai-seeking-higher-commissions-for-insurance-agents-check-demands-11792226349270.html\" target=\"_blank\" rel=\"noopener\">Mint on the LIAFI letter</a>"
-          },
-          {
-            "t": "story",
-            "title": "The other half of the draft: no phone number before you see a price",
-            "kicker": "Consumer rules"
-          },
-          {
-            "t": "p",
-            "html": "The IRDAI draft, summarised by Consumer Arena, would require insurers and large sellers to show product features, prices and quality information without first demanding a name, phone number or email, ending the industry-standard lead form that gates every quote. It proposes banning <a href=\"https://en.wikipedia.org/wiki/Dark_pattern\" target=\"_blank\" rel=\"noopener\">dark patterns</a> (interface designs that steer users into actions they did not intend) such as countdown timers and pre-ticked add-ons, with the regulator publishing what it finds, and it requires sellers to assess a buyer's needs and document why a recommended plan fits. Proposed commission ceilings: for individual health insurance, up to 15% of first-year premium for distribution companies and 20% for agents (5% and 10% on renewal); for life insurance, 20% and 25% in the first year. Everything here is a proposal open for comment until 25 October; final rules may differ."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> If you sell insurance online, this redraws the funnel: features, prices and quality information must be visible before any personal details are collected, and manipulative design gets tracked and published. Lead-generation economics change the day this becomes a rule."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://consumerarena.in/irdai-insurance-dark-patterns-proposal/\" target=\"_blank\" rel=\"noopener\">Consumer Arena on the draft</a> / <a href=\"https://irdai.gov.in/\" target=\"_blank\" rel=\"noopener\">IRDAI</a>"
-          }
-        ]
-      },
-      {
-        "heading": "What's new radar, last 48 hours",
-        "blocks": [
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "1",
-                "title": "DeepSeek V4.1-Flash-1017",
-                "detail": "Released 17 October. New checkpoint of the open-weights coding model; vendor reports gains on all 11 of its published benchmarks and opens Search and Fetch APIs to all developers. Vendor claims, not independently tested (MarkTechPost)."
-              },
-              {
-                "n": "2",
-                "title": "NVIDIA Nemotron 3.5 family",
-                "detail": "15 October, official blog: open Super VL 120B vision-language model plus Bolt edge models; Bolt E4B (4B) lands 23 October. Covered in front-page AI item."
-              },
-              {
-                "n": "3",
-                "title": "IPO approvals",
-                "detail": "Indian Gas Exchange, Cult.fit and two others received SEBI approval to float IPOs, per media reports carried by Groww Digest (16 October). Watch for draft papers on SEBI's site."
-              },
-              {
-                "n": "4",
-                "title": "Maruti Suzuki tax win",
-                "detail": "Won a tax dispute with an estimated benefit of about ₹13,000 crore including interest, and expects a ₹6,300 crore reduction in potential liabilities (company disclosure carried by Groww Digest, 16 October)."
-              },
-              {
-                "n": "5",
-                "title": "ixigo turns profitable",
-                "detail": "Le Travenues Technology (ixigo) reported a ₹63.42 crore September-quarter profit versus a ₹3.46 crore loss a year ago, helped by a partial stake sale in Freshbus and hotel-booking growth (PTI via BusinessLine, 17 October)."
-              },
-              {
-                "n": "6",
-                "title": "Gold fund freeze",
-                "detail": "Mutual funds stopped taking new money into gold fund-of-funds from 16 October after what media reports describe as verbal SEBI restrictions, amid gold's rally. No written circular yet; treat as developing (Groww Digest)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Markets",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "The Nifty 50 closed Friday at 23,146.15, up 0.65% on the day and 2.78% on the week (computed from the 9 October close of 22,520.45; daily closes from the investing.com historical table). The Sensex ended at 74,729.27, up 3.11% on the week by the same method, its best weekly run in months. The week's shape: a nervous Monday, then four sessions of buying led by IT after Tech Mahindra's results and bonus, with midcap and smallcap indices flat on Friday."
-          },
-          {
-            "t": "p",
-            "html": "Flows and macro: foreign investors bought ₹1,165.92 crore on Friday while domestic institutions sold ₹3,661.28 crore (CNBC-TV18). The rupee closed at 94.95 per dollar, Brent at $105.6 a barrel (ET Now). India's forex reserves fell $8.58 billion to $726.03 billion in the week to 9 October (RBI weekly data), and the current account deficit narrowed to $5.2 billion in August from $6.1 billion a year earlier. The government raised the windfall tax on petrol exports to ₹2.5 a litre from ₹0.5 and cut the diesel export duty to ₹8.5 from ₹16 (Groww Digest)."
-          },
-          {
-            "t": "p",
-            "html": "The RBI context for Wednesday's minutes: at its October meeting the central bank raised the repo rate 25 basis points to 5.5% and shifted from neutral to a calibrated tightening stance on a 4-2 split (Mint). The minutes on 21 October show how close the doves came."
-          },
-          {
-            "t": "chart",
-            "svg": "<svg aria-label=\"Selected NSE sector index moves at the close on Friday 16 October 2026, percent change, centred on zero\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 580\"><line stroke=\"#555\" x1=\"415\" x2=\"415\" y1=\"10\" y2=\"514\"></line><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"37\">IT</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"228.66666666666666\" x=\"415\" y=\"18\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"651.6666666666666\" y=\"38\">+3.92%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"79\">India Digital</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"121.91666666666666\" x=\"415\" y=\"60\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"544.9166666666666\" y=\"80\">+2.09%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"121\">Media</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"112\" x=\"415\" y=\"102\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"535\" y=\"122\">+1.92%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"163\">Cement</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"94.5\" x=\"415\" y=\"144\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"517.5\" y=\"164\">+1.62%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"205\">Metal</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"55.41666666666666\" x=\"415\" y=\"186\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"478.41666666666663\" y=\"206\">+0.95%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"247\">Auto</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"43.75\" x=\"415\" y=\"228\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"466.75\" y=\"248\">+0.75%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"289\">PSU Bank</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"39.083333333333336\" x=\"415\" y=\"270\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"462.0833333333333\" y=\"290\">+0.67%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"331\">Bank</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"3.5\" x=\"415\" y=\"312\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"426.5\" y=\"332\">+0.06%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"373\">Pharma</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"8.166666666666666\" x=\"406.8333333333333\" y=\"354\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"398.8333333333333\" y=\"374\">-0.14%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"415\">FMCG</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"22.75\" x=\"392.25\" y=\"396\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"384.25\" y=\"416\">-0.39%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"457\">Consumer Durables</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"35.58333333333333\" x=\"379.4166666666667\" y=\"438\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"371.4166666666667\" y=\"458\">-0.61%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"499\">Capital Markets</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"62.416666666666664\" x=\"352.5833333333333\" y=\"480\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"344.5833333333333\" y=\"500\">-1.07%</text></g><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"540\">NSE sector indices, % change at the close, Fri 16 Oct 2026. Blue up, red down. 12 of 23 shown; 14 of 23 rose.</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"560\">Source: neximpera.com sector desk, end-of-day close.</text></svg>"
-          },
-          {
-            "t": "p",
-            "html": "The chart shows Friday's sector index moves, 12 of 23 NSE sectoral indices; IT led at +3.92% and Capital Markets lagged at -1.07%; 14 of 23 rose. A sector index moving shows the average stock in it moved; it is not by itself proof of money rotating between sectors."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.etnownews.com/markets/stock-market-live-updates-16-october-2026-sensex-nifty-movement-top-gainers-losers-and-market-trends-liveblog-156348826\" target=\"_blank\" rel=\"noopener\">ET Now liveblog</a> / <a href=\"https://www.cnbctv18.com/market/fiis-return-to-buying-indian-stocks-with-rs1166-crore-net-inflows-diis-sell-rs3661-crore-20013872.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 flows</a> / <a href=\"https://www.investing.com/indices/s-p-cnx-nifty-historical-data\" target=\"_blank\" rel=\"noopener\">investing.com historical</a> / <a href=\"https://www.goodreturns.in/news/stock-market-holidays-next-week-trading-on-bse-nse-closed-on-october-20-24-25-sensex-nifty-outlook-1542169.html\" target=\"_blank\" rel=\"noopener\">Goodreturns holiday</a> / <a href=\"https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html\" target=\"_blank\" rel=\"noopener\">Mint week ahead</a>"
-          }
-        ]
-      },
-      {
-        "heading": "IPOs this week",
-        "blocks": [
-          {
-            "t": "story",
-            "title": "Jio Platforms: the anchor book is Monday's tell",
-            "kicker": "Featured"
-          },
-          {
-            "t": "p",
-            "html": "Issue recap: 27 crore fresh shares at ₹1,065 to ₹1,119, lot of 12 (₹13,428 at the cap), ₹54 employee discount, face value ₹10. No existing investor sells. Anchor investors, including ADIA, QIA, GIC, Norges Bank, Mubadala, BlackRock and about 15 domestic asset managers per Mint's reporting, bid Monday for a book of about ₹8,000 crore. The issue opens Wednesday (Tuesday is the Dussehra trading holiday) and closes Friday; listing 28 October."
-          },
-          {
-            "t": "p",
-            "html": "What would make the bull case wrong: <a href=\"https://en.wikipedia.org/wiki/Average_revenue_per_user\" target=\"_blank\" rel=\"noopener\">ARPU</a> (average revenue per user, the monthly bill per subscriber) has been flat for two quarters at about ₹215.6, so the growth story rests on Akash Ambani's voice-AI services rather than the core telecom tariff. The grey market premium trend below is sentiment, dated 16 October, from an unofficial source."
-          },
-          {
-            "t": "chart",
-            "svg": "<svg aria-label=\"Jio Platforms grey market premium per share, 4 to 16 October 2026, rising from 148 to 221 rupees\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 250\"><line stroke=\"#555\" x1=\"60\" x2=\"700\" y1=\"210\" y2=\"210\"></line><g><rect fill=\"#1f6feb\" height=\"120.86666666666667\" rx=\"2\" width=\"37.23076923076923\" x=\"66\" y=\"89.13333333333333\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"84.61538461538461\" y=\"228\">4 Oct</text><text fill=\"#222\" font-size=\"14\" text-anchor=\"middle\" x=\"84.61538461538461\" y=\"83.13333333333333\">₹148</text></g><g><rect fill=\"#1f6feb\" height=\"127.4\" rx=\"2\" width=\"37.23076923076923\" x=\"115.23076923076923\" y=\"82.6\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"133.84615384615384\" y=\"228\">5</text></g><g><rect fill=\"#1f6feb\" height=\"136.38333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"164.46153846153845\" y=\"73.61666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"183.07692307692307\" y=\"228\">6</text></g><g><rect fill=\"#1f6feb\" height=\"148.63333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"213.6923076923077\" y=\"61.366666666666674\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"232.30769230769232\" y=\"228\">7</text></g><g><rect fill=\"#1f6feb\" height=\"136.38333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"262.9230769230769\" y=\"73.61666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"281.53846153846155\" y=\"228\">8</text></g><g><rect fill=\"#1f6feb\" height=\"141.28333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"312.1538461538462\" y=\"68.71666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"330.76923076923083\" y=\"228\">9</text></g><g><rect fill=\"#1f6feb\" height=\"139.65\" rx=\"2\" width=\"37.23076923076923\" x=\"361.3846153846154\" y=\"70.35\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"380.00000000000006\" y=\"228\">10</text></g><g><rect fill=\"#1f6feb\" height=\"140.46666666666667\" rx=\"2\" width=\"37.23076923076923\" x=\"410.61538461538464\" y=\"69.53333333333333\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"429.2307692307693\" y=\"228\">11</text></g><g><rect fill=\"#1f6feb\" height=\"148.63333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"459.84615384615387\" y=\"61.366666666666674\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"478.4615384615385\" y=\"228\">12</text></g><g><rect fill=\"#1f6feb\" height=\"178.03333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"509.0769230769231\" y=\"31.96666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"527.6923076923077\" y=\"228\">13</text></g><g><rect fill=\"#1f6feb\" height=\"168.23333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"558.3076923076924\" y=\"41.76666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"576.923076923077\" y=\"228\">14</text></g><g><rect fill=\"#1f6feb\" height=\"180.48333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"607.5384615384615\" y=\"29.51666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"626.1538461538462\" y=\"228\">15</text></g><g><rect fill=\"#1f6feb\" height=\"180.48333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"656.7692307692308\" y=\"29.51666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"675.3846153846155\" y=\"228\">16 Oct</text><text fill=\"#222\" font-size=\"14\" text-anchor=\"middle\" x=\"675.3846153846155\" y=\"23.51666666666668\">₹221</text></g><text fill=\"#555\" font-size=\"14\" x=\"0\" y=\"12\">Jio Platforms grey market premium per share, 4-16 Oct 2026 (investorgain.com, unofficial).</text></svg>"
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> The pricing was set from roadshow feedback so investors make money, in the lead bank's own words. If sovereign funds fill the anchor book near the ₹1,119 cap on Monday, the discount was real; if they haggle near ₹1,065, demand is thinner than the queue suggested. Grey market premium is unofficial sentiment, dated, never a target."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.ril.com/sites/default/files/2026-10/RIL_SE_14102026_.pdf\" target=\"_blank\" rel=\"noopener\">RIL filing (primary)</a> / <a href=\"https://www.livemint.com/market/ipo/blackrock-adia-norges-seek-anchor-slots-in-jio-s-3-2-bn-ipo-11792059501690.html\" target=\"_blank\" rel=\"noopener\">Mint anchor book</a> / <a href=\"https://www.investorgain.com/gmp/jio-platforms-ipo-gmp/2306/\" target=\"_blank\" rel=\"noopener\">investorgain GMP (unofficial)</a> / <a href=\"https://www.chittorgarh.com/ipo/jio-platforms-ipo/\" target=\"_blank\" rel=\"noopener\">chittorgarh</a>"
-          },
-          {
-            "t": "story",
-            "title": "Closing Monday: Zetwerk, Bonfiglioli, Tonbo; listings stack up through the week",
-            "kicker": "The queue"
-          },
-          {
-            "t": "p",
-            "html": "Subscription status as of Friday's close (Groww Digest): Tonbo Imaging's ₹852 crore issue was subscribed 7.78 times on day two (retail 7.13x); Bonfiglioli Transmissions' ₹2,533.81 crore issue 0.99 times; Zetwerk Manufacturing's ₹5,012 crore issue 0.31 times. All three close Monday 19 October. Listing schedule: HD Fire Protect and Vaibhav Vyapaar on Wednesday; Fusion CX and Ravita Engineering Services on Thursday; Sahajanand Medical, Tonbo Imaging, Bonfiglioli, Zetwerk and Shellz on Friday. Fusion CX's ₹702 crore issue closed subscribed 4.45 times (retail 5.70x). Worth a closer look is Tonbo, the defence-optics maker, given retail demand; what would make that wrong is a weak listing day for the sector cohort around it."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> Three manufacturing IPOs close Monday with thin-to-mixed subscription, and five listings land Friday alongside the Jio close. The reception of profitable industrial names versus the Jio juggernaut says where risk appetite actually sits."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://upstox.com/news/market-news/ipo/upcoming-ip-os-oct-18-week-jio-platforms-paras-healthcare-issues-to-open-for-subscription-9-listings-scheduled-check-list/article-201986/\" target=\"_blank\" rel=\"noopener\">Upstox IPO list</a> / <a href=\"https://digest.groww.in/p/sebi-revises-cas-framework-jio-financials\" target=\"_blank\" rel=\"noopener\">Groww Digest</a>"
-          }
-        ]
-      },
-      {
-        "heading": "Startups and funding",
-        "blocks": [
-          {
-            "t": "story",
-            "title": "Funding doubled week on week: $236 million across 25 deals, AI on top",
-            "kicker": "The week in deals"
-          },
-          {
-            "t": "p",
-            "html": "Indian startups raised $236.2 million across 25 deals between 12 and 16 October, up 92.2% from the previous week's $122.9 million (Inc42's tracker). AI led with $53.4 million across six deals; ecommerce followed at $48.3 million. The largest rounds: Boldfit, a D2C fitness brand, raised $41.8 million in a Series B led by Bharat Value Fund; GreenCell Mobility, an electric bus operator, raised $34.6 million from Impact Fund Denmark; RapidCanvas, an enterprise AI platform, raised $29 million in a Series B led by Vertex Ventures; Scimplify, a chemicals manufacturing platform, raised $25 million led by Hitachi Ventures; and Origin, a robotics startup, raised $20 million led by Accel, the week's most active investor with four deals."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> The mix is the message: AI application-layer startups took the most money while the biggest single cheque went to a D2C fitness brand, so capital is funding both the AI buildout and proven consumer revenue. If you are hiring or selling into startups, the money is in AI services and fitness."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/\" target=\"_blank\" rel=\"noopener\">Inc42 weekly tracker</a>"
-          },
-          {
-            "t": "story",
-            "title": "One startup idea: the compliance copilot for the needs-based sale",
-            "kicker": "Idea of the day"
-          },
-          {
-            "t": "p",
-            "html": "The draft's needs-matching clause creates a paperwork obligation for every sale: what the customer needed, what was offered, why it fit. A voice-first copilot that sits in the agent's call, produces the assessment note, flags commission-conflicted recommendations and stores the audit trail is a compliance product the regulation itself creates demand for. The wedge is the 25 lakh-strong agent force that LIAFI says cannot absorb more cost, which means the tool has to save time, not add it. What would kill it: the clause diluted in the final rules, or insurers building it in-house first."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Why it matters to you:</strong> IRDAI's draft wants every recommendation to carry a documented needs assessment. Whoever builds the tool that records, scores and archives that conversation sells into every insurer, broker and bank assurance desk in the country."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://consumerarena.in/irdai-insurance-dark-patterns-proposal/\" target=\"_blank\" rel=\"noopener\">Consumer Arena on the draft</a>"
-          }
-        ]
-      },
-      {
-        "heading": "Global",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>US:</strong> the Nasdaq fell 2% on Friday to its worst week since June, dragged by AI-infrastructure debt worries and oil above $100; the Dow fell 0.34% (AP, investing.com). The worry to carry into Monday: whether the AI capex debt story spreads from tech credit to equity multiples."
-          },
-          {
-            "t": "p",
-            "html": "<strong>RBI and China:</strong> the RBI's October minutes land Wednesday with the repo rate at 5.5% after a 25-basis-point hike and a split vote on the tightening stance; China's third-quarter GDP is also due this week, a test of whether stimulus is reviving demand (Mint week ahead)."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Oil:</strong> Brent at $105.6 keeps India's import bill and inflation math under pressure; the windfall-duty changes (petrol export tax up to ₹2.5 a litre, diesel down to ₹8.5) show the government managing refinery margins inside that pressure (ET Now, Groww Digest)."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628\" target=\"_blank\" rel=\"noopener\">AP</a> / <a href=\"https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html\" target=\"_blank\" rel=\"noopener\">Mint week ahead</a>"
-          }
-        ]
-      },
-      {
-        "heading": "Brewing",
-        "blocks": [
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "1",
-                "title": "IRDAI distribution endgame",
-                "detail": "Now a three-way negotiation: the regulator's draft caps, LIAFI's counter-demand for higher legislated commissions, and the chairman's promise of an orderly transition. Watch for the post-25-October final rules and whether the 20-25% first-year life caps survive. Proven wrong if: the final rules drop commission caps entirely."
-              },
-              {
-                "n": "2",
-                "title": "Gold FoF freeze goes formal",
-                "detail": "Fund houses stopped new gold FoF inflows on what reports call verbal SEBI curbs, with gold at record highs. Watch for a written circular and the stated reason. Weakening signal: inflows resume quietly with no circular issued."
-              },
-              {
-                "n": "3",
-                "title": "RBI's tightening path",
-                "detail": "October's hike to 5.5% came with a 4-2 split on the hawkish stance; Wednesday's minutes show how much inflation worry sits inside the committee. Watch the December meeting. Weakening condition: Brent sustained under $90, which would cool the imported-inflation case."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "One Concept a Day: the principal-agent problem",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "In 1976, two finance professors at the University of Rochester, Michael Jensen and William Meckling, published a paper that explained half the conflicts in business with one idea. 'Theory of the Firm' asked what happens when one person, the <a href=\"https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem\" target=\"_blank\" rel=\"noopener\">principal</a> (the one who delegates: the owner, the insurer, you), pays another person, the agent, to act on their behalf. The agent knows more about his own effort than the principal ever can, and his interests are not the same. The paper named the cost of that gap <a href=\"https://en.wikipedia.org/wiki/Agency_cost\" target=\"_blank\" rel=\"noopener\">agency cost</a> (the money lost when a hired hand's incentives diverge from the owner's): what the principal spends monitoring the agent, what the agent spends proving he is honest, and the 'residual loss' that remains anyway. It became one of the most cited papers in economics and the foundation of modern corporate governance."
-          },
-          {
-            "t": "p",
-            "html": "The mechanism shows up wherever effort is hard to watch. Jensen and Meckling used it to explain why managers of listed companies build empires instead of paying dividends: they own little of the firm, so they keep little of the value they create but enjoy all of the perks they buy. Their proposed fixes were the two levers that still run boardrooms: make the agent share the outcome (equity, commissions, bonuses) and make the outcome auditable (accounts, disclosure, independent directors). Neither is free, and the paper's quiet warning is that the cheapest-looking contract usually just hides the residual loss."
-          },
-          {
-            "t": "p",
-            "html": "This week's insurance news is the concept running in production. A life insurer cannot watch what an agent says at a customer's kitchen table, so it pays commission: the agent shares the outcome. But commission aligns the agent with the sale, not with the customer's need, which is how Yashish Dahiya's father ended up with policies that paid the agent and lapsed on the family. IRDAI's draft attacks the same divergence from the other side: cap the commission, ban the dark pattern, and force a documented needs assessment, in other words more monitoring and less outcome-sharing. LIAFI's letter defends the outcome-sharing lever, arguing a 35% first-year commission is what makes a village agent's economics work. The regulator, the insurer and the agent federation are all arguing about the same dial Jensen and Meckling drew in 1976."
-          },
-          {
-            "t": "p",
-            "html": "Applications beyond insurance: product managers designing sales incentives face it when the sales team optimises for the bonus metric instead of retention; investors face it in every fund whose manager charges fees on assets rather than outcomes; founders face it the day they hire a professional CEO. The decision rule: when you cannot watch the work, pay on the outcome you actually want, audit the metric rather than the person, and assume any metric you pay on will be gamed, so keep it close to the real goal. Sixty-second recall, closed book: (1) Name the three parts of agency cost. (2) Why does paying commission not fully align an insurance agent with a customer? (3) What two levers did Jensen and Meckling propose? Answers: (1) monitoring, bonding, residual loss. (2) Commission aligns him with the sale, not the suitability; his gain comes from the product sold, not the claim paid years later. (3) Outcome-sharing pay and auditability."
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.sciencedirect.com/science/article/pii/0304405X7690026X\" target=\"_blank\" rel=\"noopener\">Jensen and Meckling 1976 (journal page)</a> / <a href=\"https://josephmahoney.web.illinois.edu/BA549_Fall%202010/Session%205/Jensen_Meckling%20%281976%29.pdf\" target=\"_blank\" rel=\"noopener\">paper PDF</a>"
-          }
-        ]
-      },
-      {
-        "heading": "Try this today (Sunday wild card)",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "Put Saturday's bank results through an AI second reader. Download the HDFC Bank, ICICI Bank and Axis Bank results PDFs from the BSE announcements page, open a free NotebookLM notebook at notebooklm.google.com, and upload all three. Ask it: 'Compare the three banks on net interest margin, credit costs and treasury income, and tell me which profit beat came from lending and which from one-offs.' Time: about 15 minutes including the downloads. A good result is a one-paragraph answer you can defend: you should be able to say, in your own words, which of the three beats was driven by loan growth and which by treasury or provisioning swings, with the page number NotebookLM cites for each claim. If the tool gives you a number without a source page, ask it for the citation before using the number."
-          }
-        ]
-      },
-      {
-        "heading": "Long read: Policybazaar",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "Today's long read is the story of <a href=\"https://en.wikipedia.org/wiki/Policybazaar\" target=\"_blank\" rel=\"noopener\">Policybazaar</a> (India's largest online insurance marketplace, listed as PB Fintech): a comparison shop founded in 2008 after a mis-sold policy, nearly killed by its own regulator in 2011, rebuilt into the country's largest insurance seller, and now facing the regulator's biggest rewrite of how insurance may be sold. It ends on the decision in front of its founders today. Read it here: <a href=\"https://files.instinct.com/3msp2rivm6b4-policybazaar-the-comparison-shop-that-became\" target=\"_blank\" rel=\"noopener\">Policybazaar: the comparison shop that became the seller</a> (about 20 minutes)."
-          }
-        ]
-      },
-      {
-        "heading": "Seven-day calendar, 18 to 24 October",
-        "blocks": [
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "19",
-                "title": "Mon: Jio anchor bidding; three IPOs close",
-                "detail": "Sovereign funds and domestic institutions bid in the roughly ₹8,000 crore anchor book (Mint). Zetwerk, Bonfiglioli Transmissions and Tonbo Imaging close their issues (Upstox, Groww Digest)."
-              },
-              {
-                "n": "20",
-                "title": "Tue: markets closed for Dussehra",
-                "detail": "BSE and NSE shut across equities, derivatives and currency; MCX runs only an evening session from 5 pm (Goodreturns, exchange holiday list)."
-              },
-              {
-                "n": "21",
-                "title": "Wed: Jio opens; RBI minutes",
-                "detail": "The Jio Platforms issue opens for all investors through Friday (RHP). The RBI publishes the October meeting's minutes: the October hike to 5.5% came with a 4-2 split on the new tightening stance (Mint). HD Fire Protect and Vaibhav Vyapaar list (Upstox)."
-              },
-              {
-                "n": "22",
-                "title": "Thu: Fusion CX and Ravita Engineering list",
-                "detail": "Two listings (Upstox)."
-              },
-              {
-                "n": "23",
-                "title": "Fri: Jio closes; five listings; dividend record date; reserves data",
-                "detail": "Sahajanand Medical, Tonbo Imaging, Bonfiglioli, Zetwerk and Shellz list (Upstox). Record date for Modison, Oberoi Realty and LTM dividends (Mint). RBI weekly forex reserves show whether the drawdown from $785.7 billion continued. NVIDIA's Nemotron Bolt E4B releases (NVIDIA blog)."
-              },
-              {
-                "n": "25",
-                "title": "Sun: IRDAI comments close",
-                "detail": "The distribution consultation paper, including commission caps and the dark-patterns ban, closes for public comment (IRDAI draft, Consumer Arena)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Notes",
-        "blocks": [
-          {
-            "t": "bullets",
-            "items": [
-              "Market numbers are NSE closes at 3:30 pm IST on 16 October, the last trading session, from ET Now's liveblog, the ET market wrap and CNBC-TV18. Daily closes for the week chart come from investing.com's historical table.",
-              "Weekly index moves are computed from the 9 October closes (Nifty 22,520.45, Sensex 72,472.33): Nifty +2.78%, Sensex +3.11%. Goodreturns prints the Nifty week as +2.5% on a different base; the computed figures are used.",
-              "Bank result figures are consolidated for ICICI and Axis (standalone marked), standalone for HDFC Bank, and as reported for the rest, from the banks' exchange filings as carried in BusinessLine's 17 October results liveblog and PTI copy.",
-              "The SEBI closing-auction details are from the regulator's 15 October circular, read in full as the primary source; the effective date is 7 December 2026 for all provisions except the carried-forward-order rules in para 4.8.",
-              "LIAFI's demands are from Mint's report of the federation's 15 October letter, itself citing an Economic Times report; the letter was not published in full, so the figures are as reported there.",
-              "The IRDAI draft's commission ceilings and dark-patterns proposals are from Consumer Arena's summary of the consultation paper; comments close 25 October and final rules may differ.",
-              "DeepSeek benchmark scores are the vendor's own, labelled as such. Grey market premium is unofficial data from investorgain.com, dated 16 October, shown as sentiment; the chittorgarh.com cross-check sits behind a script and is not readable here.",
-              "IPO subscription figures are as of Friday's close via Groww Digest. Funding data is Inc42's weekly tracker. Broker ratings and target prices are left out. Nothing here is investment advice.",
-              "New primary sources read in full for this edition: the SEBI CAS circular, the Reliance RHP filing, the NVIDIA Nemotron blog, and the Jensen-Meckling 1976 paper."
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Appendix: movers",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "NSE closing prices and percent changes, Friday 16 October 2026, from ET Now's liveblog and xflot. Price in rupees."
-          },
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "1",
-                "title": "Nifty 50 gainers",
-                "detail": "Tech Mahindra +8.45%, TCS +4.74% (2,461.40), Infosys +4.46% (1,159.55)."
-              },
-              {
-                "n": "2",
-                "title": "Nifty 50 losers",
-                "detail": "InterGlobe Aviation -2.01% (4,682.20), BSE Ltd -1.75% (3,368.00), Tata Consumer Products -1.51% (976.50)."
-              },
-              {
-                "n": "3",
-                "title": "Index cards",
-                "detail": "Nifty 50 23,146.15 (+0.65%), Sensex 74,729.27 (+0.56%), Nifty Bank 55,844.00 (+0.06%), Midcap 150 21,736.75 (-0.09%), Smallcap 250 17,637.65 (+0.06%), Nifty IT 31,924.10 (+3.92%), India VIX 14.08."
-              },
-              {
-                "n": "4",
-                "title": "Biggest single-stock moves (all NSE)",
-                "detail": "Onward Technologies +19.99%, Comfort Intech +19.81%, Singer India +19.25%; Amal -20.00%, OCCL -13.76%, Cyient DLM -12.90%. These are mostly small caps; size the liquidity before reading anything into them."
-              }
-            ]
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.etnownews.com/markets/stock-market-live-updates-16-october-2026-sensex-nifty-movement-top-gainers-losers-and-market-trends-liveblog-156348826\" target=\"_blank\" rel=\"noopener\">ET Now liveblog</a> / <a href=\"https://xflot.com/day/2026-10-16\" target=\"_blank\" rel=\"noopener\">xflot</a>"
-          }
-        ]
-      },
-      {
-        "heading": "Corporate actions",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "Declared this week. The <a href=\"https://en.wikipedia.org/wiki/Record_date\" target=\"_blank\" rel=\"noopener\">record date</a> (the day the company checks its shareholder register to decide who gets paid) is Friday 23 October unless noted; to receive a dividend you must hold the share before the ex-date, which is the record date itself under T+1 settlement."
-          },
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "1",
-                "title": "Modison Ltd: ₹4 per share dividend",
-                "detail": "Announced 16 October with Q2 results: profit ₹23.32 crore, up from ₹11.66 crore a year ago. Record date 23 October."
-              },
-              {
-                "n": "2",
-                "title": "Oberoi Realty: ₹2 per share, second interim",
-                "detail": "Announced 16 October. Quarterly profit ₹761.65 crore, roughly flat; total income down 6%. Record date 23 October."
-              },
-              {
-                "n": "3",
-                "title": "LTM Ltd: ₹25 per share interim",
-                "detail": "Announced 16 October. Record date 23 October."
-              },
-              {
-                "n": "4",
-                "title": "Tech Mahindra: 1:1 bonus plus ₹15 interim",
-                "detail": "Announced 15 October with results: one bonus share for every share held, plus a ₹15 interim dividend. Record dates to be filed."
-              },
-              {
-                "n": "5",
-                "title": "PFC-REC merger: RBI approval in hand",
-                "detail": "Power Finance Corporation received the RBI's approval to proceed with its proposed merger with REC, subject to other approvals (company disclosure carried by Groww Digest, 16 October)."
-              }
-            ]
-          },
-          {
-            "t": "p",
-            "html": "Source: <a href=\"https://www.livemint.com/market/stock-market-news/dividend-delight-on-d-street-modison-ltm-to-oberoi-realty-announce-dividends-on-october-16-amount-record-dates-11792166904111.html\" target=\"_blank\" rel=\"noopener\">Mint corporate actions</a> / <a href=\"https://digest.groww.in/p/sebi-revises-cas-framework-jio-financials\" target=\"_blank\" rel=\"noopener\">Groww Digest</a>"
-          },
-          {
-            "t": "closing",
-            "html": "Edition 13, the Sunday deep edition. The long read is Policybazaar. Tell me what to keep, change or drop."
-          }
-        ]
-      }
+  "concept": {
+   "label": "One concept a day",
+   "name": "The principal-agent problem",
+   "line": "Why hired hands don't act like owners. Jensen and Meckling's 1976 paper named the cost of that gap - agency cost - and drew the two levers that still run boardrooms."
+  },
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Banks:</strong> ICICI Bank's profit rose 22% to ₹16,333 crore and Axis Bank's rose 39% to ₹7,705 crore in Saturday's September-quarter results; HDFC Bank grew 5% and IDBI fell 39%."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Insurance:</strong> the agents' federation LIAFI has asked IRDAI to raise first-year commissions to as much as 35%, days after the regulator's draft proposed capping them at 20 to 25% and banning dark patterns on insurance websites. Comments close 25 October."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio week:</strong> anchor investors bid Monday for India's largest-ever IPO (band ₹1,065 to ₹1,119, up to ₹30,213 crore). Markets are shut Tuesday for Dussehra; the issue opens Wednesday and closes Friday; listing is set for 28 October."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Markets:</strong> SEBI moves the closing auction, running since August, to a 3:30-3:40 pm window from 7 December, and expiry-day derivative settlement goes back to the 30-minute average price used before August."
+     },
+     {
+      "t": "p",
+      "html": "<strong>AI:</strong> DeepSeek released V4.1-Flash-1017, a 552-billion-parameter checkpoint it says beats its September model on all 11 of its reported benchmarks, and opened its web search and fetch APIs to all developers. Vendor claims, labelled."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Macro:</strong> forex reserves fell $8.58 billion to $726.03 billion in the week to 9 October as the RBI defended the rupee at 94.95 per dollar; the central bank's October minutes on Wednesday explain its shift to a tightening stance."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Long read:</strong> Policybazaar began as a comparison shop against the agent's commission; it is now India's largest insurance seller, just as the regulator rewrites how insurance may be sold. Read it."
+     }
     ]
-  },
-  "audio": {
-    "full": "audio/d13-full.m4a",
-    "quick": "audio/d13-quick.m4a"
-  },
-  "times": {
-    "full": "audio/d13-full.times.json"
-  }
+   },
+   {
+    "heading": "Editor's read: the rally now has an earnings test, and the first answer is yes",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Two weeks ago this market was falling on inflation fear; last week it rose 2.78% on an IT bounce, and the open question was whether profits would back the prices. Saturday's bank results are the first real answer, and they mostly say yes: ICICI and Axis grew profit at four to eight times the pace HDFC Bank managed, and bad-loan ratios kept improving at the state-owned banks. What the market may still be underpricing is the squeeze between two facts it holds separately: the RBI raised rates in October and turned hawkish, and this week's Jio issue pulls ₹30,213 crore of cash out of the same pool. My confidence: moderate, because one Saturday of banks is not a season. What would prove me wrong: an anchor book on Monday that struggles to fill, or management commentary this week flagging margin compression from the rate cycle."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/q2-results-highlights-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-central-bank-of-india-punjab-amp-sind-bank-results-company-results-17-october-2026/article71595336.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine Q2 liveblog</a> / <a href=\"https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html\" target=\"_blank\" rel=\"noopener\">Mint week ahead</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Saturday's bank results: ICICI and Axis sprint, HDFC jogs, IDBI stumbles",
+      "kicker": "Q2 earnings"
+     },
+     {
+      "t": "p",
+      "html": "<a href=\"https://en.wikipedia.org/wiki/ICICI_Bank\" target=\"_blank\" rel=\"noopener\">ICICI Bank</a> (India's second-largest private sector lender) reported a 22.28% rise in consolidated September-quarter profit to ₹16,333.18 crore (standalone up 20.1% to ₹14,843 crore), on strong loan growth, higher <a href=\"https://en.wikipedia.org/wiki/Net_interest_income\" target=\"_blank\" rel=\"noopener\">net interest income</a> (the gap between what a bank earns on loans and pays on deposits) and better asset quality. <a href=\"https://en.wikipedia.org/wiki/Axis_Bank\" target=\"_blank\" rel=\"noopener\">Axis Bank</a> (India's third-largest private sector lender) did even better: consolidated profit up 39.4% to ₹7,704.67 crore (standalone up 37.6% to ₹7,003.28 crore). <a href=\"https://en.wikipedia.org/wiki/HDFC_Bank\" target=\"_blank\" rel=\"noopener\">HDFC Bank</a> (India's largest private sector lender), the heavyweight, grew just 5% to ₹19,510 crore on a standalone basis, with net interest income up 10%."
+     },
+     {
+      "t": "p",
+      "html": "Three side-plots matter. <a href=\"https://en.wikipedia.org/wiki/Yes_Bank\" target=\"_blank\" rel=\"noopener\">YES Bank</a> (the private lender rescued in 2020) posted a 65% profit rise to ₹1,080 crore, excluding the impact of a Supreme Court ruling on its ₹8,400 crore AT-1 bond write-off; <a href=\"https://en.wikipedia.org/wiki/Additional_Tier_1\" target=\"_blank\" rel=\"noopener\">AT-1 bonds</a> (perpetual bank bonds that can be written off in a crisis) remain a live legal risk. <a href=\"https://en.wikipedia.org/wiki/IDBI_Bank\" target=\"_blank\" rel=\"noopener\">IDBI Bank</a> (the lender majority-owned by LIC and the government) fell 39% to ₹2,205 crore as non-interest income moderated. And state-run <a href=\"https://en.wikipedia.org/wiki/Central_Bank_of_India\" target=\"_blank\" rel=\"noopener\">Central Bank of India</a> (a large public sector bank) rose 21% to ₹1,469 crore, a day after the finance ministry said public sector banks made a record ₹1.98 lakh crore in FY26 with bad loans at a multi-decade low."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> Banks are a third of the Nifty's weight, so their profit season sets the index's floor. The spread between the fastest (Axis at 39%) and the slowest (HDFC at 5%) tells you the rally is rewarding loan growth and treasury gains, not size. Watch Monday's reaction: results came after the weekend close."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/q2-results-highlights-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-central-bank-of-india-punjab-amp-sind-bank-results-company-results-17-october-2026/article71595336.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine Q2 liveblog</a>"
+     },
+     {
+      "t": "story",
+      "title": "SEBI moves the closing auction to the day's real end, and U-turns on derivative settlement",
+      "kicker": "Market rules"
+     },
+     {
+      "t": "p",
+      "html": "SEBI's 15 October circular, read in full, reworks the <a href=\"https://en.wikipedia.org/wiki/Closing_auction\" target=\"_blank\" rel=\"noopener\">closing auction session</a> (a fixed window where orders pool and one closing price is struck) (CAS) that has run every trading day since August. Today continuous trading stops at 3:15 pm and the ten-minute auction sets the close by 3:25 pm. From 7 December, continuous trading runs to 3:30 pm and the auction moves to 3:30-3:40 pm: five minutes for all orders, then limit-only, with a random close between 3:38 and 3:40 pm to deter gaming. The reference price stays the <a href=\"https://en.wikipedia.org/wiki/Volume-weighted_average_price\" target=\"_blank\" rel=\"noopener\">VWAP</a> (volume-weighted average price, the average trade price weighted by size) of the last 15 minutes of continuous trading, as before. Derivatives trading extends to 3:45 pm (expiring index contracts stop at 3:30 on expiry day; stock derivatives run to 3:45 daily), and a post-close session runs 3:50 to 4:00 pm at the closing price."
+     },
+     {
+      "t": "p",
+      "html": "The bigger change is a U-turn on derivatives. Since August, expiry-day settlement prices for index and stock contracts have been the auction's closing price; SEBI's September consultation then proposed blending that close with the old average. After feedback, the regulator reverted: from 7 December, settlement prices are the volume-weighted average of the last 30 minutes of continuous trading, the method used for years before the auction existed, with exchanges publishing indicative values in real time. New iceberg orders (large orders shown in small slices) stay banned inside the auction, and stop-loss orders are not allowed; unexecuted day orders carry in with priority. The carried-order rules start 8 February 2027; everything else starts 7 December."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> The closing price decides your NAV, your index fund's tracking and every derivative settlement. The auction that sets it now sits at the very end of the session, and expiry-day settlements return to the average-price method the market used for years. If you invest through mutual funds or ETFs, this quietly changes what 'the close' means."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792079571420.pdf\" target=\"_blank\" rel=\"noopener\">SEBI circular (primary)</a> / <a href=\"https://www.mid-day.com/business/business-news/article/sebi-changes-derivatives-settlement-methodology-revises-cas-frame\" target=\"_blank\" rel=\"noopener\">Mid-day explainer</a>"
+     },
+     {
+      "t": "story",
+      "title": "Jio week: anchors Monday, holiday Tuesday, open Wednesday to Friday, listing 28 October",
+      "kicker": "India's largest IPO"
+     },
+     {
+      "t": "p",
+      "html": "The timetable, from the RHP and exchange filings: anchor bidding Monday 19 October; the issue opens Wednesday 21 and closes Friday 23 October for everyone else, with a ₹2,500 crore quota reserved for Reliance Industries shareholders and ₹500 crore for employees; listing is scheduled for 28 October. At the ₹1,065 to ₹1,119 band, <a href=\"https://en.wikipedia.org/wiki/Jio_Platforms\" target=\"_blank\" rel=\"noopener\">Jio Platforms</a> (the telecom and digital arm of Reliance Industries) is valued at roughly ₹10.3 trillion. At up to ₹30,213 crore, the issue is India's largest, ahead of Hyundai Motor India's ₹27,857 crore issue in 2024. The entire issue is fresh shares; up to ₹27,500 crore of proceeds repays borrowings."
+     },
+     {
+      "t": "p",
+      "html": "Demand signals so far: Mint reported ADIA, QIA, GIC, Norges Bank, Mubadala, BlackRock and about 15 domestic asset managers seeking slots in the roughly ₹8,000 crore anchor book. The grey market, an unofficial indicator, was pricing a premium of ₹221 a share on 16 October, implying a listing near ₹1,340, about 20% over the cap (investorgain.com, dated and unofficial). The week is shortened: exchanges are shut Tuesday for Dussehra, with MCX running only an evening session from 5 pm (Goodreturns)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> At ₹30,213 crore this is the largest public issue India has run, priced below street estimates to leave money for investors. How the anchor book fills on Monday is the single best read on institutional appetite for Indian large-caps this quarter, and the issue pulls real cash out of the market in a holiday-shortened week."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ril.com/sites/default/files/2026-10/RIL_SE_14102026_.pdf\" target=\"_blank\" rel=\"noopener\">RIL filing (primary)</a> / <a href=\"https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html\" target=\"_blank\" rel=\"noopener\">Mint week ahead</a> / <a href=\"https://www.thehindubusinessline.com/markets/indias-largest-ipo-jio-platforms-sets-1065-1119-price-band-below-street-estimates/article71584847.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>"
+     },
+     {
+      "t": "story",
+      "title": "The agent force pushes back: LIAFI wants 35% commissions while IRDAI drafts caps at 20 to 25%",
+      "kicker": "Insurance distribution"
+     },
+     {
+      "t": "p",
+      "html": "The Life Insurance Agents' Federation of India (LIAFI) wrote to the IRDAI chairman on 15 October seeking first-year commissions of 27% for policies with premium terms of five to nine years, 30% for ten to fourteen years and 35% for fifteen years and above, plus renewal commissions of 7.5% in years two to six and 6% from year seven to maturity (Mint, citing an Economic Times report). The letter argues the 'Insurance for All' goal needs a financially sustainable agency force, notes the average LIC agent earned about ₹16,774 a month in commissions, and says LIC's commission spend fell 4.55% in FY26 even as individual agents generated about 93% of its business."
+     },
+     {
+      "t": "p",
+      "html": "The federation also opposed publishing agent-wise commissions on insurer websites, saying policyholders may then demand a cut of the commission, and asked for tighter oversight of corporate agents, banks and brokers, arguing mis-selling is not an individual-agent monopoly. Its letter lands on top of the regulator's own draft, which proposes caps of 20 to 25% on first-year life commissions and a ban on website dark patterns. Detail in the Insurance section."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> This is the collision your desk lives on. The regulator's distribution paper proposes commission ceilings and a dark-patterns ban; the largest agents' federation has answered with a formal demand for higher, legislated commissions. What settles after the 25 October comment deadline will shape payouts, persistence and staffing across distribution."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.livemint.com/insurance/news/liafi-writes-to-irdai-seeking-higher-commissions-for-insurance-agents-check-demands-11792226349270.html\" target=\"_blank\" rel=\"noopener\">Mint on the LIAFI letter</a> / <a href=\"https://liafi1964.org/liafi-writes-to-irdai-seeks-35-first-year-commission-and-7-5-renewals-for-long-term-life-policies/\" target=\"_blank\" rel=\"noopener\">LIAFI's own summary</a> / <a href=\"https://consumerarena.in/irdai-insurance-dark-patterns-proposal/\" target=\"_blank\" rel=\"noopener\">Consumer Arena on the draft</a>"
+     },
+     {
+      "t": "story",
+      "title": "DeepSeek's new checkpoint and an open search API: the agent stack gets cheaper",
+      "kicker": "AI launches"
+     },
+     {
+      "t": "p",
+      "html": "DeepSeek released V4.1-Flash-1017 on 17 October, a post-training checkpoint of its V4.1-Flash model: 552 billion backbone parameters plus 196 billion 'Engram' parameters, activating 8 to 16 billion per token, with a one-million-token context window. The company reports it beats the September checkpoint on all 11 benchmarks it published, scoring 77.0 on its DeepSWE coding test versus 74.0 for Anthropic's Claude Opus 5 in DeepSeek's own table; Claude still leads several reasoning benchmarks in the same table. Alongside, DeepSeek opened its Search and Fetch APIs to every developer, giving agent builders a first-party web layer (MarkTechPost; benchmark figures are the vendor's)."
+     },
+     {
+      "t": "p",
+      "html": "NVIDIA, two days earlier, expanded its open Nemotron 3.5 family: Super VL, a 120-billion-parameter vision-language model for always-on agents, and two smaller Bolt models for local hardware, the 74B-A9B now and the 4-billion-parameter E4B on 23 October (NVIDIA blog, primary)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> If you build or buy AI workflows, a credible cheap coding model plus a first-party web search layer behind one API key cuts the cost of agents that read the web. Benchmark figures are DeepSeek's own and labelled as such."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/\" target=\"_blank\" rel=\"noopener\">MarkTechPost (read in full)</a> / <a href=\"https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/\" target=\"_blank\" rel=\"noopener\">NVIDIA blog (primary)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Insurance",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "What the LIAFI letter actually asks for, and what it concedes",
+      "kicker": "Distribution"
+     },
+     {
+      "t": "p",
+      "html": "Beyond the headline numbers, three asks stand out. One, renewal commissions running to policy maturity, framed as payment for long-term servicing, the exact duty the regulator says agents often abandon after the sale. Two, a level field across channels: LIAFI alleges private insurers kept paying high commissions while some LIC policy payouts were cut to as low as 7% from October 2024, after maximum commission limits were removed in 2023. Three, no public disclosure of individual agent commissions, which the federation says would invite policyholders to claim a share."
+     },
+     {
+      "t": "p",
+      "html": "The timing is deliberate: IRDAI's distribution consultation closes 25 October, and chairman Ajay Seth has publicly promised an orderly transition with no intention to disrupt any market player. The agent force is putting its number on the table before the final rules are drafted."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> The demands quantify what the agency channel thinks survival costs: a 35% first-year ceiling on long-term policies is above what most private life insurers pay today, and the renewal ask (6% to maturity) is a pension for the agent force. The letter also shows the channel's weakest flank: it resists commission disclosure to customers."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.livemint.com/insurance/news/liafi-writes-to-irdai-seeking-higher-commissions-for-insurance-agents-check-demands-11792226349270.html\" target=\"_blank\" rel=\"noopener\">Mint on the LIAFI letter</a> / <a href=\"https://liafi1964.org/liafi-writes-to-irdai-seeks-35-first-year-commission-and-7-5-renewals-for-long-term-life-policies/\" target=\"_blank\" rel=\"noopener\">LIAFI's own summary</a>"
+     },
+     {
+      "t": "story",
+      "title": "The other half of the draft: no phone number before you see a price",
+      "kicker": "Consumer rules"
+     },
+     {
+      "t": "p",
+      "html": "The IRDAI draft, summarised by Consumer Arena, would require insurers and large sellers to show product features, prices and quality information without first demanding a name, phone number or email, ending the industry-standard lead form that gates every quote. It proposes banning <a href=\"https://en.wikipedia.org/wiki/Dark_pattern\" target=\"_blank\" rel=\"noopener\">dark patterns</a> (interface designs that steer users into actions they did not intend) such as countdown timers and pre-ticked add-ons, with the regulator publishing what it finds, and it requires sellers to assess a buyer's needs and document why a recommended plan fits. Proposed commission ceilings: for individual health insurance, up to 15% of first-year premium for distribution companies and 20% for agents (5% and 10% on renewal); for life insurance, 20% and 25% in the first year. Everything here is a proposal open for comment until 25 October; final rules may differ."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> If you sell insurance online, this redraws the funnel: features, prices and quality information must be visible before any personal details are collected, and manipulative design gets tracked and published. Lead-generation economics change the day this becomes a rule."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://consumerarena.in/irdai-insurance-dark-patterns-proposal/\" target=\"_blank\" rel=\"noopener\">Consumer Arena on the draft</a> / <a href=\"https://irdai.gov.in/\" target=\"_blank\" rel=\"noopener\">IRDAI</a>"
+     }
+    ]
+   },
+   {
+    "heading": "What's new radar, last 48 hours",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "DeepSeek V4.1-Flash-1017",
+        "detail": "Released 17 October. New checkpoint of the open-weights coding model; vendor reports gains on all 11 of its published benchmarks and opens Search and Fetch APIs to all developers. Vendor claims, not independently tested (MarkTechPost)."
+       },
+       {
+        "n": "2",
+        "title": "NVIDIA Nemotron 3.5 family",
+        "detail": "15 October, official blog: open Super VL 120B vision-language model plus Bolt edge models; Bolt E4B (4B) lands 23 October. Covered in front-page AI item."
+       },
+       {
+        "n": "3",
+        "title": "IPO approvals",
+        "detail": "Indian Gas Exchange, Cult.fit and two others received SEBI approval to float IPOs, per media reports carried by Groww Digest (16 October). Watch for draft papers on SEBI's site."
+       },
+       {
+        "n": "4",
+        "title": "Maruti Suzuki tax win",
+        "detail": "Won a tax dispute with an estimated benefit of about ₹13,000 crore including interest, and expects a ₹6,300 crore reduction in potential liabilities (company disclosure carried by Groww Digest, 16 October)."
+       },
+       {
+        "n": "5",
+        "title": "ixigo turns profitable",
+        "detail": "Le Travenues Technology (ixigo) reported a ₹63.42 crore September-quarter profit versus a ₹3.46 crore loss a year ago, helped by a partial stake sale in Freshbus and hotel-booking growth (PTI via BusinessLine, 17 October)."
+       },
+       {
+        "n": "6",
+        "title": "Gold fund freeze",
+        "detail": "Mutual funds stopped taking new money into gold fund-of-funds from 16 October after what media reports describe as verbal SEBI restrictions, amid gold's rally. No written circular yet; treat as developing (Groww Digest)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The Nifty 50 closed Friday at 23,146.15, up 0.65% on the day and 2.78% on the week (computed from the 9 October close of 22,520.45; daily closes from the investing.com historical table). The Sensex ended at 74,729.27, up 3.11% on the week by the same method, its best weekly run in months. The week's shape: a nervous Monday, then four sessions of buying led by IT after Tech Mahindra's results and bonus, with midcap and smallcap indices flat on Friday."
+     },
+     {
+      "t": "p",
+      "html": "Flows and macro: foreign investors bought ₹1,165.92 crore on Friday while domestic institutions sold ₹3,661.28 crore (CNBC-TV18). The rupee closed at 94.95 per dollar, Brent at $105.6 a barrel (ET Now). India's forex reserves fell $8.58 billion to $726.03 billion in the week to 9 October (RBI weekly data), and the current account deficit narrowed to $5.2 billion in August from $6.1 billion a year earlier. The government raised the windfall tax on petrol exports to ₹2.5 a litre from ₹0.5 and cut the diesel export duty to ₹8.5 from ₹16 (Groww Digest)."
+     },
+     {
+      "t": "p",
+      "html": "The RBI context for Wednesday's minutes: at its October meeting the central bank raised the repo rate 25 basis points to 5.5% and shifted from neutral to a calibrated tightening stance on a 4-2 split (Mint). The minutes on 21 October show how close the doves came."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg aria-label=\"Selected NSE sector index moves at the close on Friday 16 October 2026, percent change, centred on zero\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 602\"><line stroke=\"#555\" x1=\"415\" x2=\"415\" y1=\"10\" y2=\"514\"></line><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"37\">IT</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"228.66666666666666\" x=\"415\" y=\"18\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"651.6666666666666\" y=\"38\">+3.92%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"79\">India Digital</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"121.91666666666666\" x=\"415\" y=\"60\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"544.9166666666666\" y=\"80\">+2.09%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"121\">Media</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"112\" x=\"415\" y=\"102\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"535\" y=\"122\">+1.92%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"163\">Cement</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"94.5\" x=\"415\" y=\"144\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"517.5\" y=\"164\">+1.62%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"205\">Metal</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"55.41666666666666\" x=\"415\" y=\"186\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"478.41666666666663\" y=\"206\">+0.95%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"247\">Auto</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"43.75\" x=\"415\" y=\"228\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"466.75\" y=\"248\">+0.75%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"289\">PSU Bank</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"39.083333333333336\" x=\"415\" y=\"270\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"462.0833333333333\" y=\"290\">+0.67%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"331\">Bank</text><rect fill=\"#1f6feb\" height=\"26\" rx=\"2\" width=\"3.5\" x=\"415\" y=\"312\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"start\" x=\"426.5\" y=\"332\">+0.06%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"373\">Pharma</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"8.166666666666666\" x=\"406.8333333333333\" y=\"354\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"398.8333333333333\" y=\"374\">-0.14%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"415\">FMCG</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"22.75\" x=\"392.25\" y=\"396\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"384.25\" y=\"416\">-0.39%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"457\">Consumer Durables</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"35.58333333333333\" x=\"379.4166666666667\" y=\"438\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"371.4166666666667\" y=\"458\">-0.61%</text></g><g><text fill=\"#222\" font-size=\"17\" text-anchor=\"end\" x=\"160\" y=\"499\">Capital Markets</text><rect fill=\"#8c1d18\" height=\"26\" rx=\"2\" width=\"62.416666666666664\" x=\"352.5833333333333\" y=\"480\"></rect><text fill=\"#333\" font-size=\"16\" text-anchor=\"end\" x=\"344.5833333333333\" y=\"500\">-1.07%</text></g><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"540\">NSE sector indices, % change at the close, Fri 16 Oct 2026. Blue up, red down.</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"562\">12 of 23 shown; 14 of 23 rose.</text><text fill=\"#555\" font-size=\"15\" x=\"0\" y=\"582\">Source: neximpera.com sector desk, end-of-day close.</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "The chart shows Friday's sector index moves, 12 of 23 NSE sectoral indices; IT led at +3.92% and Capital Markets lagged at -1.07%; 14 of 23 rose. A sector index moving shows the average stock in it moved; it is not by itself proof of money rotating between sectors."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.etnownews.com/markets/stock-market-live-updates-16-october-2026-sensex-nifty-movement-top-gainers-losers-and-market-trends-liveblog-156348826\" target=\"_blank\" rel=\"noopener\">ET Now liveblog</a> / <a href=\"https://www.cnbctv18.com/market/fiis-return-to-buying-indian-stocks-with-rs1166-crore-net-inflows-diis-sell-rs3661-crore-20013872.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 flows</a> / <a href=\"https://www.investing.com/indices/s-p-cnx-nifty-historical-data\" target=\"_blank\" rel=\"noopener\">investing.com historical</a> / <a href=\"https://www.goodreturns.in/news/stock-market-holidays-next-week-trading-on-bse-nse-closed-on-october-20-24-25-sensex-nifty-outlook-1542169.html\" target=\"_blank\" rel=\"noopener\">Goodreturns holiday</a> / <a href=\"https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html\" target=\"_blank\" rel=\"noopener\">Mint week ahead</a>"
+     }
+    ]
+   },
+   {
+    "heading": "IPOs this week",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Jio Platforms: the anchor book is Monday's tell",
+      "kicker": "Featured"
+     },
+     {
+      "t": "p",
+      "html": "Issue recap: 27 crore fresh shares at ₹1,065 to ₹1,119, lot of 12 (₹13,428 at the cap), ₹54 employee discount, face value ₹10. No existing investor sells. Anchor investors, including ADIA, QIA, GIC, Norges Bank, Mubadala, BlackRock and about 15 domestic asset managers per Mint's reporting, bid Monday for a book of about ₹8,000 crore. The issue opens Wednesday (Tuesday is the Dussehra trading holiday) and closes Friday; listing 28 October."
+     },
+     {
+      "t": "p",
+      "html": "What would make the bull case wrong: <a href=\"https://en.wikipedia.org/wiki/Average_revenue_per_user\" target=\"_blank\" rel=\"noopener\">ARPU</a> (average revenue per user, the monthly bill per subscriber) has been flat for two quarters at about ₹215.6, so the growth story rests on Akash Ambani's voice-AI services rather than the core telecom tariff. The grey market premium trend below is sentiment, dated 16 October, from an unofficial source."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg aria-label=\"Jio Platforms grey market premium per share, 4 to 16 October 2026, rising from 148 to 221 rupees\" role=\"img\" style=\"width:100%;height:auto;display:block\" viewbox=\"0 0 720 250\"><line stroke=\"#555\" x1=\"60\" x2=\"700\" y1=\"210\" y2=\"210\"></line><g><rect fill=\"#1f6feb\" height=\"120.86666666666667\" rx=\"2\" width=\"37.23076923076923\" x=\"66\" y=\"89.13333333333333\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"84.61538461538461\" y=\"228\">4 Oct</text><text fill=\"#222\" font-size=\"14\" text-anchor=\"middle\" x=\"84.61538461538461\" y=\"83.13333333333333\">₹148</text></g><g><rect fill=\"#1f6feb\" height=\"127.4\" rx=\"2\" width=\"37.23076923076923\" x=\"115.23076923076923\" y=\"82.6\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"133.84615384615384\" y=\"228\">5</text></g><g><rect fill=\"#1f6feb\" height=\"136.38333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"164.46153846153845\" y=\"73.61666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"183.07692307692307\" y=\"228\">6</text></g><g><rect fill=\"#1f6feb\" height=\"148.63333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"213.6923076923077\" y=\"61.366666666666674\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"232.30769230769232\" y=\"228\">7</text></g><g><rect fill=\"#1f6feb\" height=\"136.38333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"262.9230769230769\" y=\"73.61666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"281.53846153846155\" y=\"228\">8</text></g><g><rect fill=\"#1f6feb\" height=\"141.28333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"312.1538461538462\" y=\"68.71666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"330.76923076923083\" y=\"228\">9</text></g><g><rect fill=\"#1f6feb\" height=\"139.65\" rx=\"2\" width=\"37.23076923076923\" x=\"361.3846153846154\" y=\"70.35\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"380.00000000000006\" y=\"228\">10</text></g><g><rect fill=\"#1f6feb\" height=\"140.46666666666667\" rx=\"2\" width=\"37.23076923076923\" x=\"410.61538461538464\" y=\"69.53333333333333\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"429.2307692307693\" y=\"228\">11</text></g><g><rect fill=\"#1f6feb\" height=\"148.63333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"459.84615384615387\" y=\"61.366666666666674\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"478.4615384615385\" y=\"228\">12</text></g><g><rect fill=\"#1f6feb\" height=\"178.03333333333333\" rx=\"2\" width=\"37.23076923076923\" x=\"509.0769230769231\" y=\"31.96666666666667\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"527.6923076923077\" y=\"228\">13</text></g><g><rect fill=\"#1f6feb\" height=\"168.23333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"558.3076923076924\" y=\"41.76666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"576.923076923077\" y=\"228\">14</text></g><g><rect fill=\"#1f6feb\" height=\"180.48333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"607.5384615384615\" y=\"29.51666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"626.1538461538462\" y=\"228\">15</text></g><g><rect fill=\"#1f6feb\" height=\"180.48333333333332\" rx=\"2\" width=\"37.23076923076923\" x=\"656.7692307692308\" y=\"29.51666666666668\"></rect><text fill=\"#555\" font-size=\"13\" text-anchor=\"middle\" x=\"675.3846153846155\" y=\"228\">16 Oct</text><text fill=\"#222\" font-size=\"14\" text-anchor=\"middle\" x=\"675.3846153846155\" y=\"23.51666666666668\">₹221</text></g><text fill=\"#555\" font-size=\"14\" x=\"0\" y=\"12\">Jio Platforms grey market premium per share, 4-16 Oct 2026 (investorgain.com, unofficial).</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> The pricing was set from roadshow feedback so investors make money, in the lead bank's own words. If sovereign funds fill the anchor book near the ₹1,119 cap on Monday, the discount was real; if they haggle near ₹1,065, demand is thinner than the queue suggested. Grey market premium is unofficial sentiment, dated, never a target."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ril.com/sites/default/files/2026-10/RIL_SE_14102026_.pdf\" target=\"_blank\" rel=\"noopener\">RIL filing (primary)</a> / <a href=\"https://www.livemint.com/market/ipo/blackrock-adia-norges-seek-anchor-slots-in-jio-s-3-2-bn-ipo-11792059501690.html\" target=\"_blank\" rel=\"noopener\">Mint anchor book</a> / <a href=\"https://www.investorgain.com/gmp/jio-platforms-ipo-gmp/2306/\" target=\"_blank\" rel=\"noopener\">investorgain GMP (unofficial)</a> / <a href=\"https://www.chittorgarh.com/ipo/jio-platforms-ipo/\" target=\"_blank\" rel=\"noopener\">chittorgarh</a>"
+     },
+     {
+      "t": "story",
+      "title": "Closing Monday: Zetwerk, Bonfiglioli, Tonbo; listings stack up through the week",
+      "kicker": "The queue"
+     },
+     {
+      "t": "p",
+      "html": "Subscription status as of Friday's close (Groww Digest): Tonbo Imaging's ₹852 crore issue was subscribed 7.78 times on day two (retail 7.13x); Bonfiglioli Transmissions' ₹2,533.81 crore issue 0.99 times; Zetwerk Manufacturing's ₹5,012 crore issue 0.31 times. All three close Monday 19 October. Listing schedule: HD Fire Protect and Vaibhav Vyapaar on Wednesday; Fusion CX and Ravita Engineering Services on Thursday; Sahajanand Medical, Tonbo Imaging, Bonfiglioli, Zetwerk and Shellz on Friday. Fusion CX's ₹702 crore issue closed subscribed 4.45 times (retail 5.70x). Worth a closer look is Tonbo, the defence-optics maker, given retail demand; what would make that wrong is a weak listing day for the sector cohort around it."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> Three manufacturing IPOs close Monday with thin-to-mixed subscription, and five listings land Friday alongside the Jio close. The reception of profitable industrial names versus the Jio juggernaut says where risk appetite actually sits."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://upstox.com/news/market-news/ipo/upcoming-ip-os-oct-18-week-jio-platforms-paras-healthcare-issues-to-open-for-subscription-9-listings-scheduled-check-list/article-201986/\" target=\"_blank\" rel=\"noopener\">Upstox IPO list</a> / <a href=\"https://digest.groww.in/p/sebi-revises-cas-framework-jio-financials\" target=\"_blank\" rel=\"noopener\">Groww Digest</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Startups and funding",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Funding doubled week on week: $236 million across 25 deals, AI on top",
+      "kicker": "The week in deals"
+     },
+     {
+      "t": "p",
+      "html": "Indian startups raised $236.2 million across 25 deals between 12 and 16 October, up 92.2% from the previous week's $122.9 million (Inc42's tracker). AI led with $53.4 million across six deals; ecommerce followed at $48.3 million. The largest rounds: Boldfit, a D2C fitness brand, raised $41.8 million in a Series B led by Bharat Value Fund; GreenCell Mobility, an electric bus operator, raised $34.6 million from Impact Fund Denmark; RapidCanvas, an enterprise AI platform, raised $29 million in a Series B led by Vertex Ventures; Scimplify, a chemicals manufacturing platform, raised $25 million led by Hitachi Ventures; and Origin, a robotics startup, raised $20 million led by Accel, the week's most active investor with four deals."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> The mix is the message: AI application-layer startups took the most money while the biggest single cheque went to a D2C fitness brand, so capital is funding both the AI buildout and proven consumer revenue. If you are hiring or selling into startups, the money is in AI services and fitness."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/\" target=\"_blank\" rel=\"noopener\">Inc42 weekly tracker</a>"
+     },
+     {
+      "t": "story",
+      "title": "One startup idea: the compliance copilot for the needs-based sale",
+      "kicker": "Idea of the day"
+     },
+     {
+      "t": "p",
+      "html": "The draft's needs-matching clause creates a paperwork obligation for every sale: what the customer needed, what was offered, why it fit. A voice-first copilot that sits in the agent's call, produces the assessment note, flags commission-conflicted recommendations and stores the audit trail is a compliance product the regulation itself creates demand for. The wedge is the 25 lakh-strong agent force that LIAFI says cannot absorb more cost, which means the tool has to save time, not add it. What would kill it: the clause diluted in the final rules, or insurers building it in-house first."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> IRDAI's draft wants every recommendation to carry a documented needs assessment. Whoever builds the tool that records, scores and archives that conversation sells into every insurer, broker and bank assurance desk in the country."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://consumerarena.in/irdai-insurance-dark-patterns-proposal/\" target=\"_blank\" rel=\"noopener\">Consumer Arena on the draft</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Global",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>US:</strong> the Nasdaq fell 2% on Friday to its worst week since June, dragged by AI-infrastructure debt worries and oil above $100; the Dow fell 0.34% (AP, investing.com). The worry to carry into Monday: whether the AI capex debt story spreads from tech credit to equity multiples."
+     },
+     {
+      "t": "p",
+      "html": "<strong>RBI and China:</strong> the RBI's October minutes land Wednesday with the repo rate at 5.5% after a 25-basis-point hike and a split vote on the tightening stance; China's third-quarter GDP is also due this week, a test of whether stimulus is reviving demand (Mint week ahead)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Oil:</strong> Brent at $105.6 keeps India's import bill and inflation math under pressure; the windfall-duty changes (petrol export tax up to ₹2.5 a litre, diesel down to ₹8.5) show the government managing refinery margins inside that pressure (ET Now, Groww Digest)."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628\" target=\"_blank\" rel=\"noopener\">AP</a> / <a href=\"https://www.livemint.com/economy/the-week-ahead-in-numbers-jio-s-mega-ipo-forex-reserves-q2-earnings-report-11792158017974.html\" target=\"_blank\" rel=\"noopener\">Mint week ahead</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "IRDAI distribution endgame",
+        "detail": "Now a three-way negotiation: the regulator's draft caps, LIAFI's counter-demand for higher legislated commissions, and the chairman's promise of an orderly transition. Watch for the post-25-October final rules and whether the 20-25% first-year life caps survive. Proven wrong if: the final rules drop commission caps entirely."
+       },
+       {
+        "n": "2",
+        "title": "Gold FoF freeze goes formal",
+        "detail": "Fund houses stopped new gold FoF inflows on what reports call verbal SEBI curbs, with gold at record highs. Watch for a written circular and the stated reason. Weakening signal: inflows resume quietly with no circular issued."
+       },
+       {
+        "n": "3",
+        "title": "RBI's tightening path",
+        "detail": "October's hike to 5.5% came with a 4-2 split on the hawkish stance; Wednesday's minutes show how much inflation worry sits inside the committee. Watch the December meeting. Weakening condition: Brent sustained under $90, which would cool the imported-inflation case."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "One Concept a Day: the principal-agent problem",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 1976, two finance professors at the University of Rochester, Michael Jensen and William Meckling, published a paper that explained half the conflicts in business with one idea. 'Theory of the Firm' asked what happens when one person, the <a href=\"https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem\" target=\"_blank\" rel=\"noopener\">principal</a> (the one who delegates: the owner, the insurer, you), pays another person, the agent, to act on their behalf. The agent knows more about his own effort than the principal ever can, and his interests are not the same. The paper named the cost of that gap <a href=\"https://en.wikipedia.org/wiki/Agency_cost\" target=\"_blank\" rel=\"noopener\">agency cost</a> (the money lost when a hired hand's incentives diverge from the owner's): what the principal spends monitoring the agent, what the agent spends proving he is honest, and the 'residual loss' that remains anyway. It became one of the most cited papers in economics and the foundation of modern corporate governance."
+     },
+     {
+      "t": "p",
+      "html": "The mechanism shows up wherever effort is hard to watch. Jensen and Meckling used it to explain why managers of listed companies build empires instead of paying dividends: they own little of the firm, so they keep little of the value they create but enjoy all of the perks they buy. Their proposed fixes were the two levers that still run boardrooms: make the agent share the outcome (equity, commissions, bonuses) and make the outcome auditable (accounts, disclosure, independent directors). Neither is free, and the paper's quiet warning is that the cheapest-looking contract usually just hides the residual loss."
+     },
+     {
+      "t": "p",
+      "html": "This week's insurance news is the concept running in production. A life insurer cannot watch what an agent says at a customer's kitchen table, so it pays commission: the agent shares the outcome. But commission aligns the agent with the sale, not with the customer's need, which is how Yashish Dahiya's father ended up with policies that paid the agent and lapsed on the family. IRDAI's draft attacks the same divergence from the other side: cap the commission, ban the dark pattern, and force a documented needs assessment, in other words more monitoring and less outcome-sharing. LIAFI's letter defends the outcome-sharing lever, arguing a 35% first-year commission is what makes a village agent's economics work. The regulator, the insurer and the agent federation are all arguing about the same dial Jensen and Meckling drew in 1976."
+     },
+     {
+      "t": "p",
+      "html": "Applications beyond insurance: product managers designing sales incentives face it when the sales team optimises for the bonus metric instead of retention; investors face it in every fund whose manager charges fees on assets rather than outcomes; founders face it the day they hire a professional CEO. The decision rule: when you cannot watch the work, pay on the outcome you actually want, audit the metric rather than the person, and assume any metric you pay on will be gamed, so keep it close to the real goal. Sixty-second recall, closed book: (1) Name the three parts of agency cost. (2) Why does paying commission not fully align an insurance agent with a customer? (3) What two levers did Jensen and Meckling propose? Answers: (1) monitoring, bonding, residual loss. (2) Commission aligns him with the sale, not the suitability; his gain comes from the product sold, not the claim paid years later. (3) Outcome-sharing pay and auditability."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.sciencedirect.com/science/article/pii/0304405X7690026X\" target=\"_blank\" rel=\"noopener\">Jensen and Meckling 1976 (journal page)</a> / <a href=\"https://josephmahoney.web.illinois.edu/BA549_Fall%202010/Session%205/Jensen_Meckling%20%281976%29.pdf\" target=\"_blank\" rel=\"noopener\">paper PDF</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Sunday wild card)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Put Saturday's bank results through an AI second reader. Download the HDFC Bank, ICICI Bank and Axis Bank results PDFs from the BSE announcements page, open a free NotebookLM notebook at notebooklm.google.com, and upload all three. Ask it: 'Compare the three banks on net interest margin, credit costs and treasury income, and tell me which profit beat came from lending and which from one-offs.' Time: about 15 minutes including the downloads. A good result is a one-paragraph answer you can defend: you should be able to say, in your own words, which of the three beats was driven by loan growth and which by treasury or provisioning swings, with the page number NotebookLM cites for each claim. If the tool gives you a number without a source page, ask it for the citation before using the number."
+     }
+    ]
+   },
+   {
+    "heading": "Long read: Policybazaar",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Today's long read is the story of <a href=\"https://en.wikipedia.org/wiki/Policybazaar\" target=\"_blank\" rel=\"noopener\">Policybazaar</a> (India's largest online insurance marketplace, listed as PB Fintech): a comparison shop founded in 2008 after a mis-sold policy, nearly killed by its own regulator in 2011, rebuilt into the country's largest insurance seller, and now facing the regulator's biggest rewrite of how insurance may be sold. It ends on the decision in front of its founders today. Read it here: <a href=\"https://files.instinct.com/3msp2rivm6b4-policybazaar-the-comparison-shop-that-became\" target=\"_blank\" rel=\"noopener\">Policybazaar: the comparison shop that became the seller</a> (about 20 minutes)."
+     }
+    ]
+   },
+   {
+    "heading": "Seven-day calendar, 18 to 24 October",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "19",
+        "title": "Mon: Jio anchor bidding; three IPOs close",
+        "detail": "Sovereign funds and domestic institutions bid in the roughly ₹8,000 crore anchor book (Mint). Zetwerk, Bonfiglioli Transmissions and Tonbo Imaging close their issues (Upstox, Groww Digest)."
+       },
+       {
+        "n": "20",
+        "title": "Tue: markets closed for Dussehra",
+        "detail": "BSE and NSE shut across equities, derivatives and currency; MCX runs only an evening session from 5 pm (Goodreturns, exchange holiday list)."
+       },
+       {
+        "n": "21",
+        "title": "Wed: Jio opens; RBI minutes",
+        "detail": "The Jio Platforms issue opens for all investors through Friday (RHP). The RBI publishes the October meeting's minutes: the October hike to 5.5% came with a 4-2 split on the new tightening stance (Mint). HD Fire Protect and Vaibhav Vyapaar list (Upstox)."
+       },
+       {
+        "n": "22",
+        "title": "Thu: Fusion CX and Ravita Engineering list",
+        "detail": "Two listings (Upstox)."
+       },
+       {
+        "n": "23",
+        "title": "Fri: Jio closes; five listings; dividend record date; reserves data",
+        "detail": "Sahajanand Medical, Tonbo Imaging, Bonfiglioli, Zetwerk and Shellz list (Upstox). Record date for Modison, Oberoi Realty and LTM dividends (Mint). RBI weekly forex reserves show whether the drawdown from $785.7 billion continued. NVIDIA's Nemotron Bolt E4B releases (NVIDIA blog)."
+       },
+       {
+        "n": "25",
+        "title": "Sun: IRDAI comments close",
+        "detail": "The distribution consultation paper, including commission caps and the dark-patterns ban, closes for public comment (IRDAI draft, Consumer Arena)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Market numbers are NSE closes at 3:30 pm IST on 16 October, the last trading session, from ET Now's liveblog, the ET market wrap and CNBC-TV18. Daily closes for the week chart come from investing.com's historical table.",
+       "Weekly index moves are computed from the 9 October closes (Nifty 22,520.45, Sensex 72,472.33): Nifty +2.78%, Sensex +3.11%. Goodreturns prints the Nifty week as +2.5% on a different base; the computed figures are used.",
+       "Bank result figures are consolidated for ICICI and Axis (standalone marked), standalone for HDFC Bank, and as reported for the rest, from the banks' exchange filings as carried in BusinessLine's 17 October results liveblog and PTI copy.",
+       "The SEBI closing-auction details are from the regulator's 15 October circular and its September consultation paper, both read in full as primary sources. The auction has run since August; from 7 December 2026 it moves to 3:30-3:40 pm and derivative settlement reverts to the last-30-minute VWAP, the pre-auction method. The carried-forward-order rules in para 4.8 start 8 February 2027.",
+       "LIAFI's demands are from Mint's report of the federation's 15 October letter, itself citing an Economic Times report, and the federation's own published summary at liafi1964.org, which confirms the 35% first-year ask and 7.5% renewals for long-term life policies.",
+       "The IRDAI draft's commission ceilings and dark-patterns proposals are from Consumer Arena's summary of the consultation paper; comments close 25 October and final rules may differ.",
+       "DeepSeek benchmark scores are the vendor's own, labelled as such. Grey market premium is unofficial data from investorgain.com, dated 16 October, shown as sentiment; the chittorgarh.com cross-check sits behind a script and is not readable here.",
+       "IPO subscription figures are as of Friday's close via Groww Digest. Funding data is Inc42's weekly tracker. Broker ratings and target prices are left out. Nothing here is investment advice.",
+       "New primary sources read in full for this edition: the SEBI CAS circular, the Reliance RHP filing, the NVIDIA Nemotron blog, and the Jensen-Meckling 1976 paper."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Appendix: movers",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "NSE closing prices and percent changes, Friday 16 October 2026, from ET Now's liveblog and xflot. Price in rupees."
+     },
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Nifty 50 gainers",
+        "detail": "Tech Mahindra +8.45%, TCS +4.74% (2,461.40), Infosys +4.46% (1,159.55)."
+       },
+       {
+        "n": "2",
+        "title": "Nifty 50 losers",
+        "detail": "InterGlobe Aviation -2.01% (4,682.20), BSE Ltd -1.75% (3,368.00), Tata Consumer Products -1.51% (976.50)."
+       },
+       {
+        "n": "3",
+        "title": "Index cards",
+        "detail": "Nifty 50 23,146.15 (+0.65%), Sensex 74,729.27 (+0.56%), Nifty Bank 55,844.00 (+0.06%), Midcap 150 21,736.75 (-0.09%), Smallcap 250 17,637.65 (+0.06%), Nifty IT 31,924.10 (+3.92%), India VIX 14.08."
+       },
+       {
+        "n": "4",
+        "title": "Biggest single-stock moves (all NSE)",
+        "detail": "Onward Technologies +19.99%, Comfort Intech +19.81%, Singer India +19.25%; Amal -20.00%, OCCL -13.76%, Cyient DLM -12.90%. These are mostly small caps; size the liquidity before reading anything into them."
+       }
+      ]
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.etnownews.com/markets/stock-market-live-updates-16-october-2026-sensex-nifty-movement-top-gainers-losers-and-market-trends-liveblog-156348826\" target=\"_blank\" rel=\"noopener\">ET Now liveblog</a> / <a href=\"https://xflot.com/day/2026-10-16\" target=\"_blank\" rel=\"noopener\">xflot</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Declared this week. The <a href=\"https://en.wikipedia.org/wiki/Record_date\" target=\"_blank\" rel=\"noopener\">record date</a> (the day the company checks its shareholder register to decide who gets paid) is Friday 23 October unless noted; to receive a dividend you must hold the share before the ex-date, which is the record date itself under T+1 settlement."
+     },
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Modison Ltd: ₹4 per share dividend",
+        "detail": "Announced 16 October with Q2 results: profit ₹23.32 crore, up from ₹11.66 crore a year ago. Record date 23 October."
+       },
+       {
+        "n": "2",
+        "title": "Oberoi Realty: ₹2 per share, second interim",
+        "detail": "Announced 16 October. Quarterly profit ₹761.65 crore, roughly flat; total income down 6%. Record date 23 October."
+       },
+       {
+        "n": "3",
+        "title": "LTM Ltd: ₹25 per share interim",
+        "detail": "Announced 16 October. Record date 23 October."
+       },
+       {
+        "n": "4",
+        "title": "Tech Mahindra: 1:1 bonus plus ₹15 interim",
+        "detail": "Announced 15 October with results: one bonus share for every share held, plus a ₹15 interim dividend. Record dates to be filed."
+       },
+       {
+        "n": "5",
+        "title": "PFC-REC merger: RBI approval in hand",
+        "detail": "Power Finance Corporation received the RBI's approval to proceed with its proposed merger with REC, subject to other approvals (company disclosure carried by Groww Digest, 16 October)."
+       }
+      ]
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.livemint.com/market/stock-market-news/dividend-delight-on-d-street-modison-ltm-to-oberoi-realty-announce-dividends-on-october-16-amount-record-dates-11792166904111.html\" target=\"_blank\" rel=\"noopener\">Mint corporate actions</a> / <a href=\"https://digest.groww.in/p/sebi-revises-cas-framework-jio-financials\" target=\"_blank\" rel=\"noopener\">Groww Digest</a>"
+     },
+     {
+      "t": "closing",
+      "html": "Edition 13, the Sunday deep edition. The long read is Policybazaar. Tell me what to keep, change or drop."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "full": "audio/d13-full.m4a",
+  "quick": "audio/d13-quick.m4a"
+ },
+ "times": {
+  "full": "audio/d13-full.times.json"
+ }
 }
