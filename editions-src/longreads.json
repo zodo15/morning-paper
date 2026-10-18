@@ -2126,5 +2126,274 @@
     ]
    }
   ]
+ },
+ "13": {
+  "title": "Policybazaar: the comparison shop that became the seller",
+  "fact": "A company story in about 20 minutes. Three IIM graduates founded Policybazaar in 2008 after one founder's father was mis-sold insurance. It survived a regulator that wiped out 90% of its revenue, became India's largest online insurance seller, and now faces the same regulator's biggest rewrite of how insurance may be sold.",
+  "intro": "The story is chronological, so read it straight through. The numbers are boxed at the end, and every source read is listed.",
+  "groups": [
+   {
+    "heading": "Timeline",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "2006. The model is spotted",
+        "detail": "Yashish Dahiya, exploring a job at insurer Admiral Plc, sees Confused.com, the UK comparison site, and files the model away (IIT Delhi interview, 2020)."
+       },
+       {
+        "n": "2",
+        "title": "2008. Founded in Gurgaon",
+        "detail": "Dahiya, Alok Bansal and Avaneesh Nirjar start Policybazaar in June. In September, Info Edge's Sanjeev Bikhchandani and Hitesh Oberoi invest ₹20 crore, then their biggest cheque (Wikipedia; Forbes India, 2018)."
+       },
+       {
+        "n": "3",
+        "title": "2009. The fainting review",
+        "detail": "An employee faints after telling Dahiya the company spends ₹100 to earn ₹10. Revenue that September: ₹6 lakh (BusinessLine, 2015)."
+       },
+       {
+        "n": "4",
+        "title": "2011. The regulator's first strike",
+        "detail": "IRDA caps web-aggregator advertising revenue at ₹1 lakh per product per year, against the company's ₹20 crore revenue. Policybazaar restructures into sales and back-office work (YourStory, 2021). Intel Capital leads the Series A in May (Wikipedia)."
+       },
+       {
+        "n": "5",
+        "title": "2014. Paisabazaar launches",
+        "detail": "The credit-comparison sister platform goes live; Tiger Global joins a $20 million Series C (YourStory; Wikipedia)."
+       },
+       {
+        "n": "6",
+        "title": "2018. Unicorn",
+        "detail": "SoftBank leads a $238 million round in June, valuing the parent above $1 billion; the DocPrime healthcare foray begins (Forbes India, 2018)."
+       },
+       {
+        "n": "7",
+        "title": "2019. Tencent in, new CEO",
+        "detail": "Tencent takes 10% at a $1.5 billion valuation in November. Sarbvir Singh becomes CEO of Policybazaar in December; Dahiya becomes group CEO (Wikipedia)."
+       },
+       {
+        "n": "8",
+        "title": "2021. Broker, then listed",
+        "detail": "In June the company takes an insurance broking licence, surrenders its web-aggregator licence and plans 100 offline outlets. On 15 November, PB Fintech lists after a ₹5,625 crore IPO (Wikipedia)."
+       },
+       {
+        "n": "9",
+        "title": "2024. First full-year profit",
+        "detail": "FY24 closes with ₹3,438 crore revenue and ₹64 crore net profit (company figures via Wikipedia)."
+       },
+       {
+        "n": "10",
+        "title": "2026. The regulator returns",
+        "detail": "Q1 FY27 profit rises 92% to ₹163 crore (results, 5 August). In October, IRDAI's distribution draft proposes commission caps and a dark-patterns ban; the agents' federation answers with a demand for higher commissions (results coverage; Mint; Consumer Arena)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "1. The mis-sold policy",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The idea for India's largest insurance marketplace began with two insults, one professional and one personal. The professional one came in 2006. Yashish Dahiya, then a rising executive who had run the travel portal Ebookers across 13 countries, was exploring a job at the British insurer <a href=\"https://en.wikipedia.org/wiki/Admiral_Group\" target=\"_blank\" rel=\"noopener\">Admiral Plc</a> (the UK motor insurer behind Confused.com) when he saw its sister business, Confused.com: a website where people arrived confused about what to buy and left with a comparison. 'I was pretty impressed with this model and that is what we are replicating in Policybazaar,' he told IIT Delhi years later (IIT Delhi convocation interview, 2020)."
+     },
+     {
+      "t": "p",
+      "html": "The personal insult was worse. Back in India, his father had been sold insurance policies by a broker that served the insurer and the agent, not the customer. 'Most plans pushed by agents are traditional commission-based plans that benefit them. Once sold, such policies have 60 percent chances of lapsing,' Dahiya told YourStory. India in 2008 had no shortage of insurance; it had a shortage of honest comparison. Policies were sold by agents at kitchen tables, and the buyer could not see the menu."
+     },
+     {
+      "t": "p",
+      "html": "Dahiya was not a natural corporate man. At IIM Ahmedabad in 1996 he had opted out of campus placements to tutor at home, working two hours a day for more than a job would pay, until his mother warned that his sister's marriage prospects needed him employed. He went through Illinois Tool Works, an INSEAD MBA, Bain & Company in London and the managing director's job at Ebookers before the two insults lined up. He teamed up with <a href=\"https://en.wikipedia.org/wiki/Policybazaar\" target=\"_blank\" rel=\"noopener\">Alok Bansal</a> (IIM Calcutta MBA; Mahindra, iGate and GE veteran), met through a common friend, and Avaneesh Nirjar. In mid-2008 he carried his laptop to the office of <a href=\"https://en.wikipedia.org/wiki/Sanjeev_Bikhchandani\" target=\"_blank\" rel=\"noopener\">Sanjeev Bikhchandani</a> (founder of Info Edge, which runs Naukri.com) and showed him a comparison of prices at which Bikhchandani could insure his car. Info Edge's founders wrote what Dahiya recalls as 'pretty much the biggest cheque they'd written at the time': ₹20 crore, in September 2008 (Forbes India, 2018; BusinessLine, 2015)."
+     }
+    ]
+   },
+   {
+    "heading": "2. The comparison shop that could not pay its bills",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The first Policybazaar was a pure information business. It listed the policies of more than 30 insurers, let visitors compare prices and benefits, and then sent them to the insurer's own site to buy. Insurers paid about ₹100 per enquiry for those referrals. The economics were brutal: in the summer of 2009, at an annual performance review, an employee told Dahiya the year-old company was spending ₹100 to earn ₹10, and then fainted on the spot. Only 1% of visitors bought anything; the company did about 100 transactions a month and booked ₹6 lakh of revenue in September 2008 against continuous spending on technology, people and marketing (BusinessLine, 2015)."
+     },
+     {
+      "t": "p",
+      "html": "The fix was methodical. The team ran thousands of A/B tests on individual buttons to turn browsers into buyers, and marketing shifted from awareness to conversion. Within a couple of years the company was spending ₹100 to earn ₹50, and traffic grew into the millions of visitors a month. By 2015 BusinessLine could describe Policybazaar as accounting for half of all online life insurance sales in the country, with 1.5 million visitors a month."
+     }
+    ]
+   },
+   {
+    "heading": "3. The regulator's first strike",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Then the company's own referee changed the game. In 2011, the Insurance Regulatory and Development Authority's first web-aggregator rules capped advertising revenue at ₹1 lakh per product per year. Policybazaar's revenue at the time was about ₹20 crore; the cap threatened more than 90% of it. The company restructured painfully, moving out its marketing and call-centre operations and turning itself into a sales and back-office operation for insurers (YourStory, 2021)."
+     },
+     {
+      "t": "p",
+      "html": "The survival lesson Dahiya took was that a marketplace with no transaction is at the mercy of whoever owns the rules. Even in 2011, with commissions on digital sales restricted and advertising revenue banned, he was telling anyone who would listen that the customer base had crossed five lakh and was doubling every year. The company that emerged from the wreckage no longer just showed the menu; it sold the meal. In May 2011, Intel Capital and Info Edge put in ₹60 crore, followed by a $9 million Series A with Inventus Capital (Wikipedia). Nirjar, the third founder, left in the early years; two Forbes India profiles disagree on the year, one saying 2011 and another 2013."
+     }
+    ]
+   },
+   {
+    "heading": "4. The money years",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "What followed was a decade of escalating cheques. A $5 million Series B in April 2013; a $20 million Series C in May 2014 that brought in Tiger Global, the same year <a href=\"https://en.wikipedia.org/wiki/Paisabazaar\" target=\"_blank\" rel=\"noopener\">Paisabazaar</a> (the group's credit-score and loan comparison platform) launched; a $40 million Series D in April 2015 led by <a href=\"https://en.wikipedia.org/wiki/Premji_Invest\" target=\"_blank\" rel=\"noopener\">Premji Invest</a> (Wipro chairman Azim Premji's personal investment vehicle) with Steadview Capital and ABG Capital; and a $77 million Series E in 2017 led by Wellington Management and India Value Fund with Temasek participating (Wikipedia; Forbes India, 2017). By 2017 the site hosted over 60 million visitors a year, closed about 125,000 transactions a month, and accounted for about 20% of India's life cover and over 7% of retail health insurance (Forbes India, 2017)."
+     },
+     {
+      "t": "p",
+      "html": "In June 2018 <a href=\"https://en.wikipedia.org/wiki/SoftBank_Vision_Fund\" target=\"_blank\" rel=\"noopener\">SoftBank</a> (the Japanese group behind the Vision Fund) led a $238 million round, $150 million of it its own, making Etechaces Marketing and Consulting, the parent, a unicorn. Flush with capital, Dahiya and Bansal tried to move up the chain into healthcare itself with a vertical called DocPrime, reasoning that generating demand for healthcare would generate demand for health insurance (Forbes India, 2018). Tencent bought 10% at a $1.5 billion valuation in November 2019, and SoftBank added $130 million more in July 2020 (Wikipedia)."
+     }
+    ]
+   },
+   {
+    "heading": "5. Becoming the seller",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The deepest pivot came quietly, in two personnel and licensing moves. In December 2019 <a href=\"https://en.wikipedia.org/wiki/Policybazaar\" target=\"_blank\" rel=\"noopener\">Sarbvir Singh</a> (former Waterbridge Ventures and Info Edge executive) took over as CEO of Policybazaar while Dahiya became group CEO. Then, in June 2021, the company took out an insurance broking licence from IRDAI, surrendered the web-aggregator licence it had been born under, and announced 100 offline outlets across India (Wikipedia). The comparison shop was formally becoming a seller, with agents and buildings of its own, a dozen years after founding itself against the agent at the kitchen table."
+     },
+     {
+      "t": "p",
+      "html": "The logic was arithmetic. As a broker it could earn commissions on the policies it sold instead of fees for the enquiries it passed on, and the offline outlets reached customers who would never finish a purchase online. By FY21, 9.6 million unique consumers had bought over 19 million policies through the platform; it claimed a 93.4% share of the online insurance marketplace, and Paisabazaar held 53.7% of digital credit marketplaces (company figures via YourStory). By FY24 it had served 16.6 million unique insurance buyers since inception, and the company said it processed nearly 25% of India's life insurance and over 7% of retail health cover (Wikipedia, citing Frost & Sullivan; company claims)."
+     }
+    ]
+   },
+   {
+    "heading": "6. The IPO and the crash",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "On 15 November 2021, at the peak of India's pandemic listing boom, <a href=\"https://en.wikipedia.org/wiki/Policybazaar\" target=\"_blank\" rel=\"noopener\">PB Fintech</a> (the listed parent of Policybazaar and Paisabazaar, NSE: POLICYBZR) listed after raising ₹5,625 crore in its IPO (Wikipedia). The market's verdict on loss-making consumer internet arrived within months: the stock tanked below its issue price as investors repriced every 2021 debut (Forbes India, February 2022). The questions were the usual ones and they were fair: when would the marketing spend convert into profit, and was a company that paid for customers worth platform multiples?"
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/postipo-stocks-tank-for-policybazaars-parent-but-the-road-ahead-may-not-be-all-bumpy/73935/1\" target=\"_blank\" rel=\"noopener\">Forbes India, Feb 2022</a>"
+     }
+    ]
+   },
+   {
+    "heading": "7. The payoff",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The answer took three more years. FY24 closed with revenue of ₹3,438 crore and the company's first full-year net profit, ₹64 crore (company figures via Wikipedia). The September-2025 quarter showed the model at operating speed, and the June 2026 quarter confirmed it: Q1 FY27 net profit rose 92% year on year to ₹162.9 crore on revenue of ₹1,888.3 crore, up 40%, with the profit margin at 9% against 6% a year earlier (results, 5 August 2026; Moneycontrol, Inc42, Mint). Insurance premium through the platform grew 41% to ₹8,372 crore, led by the protection business Dahiya had preached for a decade: new protection premium up 53%, new health insurance premium up 59%. Paisabazaar added ₹127 crore of revenue, up 25%, with core loan disbursals up 33% to ₹2,776 crore and 60.6 million credit-score consumers (Moneycontrol; Mint)."
+     },
+     {
+      "t": "p",
+      "html": "The honest footnote: sequentially, profit fell 38% from the March quarter's ₹261.2 crore and revenue slipped from ₹2,061 crore, so the curve is not a straight line (Inc42). But the structural argument of the business had flipped. The company that once spent ₹100 to earn ₹10 now earns a 9% margin at scale, because renewals from millions of past policies arrive each year without a matching acquisition cost."
+     }
+    ]
+   },
+   {
+    "heading": "8. What they got wrong",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three entries in the ledger. First, the original model: a pure referral business left them hostage to both insurer budgets and the regulator's pen, and it took the 2011 near-death to force them into transactions. Second, the forays: DocPrime's bet that owning healthcare demand would feed health insurance stayed a sideshow rather than becoming the next engine (Forbes India, 2018; no scale-up has been reported since). Third, timing and price: listing into the 2021 bubble at platform multiples meant public investors who bought the IPO spent years underwater while the company grew into its valuation (Forbes India, 2022). The uncomfortable symmetry of the story is that the company founded against commission-driven selling now earns its keep as the country's largest commission-earning seller; the answer it gives is that comparison and documented advice keep the sale honest, which is precisely the claim the regulator's new draft will test."
+     }
+    ]
+   },
+   {
+    "heading": "9. The decision on the table",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Which brings the story to this week. IRDAI's October distribution draft proposes the deepest rewrite of insurance selling since the 2011 rules that nearly killed the company: prices and features shown before any personal details are taken, a ban on dark-pattern design, a documented needs assessment for every sale, and ceilings on first-year commissions of 20% for distribution companies and 25% for agents on life policies, with lower caps on health renewals (Consumer Arena's summary of the draft; comments close 25 October). The agents' federation LIAFI has answered with a demand for commissions up to 35%, legislated (Mint, 17 October). Caught between them sits the largest digital distributor in the country, whose 9% margin is built on exactly the commission economics now under review."
+     },
+     {
+      "t": "p",
+      "html": "The decision in front of Dahiya and Singh is which side of the table to sit on. Policybazaar can fight the caps alongside the agent force it once disrupted, or it can embrace the needs-based, transparent sale as the final vindication of the 2008 idea and compete on cost to serve. The draft's own logic favours the second path: if every seller must show prices openly and justify the recommendation, the comparison engine becomes the regulatory standard rather than the rebel. What would invalidate that reading: caps compressing take rates faster than the company's cost advantage widens, which will show up first in the September-quarter results now due, and in whether the final rules treat brokers and corporate agents differently. The founders who built a company on a mis-sold policy are about to find out whether the regulator now agrees with them."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://consumerarena.in/irdai-insurance-dark-patterns-proposal/\" target=\"_blank\" rel=\"noopener\">Consumer Arena on the draft</a> / <a href=\"https://www.livemint.com/insurance/news/liafi-writes-to-irdai-seeking-higher-commissions-for-insurance-agents-check-demands-11792226349270.html\" target=\"_blank\" rel=\"noopener\">Mint on the LIAFI letter</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Appendix: the numbers",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Founded",
+        "detail": "June 2008, Gurgaon, by Yashish Dahiya, Alok Bansal and Avaneesh Nirjar. Source: Wikipedia, read 18 Oct 2026."
+       },
+       {
+        "n": "2",
+        "title": "Seed",
+        "detail": "₹20 crore from Info Edge, September 2008. Source: BusinessLine, 30 Jan 2015; Forbes India, 27 Jul 2018."
+       },
+       {
+        "n": "3",
+        "title": "Early economics",
+        "detail": "₹100 spent to earn ₹10 (summer 2009); ₹100 per enquiry paid by insurers; ₹6 lakh revenue, September 2008. Source: BusinessLine, 30 Jan 2015."
+       },
+       {
+        "n": "4",
+        "title": "Regulatory cap",
+        "detail": "Advertising revenue capped at ₹1 lakh per product per year, 2011; company revenue about ₹20 crore. Source: YourStory, 15 Nov 2021."
+       },
+       {
+        "n": "5",
+        "title": "Funding",
+        "detail": "Series A $9M (2011), Series B $5M (Apr 2013), Series C $20M (May 2014, Tiger Global), Series D $40M (Apr 2015, Premji Invest), Series E $77M (2017), Series F $238M (Jun 2018, SoftBank-led, unicorn), Tencent 10% at $1.5B (Nov 2019), SoftBank +$130M (Jul 2020). Source: Wikipedia, read 18 Oct 2026; Forbes India, 2017 and 2018."
+       },
+       {
+        "n": "6",
+        "title": "Scale claims",
+        "detail": "60 million visitors a year and 125,000 transactions a month (Forbes India, 2017); 93.4% share of the online insurance marketplace, 9.6 million buyers of 19 million policies by FY21 (YourStory, 2021); 16.6 million unique insurance buyers by FY24, ~25% of India's life cover processed (Wikipedia, company and Frost & Sullivan claims)."
+       },
+       {
+        "n": "7",
+        "title": "IPO",
+        "detail": "₹5,625 crore raised; listed 15 November 2021 as PB Fintech (NSE: POLICYBZR). Source: Wikipedia, read 18 Oct 2026."
+       },
+       {
+        "n": "8",
+        "title": "FY24",
+        "detail": "Revenue ₹3,438 crore; net profit ₹64 crore, the first full-year profit. Source: company figures via Wikipedia, read 18 Oct 2026."
+       },
+       {
+        "n": "9",
+        "title": "Q1 FY27 (June 2026 quarter)",
+        "detail": "Net profit ₹162.9 crore, +92% YoY; revenue ₹1,888.3 crore, +40%; margin 9% vs 6%; insurance premium ₹8,372 crore, +41%; new protection premium +53%; new health premium +59%; Paisabazaar revenue ₹127 crore, +25%; core loan disbursals ₹2,776 crore, +33%; 60.6 million credit-score consumers. Sequentially, profit -38% and revenue lower than the March quarter. Source: results, 5 Aug 2026, via Moneycontrol, Inc42 and Mint."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Sources read",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "YourStory, 'The Turning Point' episode on Policybazaar, 15 Nov 2021.",
+       "Forbes India, Hidden Gems: 'Policybazaar: The best policy', 2017.",
+       "Forbes India, Big Bet: 'For Policybazaar, health care's the best policy', 27 Jul 2018.",
+       "Forbes India, on the post-IPO stock crash, Feb 2022.",
+       "IIT Delhi convocation interview with Yashish Dahiya, 2020.",
+       "BusinessLine, 'Compare and compete', 30 Jan 2015.",
+       "Wikipedia, Policybazaar (figures checked against the articles above), read 18 Oct 2026.",
+       "Moneycontrol, PB Fintech Q1 FY27 results, 5 Aug 2026.",
+       "Inc42, PB Fintech Q1 FY27 results, 5 Aug 2026.",
+       "Mint, PB Fintech Q1 FY27 results, 5 Aug 2026.",
+       "Mint, on the LIAFI letter to IRDAI, 17 Oct 2026.",
+       "Consumer Arena, on the IRDAI dark-patterns draft, 17 Oct 2026."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Edition 13 long read. What it got wrong is in section 8; the decision facing its founders is section 9."
+     }
+    ]
+   }
+  ]
  }
 }
