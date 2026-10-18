@@ -1067,7 +1067,7 @@
   function pushSet(txt, off) { pushLinks().forEach(function (a) { a.hidden = false; a.textContent = txt; a.style.opacity = off ? '.6' : ''; }); }
   function pushRefresh() {
     if (!pushSupported()) { var standalone = window.navigator.standalone === false && /iPhone|iPad/.test(navigator.userAgent); if (standalone) pushSet('Add to Home Screen for alerts', true); return; }
-    if (Notification.permission === 'denied') { pushSet('Alerts blocked in settings', true); return; }
+    if (Notification.permission === 'denied') { pushSet('Alerts off - blocked in browser settings', true); return; }
     navigator.serviceWorker.ready.then(function (reg) { return reg.pushManager.getSubscription(); }).then(function (sub) {
       pushSet(sub && Notification.permission === 'granted' ? 'Alerts on' : 'Turn on alerts', !!sub);
     }).catch(function () {});
