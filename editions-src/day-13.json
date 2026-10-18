@@ -609,5 +609,9 @@
     ]
    }
   ]
+ },
+ "audio": {
+  "full": "audio/d13-full.m4a",
+  "quick": "audio/d13-quick.m4a"
  }
 }
