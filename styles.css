@@ -53,9 +53,9 @@ a:hover { border-bottom-color: var(--red); }
 .player-soon { font-family: 'PS Meta', sans-serif; font-weight: 600; font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--stone); border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; }
 .chart-fig svg { width: 100%; height: auto; display: block; border: 1.5px solid var(--ink); border-radius: 10px; background: #FDFBF6; padding: 6px; }
 .player-mid { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 5px; }
-.player-meta { display: flex; align-items: baseline; gap: 8px; min-width: 0; }
+.player-meta { display: flex; align-items: baseline; gap: 8px; min-width: 0; flex-wrap: wrap; row-gap: 2px; }
 .player-meta b { font-family: 'PS Meta', sans-serif; font-weight: 800; font-size: 12px; letter-spacing: .13em; font-variant-caps: all-small-caps; }
-.player-meta span { font-family: 'PS Meta', sans-serif; font-weight: 500; font-size: 12px; opacity: .7; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.player-meta span { font-family: 'PS Meta', sans-serif; font-weight: 500; font-size: 12px; opacity: .7; }
 .player-track { height: 4px; border-radius: 2px; background: rgba(138,129,114,.3); overflow: hidden; }
 .player-fill { height: 100%; width: 0%; background: var(--red); border-radius: 2px; transition: width .2s linear; }
 .player-right { display: flex; align-items: center; gap: 8px; flex: none; }
