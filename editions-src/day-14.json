@@ -7,7 +7,7 @@
  },
  "edition": {
   "title": "Morning paper, Monday 19 October 2026",
-  "fact": "Monday 19 October 2026, edition 14. The Nifty 50 closed Friday at 23,146.15, up 2.78% on the week. Jio Platforms' anchor book opens today, four IPOs close today, and markets are shut tomorrow for Dussehra. The long read is Zoho.",
+  "fact": "Edition 14. Anchor day for India's largest IPO; Saturday's banks face their first vote. Monday 19 October 2026: the Nifty 50 closed Friday at 23,146.15, up 2.78% on the week. Jio Platforms' anchor book opens today, four IPOs close today, and markets are shut tomorrow for Dussehra. The long read is Zoho.",
   "intro": "The lead route below takes about 5 minutes. Sections after it carry the detail. Today the anchor book of India's largest-ever IPO decides who gets in early, while the stock market gives its first verdict on Saturday's bank results after a day to digest them.",
   "hero": {
    "t": "figure",
@@ -26,7 +26,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "<strong>Jio anchor day:</strong> institutions bid today for the roughly ₹8,000 crore anchor book of Jio Platforms' ₹30,213 crore IPO (band ₹1,065 to ₹1,119). Mint reports nearly ₹2.5 lakh crore of indicated interest. The issue opens Wednesday."
+      "html": "<strong>Jio anchor day:</strong> institutions bid today for the roughly \u20b98,000 crore anchor book of Jio Platforms' \u20b930,213 crore IPO (band \u20b91,065 to \u20b91,119). Mint reports nearly \u20b92.5 lakh crore of indicated interest. The issue opens Wednesday."
      },
      {
       "t": "p",
@@ -34,11 +34,11 @@
      },
      {
       "t": "p",
-      "html": "<strong>Insurance:</strong> banks are counting the cost of IRDAI's proposed commission caps: RBL Bank estimates a 50 to 60% hit to bancassurance income and Canara Bank up to ₹200 crore. Comments on the draft close Sunday 25 October."
+      "html": "<strong>Insurance:</strong> banks are counting the cost of IRDAI's proposed commission caps: RBL Bank estimates a 50 to 60% hit to bancassurance income and Canara Bank up to \u20b9200 crore. Comments on the draft close Sunday 25 October."
      },
      {
       "t": "p",
-      "html": "<strong>Economy:</strong> the Cabinet cleared the sale of 60.72% of IDBI Bank to Fairfax for ₹52,878 crore, and the finance minister blamed excess liquidity and easy exits for the market's 12% slide this year."
+      "html": "<strong>Economy:</strong> the Cabinet cleared the sale of 60.72% of IDBI Bank to Fairfax for \u20b952,878 crore, and the finance minister blamed excess liquidity and easy exits for the market's 12% slide this year."
      },
      {
       "t": "p",
@@ -50,7 +50,7 @@
      },
      {
       "t": "p",
-      "html": "<strong>Long read:</strong> Zoho never raised a rupee of venture money, crossed ₹12,313 crore of revenue, and is now freezing pay as AI squeezes software economics."
+      "html": "<strong>Long read:</strong> Zoho never raised a rupee of venture money, crossed \u20b912,313 crore of revenue, and is now freezing pay as AI squeezes software economics."
      }
     ]
    },
@@ -59,7 +59,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "The first question is what Saturday's bank results are worth. My read: ICICI Bank gains and leads the private-bank pack today, HDFC Bank sags as the market works through its record-low 3.16% margin, and the Bank Nifty underperforms the Nifty 50 on the day. The numbers support a split verdict, not a uniform rally: the best quarter (ICICI's) was genuinely strong, the biggest bank's was thin underneath, and Axis's 37.6% profit jump still landed below what the street had pencilled in. My confidence: moderate. What would prove me wrong by the close: HDFC Bank finishing more than 1% higher, or the Bank Nifty beating the Nifty 50. The second question is whether Jio's anchor book confirms the reported demand. If the book fills with the sovereign funds named in the reporting (ADIA, QIA, GIC, Norges, Mubadala, BlackRock), expect the grey market premium, ₹235 on Sunday, to hold into Wednesday's open; a book that fills mostly with domestic mutual funds instead would say global money balked at the price. Note the counterweight underneath the excitement: Jio's revenue per user has barely moved, ₹215.6 a month at the end of March from ₹214 the previous quarter, and the IPO asks ₹10.3 lakh crore for the company anyway."
+      "html": "The first question is what Saturday's bank results are worth. My read: ICICI Bank gains and leads the private-bank pack today, HDFC Bank sags as the market works through its record-low 3.16% margin, and the Bank Nifty underperforms the Nifty 50 on the day. The numbers support a split verdict, not a uniform rally: the best quarter (ICICI's) was genuinely strong, the biggest bank's was thin underneath, and Axis's 37.6% profit jump still landed below what the street had pencilled in. My confidence: moderate. What would prove me wrong by the close: HDFC Bank finishing more than 1% higher, or the Bank Nifty beating the Nifty 50. The second question is whether Jio's anchor book confirms the reported demand. If the book fills with the sovereign funds named in the reporting (ADIA, QIA, GIC, Norges, Mubadala, BlackRock), expect the grey market premium, \u20b9235 on Sunday, to hold into Wednesday's open; a book that fills mostly with domestic mutual funds instead would say global money balked at the price. Note the counterweight underneath the excitement: Jio's revenue per user has barely moved, \u20b9215.6 a month at the end of March from \u20b9214 the previous quarter, and the IPO asks \u20b910.3 lakh crore for the company anyway."
      },
      {
       "t": "p",
@@ -72,20 +72,20 @@
     "blocks": [
      {
       "t": "story",
-      "title": "Jio's anchor day: a reported ₹2.5 lakh crore of interest for an ₹8,000 crore book",
+      "title": "Jio's anchor day: a reported \u20b92.5 lakh crore of interest for an \u20b98,000 crore book",
       "kicker": "IPO"
      },
      {
       "t": "p",
-      "html": "Anchor investors place their bids today for Jio Platforms, India's largest public issue ever: up to 27 crore fresh shares at ₹1,065 to ₹1,119 apiece, raising up to ₹30,213 crore and valuing the company at about ₹10.3 lakh crore at the top of the band. The anchor book is roughly ₹8,000 crore; Mint reports indicated interest of nearly ₹2.5 lakh crore across sovereign funds (ADIA, QIA, GIC, Norges, Mubadala), asset managers (BlackRock, Fidelity, the Goldman Sachs and Franklin Templeton arms), LIC and about 15 domestic mutual funds. By rule, up to 60% of the QIB portion can go to anchors, and half of the anchor portion is reserved for domestic mutual funds. There is no offer-for-sale: Meta, Google, KKR, Silver Lake and General Atlantic all stay put, and the money goes to the company, mostly to prepay up to ₹27,500 crore of Reliance Jio Infocomm's borrowings."
+      "html": "Anchor investors place their bids today for Jio Platforms, India's largest public issue ever: up to 27 crore fresh shares at \u20b91,065 to \u20b91,119 apiece, raising up to \u20b930,213 crore and valuing the company at about \u20b910.3 lakh crore at the top of the band. The anchor book is roughly \u20b98,000 crore; Mint reports indicated interest of nearly \u20b92.5 lakh crore across sovereign funds (ADIA, QIA, GIC, Norges, Mubadala), asset managers (BlackRock, Fidelity, the Goldman Sachs and Franklin Templeton arms), LIC and about 15 domestic mutual funds. By rule, up to 60% of the QIB portion can go to anchors, and half of the anchor portion is reserved for domestic mutual funds. There is no offer-for-sale: Meta, Google, KKR, Silver Lake and General Atlantic all stay put, and the money goes to the company, mostly to prepay up to \u20b927,500 crore of Reliance Jio Infocomm's borrowings."
      },
      {
       "t": "p",
-      "html": "Two sweeteners widen the tent: a reservation of up to ₹2,500 crore for anyone who held Reliance Industries shares as of 14 October, and ₹500 crore for employees at a ₹54 discount. Retail's minimum ticket is 12 shares, ₹13,428 at the top of the band. The grey market premium stood at about ₹235 on Sunday, roughly 21% over the cap price, after climbing from ₹148 on 4 October (unofficial tracker data). Uday Kotak, whose bank leads the issue, said the band was \"priced for investors to have returns in this IPO.\" The fundamental question underneath: monthly revenue per user has gone from ₹214 to ₹215.6 in two quarters, and managing director Akash Ambani is asking investors to price the upside from services beyond licensed telecom, naming voice AI as an example. Allotment is due 26 October, listing 28 October."
+      "html": "Two sweeteners widen the tent: a reservation of up to \u20b92,500 crore for anyone who held Reliance Industries shares as of 14 October, and \u20b9500 crore for employees at a \u20b954 discount. Retail's minimum ticket is 12 shares, \u20b913,428 at the top of the band. The grey market premium stood at about \u20b9235 on Sunday, roughly 21% over the cap price, after climbing from \u20b9148 on 4 October (unofficial tracker data). Uday Kotak, whose bank leads the issue, said the band was \"priced for investors to have returns in this IPO.\" The fundamental question underneath: monthly revenue per user has gone from \u20b9214 to \u20b9215.6 in two quarters, and managing director Akash Ambani is asking investors to price the upside from services beyond licensed telecom, naming voice AI as an example. Allotment is due 26 October, listing 28 October."
      },
      {
       "t": "chart",
-      "svg": "<svg viewBox=\"0 0 720 250\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Jio Platforms grey market premium per share, 4 to 16 October 2026, rising from 148 to 221 rupees\"><line x1=\"60\" x2=\"700\" y1=\"210\" y2=\"210\" stroke=\"#555\"></line><g><rect x=\"66\" y=\"98.43076923076923\" width=\"37.23076923076923\" height=\"111.56923076923077\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"84.61538461538461\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">4 Oct</text><text x=\"84.61538461538461\" y=\"92.43076923076923\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹148</text></g><g><rect x=\"115.23076923076923\" y=\"92.4\" width=\"37.23076923076923\" height=\"117.6\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"133.84615384615384\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">5</text></g><g><rect x=\"164.46153846153845\" y=\"84.1076923076923\" width=\"37.23076923076923\" height=\"125.8923076923077\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"183.07692307692307\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">6</text></g><g><rect x=\"213.6923076923077\" y=\"72.80000000000001\" width=\"37.23076923076923\" height=\"137.2\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"232.30769230769232\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">7</text></g><g><rect x=\"262.9230769230769\" y=\"84.1076923076923\" width=\"37.23076923076923\" height=\"125.8923076923077\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"281.53846153846155\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">8</text></g><g><rect x=\"312.1538461538462\" y=\"79.5846153846154\" width=\"37.23076923076923\" height=\"130.4153846153846\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"330.76923076923083\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">9</text></g><g><rect x=\"361.3846153846154\" y=\"81.09230769230768\" width=\"37.23076923076923\" height=\"128.90769230769232\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"380.00000000000006\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">10</text></g><g><rect x=\"410.61538461538464\" y=\"80.33846153846153\" width=\"37.23076923076923\" height=\"129.66153846153847\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"429.2307692307693\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">11</text></g><g><rect x=\"459.84615384615387\" y=\"72.80000000000001\" width=\"37.23076923076923\" height=\"137.2\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"478.4615384615385\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">12</text></g><g><rect x=\"509.0769230769231\" y=\"45.66153846153847\" width=\"37.23076923076923\" height=\"164.33846153846153\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"527.6923076923077\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">13</text></g><g><rect x=\"558.3076923076924\" y=\"54.70769230769233\" width=\"37.23076923076923\" height=\"155.29230769230767\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"576.923076923077\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">14</text></g><g><rect x=\"607.5384615384615\" y=\"43.400000000000006\" width=\"37.23076923076923\" height=\"166.6\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"626.1538461538462\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">15</text></g><g><rect x=\"656.7692307692308\" y=\"43.400000000000006\" width=\"37.23076923076923\" height=\"166.6\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"675.3846153846155\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">16 Oct</text><text x=\"675.3846153846155\" y=\"37.400000000000006\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹221</text></g><text x=\"0\" y=\"12\" fontSize=\"14\" fill=\"#555\">Jio Platforms grey market premium per share, 4-16 Oct 2026 (investorgain.com, unofficial). Mint put it at ₹235 on Sunday 18 Oct.</text></svg>"
+      "svg": "<svg viewBox=\"0 0 720 250\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Jio Platforms grey market premium per share, 4 to 16 October 2026, rising from 148 to 221 rupees\"><line x1=\"60\" x2=\"700\" y1=\"210\" y2=\"210\" stroke=\"#555\"></line><g><rect x=\"66\" y=\"98.43076923076923\" width=\"37.23076923076923\" height=\"111.56923076923077\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"84.61538461538461\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">4 Oct</text><text x=\"84.61538461538461\" y=\"92.43076923076923\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">\u20b9148</text></g><g><rect x=\"115.23076923076923\" y=\"92.4\" width=\"37.23076923076923\" height=\"117.6\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"133.84615384615384\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">5</text></g><g><rect x=\"164.46153846153845\" y=\"84.1076923076923\" width=\"37.23076923076923\" height=\"125.8923076923077\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"183.07692307692307\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">6</text></g><g><rect x=\"213.6923076923077\" y=\"72.80000000000001\" width=\"37.23076923076923\" height=\"137.2\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"232.30769230769232\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">7</text></g><g><rect x=\"262.9230769230769\" y=\"84.1076923076923\" width=\"37.23076923076923\" height=\"125.8923076923077\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"281.53846153846155\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">8</text></g><g><rect x=\"312.1538461538462\" y=\"79.5846153846154\" width=\"37.23076923076923\" height=\"130.4153846153846\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"330.76923076923083\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">9</text></g><g><rect x=\"361.3846153846154\" y=\"81.09230769230768\" width=\"37.23076923076923\" height=\"128.90769230769232\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"380.00000000000006\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">10</text></g><g><rect x=\"410.61538461538464\" y=\"80.33846153846153\" width=\"37.23076923076923\" height=\"129.66153846153847\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"429.2307692307693\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">11</text></g><g><rect x=\"459.84615384615387\" y=\"72.80000000000001\" width=\"37.23076923076923\" height=\"137.2\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"478.4615384615385\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">12</text></g><g><rect x=\"509.0769230769231\" y=\"45.66153846153847\" width=\"37.23076923076923\" height=\"164.33846153846153\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"527.6923076923077\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">13</text></g><g><rect x=\"558.3076923076924\" y=\"54.70769230769233\" width=\"37.23076923076923\" height=\"155.29230769230767\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"576.923076923077\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">14</text></g><g><rect x=\"607.5384615384615\" y=\"43.400000000000006\" width=\"37.23076923076923\" height=\"166.6\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"626.1538461538462\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">15</text></g><g><rect x=\"656.7692307692308\" y=\"43.400000000000006\" width=\"37.23076923076923\" height=\"166.6\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"675.3846153846155\" y=\"228\" textAnchor=\"middle\" fontSize=\"13\" fill=\"#555\">16 Oct</text><text x=\"675.3846153846155\" y=\"37.400000000000006\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">\u20b9221</text></g><text x=\"0\" y=\"12\" fontSize=\"14\" fill=\"#555\">Jio Platforms grey market premium per share, 4-16 Oct 2026 (investorgain.com, unofficial). Mint put it at \u20b9235 on Sunday 18 Oct.</text></svg>"
      },
      {
       "t": "p",
@@ -102,7 +102,7 @@
      },
      {
       "t": "p",
-      "html": "Friday's close gave investors their last look at bank prices before the first big results weekend of the season; today they get to act. What they are pricing: ICICI Bank's standalone profit rose 20.1% to ₹14,843 crore with interest income up 17.7% to ₹25,339 crore, both ahead of estimates, and asset quality improved. HDFC Bank's ₹19,510 crore, up 4.7%, was in line, but the margin on its lending hit a record low of 3.16% and treasury income fell 67.4%; interest income grew 9.7%. Axis Bank's profit jumped 37.6% to ₹7,003 crore, helped by a low base, yet still missed what analysts expected, even as interest income of ₹15,372 crore beat; gross bad loans fell to 1.16% of the book. The quarter's trap for headline readers is IDBI Bank: profit fell 39% to about ₹2,205 crore, but excluding the year-ago one-off gain from selling its NSDL stake, profit actually rose 14%, with interest income up 28.7% and margin at 4.11%. Yes Bank's profit rose 65% to ₹1,080 crore and Central Bank of India's rose 21.1% to ₹1,469 crore, with the latter's board approving up to ₹7,000 crore of bond fundraising."
+      "html": "Friday's close gave investors their last look at bank prices before the first big results weekend of the season; today they get to act. What they are pricing: ICICI Bank's standalone profit rose 20.1% to \u20b914,843 crore with interest income up 17.7% to \u20b925,339 crore, both ahead of estimates, and asset quality improved. HDFC Bank's \u20b919,510 crore, up 4.7%, was in line, but the margin on its lending hit a record low of 3.16% and treasury income fell 67.4%; interest income grew 9.7%. Axis Bank's profit jumped 37.6% to \u20b97,003 crore, helped by a low base, yet still missed what analysts expected, even as interest income of \u20b915,372 crore beat; gross bad loans fell to 1.16% of the book. The quarter's trap for headline readers is IDBI Bank: profit fell 39% to about \u20b92,205 crore, but excluding the year-ago one-off gain from selling its NSDL stake, profit actually rose 14%, with interest income up 28.7% and margin at 4.11%. Yes Bank's profit rose 65% to \u20b91,080 crore and Central Bank of India's rose 21.1% to \u20b91,469 crore, with the latter's board approving up to \u20b97,000 crore of bond fundraising."
      },
      {
       "t": "p",
@@ -119,7 +119,7 @@
      },
      {
       "t": "p",
-      "html": "The regulator's draft cap on insurance commissions stopped being an industry story over the weekend and became a bank-earnings story. RBL Bank estimates its bancassurance income could fall 50 to 60% if the proposals pass as drafted; Canara Bank puts the hit to distribution income at up to ₹200 crore, of which ₹120 to 145 crore is from life insurance. The large private banks are more sanguine: ICICI Bank says third-party products are under 1% of its total income; HDFC Bank's CFO called the commission cuts \"quite high\" but pointed to possible offsetting gains from better persistency and volumes; Axis Bank says it will chase volumes, product mix and a bigger share of partners' business. IIFL Capital sizes the industry's bancassurance income pool at about $2.2 billion after three years of 28% annual growth, contributing nearly 10% of banks' fee income and about 3% of sector profits, with the contribution highest at Axis, HDFC and Kotak. The draft proposes separate, higher caps for individual distributors than for corporate ones, on the logic that a person spends more effort selling than a bank branch does. Banks are preparing their feedback now; comments close Sunday 25 October."
+      "html": "The regulator's draft cap on insurance commissions stopped being an industry story over the weekend and became a bank-earnings story. RBL Bank estimates its bancassurance income could fall 50 to 60% if the proposals pass as drafted; Canara Bank puts the hit to distribution income at up to \u20b9200 crore, of which \u20b9120 to 145 crore is from life insurance. The large private banks are more sanguine: ICICI Bank says third-party products are under 1% of its total income; HDFC Bank's CFO called the commission cuts \"quite high\" but pointed to possible offsetting gains from better persistency and volumes; Axis Bank says it will chase volumes, product mix and a bigger share of partners' business. IIFL Capital sizes the industry's bancassurance income pool at about $2.2 billion after three years of 28% annual growth, contributing nearly 10% of banks' fee income and about 3% of sector profits, with the contribution highest at Axis, HDFC and Kotak. The draft proposes separate, higher caps for individual distributors than for corporate ones, on the logic that a person spends more effort selling than a bank branch does. Banks are preparing their feedback now; comments close Sunday 25 October."
      },
      {
       "t": "p",
@@ -132,7 +132,7 @@
      },
      {
       "t": "p",
-      "html": "Speaking to CNBC on the sidelines of the IMF-World Bank meetings in Bangkok, Nirmala Sitharaman blamed India's 12% equity-market slide this year partly on the market itself: \"Because of the ease of liquidity, ease of availability, people are even exiting easily.\" She called capital outflows one of India's biggest risks for 2027 (foreign investors have sold over $33 billion of Indian equities this year, per NSDL), and argued India would not be \"hurt\" if the global AI bubble bursts because the AI money never came here. The data behind the underperformance claim is stark: Taiwan and Korea now hold 29% and 22% of the MSCI Asia Pacific ex-Japan index while India's weight has compressed from 19% to 10% (Goldman Sachs), and 63% of the $60.4 billion raised in Indian IPOs from 2021 to 2025 went to selling shareholders rather than to companies (EY). Against that: domestic mutual funds have taken net inflows every month since March 2021, and domestic institutions absorbed most of last week's foreign selling. Separately, the Cabinet cleared the biggest financial-sector FDI India has done: Fairfax Financial takes 60.72% of IDBI Bank for ₹52,878 crore, targeted to close this financial year."
+      "html": "Speaking to CNBC on the sidelines of the IMF-World Bank meetings in Bangkok, Nirmala Sitharaman blamed India's 12% equity-market slide this year partly on the market itself: \"Because of the ease of liquidity, ease of availability, people are even exiting easily.\" She called capital outflows one of India's biggest risks for 2027 (foreign investors have sold over $33 billion of Indian equities this year, per NSDL), and argued India would not be \"hurt\" if the global AI bubble bursts because the AI money never came here. The data behind the underperformance claim is stark: Taiwan and Korea now hold 29% and 22% of the MSCI Asia Pacific ex-Japan index while India's weight has compressed from 19% to 10% (Goldman Sachs), and 63% of the $60.4 billion raised in Indian IPOs from 2021 to 2025 went to selling shareholders rather than to companies (EY). Against that: domestic mutual funds have taken net inflows every month since March 2021, and domestic institutions absorbed most of last week's foreign selling. Separately, the Cabinet cleared the biggest financial-sector FDI India has done: Fairfax Financial takes 60.72% of IDBI Bank for \u20b952,878 crore, targeted to close this financial year."
      },
      {
       "t": "p",
@@ -188,12 +188,12 @@
      },
      {
       "t": "story",
-      "title": "Indian AI money: a ₹3,000 crore growth fund with Nandan Nilekani as anchor",
+      "title": "Indian AI money: a \u20b93,000 crore growth fund with Nandan Nilekani as anchor",
       "kicker": "Funding"
      },
      {
       "t": "p",
-      "html": "Fundamentum Frontier Advisors raised ₹3,000 crore in subscriptions for a growth-stage AI and deeptech fund, with Nandan Nilekani anchoring and mentoring; the fund plans to write ₹100 to 200 crore cheques into 12 to 15 companies over two to three years. The week's deal flow backed the theme: AI agent startup RapidCanvas raised $29 million from Vertex Ventures, AI video platform Clueso $10 million from Dharana Capital, AI gaming studio Spill Games $10.5 million from Elevation Capital, and seed rounds for Parallel Loop ($6.6 million) and Shamrock AI ($5 million). Overall, 28 Indian startups raised $302.85 million in the week to 17 October, 2.7 times the previous week, led by Tessolve Semiconductor's $75 million round."
+      "html": "Fundamentum Frontier Advisors raised \u20b93,000 crore in subscriptions for a growth-stage AI and deeptech fund, with Nandan Nilekani anchoring and mentoring; the fund plans to write \u20b9100 to 200 crore cheques into 12 to 15 companies over two to three years. The week's deal flow backed the theme: AI agent startup RapidCanvas raised $29 million from Vertex Ventures, AI video platform Clueso $10 million from Dharana Capital, AI gaming studio Spill Games $10.5 million from Elevation Capital, and seed rounds for Parallel Loop ($6.6 million) and Shamrock AI ($5 million). Overall, 28 Indian startups raised $302.85 million in the week to 17 October, 2.7 times the previous week, led by Tessolve Semiconductor's $75 million round."
      },
      {
       "t": "p",
@@ -211,7 +211,7 @@
      },
      {
       "t": "p",
-      "html": "The Nifty 50 rose 2.78% to 23,146.15 last week and the Sensex 3.11% to 74,729.27, a second straight weekly gain after the eight-week slide, the longest in 25 years. The NSE's own index files show how narrow the leadership was: Nifty IT rose 11.72% (its results season, plus what traders are calling the reverse-AI trade as money rotates out of crowded AI names), Media 6.11%, Auto 3.65%. The laggards were Healthcare (-1.08%), Pharma (-0.69%), FMCG (-0.55%) and PSU banks (-0.39%). Foreign investors sold ₹15,440 crore through the week; domestic institutions bought ₹14,792 crore, nearly cancelling it out. The rupee had its own recovery: six straight sessions of gains, up 2% on the week to 94.95 per dollar, the best-performing emerging-market currency, after RBI measures to curb dollar demand. Brent ended at $105.6 a barrel."
+      "html": "The Nifty 50 rose 2.78% to 23,146.15 last week and the Sensex 3.11% to 74,729.27, a second straight weekly gain after the eight-week slide, the longest in 25 years. The NSE's own index files show how narrow the leadership was: Nifty IT rose 11.72% (its results season, plus what traders are calling the reverse-AI trade as money rotates out of crowded AI names), Media 6.11%, Auto 3.65%. The laggards were Healthcare (-1.08%), Pharma (-0.69%), FMCG (-0.55%) and PSU banks (-0.39%). Foreign investors sold \u20b915,440 crore through the week; domestic institutions bought \u20b914,792 crore, nearly cancelling it out. The rupee had its own recovery: six straight sessions of gains, up 2% on the week to 94.95 per dollar, the best-performing emerging-market currency, after RBI measures to curb dollar demand. Brent ended at $105.6 a barrel."
      },
      {
       "t": "chart",
@@ -241,7 +241,7 @@
      },
      {
       "t": "p",
-      "html": "Tech Mahindra, up 18% for the week: profit grew 32.8% to ₹1,586 crore in the September quarter, the board declared a ₹15 interim dividend and a 1:1 bonus, and Jefferies upgraded the stock. TCS, up 14%, and Infosys, up 12.5%: the same earnings-driven IT rotation, with results anchoring it. Onward Technologies, up 20% on Friday alone (upper circuit): September-quarter profit rose 41.7% to ₹17 crore and revenue 22.4% to ₹170.2 crore, with operating margin expanding a point to 15.6%. Where the reason is not publicly clear, the mover is left out rather than guessed."
+      "html": "Tech Mahindra, up 18% for the week: profit grew 32.8% to \u20b91,586 crore in the September quarter, the board declared a \u20b915 interim dividend and a 1:1 bonus, and Jefferies upgraded the stock. TCS, up 14%, and Infosys, up 12.5%: the same earnings-driven IT rotation, with results anchoring it. Onward Technologies, up 20% on Friday alone (upper circuit): September-quarter profit rose 41.7% to \u20b917 crore and revenue 22.4% to \u20b9170.2 crore, with operating margin expanding a point to 15.6%. Where the reason is not publicly clear, the mover is left out rather than guessed."
      },
      {
       "t": "p",
@@ -259,7 +259,7 @@
      },
      {
       "t": "p",
-      "html": "Subscription status at Friday's close, the last reading before today's final day: Tonbo Imaging 7.77 times (retail 7.12x, non-institutional 14.35x), Sahajanand Medical Technologies 0.82 times, Bonfiglioli Transmissions 0.99 times and Zetwerk 0.31 times. Grey market premiums on Sunday implied listings 72% above the issue price for Tonbo (₹1,205 against ₹700), 22% for Bonfiglioli, 6.4% for Sahajanand and 4.6% for Zetwerk. Zetwerk is the size play of the four (a ₹5,012 crore issue with a ₹2,830 crore fresh component, the rest an offer-for-sale) and it softened last week despite a ₹2,251 crore anchor book that included Capital Group's two arms (about ₹288 crore, 12.88% of the anchor allocation), Prashant Jain's 3P India Equity Fund, BlackRock, Goldman Sachs, Nomura, Société Générale, Manulife and Prudential. Worth a closer look: Tonbo, the defence-optics maker, on retail demand and grey-market signal; what would make that wrong is a cold Friday listing session for the whole cohort, or day-three subscription that fades instead of accelerating as final-day retail piles in. All four list on Friday 23 October."
+      "html": "Subscription status at Friday's close, the last reading before today's final day: Tonbo Imaging 7.77 times (retail 7.12x, non-institutional 14.35x), Sahajanand Medical Technologies 0.82 times, Bonfiglioli Transmissions 0.99 times and Zetwerk 0.31 times. Grey market premiums on Sunday implied listings 72% above the issue price for Tonbo (\u20b91,205 against \u20b9700), 22% for Bonfiglioli, 6.4% for Sahajanand and 4.6% for Zetwerk. Zetwerk is the size play of the four (a \u20b95,012 crore issue with a \u20b92,830 crore fresh component, the rest an offer-for-sale) and it softened last week despite a \u20b92,251 crore anchor book that included Capital Group's two arms (about \u20b9288 crore, 12.88% of the anchor allocation), Prashant Jain's 3P India Equity Fund, BlackRock, Goldman Sachs, Nomura, Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Manulife and Prudential. Worth a closer look: Tonbo, the defence-optics maker, on retail demand and grey-market signal; what would make that wrong is a cold Friday listing session for the whole cohort, or day-three subscription that fades instead of accelerating as final-day retail piles in. All four list on Friday 23 October."
      },
      {
       "t": "p",
@@ -272,7 +272,7 @@
      },
      {
       "t": "p",
-      "html": "Paras Healthcare's ₹1,450 crore issue (band ₹660 to ₹693, minimum 21 shares, ₹14,553 at the top) combines a ₹500 crore fresh issue with a ₹950 crore offer-for-sale. The chain runs eight hospitals with 2,211 beds across Gurugram, Panchkula, Patna and five other cities, turned a ₹43.83 crore profit in FY26 after a ₹57.98 crore loss in FY25, and plans to add 800 beds by March 2028. Both Paras and Jio close on Friday and are scheduled to list on 28 October. The week's listing queue: HD Fire Protect on Wednesday, Fusion CX on Thursday, and Tonbo, Zetwerk, Bonfiglioli and Sahajanand on Friday."
+      "html": "Paras Healthcare's \u20b91,450 crore issue (band \u20b9660 to \u20b9693, minimum 21 shares, \u20b914,553 at the top) combines a \u20b9500 crore fresh issue with a \u20b9950 crore offer-for-sale. The chain runs eight hospitals with 2,211 beds across Gurugram, Panchkula, Patna and five other cities, turned a \u20b943.83 crore profit in FY26 after a \u20b957.98 crore loss in FY25, and plans to add 800 beds by March 2028. Both Paras and Jio close on Friday and are scheduled to list on 28 October. The week's listing queue: HD Fire Protect on Wednesday, Fusion CX on Thursday, and Tonbo, Zetwerk, Bonfiglioli and Sahajanand on Friday."
      },
      {
       "t": "p",
@@ -285,12 +285,12 @@
     "blocks": [
      {
       "t": "story",
-      "title": "JSW Steel gets ₹2,169 crore of Odisha mining demands struck or sent back",
+      "title": "JSW Steel gets \u20b92,169 crore of Odisha mining demands struck or sent back",
       "kicker": "Courts"
      },
      {
       "t": "p",
-      "html": "The Odisha High Court quashed a ₹696.32 crore demand against JSW Steel for a first-year mineral-dispatch shortfall at its Jajang iron ore block, and set aside a separate ₹1,472.69 crore demand for the fifth year, sending it back to the mining authority for fresh consideration under the legal position the court set out in an April judgment. Both demands were raised under Rule 12-A of the mineral concession rules, which penalises dispatch shortfalls; the judgments were pronounced on 16 October and disclosed by the company on Sunday. For JSW, which reports results on Friday, the timing is convenient: a potential ₹2,169 crore overhang shrinks to one remanded case."
+      "html": "The Odisha High Court quashed a \u20b9696.32 crore demand against JSW Steel for a first-year mineral-dispatch shortfall at its Jajang iron ore block, and set aside a separate \u20b91,472.69 crore demand for the fifth year, sending it back to the mining authority for fresh consideration under the legal position the court set out in an April judgment. Both demands were raised under Rule 12-A of the mineral concession rules, which penalises dispatch shortfalls; the judgments were pronounced on 16 October and disclosed by the company on Sunday. For JSW, which reports results on Friday, the timing is convenient: a potential \u20b92,169 crore overhang shrinks to one remanded case."
      },
      {
       "t": "p",
@@ -316,7 +316,7 @@
      },
      {
       "t": "p",
-      "html": "Groww's parent Billionbrains Garage Ventures reported a 54% rise in quarterly profit to ₹725.6 crore on revenue up 44% to ₹1,541 crore, while equity-derivatives revenue fell 14.3% quarter on quarter, which the company attributes largely to SEBI's closing auction system, live since 3 August. Derivatives now contribute 45% of revenue. Read together with last week's circular pushing the auction to a 3:30-3:40 pm window from 7 December, the exchange-minutes-to-revenue pipeline is now a disclosed, measurable line in a listed broker's numbers."
+      "html": "Groww's parent Billionbrains Garage Ventures reported a 54% rise in quarterly profit to \u20b9725.6 crore on revenue up 44% to \u20b91,541 crore, while equity-derivatives revenue fell 14.3% quarter on quarter, which the company attributes largely to SEBI's closing auction system, live since 3 August. Derivatives now contribute 45% of revenue. Read together with last week's circular pushing the auction to a 3:30-3:40 pm window from 7 December, the exchange-minutes-to-revenue pipeline is now a disclosed, measurable line in a listed broker's numbers."
      },
      {
       "t": "p",
@@ -330,10 +330,10 @@
      {
       "t": "bullets",
       "items": [
-       "Urban Company approved raising up to ₹2,500 crore through equity and convertible securities, including a possible QIP, as competition in its InstaHelp quick-services vertical from Snabbit and Pronto intensifies; shareholder and regulatory approvals are still needed.",
+       "Urban Company approved raising up to \u20b92,500 crore through equity and convertible securities, including a possible QIP, as competition in its InstaHelp quick-services vertical from Snabbit and Pronto intensifies; shareholder and regulatory approvals are still needed.",
        "Nazara Technologies founder Nitish Mittersain will step down as managing director to become founder and non-executive director; Mithun Padam Sacheti becomes executive director and Arun Agrawal joins as CFO.",
-       "NPCI deferred the planned 15 October rollout of MDR on select UPI transactions until after Diwali; the September framework charges 0.4% (capped at ₹300) on eligible merchant transactions above ₹2,000.",
-       "Qualcomm Ventures sold a further 0.98% of Shadowfax Technologies for ₹157.28 crore, taking its open-market exits to about ₹341 crore across two sales; it held 2.26% at the end of June."
+       "NPCI deferred the planned 15 October rollout of MDR on select UPI transactions until after Diwali; the September framework charges 0.4% (capped at \u20b9300) on eligible merchant transactions above \u20b92,000.",
+       "Qualcomm Ventures sold a further 0.98% of Shadowfax Technologies for \u20b9157.28 crore, taking its open-market exits to about \u20b9341 crore across two sales; it held 2.26% at the end of June."
       ]
      },
      {
@@ -352,7 +352,7 @@
      },
      {
       "t": "p",
-      "html": "Indian startup funding jumped 2.7 times week on week to $302.85 million across 28 deals in the week to 17 October. Growth-stage deals took $220.37 million: Tessolve Semiconductor's $75 million from Vector Line Capital led, followed by sports brand Boldfit's ₹400 crore Series B from Bharat Value Fund, RapidCanvas's $29 million and Scimplify's $25 million from Hitachi Ventures. Early-stage added $82.48 million across 21 deals, led by Mesa School of Business's ₹110 crore. The pattern to note: five AI deals in a week when the sector's growth capital also found a dedicated ₹3,000 crore vehicle (see AI section). Also on the launch pad: boAt entered Sri Lanka and Bhutan, Swiggy turned on multi-restaurant ordering for the festive season, and CoinSwitch Ventures rebranded to BlackLane Capital with a wider mandate."
+      "html": "Indian startup funding jumped 2.7 times week on week to $302.85 million across 28 deals in the week to 17 October. Growth-stage deals took $220.37 million: Tessolve Semiconductor's $75 million from Vector Line Capital led, followed by sports brand Boldfit's \u20b9400 crore Series B from Bharat Value Fund, RapidCanvas's $29 million and Scimplify's $25 million from Hitachi Ventures. Early-stage added $82.48 million across 21 deals, led by Mesa School of Business's \u20b9110 crore. The pattern to note: five AI deals in a week when the sector's growth capital also found a dedicated \u20b93,000 crore vehicle (see AI section). Also on the launch pad: boAt entered Sri Lanka and Bhutan, Swiggy turned on multi-restaurant ordering for the festive season, and CoinSwitch Ventures rebranded to BlackLane Capital with a wider mandate."
      },
      {
       "t": "p",
@@ -396,7 +396,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "When you read that Jio's grey market premium is ₹235, you are reading the price of a promise. Before an IPO lists, small operators run an unofficial market where people agree to buy or sell their not-yet-allotted shares at a fixed premium over the issue price. If you are allotted shares at ₹1,119 and sell your allotment in the grey market at a ₹235 premium, the buyer pays you the premium now and the trade settles informally after listing, whatever the market price then is. Three things to hold about the number. First, it is unregulated and off-exchange: no clearing house, no guarantee, no SEBI oversight, just word and WhatsApp. Second, it is thin: a few hundred crores of informal interest can move the quoted premium, so it measures the mood of a small speculative crowd, not the value of the company. Third, it has a memory: premiums routinely collapse on listing day when the wider market gets its first real vote, and an IPO can list below its grey-implied price even after weeks of strong premiums. Use it the way this paper does: as a sentiment gauge with a date on it, never as a price target."
+      "html": "When you read that Jio's grey market premium is \u20b9235, you are reading the price of a promise. Before an IPO lists, small operators run an unofficial market where people agree to buy or sell their not-yet-allotted shares at a fixed premium over the issue price. If you are allotted shares at \u20b91,119 and sell your allotment in the grey market at a \u20b9235 premium, the buyer pays you the premium now and the trade settles informally after listing, whatever the market price then is. Three things to hold about the number. First, it is unregulated and off-exchange: no clearing house, no guarantee, no SEBI oversight, just word and WhatsApp. Second, it is thin: a few hundred crores of informal interest can move the quoted premium, so it measures the mood of a small speculative crowd, not the value of the company. Third, it has a memory: premiums routinely collapse on listing day when the wider market gets its first real vote, and an IPO can list below its grey-implied price even after weeks of strong premiums. Use it the way this paper does: as a sentiment gauge with a date on it, never as a price target."
      }
     ]
    },
@@ -469,7 +469,7 @@
        {
         "n": "4",
         "title": "IDBI-Fairfax closing",
-        "detail": "The ₹52,878 crore sale is targeted to complete this financial year; watch for RBI and CCI clearances and the open-offer terms."
+        "detail": "The \u20b952,878 crore sale is targeted to complete this financial year; watch for RBI and CCI clearances and the open-offer terms."
        }
       ]
      }
@@ -494,7 +494,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "This week: <strong>Zoho</strong>, the company that said no to venture capital in 2000, watched over 90% of its customers die in the telecom crash, rebuilt itself twice, and now faces the question it has always answered with patience: what happens when AI can write the software it sells? Thirty years, zero external money, ₹12,313 crore of revenue, and a pay freeze. <a href=\"#/longread/14\" target=\"_blank\" rel=\"noopener\">Read the Zoho story</a>."
+      "html": "This week: <strong>Zoho</strong>, the company that said no to venture capital in 2000, watched over 90% of its customers die in the telecom crash, rebuilt itself twice, and now faces the question it has always answered with patience: what happens when AI can write the software it sells? Thirty years, zero external money, \u20b912,313 crore of revenue, and a pay freeze. <a href=\"#/longread/14\" target=\"_blank\" rel=\"noopener\">Read the Zoho story</a>."
      },
      {
       "t": "closing",
