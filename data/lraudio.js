@@ -1,6 +1,7 @@
 /* Recorded long-read audio, one entry per long read (added by the publish step). */
 (function () {
   var A = window.PAPER_DATA.audio = window.PAPER_DATA.audio || {};
+  A['lr14'] = { full: 'audio/lr14-full.m4a', times: { full: 'audio/lr14-full.times.json' } };
   A['lr13'] = { full: 'audio/lr13-full.m4a', times: { full: 'audio/lr13-full.times.json' } };
   A['lr11'] = { full: 'audio/lr11-full.m4a', times: { full: 'audio/lr11-full.times.json' } };
   A['lr10'] = { full: 'audio/lr10-full.m4a', times: { full: 'audio/lr10-full.times.json' } };
