@@ -1029,6 +1029,7 @@
     else if ((m = hash.match(/^edition\/(\d+)$/))) renderEdition(parseInt(m[1], 10));
     else if ((m = hash.match(/^longread\/(\d+)$/))) renderLongread(parseInt(m[1], 10));
     else renderToday();
+    updateCardsDot();
     window.scrollTo(0, 0);
   }
   window.addEventListener('hashchange', route);
