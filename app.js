@@ -774,11 +774,25 @@
 
 
   /* ---------- cards: short news cards, newest first ---------- */
-  var LANE_NAMES = { all: 'All', markets: 'Markets', insurance: 'Insurance', fintech: 'Fintech', ai: 'AI', startups: 'Startups' };
-  var CARDS = { list: null, lane: 'all', i: 0, loading: false };
+  var LANE_NAMES = { unread: 'Unread', all: 'All', markets: 'Markets', insurance: 'Insurance', fintech: 'Fintech', ai: 'AI', startups: 'Startups' };
+  var CARDS = { list: null, lane: 'all', i: 0, loading: false, unreadSnap: null, seenT: null };
   function cardsCache() { try { return JSON.parse(localStorage.getItem('mp-cards') || 'null'); } catch (e) { return null; } }
   function seenSet() { try { return JSON.parse(localStorage.getItem('mp-seen') || '[]'); } catch (e) { return []; } }
   function markSeen(id) { var s = seenSet(); if (s.indexOf(id) < 0) { s.push(id); try { localStorage.setItem('mp-seen', JSON.stringify(s.slice(-300))); } catch (e) {} } }
+  function unseenCards() { var s = seenSet(); return (CARDS.list || []).filter(function (c) { return s.indexOf(c.id) < 0; }); }
+  function scheduleSeen(id) {
+    if (CARDS.seenT) { clearTimeout(CARDS.seenT); CARDS.seenT = null; }
+    if (!id || seenSet().indexOf(id) >= 0) return;
+    CARDS.seenT = setTimeout(function () {
+      CARDS.seenT = null;
+      markSeen(id); updateCardsDot(); updateUnreadLabel();
+      var b = document.querySelector('[data-new="' + id + '"]'); if (b) b.classList.add('off');
+    }, 1200);
+  }
+  function updateUnreadLabel() {
+    var el = document.getElementById('lane-unread-cnt'); if (!el) return;
+    var n = unseenCards().length; el.textContent = n ? n : ''; el.hidden = !n;
+  }
   function cardTime(c) {
     var d = new Date(c.at || c.publishedAt); if (isNaN(d)) return '';
     var t = d.toLocaleTimeString('en-IN', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'Asia/Kolkata' });
@@ -787,6 +801,7 @@
     return (day === today ? 'Today' : day) + ' &middot; ' + t.toUpperCase().replace(' ', '&nbsp;') + ' IST';
   }
   function filteredCards() {
+    if (CARDS.lane === 'unread') return CARDS.unreadSnap || unseenCards();
     return (CARDS.list || []).filter(function (c) { return CARDS.lane === 'all' || c.lane === CARDS.lane; });
   }
   function sane(t) {
@@ -823,7 +838,7 @@
     var tags = (c.tags || []).slice(0, 4).map(function (t) { return '<span class="ctag">' + esc(t) + '</span>'; }).join('');
     var src = (c.sources || []).map(function (x) { return '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.name) + '</a>'; }).join(' &middot; ');
     return '<section class="pg" data-id="' + esc(c.id) + '"><article class="pg-in">' +
-      '<div class="ncard-k"><span>' + esc(c.kind || LANE_NAMES[c.lane] || 'Markets') + '</span><span class="ncard-t">' + (c.timeLabel ? esc(c.timeLabel) : cardTime(c)) + '</span></div>' +
+      '<div class="ncard-k"><span>' + esc(c.kind || LANE_NAMES[c.lane] || 'Markets') + (seenSet().indexOf(c.id) < 0 ? ' <span class="ncard-new" data-new="' + esc(c.id) + '">New</span>' : '') + '</span><span class="ncard-t">' + (c.timeLabel ? esc(c.timeLabel) : cardTime(c)) + '</span></div>' +
       (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="" onerror="this.parentNode.classList.add(\'bad\')">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '<figure class="ncard-img plate-ph lane-' + esc(c.lane || 'markets') + '"><div class="ph-t">' + esc((c.tags && c.tags[0]) || LANE_NAMES[c.lane] || '') + '</div><div class="ph-s">' + esc((c.tags || []).slice(1, 3).join(' · ')) + '</div></figure>') +
       '<h2 class="ncard-h">' + esc(c.headline) + '</h2>' +
       '<p class="ncard-b">' + esc(sane(c.body)) + '</p>' +
@@ -834,7 +849,9 @@
       '</article></section>';
   }
   function endHTML() {
-    return '<section class="pg"><div class="pg-in cards-end"><div class="cards-end-k">Caught up</div><div class="cards-end-h">You\'re caught up.</div><p id="end-note">Nothing newer is waiting.</p><button class="cbtn" data-act="first">Back to the newest</button></div></section>';
+    var un = CARDS.lane === 'unread' ? 0 : unseenCards().length;
+    if (un) return '<section class="pg"><div class="pg-in cards-end"><div class="cards-end-k">Still unread</div><div class="cards-end-h">' + un + (un === 1 ? ' card' : ' cards') + ' you haven\'t read yet.</div><p id="end-note">Nothing newer is waiting.</p><button class="cbtn" data-act="unread">Read the unread ' + (un === 1 ? 'one' : '' + un) + '</button></div></section>';
+    return '<section class="pg"><div class="pg-in cards-end"><div class="cards-end-k">Caught up</div><div class="cards-end-h">You\'re all caught up for today.</div><p class="end-sub">You\'ve been through every card.</p><p id="end-note">Nothing newer is waiting.</p><button class="cbtn" data-act="first">Back to the newest</button></div></section>';
   }
   function fitPanels() {
     var ins = document.querySelectorAll('.pg-in');
@@ -857,14 +874,17 @@
     }
   }
   function renderCardsView() {
+    if (CARDS.lane === 'unread') CARDS.unreadSnap = unseenCards(); else CARDS.unreadSnap = null;
     var list = filteredCards(), n = list.length;
     document.documentElement.classList.add('cards-fs');
-    var lanes = ['all', 'markets', 'insurance', 'fintech', 'ai', 'startups'].map(function (l) {
-      return '<button class="lane' + (CARDS.lane === l ? ' on' : '') + '" data-lane="' + l + '">' + LANE_NAMES[l] + '</button>';
+    var un0 = unseenCards().length;
+    var lanes = ['unread', 'all', 'markets', 'insurance', 'fintech', 'ai', 'startups'].map(function (l) {
+      var cnt = (l === 'unread' && un0) ? ' <span class="ucnt" id="lane-unread-cnt">' + un0 + '</span>' : (l === 'unread' ? ' <span class="ucnt" id="lane-unread-cnt" hidden></span>' : '');
+      return '<button class="lane' + (CARDS.lane === l ? ' on' : '') + '" data-lane="' + l + '">' + LANE_NAMES[l] + cnt + '</button>';
     }).join('');
     var panels;
     if (CARDS.list === null) panels = '<section class="pg"><div class="pg-in cards-empty">Loading cards...</div></section>';
-    else if (!n) panels = '<section class="pg"><div class="pg-in cards-empty">' + (CARDS.list.length ? 'No cards in this lane yet.' : 'No cards yet. They appear here as the day\'s news lands.') + '</div></section>';
+    else if (!n) panels = '<section class="pg"><div class="pg-in cards-empty">' + (CARDS.lane === 'unread' ? 'No unread cards. You\'re all caught up for today.' : CARDS.list.length ? 'No cards in this lane yet.' : 'No cards yet. They appear here as the day\'s news lands.') + '</div></section>';
     else panels = list.map(cardHTML).join('') + endHTML();
     app.innerHTML = '<div class="cfs">' +
       '<div class="cfs-top"><a class="cfs-home" href="#/" aria-label="Back to the paper">&larr; Paper</a><div class="lanes">' + lanes + '</div><button class="cfs-gear" data-act="gear" aria-label="Card settings">&#9881;</button></div>' +
@@ -879,7 +899,7 @@
     fitPanels();
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitPanels);
     applyTrack(false);
-    var c = list[CARDS.i]; if (c) markSeen(c.id);
+    var c = list[CARDS.i]; if (c) scheduleSeen(c.id);
   }
   function alertsNote() {
     var el = document.getElementById('end-note'); if (!el) return;
@@ -901,7 +921,7 @@
   }
   function goTo(i) {
     var n = filteredCards().length; CARDS.i = Math.max(0, Math.min(lastIdx(), i)); applyTrack(true);
-    var c = filteredCards()[CARDS.i]; if (c) { markSeen(c.id); updateCardsDot(); if (history.replaceState) history.replaceState(null, '', '#/cards/' + c.id); }
+    var c = filteredCards()[CARDS.i]; if (c) { scheduleSeen(c.id); if (history.replaceState) history.replaceState(null, '', '#/cards/' + c.id); }
     else if (n && history.replaceState) history.replaceState(null, '', '#/cards');
   }
   function cardStep(d) { goTo(CARDS.i + d); }
@@ -939,7 +959,7 @@
     var b = e.target.closest && e.target.closest('[data-act]');
     if (!b || b.disabled) return;
     var a = b.getAttribute('data-act');
-    if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') goTo(0);
+    if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') { CARDS.lane = 'all'; renderCardsView(); goTo(0); } else if (a === 'unread') { CARDS.lane = 'unread'; CARDS.i = 0; renderCardsView(); }
     else if (a === 'gear') { var g = document.getElementById('cfs-set'); if (g) g.hidden = !g.hidden; }
     else if (a === 'more') { var c = filteredCards()[CARDS.i]; var s = document.getElementById('cfs-sheet'); if (c && s) { document.getElementById('cfs-sheet-p').innerHTML = moreHTML(c); s.hidden = false; } }
     else if (a === 'closemore') closeSheet();
