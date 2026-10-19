@@ -347,3 +347,10 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .pg-in.phc .ph-t { font-size: 20px; }
 .pg-in.phc .ph-s { display: none; }
 .pg-in.phc .ncard-img.plate-ph::after { width: 90px; height: 90px; right: -24px; top: -34px; }
+
+/* Unread tracking on cards */
+.ncard-new { display: inline-block; margin-left: 8px; padding: 2px 7px; border-radius: 999px; background: var(--red); color: #fff; font-size: 9.5px; letter-spacing: .12em; vertical-align: 2px; transition: opacity .4s; }
+.ncard-new.off { opacity: 0; }
+.lane .ucnt { display: inline-block; min-width: 17px; padding: 1px 4px; border-radius: 999px; background: var(--red); color: #fff; font-size: 10.5px; font-weight: 700; text-align: center; vertical-align: 1px; }
+.lane .ucnt[hidden] { display: none; }
+.cards-end .end-sub { color: var(--ink); font-size: 15.5px; margin: 0 0 14px; }
