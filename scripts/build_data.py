@@ -26,6 +26,11 @@ def build():
         'longreads': longreads,
         'audio': {d: s.get('audio') for d, s in days.items()},
     }
+    # fold long read audio records into audio['lr<day>']
+    for d, lr in longreads.items():
+        a = lr.get('audio')
+        if a:
+            data['audio']['lr' + d] = dict(a)
     # fold per-day highlight timing refs into audio records
     for d, s in days.items():
         t = s.get('times')
