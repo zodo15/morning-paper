@@ -2656,5 +2656,232 @@
     ]
    }
   ]
+ },
+ "15": {
+  "title": "Zetwerk: the factory that owns no factories",
+  "fact": "Long read, Tuesday 20 October 2026. Zetwerk Manufacturing Businesses closed its ₹5,012 crore IPO on Monday 19 October, subscribed 3.06 times, and lists on Friday 23 October at a price band of ₹143 to ₹151.",
+  "intro": "Amrit Acharya left a McKinsey desk in San Francisco to come home and build. The product he founded was thrown away within months, the company that replaced it became India's fastest unicorn of its year, then hit a wall of its own making, and now faces its public-market verdict on Friday. This is that story, told with the numbers attached.",
+  "groups": [
+   {
+    "heading": "The story in dates",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "January 2018",
+        "detail": "Amrit Acharya quits McKinsey in San Francisco and returns to India."
+       },
+       {
+        "n": "2",
+        "title": "May 2018",
+        "detail": "Zetwerk founded in Bengaluru as a SaaS tool for project managers, with Srinath Ramakkrushnan, Vishal Chaudhary and Rahul Sharma."
+       },
+       {
+        "n": "3",
+        "title": "Late 2018",
+        "detail": "The pivot: customers wanted to find suppliers, not manage them. Zetwerk becomes a manufacturing marketplace. $9 million Series A in December."
+       },
+       {
+        "n": "4",
+        "title": "August 2021",
+        "detail": "$150 million Series E at a $1.33 billion valuation; India's 26th unicorn of the year, three years in."
+       },
+       {
+        "n": "5",
+        "title": "FY22",
+        "detail": "Revenue ₹4,961 crore; first operational profit. FY24: ₹14,443 crore."
+       },
+       {
+        "n": "6",
+        "title": "FY25",
+        "detail": "The civil-infrastructure exit: revenue falls 11% to ₹12,798 crore."
+       },
+       {
+        "n": "7",
+        "title": "August 2026",
+        "detail": "Updated DRHP: FY26 continuing-operations revenue up 40.4% to ₹15,913 crore; adjusted PBT positive."
+       },
+       {
+        "n": "8",
+        "title": "23 October 2026",
+        "detail": "Listing day on the BSE and NSE."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Part 1: the son of a pivot",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "There is something about pivoting and the Acharyas. In his early forties, Arabinda Acharya left his insurance job in Bhubaneswar to chase a doctorate mid-career; years later his wife started a non-profit at 58. Their son Amrit grew up watching both bets work. Amrit's own path looked safer from the outside: IIT Madras, then four years at ITC, where his first task was helping build a new factory and where he ended up managing hundreds of suppliers on Google Sheets for close to ₹500 crore of procurement. In 2014 he left for an MBA at UC Berkeley, and in September 2016 he joined McKinsey in San Francisco."
+     },
+     {
+      "t": "p",
+      "html": "By the end of 2017, one question kept him up: is the unknown a risk or an opportunity? The job was not the problem. \"McKinsey was great,\" he later recalled. But at Berkeley almost nobody had talked about taking a job; everyone talked about building. \"The bug bit me and I quit McKinsey. I called up Srinath and started discussing the possibility of building a startup.\" In January 2018 he came home, part of what the Indian press would later call the Ghar Wapsi wave of founders returning from the Valley. He and Srinath Ramakkrushnan rented a one-bedroom apartment in HSR Layout, Bengaluru, and started."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/germ-of-an-idea-how-zetwerk-pivoted-to-write-its-make-in-india-story-10006431.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol, germ of an idea (2023)</a> / <a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-zetwerk-battled-fear-of-the-unknown-to-turn-unicorn-in-three-years/70093/1\" target=\"_blank\" rel=\"noopener\">Forbes India, the unicorn piece (2021)</a> / <a href=\"https://yourstory.com/2021/09/the-turning-point-zetwerk-saas-to-marketplace-b2b-unicorn\" target=\"_blank\" rel=\"noopener\">YourStory, the turning point (2021)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Part 2: the product they threw away",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Zetwerk, founded in May 2018 by Acharya, Ramakkrushnan, Vishal Chaudhary (IIT Kharagpur) and Rahul Sharma, was not a manufacturing company. It was a SaaS tool: software for project managers to manage their existing supply chains better, born directly from Acharya's ITC spreadsheets. The team raised capital for that product, a $1.5 million seed round from Kae Capital and Sequoia. Then they sat with customers. The customers did not want to manage their current suppliers better; they asked whether the software could help them discover new ones. \"That was our eureka moment,\" Acharya has said."
+     },
+     {
+      "t": "p",
+      "html": "What happened next is the part most founders get wrong. Within months of founding, having raised money for one business, the team went back to its investors and said the business was wrong. \"We had raised capital for SaaS, but we went back to investors telling them that we'll start a software business differently. We felt that this marketplace model had a higher probability of success, and the investors supported us.\" The new Zetwerk would be a marketplace: it would own no factories, employ no machinists, and instead route manufacturing orders, fabricated parts, precision components, later entire projects, to a network of small factories that had spare capacity and no sales force. The factory that owns no factories. In December 2018, Accel and Sequoia led a $9 million Series A into the pivoted company."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://yourstory.com/2021/09/the-turning-point-zetwerk-saas-to-marketplace-b2b-unicorn\" target=\"_blank\" rel=\"noopener\">YourStory (2021)</a> / <a href=\"https://www.moneycontrol.com/news/business/germ-of-an-idea-how-zetwerk-pivoted-to-write-its-make-in-india-story-10006431.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol (2023)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Part 3: the fastest three years in Indian manufacturing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The numbers of the early years still read like a misprint. Operating revenue was ₹16 crore in FY19, ₹321.93 crore in FY20, ₹835.5 crore in FY21, and then, pole-vaulting on two global tailwinds, the China-plus-one sourcing shift and an infrastructure push at home, ₹4,961 crore in FY22. That year Zetwerk posted its first operational profit, making it that rare thing, a profitable unicorn. International revenue went from 5% of the total in FY21 to 16% in FY22, with 70% of international orders coming from the US. The funding kept pace: a $32 million Series B from Lightspeed and Greenoaks in November 2019, and in August 2021 a $150 million Series E led by D1 Capital Partners at a $1.33 billion valuation. Three years from a one-bedroom apartment to India's 26th unicorn of 2021."
+     },
+     {
+      "t": "p",
+      "html": "Acharya's reaction to the milestone tells you something about what came next. Asked about celebrating, he admitted to a long-standing complaint from his teammates: he does not pause. After every milestone, he talks about the next one. The father who left insurance for a doctorate in his forties still did not fully understand what his son did for a living; the son kept his fingers crossed that the unicorn tag would explain it."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.forbesindia.com/article/the-day/elephant-dragon-and-the-bald-eagle-how-zetwerk-took-a-sixfold-leap-as-a-profitable-unicorn/80087/1\" target=\"_blank\" rel=\"noopener\">Forbes India, the six-fold leap (2022)</a> / <a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-zetwerk-battled-fear-of-the-unknown-to-turn-unicorn-in-three-years/70093/1\" target=\"_blank\" rel=\"noopener\">Forbes India (2021)</a> / <a href=\"https://www.moneycontrol.com/news/business/germ-of-an-idea-how-zetwerk-pivoted-to-write-its-make-in-india-story-10006431.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol (2023)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Part 4: what the company got wrong",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Every honest company story has a section like this, and Zetwerk's is civil infrastructure. As the company grew, it moved from manufacturing components into large civil construction projects, and the segment became big enough that its unwinding moved the whole company's numbers. In FY25, gross revenue fell 11% to ₹12,798 crore from ₹14,443 crore in FY24, the first decline in the company's history. The loss for the year narrowed 60% to ₹371 crore, helped by a sharp drop in exceptional items, and the company posted a positive EBITDA of ₹145 crore, but the top line had gone backwards. The updated DRHP, filed in August 2026, says plainly what happened: Zetwerk is exiting the civil infrastructure business."
+     },
+     {
+      "t": "p",
+      "html": "The exit was expensive. In FY26, discontinued operations, the civil business being wound down, contributed a ₹641.8 crore loss on top of a ₹964.4 crore loss from continuing operations, the latter inflated by an ₹835.8 crore exceptional item. Total reported loss for FY26: ₹1,606 crore, the worst headline number the company has ever printed, arriving in the same document that asks the public to buy its shares. And there is one more disclosure a careful reader should not miss: 4.80% of shares held by certain promoter-group members and Creovate Innovation are pledged to Catalyst Trusteeship under non-disposal undertakings. The company itself warns that if lenders exercise those pledges, promoter shareholding could be diluted and the share price affected. Credit to the DRHP for putting all of it on the table; it is also on the reader to actually read it."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/startup/zetwerk-drhp-exiting-civil-infrastructure-business-rising-order-book-and-pledged-promoter-shares-among-10-things-to-watch-14007592.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol on the UDRHP (Aug 2026)</a> / <a href=\"https://entrackr.com/fintrackr/zetwerks-gmv-slips-11-in-fy25-posts-rs-371-cr-loss-10991308\" target=\"_blank\" rel=\"noopener\">Entrackr on FY25 (Jan 2026)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Part 5: the fix, in numbers",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Strip out the business being wound down and the remaining company had its best year. Revenue from continuing operations rose 40.43% in FY26 to ₹15,913.3 crore from ₹11,331.9 crore. Adjusted profit before tax turned positive at ₹45.7 crore. Business EBITDA reached ₹565.1 crore, a 6.03% margin. The order book, the pipeline of contracted future work, stood at ₹12,370 crore at the end of FY26, up 43% from ₹8,629 crore a year earlier. Cash and bank balances, ₹1,908 crore at the end of FY25, had risen sharply from ₹1,150 crore the year before. The most recent quarter's net loss narrowed 46.4% to ₹733 crore as the civil exit worked through the books. The pattern is the same one from 2018, run in reverse: find the part of the business that does not compound, cut it, and let the part that does compound show through."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 720 300\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Zetwerk revenue by financial year in crore rupees: 16 in FY19, 322 in FY20, 836 in FY21, 4,961 in FY22, 14,443 in FY24, 12,798 in FY25 and 15,913 in FY26\"><line x1=\"70\" x2=\"704\" y1=\"254\" y2=\"254\" stroke=\"#555\"></line><g><rect x=\"78\" y=\"251\" width=\"73.42857142857143\" height=\"3\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"114.71428571428572\" y=\"274\" textAnchor=\"middle\" fontSize=\"15\" fill=\"#555\">FY19</text><text x=\"114.71428571428572\" y=\"243\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹16 cr</text></g><g><rect x=\"167.42857142857144\" y=\"249.21025\" width=\"73.42857142857143\" height=\"4.78975\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"204.14285714285717\" y=\"274\" textAnchor=\"middle\" fontSize=\"15\" fill=\"#555\">FY20</text><text x=\"204.14285714285717\" y=\"241.21025\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹322 cr</text></g><g><rect x=\"256.8571428571429\" y=\"241.5645\" width=\"73.42857142857143\" height=\"12.4355\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"293.5714285714286\" y=\"274\" textAnchor=\"middle\" fontSize=\"15\" fill=\"#555\">FY21</text><text x=\"293.5714285714286\" y=\"233.5645\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹836 cr</text></g><g><rect x=\"346.2857142857143\" y=\"180.205125\" width=\"73.42857142857143\" height=\"73.794875\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"383\" y=\"274\" textAnchor=\"middle\" fontSize=\"15\" fill=\"#555\">FY22</text><text x=\"383\" y=\"172.205125\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹5.0k cr</text></g><g><rect x=\"435.7142857142857\" y=\"39.160375000000016\" width=\"73.42857142857143\" height=\"214.83962499999998\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"472.42857142857144\" y=\"274\" textAnchor=\"middle\" fontSize=\"15\" fill=\"#555\">FY24</text><text x=\"472.42857142857144\" y=\"31.160375000000016\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹14.4k cr</text></g><g><rect x=\"525.1428571428571\" y=\"63.62975\" width=\"73.42857142857143\" height=\"190.37025\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"561.8571428571428\" y=\"274\" textAnchor=\"middle\" fontSize=\"15\" fill=\"#555\">FY25</text><text x=\"561.8571428571428\" y=\"55.62975\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹12.8k cr</text></g><g><rect x=\"614.5714285714286\" y=\"17.294125000000008\" width=\"73.42857142857143\" height=\"236.705875\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"651.2857142857142\" y=\"274\" textAnchor=\"middle\" fontSize=\"15\" fill=\"#555\">FY26</text><text x=\"651.2857142857142\" y=\"9.294125000000008\" textAnchor=\"middle\" fontSize=\"14\" fill=\"#222\">₹15.9k cr</text></g><text x=\"0\" y=\"14\" fontSize=\"14\" fill=\"#555\">Zetwerk gross revenue by financial year. FY26 is continuing operations. FY23 omitted: no verified figure. Red: the civil-infra exit year.</text><text x=\"0\" y=\"292\" fontSize=\"14\" fill=\"#555\">Sources: Forbes India (FY19-FY22), entrackr (FY24-FY25), UDRHP via moneycontrol (FY26).</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/startup/zetwerk-drhp-exiting-civil-infrastructure-business-rising-order-book-and-pledged-promoter-shares-among-10-things-to-watch-14007592.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol on the UDRHP (Aug 2026)</a> / <a href=\"https://entrackr.com/fintrackr/zetwerks-gmv-slips-11-in-fy25-posts-rs-371-cr-loss-10991308\" target=\"_blank\" rel=\"noopener\">Entrackr (Jan 2026)</a> / <a href=\"https://startuptalky.com/daily-indian-funding-roundup-key-news-19-october-2026/\" target=\"_blank\" rel=\"noopener\">Startuptalky (Oct 2026)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Part 6: Friday's verdict",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "On Monday evening, the ₹5,012.3 crore IPO closed: 3.06 times subscribed, with bids for 56.62 crore shares against 18.50 crore on offer. The split inside that number is the whole story of how the market currently reads Zetwerk. Institutions, who read DRHPs for a living, subscribed 4.73 times their quota, including the ₹2,251 crore anchor book that took in Capital Group, BlackRock, Goldman Sachs, Nomura, Société Générale, Manulife and Prashant Jain's 3P India Equity Fund. Non-institutional investors subscribed 1.40 times. Retail investors filled only 73% of their reserved portion, bidding for 2.50 crore shares. The grey market premium on closing day: ₹5 over the ₹151 cap, implying a listing 3.3% above the issue price."
+     },
+     {
+      "t": "p",
+      "html": "So picture Friday morning. Amrit Acharya, the man colleagues say never celebrates a milestone, will stand at the listing ceremony while the opening print decides what the story of Zetwerk is called. If the stock holds above ₹151, the story is the FY26 fix: 40% growth, positive adjusted profit, a ₹12,370 crore order book, and a manufacturing network for a country that wants to make more things. If it dips below, the story is the FY26 headline: a ₹1,606 crore reported loss, pledged promoter shares, and a retail book that never filled. Both stories are true. That is what the eight years since the one-bedroom apartment in HSR Layout have built: a company big enough that its truth no longer fits in a headline. The son of two people who bet their careers on pivots has made his own biggest bet, that public investors will read the whole document, not just the first number in it. Friday will grade the bet."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/\" target=\"_blank\" rel=\"noopener\">inc42 on the close (Oct 2026)</a> / <a href=\"https://www.ndtvprofit.com/ipo/tonbo-imaging-ipo-vs-zetwerk-ipo-vs-bonfiglioli-ipo-vs-sahajanand-ipo-day-3-subscription-gmp-price-band-ipo-listing-12204463\" target=\"_blank\" rel=\"noopener\">NDTV Profit GMP (Oct 2026)</a> / <a href=\"https://www.moneycontrol.com/news/business/startup/zetwerk-drhp-exiting-civil-infrastructure-business-rising-order-book-and-pledged-promoter-shares-among-10-things-to-watch-14007592.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol on the UDRHP</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Appendix: the numbers, with their source dates",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "FY19-FY22 revenue",
+        "detail": "₹16 crore, ₹321.93 crore, ₹835.5 crore, ₹4,961 crore; first operational profit in FY22. Source: Forbes India, September 2022."
+       },
+       {
+        "n": "2",
+        "title": "FY24",
+        "detail": "Gross revenue ₹14,443 crore. Source: entrackr, January 2026 (consolidated statements via the Registrar of Companies)."
+       },
+       {
+        "n": "3",
+        "title": "FY25",
+        "detail": "Gross revenue ₹12,798 crore, down 11%; net loss ₹371 crore, down 60%; positive EBITDA ₹145 crore; cash and bank ₹1,908 crore. Source: entrackr, January 2026."
+       },
+       {
+        "n": "4",
+        "title": "FY26",
+        "detail": "Continuing-operations revenue ₹15,913.3 crore, up 40.43%; adjusted PBT positive at ₹45.7 crore; business EBITDA ₹565.1 crore (6.03%); order book ₹12,370 crore; reported total loss ₹1,606 crore including discontinued operations' ₹641.8 crore and an ₹835.8 crore exceptional item. Source: UDRHP via moneycontrol, August 2026."
+       },
+       {
+        "n": "5",
+        "title": "The IPO",
+        "detail": "₹5,012.3 crore: ₹2,830 crore fresh issue plus a ₹2,182 crore offer-for-sale; band ₹143 to ₹151. Closed 19 October 2026 at 3.06 times subscribed (QIB 4.73x, NII 1.40x, retail 73%). Grey market premium ₹5, about 3.3%. Lists 23 October. Sources: BSE data via inc42 and NDTV Profit, October 2026."
+       },
+       {
+        "n": "6",
+        "title": "Funding",
+        "detail": "Over $900 million raised, including seed $1.5 million (Kae Capital, Sequoia), $9 million Series A (Accel, Sequoia, December 2018), $32 million Series B (Lightspeed, Greenoaks, November 2019), $150 million Series E (D1 Capital, August 2021, $1.33 billion valuation). Sources: moneycontrol, Forbes India, startuptalky."
+       },
+       {
+        "n": "7",
+        "title": "The pledge",
+        "detail": "4.80% of shares held by certain promoter-group members and Creovate Innovation are pledged to Catalyst Trusteeship; the UDRHP warns exercise of the pledges could dilute promoters and hit the share price. Source: UDRHP via moneycontrol, August 2026."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this long read",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Read in full for this story: moneycontrol's germ-of-an-idea interview (2023), both Forbes India features (2021, 2022), YourStory's turning-point account (2021), entrackr's FY25 financial analysis (January 2026), moneycontrol's ten-things UDRHP analysis (August 2026), inc42's subscription close report, NDTV Profit's grey market tracker and startuptalky's funding roundup (October 2026).",
+       "Grey market premiums are unofficial and unregulated. Nothing here is investment advice; the IPO closes before this piece is published and listing is Friday 23 October.",
+       "FY23 revenue is omitted from the chart because no verified figure was found in the sources read; FY26 figures are for continuing operations unless marked otherwise."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Zetwerk lists on Friday 23 October. What the opening print cannot tell you is in the parts before the appendix."
+     }
+    ]
+   }
+  ],
+  "audio": {
+   "full": "audio/lr15-full.m4a",
+   "times": {
+    "full": "audio/lr15-full.times.json"
+   }
+  }
  }
 }
