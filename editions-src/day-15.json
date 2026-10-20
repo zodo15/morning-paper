@@ -1,0 +1,527 @@
+{
+ "day": 15,
+ "meta": {
+  "date": "Tuesday 20 October 2026",
+  "short": "Tue 20 Oct",
+  "longread": 15
+ },
+ "edition": {
+  "title": "Morning paper, Tuesday 20 October 2026",
+  "fact": "Edition 15. The bank split, and a record ₹2.5 lakh crore anchor book. Tuesday 20 October 2026: markets are shut today for Dussehra. On Monday the Nifty 50 fell 1.11% to 22,888.95 while the Nifty PSU Bank index rose 2.46%, and Jio Platforms' anchor book drew nearly ₹2.5 lakh crore of demand. The long read is Zetwerk.",
+  "intro": "The lead route below takes about 5 minutes. Sections after it carry the detail. Monday's session split the banking sector in two: private lenders sold off on disappointing margins while state-run banks rallied on the opposite logic, and overnight the biggest IPO in Indian history confirmed its institutional demand.",
+  "concept": {
+   "label": "One concept a day",
+   "name": "Anchoring",
+   "line": "The first number you hear becomes the reference point your mind adjusts from, and the adjustment is almost never enough - why a rigged wheel in 1974 still moves an insurance quote and an IPO's grey premium."
+  },
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 720 422\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"Bank stock moves on Monday 19 October 2026: state-run banks rose between 1.2 and 5.3 percent while private banks fell between 1.9 and 4.2 percent\"><line x1=\"410\" x2=\"410\" y1=\"10\" y2=\"334\" stroke=\"#555\"></line><g><text x=\"170\" y=\"33\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Union Bank</text><rect x=\"410\" y=\"16\" width=\"219.54545454545456\" height=\"22\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"637.5454545454545\" y=\"33\" textAnchor=\"start\" fontSize=\"15\" fill=\"#333\">+5.25%</text></g><g><text x=\"170\" y=\"69\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">PNB</text><rect x=\"410\" y=\"52\" width=\"201.5636363636364\" height=\"22\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"619.5636363636364\" y=\"69\" textAnchor=\"start\" fontSize=\"15\" fill=\"#333\">+4.82%</text></g><g><text x=\"170\" y=\"105\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Bank of Baroda</text><rect x=\"410\" y=\"88\" width=\"141.76363636363635\" height=\"22\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"559.7636363636364\" y=\"105\" textAnchor=\"start\" fontSize=\"15\" fill=\"#333\">+3.39%</text></g><g><text x=\"170\" y=\"141\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Canara Bank</text><rect x=\"410\" y=\"124\" width=\"131.3090909090909\" height=\"22\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"549.3090909090909\" y=\"141\" textAnchor=\"start\" fontSize=\"15\" fill=\"#333\">+3.14%</text></g><g><text x=\"170\" y=\"177\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">SBI</text><rect x=\"410\" y=\"160\" width=\"48.090909090909086\" height=\"22\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"466.09090909090907\" y=\"177\" textAnchor=\"start\" fontSize=\"15\" fill=\"#333\">+1.15%</text></g><g><text x=\"170\" y=\"213\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Kotak Mahindra</text><rect x=\"331.8\" y=\"196\" width=\"78.2\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"323.8\" y=\"213\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-1.87%</text></g><g><text x=\"170\" y=\"249\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Yes Bank</text><rect x=\"300.0181818181818\" y=\"232\" width=\"109.98181818181817\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"292.0181818181818\" y=\"249\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-2.63%</text></g><g><text x=\"170\" y=\"285\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">HDFC Bank</text><rect x=\"296.25454545454545\" y=\"268\" width=\"113.74545454545455\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"288.25454545454545\" y=\"285\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-2.72%</text></g><g><text x=\"170\" y=\"321\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Axis Bank</text><rect x=\"234.78181818181818\" y=\"304\" width=\"175.21818181818182\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"226.78181818181818\" y=\"321\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-4.19%</text></g><text x=\"0\" y=\"360\" fontSize=\"15\" fill=\"#555\">Bank stocks on Monday 19 Oct 2026. Blue up, red down. Yes Bank: India Today close data.</text><text x=\"0\" y=\"382\" fontSize=\"15\" fill=\"#555\">The Nifty PSU Bank index rose 2.46%; the Nifty Private Bank index fell 1.85%.</text><text x=\"0\" y=\"402\" fontSize=\"15\" fill=\"#555\">Source: Business Standard and India Today market reports, 19 Oct 2026.</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>The bank split:</strong> the Nifty Private Bank index fell 1.85% and the PSU Bank index rose 2.46% in the same session, the only sectoral gainer. Axis Bank fell 4.19% on a profit miss; Union Bank rose 5.25% on a margin jump. The divide is about margins."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio's record anchor book:</strong> nearly ₹2.5 lakh crore of demand for an ₹8,110 crore anchor book, more than 30 times covered, a first for an Indian IPO. BlackRock, GIC, Norges and ADIA are in. The issue opens tomorrow."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Yes Bank's AT-1 loss:</strong> the Supreme Court has upheld the quashing of its ₹8,415 crore AT-1 bond write-off; the bank must repay bondholders with interest. The stock fell 14.5% on Thursday and fell again on Monday."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Results Monday:</strong> Bajaj Finance profit up 29%, Union Bank up 30.3%, Hindustan Zinc doubled to a record ₹6,412 crore. UltraTech's 21% profit rise still cost the stock 2.4% on fuel costs. Urban Company's loss widened and the stock fell 9.5%."
+     },
+     {
+      "t": "p",
+      "html": "<strong>IPO finals:</strong> Tonbo Imaging closed 135.9 times subscribed, Bonfiglioli 46 times, Sahajanand 14.2 times, Zetwerk 3.06 times. All four list Friday."
+     },
+     {
+      "t": "p",
+      "html": "<strong>AI:</strong> Nvidia launched its enterprise agent model and two PC models, MiniMax says it cut agent costs 70%, and Meta open-sourced a 30B on-device agent model. All three claims are the vendors' own."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Long read:</strong> Zetwerk, the factory that owns no factories, lists Friday with a 3-times-subscribed IPO and a FY26 revenue jump of 40%. Its founder started with a software tool and threw it away in 30 days."
+     }
+    ]
+   },
+   {
+    "heading": "Editor's read: the scoreboard, then Wednesday",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Scoreboard on yesterday's read. Right: HDFC Bank sagged as the market worked through its record-low margin, falling 2.72%, and Jio's anchor book confirmed the reported demand, filling more than 30 times with the named sovereign funds in. Wrong: I said ICICI Bank would gain and lead the private-bank pack; it fell about 1%. I also said the Bank Nifty would underperform the Nifty 50; it fell less, down 0.64% against the Nifty's 1.11%. The divide I underweighted was private versus PSU banks on margins, and it ran the whole session."
+     },
+     {
+      "t": "p",
+      "html": "For Wednesday's reopen, two live questions. First, does the bank split persist? My read: it narrows but does not reverse; state-run banks hold most of Monday's gains, private banks steady, and the Nifty stays above 22,800. The reasoning: what drove the split, margin disappointment at HDFC Bank and Axis Bank against margin improvement at Union Bank and PNB, does not expire overnight, but a one-day move this size often pauses. My confidence: low to moderate. What would prove me wrong by Wednesday's close: the Nifty Private Bank index beating the Nifty PSU Bank index on the day, or the Nifty closing below 22,800. Second, Jio's first subscription day. After a 30-times anchor book, day-one retail and QIB numbers are the next tell: a retail portion meaningfully subscribed by Wednesday evening keeps the listing story on track, and a slow first day would say the price, ₹10.3 lakh crore for the company, is doing the talking. Note the honest counterweight from yesterday: monthly revenue per user is ₹215.6, barely moved from ₹214 two quarters earlier."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard on the split</a> / <a href=\"https://www.indiatoday.in/business/market/story/market-close-sensex-ends-876-points-lower-nifty-below-22900-axis-yes-bank-down-3020712-2026-10-19\" target=\"_blank\" rel=\"noopener\">India Today close</a> / <a href=\"https://www.moneycontrol.com/news/business/ipo/jio-ipo-anchor-book-subscribed-over-30-times-blackrock-gic-norges-sbi-mf-among-marquee-investors-14055399.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol anchor book</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "The bank split: a ₹62,180 crore argument about margins",
+      "kicker": "Markets"
+     },
+     {
+      "t": "p",
+      "html": "Monday was the first trading session since the weekend's bank results, and the verdict split the sector cleanly in two. The Nifty 50 fell 1.11% to 22,888.95, near the day's low of 22,845, and the Sensex lost 876.37 points to 73,852.90. Underneath, the Nifty Private Bank index fell 1.85% while the Nifty PSU Bank index rose 2.46%, the only one of 16 major sectoral indices to gain. The ten private-bank stocks lost ₹62,180 crore of market value, with HDFC Bank and Axis Bank accounting for more than two-thirds of it. Axis Bank fell hardest, down 4.19% to ₹1,236: its 39% profit jump to ₹7,003 crore still missed the ₹7,124 crore consensus, and costs and weaker other income did the damage. HDFC Bank fell 2.72% as its lending margin narrowed to 3.16% from 3.30% a quarter earlier. Yes Bank fell (2.63% by India Today's close data; HDFC Sky's 3:30 pm snapshot had it down 3.54%) and Kotak Mahindra Bank lost 1.87%. ICICI Bank fell about 1% despite Saturday's beat."
+     },
+     {
+      "t": "p",
+      "html": "The other side of the trade was exactly mirrored: investors bought the banks whose margins moved the right way. Union Bank of India rose 5.25% after reporting margin up 19 basis points and profit up 30.3%; Punjab National Bank rose 4.82% on its own margin expansion; Bank of Baroda gained 3.39%, Canara Bank 3.14% and State Bank of India 1.15%, the last providing the biggest single support to the Nifty. State-run banks also carry a macro logic: with the RBI's repo rate at 5.50% after October's unanimous 25-basis-point rise and a \"calibrated tightening\" stance, traders expect further rate rises to benefit PSU lenders' margins more than private ones. Geojit's Vinod Nair put it simply: investors are rewarding banks that show improvement in margins and asset quality, and punishing the rest."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.indiatoday.in/business/market/story/market-close-sensex-ends-876-points-lower-nifty-below-22900-axis-yes-bank-down-3020712-2026-10-19\" target=\"_blank\" rel=\"noopener\">India Today</a> / <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/60123/RBI-MPC-hikes-Repo-Rate-to-5-50-and-adopts-Calibrated-Tightening-stance-October072026.pdf\" target=\"_blank\" rel=\"noopener\">RBI MPC resolution (primary)</a>"
+     },
+     {
+      "t": "story",
+      "title": "Jio's anchor book: nearly ₹2.5 lakh crore of demand, an Indian first",
+      "kicker": "IPO"
+     },
+     {
+      "t": "p",
+      "html": "Jio Platforms closed its one-day anchor book on Monday with demand of nearly ₹2.5 lakh crore against the ₹8,110 crore on offer, more than 30 times covered, the first Indian IPO to cross that mark. The investor list reads like a global-capital roll call: BlackRock, Capital Group, Fidelity, T. Rowe Price, Schroders and JPMorgan Asset Management among asset managers; Singapore's GIC, Norway's Norges Bank Investment Management and Abu Dhabi Investment Authority among sovereign funds; and SBI Mutual Fund, ICICI Prudential, HDFC, Nippon India and Kotak among domestic houses. Half of the anchor portion was reserved for domestic mutual funds by rule. The main issue, up to ₹30,187.6 crore at ₹1,065 to ₹1,119 a share, opens Wednesday and closes Friday; allotment is due 26 October and listing 28 October. Retail's minimum ticket is 12 shares, ₹13,428 at the top of the band; Reliance Industries shareholders of record on 14 October have a ₹2,500 crore reservation. The last grey market reading, unofficial as always, was about ₹235 on Sunday."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/ipo/jio-ipo-anchor-book-subscribed-over-30-times-blackrock-gic-norges-sbi-mf-among-marquee-investors-14055399.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a> / <a href=\"https://www.thehindubusinessline.com/markets/jio-platforms-ipo-25-lakh-crore-demand-for-8110-crore-anchor-book/article71602356.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>"
+     },
+     {
+      "t": "story",
+      "title": "The Supreme Court's AT-1 verdict: Yes Bank must repay ₹8,415 crore",
+      "kicker": "Courts"
+     },
+     {
+      "t": "p",
+      "html": "A judgment the market had six years to wait for landed last Thursday, and this paper missed it; here it is. The Supreme Court, in a 15 October ruling by Justices Dipankar Datta and Augustine George Masih (2026 INSC 1132), upheld the Bombay High Court's quashing of Yes Bank's March 2020 decision to write off ₹8,415 crore of Additional Tier-1 bonds. The court held that the administrator appointed during the 2020 rescue lacked the power to take that decision, which means Yes Bank is liable to repay bondholders with interest. The write-off had wiped out retail and institutional holders of the perpetual bonds in the middle of the bank's bailout. Yes Bank's shares fell 14.53% on Thursday to ₹18.12 and fell further on Monday. The overhang now is provisioning: how much of the ₹8,415 crore, plus interest, the bank provides for and over what period, with its largest shareholder, Sumitomo Mitsui Banking Corporation, watching alongside bondholders."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://economictimes.indiatimes.com/industry/banking/finance/banking/supreme-court-rules-against-yes-banks-write-off-of-rs-8415-crore-at1-bonds/articleshow/134976512.cms\" target=\"_blank\" rel=\"noopener\">Economic Times</a>"
+     },
+     {
+      "t": "story",
+      "title": "Results Monday: a clean Bajaj beat, a costly UltraTech profit, a record zinc quarter",
+      "kicker": "Results"
+     },
+     {
+      "t": "p",
+      "html": "Bajaj Finance reported a 29% rise in standalone profit to ₹6,266 crore, interest income up 24% to ₹13,335 crore and assets under management up 26% to ₹5.84 lakh crore; provisions of ₹2,166 crore included a ₹337 crore buffer the company called prudent. Union Bank of India's profit rose 30.3% to ₹5,537 crore on interest income up 20.09% to ₹10,583 crore, with margin up 19 basis points to 2.86% (3.03% adjusted for a tax refund) and gross bad loans down to 2.42% of the book from 3.29% a year ago. Hindustan Zinc doubled profit to a record ₹6,412 crore as revenue rose 76.5% to ₹15,093 crore on higher metal prices and output. UltraTech Cement showed the quarter's trap: profit rose 21.3% to ₹1,494 crore and revenue 18.8%, yet the stock fell 2.4% because West Asia fuel costs are squeezing the outlook. Urban Company's loss widened to ₹182.5 crore from ₹59.3 crore a year ago despite revenue up 41% to ₹537.3 crore, with ₹174 crore poured into its InstaHelp quick-services business; the stock fell 9.5% to ₹143.30 and the board cleared raising up to ₹2,500 crore."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/earnings/bajaj-finance-q2-results-net-profit-rises-29-to-rs-6-266-crore-nii-increases-24-14055635.html\" target=\"_blank\" rel=\"noopener\">Bajaj Finance</a> / <a href=\"https://www.business-standard.com/companies/quarterly-results/quarterly-results-union-bank-q2fy27-net-profit-nii-advances-results-126101900366_1.html\" target=\"_blank\" rel=\"noopener\">Union Bank</a> / <a href=\"https://www.moneycontrol.com/news/business/earnings/hindustan-zinc-q2-net-profit-doubles-to-rs-6-412-crore-on-higher-metal-prices-output-14055292.html\" target=\"_blank\" rel=\"noopener\">Hindustan Zinc</a> / <a href=\"https://www.moneycontrol.com/news/business/earnings/ultratech-cement-q2-results-net-profit-rises-21-to-rs-1-494-crore-revenue-grows-19-14055299.html\" target=\"_blank\" rel=\"noopener\">UltraTech</a> / <a href=\"https://startuptalky.com/daily-indian-funding-roundup-key-news-19-october-2026/\" target=\"_blank\" rel=\"noopener\">Urban Company</a>"
+     },
+     {
+      "t": "story",
+      "title": "IPO finals: Tonbo 135.9x, Bonfiglioli 46x, Sahajanand 14.2x, Zetwerk 3.06x",
+      "kicker": "IPO"
+     },
+     {
+      "t": "p",
+      "html": "All four issues that closed Monday finished subscribed, but the spread is the story. Tonbo Imaging, the defence-optics maker, closed 135.9 times subscribed: bids for 115.87 crore shares against 85.26 lakh on offer, with QIBs at 293.56 times and retail at 31.07 times. Bonfiglioli Transmissions finished 46.05 times subscribed, Sahajanand Medical Technologies 14.21 times (retail 3.04 times) and Zetwerk 3.06 times, with its retail portion only 73% filled. Grey market premiums at the close implied listings 73.6% above the issue price for Tonbo (₹515 over ₹700), 18.9% for Bonfiglioli (₹111 over ₹586), 7.3% for Sahajanand and 3.3% for Zetwerk. Worth a closer look before Friday: Tonbo's demand is real, but so are its numbers; revenue fell 22.7% to ₹362.6 crore in FY26, profit was ₹50.8 crore, and the June quarter showed a ₹17.7 crore loss. What would make the grey-implied pop wrong is exactly what happened to Zetwerk's retail book: demand that looks deep until you count who actually showed up. All four list on Friday 23 October."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/\" target=\"_blank\" rel=\"noopener\">inc42 on Tonbo</a> / <a href=\"https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/\" target=\"_blank\" rel=\"noopener\">inc42 on Zetwerk</a> / <a href=\"https://www.ndtvprofit.com/ipo/tonbo-imaging-ipo-vs-zetwerk-ipo-vs-bonfiglioli-ipo-vs-sahajanand-ipo-day-3-subscription-gmp-price-band-ipo-listing-12204463\" target=\"_blank\" rel=\"noopener\">NDTV Profit GMPs</a> / <a href=\"https://dhan.co/blog/ipo/bonfiglioli-transmissions-ipo-gmp-day-3-gmp/\" target=\"_blank\" rel=\"noopener\">Dhan on Bonfiglioli</a> / <a href=\"https://hdfcsky.com/news/sahajanand-medical-technologies-ipo-subscription-status-day-3\" target=\"_blank\" rel=\"noopener\">HDFC Sky on Sahajanand</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Banks: the margin table behind the split",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Four banks, four margin prints, one verdict",
+      "kicker": "NIM watch"
+     },
+     {
+      "t": "p",
+      "html": "Net interest margin, the gap between what a bank earns on loans and pays on deposits, decided Monday's stock moves more directly than profit growth did. The table so far this season: ICICI Bank 4.18%, down from 4.36% in the June quarter and 4.30% a year ago. HDFC Bank 3.16%, a record low, down from 3.30%. Axis Bank's margin is squeezed by rising costs and deposit competition; the market read its profit miss as a margin story and sold it hardest. On the other side, Union Bank of India 2.86%, up 19 basis points (3.03% adjusted for a tax refund), and PNB reporting an expansion of its own. The pattern explains the apparent puzzle of the session: ICICI Bank reported the best quarter of the four and still fell, because the question the market asked on Monday was not \"who grew profit\" but \"whose margin is moving which way as rates rise\". The rest of the bank season arrives compressed into the weekend: Kotak Mahindra Bank, AU Small Finance Bank and IDFC First Bank report on Saturday, with the Dussehra break in between. Watch the margin line, not the profit headline."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.thehindu.com/business/icici-bank-q2-pat-rises-201-to-14843-crore-nim-down-to-418/article71596780.ece\" target=\"_blank\" rel=\"noopener\">The Hindu on ICICI</a> / <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.business-standard.com/companies/quarterly-results/quarterly-results-union-bank-q2fy27-net-profit-nii-advances-results-126101900366_1.html\" target=\"_blank\" rel=\"noopener\">BS on Union Bank</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets: Monday in numbers",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "A 1% fall with one green pocket",
+      "kicker": "Review"
+     },
+     {
+      "t": "p",
+      "html": "The Nifty 50 fell 257.2 points, or 1.11%, to 22,888.95, closing near the day's low of 22,845 and snapping last week's two-week recovery. The Sensex fell 876.37 points to 73,852.90. India VIX rose 5.1% to 14.77. Fifteen of 16 major sectoral indices fell; IT gave back part of last week's rally, down 1.28%. Broader markets fell in line: the Midcap 100 lost 1.09% and the Smallcap 100 1.01%. Foreign investors sold ₹1,149 crore while domestic institutions bought ₹3,201 crore, the now-familiar pattern of local money absorbing foreign selling. The rupee ended little changed around 94.92 per dollar, pausing its six-session recovery. Government bonds gained after the RBI announced temporary liquidity injection operations, the 10-year yield easing about 2 basis points to 7.35%. Oil stayed the background risk: Brent settled Friday at $109.86 a barrel, its highest since 19 May, and eased about 2% on Monday to around $107.4 after the US waived key Russia-linked sanctions."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 720 574\" style=\"width:100%;height:auto;display:block\" role=\"img\" aria-label=\"NSE sector index changes on Monday 19 October 2026, with PSU banks up 2.5 percent the only gainer and private banks down 1.9 percent\"><line x1=\"410\" x2=\"410\" y1=\"10\" y2=\"486\" stroke=\"#555\"></line><g><text x=\"170\" y=\"32\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">PSU Bank</text><rect x=\"410\" y=\"15\" width=\"198.69230769230768\" height=\"22\" fill=\"#1f6feb\" rx=\"2\"></rect><text x=\"616.6923076923076\" y=\"32\" textAnchor=\"start\" fontSize=\"15\" fill=\"#333\">+2.46%</text></g><g><text x=\"170\" y=\"66\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Oil &amp; Gas</text><rect x=\"400.3076923076923\" y=\"49\" width=\"9.692307692307692\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"392.3076923076923\" y=\"66\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-0.12%</text></g><g><text x=\"170\" y=\"100\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Media</text><rect x=\"389\" y=\"83\" width=\"21\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"381\" y=\"100\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-0.26%</text></g><g><text x=\"170\" y=\"134\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Metal</text><rect x=\"365.5769230769231\" y=\"117\" width=\"44.42307692307692\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"357.5769230769231\" y=\"134\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-0.55%</text></g><g><text x=\"170\" y=\"168\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Bank</text><rect x=\"358.3076923076923\" y=\"151\" width=\"51.692307692307686\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"350.3076923076923\" y=\"168\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-0.64%</text></g><g><text x=\"170\" y=\"202\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Pharma</text><rect x=\"357.5\" y=\"185\" width=\"52.5\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"349.5\" y=\"202\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-0.65%</text></g><g><text x=\"170\" y=\"236\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Auto</text><rect x=\"354.2692307692308\" y=\"219\" width=\"55.73076923076922\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"346.2692307692308\" y=\"236\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-0.69%</text></g><g><text x=\"170\" y=\"270\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Midcap 100</text><rect x=\"321.96153846153845\" y=\"253\" width=\"88.03846153846155\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"313.96153846153845\" y=\"270\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-1.09%</text></g><g><text x=\"170\" y=\"304\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Nifty 50</text><rect x=\"320.3461538461538\" y=\"287\" width=\"89.65384615384616\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"312.3461538461538\" y=\"304\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-1.11%</text></g><g><text x=\"170\" y=\"338\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Realty</text><rect x=\"313.0769230769231\" y=\"321\" width=\"96.92307692307692\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"305.0769230769231\" y=\"338\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-1.20%</text></g><g><text x=\"170\" y=\"372\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">IT</text><rect x=\"306.61538461538464\" y=\"355\" width=\"103.38461538461537\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"298.61538461538464\" y=\"372\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-1.28%</text></g><g><text x=\"170\" y=\"406\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">FMCG</text><rect x=\"293.69230769230774\" y=\"389\" width=\"116.30769230769229\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"285.69230769230774\" y=\"406\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-1.44%</text></g><g><text x=\"170\" y=\"440\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Financial Services</text><rect x=\"282.38461538461536\" y=\"423\" width=\"127.61538461538463\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"274.38461538461536\" y=\"440\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-1.58%</text></g><g><text x=\"170\" y=\"474\" textAnchor=\"end\" fontSize=\"16\" fill=\"#222\">Private Bank</text><rect x=\"260.5769230769231\" y=\"457\" width=\"149.42307692307693\" height=\"22\" fill=\"#8c1d18\" rx=\"2\"></rect><text x=\"252.5769230769231\" y=\"474\" textAnchor=\"end\" fontSize=\"15\" fill=\"#333\">-1.85%</text></g><text x=\"0\" y=\"512\" fontSize=\"15\" fill=\"#555\">NSE sector indices, Monday 19 Oct 2026 vs Friday 16 Oct close. Blue up, red down.</text><text x=\"0\" y=\"534\" fontSize=\"15\" fill=\"#555\">Computed from NSE daily index close files, 16 and 19 Oct.</text><text x=\"0\" y=\"554\" fontSize=\"15\" fill=\"#555\">Source: nseindia.com index close data.</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.indiatoday.in/business/market/story/market-close-sensex-ends-876-points-lower-nifty-below-22900-axis-yes-bank-down-3020712-2026-10-19\" target=\"_blank\" rel=\"noopener\">India Today</a> / <a href=\"https://www.cnbctv18.com/market/fiis-sell-rs1149-crore-diis-buy-rs3201-crore-as-market-ends-lower-20015242.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 on flows</a> / <a href=\"https://nsearchives.nseindia.com/content/indices/ind_close_all_19102026.csv\" target=\"_blank\" rel=\"noopener\">NSE close, 19 Oct</a> / <a href=\"https://nsearchives.nseindia.com/content/indices/ind_close_all_16102026.csv\" target=\"_blank\" rel=\"noopener\">NSE close, 16 Oct</a>"
+     },
+     {
+      "t": "story",
+      "title": "Levels for Wednesday's reopen",
+      "kicker": "Levels"
+     },
+     {
+      "t": "p",
+      "html": "Monday's close below 23,000, and below the 22,900 to 23,000 support zone this paper flagged yesterday, moves the conversation down a rung: the next supports sit at 22,800 and then 22,700, while 23,000 flips from support to the first resistance, followed by the 23,300 to 23,350 zone. The immediate test, as India Today's close report put it, is whether the Nifty can reclaim 23,000 and whether buying returns to private banks and IT. The session's one structural comfort: domestic institutions are still buying what foreign investors sell, ₹3,201 crore against ₹1,149 crore on Monday."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.indiatoday.in/business/market/story/market-close-sensex-ends-876-points-lower-nifty-below-22900-axis-yes-bank-down-3020712-2026-10-19\" target=\"_blank\" rel=\"noopener\">India Today</a> / <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>"
+     },
+     {
+      "t": "story",
+      "title": "Global: Wall Street's AI names bounce, Europe protests",
+      "kicker": "Global"
+     },
+     {
+      "t": "p",
+      "html": "US stocks opened the week with AI names rebounding from last week's slide, the worst for the Nasdaq since June, while European markets fell following protests, per AP's Monday report. The two global numbers that matter for Indian screens stayed in place: US inflation worsened to 3.7% in September, keeping the rate outlook heavy, and Brent, though 2% off Friday's high, is still around $107.4 a barrel. For a market that imports most of its oil, the crude line feeds straight into inflation, EMIs and the RBI's next decision; Monday's bond-market calm, courtesy of the RBI's liquidity operations, is the offset to watch."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://apnews.com/article/stocks-markets-oil-us-ai-494fbe4361a0360b2f6368e7a6d8f058\" target=\"_blank\" rel=\"noopener\">AP</a> / <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>"
+     }
+    ]
+   },
+   {
+    "heading": "The day's movers, with the reason attached",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Gainers: the PSU bank pack, plus one unexplained jeweller",
+      "kicker": "Up"
+     },
+     {
+      "t": "p",
+      "html": "Union Bank of India, up 5.25%: profit rose 30.3%, margin expanded 19 basis points and bad loans fell to 2.42% of the book; the cleanest results-to-stock line of the day. Punjab National Bank, up 4.82%: its own margin expansion, riding the same PSU rate-benefit trade. Bank of Baroda, up 3.39%, Canara Bank, up 3.14%, and State Bank of India, up 1.15%: the sector move, with SBI's weight doing the most for the index. PC Jeweller, up 11.18% on the day's heaviest volume, 169.7 crore shares: no exchange filing or company announcement explains the move, so this paper flags it as unexplained rather than guessing."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.indiatoday.in/business/market/story/market-close-sensex-ends-876-points-lower-nifty-below-22900-axis-yes-bank-down-3020712-2026-10-19\" target=\"_blank\" rel=\"noopener\">India Today</a> / <a href=\"https://hdfcsky.com/news/most-active-stocks-on-october-19-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky most active</a>"
+     },
+     {
+      "t": "story",
+      "title": "Losers: a profit miss, a margin low and a widening loss",
+      "kicker": "Down"
+     },
+     {
+      "t": "p",
+      "html": "Axis Bank, down 4.19%: a ₹7,003 crore profit that missed the ₹7,124 crore consensus, with costs and weaker other income behind the miss. HDFC Bank, down 2.72%: the record-low 3.16% margin and a 67.4% fall in treasury income outweighed an in-line profit. Yes Bank, down again: the Supreme Court's AT-1 repayment ruling hangs over the stock. Infosys, down 2.63% to ₹1,130.7: profit-taking in IT after last week's 11.7% sector rally. Urban Company, down 9.5% to ₹143.30: the widening loss and the ₹174 crore InstaHelp spend, with the fundraise announcement landing the same day. UltraTech Cement, down 2.4%: West Asia fuel costs turned a 21% profit rise into a sell."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a> / <a href=\"https://www.indiatoday.in/business/market/story/market-close-sensex-ends-876-points-lower-nifty-below-22900-axis-yes-bank-down-3020712-2026-10-19\" target=\"_blank\" rel=\"noopener\">India Today</a> / <a href=\"https://www.moneycontrol.com/news/business/earnings/ultratech-cement-q2-results-net-profit-rises-21-to-rs-1-494-crore-revenue-grows-19-14055299.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol on UltraTech</a> / <a href=\"https://startuptalky.com/daily-indian-funding-roundup-key-news-19-october-2026/\" target=\"_blank\" rel=\"noopener\">Startuptalky on Urban Company</a>"
+     },
+     {
+      "t": "story",
+      "title": "Most traded: volumes and what moved them",
+      "kicker": "Volumes"
+     },
+     {
+      "t": "p",
+      "html": "By shares traded on Monday: PC Jeweller led with 169.7 crore shares (the unexplained 11.18% rise above). Vodafone Idea followed with 32.3 crore shares, down 2.46%. Yes Bank traded 20.7 crore shares as the AT-1 overhang kept it in play. PNB's results-driven rally and ixigo's 9.51% rise to ₹158.20 rounded out the list; for ixigo, no single filing or announcement explains the day's move."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://hdfcsky.com/news/most-active-stocks-on-october-19-2026-at-3-30-pm\" target=\"_blank\" rel=\"noopener\">HDFC Sky most active</a> / <a href=\"https://www.business-standard.com/markets/news/private-lenders-weigh-on-equity-markets-as-psu-banks-buck-the-selloff-126101901036_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Tech Mahindra's bonus and dividend: the dates to hold",
+      "kicker": "TechM"
+     },
+     {
+      "t": "p",
+      "html": "Two dates and one pending approval. The ₹15 interim dividend (300% of the ₹5 face value) has its record date this Friday, 23 October, with payment scheduled by 13 November. The 1:1 bonus issue, the company's first since March 2015, still needs shareholder approval through a postal ballot; its record date will be announced after that. About 7 lakh retail shareholders are on the register. The stock is ex-dividend from Friday, so a lower quoted price that morning is the dividend leaving the share, not a fall."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.cnbctv18.com/market/earnings/bonus-dividend-alert-tech-mahindra-rewards-7-lakh-retail-shareholders-after-11-years-record-date-20012807.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>"
+     },
+     {
+      "t": "story",
+      "title": "Urban Company's ₹2,500 crore war chest",
+      "kicker": "Urban Co"
+     },
+     {
+      "t": "p",
+      "html": "The board approved raising up to ₹2,500 crore through equity shares or convertible securities on the same day the company reported a wider loss and a 9.5% stock fall. The money is for the InstaHelp quick-services fight against Snabbit and Pronto; shareholder and regulatory approvals are still needed. Read together: the market marked the stock down for the spending, and the company responded by raising more of it."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://startuptalky.com/daily-indian-funding-roundup-key-news-19-october-2026/\" target=\"_blank\" rel=\"noopener\">Startuptalky</a>"
+     }
+    ]
+   },
+   {
+    "heading": "AI: three launches, all vendor-scored",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Nvidia's Nemotron 3.5: agents for the enterprise, and two models for your PC",
+      "kicker": "Models"
+     },
+     {
+      "t": "p",
+      "html": "Nvidia launched three open models on Monday. Nemotron 3.5 Super VL, a 120-billion-parameter model, is aimed at enterprise agents, with Nvidia saying it matches the larger Nemotron 3 Ultra on instruction-following and tool-use accuracy; named users include Skydance, EY, Ramp, Crowdstrike, Perplexity and Salesforce. The two lightweight Bolt models run locally: Bolt 74B-A9B, a 74-billion-parameter model for agentic work on the new RTX Spark AI PCs and DGX Spark workstations, and Bolt E4B, the smallest, aimed at conversational agents and due later this month. The accuracy claims are Nvidia's own; what would verify them is independent benchmark runs, which typically land within a few weeks of release. The strategic read: Nvidia is now seeding open models at every size to keep its chips the default substrate for agent work, on the desktop as much as in the data centre."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>"
+     },
+     {
+      "t": "story",
+      "title": "MiniMax says its new Flash model cuts agent costs 70%",
+      "kicker": "Models"
+     },
+     {
+      "t": "p",
+      "html": "MiniMax released M3.1 Flash on Monday, a faster, cheaper update to its M3 model, and claims agentic tasks cost 70% less to run than on its predecessor, with inference close to three times faster. In the company's own testing it scored 61.7 on OSWorld V2, a benchmark for operating a computer. Pricing is the aggressive part: a flat $0.15 per million input tokens, aimed squarely at DeepSeek's V4.1-Flash. All of these are company claims, scored on the company's own runs; the check to wait for is third-party evaluation. The trend underneath is real regardless: the cost of running an AI agent keeps falling, and price is becoming the competitive weapon."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://siliconangle.com/2026/10/19/minimax-launches-m3-1-flash-model-says-it-cuts-ai-agent-costs-by-70/\" target=\"_blank\" rel=\"noopener\">SiliconANGLE</a>"
+     },
+     {
+      "t": "story",
+      "title": "Meta open-sources an on-device agent: Muse Glimmer 30B",
+      "kicker": "Open models"
+     },
+     {
+      "t": "p",
+      "html": "Meta released Muse Glimmer on Monday, an open-source 30-billion-parameter model under the Apache 2.0 licence, purpose-built for autonomous agent work on consumer hardware: multi-step reasoning, tool use and failure recovery, tuned to run on a single GPU. Meta claims state-of-the-art performance for its size class against Gemma4-31B and Qwen3.6-27B on tool use, multi-step planning and task completion; that comparison is Meta's own. Unlike the Muse Wonder pair covered yesterday, which lives behind Meta's subscriptions with no downloadable weights, Glimmer is genuinely open: anyone can download, inspect and run it. For Indian startups building agents, an Apache-licensed model that runs on one GPU changes the build-versus-subscribe maths at the small end."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/\" target=\"_blank\" rel=\"noopener\">AI at Meta (primary)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Startups: healthcare and menswear take the day's cheques",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Even Healthcare raises $50 million to marry hospitals and insurance",
+      "kicker": "Funding"
+     },
+     {
+      "t": "p",
+      "html": "Even Healthcare raised a $50 million Series B led by existing investor Khosla Ventures with Alpha Wave participating, taking its total funding past $120 million. The company runs its own hospitals, two in Bengaluru today, and bundles them with insurance programmes, claiming more than 2.5 lakh members across 10 cities and fewer unplanned readmissions in its programmes; both are the company's claims. The money goes to expanding the hospital network. The model is worth watching because it inverts the usual fight: an insurer that owns the hospital has no billing dispute with itself, which is either the answer to claim friction or a conflict of interest, depending on how it handles the patients whose care costs it money."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://startuptalky.com/daily-indian-funding-roundup-key-news-19-october-2026/\" target=\"_blank\" rel=\"noopener\">Startuptalky</a>"
+     },
+     {
+      "t": "story",
+      "title": "The Pant Project raises ₹109 crore for premium menswear",
+      "kicker": "Funding"
+     },
+     {
+      "t": "p",
+      "html": "The Pant Project, a premium menswear brand, raised ₹109 crore in a Series B led by Mirae Asset Venture Investments (India). A niche bet on Indian men paying premium prices for well-fitted trousers, sold direct online."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://startuptalky.com/daily-indian-funding-roundup-key-news-19-october-2026/\" target=\"_blank\" rel=\"noopener\">Startuptalky</a>"
+     },
+     {
+      "t": "story",
+      "title": "One startup idea: the readmission scorecard",
+      "kicker": "Idea"
+     },
+     {
+      "t": "p",
+      "html": "Even Healthcare's pitch rests on a number only it can see: how often patients bounce back into hospital. Every insurer in India sits on the same data across thousands of hospitals, and no policyholder can see it. A product that turns claims records into a public scorecard, readmission rates, claim-approval rates and settlement times by hospital and by insurer, would change how people choose both. The data exists; the moat is the insurer partnerships needed to license it, and the risk is hospitals disputing methodology. For a distribution industry negotiating commission caps this week, verified outcome data is also the strongest answer to the question IRDAI keeps asking: what does the customer actually get?"
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://startuptalky.com/daily-indian-funding-roundup-key-news-19-october-2026/\" target=\"_blank\" rel=\"noopener\">Startuptalky</a>"
+     }
+    ]
+   },
+   {
+    "heading": "IPO: Jio and Paras open tomorrow, four list Friday",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Wednesday: the ₹30,187.6 crore main event opens",
+      "kicker": "Opening 21 Oct"
+     },
+     {
+      "t": "p",
+      "html": "With the anchor book done at 30-times demand, Jio Platforms' main issue opens Wednesday: up to 27 crore fresh shares at ₹1,065 to ₹1,119, no offer-for-sale, the proceeds going mostly to prepay up to ₹27,500 crore of Reliance Jio Infocomm's borrowings. Retail's minimum is 12 shares, ₹13,428 at the top of the band. Two reservations widen the tent: up to ₹2,500 crore for anyone who held Reliance Industries shares on 14 October, and ₹500 crore for employees at a ₹54 discount. Paras Healthcare's ₹1,450 crore issue (band ₹660 to ₹693, minimum 21 shares) opens the same day. Both close Friday and are scheduled to list on 28 October. The listing queue first: HD Fire Protect on Wednesday, Fusion CX on Thursday, then Tonbo, Zetwerk, Bonfiglioli and Sahajanand on Friday."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/ipo/jio-ipo-anchor-book-subscribed-over-30-times-blackrock-gic-norges-sbi-mf-among-marquee-investors-14055399.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a> / <a href=\"https://www.thehindubusinessline.com/markets/jio-platforms-ipo-25-lakh-crore-demand-for-8110-crore-anchor-book/article71602356.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>"
+     }
+    ]
+   },
+   {
+    "heading": "One Concept a Day: anchoring",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 1974, psychologists Amos Tversky and Daniel Kahneman ran an experiment with a rigged wheel of fortune. They spun it in front of participants; the wheel was fixed to stop at either 10 or 65. Then they asked an unrelated question: what percentage of African nations are members of the United Nations? People who watched the wheel stop at 10 gave a median answer of 25%. People who watched it stop at 65 gave 45%. A number they knew was random, from a wheel they had just watched being rigged, still pulled their estimates toward it. They called the effect anchoring: the first number you hear becomes the reference point your mind adjusts from, and the adjustment is almost never enough. The experiment became a cornerstone of their 1974 paper \"Judgment under Uncertainty\" and, decades later, of Kahneman's Nobel Prize."
+     },
+     {
+      "t": "p",
+      "html": "You meet anchoring every time a number is named before you have formed your own. In insurance it is the default sum insured on the screen, the agent who opens with a ₹1 crore cover, the renewal premium quoted against last year's figure: each one quietly sets the range of what feels reasonable, whatever your family's actual needs calculation would say. In markets it is the grey market premium treated as a listing-day prediction, or last week's price treated as this week's value. The decision rule the research suggests is simple: before you hear their number, write down your own. Decide what cover you need from your income and liabilities before you look at the quote; decide what an IPO is worth to you before you read the premium. The anchor loses its grip when your number arrives first. Sixty-second recall: a random number on a rigged wheel moved expert guesses by 20 points; the first figure you hear will move yours too, unless yours already exists."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Term of the day: anchor investor.</strong> An institutional investor allotted shares in an IPO a day before it opens to the public, at a fixed price, with a lock-in on the shares. The name exists because a strong anchor list is meant to steady demand for the whole issue, exactly the signal Jio's 30-times-covered anchor book sent on Monday. The term shares its root with today's concept: the anchor book gives the market its first number, and first numbers pull."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.science.org/doi/10.1126/science.185.4157.1124\" target=\"_blank\" rel=\"noopener\">Tversky and Kahneman, Science 1974</a>"
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Tue 20: Dussehra",
+        "detail": "Stock market holiday."
+       },
+       {
+        "n": "2",
+        "title": "Wed 21: Jio and Paras open",
+        "detail": "Jio Platforms and Paras Healthcare open for subscription; HD Fire Protect lists. RBI's October policy minutes are due. Results: Eternal, Adani Green, Indian Hotels."
+       },
+       {
+        "n": "3",
+        "title": "Thu 22: Fusion CX lists",
+        "detail": "Results: HPCL, Havells, Swiggy, Colgate-Palmolive."
+       },
+       {
+        "n": "4",
+        "title": "Fri 23: four listings; Jio and Paras close",
+        "detail": "Tonbo, Zetwerk, Bonfiglioli and Sahajanand list. Tech Mahindra's dividend record date. Results: Infosys, JSW Steel, Tata Motors, Dr Reddy's, Coforge, IndusInd Bank, Adani Power, BPCL."
+       },
+       {
+        "n": "5",
+        "title": "Sat 24: bank results",
+        "detail": "Kotak Mahindra Bank, AU Small Finance Bank, IDFC First Bank."
+       },
+       {
+        "n": "6",
+        "title": "Sun 25: IRDAI feedback closes",
+        "detail": "Last day for comments on the insurance distribution-reform draft (commission caps, dark patterns)."
+       },
+       {
+        "n": "7",
+        "title": "Mon 26 and Wed 28: Jio allotment, then listing",
+        "detail": "Allotment due Monday 26 October; listing scheduled Wednesday 28 October, alongside Paras Healthcare."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Jio: three subscription days",
+        "detail": "The issue runs Wednesday to Friday. The anchor book is done at 30-times demand; the pace of the retail and QIB books is the next tell, then allotment on 26 October and listing on 28 October."
+       },
+       {
+        "n": "2",
+        "title": "Nemotron Bolt E4B",
+        "detail": "Two of Nvidia's three Monday models are out; the smallest, the E4B for conversational agents on PCs, is still due later this month."
+       },
+       {
+        "n": "3",
+        "title": "RBI minutes, Wednesday",
+        "detail": "The 7 October policy raised the repo rate 25 basis points to 5.50% unanimously and shifted to calibrated tightening; the minutes show the debate behind the vote, including how members read inflation against the market's slide."
+       },
+       {
+        "n": "4",
+        "title": "Friday's four listings",
+        "detail": "Tonbo's 135.9-times subscription meets a FY26 revenue decline of 22.7% on the same morning; Zetwerk's institutional book (4.73 times) meets its 73% retail fill. The gap between grey-implied prices and opening prints is the lesson to watch."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "IPO subscription figures are from exchange data reported by inc42, HDFC Sky and Dhan; grey market premiums are unofficial tracker readings. Broker ratings and target prices are left out. Nothing here is investment advice.",
+       "AI performance and cost claims in this edition are the vendors' own unless labelled otherwise.",
+       "The sector chart is computed directly from NSE daily index close files (16 and 19 October 2026).",
+       "Yes Bank's Monday fall is reported as 2.63% by India Today's close data and 3.54% in HDFC Sky's 3:30 pm snapshot; both are cited where used.",
+       "New primary and independent sources read in full for this edition: the RBI's October MPC resolution, the Supreme Court's Yes Bank AT-1 judgment coverage, Meta's Muse Glimmer publication, and the NSE index close files."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Long read: Zetwerk",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "This week: <strong>Zetwerk</strong>, the factory that owns no factories. Amrit Acharya left a McKinsey desk in San Francisco in January 2018 to come home and build; the software tool he founded was thrown away within 30 days, and what replaced it now runs ₹15,913 crore of revenue across a network of factories it does not own. The IPO closes today with institutions in and retail lukewarm; the listing is Friday. <a href=\"#/longread/15\" target=\"_blank\" rel=\"noopener\">Read the Zetwerk story</a>."
+     },
+     {
+      "t": "closing",
+      "html": "Edition 15. Markets reopen Wednesday with Jio's first subscription day; edition 16 lands in the morning before it. Tell me what to keep, change or drop."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "full": "audio/d15-full.m4a",
+  "quick": "audio/d15-quick.m4a"
+ },
+ "times": {
+  "full": "audio/d15-full.times.json",
+  "quick": "audio/d15-quick.times.json"
+ }
+}
