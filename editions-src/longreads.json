@@ -3067,6 +3067,12 @@
      }
     ]
    }
-  ]
+  ],
+  "audio": {
+   "full": "audio/lr16-full.m4a",
+   "times": {
+    "full": "audio/lr16-full.times.json"
+   }
+  }
  }
 }
