@@ -155,11 +155,17 @@
   function fmt(t) { if (!isFinite(t)) return '--:--'; var m = Math.floor(t / 60), s = Math.floor(t % 60); return m + ':' + (s < 10 ? '0' : '') + s; }
 
   /* sentence highlight synced to the recorded full read */
-  var HL = { items: [], ready: false, pending: false, failed: false };
+  var HL = { items: [], ready: false, pending: false, failed: false, url: null };
   function clearHL() {
-    var on = document.querySelectorAll('.w2.on, .w2.done, .rp.reading-on, .rp.reading-done');
-    for (var i = 0; i < on.length; i++) on[i].classList.remove('on', 'done', 'reading-on', 'reading-done');
-    HL.items = []; HL.ready = false; HL.pending = false; HL.failed = false;
+    var wraps = document.querySelectorAll('.w2');
+    for (var i = 0; i < wraps.length; i++) {
+      var sp = wraps[i], pr = sp.parentNode;
+      pr.replaceChild(document.createTextNode(sp.textContent), sp);
+      pr.normalize();
+    }
+    var on = document.querySelectorAll('.rp.reading-on, .rp.reading-done');
+    for (var j = 0; j < on.length; j++) on[j].classList.remove('reading-on', 'reading-done');
+    HL.items = []; HL.ready = false; HL.pending = false; HL.failed = false; HL.url = null;
   }
   function wrapBlockSentences(el, sentences) {
     var text = el.textContent, pos = 0, ranges = [];
@@ -215,8 +221,9 @@
     return spans;
   }
   function loadHighlight(timesUrl, scopeEl) {
+    if (HL.url !== timesUrl) clearHL();  // switching players mid-page: reload that player's map
     if (HL.ready || HL.pending || HL.failed) return;
-    HL.pending = true;
+    HL.pending = true; HL.url = timesUrl;
     fetch(timesUrl).then(function (r) { if (!r.ok) throw 0; return r.json(); }).then(function (data) {
       var els = scopeEl.querySelectorAll('.rp');
       var items = [];
