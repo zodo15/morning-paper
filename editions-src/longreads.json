@@ -2660,7 +2660,7 @@
  "15": {
   "title": "Zetwerk: the factory that owns no factories",
   "fact": "Long read, Tuesday 20 October 2026. Zetwerk Manufacturing Businesses closed its ₹5,012 crore IPO on Monday 19 October, subscribed 3.06 times, and lists on Friday 23 October at a price band of ₹143 to ₹151.",
-  "intro": "Amrit Acharya left a McKinsey desk in San Francisco to come home and build. The product he founded was thrown away within months, the company that replaced it became India's fastest unicorn of its year, then hit a wall of its own making, and now faces its public-market verdict on Friday. This is that story, told with the numbers attached.",
+  "intro": "Amrit Acharya left a McKinsey desk in San Francisco to come home and build. The product he founded was thrown away within 30 days, the company that replaced it became India's 26th unicorn of its year, then hit a wall of its own making, and now faces its public-market verdict on Friday. This is that story, told with the numbers attached.",
   "groups": [
    {
     "heading": "The story in dates",
@@ -2680,7 +2680,7 @@
        },
        {
         "n": "3",
-        "title": "Late 2018",
+        "title": "June 2018",
         "detail": "The pivot: customers wanted to find suppliers, not manage them. Zetwerk becomes a manufacturing marketplace. $9 million Series A in December."
        },
        {
@@ -2785,7 +2785,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "Strip out the business being wound down and the remaining company had its best year. Revenue from continuing operations rose 40.43% in FY26 to ₹15,913.3 crore from ₹11,331.9 crore. Adjusted profit before tax turned positive at ₹45.7 crore. Business EBITDA reached ₹565.1 crore, a 6.03% margin. The order book, the pipeline of contracted future work, stood at ₹12,370 crore at the end of FY26, up 43% from ₹8,629 crore a year earlier. Cash and bank balances, ₹1,908 crore at the end of FY25, had risen sharply from ₹1,150 crore the year before. The most recent quarter's net loss narrowed 46.4% to ₹733 crore as the civil exit worked through the books. The pattern is the same one from 2018, run in reverse: find the part of the business that does not compound, cut it, and let the part that does compound show through."
+      "html": "Strip out the business being wound down and the remaining company had its best year. Revenue from continuing operations rose 40.43% in FY26 to ₹15,913.3 crore from ₹11,331.9 crore. Adjusted profit before tax turned positive at ₹45.7 crore. Manufacturing Business EBITDA reached ₹565.1 crore, a 6.03% segment margin; company-wide adjusted EBITDA was ₹421.3 crore, a 2.65% margin. The order book, the pipeline of contracted future work, stood at ₹12,370 crore at the end of FY26, up 43% from ₹8,629 crore a year earlier. Cash and bank balances, ₹1,908 crore at the end of FY25, had risen sharply from ₹1,150 crore the year before. The most recent quarter's net loss narrowed 46.4% to ₹733 crore as the civil exit worked through the books. The pattern is the same one from 2018, run in reverse: find the part of the business that does not compound, cut it, and let the part that does compound show through."
      },
      {
       "t": "chart",
@@ -2838,7 +2838,7 @@
        {
         "n": "4",
         "title": "FY26",
-        "detail": "Continuing-operations revenue ₹15,913.3 crore, up 40.43%; adjusted PBT positive at ₹45.7 crore; business EBITDA ₹565.1 crore (6.03%); order book ₹12,370 crore; reported total loss ₹1,606 crore including discontinued operations' ₹641.8 crore and an ₹835.8 crore exceptional item. Source: UDRHP via moneycontrol, August 2026."
+        "detail": "Continuing-operations revenue ₹15,913.3 crore, up 40.43%; adjusted PBT positive at ₹45.7 crore; Manufacturing Business EBITDA ₹565.1 crore (6.03% segment margin); company-wide adjusted EBITDA ₹421.3 crore (2.65%); order book ₹12,370 crore; reported total loss ₹1,606 crore including discontinued operations' ₹641.8 crore and an ₹835.8 crore exceptional item. Source: UDRHP via moneycontrol, August 2026."
        },
        {
         "n": "5",
@@ -2848,7 +2848,7 @@
        {
         "n": "6",
         "title": "Funding",
-        "detail": "Over $900 million raised, including seed $1.5 million (Kae Capital, Sequoia), $9 million Series A (Accel, Sequoia, December 2018), $32 million Series B (Lightspeed, Greenoaks, November 2019), $150 million Series E (D1 Capital, August 2021, $1.33 billion valuation). Sources: moneycontrol, Forbes India, startuptalky."
+        "detail": "Early funding: seed $1.5 million (Kae Capital, Sequoia), $9 million Series A (Accel, Sequoia, December 2018), $32 million Series B (Lightspeed, Greenoaks, November 2019), $150 million Series E (D1 Capital, August 2021, $1.33 billion valuation). Series C, D and the F-series rounds are detailed in the RHP's capital-history tables. Sources: moneycontrol, Forbes India, startuptalky."
        },
        {
         "n": "7",
@@ -2894,7 +2894,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "On Wednesday 15 October 2026, a two-judge bench of the Supreme Court - Justices Dipankar Datta and Augustine George Masih - dismissed four appeals at once: by Yes Bank, by the administrator who ran it in March 2020, by the Reserve Bank of India, and by the Union of India. With that, the Bombay High Court's January 2023 decision stood: the write-down of ₹8,415 crore of Additional Tier 1 bonds was illegal. The bank must honour the bonds at their original coupons of 9% and 9.5%, plus interest."
+      "html": "On Thursday 15 October 2026, a two-judge bench of the Supreme Court - Justices Dipankar Datta and Augustine George Masih - dismissed four appeals at once: by Yes Bank, by the administrator who ran it in March 2020, by the Reserve Bank of India, and by the Union of India. With that, the Bombay High Court's January 2023 decision stood: the write-down of ₹8,415 crore of Additional Tier 1 bonds was illegal. The bank must honour the bonds at their original coupons of 9% and 9.5%, plus interest."
      },
      {
       "t": "p",
@@ -2953,11 +2953,11 @@
     "blocks": [
      {
       "t": "p",
-      "html": "While the appeals waited, Yes Bank rebuilt. Under CEO Prashant Kumar, the SBI-installed administrator-turned-chief executive, the bank cleaned its book, raised capital, and returned to steady profitability. By 2025 it was attractive enough to draw India's largest cross-border banking deal: Japan's Sumitomo Mitsui Banking Corporation agreed in May 2025 to buy 20% for roughly ₹17,000 crore, and in August the RBI cleared SMBC to go up to 24.99%. Vinay Tonse, a career SBI banker, took over as MD &amp; CEO. For the September 2026 quarter the bank reported a standalone net profit of ₹1,080 crore, up 65% on the year."
+      "html": "While the appeals waited, Yes Bank rebuilt. Under CEO Prashant Kumar, the SBI-installed administrator-turned-chief executive, the bank cleaned its book, raised capital, and returned to steady profitability. By 2025 it was attractive enough to draw India's largest cross-border banking deal: Japan's Sumitomo Mitsui Banking Corporation agreed in May 2025 to buy 20% for roughly ₹13,500 crore, and in August the RBI cleared SMBC to go up to 24.99%. Vinay Tonse, a career SBI banker, took over as MD &amp; CEO. For the September 2026 quarter the bank reported a standalone net profit of ₹1,080 crore, up 65% on the year."
      },
      {
       "t": "p",
-      "html": "The question nobody could answer until last week: did SMBC's ₹17,000 crore price tag assume the AT1 bonds stayed dead? The Supreme Court has now said they do not. The bank's pro forma CET1 - 13.7% reported at the end of September - drops to about 11.4% once the ₹8,415 crore principal is reinstated, a 240-basis-point hit including profits, per management's own analyst call on Monday."
+      "html": "The question nobody could answer until last week: did SMBC's ₹13,500 crore price tag assume the AT1 bonds stayed dead? The Supreme Court has now said they do not. The bank's pro forma CET1 - 13.7% reported at the end of September - drops to about 11.4% once the ₹8,415 crore principal is reinstated, a 240-basis-point hit including profits, per management's own analyst call on Monday."
      },
      {
       "t": "chart",
@@ -2991,7 +2991,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "Three failures made this saga. The original sin was underwriting: the lending binge of the 2010s that left CET1 at 0.6% by early 2020 - with the supervisor, in the Supreme Court's words, \"a mere bystander.\" The second was distribution: high-yield perpetual bonds sold to retail investors who say they were told these were safe, deposit-like products, a mis-selling scandal that ran parallel to the legal one. The third was procedural: the 14 March 2020 write-down letter, signed one day too late by an administrator whose powers had already lapsed into the final scheme. A trillion-rupee rescue survived every challenge. The piece that failed was one sentence of legal process - and it cost ₹8,415 crore."
+      "html": "Three failures made this saga. The original sin was underwriting: the lending binge of the 2010s that left CET1 at 0.6% by early 2020 - with the supervisor, in the Supreme Court's words, \"a mere bystander.\" The second was distribution: high-yield perpetual bonds sold to retail investors who say they were told these were safe, deposit-like products, a mis-selling scandal that ran parallel to the legal one. The third was procedural: the 14 March 2020 write-down letter, signed one day too late by an administrator whose powers had already lapsed into the final scheme. A ₹10,350 crore rescue survived every challenge. The piece that failed was one sentence of legal process - and it cost ₹8,415 crore."
      }
     ]
    },
@@ -3029,7 +3029,7 @@
        {
         "n": "6",
         "title": "May-Aug 2025",
-        "detail": "SMBC agrees to buy 20% for about ₹17,000 crore; RBI clears up to 24.99%."
+        "detail": "SMBC agrees to buy 20% for about ₹13,500 crore; RBI clears up to 24.99%."
        },
        {
         "n": "7",
