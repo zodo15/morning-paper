@@ -2883,5 +2883,190 @@
     "full": "audio/lr15-full.times.json"
    }
   }
+ },
+ "16": {
+  "title": "The bond that refused to die",
+  "fact": "Long read, Wednesday 21 October 2026. On 15 October the Supreme Court ordered Yes Bank to honour ₹8,415 crore of AT1 bonds it wrote down to zero in March 2020. This is the story of how a rescue, a legal technicality and six years of litigation collided.",
+  "intro": "In one sentence: India wrote off a failed bank's riskiest bonds to save its depositors, bondholders fought the write-off for six years, and last week the Supreme Court ruled in their favour - leaving a repaired bank with a ₹8,415 crore bill and every AT1 bond in India repriced.",
+  "groups": [
+   {
+    "heading": "1. The verdict",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "On Wednesday 15 October 2026, a two-judge bench of the Supreme Court - Justices Dipankar Datta and Augustine George Masih - dismissed four appeals at once: by Yes Bank, by the administrator who ran it in March 2020, by the Reserve Bank of India, and by the Union of India. With that, the Bombay High Court's January 2023 decision stood: the write-down of ₹8,415 crore of Additional Tier 1 bonds was illegal. The bank must honour the bonds at their original coupons of 9% and 9.5%, plus interest."
+     },
+     {
+      "t": "p",
+      "html": "The court's reasoning was not that AT1 bonds cannot be written down - they can, that is what they are for. It was narrower and, for the RBI, more uncomfortable. The administrator appointed under the Banking Regulation Act \"has to act squarely within the four corners of the powers conferred upon him,\" the bench held; once the final reconstruction scheme was gazetted on 13 March 2020, he had no power left to write the bonds down. And the court put the supervision failure on record: \"The RBI was a mere bystander, allowing the CET1 ratio of YES BANK to drop to an astonishing low of 0.6% while the business of YES BANK was being carried out in a clandestine manner... to have the investors at the receiving end of the administrative lapses would be highly unfair.\""
+     },
+     {
+      "t": "p",
+      "html": "The market's verdict was instant: Yes Bank shares fell nearly 20% at the intraday low of ₹16.96 before recovering to close 14.5% lower at ₹18.12. The bondholders' lawyer, Srijan Sinha of Edictum Law &amp; Co., called it what it was - the write-off held \"illegal and arbitrary... against the Final Reconstruction Scheme gazetted by the Union of India.\" Grant Thornton's Vivek Ramji Iyer noted the decision turned \"on a technicality rather than the underlying terms of the product\" - which is exactly why it matters to every bank in India."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/markets/sc-strikes-down-yes-bank-s-rs-8-415-crore-at1-bond-write-off-lender-s-shares-fall-10-14052995.html\" target=\"_blank\" rel=\"noopener\">moneycontrol, 15 Oct 2026</a> / <a href=\"https://www.livelaw.in/supreme-court/rbi-was-mere-bystander-when-yes-bank-carried-out-business-clandestinely-supreme-court-554919\" target=\"_blank\" rel=\"noopener\">LiveLaw, 15 Oct 2026</a> / <a href=\"https://www.livemint.com/companies/news/yes-bank-supreme-court-upholds-hc-order-at-1-bond-writeoff-11792042824907.html\" target=\"_blank\" rel=\"noopener\">Mint, 15 Oct 2026</a>"
+     }
+    ]
+   },
+   {
+    "heading": "2. The week the bank died (March 2020)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Yes Bank was, by early 2020, a study in how fast a growth story can invert. Founded in 2004 by Rana Kapoor and Ashok Kapur, it had become one of India's largest private lenders on aggressive corporate lending. By 2019 the loan book was rotting and depositors were leaving; the RBI had forced founder Rana Kapoor out of the CEO's office the year before. On 5 March 2020 the central government, on the RBI's recommendation, placed the bank under a moratorium - depositors could withdraw no more than ₹50,000 - and superseded its board. The RBI's draft reconstruction scheme, published the next day, said why: \"the rapidly deteriorating financial position... relating to liquidity, capital and other critical parameters, and the absence of any credible plan for infusion of capital.\""
+     },
+     {
+      "t": "p",
+      "html": "The rescue came together in a week. On 13 March the Union Cabinet approved the scheme; the State Bank of India led a consortium putting in ₹10,350 crore, with SBI alone committing ₹7,250 crore for up to 49%, and ICICI Bank (₹1,000 crore), HDFC Bank (₹1,000 crore), Axis Bank (₹600 crore) and Kotak Mahindra Bank (₹500 crore) alongside. The moratorium lifted within days. Depositors were saved whole. Equity holders kept their shares - 75% of them locked in for three years."
+     },
+     {
+      "t": "p",
+      "html": "One class of investors got something very different. Late on 14 March, Yes Bank informed the exchanges that its two Basel III Additional Tier 1 bond issues - ₹3,000 crore sold on 23 December 2016 and ₹5,415 crore on 18 October 2017 - \"have been fully written down and stand extinguished with immediate effect.\" The bank cited the RBI's Basel III Master Circular: once Section 45 of the Banking Regulation Act is invoked, the bank is deemed non-viable, and AT1 triggers fire. ₹8,415 crore, gone to zero overnight. AT1 bonds are designed for exactly this - they are the highest-yielding, first-to-die layer of a bank's capital. What the bondholders disputed was not the instrument but the execution."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=49479\" target=\"_blank\" rel=\"noopener\">RBI press release, 6 Mar 2020 (primary)</a> / <a href=\"https://indianexpress.com/article/india/yes-bank-revival-reconstruction-plan-top-banks-aide-sbi-6313479/\" target=\"_blank\" rel=\"noopener\">Indian Express, 13 Mar 2020</a> / <a href=\"https://www.cnbctv18.com/finance/yes-bank-clarifies-additional-tier-1-bonds-to-be-permanently-written-down-5486181.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, 15 Mar 2020</a>"
+     }
+    ]
+   },
+   {
+    "heading": "3. The bondholders fight back (2020-2023)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The holders of those bonds - institutions like 63 Moons, and thousands of individual investors, some of them retirees who said the bonds were mis-sold to them as fixed-deposit-like products - organised under their trustee, Axis Trustee. Before the scheme was finalised they had proposed converting part of the bonds into equity to recover roughly 20% of their money; the RBI turned it down. So they sued."
+     },
+     {
+      "t": "p",
+      "html": "Their legal argument was surgical. Yes, the draft scheme contemplated a write-down. But the final gazetted scheme of 13 March 2020 did not contain it - and the write-down letter came on 14 March, after the scheme was in force, signed by an administrator whose powers, by then, were only those the statute gave him. On 20 January 2023, the Bombay High Court agreed. It quashed the write-off without ruling on the merits of AT1 instruments: the decision \"was not a part of the final restructuring scheme and the administrator did not have the authority to make the decision.\" Yes Bank, the administrator, the RBI and the government all appealed to the Supreme Court. The appeals sat for nearly three years."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.reuters.com/world/india/india-court-quashes-write-off-yes-banks-at1-bonds-legal-sources-2023-01-20/\" target=\"_blank\" rel=\"noopener\">Reuters, 20 Jan 2023</a> / <a href=\"https://www.cnbctv18.com/finance/yes-bank-clarifies-additional-tier-1-bonds-to-be-permanently-written-down-5486181.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18, 15 Mar 2020</a>"
+     }
+    ]
+   },
+   {
+    "heading": "4. The repaired bank (2020-2026)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "While the appeals waited, Yes Bank rebuilt. Under CEO Prashant Kumar, the SBI-installed administrator-turned-chief executive, the bank cleaned its book, raised capital, and returned to steady profitability. By 2025 it was attractive enough to draw India's largest cross-border banking deal: Japan's Sumitomo Mitsui Banking Corporation agreed in May 2025 to buy 20% for roughly ₹17,000 crore, and in August the RBI cleared SMBC to go up to 24.99%. Vinay Tonse, a career SBI banker, took over as MD &amp; CEO. For the September 2026 quarter the bank reported a standalone net profit of ₹1,080 crore, up 65% on the year."
+     },
+     {
+      "t": "p",
+      "html": "The question nobody could answer until last week: did SMBC's ₹17,000 crore price tag assume the AT1 bonds stayed dead? The Supreme Court has now said they do not. The bank's pro forma CET1 - 13.7% reported at the end of September - drops to about 11.4% once the ₹8,415 crore principal is reinstated, a 240-basis-point hit including profits, per management's own analyst call on Monday."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 200\" width=\"100%\" role=\"img\" aria-label=\"Yes Bank CET1 ratio: reported and pro forma after AT1 reinstatement\"><g><text x=\"280\" y=\"31\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">June 2026</text><rect x=\"290\" y=\"16\" width=\"308\" height=\"24\" rx=\"3\" fill=\"#1e3a8a\"></rect><text x=\"606\" y=\"28\" fontSize=\"12.5\" fontWeight=\"700\" fill=\"#0f172a\">14.0%</text><text x=\"606\" y=\"40\" fontSize=\"10.5\" fill=\"#64748b\">reported</text></g><g><text x=\"280\" y=\"73\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">September 2026</text><rect x=\"290\" y=\"58\" width=\"301.4\" height=\"24\" rx=\"3\" fill=\"#1e3a8a\"></rect><text x=\"599.4\" y=\"70\" fontSize=\"12.5\" fontWeight=\"700\" fill=\"#0f172a\">13.7%</text><text x=\"599.4\" y=\"82\" fontSize=\"10.5\" fill=\"#64748b\">reported</text></g><g><text x=\"280\" y=\"115\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">After AT1 reinstatement (pro forma)</text><rect x=\"290\" y=\"100\" width=\"250.8\" height=\"24\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"548.8\" y=\"112\" fontSize=\"12.5\" fontWeight=\"700\" fill=\"#0f172a\">11.4%</text><text x=\"548.8\" y=\"124\" fontSize=\"10.5\" fill=\"#64748b\">mgmt estimate, incl. profits</text></g><g><text x=\"280\" y=\"157\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">Regulatory minimum + buffers</text><rect x=\"290\" y=\"142\" width=\"176\" height=\"24\" rx=\"3\" fill=\"#94a3b8\"></rect><text x=\"474\" y=\"154\" fontSize=\"12.5\" fontWeight=\"700\" fill=\"#0f172a\">8.0%</text><text x=\"474\" y=\"166\" fontSize=\"10.5\" fill=\"#64748b\">approx. floor incl. CCB</text></g><text x=\"380\" y=\"194\" textAnchor=\"middle\" fontSize=\"11\" fill=\"#64748b\">CET1 ratio, per cent of risk-weighted assets. Source: Business Standard, 20 Oct 2026 (bank analyst call).</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/markets/sc-strikes-down-yes-bank-s-rs-8-415-crore-at1-bond-write-off-lender-s-shares-fall-10-14052995.html\" target=\"_blank\" rel=\"noopener\">moneycontrol, 15 Oct 2026</a> / <a href=\"https://www.business-standard.com/companies/news/yes-bank-sees-no-immediate-need-to-raise-capital-after-sc-s-at1-verdict-126102000703_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, 20 Oct 2026</a>"
+     }
+    ]
+   },
+   {
+    "heading": "5. The decision now on Vinay Tonse's desk",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "What the court ordered is not a fine but a resurrection: the bonds live again, with their 9% and 9.5% coupons and six years of unpaid interest. On Monday's post-earnings call, CFO Niranjan Banodkar laid out the bank's position with unusual precision. A CET1 of 11-11.5% is \"not ideal... we would want more comfortable capital levels irrespective of what the regulator says.\" But the bank has levers: deferred tax assets, a security-receipts portfolio with a face value of about ₹1,500 crore and an estimated NAV of ₹2,000 crore carried on the books at zero, the ability to grow about 11% without consuming capital, and two rating agencies - one international, one domestic - that have called the verdict credit-neutral. CEO Tonse's summary: there is \"no gun to our head\" to raise capital; whether to raise now or later is \"a commercial evaluation.\""
+     },
+     {
+      "t": "p",
+      "html": "That is the decision scene this saga ends on - for now. A management that says it does not need capital, sitting on a bond liability that pays 9-9.5% plus back interest, in a rate cycle where the RBI is hiking. The bondholders, after six years, get their bonds back. The bank gets a recurring coupon bill and a thinner capital cushion. And every other Indian bank's AT1 investors got something quietly valuable: a Supreme Court confirmation that a write-down must be executed with procedural perfection, or it does not happen at all."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.business-standard.com/companies/news/yes-bank-sees-no-immediate-need-to-raise-capital-after-sc-s-at1-verdict-126102000703_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, 20 Oct 2026</a> / <a href=\"https://www.moneycontrol.com/news/business/markets/sc-strikes-down-yes-bank-s-rs-8-415-crore-at1-bond-write-off-lender-s-shares-fall-10-14052995.html\" target=\"_blank\" rel=\"noopener\">moneycontrol, 19 Oct 2026</a>"
+     }
+    ]
+   },
+   {
+    "heading": "What Yes Bank got wrong",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three failures made this saga. The original sin was underwriting: the lending binge of the 2010s that left CET1 at 0.6% by early 2020 - with the supervisor, in the Supreme Court's words, \"a mere bystander.\" The second was distribution: high-yield perpetual bonds sold to retail investors who say they were told these were safe, deposit-like products, a mis-selling scandal that ran parallel to the legal one. The third was procedural: the 14 March 2020 write-down letter, signed one day too late by an administrator whose powers had already lapsed into the final scheme. A trillion-rupee rescue survived every challenge. The piece that failed was one sentence of legal process - and it cost ₹8,415 crore."
+     }
+    ]
+   },
+   {
+    "heading": "Timeline",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "23 Dec 2016 / 18 Oct 2017",
+        "detail": "Yes Bank sells its two Basel III AT1 bond issues: ₹3,000 crore and ₹5,415 crore, coupons 9.5% and 9%."
+       },
+       {
+        "n": "2",
+        "title": "5 Mar 2020",
+        "detail": "Government, on RBI's recommendation, places Yes Bank under moratorium; withdrawals capped at ₹50,000."
+       },
+       {
+        "n": "3",
+        "title": "13 Mar 2020",
+        "detail": "Cabinet approves the reconstruction scheme; SBI leads a ₹10,350 crore consortium rescue."
+       },
+       {
+        "n": "4",
+        "title": "14 Mar 2020",
+        "detail": "Yes Bank tells exchanges the AT1 bonds 'stand extinguished with immediate effect.'"
+       },
+       {
+        "n": "5",
+        "title": "20 Jan 2023",
+        "detail": "Bombay High Court quashes the write-off: the administrator exceeded his powers after the final scheme."
+       },
+       {
+        "n": "6",
+        "title": "May-Aug 2025",
+        "detail": "SMBC agrees to buy 20% for about ₹17,000 crore; RBI clears up to 24.99%."
+       },
+       {
+        "n": "7",
+        "title": "15 Oct 2026",
+        "detail": "Supreme Court dismisses all appeals; bonds must be honoured with interest. Shares close 14.5% lower at ₹18.12."
+       },
+       {
+        "n": "8",
+        "title": "19 Oct 2026",
+        "detail": "Management: pro forma CET1 about 11.4%, 'no gun to our head' on raising capital."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Appendix: the numbers, with their source dates",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "₹8,415 crore: AT1 bonds written down 14 Mar 2020 (₹3,000 cr issued Dec 2016 + ₹5,415 cr issued Oct 2017); CNBC-TV18, 15 Mar 2020.",
+       "9.5% and 9%: coupons the bank must now honour, plus interest; moneycontrol, 15 Oct 2026.",
+       "13.7% CET1 at 30 Sep 2026 (14% June); 14.5% overall capital adequacy; Business Standard, 20 Oct 2026.",
+       "11.4%: pro forma CET1 after reinstatement, a 240 bp hit including profits (CEO Vinay Tonse); Business Standard, 20 Oct 2026.",
+       "₹1,080 crore: Q2 FY27 standalone net profit, +65% YoY (+0.8% QoQ); H1 ₹2,151 crore, +47.8%; Business Standard, 20 Oct 2026.",
+       "₹1,500 crore face / about ₹2,000 crore NAV: security-receipts portfolio carried at zero; Business Standard, 20 Oct 2026.",
+       "₹17,000 crore: SMBC total planned investment for up to ~25%; moneycontrol, 15 Oct 2026.",
+       "14.53%: share fall on verdict day (intraday low ₹16.96, close ₹18.12); India Infoline, 15 Oct 2026. Monday close: ₹16.88."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Read in the paper: what the verdict does to every AT1 prospectus in India, and why base rates - not court victories - should price bank risk."
+     }
+    ]
+   }
+  ]
  }
 }
