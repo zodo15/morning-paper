@@ -20,11 +20,11 @@
     "blocks": [
      {
       "t": "p",
-      "html": "<strong>The biggest IPO opens:</strong> Jio Platforms opens for subscription today (closes Friday), ₹1,065 to ₹1,119 a share, lot of 12. Anchors put in ₹8,110 crore on Monday against bids of nearly ₹2.5 lakh crore; LIC, BlackRock, GIC and Norges Bank are in."
+      "html": "<strong>India's biggest IPO opens:</strong> Jio Platforms opens for subscription today (closes Friday), ₹1,065 to ₹1,119 a share, lot of 12. Anchors put in ₹8,110 crore on Monday against bids of nearly ₹2.5 lakh crore; LIC, BlackRock, GIC and Norges Bank are in."
      },
      {
       "t": "p",
-      "html": "<strong>Insurance economics reset:</strong> IRDAI's distribution paper caps first-year life commissions at 20-25%, halves insurer expense limits over five years, and defines mis-selling with clawbacks. Industry veterans warn 15-40% of agents could exit over two to four years. Comments close Sunday 25 October."
+      "html": "<strong>Insurance economics reset:</strong> IRDAI's distribution paper caps first-year life commissions at 20-25%, cuts insurer expense limits over five years, and defines mis-selling with clawbacks. Industry veterans warn 15-40% of agents could exit over two to four years. Comments close Sunday 25 October."
      },
      {
       "t": "p",
@@ -99,7 +99,7 @@
      },
      {
       "t": "p",
-      "html": "<strong>Why it matters to you:</strong> this is your industry's P&amp;L being rewritten - bancassurance income estimates are already out (RBL sees a 50-60% hit), and agency economics decide recruitment and persistency across distribution. If you want a say, the comment window closes this week."
+      "html": "<strong>Why it matters to you:</strong> this is your industry's P&amp;L being rewritten - bancassurance income estimates are already out (RBL Bank estimates a 50-60% hit to bancassurance income), and agency economics decide recruitment and persistency across distribution. If you want a say, the comment window closes this week."
      },
      {
       "t": "p",
@@ -125,7 +125,7 @@
      },
      {
       "t": "p",
-      "html": "The bill lands on a bank mid-repair. CET1 was 13.7% on 30 September; reinstating the principal cuts it to about 11.4% pro forma, a 240-basis-point hit. CFO Niranjan Banodkar calls 11-11.5% \"not ideal\" but points to buffers: deferred tax assets, a security-receipts portfolio carried at zero with a face value of about ₹1,500 crore, and two rating agencies calling the verdict credit-neutral. CEO Vinay Tonse says there is \"no gun to our head\" to raise capital. The stock closed 14.5% lower on verdict day after a near-20% intraday fall; it closed Monday at ₹16.88."
+      "html": "The bill lands on a bank mid-repair. CET1 was 13.7% on 30 September; reinstating the principal cuts it to about 11.4% pro forma; management puts the hit at about 240 basis points including profits. CFO Niranjan Banodkar calls 11-11.5% \"not ideal\" but points to buffers: deferred tax assets, a security-receipts portfolio carried at zero with a face value of about ₹1,500 crore, and two rating agencies calling the verdict credit-neutral. CEO Vinay Tonse says there is \"no gun to our head\" to raise capital. The stock closed 14.5% lower on verdict day after a near-20% intraday fall; it closed Monday at ₹16.88."
      },
      {
       "t": "p",
@@ -154,11 +154,11 @@
      },
      {
       "t": "p",
-      "html": "<strong>Why it matters to you:</strong> Monday's 1.11% Nifty fall happened with Brent at $109; India reopens with crude higher still and the world's biggest IPO pulling liquidity the same morning. The offset is the AI rebound - good for IT, Monday's worst sector."
+      "html": "<strong>Why it matters to you:</strong> Monday's 1.11% Nifty fall came even as Brent cooled about 2%; India reopens with crude near a five-month high and India's biggest-ever IPO pulling liquidity the same morning. The offset is the AI rebound - good for IT, Monday's worst sector."
      },
      {
       "t": "p",
-      "html": "<strong>Editor's takeaway:</strong> the thing to watch is oil, not the IPO: crude touched a five-month high overnight on the same morning the biggest-ever IPO pulls liquidity."
+      "html": "<strong>Editor's takeaway:</strong> the thing to watch is oil, not the IPO: crude touched a five-month high overnight on the same morning India's biggest-ever IPO pulls liquidity."
      },
      {
       "t": "p",
@@ -358,7 +358,7 @@
      },
      {
       "t": "p",
-      "html": "Inception says Mercury 3, its diffusion-based model, matches or beats GPT-6 Luna and Claude Haiku 5.5 on its benchmarks while generating at 1,068 tokens per second on NVIDIA GPUs - several times faster than frontier speed-optimized models - at $0.20 per million input tokens and $0.70 per million output (50% off at launch), with a 1-million-token context. Unlike autoregressive models that write one token at a time, diffusion models refine the whole answer in parallel passes; third-party toolmaker Curiosity, which ran it this week, explains the mechanics and confirms it is already usable as a drop-in provider. Inception reports Mercury 3 completed 50% of 50 live Mind2Web web-navigation tasks, ahead of GPT-6.1-Sol in its own harness."
+      "html": "Inception says Mercury 3, its diffusion-based model, matches or beats GPT-6 Luna and Claude Haiku 5.5 on its benchmarks while generating at 1,068 tokens per second on NVIDIA GPUs - several times faster than frontier speed-optimized models - at $0.20 per million input tokens and $0.70 per million output (half price at launch: $0.10 in, $0.35 out), with a 1-million-token context. Unlike autoregressive models that write one token at a time, diffusion models refine the whole answer in parallel passes; third-party toolmaker Curiosity, which ran it this week, explains the mechanics and confirms it is already usable as a drop-in provider. Inception reports Mercury 3 completed 50% of 50 live Mind2Web web-navigation tasks, ahead of GPT-6.1-Sol in its own harness."
      },
      {
       "t": "p",
@@ -413,7 +413,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "In 1973, psychologists Daniel Kahneman and Amos Tversky gave students a problem. A cab was involved in a hit-and-run at night. In the city, 85% of cabs are green and 15% are blue. A witness identified the cab as blue, and tests showed the witness tells the two colours apart correctly 80% of the time. What is the probability the cab was blue? Most people said about 80% - the witness's accuracy. The correct answer, combining the witness with the city's base rates, is about 41%: blue cabs are so rare that a fifth of green cabs being misidentified still outnumbers four-fifths of blue ones identified right. The experiment, from their paper \"On the Psychology of Prediction\", showed that a vivid individual fact (a witness pointing) reliably crowds out a boring statistic (how many blue cabs exist). They called it base-rate neglect, and it has replicated across medicine, law and hiring for five decades."
+      "html": "In the late 1970s, psychologists Daniel Kahneman and Amos Tversky gave students a problem. A cab was involved in a hit-and-run at night. In the city, 85% of cabs are green and 15% are blue. A witness identified the cab as blue, and tests showed the witness tells the two colours apart correctly 80% of the time. What is the probability the cab was blue? Most people said about 80% - the witness's accuracy. The correct answer, combining the witness with the city's base rates, is about 41%: blue cabs are so rare that a fifth of green cabs being misidentified still outnumbers four-fifths of blue ones identified right. The experiment, from their 1980 paper \"Causal schemas in judgments under uncertainty\", showed that a vivid individual fact (a witness pointing) reliably crowds out a boring statistic (how many blue cabs exist). They called it base-rate neglect, and it has replicated across medicine, law and hiring for five decades."
      },
      {
       "t": "p",
@@ -443,7 +443,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. Everyone will watch Jio's subscription counter today, but a subscription number only describes one stock. The wider tells are simpler: whether crude stays near the five-month high it touched overnight, whether IT - Monday's worst sector - responds to the overnight rebound in US tech futures, and whether foreign investors extend Monday's ₹1,149 crore of selling. Monday's fall was blamed on bank margins, but it happened with Brent at $109, and crude is higher now. This is a watch list, not a prediction: those three, more than the subscription counter, will show what kind of day it is."
+      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. Everyone will watch Jio's subscription counter today, but a subscription number only describes one stock. The wider tells are simpler: whether crude stays near the five-month high it touched overnight, whether IT - Monday's worst sector - responds to the overnight rebound in US tech futures, and whether foreign investors extend Monday's ₹1,149 crore of selling. Monday's fall was blamed on bank margins, but crude has since touched a five-month high. This is a watch list, not a prediction: those three, more than the subscription counter, will show what kind of day it is."
      }
     ]
    },
@@ -489,7 +489,7 @@
      },
      {
       "t": "closing",
-      "html": "Edition 16 of 7-day trial series. The long read: \"The bond that refused to die\" - Yes Bank's ₹8,415 crore AT1 saga, from the March 2020 rescue to last week's Supreme Court verdict."
+      "html": "Edition 16. The long read: \"The bond that refused to die\" - Yes Bank's ₹8,415 crore AT1 saga, from the March 2020 rescue to last week's Supreme Court verdict."
      }
     ]
    }
