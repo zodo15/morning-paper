@@ -495,5 +495,12 @@
    }
   ]
  },
- "audio": null
+ "audio": {
+  "full": "audio/d16-full.m4a",
+  "quick": "audio/d16-quick.m4a"
+ },
+ "times": {
+  "full": "audio/d16-full.times.json",
+  "quick": "audio/d16-quick.times.json"
+ }
 }
