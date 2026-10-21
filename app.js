@@ -983,9 +983,11 @@
   (function () {
     var st = null;
     function inPager(t) { var p = document.getElementById('pager'); return p && p.contains(t); }
+    function curPanelIn() { var tr = document.getElementById('track'); if (!tr) return null; var pgs = tr.querySelectorAll('.pg-in'); return pgs[CARDS.i] || null; }
     document.addEventListener('touchstart', function (e) {
       if (!inPager(e.target) || e.touches.length !== 1) { st = null; return; }
       var t = e.touches[0]; st = { y: t.clientY, x: t.clientX, t: Date.now(), dy: 0, mode: null };
+      var el = curPanelIn(); st.sl = el ? el.scrollTop : 0;
       var tr = document.getElementById('track'); if (tr) tr.style.transition = 'none';
     }, { passive: true });
     document.addEventListener('touchmove', function (e) {
@@ -994,8 +996,16 @@
       if (!st.mode) { if (Math.abs(dy) < 6 && Math.abs(dx) < 6) return; st.mode = Math.abs(dy) >= Math.abs(dx) ? 'v' : 'h'; }
       if (st.mode !== 'v') return;
       if (e.cancelable) e.preventDefault();
-      var off = dy; if ((CARDS.i <= 0 && dy > 0) || (CARDS.i >= lastIdx() && dy < 0)) off = dy * 0.28;
-      st.dy = dy; applyTrack(false, off);
+      var off = dy;
+      var el = curPanelIn();
+      if (el && el.scrollHeight > el.clientHeight + 1) {
+        var max = el.scrollHeight - el.clientHeight;
+        var clamped = Math.max(0, Math.min(max, st.sl - dy));
+        if (el.scrollTop !== clamped) el.scrollTop = clamped;
+        off = dy - (st.sl - clamped);
+      }
+      if ((CARDS.i <= 0 && off > 0) || (CARDS.i >= lastIdx() && off < 0)) off = off * 0.28;
+      st.dy = off; applyTrack(false, off);
     }, { passive: false });
     function end() {
       if (!st) return; var s = st; st = null;
@@ -1008,7 +1018,13 @@
     document.addEventListener('touchcancel', end, { passive: true });
     var wl = 0;
     document.addEventListener('wheel', function (e) {
-      if (!inPager(e.target) || Math.abs(e.deltaY) < 12 || Date.now() - wl < 520) return;
+      if (!inPager(e.target) || Math.abs(e.deltaY) < 12) return;
+      var el = curPanelIn();
+      if (el && el.scrollHeight > el.clientHeight + 1) {
+        var max = el.scrollHeight - el.clientHeight;
+        if ((e.deltaY > 0 && el.scrollTop < max - 1) || (e.deltaY < 0 && el.scrollTop > 1)) return;
+      }
+      if (Date.now() - wl < 520) return;
       wl = Date.now(); e.preventDefault(); cardStep(e.deltaY > 0 ? 1 : -1);
     }, { passive: false });
     document.addEventListener('keydown', function (e) {
