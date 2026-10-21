@@ -298,7 +298,8 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .pager { flex: 1; min-height: 0; position: relative; overflow: hidden; touch-action: none; overscroll-behavior: none; }
 .track { position: absolute; left: 0; right: 0; top: 0; height: 100%; will-change: transform; }
 .pg { height: 100%; padding: 16px 22px calc(env(safe-area-inset-bottom, 0px) + 64px); box-sizing: border-box; max-width: 640px; margin: 0 auto; }
-.pg-in { height: 100%; overflow: hidden; --bs: 17px; --hs: 28px; }
+.pg-in { height: 100%; overflow-x: hidden; overflow-y: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; --bs: 17px; --hs: 28px; }
+.pg-in::-webkit-scrollbar { display: none; }
 .pg-in .ncard-k { margin-bottom: 10px; }
 .pg-in .ncard-img { margin: 0 0 12px; }
 .pg-in .ncard-img img { height: 28vh; max-height: 190px; min-height: 120px; }
