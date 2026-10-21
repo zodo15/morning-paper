@@ -323,7 +323,7 @@
   },
   {
    "s": 491.13,
-   "e": 543.64,
+   "e": 566.6,
    "sentences": [
     {
      "t": "The bill lands on a bank mid-repair.",
@@ -336,192 +336,197 @@
      "e": 509.86
     },
     {
+     "t": "The bank's own disclosures put the pro forma cost in writing: had the judgment been recognised as of 30 September, the quarter's ₹1,080 crore profit would have been a ₹5,217 crore loss; the bank says no impact has been recognised in the reported results and the estimates are subject to revision.",
+     "s": 510.34,
+     "e": 532.7
+    },
+    {
      "t": "CFO Niranjan Banodkar calls 11-11.5% \"not ideal\" but points to buffers: deferred tax assets, a security-receipts portfolio carried at zero with a face value of about ₹1,500 crore, and two rating agencies calling the verdict credit-neutral.",
-     "s": 510.22,
-     "e": 529.02
+     "s": 533.18,
+     "e": 551.98
     },
     {
      "t": "CEO Vinay Tonse says there is \"no gun to our head\" to raise capital.",
-     "s": 529.02,
-     "e": 533.95
+     "s": 551.98,
+     "e": 556.91
     },
     {
      "t": "The stock closed 14.5% lower on verdict day after a near-20% intraday fall; it closed Monday at ₹16.88.",
-     "s": 533.95,
-     "e": 543.64
+     "s": 556.91,
+     "e": 566.6
     }
    ]
   },
   {
-   "s": 543.64,
-   "e": 565.93,
+   "s": 566.6,
+   "e": 588.89,
    "sentences": [
     {
      "t": "Why it matters to you: this is the largest court-ordered capital event for an Indian bank in years, and it rewrites what AT1 \"loss absorption\" means in India - the instrument did its job in 2020 and the courts have now said the job was done illegally.",
-     "s": 543.64,
-     "e": 561.51
+     "s": 566.6,
+     "e": 584.47
     },
     {
      "t": "Every bank AT1 prospectus gets repriced on this.",
-     "s": 561.51,
-     "e": 565.93
+     "s": 584.47,
+     "e": 588.89
     }
    ]
   },
   {
-   "s": 565.93,
-   "e": 589.43,
+   "s": 588.89,
+   "e": 612.39,
    "sentences": [
     {
      "t": "Editor's takeaway: watch the coupon math, not the headlines: honouring 9-9.5% coupons plus six years of interest on ₹8,415 crore is a recurring cost, and how Yes Bank funds it decides whether a capital raise is \"commercial evaluation\" or necessity.",
-     "s": 565.93,
-     "e": 586.15
+     "s": 588.89,
+     "e": 609.11
     },
     {
      "t": "The full saga is today's long read.",
-     "s": 586.15,
-     "e": 589.43
+     "s": 609.11,
+     "e": 612.39
     }
    ]
   },
   null,
   {
-   "s": 589.43,
-   "e": 634.53,
+   "s": 612.39,
+   "e": 657.49,
    "sentences": [
     {
      "t": "Tuesday's global session, which India missed for Dussehra: the Dow rose 1.02% to 52,495.88 and the S&P 500 added 0.28%, helped by 3M jumping 5.8% on an expanded Amazon data-center partnership; the Nasdaq finished flat.",
-     "s": 589.43,
-     "e": 608.22
+     "s": 612.39,
+     "e": 631.18
     },
     {
      "t": "After the bell, SpaceX said quarterly revenue more than doubled, and Nasdaq futures are up over 200 points this morning - the AI trade is rebounding ahead of Meta's results tonight.",
-     "s": 608.22,
-     "e": 624.87
+     "s": 631.18,
+     "e": 647.83
     },
     {
      "t": "Not everything joined in: South Korean AI-infrastructure firm Elice Group fell 32% below its IPO price on debut.",
-     "s": 624.87,
-     "e": 634.53
+     "s": 647.83,
+     "e": 657.49
     }
    ]
   },
   {
-   "s": 634.53,
-   "e": 670.77,
+   "s": 657.49,
+   "e": 693.73,
    "sentences": [
     {
      "t": "The pressure point is oil.",
-     "s": 634.53,
-     "e": 637.01
+     "s": 657.49,
+     "e": 659.97
     },
     {
      "t": "Brent settled at $108.79 after touching $111.99 intraday, a five-month high, as Houthi attacks on Saudi infrastructure met an Iran-Pakistan mediation meeting.",
-     "s": 637.01,
-     "e": 647.94
+     "s": 659.97,
+     "e": 670.9
     },
     {
      "t": "France stayed the outlier: stocks fell 0.38% as protests continue under curfews, and its 10-year yield hit 4.96%.",
-     "s": 647.94,
-     "e": 656.87
+     "s": 670.9,
+     "e": 679.83
     },
     {
      "t": "The US 10-year eased to 5.121%; the chance of a Federal Reserve rate hike next week is down to 17.2% from 57.6% a month ago, per CME FedWatch.",
-     "s": 656.87,
-     "e": 670.77
+     "s": 679.83,
+     "e": 693.73
     }
    ]
   },
   {
-   "s": 670.77,
-   "e": 695.29,
+   "s": 693.73,
+   "e": 718.25,
    "sentences": [
     {
      "t": "Why it matters to you: Monday's 1.11% Nifty fall came even as Brent cooled about 2%; India reopens with crude near a five-month high and India's biggest-ever IPO pulling liquidity the same morning.",
-     "s": 671.22,
-     "e": 689.13
+     "s": 694.18,
+     "e": 712.09
     },
     {
      "t": "The offset is the AI rebound - good for IT, Monday's worst sector.",
-     "s": 689.54,
-     "e": 695.29
+     "s": 712.5,
+     "e": 718.25
     }
    ]
   },
   {
-   "s": 695.29,
-   "e": 708.91,
+   "s": 718.25,
+   "e": 731.87,
    "sentences": [
     {
      "t": "Editor's takeaway: the thing to watch is oil, not the IPO: crude touched a five-month high overnight on the same morning India's biggest-ever IPO pulls liquidity.",
-     "s": 695.84,
-     "e": 708.6
+     "s": 718.8,
+     "e": 731.56
     }
    ]
   },
   null,
   {
-   "s": 708.91,
-   "e": 740.08,
+   "s": 731.87,
+   "e": 763.04,
    "sentences": [
     {
      "t": "India's largest discount broker has launched US stock investing in beta: about 2,000 US-listed companies and 1,000 ETFs, fractional investing from $1, delivery-based trades and SIPs in eligible stocks.",
-     "s": 708.91,
-     "e": 724.03
+     "s": 731.87,
+     "e": 746.99
     },
     {
      "t": "Pricing is 0.1% brokerage capped at $10 per order, plus a 0.5% forex markup.",
-     "s": 724.03,
-     "e": 732.16
+     "s": 746.99,
+     "e": 755.12
     },
     {
      "t": "The launch puts Zerodha in direct competition with Groww, Upstox and Angel One for retail demand for global tech exposure.",
-     "s": 732.16,
-     "e": 740.08
+     "s": 755.12,
+     "e": 763.04
     }
    ]
   },
   {
-   "s": 740.08,
-   "e": 755.48,
+   "s": 763.04,
+   "e": 778.44,
    "sentences": [
     {
      "t": "Why it matters to you: cross-border retail broking is becoming a commodity product; the interesting question is whether Zerodha's no-frills pricing resets what the others charge - and what it does to order flow for domestic IPOs like Jio's this week.",
-     "s": 740.08,
-     "e": 755.48
+     "s": 763.04,
+     "e": 778.44
     }
    ]
   },
   {
-   "s": 755.48,
-   "e": 761.99,
+   "s": 778.44,
+   "e": 784.95,
    "sentences": [
     {
      "t": "Editor's takeaway: watch whether the incumbents respond on forex markup, where the real margin sits.",
-     "s": 755.48,
-     "e": 761.99
+     "s": 778.44,
+     "e": 784.95
     }
    ]
   },
   null,
   {
-   "s": 761.99,
-   "e": 805.01,
+   "s": 784.95,
+   "e": 827.97,
    "sentences": [
     {
      "t": "Indian exchanges were shut Tuesday for Dussehra (moneycontrol), so the last traded session is Monday's: Sensex -1.17% to 73,852.90, Nifty 50 -1.11% to 22,888.95, Bank Nifty -0.64% to 55,488.10, on private-bank and IT selling (yesterday's edition has the full bank-split anatomy).",
-     "s": 761.99,
-     "e": 791.82
+     "s": 784.95,
+     "e": 814.78
     },
     {
      "t": "Foreign investors sold ₹1,149 crore on Monday; domestic institutions bought ₹3,201 crore.",
-     "s": 791.82,
-     "e": 800.45
+     "s": 814.78,
+     "e": 823.41
     },
     {
      "t": "India VIX rose 5.33% to 14.77.",
-     "s": 800.45,
-     "e": 805.01
+     "s": 823.41,
+     "e": 827.97
     }
    ]
   },
@@ -540,13 +545,13 @@
   null,
   null,
   {
-   "s": 864.11,
-   "e": 871.85,
+   "s": 887.07,
+   "e": 894.81,
    "sentences": [
     {
      "t": "Zetwerk: lists Friday after a 3.06-times-subscribed IPO with a 73%-subscribed retail book.",
-     "s": 864.11,
-     "e": 871.85
+     "s": 887.07,
+     "e": 894.81
     }
    ]
   },
@@ -563,192 +568,192 @@
   null,
   null,
   {
-   "s": 874.47,
-   "e": 926.51,
+   "s": 897.43,
+   "e": 949.47,
    "sentences": [
     {
      "t": "The NBFC lifted FY27 AUM growth guidance to 26-27% (from 23-25%) after a September quarter with AUM up 26.5% to ₹5.85 lakh crore and profit up 28.5% to ₹6,266 crore; gross NPA improved to 1.06% from 1.24% a year ago.",
-     "s": 874.47,
-     "e": 900.71
+     "s": 897.43,
+     "e": 923.67
     },
     {
      "t": "The honest part of the call: management has factored in two more RBI rate hikes this year (taking the repo rate toward 6%), expects a marginal extra headwind on top of its 10-15 basis-point margin-compression guidance, and is watching the proposed insurance-distribution caps for fee-income impact.",
-     "s": 900.71,
-     "e": 921.48
+     "s": 923.67,
+     "e": 944.44
     },
     {
      "t": "Cost of funds fell 9 basis points to 7.87%.",
-     "s": 921.48,
-     "e": 926.51
+     "s": 944.44,
+     "e": 949.47
     }
    ]
   },
   {
-   "s": 926.51,
-   "e": 942.45,
+   "s": 949.47,
+   "e": 965.41,
    "sentences": [
     {
      "t": "Why: raising guidance while pricing in two hikes is a bet that volume and opex control (targeting 25-40 bps of cost-ratio improvement) outrun funding costs - the opposite posture from the banks Monday's market punished.",
-     "s": 926.51,
-     "e": 942.45
+     "s": 949.47,
+     "e": 965.41
     }
    ]
   },
   null,
   {
-   "s": 942.45,
-   "e": 970.43,
+   "s": 965.41,
+   "e": 993.39,
    "sentences": [
     {
      "t": "Foreign investors sold ₹1,149 crore of Indian equities on Monday while domestic institutions bought ₹3,201 crore - the fourth recent session where local money absorbed foreign selling.",
-     "s": 942.45,
-     "e": 958.55
+     "s": 965.41,
+     "e": 981.51
     },
     {
      "t": "The rupee held near 94.9 per dollar through the holiday; with Brent at a five-month high, the import bill, not equity flows, is the currency's real test this week.",
-     "s": 958.55,
-     "e": 970.43
+     "s": 981.51,
+     "e": 993.39
     }
    ]
   },
   null,
   {
-   "s": 970.43,
-   "e": 1006.16,
+   "s": 993.39,
+   "e": 1029.12,
    "sentences": [
     {
      "t": "The Bengaluru startup's all-equity Series B, led by Khosla Ventures with Alpha Wave participating, values it at $300 million - triple its mark of 18 months ago - and takes total capital past $120 million.",
-     "s": 970.43,
-     "e": 982.81
+     "s": 993.39,
+     "e": 1005.77
     },
     {
      "t": "Founded in 2021 by Mayank Banerjee, Matilde Giglio and Alessandro Ialongo, Even runs a model where it finances and delivers care itself: it found partner-hospital patients were being sent for tests and surgeries it considered unnecessary, so it started building its own hospitals.",
-     "s": 982.81,
-     "e": 998.02
+     "s": 1005.77,
+     "e": 1020.98
     },
     {
      "t": "Two are open in Bengaluru, both operationally profitable within a year, and five more open over the next six months on this round.",
-     "s": 998.02,
-     "e": 1006.16
+     "s": 1020.98,
+     "e": 1029.12
     }
    ]
   },
   {
-   "s": 1015.66,
-   "e": 1036.4,
+   "s": 1038.62,
+   "e": 1059.36,
    "sentences": [
     {
      "t": "Why: Indian hospitals earn per test, procedure and bed-day, so the system profits from more care, not better outcomes.",
-     "s": 1015.66,
-     "e": 1023.64
+     "s": 1038.62,
+     "e": 1046.6
     },
     {
      "t": "Even is betting an insurer's economics (pay for outcomes, avoid overtreatment) can run a hospital chain - if the two profitable units scale to seven, that is a new template for health insurance itself.",
-     "s": 1023.64,
-     "e": 1036.4
+     "s": 1046.6,
+     "e": 1059.36
     }
    ]
   },
   null,
   {
-   "s": 1036.4,
-   "e": 1081.54,
+   "s": 1059.36,
+   "e": 1104.5,
    "sentences": [
     {
      "t": "If first-year commissions get capped and every policy must be tagged to its seller with clawbacks for mis-selling, every agency and brokerage in India needs to re-model earnings, restructure payout grids, and audit conduct risk before FY29.",
-     "s": 1036.4,
-     "e": 1054.21
+     "s": 1059.36,
+     "e": 1077.17
     },
     {
      "t": "The product: a simulator that ingests a distributor's book and shows agent-level income under the new caps, flags clawback exposure from past sales, and generates the documentation trail the paper demands.",
-     "s": 1054.21,
-     "e": 1067.98
+     "s": 1077.17,
+     "e": 1090.94
     },
     {
      "t": "Sell it to the 30-odd insurers' distribution heads first - they have budgets and a Sunday deadline for comments.",
-     "s": 1067.98,
-     "e": 1075.02
+     "s": 1090.94,
+     "e": 1097.98
     },
     {
      "t": "What kills it: the final framework diluting caps enough that nobody needs to change anything.",
-     "s": 1075.02,
-     "e": 1081.54
+     "s": 1097.98,
+     "e": 1104.5
     }
    ]
   },
   null,
   {
-   "s": 1081.54,
-   "e": 1137.93,
+   "s": 1104.5,
+   "e": 1160.89,
    "sentences": [
     {
      "t": "Mistral's Tuesday launch bundles transcription, speech synthesis and a voice-agent SDK (built on LiveKit) into one streaming pipeline: listen, reason, call tools, speak, with turns under a second and barge-in handling.",
-     "s": 1081.54,
-     "e": 1098.11
+     "s": 1104.5,
+     "e": 1121.07
     },
     {
      "t": "Transcription covers 50+ languages including Hindi and other Indic languages; the company says its Small Transcribe 3 beats Whisper, Scribe v2 and Gemini 3.5 Transcribe on the FLEURS-45 multilingual benchmark, citing Artificial Analysis data - a vendor claim dated 20 October, with independent runs the verification to watch for.",
-     "s": 1098.11,
-     "e": 1120.39
+     "s": 1121.07,
+     "e": 1143.35
     },
     {
      "t": "Pricing is aggressive: batch transcription at $0.0035 per minute, realtime at $0.008, voice agents at $0.04 per minute with Mistral's own reasoning model.",
-     "s": 1120.39,
-     "e": 1134.35
+     "s": 1143.35,
+     "e": 1157.31
     },
     {
      "t": "It can be self-hosted for data sovereignty.",
-     "s": 1134.35,
-     "e": 1137.93
+     "s": 1157.31,
+     "e": 1160.89
     }
    ]
   },
   {
-   "s": 1137.93,
-   "e": 1158.66,
+   "s": 1160.89,
+   "e": 1181.62,
    "sentences": [
     {
      "t": "Why: insurance is a phone business - claims intimation, renewals, mis-selling audits all run on calls.",
-     "s": 1137.93,
-     "e": 1145.79
+     "s": 1160.89,
+     "e": 1168.75
     },
     {
      "t": "A sub-cent-per-minute transcription layer plus a tool-calling voice agent puts automated, auditable call handling within reach of any distributor, not just insurers with contact-center budgets.",
-     "s": 1145.79,
-     "e": 1158.66
+     "s": 1168.75,
+     "e": 1181.62
     }
    ]
   },
   null,
   {
-   "s": 1158.66,
-   "e": 1218.49,
+   "s": 1181.62,
+   "e": 1241.45,
    "sentences": [
     {
      "t": "Inception says Mercury 3, its diffusion-based model, matches or beats GPT-6 Luna and Claude Haiku 5.5 on its benchmarks while generating at 1,068 tokens per second on NVIDIA GPUs - several times faster than frontier speed-optimized models - at $0.20 per million input tokens and $0.70 per million output (half price at launch: $0.10 in, $0.35 out), with a 1-million-token context.",
-     "s": 1158.95,
-     "e": 1189.75
+     "s": 1181.91,
+     "e": 1212.71
     },
     {
      "t": "Unlike autoregressive models that write one token at a time, diffusion models refine the whole answer in parallel passes; third-party toolmaker Curiosity, which ran it this week, explains the mechanics and confirms it is already usable as a drop-in provider.",
-     "s": 1190.1,
-     "e": 1206.77
+     "s": 1213.06,
+     "e": 1229.73
     },
     {
      "t": "Inception reports Mercury 3 completed 50% of 50 live Mind2Web web-navigation tasks, ahead of GPT-6.1-Sol in its own harness.",
-     "s": 1206.77,
-     "e": 1218.49
+     "s": 1229.73,
+     "e": 1241.45
     }
    ]
   },
   {
-   "s": 1218.49,
-   "e": 1234.54,
+   "s": 1241.45,
+   "e": 1257.5,
    "sentences": [
     {
      "t": "Why: the cost-and-latency floor of agentic AI keeps falling; a 4-8x speed advantage at this price changes which workflows (voice agents, live research, document pipelines) are viable at Indian price points.",
-     "s": 1218.49,
-     "e": 1234.54
+     "s": 1241.45,
+     "e": 1257.5
     }
    ]
   },
@@ -761,210 +766,210 @@
   null,
   null,
   {
-   "s": 1234.54,
-   "e": 1283.72,
+   "s": 1257.5,
+   "e": 1306.68,
    "sentences": [
     {
      "t": "Two builder-relevant notes from the launches above.",
-     "s": 1234.54,
-     "e": 1238.63
+     "s": 1257.5,
+     "e": 1261.59
     },
     {
      "t": "Mercury 3's 1-million-token context and launch pricing ($0.35 per million output tokens, cached input 90% off) make it worth a slot in any multi-model router for latency-sensitive steps; Inception claims browser-agent workloads are its early-production use case.",
-     "s": 1238.63,
-     "e": 1260.3
+     "s": 1261.59,
+     "e": 1283.26
     },
     {
      "t": "Voxtral 3's SDK is the more interesting build surface: speech-in to speech-out with function calling over SIP and WebRTC, self-hostable - a weekend project could prototype a Hindi-first renewal-reminder voice agent against its API for under a dollar of usage.",
-     "s": 1260.3,
-     "e": 1283.72
+     "s": 1283.26,
+     "e": 1306.68
     }
    ]
   },
   null,
   {
-   "s": 1314.86,
-   "e": 1400.32,
+   "s": 1337.82,
+   "e": 1423.28,
    "sentences": [
     {
      "t": "In 1973, psychologists Daniel Kahneman and Amos Tversky gave students a problem.",
-     "s": 1314.86,
-     "e": 1328.07
+     "s": 1337.82,
+     "e": 1351.03
     },
     {
      "t": "In the late 1970s, psychologists Daniel Kahneman and Amos Tversky gave students a problem.",
-     "s": 1328.41,
-     "e": 1335.4
+     "s": 1351.37,
+     "e": 1358.36
     },
     {
      "t": "In the city, 85% of cabs are green and 15% are blue.",
-     "s": 1338.8,
-     "e": 1344.48
+     "s": 1361.76,
+     "e": 1367.44
     },
     {
      "t": "A witness identified the cab as blue, and tests showed the witness tells the two colours apart correctly 80% of the time.",
-     "s": 1344.48,
-     "e": 1352.97
+     "s": 1367.44,
+     "e": 1375.93
     },
     {
      "t": "What is the probability the cab was blue?",
-     "s": 1352.97,
-     "e": 1356.17
+     "s": 1375.93,
+     "e": 1379.13
     },
     {
      "t": "Most people said about 80% - the witness's accuracy.",
-     "s": 1356.17,
-     "e": 1360.53
+     "s": 1379.13,
+     "e": 1383.49
     },
     {
      "t": "The correct answer, combining the witness with the city's base rates, is about 41%: blue cabs are so rare that a fifth of green cabs being misidentified still outnumbers four-fifths of blue ones identified right.",
-     "s": 1360.53,
-     "e": 1375.91
+     "s": 1383.49,
+     "e": 1398.87
     },
     {
      "t": "The experiment, from their 1980 paper \"Causal schemas in judgments under uncertainty\", showed that a vivid individual fact (a witness pointing) reliably crowds out a boring statistic (how many blue cabs exist).",
-     "s": 1376.56,
-     "e": 1392.87
+     "s": 1399.52,
+     "e": 1415.83
     },
     {
      "t": "They called it base-rate neglect, and it has replicated across medicine, law and hiring for five decades.",
-     "s": 1393.16,
-     "e": 1400.32
+     "s": 1416.12,
+     "e": 1423.28
     }
    ]
   },
   {
-   "s": 1400.32,
-   "e": 1447.18,
+   "s": 1423.28,
+   "e": 1470.14,
    "sentences": [
     {
      "t": "You met it this morning.",
-     "s": 1400.32,
-     "e": 1402.04
+     "s": 1423.28,
+     "e": 1425.0
     },
     {
      "t": "The Jio IPO's grey-market premium implies a 22% listing gain - a vivid, specific story about this one issue.",
-     "s": 1402.04,
-     "e": 1411.25
+     "s": 1425.0,
+     "e": 1434.21
     },
     {
      "t": "The base rate is what happens to India's very largest IPOs at listing, which includes Paytm falling 27% on debut in 2021 and LIC sinking below its issue price for months.",
-     "s": 1411.25,
-     "e": 1424.38
+     "s": 1434.21,
+     "e": 1447.34
     },
     {
      "t": "Neither number alone is the answer; the mistake is letting the exciting one set the price before the boring one is even consulted.",
-     "s": 1424.38,
-     "e": 1432.72
+     "s": 1447.34,
+     "e": 1455.68
     },
     {
      "t": "In insurance, the same error runs in reverse: a dramatic claim story (the factory fire that made the news) moves renewal pricing more than the portfolio's loss ratio, the actual base rate, ever does.",
-     "s": 1432.72,
-     "e": 1447.18
+     "s": 1455.68,
+     "e": 1470.14
     }
    ]
   },
   {
-   "s": 1447.18,
-   "e": 1476.78,
+   "s": 1470.14,
+   "e": 1499.74,
    "sentences": [
     {
      "t": "The decision rule: when a specific story meets a stable statistic, write the statistic down first and adjust from it for what is genuinely different this time - never start from the story.",
-     "s": 1447.18,
-     "e": 1459.67
+     "s": 1470.14,
+     "e": 1482.63
     },
     {
      "t": "For Jio, the genuinely different things are real (record anchor demand, a profitable 53-crore-customer business); the base rate still says most first-day pops of hyped mega-issues are smaller than the grey market's final number, in either direction.",
-     "s": 1459.67,
-     "e": 1476.78
+     "s": 1482.63,
+     "e": 1499.74
     }
    ]
   },
   {
-   "s": 1476.78,
-   "e": 1506.26,
+   "s": 1499.74,
+   "e": 1529.22,
    "sentences": [
     {
      "t": "Sixty-second recall: close the page and answer: (1) In the cab problem, what did most people answer, and what was the correct figure?",
-     "s": 1476.78,
-     "e": 1486.31
+     "s": 1499.74,
+     "e": 1509.27
     },
     {
      "t": "(2) Name the base rate that should anchor Jio listing expectations.",
-     "s": 1486.31,
-     "e": 1491.05
+     "s": 1509.27,
+     "e": 1514.01
     },
     {
      "t": "(3) What is the decision rule, in one sentence?",
-     "s": 1491.05,
-     "e": 1494.93
+     "s": 1514.01,
+     "e": 1517.89
     },
     {
      "t": "Answers: (1) about 80%; about 41%.",
-     "s": 1494.93,
-     "e": 1496.12
+     "s": 1517.89,
+     "e": 1519.08
     },
     {
      "t": "(2) The listing history of India's largest IPOs, not today's grey-market premium.",
-     "s": 1496.12,
-     "e": 1500.19
+     "s": 1519.08,
+     "e": 1523.15
     },
     {
      "t": "(3) Start from the statistic; adjust for what is verifiably different.",
-     "s": 1500.19,
-     "e": 1506.26
+     "s": 1523.15,
+     "e": 1529.22
     }
    ]
   },
   {
-   "s": 1506.26,
-   "e": 1546.7,
+   "s": 1529.22,
+   "e": 1569.66,
    "sentences": [
     {
      "t": "An institution allotted shares in an IPO one working day before the issue opens to the public, at a price fixed within the band, in exchange for a lock-in that keeps the shares off the market after listing.",
-     "s": 1506.26,
-     "e": 1523.43
+     "s": 1529.22,
+     "e": 1546.39
     },
     {
      "t": "The point is signalling: a strong anchor book tells later investors that large, informed buyers committed early.",
-     "s": 1523.43,
-     "e": 1530.36
+     "s": 1546.39,
+     "e": 1553.32
     },
     {
      "t": "Jio Platforms raised ₹8,109.84 crore from 212 anchor investors on Monday - but remember the concept above: anchor demand is the story, the listing base rate is the statistic.",
-     "s": 1530.36,
-     "e": 1546.7
+     "s": 1553.32,
+     "e": 1569.66
     }
    ]
   },
   {
-   "s": 1546.7,
-   "e": 1592.6,
+   "s": 1569.66,
+   "e": 1615.56,
    "sentences": [
     {
      "t": "What I think the market is missing - an analytical read, not advice.",
-     "s": 1546.7,
-     "e": 1552.01
+     "s": 1569.66,
+     "e": 1574.97
     },
     {
      "t": "Everyone will watch Jio's subscription counter today, but a subscription number only describes one stock.",
-     "s": 1552.01,
-     "e": 1559.16
+     "s": 1574.97,
+     "e": 1582.12
     },
     {
      "t": "The wider tells are simpler: whether crude stays near the five-month high it touched overnight, whether IT - Monday's worst sector - responds to the overnight rebound in US tech futures, and whether foreign investors extend Monday's ₹1,149 crore of selling.",
-     "s": 1559.16,
-     "e": 1578.23
+     "s": 1582.12,
+     "e": 1601.19
     },
     {
      "t": "Monday's fall was blamed on bank margins, but crude has since touched a five-month high.",
-     "s": 1578.59,
-     "e": 1584.36
+     "s": 1601.55,
+     "e": 1607.32
     },
     {
      "t": "This is a watch list, not a prediction: those three, more than the subscription counter, will show what kind of day it is.",
-     "s": 1584.82,
-     "e": 1592.6
+     "s": 1607.78,
+     "e": 1615.56
     }
    ]
   },
