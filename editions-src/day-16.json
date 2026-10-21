@@ -1,0 +1,499 @@
+{
+ "day": 16,
+ "meta": {
+  "date": "Wednesday 21 October 2026",
+  "short": "Wed 21 Oct",
+  "longread": 16
+ },
+ "edition": {
+  "title": "Morning paper, Wednesday 21 October 2026",
+  "fact": "Edition 16. Jio's open day, with crude on the boil. Wednesday 21 October 2026: markets reopen after Dussehra. Jio Platforms' ₹30,188 crore IPO, India's largest, opens at 9 AM after an anchor book roughly 30 times subscribed; Brent touched $112 overnight. The long read is the Yes Bank AT1 saga.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. India comes back from a one-day holiday to three things at once: the biggest IPO in its history opens for public subscription, oil is at a five-month high, and the Supreme Court's Yes Bank AT1 verdict has put a ₹8,415 crore bill back on a bank's books. Insurance gets its own reset: the regulator's commission-cap consultation closes Sunday.",
+  "concept": {
+   "label": "One concept a day",
+   "name": "Base-rate neglect",
+   "line": "A vivid story crowds out the boring statistic underneath it - why a 22% grey-market premium should never be priced before the listing record of India's largest IPOs."
+  },
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The biggest IPO opens:</strong> Jio Platforms opens for subscription today (closes Friday), ₹1,065 to ₹1,119 a share, lot of 12. Anchors put in ₹8,110 crore on Monday against bids of nearly ₹2.5 lakh crore; LIC, BlackRock, GIC and Norges Bank are in."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Insurance economics reset:</strong> IRDAI's distribution paper caps first-year life commissions at 20-25%, halves insurer expense limits over five years, and defines mis-selling with clawbacks. Industry veterans warn 15-40% of agents could exit over two to four years. Comments close Sunday 25 October."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Yes Bank's ₹8,415 crore bill:</strong> the Supreme Court has upheld the quashing of the 2020 AT1 bond write-off. The bank must honour the bonds at 9-9.5% coupons plus interest; pro forma CET1 falls to about 11.4%. Management says no immediate capital raise."
+     },
+     {
+      "t": "p",
+      "html": "<strong>While India was shut:</strong> Wall Street rose Tuesday (Dow +1.02%), oil eased after touching $112, French stocks fell on unrest, and Nasdaq futures are up 200 points this morning on an AI-results rebound."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Zerodha goes global:</strong> US stock investing is live in beta on Kite - 2,000 stocks and 1,000 ETFs, fractional from $1, 0.1% brokerage capped at $10."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Today to watch:</strong> Jio day-1 subscription numbers through the session; RBI publishes the minutes of its 7 October rate-hike meeting today; Zetwerk lists Friday. <a href=\"#s-cal\">Calendar</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "India's largest IPO opens: Jio Platforms, ₹30,188 crore, 9 AM today",
+      "kicker": "IPO, lead"
+     },
+     {
+      "t": "p",
+      "html": "The offer: a fresh issue of 27 crore shares, 2.9% of post-issue equity, at ₹1,065-1,119. Retail lot is 12 shares (₹13,428 at the top of the band). Employees get a ₹500 crore reservation at a ₹54 discount to the final price; Reliance Industries shareholders get a ₹2,500 crore reservation. Of the proceeds, ₹27,500 crore goes to repay part of Reliance Jio Infocomm's debt. Allotment is expected 26 October, listing 28 October."
+     },
+     {
+      "t": "p",
+      "html": "The demand signal came Monday: 212 anchor investors were allotted ₹8,109.84 crore - BlackRock, Capital Group, Fidelity, T. Rowe Price, JPMorgan AM, GIC, Norges Bank, ADIA, QIA, all ten of India's largest mutual fund houses, and insurers and pension funds (LIC, HDFC Life, SBI Life, NPS Trust among them) who took ₹1,089.95 crore. Aggregate anchor bids touched nearly ₹2.5 lakh crore, the largest institutional demand any Indian IPO has drawn."
+     },
+     {
+      "t": "p",
+      "html": "The business they are buying: Jio Platforms earned ₹7,765 crore in the June quarter, up 9.1% on the year, on revenue of ₹39,172.9 crore, up 11.8%. Reliance Jio Infocomm serves 53.33 crore customers. The grey market premium - an unofficial, unregulated indicator - stood at ₹244 on Tuesday (21.8% over the band top), down from ₹250 on 18 October after ₹206 on 14 October."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> an IPO this size absorbs liquidity from everything else this week; how the secondary market holds up while ₹30,188 crore is taken out is the session's real question. If you or your clients hold RIL, the shareholder reservation is a separate quota, not the general pool."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the anchor book says institutions have already voted; today's retail and QIB subscription tells you whether everyone else agrees at ₹1,119."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/ipo/jio-platforms-raises-rs-8-110-crore-from-212-anchor-investors-ahead-of-rs-30-188-crore-ipo-lic-capital-group-among-top-investors-14055692.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a> / <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-lic-blackrock-fidelity-gic-among-212-anchor-investors-pour-rs-8110-crore/articleshow/135053762.cms\" target=\"_blank\" rel=\"noopener\">Economic Times</a>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 170\" width=\"100%\" role=\"img\" aria-label=\"Jio IPO demand versus size, in crore rupees\"><g><text x=\"200\" y=\"36\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">Anchor-book bids (Mon)</text><rect x=\"210\" y=\"18\" width=\"350\" height=\"26\" rx=\"3\" fill=\"#0f766e\"></rect><text x=\"568\" y=\"31\" fontSize=\"12.5\" fontWeight=\"700\" fill=\"#0f172a\">₹2,50,000 cr</text><text x=\"568\" y=\"45\" fontSize=\"10.5\" fill=\"#64748b\">≈30x the anchor allocation</text></g><g><text x=\"200\" y=\"84\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">Total issue size</text><rect x=\"210\" y=\"66\" width=\"42.2632\" height=\"26\" rx=\"3\" fill=\"#1e3a8a\"></rect><text x=\"260.2632\" y=\"79\" fontSize=\"12.5\" fontWeight=\"700\" fill=\"#0f172a\">₹30,188 cr</text><text x=\"260.2632\" y=\"93\" fontSize=\"10.5\" fill=\"#64748b\">27 crore fresh shares, ₹1,065–1,119</text></g><g><text x=\"200\" y=\"132\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">Anchor allotment (Mon)</text><rect x=\"210\" y=\"114\" width=\"11.354\" height=\"26\" rx=\"3\" fill=\"#b45309\"></rect><text x=\"229.35399999999998\" y=\"127\" fontSize=\"12.5\" fontWeight=\"700\" fill=\"#0f172a\">₹8,110 cr</text><text x=\"229.35399999999998\" y=\"141\" fontSize=\"10.5\" fill=\"#64748b\">212 investors incl. LIC, BlackRock, GIC</text></g><text x=\"380\" y=\"162\" textAnchor=\"middle\" fontSize=\"11\" fill=\"#64748b\">₹ crore. Anchor bids and allotment: moneycontrol, 19–20 Oct 2026; issue size per the same report.</text></svg>"
+     },
+     {
+      "t": "story",
+      "title": "IRDAI's distribution reset: commission caps return, and the industry counts its agents",
+      "kicker": "Insurance, lead"
+     },
+     {
+      "t": "p",
+      "html": "The regulator's 23 September consultation paper - about 160 pages, in two parts - would cap first-year commission on individual life policies with premium terms of ten years or more at 20% for distribution entities and 25% for agents; cut life insurers' expense-of-management ceiling to 15% of premium in two years and 12.5% in five; cut general insurers' expense limit from 30% to 20% over five years; mandate commission disclosure on each policy; tag every policy to the intermediary who sold it; define mis-selling in regulation for the first time; and claw back commission on mis-sold policies. Small-town distributors get headroom: +10% of the limit in towns under 10 lakh people, +20% below 50,000. The first expense milestone lands in FY29."
+     },
+     {
+      "t": "p",
+      "html": "The case the paper makes with its own data: between FY23 and FY25, life premiums through corporate agents grew 28% while payouts to distributors grew 125%; broker-sourced general insurance premiums rose 37% against a 173% rise in commissions; motor premiums rose about 34% against commissions up about 259%. Private life insurers' expenses have climbed from 16% of premiums in FY21 to about 22%; private general insurers from 25% in FY19 to about 32%. Commission caps were scrapped only in 2023; this brings them back in a different form."
+     },
+     {
+      "t": "p",
+      "html": "The pushback has started. Former LIC managing director Vipin Anand estimates about 15% of LIC's agents could exit over two years; LIAFI chairman N. Gajapathi Rao warns attrition could reach 40% over three to four, with part-time and low-earning agents going first (both to ETBFSI). IRDAI chairman Ajay Seth says the regulator is open to a reasonable transition period, but not an indefinite one. Comments close Sunday 25 October."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> this is your industry's P&amp;L being rewritten - bancassurance income estimates are already out (RBL sees a 50-60% hit), and agency economics decide recruitment and persistency across distribution. If you want a say, the comment window closes this week."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the fight is no longer whether costs come down but over how many years the glide path runs - Seth's \"reasonable transition, not indefinite\" is the tell."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/59734/IRDAI-issued-a-Public-Consultation-Paper-on-Recalibrating-Economics-of-Insurance-Distribution-September242026.pdf\" target=\"_blank\" rel=\"noopener\">IRDAI consultation press release (primary)</a> / <a href=\"https://theinsurancereporter.com/irdai-open-to-phased-rollout-of-commission-and-expense-caps/\" target=\"_blank\" rel=\"noopener\">The Insurance Reporter</a> / <a href=\"https://bfsi.economictimes.indiatimes.com/news/insurance/irdais-proposed-commission-cuts-may-push-up-to-40-of-lic-agents-out-of-business-experts-warn/124847001\" target=\"_blank\" rel=\"noopener\">ETBFSI</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Front page, continued",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Yes Bank must honour ₹8,415 crore of AT1 bonds the Supreme Court says were killed illegally",
+      "kicker": "Banks, courts"
+     },
+     {
+      "t": "p",
+      "html": "On 15 October the Supreme Court upheld the Bombay High Court's 2023 decision quashing Yes Bank's March 2020 write-down of ₹8,415 crore of Additional Tier 1 bonds, dismissing appeals by the bank, its former administrator, the RBI and the Union government. The bank must now honour the bonds at their 9% and 9.5% coupons, plus interest. The bench of Justices Dipankar Datta and Augustine George Masih held the administrator acted beyond his powers once the final reconstruction scheme was in force - and added that \"the RBI was a mere bystander\" while Yes Bank's CET1 ratio sank to 0.6%."
+     },
+     {
+      "t": "p",
+      "html": "The bill lands on a bank mid-repair. CET1 was 13.7% on 30 September; reinstating the principal cuts it to about 11.4% pro forma, a 240-basis-point hit. CFO Niranjan Banodkar calls 11-11.5% \"not ideal\" but points to buffers: deferred tax assets, a security-receipts portfolio carried at zero with a face value of about ₹1,500 crore, and two rating agencies calling the verdict credit-neutral. CEO Vinay Tonse says there is \"no gun to our head\" to raise capital. The stock closed 14.5% lower on verdict day after a near-20% intraday fall; it closed Monday at ₹16.88."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> this is the largest court-ordered capital event for an Indian bank in years, and it rewrites what AT1 \"loss absorption\" means in India - the instrument did its job in 2020 and the courts have now said the job was done illegally. Every bank AT1 prospectus gets repriced on this."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> watch the coupon math, not the headlines: honouring 9-9.5% coupons plus six years of interest on ₹8,415 crore is a recurring cost, and how Yes Bank funds it decides whether a capital raise is \"commercial evaluation\" or necessity. The full saga is today's long read."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/markets/sc-strikes-down-yes-bank-s-rs-8-415-crore-at1-bond-write-off-lender-s-shares-fall-10-14052995.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a> / <a href=\"https://www.livelaw.in/supreme-court/rbi-was-mere-bystander-when-yes-bank-carried-out-business-clandestinely-supreme-court-554919\" target=\"_blank\" rel=\"noopener\">LiveLaw</a> / <a href=\"https://www.business-standard.com/companies/news/yes-bank-sees-no-immediate-need-to-raise-capital-after-sc-s-at1-verdict-126102000703_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>"
+     },
+     {
+      "t": "story",
+      "title": "While India was shut: Wall Street up, oil at a five-month high, France under curfew",
+      "kicker": "Global markets"
+     },
+     {
+      "t": "p",
+      "html": "Tuesday's global session, which India missed for Dussehra: the Dow rose 1.02% to 52,495.88 and the S&amp;P 500 added 0.28%, helped by 3M jumping 5.8% on an expanded Amazon data-center partnership; the Nasdaq finished flat. After the bell, SpaceX said quarterly revenue more than doubled, and Nasdaq futures are up over 200 points this morning - the AI trade is rebounding ahead of Meta's results tonight. Not everything joined in: South Korean AI-infrastructure firm Elice Group fell 32% below its IPO price on debut."
+     },
+     {
+      "t": "p",
+      "html": "The pressure point is oil. Brent settled at $108.79 after touching $111.99 intraday, a five-month high, as Houthi attacks on Saudi infrastructure met an Iran-Pakistan mediation meeting. France stayed the outlier: stocks fell 0.38% as protests continue under curfews, and its 10-year yield hit 4.96%. The US 10-year eased to 5.121%; the chance of a Federal Reserve rate hike next week is down to 17.2% from 57.6% a month ago, per CME FedWatch."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> Monday's 1.11% Nifty fall happened with Brent at $109; India reopens with crude higher still and the world's biggest IPO pulling liquidity the same morning. The offset is the AI rebound - good for IT, Monday's worst sector."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the thing to watch is oil, not the IPO: crude touched a five-month high overnight on the same morning the biggest-ever IPO pulls liquidity."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://live.euronext.com/en/financial-news/stocks-mostly-rise-oil-us-yields-ease-french-stocks-fall\" target=\"_blank\" rel=\"noopener\">Reuters</a> / <a href=\"https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-today-oil-ai-jio-platforms-ipo-eternal-bajaj-fin-it-stocks-srf-abb-banks-share-price-liveblog-20015658.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 (this morning)</a>"
+     },
+     {
+      "t": "story",
+      "title": "Zerodha starts selling US stocks on Kite",
+      "kicker": "Fintech"
+     },
+     {
+      "t": "p",
+      "html": "India's largest discount broker has launched US stock investing in beta: about 2,000 US-listed companies and 1,000 ETFs, fractional investing from $1, delivery-based trades and SIPs in eligible stocks. Pricing is 0.1% brokerage capped at $10 per order, plus a 0.5% forex markup. The launch puts Zerodha in direct competition with Groww, Upstox and Angel One for retail demand for global tech exposure."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> cross-border retail broking is becoming a commodity product; the interesting question is whether Zerodha's no-frills pricing resets what the others charge - and what it does to order flow for domestic IPOs like Jio's this week."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> watch whether the incumbents respond on forex markup, where the real margin sits."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://inc42.com/buzz/zerodha-launches-us-stock-investing-offers-access-to-2000-stocks/\" target=\"_blank\" rel=\"noopener\">inc42</a> / <a href=\"https://zerodha.com/us-stocks/\" target=\"_blank\" rel=\"noopener\">Zerodha</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets: the reopen setup",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Indian exchanges were shut Tuesday for Dussehra (<a href=\"https://www.moneycontrol.com/news/business/markets/stock-market-holiday-today-on-october-20-bse-nse-to-remain-closed-for-dussehra-14055566.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>), so the last traded session is Monday's: Sensex -1.17% to 73,852.90, Nifty 50 -1.11% to 22,888.95, Bank Nifty -0.64% to 55,488.10, on private-bank and IT selling (yesterday's edition has the full bank-split anatomy). Foreign investors sold ₹1,149 crore on Monday; domestic institutions bought ₹3,201 crore. India VIX rose 5.33% to 14.77."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 240\" width=\"100%\" role=\"img\" aria-label=\"One-day moves in global markets while India was shut on Tuesday\"><g><text x=\"200\" y=\"31\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">Dow Jones</text><rect x=\"210\" y=\"16\" width=\"326.4\" height=\"22\" rx=\"3\" fill=\"#0f766e\"></rect><text x=\"542.4\" y=\"31\" textAnchor=\"start\" fontSize=\"12\" fontWeight=\"600\" fill=\"#0f766e\">+1.02%</text></g><g><text x=\"200\" y=\"67\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">S&amp;P 500</text><rect x=\"210\" y=\"52\" width=\"89.60000000000001\" height=\"22\" rx=\"3\" fill=\"#0f766e\"></rect><text x=\"305.6\" y=\"67\" textAnchor=\"start\" fontSize=\"12\" fontWeight=\"600\" fill=\"#0f766e\">+0.28%</text></g><g><text x=\"200\" y=\"103\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">Nasdaq</text><rect x=\"210\" y=\"88\" width=\"6.4\" height=\"22\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"222.4\" y=\"103\" textAnchor=\"start\" fontSize=\"12\" fontWeight=\"600\" fill=\"#b91c1c\">-0.02%</text></g><g><text x=\"200\" y=\"139\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">STOXX 600</text><rect x=\"210\" y=\"124\" width=\"44.800000000000004\" height=\"22\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"260.8\" y=\"139\" textAnchor=\"start\" fontSize=\"12\" fontWeight=\"600\" fill=\"#b91c1c\">-0.14%</text></g><g><text x=\"200\" y=\"175\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">CAC 40 (France)</text><rect x=\"210\" y=\"160\" width=\"121.6\" height=\"22\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"337.6\" y=\"175\" textAnchor=\"start\" fontSize=\"12\" fontWeight=\"600\" fill=\"#b91c1c\">-0.38%</text></g><g><text x=\"200\" y=\"211\" textAnchor=\"end\" fontSize=\"12\" fill=\"#334155\">Brent crude</text><rect x=\"210\" y=\"196\" width=\"220.79999999999998\" height=\"22\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"436.79999999999995\" y=\"211\" textAnchor=\"start\" fontSize=\"12\" fontWeight=\"600\" fill=\"#b91c1c\">-0.69%</text></g><text x=\"485\" y=\"228\" textAnchor=\"middle\" fontSize=\"11\" fill=\"#64748b\">One-day moves, Tuesday 20 Oct closes; red bars are declines. Source: Reuters, 20 Oct 2026.</text></svg>"
+     },
+     {
+      "t": "story",
+      "title": "The watch list for today's session",
+      "kicker": "Watchlist, not advice"
+     },
+     {
+      "t": "bullets",
+      "items": [
+       "Reliance Industries: the Jio IPO is today; parent shareholders have a ₹2,500 crore reserved quota. Watch for liquidity rotation out of RIL into Jio applications.",
+       "Yes Bank: first full session with the AT1 liability digested; Monday close ₹16.88. Watch whether 11.4% pro forma CET1 draws sellers or bottom-fishers.",
+       "ICICI Bank / HDFC Bank / Axis Bank: Monday’s margin verdict continues; ICICI’s 4.18% NIM was the best print and it still fell.",
+       "Union Bank of India / PNB: the other side of the margin trade; both reported expanding NIMs.",
+       "Bajaj Finance: FY27 AUM growth guidance raised to 26-27% after a 28.5% profit jump; management flags margin pressure from rate hikes.",
+       "Infosys and IT: Nasdaq futures up 200+ points on the AI rebound after Monday’s selloff; Infosys also announced an expanded Truist collaboration with a Hyderabad GCC.",
+       "Hindustan Zinc: Q2 profit up 17.2% to ₹6,412 crore, beating estimates.",
+       "L&amp;T Technology Services: Q2 net profit up 53.5% sequentially to ₹548 crore.",
+       "IREDA: Q2 profit flat at ₹552 crore; watch the renewable-financing book.",
+       "Sobha / Delta Corp: Monday’s profit misses (down 54.6%, and a ₹106 crore loss) - watch for follow-through selling.",
+       "Genus Power: board meets 26 October to consider a buyback.",
+       "Venus Pipes: began pipe-spooling work ahead of schedule for a data-centre client.",
+       "Globus Spirits: maize ethanol price cut of ₹3/litre; analysts see a 10-11% EBITDA hit.",
+       "UltraTech Cement and two-wheelers: positive cement commentary; Citi now pencils 9% industry volume growth for FY27.",
+       "Zetwerk: lists Friday after a 3.06-times-subscribed IPO with a 73%-subscribed retail book."
+      ]
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-21-12208206\" target=\"_blank\" rel=\"noopener\">NDTV Profit setup</a> / <a href=\"https://www.moneycontrol.com/news/business/markets/trade-setup-for-october-21-top-15-things-to-know-before-the-opening-bell-14056031.html\" target=\"_blank\" rel=\"noopener\">moneycontrol setup</a>"
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Open today:</strong> Jio Platforms (21-23 October, ₹1,065-1,119, lot of 12, fresh issue) - full detail on the front page. The grey market premium, an unofficial indicator tracked by ET Now at ₹244 on Tuesday evening, implies a 21.8% listing premium if it holds; it has already swung between ₹206 and ₹250 in a week, which is exactly why it is a mood gauge, not a forecast. Worth a closer look if you were waiting for a telecom-digital anchor asset; what would make the case wrong is a crude-driven market slide turning a 22% grey premium into a negative listing day, as Paytm's 2021 debut proved can happen to even the largest issues."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Listing this week:</strong> Zetwerk lists on Friday 23 October (<a href=\"https://www.cnbctv18.com/market/ipo/zetwerk-manufacturing-businesses-ltd-ipo/6CEEE1/\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 IPO page</a>). The issue closed 3.06 times subscribed with the retail book 73% filled - institutions carried this one. Yesterday's long read has the full company story."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Genus Power: board meets 26 October to consider a share buyback (NDTV Profit, 21 Oct).",
+       "Orchid Pharma: board approved raising up to ₹600 crore via equity or other instruments (NDTV Profit, 21 Oct).",
+       "Cemindia Projects: QIP closed; allotted 1.3 crore shares at ₹1,108 apiece (NDTV Profit, 21 Oct).",
+       "Titan: fully redeemed commercial paper worth ₹1,000 crore (NDTV Profit, 21 Oct).",
+       "Transrail Lighting: approved acquiring 49% of Pace Green Energy for ₹20 crore, into a 990 MW Maharashtra solar portfolio (NDTV Profit, 21 Oct).",
+       "Gabriel India: joint venture with Faurecia Automotive, taking 50%-minus-one-share; starts with a ₹20 crore investment (NDTV Profit, 21 Oct).",
+       "Nuvama Wealth: arm Nuvama Asset Management gets SEBI approval to launch a Specialised Investment Fund (NDTV Profit, 21 Oct).",
+       "Karnataka Bank: COO Raja BS resigned, effective 19 October (NDTV Profit, 21 Oct).",
+       "Monday results: Hindustan Zinc profit +17.2% to ₹6,412 crore (beat); L&amp;T Technology Services +53.5% QoQ to ₹548 crore; IREDA flat at ₹552 crore; Sobha -54.6%; Delta Corp ₹106 crore loss; Just Dial -9.2% (NDTV Profit, 21 Oct)."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Bajaj Finance raises its growth target in a rate-hike cycle - and names the cost",
+      "kicker": "Earnings insight"
+     },
+     {
+      "t": "p",
+      "html": "The NBFC lifted FY27 AUM growth guidance to 26-27% (from 23-25%) after a September quarter with AUM up 26.5% to ₹5.85 lakh crore and profit up 28.5% to ₹6,266 crore; gross NPA improved to 1.06% from 1.24% a year ago. The honest part of the call: management has factored in two more RBI rate hikes this year (taking the repo rate toward 6%), expects a marginal extra headwind on top of its 10-15 basis-point margin-compression guidance, and is watching the proposed insurance-distribution caps for fee-income impact. Cost of funds fell 9 basis points to 7.87%."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why:</strong> raising guidance while pricing in two hikes is a bet that volume and opex control (targeting 25-40 bps of cost-ratio improvement) outrun funding costs - the opposite posture from the banks Monday's market punished."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/banking/bajaj-finance-raises-fy27-aum-growth-guidance-by-4-to-27-after-q2-article-14055736.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a> / <a href=\"https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-21-12208206\" target=\"_blank\" rel=\"noopener\">NDTV Profit results</a>"
+     },
+     {
+      "t": "story",
+      "title": "The FII-DII gap and the rupee",
+      "kicker": "Flows"
+     },
+     {
+      "t": "p",
+      "html": "Foreign investors sold ₹1,149 crore of Indian equities on Monday while domestic institutions bought ₹3,201 crore - the fourth recent session where local money absorbed foreign selling. The rupee held near 94.9 per dollar through the holiday; with Brent at a five-month high, the import bill, not equity flows, is the currency's real test this week."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-21-12208206\" target=\"_blank\" rel=\"noopener\">NDTV Profit setup</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Even Healthcare raises $50 million to build hospitals that don't reward overtreatment",
+      "kicker": "Funding, lead"
+     },
+     {
+      "t": "p",
+      "html": "The Bengaluru startup's all-equity Series B, led by Khosla Ventures with Alpha Wave participating, values it at $300 million - triple its mark of 18 months ago - and takes total capital past $120 million. Founded in 2021 by Mayank Banerjee, Matilde Giglio and Alessandro Ialongo, Even runs a model where it finances and delivers care itself: it found partner-hospital patients were being sent for tests and surgeries it considered unnecessary, so it started building its own hospitals. Two are open in Bengaluru, both operationally profitable within a year, and five more open over the next six months on this round."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why:</strong> Indian hospitals earn per test, procedure and bed-day, so the system profits from more care, not better outcomes. Even is betting an insurer's economics (pay for outcomes, avoid overtreatment) can run a hospital chain - if the two profitable units scale to seven, that is a new template for health insurance itself."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>"
+     },
+     {
+      "t": "story",
+      "title": "One startup idea: the commission-cap survival kit for insurance distributors",
+      "kicker": "Idea"
+     },
+     {
+      "t": "p",
+      "html": "If first-year commissions get capped and every policy must be tagged to its seller with clawbacks for mis-selling, every agency and brokerage in India needs to re-model earnings, restructure payout grids, and audit conduct risk before FY29. The product: a simulator that ingests a distributor's book and shows agent-level income under the new caps, flags clawback exposure from past sales, and generates the documentation trail the paper demands. Sell it to the 30-odd insurers' distribution heads first - they have budgets and a Sunday deadline for comments. What kills it: the final framework diluting caps enough that nobody needs to change anything."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://avantiscdnprodstorage.blob.core.windows.net/legalupdatedocs/59734/IRDAI-issued-a-Public-Consultation-Paper-on-Recalibrating-Economics-of-Insurance-Distribution-September242026.pdf\" target=\"_blank\" rel=\"noopener\">Context: IRDAI paper</a>"
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Mistral's Voxtral 3: a full voice-agent stack, priced per minute, deployable on your own servers",
+      "kicker": "Launch, 20 Oct"
+     },
+     {
+      "t": "p",
+      "html": "Mistral's Tuesday launch bundles transcription, speech synthesis and a voice-agent SDK (built on LiveKit) into one streaming pipeline: listen, reason, call tools, speak, with turns under a second and barge-in handling. Transcription covers 50+ languages including Hindi and other Indic languages; the company says its Small Transcribe 3 beats Whisper, Scribe v2 and Gemini 3.5 Transcribe on the FLEURS-45 multilingual benchmark, citing Artificial Analysis data - a vendor claim dated 20 October, with independent runs the verification to watch for. Pricing is aggressive: batch transcription at $0.0035 per minute, realtime at $0.008, voice agents at $0.04 per minute with Mistral's own reasoning model. It can be self-hosted for data sovereignty."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why:</strong> insurance is a phone business - claims intimation, renewals, mis-selling audits all run on calls. A sub-cent-per-minute transcription layer plus a tool-calling voice agent puts automated, auditable call handling within reach of any distributor, not just insurers with contact-center budgets."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://mistral.ai/news/voxtral-3/\" target=\"_blank\" rel=\"noopener\">Mistral (official)</a>"
+     },
+     {
+      "t": "story",
+      "title": "Inception's Mercury 3: diffusion LLMs scale, and they are cheap",
+      "kicker": "Launch, 19-20 Oct"
+     },
+     {
+      "t": "p",
+      "html": "Inception says Mercury 3, its diffusion-based model, matches or beats GPT-6 Luna and Claude Haiku 5.5 on its benchmarks while generating at 1,068 tokens per second on NVIDIA GPUs - several times faster than frontier speed-optimized models - at $0.20 per million input tokens and $0.70 per million output (50% off at launch), with a 1-million-token context. Unlike autoregressive models that write one token at a time, diffusion models refine the whole answer in parallel passes; third-party toolmaker Curiosity, which ran it this week, explains the mechanics and confirms it is already usable as a drop-in provider. Inception reports Mercury 3 completed 50% of 50 live Mind2Web web-navigation tasks, ahead of GPT-6.1-Sol in its own harness."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why:</strong> the cost-and-latency floor of agentic AI keeps falling; a 4-8x speed advantage at this price changes which workflows (voice agents, live research, document pipelines) are viable at Indian price points."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-3\" target=\"_blank\" rel=\"noopener\">Inception (official)</a> / <a href=\"https://blog.curiosity.ai/blog/2026-10-mercury-3-diffusion-llm\" target=\"_blank\" rel=\"noopener\">Curiosity (third-party run)</a>"
+     },
+     {
+      "t": "story",
+      "title": "What's new radar",
+      "kicker": "24-72h"
+     },
+     {
+      "t": "bullets",
+      "items": [
+       "Mistral Voxtral 3 (20 Oct): voice-agent SDK + speech models in 50+ languages - above.",
+       "Inception Mercury 3 (19 Oct): diffusion LLM, 1M context, 1,068 tok/s - above.",
+       "MiniMax M3.1 Flash (19 Oct): faster, cheaper update to its open-weights model line, per the company's launch post.",
+       "DeepSeek V4.1 Flash (17 Oct): API changelog update to the V4.1 line.",
+       "Perplexity Decider v1.2 + Decider Flash v1.2 (16 Oct): 27B and 4B open-weight routing models, per its developer announcement.",
+       "Tonight: Meta reports quarterly results - the AI capex number the whole trade is watching (Reuters)."
+      ]
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://mistral.ai/news/voxtral-3/\" target=\"_blank\" rel=\"noopener\">Mistral</a> / <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-3\" target=\"_blank\" rel=\"noopener\">Inception</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Two builder-relevant notes from the launches above. Mercury 3's 1-million-token context and launch pricing ($0.35 per million output tokens, cached input 90% off) make it worth a slot in any multi-model router for latency-sensitive steps; Inception claims browser-agent workloads are its early-production use case. Voxtral 3's SDK is the more interesting build surface: speech-in to speech-out with function calling over SIP and WebRTC, self-hostable - a weekend project could prototype a Hindi-first renewal-reminder voice agent against its API for under a dollar of usage."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Wednesday: writing)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Draft your IRDAI consultation comment in 25 minutes.</strong> The commission-cap comment window closes Sunday. Steps: (1) download the consultation paper from IRDAI's release (linked in the insurance item above); (2) paste the sections on commission limits and expense caps into your AI assistant; (3) prompt: \"I run distribution at an insurance intermediary. Draft a one-page public comment on these proposals: state our position on first-year commission caps, request a three-year glide path, and cite the specific clause numbers each point refers to.\"; (4) rewrite two paragraphs in your own words with your own book's numbers before sending. A good result is one page, three asks, clause numbers correct - verify each citation against the PDF before it goes out."
+     }
+    ]
+   },
+   {
+    "heading": "One Concept a Day: base-rate neglect",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 1973, psychologists Daniel Kahneman and Amos Tversky gave students a problem. A cab was involved in a hit-and-run at night. In the city, 85% of cabs are green and 15% are blue. A witness identified the cab as blue, and tests showed the witness tells the two colours apart correctly 80% of the time. What is the probability the cab was blue? Most people said about 80% - the witness's accuracy. The correct answer, combining the witness with the city's base rates, is about 41%: blue cabs are so rare that a fifth of green cabs being misidentified still outnumbers four-fifths of blue ones identified right. The experiment, from their paper \"On the Psychology of Prediction\", showed that a vivid individual fact (a witness pointing) reliably crowds out a boring statistic (how many blue cabs exist). They called it base-rate neglect, and it has replicated across medicine, law and hiring for five decades."
+     },
+     {
+      "t": "p",
+      "html": "You met it this morning. The Jio IPO's grey-market premium implies a 22% listing gain - a vivid, specific story about this one issue. The base rate is what happens to India's very largest IPOs at listing, which includes Paytm falling 27% on debut in 2021 and LIC sinking below its issue price for months. Neither number alone is the answer; the mistake is letting the exciting one set the price before the boring one is even consulted. In insurance, the same error runs in reverse: a dramatic claim story (the factory fire that made the news) moves renewal pricing more than the portfolio's loss ratio, the actual base rate, ever does."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The decision rule:</strong> when a specific story meets a stable statistic, write the statistic down first and adjust from it for what is genuinely different this time - never start from the story. For Jio, the genuinely different things are real (record anchor demand, a profitable 53-crore-customer business); the base rate still says most first-day pops of hyped mega-issues are smaller than the grey market's final number, in either direction."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Sixty-second recall:</strong> close the page and answer: (1) In the cab problem, what did most people answer, and what was the correct figure? (2) Name the base rate that should anchor Jio listing expectations. (3) What is the decision rule, in one sentence? Answers: (1) about 80%; about 41%. (2) The listing history of India's largest IPOs, not today's grey-market premium. (3) Start from the statistic; adjust for what is verifiably different."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: anchor investor",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "An institution allotted shares in an IPO one working day before the issue opens to the public, at a price fixed within the band, in exchange for a lock-in that keeps the shares off the market after listing. The point is signalling: a strong anchor book tells later investors that large, informed buyers committed early. Jio Platforms raised ₹8,109.84 crore from 212 anchor investors on Monday - but remember the concept above: anchor demand is the story, the listing base rate is the statistic."
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. Everyone will watch Jio's subscription counter today, but a subscription number only describes one stock. The wider tells are simpler: whether crude stays near the five-month high it touched overnight, whether IT - Monday's worst sector - responds to the overnight rebound in US tech futures, and whether foreign investors extend Monday's ₹1,149 crore of selling. Monday's fall was blamed on bank margins, but it happened with Brent at $109, and crude is higher now. This is a watch list, not a prediction: those three, more than the subscription counter, will show what kind of day it is."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "RBI minutes, today: the 7 October hike to 5.50% was unanimous; the minutes (due today, per RBI) reveal how close the debate was - a split emerging in the text would move rate-sensitive stocks Thursday. Wrong if the minutes show genuine unanimity with no inflation dissent.",
+       "IRDAI comments close Sunday: the final framework's glide path (Seth: \"reasonable transition, not indefinite\") decides whether agent-economics stocks and bancassurance-heavy banks reprice again. Wrong if IRDAI extends the comment window.",
+       "Meta results tonight: a capex surprise either way moves the AI trade that Monday's IT selloff and last night's rebound both rode. Wrong if Meta guides spending flat and the Nasdaq shrugs."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Today, Wed 21 Oct: Jio Platforms IPO opens (closes Fri 23 Oct); RBI publishes minutes of the 5-7 October MPC meeting (RBI); Meta reports after US close (Reuters).",
+       "Fri 23 Oct: Zetwerk lists on NSE/BSE (CNBC-TV18); Lord's Mark Industries board meets on a ₹100 crore loan proposal (NDTV Profit).",
+       "Sun 25 Oct: public comments close on IRDAI's distribution-economics consultation paper (IRDAI).",
+       "Mon 26 Oct: Jio IPO allotment expected (ET Now); Genus Power board meets on a buyback (NDTV Profit).",
+       "Wed 28 Oct: Jio Platforms lists on NSE and BSE (ET Now)."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "X was not accessed for this edition; launches were verified through official posts (Mistral, Inception) and a third-party run (Curiosity), with vendor claims dated.",
+       "Discovery layer: Zerodha Pulse, DayStarter and Bloomberg headlines were used as pointers only; every item above is cited to the original publisher or filing read directly. Two content-farm sites (stockmunch, moneypuran) were found fabricating a 20 October \"session\" that never happened (markets were shut for Dussehra) and are retired as sources.",
+       "No Top-movers appendix today: the last session was Monday, fully covered in yesterday's edition; Tuesday was a trading holiday.",
+       "Markets are watchlist-only. Nothing here is a tip, a target or a buy/sell call."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Edition 16 of 7-day trial series. The long read: \"The bond that refused to die\" - Yes Bank's ₹8,415 crore AT1 saga, from the March 2020 rescue to last week's Supreme Court verdict."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": null
+}
