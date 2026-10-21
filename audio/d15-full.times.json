@@ -1,1 +1,1291 @@
-{"version": 1, "audio": "audio/d15-full.m4a", "blocks": [{"s": 24.6, "e": 47.06, "sentences": [{"t": "The bank split: the Nifty Private Bank index fell 1.85% and the PSU Bank index rose 2.46% in the same session, the only sectoral gainer.", "s": 24.6, "e": 36.8}, {"t": "Axis Bank fell 4.19% on a profit miss; Union Bank rose 5.25% on a margin jump.", "s": 36.8, "e": 44.68}, {"t": "The divide is about margins.", "s": 44.68, "e": 47.06}]}, {"s": 47.97, "e": 68.03, "sentences": [{"t": "Jio's record anchor book: nearly ₹2.5 lakh crore of demand for an ₹8,110 crore anchor book, more than 30 times covered, a first for an Indian IPO.", "s": 47.97, "e": 61.73}, {"t": "BlackRock, GIC, Norges and ADIA are in.", "s": 61.73, "e": 66.25}, {"t": "The issue opens tomorrow.", "s": 66.25, "e": 68.03}]}, {"s": 69.08, "e": 88.02, "sentences": [{"t": "Yes Bank's AT-1 loss: the Supreme Court has upheld the quashing of its ₹8,415 crore AT-1 bond write-off; the bank must repay bondholders with interest.", "s": 69.08, "e": 79.55}, {"t": "The stock fell 14.5% on Thursday and fell again on Monday.", "s": 79.55, "e": 88.02}]}, {"s": 89.08, "e": 114.31, "sentences": [{"t": "Results Monday: Bajaj Finance profit up 29%, Union Bank up 30.3%, Hindustan Zinc doubled to a record ₹6,412 crore.", "s": 89.08, "e": 101.7}, {"t": "UltraTech's 21% profit rise still cost the stock 2.4% on fuel costs.", "s": 101.7, "e": 113.25}, {"t": "Urban Company's loss widened and the stock fell 9.5%.", "s": 113.25, "e": 114.31}]}, {"s": 116.0, "e": 126.56, "sentences": [{"t": "IPO finals: Tonbo Imaging closed 135.9 times subscribed, Bonfiglioli 46 times, Sahajanand 14.2 times, Zetwerk 3.06 times.", "s": 116.0, "e": 123.53}, {"t": "All four list Friday.", "s": 123.53, "e": 126.56}]}, {"s": 129.71, "e": 148.62, "sentences": [{"t": "AI: Nvidia launched its enterprise agent model and two PC models, MiniMax says it cut agent costs 70%, and Meta open-sourced a 30B on-device agent model.", "s": 129.71, "e": 147.52}, {"t": "All three claims are the vendors' own.", "s": 147.52, "e": 148.62}]}, {"s": 152.85, "e": 166.44, "sentences": [{"t": "Long read: Zetwerk, the factory that owns no factories, lists Friday with a 3-times-subscribed IPO and a FY26 revenue jump of 40%.", "s": 152.85, "e": 160.33}, {"t": "Its founder started with a software tool and threw it away in 30 days.", "s": 160.33, "e": 166.44}]}, {"s": 170.76, "e": 211.05, "sentences": [{"t": "Scoreboard on yesterday's read.", "s": 170.76, "e": 173.26}, {"t": "Right: HDFC Bank sagged as the market worked through its record-low margin, falling 2.72%, and Jio's anchor book confirmed the reported demand, filling more than 30 times with the named sovereign funds in.", "s": 173.26, "e": 187.45}, {"t": "Wrong: I said ICICI Bank would gain and lead the private-bank pack; it fell about 1%.", "s": 187.45, "e": 195.8}, {"t": "I also said the Bank Nifty would underperform the Nifty 50; it fell less, down 0.64% against the Nifty's 1.11%.", "s": 195.8, "e": 204.2}, {"t": "The divide I underweighted was private versus PSU banks on margins, and it ran the whole session.", "s": 204.2, "e": 211.05}]}, {"s": 211.05, "e": 288.47, "sentences": [{"t": "For Wednesday's reopen, two live questions.", "s": 211.05, "e": 214.49}, {"t": "First, does the bank split persist?", "s": 214.49, "e": 217.43}, {"t": "My read: it narrows but does not reverse; state-run banks hold most of Monday's gains, private banks steady, and the Nifty stays above 22,800.", "s": 217.43, "e": 228.16}, {"t": "The reasoning: what drove the split, margin disappointment at HDFC Bank and Axis Bank against margin improvement at Union Bank and PNB, does not expire overnight, but a one-day move this size often pauses.", "s": 228.16, "e": 242.91}, {"t": "My confidence: low to moderate.", "s": 242.91, "e": 245.7}, {"t": "What would prove me wrong by Wednesday's close: the Nifty Private Bank index beating the Nifty PSU Bank index on the day, or the Nifty closing below 22,800.", "s": 245.7, "e": 256.6}, {"t": "Second, Jio's first subscription day.", "s": 256.6, "e": 259.83}, {"t": "After a 30-times anchor book, day-one retail and QIB numbers are the next tell: a retail portion meaningfully subscribed by Wednesday evening keeps the listing story on track, and a slow first day would say the price, ₹10.3 lakh crore for the company, is doing the talking.", "s": 259.83, "e": 277.1}, {"t": "Note the honest counterweight from yesterday: monthly revenue per user is ₹215.6, barely moved from ₹214 two quarters earlier.", "s": 277.1, "e": 288.47}]}, null, {"s": 296.63, "e": 383.14, "sentences": [{"t": "Monday was the first trading session since the weekend's bank results, and the verdict split the sector cleanly in two.", "s": 296.63, "e": 303.45}, {"t": "The Nifty 50 fell 1.11% to 22,888.95, near the day's low of 22,845, and the Sensex lost 876.37 points to 73,852.90.", "s": 303.45, "e": 320.8}, {"t": "Underneath, the Nifty Private Bank index fell 1.85% while the Nifty PSU Bank index rose 2.46%, the only one of 16 major sectoral indices to gain.", "s": 320.8, "e": 333.2}, {"t": "The ten private-bank stocks lost ₹62,180 crore of market value, with HDFC Bank and Axis Bank accounting for more than two-thirds of it.", "s": 333.2, "e": 343.21}, {"t": "Axis Bank fell hardest, down 4.19% to ₹1,236: its 39% profit jump to ₹7,003 crore still missed the ₹7,124 crore consensus, and costs and weaker other income did the damage.", "s": 343.21, "e": 359.54}, {"t": "HDFC Bank fell 2.72% as its lending margin narrowed to 3.16% from 3.30% a quarter earlier.", "s": 359.54, "e": 367.9}, {"t": "Yes Bank fell (2.63% by India Today's close data; HDFC Sky's 3:30 pm snapshot had it down 3.54%) and Kotak Mahindra Bank lost 1.87%.", "s": 367.9, "e": 379.6}, {"t": "ICICI Bank fell about 1% despite Saturday's beat.", "s": 379.6, "e": 383.14}]}, {"s": 383.14, "e": 437.54, "sentences": [{"t": "The other side of the trade was exactly mirrored: investors bought the banks whose margins moved the right way.", "s": 383.14, "e": 389.39}, {"t": "Union Bank of India rose 5.25% after reporting margin up 19 basis points and profit up 30.3%; Punjab National Bank rose 4.82% on its own margin expansion; Bank of Baroda gained 3.39%, Canara Bank 3.14% and State Bank of India 1.15%, the last providing the biggest single support to the Nifty.", "s": 389.39, "e": 412.66}, {"t": "State-run banks also carry a macro logic: with the RBI's repo rate at 5.50% after October's unanimous 25-basis-point rise and a \"calibrated tightening\" stance, traders expect further rate rises to benefit PSU lenders' margins more than private ones.", "s": 412.66, "e": 429.25}, {"t": "Geojit's Vinod Nair put it simply: investors are rewarding banks that show improvement in margins and asset quality, and punishing the rest.", "s": 429.25, "e": 437.54}]}, null, {"s": 446.47, "e": 520.75, "sentences": [{"t": "Jio Platforms closed its one-day anchor book on Monday with demand of nearly ₹2.5 lakh crore against the ₹8,110 crore on offer, more than 30 times covered, the first Indian IPO to cross that mark.", "s": 446.47, "e": 461.71}, {"t": "The investor list reads like a global-capital roll call: BlackRock, Capital Group, Fidelity, T.", "s": 461.71, "e": 467.88}, {"t": "Rowe Price, Schroders and JPMorgan Asset Management among asset managers; Singapore's GIC, Norway's Norges Bank Investment Management and Abu Dhabi Investment Authority among sovereign funds; and SBI Mutual Fund, ICICI Prudential, HDFC, Nippon India and Kotak among domestic houses.", "s": 467.88, "e": 484.93}, {"t": "Half of the anchor portion was reserved for domestic mutual funds by rule.", "s": 484.93, "e": 490.08}, {"t": "The main issue, up to ₹30,187.6 crore at ₹1,065 to ₹1,119 a share, opens Wednesday and closes Friday; allotment is due 26 October and listing 28 October.", "s": 490.08, "e": 504.28}, {"t": "Retail's minimum ticket is 12 shares, ₹13,428 at the top of the band; Reliance Industries shareholders of record on 14 October have a ₹2,500 crore reservation.", "s": 504.28, "e": 515.68}, {"t": "The last grey market reading, unofficial as always, was about ₹235 on Sunday.", "s": 515.68, "e": 520.75}]}, null, {"s": 530.25, "e": 595.49, "sentences": [{"t": "A judgment the market had six years to wait for landed last Thursday, and this paper missed it; here it is.", "s": 530.25, "e": 536.92}, {"t": "The Supreme Court, in a 15 October ruling by Justices Dipankar Datta and Augustine George Masih (2026 INSC 1132), upheld the Bombay High Court's quashing of Yes Bank's March 2020 decision to write off ₹8,415 crore of Additional Tier-1 bonds.", "s": 536.92, "e": 557.72}, {"t": "The court held that the administrator appointed during the 2020 rescue lacked the power to take that decision, which means Yes Bank is liable to repay bondholders with interest.", "s": 557.72, "e": 567.71}, {"t": "The write-off had wiped out retail and institutional holders of the perpetual bonds in the middle of the bank's bailout.", "s": 567.71, "e": 574.07}, {"t": "Yes Bank's shares fell 14.53% on Thursday to ₹18.12 and fell further on Monday.", "s": 574.07, "e": 583.66}, {"t": "The overhang now is provisioning: how much of the ₹8,415 crore, plus interest, the bank provides for and over what period, with its largest shareholder, Sumitomo Mitsui Banking Corporation, watching alongside bondholders.", "s": 583.66, "e": 595.49}]}, null, {"s": 604.57, "e": 690.5, "sentences": [{"t": "Bajaj Finance reported a 29% rise in standalone profit to ₹6,266 crore, interest income up 24% to ₹13,335 crore and assets under management up 26% to ₹5.84 lakh crore; provisions of ₹2,166 crore included a ₹337 crore buffer the company called prudent.", "s": 604.57, "e": 629.77}, {"t": "Union Bank of India's profit rose 30.3% to ₹5,537 crore on interest income up 20.09% to ₹10,583 crore, with margin up 19 basis points to 2.86% (3.03% adjusted for a tax refund) and gross bad loans down to 2.42% of the book from 3.29% a year ago.", "s": 629.77, "e": 653.08}, {"t": "Hindustan Zinc doubled profit to a record ₹6,412 crore as revenue rose 76.5% to ₹15,093 crore on higher metal prices and output.", "s": 653.08, "e": 664.38}, {"t": "UltraTech Cement showed the quarter's trap: profit rose 21.3% to ₹1,494 crore and revenue 18.8%, yet the stock fell 2.4% because West Asia fuel costs are squeezing the outlook.", "s": 664.38, "e": 678.03}, {"t": "Urban Company's loss widened to ₹182.5 crore from ₹59.3 crore a year ago despite revenue up 41% to ₹537.3 crore, with ₹174 crore poured into its InstaHelp quick-services business; the stock fell 9.5% to ₹143.30 and the board cleared raising up to ₹2,500 crore.", "s": 678.03, "e": 690.5}]}, null, {"s": 710.96, "e": 803.55, "sentences": [{"t": "All four issues that closed Monday finished subscribed, but the spread is the story.", "s": 710.96, "e": 719.9}, {"t": "Tonbo Imaging, the defence-optics maker, closed 135.9 times subscribed: bids for 115.87 crore shares against 85.26 lakh on offer, with QIBs at 293.56 times and retail at 31.07 times.", "s": 719.9, "e": 740.33}, {"t": "Bonfiglioli Transmissions finished 46.05 times subscribed, Sahajanand Medical Technologies 14.21 times (retail 3.04 times) and Zetwerk 3.06 times, with its retail portion only 73% filled.", "s": 740.33, "e": 755.43}, {"t": "Grey market premiums at the close implied listings 73.6% above the issue price for Tonbo (₹515 over ₹700), 18.9% for Bonfiglioli (₹111 over ₹586), 7.3% for Sahajanand and 3.3% for Zetwerk.", "s": 755.43, "e": 776.77}, {"t": "Worth a closer look before Friday: Tonbo's demand is real, but so are its numbers; revenue fell 22.7% to ₹362.6 crore in FY26, profit was ₹50.8 crore, and the June quarter showed a ₹17.7 crore loss.", "s": 776.77, "e": 790.2}, {"t": "What would make the grey-implied pop wrong is exactly what happened to Zetwerk's retail book: demand that looks deep until you count who actually showed up.", "s": 790.2, "e": 801.4}, {"t": "All four list on Friday 23 October.", "s": 801.4, "e": 803.55}]}, null, {"s": 812.65, "e": 890.13, "sentences": [{"t": "Net interest margin, the gap between what a bank earns on loans and pays on deposits, decided Monday's stock moves more directly than profit growth did.", "s": 812.65, "e": 821.99}, {"t": "The table so far this season: ICICI Bank 4.18%, down from 4.36% in the June quarter and 4.30% a year ago.", "s": 821.99, "e": 833.05}, {"t": "HDFC Bank 3.16%, a record low, down from 3.30%.", "s": 833.05, "e": 839.74}, {"t": "Axis Bank's margin is squeezed by rising costs and deposit competition; the market read its profit miss as a margin story and sold it hardest.", "s": 839.74, "e": 849.85}, {"t": "On the other side, Union Bank of India 2.86%, up 19 basis points (3.03% adjusted for a tax refund), and PNB reporting an expansion of its own.", "s": 849.85, "e": 860.67}, {"t": "The pattern explains the apparent puzzle of the session: ICICI Bank reported the best quarter of the four and still fell, because the question the market asked on Monday was not \"who grew profit\" but \"whose margin is moving which way as rates rise\".", "s": 860.67, "e": 875.18}, {"t": "The rest of the bank season arrives compressed into the weekend: Kotak Mahindra Bank, AU Small Finance Bank and IDFC First Bank report on Saturday, with the Dussehra break in between.", "s": 875.18, "e": 888.76}, {"t": "Watch the margin line, not the profit headline.", "s": 888.76, "e": 890.13}]}, null, {"s": 897.08, "e": 991.36, "sentences": [{"t": "The Nifty 50 fell 257.2 points, or 1.11%, to 22,888.95, closing near the day's low of 22,845 and snapping last week's two-week recovery.", "s": 897.08, "e": 914.67}, {"t": "The Sensex fell 876.37 points to 73,852.90.", "s": 914.67, "e": 922.5}, {"t": "India VIX rose 5.1% to 14.77.", "s": 922.5, "e": 927.65}, {"t": "Fifteen of 16 major sectoral indices fell; IT gave back part of last week's rally, down 1.28%.", "s": 927.65, "e": 936.57}, {"t": "Broader markets fell in line: the Midcap 100 lost 1.09% and the Smallcap 100 1.01%.", "s": 936.57, "e": 945.55}, {"t": "Foreign investors sold ₹1,149 crore while domestic institutions bought ₹3,201 crore, the now-familiar pattern of local money absorbing foreign selling.", "s": 945.55, "e": 958.49}, {"t": "The rupee ended little changed around 94.92 per dollar, pausing its six-session recovery.", "s": 958.49, "e": 965.1}, {"t": "Government bonds gained after the RBI announced temporary liquidity injection operations, the 10-year yield easing about 2 basis points to 7.35%.", "s": 965.1, "e": 975.39}, {"t": "Oil stayed the background risk: Brent settled Friday at $109.86 a barrel, its highest since 19 May, and eased about 2% on Monday to around $107.4 after the US waived key Russia-linked sanctions.", "s": 975.39, "e": 991.36}]}, null, {"s": 995.49, "e": 1042.19, "sentences": [{"t": "Monday's close below 23,000, and below the 22,900 to 23,000 support zone this paper flagged yesterday, moves the conversation down a rung: the next supports sit at 22,800 and then 22,700, while 23,000 flips from support to the first resistance, followed by the 23,300 to 23,350 zone.", "s": 995.49, "e": 1019.59}, {"t": "The immediate test, as India Today's close report put it, is whether the Nifty can reclaim 23,000 and whether buying returns to private banks and IT.", "s": 1019.59, "e": 1029.55}, {"t": "The session's one structural comfort: domestic institutions are still buying what foreign investors sell, ₹3,201 crore against ₹1,149 crore on Monday.", "s": 1029.55, "e": 1042.19}]}, null, {"s": 1047.94, "e": 1093.55, "sentences": [{"t": "US stocks opened the week with AI names rebounding from last week's slide, the worst for the Nasdaq since June, while European markets fell following protests, per AP's Monday report.", "s": 1047.94, "e": 1059.83}, {"t": "The two global numbers that matter for Indian screens stayed in place: US inflation worsened to 3.7% in September, keeping the rate outlook heavy, and Brent, though 2% off Friday's high, is still around $107.4 a barrel.", "s": 1059.83, "e": 1076.16}, {"t": "For a market that imports most of its oil, the crude line feeds straight into inflation, EMIs and the RBI's next decision; Monday's bond-market calm, courtesy of the RBI's liquidity operations, is the offset to watch.", "s": 1076.16, "e": 1093.55}]}, null, {"s": 1100.53, "e": 1151.6, "sentences": [{"t": "Union Bank of India, up 5.25%: profit rose 30.3%, margin expanded 19 basis points and bad loans fell to 2.42% of the book; the cleanest results-to-stock line of the day.", "s": 1100.53, "e": 1115.88}, {"t": "Punjab National Bank, up 4.82%: its own margin expansion, riding the same PSU rate-benefit trade.", "s": 1115.88, "e": 1123.42}, {"t": "Bank of Baroda, up 3.39%, Canara Bank, up 3.14%, and State Bank of India, up 1.15%: the sector move, with SBI's weight doing the most for the index.", "s": 1123.42, "e": 1136.12}, {"t": "PC Jeweller, up 11.18% on the day's heaviest volume, 169.7 crore shares: no exchange filing or company announcement explains the move, so this paper flags it as unexplained rather than guessing.", "s": 1136.12, "e": 1151.6}]}, null, {"s": 1157.49, "e": 1220.99, "sentences": [{"t": "Axis Bank, down 4.19%: a ₹7,003 crore profit that missed the ₹7,124 crore consensus, with costs and weaker other income behind the miss.", "s": 1157.49, "e": 1170.99}, {"t": "HDFC Bank, down 2.72%: the record-low 3.16% margin and a 67.4% fall in treasury income outweighed an in-line profit.", "s": 1170.99, "e": 1183.26}, {"t": "Yes Bank, down again: the Supreme Court's AT-1 repayment ruling hangs over the stock.", "s": 1183.26, "e": 1189.42}, {"t": "Infosys, down 2.63% to ₹1,130.7: profit-taking in IT after last week's 11.7% sector rally.", "s": 1189.42, "e": 1200.44}, {"t": "Urban Company, down 9.5% to ₹143.30: the widening loss and the ₹174 crore InstaHelp spend, with the fundraise announcement landing the same day.", "s": 1200.44, "e": 1213.27}, {"t": "UltraTech Cement, down 2.4%: West Asia fuel costs turned a 21% profit rise into a sell.", "s": 1213.27, "e": 1220.99}]}, null, {"s": 1226.33, "e": 1262.2, "sentences": [{"t": "By shares traded on Monday: PC Jeweller led with 169.7 crore shares (the unexplained 11.18% rise above).", "s": 1226.33, "e": 1236.74}, {"t": "Vodafone Idea followed with 32.3 crore shares, down 2.46%.", "s": 1236.74, "e": 1242.88}, {"t": "Yes Bank traded 20.7 crore shares as the AT-1 overhang kept it in play.", "s": 1242.88, "e": 1248.61}, {"t": "PNB's results-driven rally and ixigo's 9.51% rise to ₹158.20 rounded out the list; for ixigo, no single filing or announcement explains the day's move.", "s": 1248.61, "e": 1262.2}]}, null, {"s": 1268.88, "e": 1304.62, "sentences": [{"t": "Two dates and one pending approval.", "s": 1268.88, "e": 1270.86}, {"t": "The ₹15 interim dividend (300% of the ₹5 face value) has its record date this Friday, 23 October, with payment scheduled by 13 November.", "s": 1270.86, "e": 1283.37}, {"t": "The 1:1 bonus issue, the company's first since March 2015, still needs shareholder approval through a postal ballot; its record date will be announced after that.", "s": 1283.37, "e": 1293.57}, {"t": "About 7 lakh retail shareholders are on the register.", "s": 1293.57, "e": 1297.16}, {"t": "The stock is ex-dividend from Friday, so a lower quoted price that morning is the dividend leaving the share, not a fall.", "s": 1297.16, "e": 1304.62}]}, null, {"s": 1310.58, "e": 1337.62, "sentences": [{"t": "The board approved raising up to ₹2,500 crore through equity shares or convertible securities on the same day the company reported a wider loss and a 9.5% stock fall.", "s": 1310.58, "e": 1322.7}, {"t": "The money is for the InstaHelp quick-services fight against Snabbit and Pronto; shareholder and regulatory approvals are still needed.", "s": 1322.7, "e": 1330.67}, {"t": "Read together: the market marked the stock down for the spending, and the company responded by raising more of it.", "s": 1330.67, "e": 1337.62}]}, null, {"s": 1348.64, "e": 1411.3, "sentences": [{"t": "Nvidia launched three open models on Monday.", "s": 1348.64, "e": 1352.07}, {"t": "Nemotron 3.5 Super VL, a 120-billion-parameter model, is aimed at enterprise agents, with Nvidia saying it matches the larger Nemotron 3 Ultra on instruction-following and tool-use accuracy; named users include Skydance, EY, Ramp, Crowdstrike, Perplexity and Salesforce.", "s": 1352.07, "e": 1373.38}, {"t": "The two lightweight Bolt models run locally: Bolt 74B-A9B, a 74-billion-parameter model for agentic work on the new RTX Spark AI PCs and DGX Spark workstations, and Bolt E4B, the smallest, aimed at conversational agents and due later this month.", "s": 1373.38, "e": 1392.43}, {"t": "The accuracy claims are Nvidia's own; what would verify them is independent benchmark runs, which typically land within a few weeks of release.", "s": 1392.43, "e": 1400.74}, {"t": "The strategic read: Nvidia is now seeding open models at every size to keep its chips the default substrate for agent work, on the desktop as much as in the data centre.", "s": 1400.74, "e": 1411.3}]}, null, {"s": 1418.4, "e": 1467.01, "sentences": [{"t": "MiniMax released M3.1 Flash on Monday, a faster, cheaper update to its M3 model, and claims agentic tasks cost 70% less to run than on its predecessor, with inference close to three times faster.", "s": 1418.4, "e": 1434.01}, {"t": "In the company's own testing it scored 61.7 on OSWorld V2, a benchmark for operating a computer.", "s": 1434.01, "e": 1441.81}, {"t": "Pricing is the aggressive part: a flat $0.15 per million input tokens, aimed squarely at DeepSeek's V4.1-Flash.", "s": 1441.81, "e": 1452.03}, {"t": "All of these are company claims, scored on the company's own runs; the check to wait for is third-party evaluation.", "s": 1452.03, "e": 1458.84}, {"t": "The trend underneath is real regardless: the cost of running an AI agent keeps falling, and price is becoming the competitive weapon.", "s": 1458.84, "e": 1467.01}]}, null, {"s": 1474.39, "e": 1522.54, "sentences": [{"t": "Meta released Muse Glimmer on Monday, an open-source 30-billion-parameter model under the Apache 2.0 licence, purpose-built for autonomous agent work on consumer hardware: multi-step reasoning, tool use and failure recovery, tuned to run on a single GPU.", "s": 1474.39, "e": 1490.62}, {"t": "Meta claims state-of-the-art performance for its size class against Gemma4-31B and Qwen3.6-27B on tool use, multi-step planning and task completion; that comparison is Meta's own.", "s": 1490.62, "e": 1503.95}, {"t": "Unlike the Muse Wonder pair covered yesterday, which lives behind Meta's subscriptions with no downloadable weights, Glimmer is genuinely open: anyone can download, inspect and run it.", "s": 1503.95, "e": 1514.43}, {"t": "For Indian startups building agents, an Apache-licensed model that runs on one GPU changes the build-versus-subscribe maths at the small end.", "s": 1514.43, "e": 1522.54}]}, null, {"s": 1533.4, "e": 1577.06, "sentences": [{"t": "Even Healthcare raised a $50 million Series B led by existing investor Khosla Ventures with Alpha Wave participating, taking its total funding past $120 million.", "s": 1533.4, "e": 1545.09}, {"t": "The company runs its own hospitals, two in Bengaluru today, and bundles them with insurance programmes, claiming more than 2.5 lakh members across 10 cities and fewer unplanned readmissions in its programmes; both are the company's claims.", "s": 1545.09, "e": 1558.82}, {"t": "The money goes to expanding the hospital network.", "s": 1558.82, "e": 1561.74}, {"t": "The model is worth watching because it inverts the usual fight: an insurer that owns the hospital has no billing dispute with itself, which is either the answer to claim friction or a conflict of interest, depending on how it handles the patients whose care costs it money.", "s": 1561.74, "e": 1577.06}]}, null, {"s": 1584.49, "e": 1599.6, "sentences": [{"t": "The Pant Project, a premium menswear brand, raised ₹109 crore in a Series B led by Mirae Asset Venture Investments (India).", "s": 1584.49, "e": 1593.26}, {"t": "A niche bet on Indian men paying premium prices for well-fitted trousers, sold direct online.", "s": 1593.26, "e": 1599.6}]}, null, {"s": 1604.88, "e": 1653.54, "sentences": [{"t": "Even Healthcare's pitch rests on a number only it can see: how often patients bounce back into hospital.", "s": 1604.88, "e": 1612.47}, {"t": "Every insurer in India sits on the same data across thousands of hospitals, and no policyholder can see it.", "s": 1612.47, "e": 1619.48}, {"t": "A product that turns claims records into a public scorecard, readmission rates, claim-approval rates and settlement times by hospital and by insurer, would change how people choose both.", "s": 1619.48, "e": 1631.61}, {"t": "The data exists; the moat is the insurer partnerships needed to license it, and the risk is hospitals disputing methodology.", "s": 1631.61, "e": 1639.92}, {"t": "For a distribution industry negotiating commission caps this week, verified outcome data is also the strongest answer to the question IRDAI keeps asking: what does the customer actually get?", "s": 1639.92, "e": 1653.54}]}, null, {"s": 1666.62, "e": 1730.86, "sentences": [{"t": "With the anchor book done at 30-times demand, Jio Platforms' main issue opens Wednesday: up to 27 crore fresh shares at ₹1,065 to ₹1,119, no offer-for-sale, the proceeds going mostly to prepay up to ₹27,500 crore of Reliance Jio Infocomm's borrowings.", "s": 1666.62, "e": 1687.19}, {"t": "Retail's minimum is 12 shares, ₹13,428 at the top of the band.", "s": 1687.19, "e": 1693.55}, {"t": "Two reservations widen the tent: up to ₹2,500 crore for anyone who held Reliance Industries shares on 14 October, and ₹500 crore for employees at a ₹54 discount.", "s": 1693.55, "e": 1705.65}, {"t": "Paras Healthcare's ₹1,450 crore issue (band ₹660 to ₹693, minimum 21 shares) opens the same day.", "s": 1705.65, "e": 1715.36}, {"t": "Both close Friday and are scheduled to list on 28 October.", "s": 1715.36, "e": 1720.85}, {"t": "The listing queue first: HD Fire Protect on Wednesday, Fusion CX on Thursday, then Tonbo, Zetwerk, Bonfiglioli and Sahajanand on Friday.", "s": 1720.85, "e": 1730.86}]}, null, {"s": 1732.06, "e": 1788.69, "sentences": [{"t": "In 1974, psychologists Amos Tversky and Daniel Kahneman ran an experiment with a rigged wheel of fortune.", "s": 1732.06, "e": 1740.19}, {"t": "They spun it in front of participants; the wheel was fixed to stop at either 10 or 65.", "s": 1740.19, "e": 1746.36}, {"t": "Then they asked an unrelated question: what percentage of African nations are members of the United Nations?", "s": 1746.36, "e": 1753.54}, {"t": "People who watched the wheel stop at 10 gave a median answer of 25%.", "s": 1753.54, "e": 1758.74}, {"t": "People who watched it stop at 65 gave 45%.", "s": 1758.74, "e": 1762.73}, {"t": "A number they knew was random, from a wheel they had just watched being rigged, still pulled their estimates toward it.", "s": 1762.73, "e": 1770.27}, {"t": "They called the effect anchoring: the first number you hear becomes the reference point your mind adjusts from, and the adjustment is almost never enough.", "s": 1770.27, "e": 1779.69}, {"t": "The experiment became a cornerstone of their 1974 paper \"Judgment under Uncertainty\" and, decades later, of Kahneman's Nobel Prize.", "s": 1779.69, "e": 1788.69}]}, {"s": 1788.69, "e": 1850.99, "sentences": [{"t": "You meet anchoring every time a number is named before you have formed your own.", "s": 1788.69, "e": 1794.03}, {"t": "In insurance it is the default sum insured on the screen, the agent who opens with a ₹1 crore cover, the renewal premium quoted against last year's figure: each one quietly sets the range of what feels reasonable, whatever your family's actual needs calculation would say.", "s": 1794.03, "e": 1811.11}, {"t": "In markets it is the grey market premium treated as a listing-day prediction, or last week's price treated as this week's value.", "s": 1811.11, "e": 1819.44}, {"t": "The decision rule the research suggests is simple: before you hear their number, write down your own.", "s": 1819.44, "e": 1825.99}, {"t": "Decide what cover you need from your income and liabilities before you look at the quote; decide what an IPO is worth to you before you read the premium.", "s": 1825.99, "e": 1835.09}, {"t": "The anchor loses its grip when your number arrives first.", "s": 1835.09, "e": 1841.06}, {"t": "Sixty-second recall: a random number on a rigged wheel moved expert guesses by 20 points; the first figure you hear will move yours too, unless yours already exists.", "s": 1841.06, "e": 1850.99}]}, {"s": 1850.99, "e": 1884.76, "sentences": [{"t": "Term of the day: anchor investor.", "s": 1850.99, "e": 1853.93}, {"t": "An institutional investor allotted shares in an IPO a day before it opens to the public, at a fixed price, with a lock-in on the shares.", "s": 1853.93, "e": 1863.0}, {"t": "The name exists because a strong anchor list is meant to steady demand for the whole issue, exactly the signal Jio's 30-times-covered anchor book sent on Monday.", "s": 1863.0, "e": 1873.59}, {"t": "The term shares its root with today's concept: the anchor book gives the market its first number, and first numbers pull.", "s": 1873.59, "e": 1884.76}]}, null, {"s": 1889.62, "e": 1890.76, "sentences": [{"t": "Stock market holiday.", "s": 1889.62, "e": 1890.76}]}, {"s": 1895.23, "e": 1911.16, "sentences": [{"t": "Jio Platforms and Paras Healthcare open for subscription; HD Fire Protect lists.", "s": 1895.23, "e": 1904.77}, {"t": "RBI's October policy minutes are due.", "s": 1904.77, "e": 1908.26}, {"t": "Results: Eternal, Adani Green, Indian Hotels.", "s": 1908.26, "e": 1911.16}]}, {"s": 1918.06, "e": 1921.78, "sentences": [{"t": "Results: HPCL, Havells, Swiggy, Colgate-Palmolive.", "s": 1918.06, "e": 1921.78}]}, {"s": 1928.01, "e": 1944.78, "sentences": [{"t": "Tonbo, Zetwerk, Bonfiglioli and Sahajanand list.", "s": 1928.01, "e": 1932.28}, {"t": "Tech Mahindra's dividend record date.", "s": 1932.28, "e": 1935.78}, {"t": "Results: Infosys, JSW Steel, Tata Motors, Dr Reddy's, Coforge, IndusInd Bank, Adani Power, BPCL.", "s": 1935.78, "e": 1944.78}]}, {"s": 1948.88, "e": 1953.76, "sentences": [{"t": "Kotak Mahindra Bank, AU Small Finance Bank, IDFC First Bank.", "s": 1948.88, "e": 1953.76}]}, {"s": 1957.75, "e": 1965.08, "sentences": [{"t": "Last day for comments on the insurance distribution-reform draft (commission caps, dark patterns).", "s": 1957.75, "e": 1965.08}]}, {"s": 1969.68, "e": 1980.65, "sentences": [{"t": "Allotment due Monday 26 October; listing scheduled Wednesday 28 October, alongside Paras Healthcare.", "s": 1969.68, "e": 1980.65}]}, {"s": 1984.43, "e": 2000.74, "sentences": [{"t": "The issue runs Wednesday to Friday.", "s": 1984.43, "e": 1986.3}, {"t": "The anchor book is done at 30-times demand; the pace of the retail and QIB books is the next tell, then allotment on 26 October and listing on 28 October.", "s": 1986.3, "e": 2000.74}]}, {"s": 2005.16, "e": 2014.36, "sentences": [{"t": "Two of Nvidia's three Monday models are out; the smallest, the E4B for conversational agents on PCs, is still due later this month.", "s": 2005.16, "e": 2014.36}]}, {"s": 2017.55, "e": 2034.65, "sentences": [{"t": "The 7 October policy raised the repo rate 25 basis points to 5.50% unanimously and shifted to calibrated tightening; the minutes show the debate behind the vote, including how members read inflation against the market's slide.", "s": 2017.55, "e": 2034.65}]}, {"s": 2038.29, "e": 2060.56, "sentences": [{"t": "Tonbo's 135.9-times subscription meets a FY26 revenue decline of 22.7% on the same morning; Zetwerk's institutional book (4.73 times) meets its 73% retail fill.", "s": 2038.29, "e": 2054.94}, {"t": "The gap between grey-implied prices and opening prints is the lesson to watch.", "s": 2054.94, "e": 2060.56}]}, {"s": 2062.45, "e": 2077.68, "sentences": [{"t": "IPO subscription figures are from exchange data reported by inc42, HDFC Sky and Dhan; grey market premiums are unofficial tracker readings.", "s": 2062.45, "e": 2072.71}, {"t": "Broker ratings and target prices are left out.", "s": 2072.71, "e": 2076.04}, {"t": "Nothing here is investment advice.", "s": 2076.04, "e": 2077.68}]}, {"s": 2077.68, "e": 2083.29, "sentences": [{"t": "AI performance and cost claims in this edition are the vendors' own unless labelled otherwise.", "s": 2077.68, "e": 2083.29}]}, {"s": 2083.29, "e": 2092.11, "sentences": [{"t": "The sector chart is computed directly from NSE daily index close files (16 and 19 October 2026).", "s": 2083.29, "e": 2092.11}]}, {"s": 2092.11, "e": 2105.39, "sentences": [{"t": "Yes Bank's Monday fall is reported as 2.63% by India Today's close data and 3.54% in HDFC Sky's 3:30 pm snapshot; both are cited where used.", "s": 2092.11, "e": 2105.39}]}, {"s": 2105.39, "e": 2125.85, "sentences": [{"t": "New primary and independent sources read in full for this edition: the RBI's October MPC resolution, the Supreme Court's Yes Bank AT-1 judgment coverage, Meta's Muse Glimmer publication, and the NSE index close files.", "s": 2105.39, "e": 2125.85}]}, {"s": 2127.31, "e": 2158.48, "sentences": [{"t": "This week: Zetwerk, the factory that owns no factories.", "s": 2127.31, "e": 2131.36}, {"t": "Amrit Acharya left a McKinsey desk in San Francisco in January 2018 to come home and build; the software tool he founded was thrown away within 30 days, and what replaced it now runs ₹15,913 crore of revenue across a network of factories it does not own.", "s": 2131.36, "e": 2151.15}, {"t": "The IPO closes today with institutions in and retail lukewarm; the listing is Friday.", "s": 2151.15, "e": 2156.65}, {"t": "Read the Zetwerk story.", "s": 2156.65, "e": 2158.48}]}, null]}
+{
+ "version": 1,
+ "audio": "audio/d15-full.m4a",
+ "blocks": [
+  {
+   "s": 24.6,
+   "e": 47.06,
+   "sentences": [
+    {
+     "t": "The bank split: the Nifty Private Bank index fell 1.85% and the PSU Bank index rose 2.46% in the same session, the only sectoral gainer.",
+     "s": 24.6,
+     "e": 36.8
+    },
+    {
+     "t": "Axis Bank fell 4.19% on a profit miss; Union Bank rose 5.25% on a margin jump.",
+     "s": 36.8,
+     "e": 44.68
+    },
+    {
+     "t": "The divide is about margins.",
+     "s": 44.68,
+     "e": 47.06
+    }
+   ]
+  },
+  {
+   "s": 47.97,
+   "e": 68.03,
+   "sentences": [
+    {
+     "t": "Jio's record anchor book: nearly ₹2.5 lakh crore of demand for an ₹8,110 crore anchor book, more than 30 times covered, a first for an Indian IPO.",
+     "s": 47.97,
+     "e": 61.73
+    },
+    {
+     "t": "BlackRock, GIC, Norges and ADIA are in.",
+     "s": 61.73,
+     "e": 66.25
+    },
+    {
+     "t": "The issue opens tomorrow.",
+     "s": 66.25,
+     "e": 68.03
+    }
+   ]
+  },
+  {
+   "s": 69.08,
+   "e": 88.02,
+   "sentences": [
+    {
+     "t": "Yes Bank's AT-1 loss: the Supreme Court has upheld the quashing of its ₹8,415 crore AT-1 bond write-off; the bank must repay bondholders with interest.",
+     "s": 69.08,
+     "e": 79.55
+    },
+    {
+     "t": "The stock fell 14.5% on Thursday and fell again on Monday.",
+     "s": 79.55,
+     "e": 88.02
+    }
+   ]
+  },
+  {
+   "s": 89.08,
+   "e": 114.31,
+   "sentences": [
+    {
+     "t": "Results Monday: Bajaj Finance profit up 29%, Union Bank up 30.3%, Hindustan Zinc doubled to a record ₹6,412 crore.",
+     "s": 89.08,
+     "e": 101.7
+    },
+    {
+     "t": "UltraTech's 21% profit rise still cost the stock 2.4% on fuel costs.",
+     "s": 101.7,
+     "e": 113.25
+    },
+    {
+     "t": "Urban Company's loss widened and the stock fell 9.5%.",
+     "s": 113.25,
+     "e": 114.31
+    }
+   ]
+  },
+  {
+   "s": 116.0,
+   "e": 126.56,
+   "sentences": [
+    {
+     "t": "IPO finals: Tonbo Imaging closed 135.9 times subscribed, Bonfiglioli 46 times, Sahajanand 14.2 times, Zetwerk 3.06 times.",
+     "s": 116.0,
+     "e": 123.53
+    },
+    {
+     "t": "All four list Friday.",
+     "s": 123.53,
+     "e": 126.56
+    }
+   ]
+  },
+  {
+   "s": 129.71,
+   "e": 148.62,
+   "sentences": [
+    {
+     "t": "AI: Nvidia launched its enterprise agent model and two PC models, MiniMax says it cut agent costs 70%, and Meta open-sourced a 30B on-device agent model.",
+     "s": 129.71,
+     "e": 147.52
+    },
+    {
+     "t": "All three claims are the vendors' own.",
+     "s": 147.52,
+     "e": 148.62
+    }
+   ]
+  },
+  {
+   "s": 152.85,
+   "e": 166.44,
+   "sentences": [
+    {
+     "t": "Long read: Zetwerk, the factory that owns no factories, lists Friday with a 3-times-subscribed IPO and a FY26 revenue jump of 40%.",
+     "s": 152.85,
+     "e": 160.33
+    },
+    {
+     "t": "Its founder started with a software tool and threw it away in 30 days.",
+     "s": 160.33,
+     "e": 166.44
+    }
+   ]
+  },
+  {
+   "s": 170.76,
+   "e": 212.64,
+   "sentences": [
+    {
+     "t": "Scoreboard on yesterday's read.",
+     "s": 170.76,
+     "e": 173.26
+    },
+    {
+     "t": "Right: HDFC Bank sagged as the market worked through its narrower margin, falling 2.72%, and Jio's anchor book confirmed the reported demand, filling more than 30 times with the named sovereign funds in.",
+     "s": 173.55,
+     "e": 188.78
+    },
+    {
+     "t": "Wrong: I said ICICI Bank would gain and lead the private-bank pack; it fell about 1%.",
+     "s": 189.04,
+     "e": 197.39
+    },
+    {
+     "t": "I also said the Bank Nifty would underperform the Nifty 50; it fell less, down 0.64% against the Nifty's 1.11%.",
+     "s": 197.39,
+     "e": 205.79
+    },
+    {
+     "t": "The divide I underweighted was private versus PSU banks on margins, and it ran the whole session.",
+     "s": 205.79,
+     "e": 212.64
+    }
+   ]
+  },
+  {
+   "s": 212.64,
+   "e": 290.06,
+   "sentences": [
+    {
+     "t": "For Wednesday's reopen, two live questions.",
+     "s": 212.64,
+     "e": 216.08
+    },
+    {
+     "t": "First, does the bank split persist?",
+     "s": 216.08,
+     "e": 219.02
+    },
+    {
+     "t": "My read: it narrows but does not reverse; state-run banks hold most of Monday's gains, private banks steady, and the Nifty stays above 22,800.",
+     "s": 219.02,
+     "e": 229.75
+    },
+    {
+     "t": "The reasoning: what drove the split, margin disappointment at HDFC Bank and Axis Bank against margin improvement at Union Bank and PNB, does not expire overnight, but a one-day move this size often pauses.",
+     "s": 229.75,
+     "e": 244.5
+    },
+    {
+     "t": "My confidence: low to moderate.",
+     "s": 244.5,
+     "e": 247.29
+    },
+    {
+     "t": "What would prove me wrong by Wednesday's close: the Nifty Private Bank index beating the Nifty PSU Bank index on the day, or the Nifty closing below 22,800.",
+     "s": 247.29,
+     "e": 258.19
+    },
+    {
+     "t": "Second, Jio's first subscription day.",
+     "s": 258.19,
+     "e": 261.42
+    },
+    {
+     "t": "After a 30-times anchor book, day-one retail and QIB numbers are the next tell: a retail portion meaningfully subscribed by Wednesday evening keeps the listing story on track, and a slow first day would say the price, ₹10.3 lakh crore for the company, is doing the talking.",
+     "s": 261.42,
+     "e": 278.69
+    },
+    {
+     "t": "Note the honest counterweight from yesterday: monthly revenue per user is ₹215.6, barely moved from ₹214 two quarters earlier.",
+     "s": 278.69,
+     "e": 290.06
+    }
+   ]
+  },
+  null,
+  {
+   "s": 298.22,
+   "e": 395.56,
+   "sentences": [
+    {
+     "t": "Monday was the first trading session since the bank results that began at the weekend, and the verdict split the sector cleanly in two.",
+     "s": 298.52,
+     "e": 306.15
+    },
+    {
+     "t": "The Nifty 50 fell 1.11% to 22,888.95, near the day's low of 22,845, and the Sensex lost 876.37 points to 73,852.90.",
+     "s": 306.46,
+     "e": 323.81
+    },
+    {
+     "t": "Underneath, the Nifty Private Bank index fell 1.85% while the Nifty PSU Bank index rose 2.46%, the only one of 12 major sectoral indices to gain.",
+     "s": 324.21,
+     "e": 338.09
+    },
+    {
+     "t": "The ten private-bank stocks lost ₹62,180 crore of market value, with HDFC Bank and Axis Bank accounting for more than two-thirds of it.",
+     "s": 338.49,
+     "e": 348.5
+    },
+    {
+     "t": "Axis Bank fell hardest, down 4.19% to ₹1,236: its 38% profit jump to ₹7,003 crore still missed the ₹7,124 crore consensus, and costs and weaker other income did the damage.",
+     "s": 348.83,
+     "e": 368.55
+    },
+    {
+     "t": "HDFC Bank fell 2.72% as its lending margin narrowed to 3.16% from 3.26% a quarter earlier.",
+     "s": 369.31,
+     "e": 379.97
+    },
+    {
+     "t": "Yes Bank fell (2.63% by India Today's close data; HDFC Sky's 3:30 pm snapshot had it down 3.54%) and Kotak Mahindra Bank lost 1.87%.",
+     "s": 380.32,
+     "e": 392.02
+    },
+    {
+     "t": "ICICI Bank fell about 1% despite Saturday's beat.",
+     "s": 392.02,
+     "e": 395.56
+    }
+   ]
+  },
+  {
+   "s": 395.56,
+   "e": 449.96,
+   "sentences": [
+    {
+     "t": "The other side of the trade was exactly mirrored: investors bought the banks whose margins moved the right way.",
+     "s": 395.56,
+     "e": 401.81
+    },
+    {
+     "t": "Union Bank of India rose 5.25% after reporting margin up 19 basis points and profit up 30.3%; Punjab National Bank rose 4.82% on its own margin expansion; Bank of Baroda gained 3.39%, Canara Bank 3.14% and State Bank of India 1.15%, the last providing the biggest single support to the Nifty.",
+     "s": 401.81,
+     "e": 425.08
+    },
+    {
+     "t": "State-run banks also carry a macro logic: with the RBI's repo rate at 5.50% after October's unanimous 25-basis-point rise and a \"calibrated tightening\" stance, traders expect further rate rises to benefit PSU lenders' margins more than private ones.",
+     "s": 425.08,
+     "e": 441.67
+    },
+    {
+     "t": "Geojit's Vinod Nair put it simply: investors are rewarding banks that show improvement in margins and asset quality, and punishing the rest.",
+     "s": 441.67,
+     "e": 449.96
+    }
+   ]
+  },
+  null,
+  {
+   "s": 458.89,
+   "e": 535.19,
+   "sentences": [
+    {
+     "t": "Jio Platforms closed its one-day anchor book on Monday with demand of nearly ₹2.5 lakh crore against the ₹8,110 crore on offer, more than 30 times covered, the first Indian IPO to cross that mark.",
+     "s": 458.89,
+     "e": 474.13
+    },
+    {
+     "t": "The investor list reads like a global-capital roll call: BlackRock, Capital Group, Fidelity, T.",
+     "s": 474.13,
+     "e": 480.3
+    },
+    {
+     "t": "Rowe Price, Schroders and JPMorgan Asset Management among asset managers; Singapore's GIC, Norway's Norges Bank Investment Management and Abu Dhabi Investment Authority among sovereign funds; and SBI Mutual Fund, ICICI Prudential, HDFC, Nippon India and Kotak among domestic houses.",
+     "s": 480.3,
+     "e": 497.35
+    },
+    {
+     "t": "One-third of the anchor portion was reserved for domestic mutual funds by rule.",
+     "s": 498.65,
+     "e": 504.27
+    },
+    {
+     "t": "The main issue, up to ₹30,187.6 crore at ₹1,065 to ₹1,119 a share, opens Wednesday and closes Friday; allotment is due 26 October and listing 28 October.",
+     "s": 504.52,
+     "e": 518.72
+    },
+    {
+     "t": "Retail's minimum ticket is 12 shares, ₹13,428 at the top of the band; Reliance Industries shareholders of record on 14 October have a ₹2,500 crore reservation.",
+     "s": 518.72,
+     "e": 530.12
+    },
+    {
+     "t": "The last grey market reading, unofficial as always, was about ₹235 on Sunday.",
+     "s": 530.12,
+     "e": 535.19
+    }
+   ]
+  },
+  null,
+  {
+   "s": 544.69,
+   "e": 609.93,
+   "sentences": [
+    {
+     "t": "A judgment the market had six years to wait for landed last Thursday, and this paper missed it; here it is.",
+     "s": 544.69,
+     "e": 551.36
+    },
+    {
+     "t": "The Supreme Court, in a 15 October ruling by Justices Dipankar Datta and Augustine George Masih (2026 INSC 1132), upheld the Bombay High Court's quashing of Yes Bank's March 2020 decision to write off ₹8,415 crore of Additional Tier-1 bonds.",
+     "s": 551.36,
+     "e": 572.16
+    },
+    {
+     "t": "The court held that the administrator appointed during the 2020 rescue lacked the power to take that decision, which means Yes Bank is liable to repay bondholders with interest.",
+     "s": 572.16,
+     "e": 582.15
+    },
+    {
+     "t": "The write-off had wiped out retail and institutional holders of the perpetual bonds in the middle of the bank's bailout.",
+     "s": 582.15,
+     "e": 588.51
+    },
+    {
+     "t": "Yes Bank's shares fell 14.53% on Thursday to ₹18.12 and fell further on Monday.",
+     "s": 588.51,
+     "e": 598.1
+    },
+    {
+     "t": "The overhang now is provisioning: how much of the ₹8,415 crore, plus interest, the bank provides for and over what period, with its largest shareholder, Sumitomo Mitsui Banking Corporation, watching alongside bondholders.",
+     "s": 598.1,
+     "e": 609.93
+    }
+   ]
+  },
+  null,
+  {
+   "s": 619.01,
+   "e": 716.48,
+   "sentences": [
+    {
+     "t": "Bajaj Finance reported a 29% rise in consolidated profit to ₹6,367 crore, interest income up 24% to ₹13,335 crore and assets under management up 26% to ₹5.84 lakh crore; provisions of ₹2,166 crore included a ₹337 crore buffer the company called prudent.",
+     "s": 619.29,
+     "e": 648.6
+    },
+    {
+     "t": "Union Bank of India's profit rose 30.3% to ₹5,537 crore on net interest income up 20.09% to ₹10,583 crore, with margin up 19 basis points to 2.86% (3.03% adjusted for a tax refund) and gross bad loans down to 2.42% of the book from 3.29% a year ago.",
+     "s": 649.12,
+     "e": 678.76
+    },
+    {
+     "t": "Hindustan Zinc doubled profit to a record ₹6,412 crore as revenue rose 76.5% to ₹15,093 crore on higher metal prices and output.",
+     "s": 679.06,
+     "e": 690.36
+    },
+    {
+     "t": "UltraTech Cement showed the quarter's trap: profit rose 21.3% to ₹1,494 crore and revenue 18.8%, yet the stock fell 2.4% because West Asia fuel costs are squeezing the outlook.",
+     "s": 690.36,
+     "e": 704.01
+    },
+    {
+     "t": "Urban Company's loss widened to ₹182.5 crore from ₹59.3 crore a year ago despite revenue up 41% to ₹537.3 crore, with ₹174 crore poured into its InstaHelp quick-services business; the stock fell 9.5% to ₹143.30 and the board cleared raising up to ₹2,500 crore.",
+     "s": 704.01,
+     "e": 716.48
+    }
+   ]
+  },
+  null,
+  {
+   "s": 736.94,
+   "e": 829.53,
+   "sentences": [
+    {
+     "t": "All four issues that closed Monday finished subscribed, but the spread is the story.",
+     "s": 736.94,
+     "e": 745.88
+    },
+    {
+     "t": "Tonbo Imaging, the defence-optics maker, closed 135.9 times subscribed: bids for 115.87 crore shares against 85.26 lakh on offer, with QIBs at 293.56 times and retail at 31.07 times.",
+     "s": 745.88,
+     "e": 766.31
+    },
+    {
+     "t": "Bonfiglioli Transmissions finished 46.05 times subscribed, Sahajanand Medical Technologies 14.21 times (retail 3.04 times) and Zetwerk 3.06 times, with its retail portion only 73% filled.",
+     "s": 766.31,
+     "e": 781.41
+    },
+    {
+     "t": "Grey market premiums at the close implied listings 73.6% above the issue price for Tonbo (₹515 over ₹700), 18.9% for Bonfiglioli (₹111 over ₹586), 7.3% for Sahajanand and 3.3% for Zetwerk.",
+     "s": 781.41,
+     "e": 802.75
+    },
+    {
+     "t": "Worth a closer look before Friday: Tonbo's demand is real, but so are its numbers; revenue fell 22.7% to ₹362.6 crore in FY26, profit was ₹50.8 crore, and the June quarter showed a ₹17.7 crore loss.",
+     "s": 802.75,
+     "e": 816.18
+    },
+    {
+     "t": "What would make the grey-implied pop wrong is exactly what happened to Zetwerk's retail book: demand that looks deep until you count who actually showed up.",
+     "s": 816.18,
+     "e": 827.38
+    },
+    {
+     "t": "All four list on Friday 23 October.",
+     "s": 827.38,
+     "e": 829.53
+    }
+   ]
+  },
+  null,
+  {
+   "s": 838.63,
+   "e": 917.63,
+   "sentences": [
+    {
+     "t": "Net interest margin, the gap between what a bank earns on loans and pays on deposits, decided Monday's stock moves more directly than profit growth did.",
+     "s": 838.63,
+     "e": 847.97
+    },
+    {
+     "t": "The table so far this season: ICICI Bank 4.18%, down from 4.36% in the June quarter and 4.30% a year ago.",
+     "s": 847.97,
+     "e": 859.03
+    },
+    {
+     "t": "HDFC Bank 3.16%, down from 3.26% in the June quarter.",
+     "s": 859.36,
+     "e": 866.83
+    },
+    {
+     "t": "Axis Bank's margin is squeezed by rising costs and deposit competition; the market read its profit miss as a margin story and sold it hardest.",
+     "s": 867.24,
+     "e": 877.35
+    },
+    {
+     "t": "On the other side, Union Bank of India 2.86%, up 19 basis points (3.03% adjusted for a tax refund), and PNB reporting an expansion of its own.",
+     "s": 877.35,
+     "e": 888.17
+    },
+    {
+     "t": "The pattern explains the apparent puzzle of the session: ICICI Bank reported the best quarter of the four and still fell, because the question the market asked on Monday was not \"who grew profit\" but \"whose margin is moving which way as rates rise\".",
+     "s": 888.17,
+     "e": 902.68
+    },
+    {
+     "t": "The rest of the bank season arrives compressed into the weekend: Kotak Mahindra Bank, AU Small Finance Bank and IDFC First Bank report on Saturday, with the Dussehra break in between.",
+     "s": 902.68,
+     "e": 916.26
+    },
+    {
+     "t": "Watch the margin line, not the profit headline.",
+     "s": 916.26,
+     "e": 917.63
+    }
+   ]
+  },
+  null,
+  {
+   "s": 924.58,
+   "e": 1019.23,
+   "sentences": [
+    {
+     "t": "The Nifty 50 fell 257.2 points, or 1.11%, to 22,888.95, closing near the day's low of 22,845 and snapping last week's two-week recovery.",
+     "s": 924.58,
+     "e": 942.17
+    },
+    {
+     "t": "The Sensex fell 876.37 points to 73,852.90.",
+     "s": 942.17,
+     "e": 950.0
+    },
+    {
+     "t": "India VIX rose 5.1% to 14.77.",
+     "s": 950.0,
+     "e": 955.15
+    },
+    {
+     "t": "Eleven of 12 major sectoral indices fell; IT gave back part of last week's rally, down 1.28%.",
+     "s": 955.54,
+     "e": 964.12
+    },
+    {
+     "t": "Broader markets fell in line: the Midcap 100 lost 1.09% and the Smallcap 100 1.01%.",
+     "s": 964.44,
+     "e": 973.42
+    },
+    {
+     "t": "Foreign investors sold ₹1,149 crore while domestic institutions bought ₹3,201 crore, the now-familiar pattern of local money absorbing foreign selling.",
+     "s": 973.42,
+     "e": 986.36
+    },
+    {
+     "t": "The rupee ended little changed around 94.92 per dollar, pausing its six-session recovery.",
+     "s": 986.36,
+     "e": 992.97
+    },
+    {
+     "t": "Government bonds gained after the RBI announced temporary liquidity injection operations, the 10-year yield easing about 2 basis points to 7.35%.",
+     "s": 992.97,
+     "e": 1003.26
+    },
+    {
+     "t": "Oil stayed the background risk: Brent settled Friday at $109.86 a barrel, its highest since 19 May, and eased about 2% on Monday to around $107.4 after the US waived key Russia-linked sanctions.",
+     "s": 1003.26,
+     "e": 1019.23
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1023.36,
+   "e": 1070.06,
+   "sentences": [
+    {
+     "t": "Monday's close below 23,000, and below the 22,900 to 23,000 support zone this paper flagged yesterday, moves the conversation down a rung: the next supports sit at 22,800 and then 22,700, while 23,000 flips from support to the first resistance, followed by the 23,300 to 23,350 zone.",
+     "s": 1023.36,
+     "e": 1047.46
+    },
+    {
+     "t": "The immediate test, as India Today's close report put it, is whether the Nifty can reclaim 23,000 and whether buying returns to private banks and IT.",
+     "s": 1047.46,
+     "e": 1057.42
+    },
+    {
+     "t": "The session's one structural comfort: domestic institutions are still buying what foreign investors sell, ₹3,201 crore against ₹1,149 crore on Monday.",
+     "s": 1057.42,
+     "e": 1070.06
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1075.81,
+   "e": 1121.42,
+   "sentences": [
+    {
+     "t": "US stocks opened the week with AI names rebounding from last week's slide, the worst for the Nasdaq since June, while European markets fell following protests, per AP's Monday report.",
+     "s": 1075.81,
+     "e": 1087.7
+    },
+    {
+     "t": "The two global numbers that matter for Indian screens stayed in place: US inflation worsened to 3.7% in September, keeping the rate outlook heavy, and Brent, though 2% off Friday's high, is still around $107.4 a barrel.",
+     "s": 1087.7,
+     "e": 1104.03
+    },
+    {
+     "t": "For a market that imports most of its oil, the crude line feeds straight into inflation, EMIs and the RBI's next decision; Monday's bond-market calm, courtesy of the RBI's liquidity operations, is the offset to watch.",
+     "s": 1104.03,
+     "e": 1121.42
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1128.4,
+   "e": 1179.47,
+   "sentences": [
+    {
+     "t": "Union Bank of India, up 5.25%: profit rose 30.3%, margin expanded 19 basis points and bad loans fell to 2.42% of the book; the cleanest results-to-stock line of the day.",
+     "s": 1128.4,
+     "e": 1143.75
+    },
+    {
+     "t": "Punjab National Bank, up 4.82%: its own margin expansion, riding the same PSU rate-benefit trade.",
+     "s": 1143.75,
+     "e": 1151.29
+    },
+    {
+     "t": "Bank of Baroda, up 3.39%, Canara Bank, up 3.14%, and State Bank of India, up 1.15%: the sector move, with SBI's weight doing the most for the index.",
+     "s": 1151.29,
+     "e": 1163.99
+    },
+    {
+     "t": "PC Jeweller, up 11.18% on the day's heaviest volume, 169.7 crore shares: no exchange filing or company announcement explains the move, so this paper flags it as unexplained rather than guessing.",
+     "s": 1163.99,
+     "e": 1179.47
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1185.36,
+   "e": 1249.59,
+   "sentences": [
+    {
+     "t": "Axis Bank, down 4.19%: a ₹7,003 crore profit that missed the ₹7,124 crore consensus, with costs and weaker other income behind the miss.",
+     "s": 1185.36,
+     "e": 1198.86
+    },
+    {
+     "t": "HDFC Bank, down 2.72%: the 3.16% margin and a 67.4% fall in treasury income outweighed an in-line profit.",
+     "s": 1199.09,
+     "e": 1211.59
+    },
+    {
+     "t": "Yes Bank, down again: the Supreme Court's AT-1 repayment ruling hangs over the stock.",
+     "s": 1211.86,
+     "e": 1218.02
+    },
+    {
+     "t": "Infosys, down 2.63% to ₹1,130.7: profit-taking in IT after last week's 11.7% sector rally.",
+     "s": 1218.02,
+     "e": 1229.04
+    },
+    {
+     "t": "Urban Company, down 9.5% to ₹143.30: the widening loss and the ₹174 crore InstaHelp spend, with the fundraise announcement landing the same day.",
+     "s": 1229.04,
+     "e": 1241.87
+    },
+    {
+     "t": "UltraTech Cement, down 2.4%: West Asia fuel costs turned a 21% profit rise into a sell.",
+     "s": 1241.87,
+     "e": 1249.59
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1254.93,
+   "e": 1290.8,
+   "sentences": [
+    {
+     "t": "By shares traded on Monday: PC Jeweller led with 169.7 crore shares (the unexplained 11.18% rise above).",
+     "s": 1254.93,
+     "e": 1265.34
+    },
+    {
+     "t": "Vodafone Idea followed with 32.3 crore shares, down 2.46%.",
+     "s": 1265.34,
+     "e": 1271.48
+    },
+    {
+     "t": "Yes Bank traded 20.7 crore shares as the AT-1 overhang kept it in play.",
+     "s": 1271.48,
+     "e": 1277.21
+    },
+    {
+     "t": "PNB's results-driven rally and ixigo's 9.51% rise to ₹158.20 rounded out the list; for ixigo, no single filing or announcement explains the day's move.",
+     "s": 1277.21,
+     "e": 1290.8
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1297.48,
+   "e": 1333.22,
+   "sentences": [
+    {
+     "t": "Two dates and one pending approval.",
+     "s": 1297.48,
+     "e": 1299.46
+    },
+    {
+     "t": "The ₹15 interim dividend (300% of the ₹5 face value) has its record date this Friday, 23 October, with payment scheduled by 13 November.",
+     "s": 1299.46,
+     "e": 1311.97
+    },
+    {
+     "t": "The 1:1 bonus issue, the company's first since March 2015, still needs shareholder approval through a postal ballot; its record date will be announced after that.",
+     "s": 1311.97,
+     "e": 1322.17
+    },
+    {
+     "t": "About 7 lakh retail shareholders are on the register.",
+     "s": 1322.17,
+     "e": 1325.76
+    },
+    {
+     "t": "The stock is ex-dividend from Friday, so a lower quoted price that morning is the dividend leaving the share, not a fall.",
+     "s": 1325.76,
+     "e": 1333.22
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1339.18,
+   "e": 1366.22,
+   "sentences": [
+    {
+     "t": "The board approved raising up to ₹2,500 crore through equity shares or convertible securities on the same day the company reported a wider loss and a 9.5% stock fall.",
+     "s": 1339.18,
+     "e": 1351.3
+    },
+    {
+     "t": "The money is for the InstaHelp quick-services fight against Snabbit and Pronto; shareholder and regulatory approvals are still needed.",
+     "s": 1351.3,
+     "e": 1359.27
+    },
+    {
+     "t": "Read together: the market marked the stock down for the spending, and the company responded by raising more of it.",
+     "s": 1359.27,
+     "e": 1366.22
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1377.24,
+   "e": 1440.7,
+   "sentences": [
+    {
+     "t": "Nvidia launched three open models last week.",
+     "s": 1377.58,
+     "e": 1381.24
+    },
+    {
+     "t": "Nemotron 3.5 Super VL, a 120-billion-parameter model, is aimed at enterprise agents, with Nvidia saying it matches the larger Nemotron 3 Ultra on instruction-following and tool-use accuracy; named users include Skydance, EY, Ramp, Crowdstrike, Perplexity and Salesforce.",
+     "s": 1381.47,
+     "e": 1402.78
+    },
+    {
+     "t": "The two lightweight Bolt models run locally: Bolt 74B-A9B, a 74-billion-parameter model for agentic work on the new RTX Spark AI PCs and DGX Spark workstations, and Bolt E4B, the smallest, aimed at conversational agents and due later this month.",
+     "s": 1402.78,
+     "e": 1421.83
+    },
+    {
+     "t": "The accuracy claims are Nvidia's own; what would verify them is independent benchmark runs, which typically land within a few weeks of release.",
+     "s": 1421.83,
+     "e": 1430.14
+    },
+    {
+     "t": "The strategic read: Nvidia is now seeding open models at every size to keep its chips the default substrate for agent work, on the desktop as much as in the data centre.",
+     "s": 1430.14,
+     "e": 1440.7
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1447.8,
+   "e": 1496.41,
+   "sentences": [
+    {
+     "t": "MiniMax released M3.1 Flash on Monday, a faster, cheaper update to its M3 model, and claims agentic tasks cost 70% less to run than on its predecessor, with inference close to three times faster.",
+     "s": 1447.8,
+     "e": 1463.41
+    },
+    {
+     "t": "In the company's own testing it scored 61.7 on OSWorld V2, a benchmark for operating a computer.",
+     "s": 1463.41,
+     "e": 1471.21
+    },
+    {
+     "t": "Pricing is the aggressive part: a flat $0.15 per million input tokens, aimed squarely at DeepSeek's V4.1-Flash.",
+     "s": 1471.21,
+     "e": 1481.43
+    },
+    {
+     "t": "All of these are company claims, scored on the company's own runs; the check to wait for is third-party evaluation.",
+     "s": 1481.43,
+     "e": 1488.24
+    },
+    {
+     "t": "The trend underneath is real regardless: the cost of running an AI agent keeps falling, and price is becoming the competitive weapon.",
+     "s": 1488.24,
+     "e": 1496.41
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1503.79,
+   "e": 1555.68,
+   "sentences": [
+    {
+     "t": "Meta released Muse Glimmer in August, an open-source 30-billion-parameter model under the Apache 2.0 licence, purpose-built for autonomous agent work on consumer hardware: multi-step reasoning, tool use and failure recovery, tuned to run on a single GPU.",
+     "s": 1504.16,
+     "e": 1524.02
+    },
+    {
+     "t": "Meta claims state-of-the-art performance for its size class against Gemma4-31B and Qwen3.6-27B on tool use, multi-step planning and task completion; that comparison is Meta's own.",
+     "s": 1520.02,
+     "e": 1537.09
+    },
+    {
+     "t": "Unlike the Muse Wonder pair covered yesterday, which lives behind Meta's subscriptions with no downloadable weights, Glimmer is genuinely open: anyone can download, inspect and run it.",
+     "s": 1537.09,
+     "e": 1547.57
+    },
+    {
+     "t": "For Indian startups building agents, an Apache-licensed model that runs on one GPU changes the build-versus-subscribe maths at the small end.",
+     "s": 1547.57,
+     "e": 1555.68
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1566.54,
+   "e": 1610.2,
+   "sentences": [
+    {
+     "t": "Even Healthcare raised a $50 million Series B led by existing investor Khosla Ventures with Alpha Wave participating, taking its total funding past $120 million.",
+     "s": 1566.54,
+     "e": 1578.23
+    },
+    {
+     "t": "The company runs its own hospitals, two in Bengaluru today, and bundles them with insurance programmes, claiming more than 2.5 lakh members across 10 cities and fewer unplanned readmissions in its programmes; both are the company's claims.",
+     "s": 1578.23,
+     "e": 1591.96
+    },
+    {
+     "t": "The money goes to expanding the hospital network.",
+     "s": 1591.96,
+     "e": 1594.88
+    },
+    {
+     "t": "The model is worth watching because it inverts the usual fight: an insurer that owns the hospital has no billing dispute with itself, which is either the answer to claim friction or a conflict of interest, depending on how it handles the patients whose care costs it money.",
+     "s": 1594.88,
+     "e": 1610.2
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1617.63,
+   "e": 1632.74,
+   "sentences": [
+    {
+     "t": "The Pant Project, a premium menswear brand, raised ₹109 crore in a Series B led by Mirae Asset Venture Investments (India).",
+     "s": 1617.63,
+     "e": 1626.4
+    },
+    {
+     "t": "A niche bet on Indian men paying premium prices for well-fitted trousers, sold direct online.",
+     "s": 1626.4,
+     "e": 1632.74
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1638.02,
+   "e": 1686.68,
+   "sentences": [
+    {
+     "t": "Even Healthcare's pitch rests on a number only it can see: how often patients bounce back into hospital.",
+     "s": 1638.02,
+     "e": 1645.61
+    },
+    {
+     "t": "Every insurer in India sits on the same data across thousands of hospitals, and no policyholder can see it.",
+     "s": 1645.61,
+     "e": 1652.62
+    },
+    {
+     "t": "A product that turns claims records into a public scorecard, readmission rates, claim-approval rates and settlement times by hospital and by insurer, would change how people choose both.",
+     "s": 1652.62,
+     "e": 1664.75
+    },
+    {
+     "t": "The data exists; the moat is the insurer partnerships needed to license it, and the risk is hospitals disputing methodology.",
+     "s": 1664.75,
+     "e": 1673.06
+    },
+    {
+     "t": "For a distribution industry negotiating commission caps this week, verified outcome data is also the strongest answer to the question IRDAI keeps asking: what does the customer actually get?",
+     "s": 1673.06,
+     "e": 1686.68
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1699.76,
+   "e": 1764.0,
+   "sentences": [
+    {
+     "t": "With the anchor book done at 30-times demand, Jio Platforms' main issue opens Wednesday: up to 27 crore fresh shares at ₹1,065 to ₹1,119, no offer-for-sale, the proceeds going mostly to prepay up to ₹27,500 crore of Reliance Jio Infocomm's borrowings.",
+     "s": 1699.76,
+     "e": 1720.33
+    },
+    {
+     "t": "Retail's minimum is 12 shares, ₹13,428 at the top of the band.",
+     "s": 1720.33,
+     "e": 1726.69
+    },
+    {
+     "t": "Two reservations widen the tent: up to ₹2,500 crore for anyone who held Reliance Industries shares on 14 October, and ₹500 crore for employees at a ₹54 discount.",
+     "s": 1726.69,
+     "e": 1738.79
+    },
+    {
+     "t": "Paras Healthcare's ₹1,450 crore issue (band ₹660 to ₹693, minimum 21 shares) opens the same day.",
+     "s": 1738.79,
+     "e": 1748.5
+    },
+    {
+     "t": "Both close Friday and are scheduled to list on 28 October.",
+     "s": 1748.5,
+     "e": 1753.99
+    },
+    {
+     "t": "The listing queue first: HD Fire Protect on Wednesday, Fusion CX on Thursday, then Tonbo, Zetwerk, Bonfiglioli and Sahajanand on Friday.",
+     "s": 1753.99,
+     "e": 1764.0
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1765.2,
+   "e": 1821.83,
+   "sentences": [
+    {
+     "t": "In 1974, psychologists Amos Tversky and Daniel Kahneman ran an experiment with a rigged wheel of fortune.",
+     "s": 1765.2,
+     "e": 1773.33
+    },
+    {
+     "t": "They spun it in front of participants; the wheel was fixed to stop at either 10 or 65.",
+     "s": 1773.33,
+     "e": 1779.5
+    },
+    {
+     "t": "Then they asked an unrelated question: what percentage of African nations are members of the United Nations?",
+     "s": 1779.5,
+     "e": 1786.68
+    },
+    {
+     "t": "People who watched the wheel stop at 10 gave a median answer of 25%.",
+     "s": 1786.68,
+     "e": 1791.88
+    },
+    {
+     "t": "People who watched it stop at 65 gave 45%.",
+     "s": 1791.88,
+     "e": 1795.87
+    },
+    {
+     "t": "A number they knew was random, from a wheel they had just watched being rigged, still pulled their estimates toward it.",
+     "s": 1795.87,
+     "e": 1803.41
+    },
+    {
+     "t": "They called the effect anchoring: the first number you hear becomes the reference point your mind adjusts from, and the adjustment is almost never enough.",
+     "s": 1803.41,
+     "e": 1812.83
+    },
+    {
+     "t": "The experiment became a cornerstone of their 1974 paper \"Judgment under Uncertainty\" and, decades later, of Kahneman's Nobel Prize.",
+     "s": 1812.83,
+     "e": 1821.83
+    }
+   ]
+  },
+  {
+   "s": 1821.83,
+   "e": 1884.13,
+   "sentences": [
+    {
+     "t": "You meet anchoring every time a number is named before you have formed your own.",
+     "s": 1821.83,
+     "e": 1827.17
+    },
+    {
+     "t": "In insurance it is the default sum insured on the screen, the agent who opens with a ₹1 crore cover, the renewal premium quoted against last year's figure: each one quietly sets the range of what feels reasonable, whatever your family's actual needs calculation would say.",
+     "s": 1827.17,
+     "e": 1844.25
+    },
+    {
+     "t": "In markets it is the grey market premium treated as a listing-day prediction, or last week's price treated as this week's value.",
+     "s": 1844.25,
+     "e": 1852.58
+    },
+    {
+     "t": "The decision rule the research suggests is simple: before you hear their number, write down your own.",
+     "s": 1852.58,
+     "e": 1859.13
+    },
+    {
+     "t": "Decide what cover you need from your income and liabilities before you look at the quote; decide what an IPO is worth to you before you read the premium.",
+     "s": 1859.13,
+     "e": 1868.23
+    },
+    {
+     "t": "The anchor loses its grip when your number arrives first.",
+     "s": 1868.23,
+     "e": 1874.2
+    },
+    {
+     "t": "Sixty-second recall: a random number on a rigged wheel moved expert guesses by 20 points; the first figure you hear will move yours too, unless yours already exists.",
+     "s": 1874.2,
+     "e": 1884.13
+    }
+   ]
+  },
+  {
+   "s": 1884.13,
+   "e": 1917.9,
+   "sentences": [
+    {
+     "t": "Term of the day: anchor investor.",
+     "s": 1884.13,
+     "e": 1887.07
+    },
+    {
+     "t": "An institutional investor allotted shares in an IPO a day before it opens to the public, at a fixed price, with a lock-in on the shares.",
+     "s": 1887.07,
+     "e": 1896.14
+    },
+    {
+     "t": "The name exists because a strong anchor list is meant to steady demand for the whole issue, exactly the signal Jio's 30-times-covered anchor book sent on Monday.",
+     "s": 1896.14,
+     "e": 1906.73
+    },
+    {
+     "t": "The term shares its root with today's concept: the anchor book gives the market its first number, and first numbers pull.",
+     "s": 1906.73,
+     "e": 1917.9
+    }
+   ]
+  },
+  null,
+  {
+   "s": 1922.76,
+   "e": 1923.9,
+   "sentences": [
+    {
+     "t": "Stock market holiday.",
+     "s": 1922.76,
+     "e": 1923.9
+    }
+   ]
+  },
+  {
+   "s": 1928.37,
+   "e": 1944.3,
+   "sentences": [
+    {
+     "t": "Jio Platforms and Paras Healthcare open for subscription; HD Fire Protect lists.",
+     "s": 1928.37,
+     "e": 1937.91
+    },
+    {
+     "t": "RBI's October policy minutes are due.",
+     "s": 1937.91,
+     "e": 1941.4
+    },
+    {
+     "t": "Results: Eternal, Adani Green, Indian Hotels.",
+     "s": 1941.4,
+     "e": 1944.3
+    }
+   ]
+  },
+  {
+   "s": 1951.2,
+   "e": 1954.92,
+   "sentences": [
+    {
+     "t": "Results: HPCL, Havells, Swiggy, Colgate-Palmolive.",
+     "s": 1951.2,
+     "e": 1954.92
+    }
+   ]
+  },
+  {
+   "s": 1961.15,
+   "e": 1977.92,
+   "sentences": [
+    {
+     "t": "Tonbo, Zetwerk, Bonfiglioli and Sahajanand list.",
+     "s": 1961.15,
+     "e": 1965.42
+    },
+    {
+     "t": "Tech Mahindra's dividend record date.",
+     "s": 1965.42,
+     "e": 1968.92
+    },
+    {
+     "t": "Results: Infosys, JSW Steel, Tata Motors, Dr Reddy's, Coforge, IndusInd Bank, Adani Power, BPCL.",
+     "s": 1968.92,
+     "e": 1977.92
+    }
+   ]
+  },
+  {
+   "s": 1982.02,
+   "e": 1986.9,
+   "sentences": [
+    {
+     "t": "Kotak Mahindra Bank, AU Small Finance Bank, IDFC First Bank.",
+     "s": 1982.02,
+     "e": 1986.9
+    }
+   ]
+  },
+  {
+   "s": 1990.89,
+   "e": 1998.22,
+   "sentences": [
+    {
+     "t": "Last day for comments on the insurance distribution-reform draft (commission caps, dark patterns).",
+     "s": 1990.89,
+     "e": 1998.22
+    }
+   ]
+  },
+  {
+   "s": 2002.82,
+   "e": 2013.79,
+   "sentences": [
+    {
+     "t": "Allotment due Monday 26 October; listing scheduled Wednesday 28 October, alongside Paras Healthcare.",
+     "s": 2002.82,
+     "e": 2013.79
+    }
+   ]
+  },
+  {
+   "s": 2017.57,
+   "e": 2033.88,
+   "sentences": [
+    {
+     "t": "The issue runs Wednesday to Friday.",
+     "s": 2017.57,
+     "e": 2019.44
+    },
+    {
+     "t": "The anchor book is done at 30-times demand; the pace of the retail and QIB books is the next tell, then allotment on 26 October and listing on 28 October.",
+     "s": 2019.44,
+     "e": 2033.88
+    }
+   ]
+  },
+  {
+   "s": 2038.3,
+   "e": 2047.5,
+   "sentences": [
+    {
+     "t": "Two of Nvidia's three Monday models are out; the smallest, the E4B for conversational agents on PCs, is still due later this month.",
+     "s": 2038.3,
+     "e": 2047.5
+    }
+   ]
+  },
+  {
+   "s": 2050.69,
+   "e": 2067.79,
+   "sentences": [
+    {
+     "t": "The 7 October policy raised the repo rate 25 basis points to 5.50% unanimously and shifted to calibrated tightening; the minutes show the debate behind the vote, including how members read inflation against the market's slide.",
+     "s": 2050.69,
+     "e": 2067.79
+    }
+   ]
+  },
+  {
+   "s": 2071.43,
+   "e": 2093.7,
+   "sentences": [
+    {
+     "t": "Tonbo's 135.9-times subscription meets a FY26 revenue decline of 22.7% on the same morning; Zetwerk's institutional book (4.73 times) meets its 73% retail fill.",
+     "s": 2071.43,
+     "e": 2088.08
+    },
+    {
+     "t": "The gap between grey-implied prices and opening prints is the lesson to watch.",
+     "s": 2088.08,
+     "e": 2093.7
+    }
+   ]
+  },
+  {
+   "s": 2095.59,
+   "e": 2110.82,
+   "sentences": [
+    {
+     "t": "IPO subscription figures are from exchange data reported by inc42, HDFC Sky and Dhan; grey market premiums are unofficial tracker readings.",
+     "s": 2095.59,
+     "e": 2105.85
+    },
+    {
+     "t": "Broker ratings and target prices are left out.",
+     "s": 2105.85,
+     "e": 2109.18
+    },
+    {
+     "t": "Nothing here is investment advice.",
+     "s": 2109.18,
+     "e": 2110.82
+    }
+   ]
+  },
+  {
+   "s": 2110.82,
+   "e": 2116.43,
+   "sentences": [
+    {
+     "t": "AI performance and cost claims in this edition are the vendors' own unless labelled otherwise.",
+     "s": 2110.82,
+     "e": 2116.43
+    }
+   ]
+  },
+  {
+   "s": 2116.43,
+   "e": 2125.25,
+   "sentences": [
+    {
+     "t": "The sector chart is computed directly from NSE daily index close files (16 and 19 October 2026).",
+     "s": 2116.43,
+     "e": 2125.25
+    }
+   ]
+  },
+  {
+   "s": 2125.25,
+   "e": 2138.53,
+   "sentences": [
+    {
+     "t": "Yes Bank's Monday fall is reported as 2.63% by India Today's close data and 3.54% in HDFC Sky's 3:30 pm snapshot; both are cited where used.",
+     "s": 2125.25,
+     "e": 2138.53
+    }
+   ]
+  },
+  {
+   "s": 2138.53,
+   "e": 2158.99,
+   "sentences": [
+    {
+     "t": "New primary and independent sources read in full for this edition: the RBI's October MPC resolution, the Supreme Court's Yes Bank AT-1 judgment coverage, Meta's Muse Glimmer publication, and the NSE index close files.",
+     "s": 2138.53,
+     "e": 2158.99
+    }
+   ]
+  },
+  {
+   "s": 2160.45,
+   "e": 2193.95,
+   "sentences": [
+    {
+     "t": "This week: Zetwerk, the factory that owns no factories.",
+     "s": 2160.45,
+     "e": 2164.5
+    },
+    {
+     "t": "Amrit Acharya left a McKinsey desk in San Francisco in January 2018 to come home and build; the software tool he founded was thrown away within 30 days, and what replaced it now runs ₹15,913 crore of revenue across a network of factories it does not own.",
+     "s": 2164.5,
+     "e": 2184.29
+    },
+    {
+     "t": "The IPO closed Monday with institutions in and retail lukewarm; the listing is Friday.",
+     "s": 2184.36,
+     "e": 2191.81
+    },
+    {
+     "t": "Read the Zetwerk story.",
+     "s": 2192.12,
+     "e": 2193.95
+    }
+   ]
+  },
+  null
+ ]
+}
