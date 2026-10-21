@@ -266,117 +266,122 @@
   },
   {
    "s": 417.39,
-   "e": 453.32,
+   "e": 477.93,
    "sentences": [
     {
-     "t": "The question nobody could answer until last week: did SMBC's ₹13,500 crore price tag assume the AT1 bonds stayed dead?",
+     "t": "The question nobody could answer until last week: did SMBC's ₹17,000 crore price tag assume the AT1 bonds stayed dead?",
      "s": 417.78,
-     "e": 429.34
+     "e": 428.85
     },
     {
      "t": "The Supreme Court has now said they do not.",
-     "s": 429.76,
-     "e": 433.07
+     "s": 429.21,
+     "e": 432.52
     },
     {
      "t": "The bank's pro forma CET1 - 13.7% reported at the end of September - drops to about 11.4% once the ₹8,415 crore principal is reinstated, a 240-basis-point hit including profits, per management's own analyst call on Monday.",
-     "s": 433.07,
-     "e": 453.32
+     "s": 432.52,
+     "e": 452.77
+    },
+    {
+     "t": "The bank's disclosures go further: recognised as of 30 September, the judgment turns that quarter's ₹1,080 crore profit into a ₹5,217 crore pro forma loss - a figure the bank stresses is not recognised in the reported results and is subject to revision as the legal and accounting treatment is settled.",
+     "s": 453.07,
+     "e": 477.63
     }
    ]
   },
   null,
   {
-   "s": 453.32,
-   "e": 517.26,
+   "s": 477.93,
+   "e": 541.87,
    "sentences": [
     {
      "t": "What the court ordered is not a fine but a resurrection: the bonds live again, with their 9% and 9.5% coupons and six years of unpaid interest.",
-     "s": 453.32,
-     "e": 464.42
+     "s": 477.93,
+     "e": 489.03
     },
     {
      "t": "On Monday's post-earnings call, CFO Niranjan Banodkar laid out the bank's position with unusual precision.",
-     "s": 464.42,
-     "e": 472.92
+     "s": 489.03,
+     "e": 497.53
     },
     {
      "t": "A CET1 of 11-11.5% is \"not ideal...",
-     "s": 472.92,
-     "e": 477.68
+     "s": 497.53,
+     "e": 502.29
     },
     {
      "t": "we would want more comfortable capital levels irrespective of what the regulator says.\" But the bank has levers: deferred tax assets, a security-receipts portfolio with a face value of about ₹1,500 crore and an estimated NAV of ₹2,000 crore carried on the books at zero, the ability to grow about 11% without consuming capital, and two rating agencies - one international, one domestic - that have called the verdict credit-neutral.",
-     "s": 477.68,
-     "e": 507.8
+     "s": 502.29,
+     "e": 532.41
     },
     {
      "t": "CEO Tonse's summary: there is \"no gun to our head\" to raise capital; whether to raise now or later is \"a commercial evaluation.\"",
-     "s": 507.8,
-     "e": 517.26
+     "s": 532.41,
+     "e": 541.87
     }
    ]
   },
   {
-   "s": 517.26,
-   "e": 553.86,
+   "s": 541.87,
+   "e": 578.47,
    "sentences": [
     {
      "t": "That is the decision scene this saga ends on - for now.",
-     "s": 517.26,
-     "e": 521.22
+     "s": 541.87,
+     "e": 545.83
     },
     {
      "t": "A management that says it does not need capital, sitting on a bond liability that pays 9-9.5% plus back interest, in a rate cycle where the RBI is hiking.",
-     "s": 521.22,
-     "e": 532.57
+     "s": 545.83,
+     "e": 557.18
     },
     {
      "t": "The bondholders, after six years, get their bonds back.",
-     "s": 532.57,
-     "e": 536.42
+     "s": 557.18,
+     "e": 561.03
     },
     {
      "t": "The bank gets a recurring coupon bill and a thinner capital cushion.",
-     "s": 536.42,
-     "e": 540.69
+     "s": 561.03,
+     "e": 565.3
     },
     {
      "t": "And every other Indian bank's AT1 investors got something quietly valuable: a Supreme Court confirmation that a write-down must be executed with procedural perfection, or it does not happen at all.",
-     "s": 540.69,
-     "e": 553.86
+     "s": 565.3,
+     "e": 578.47
     }
    ]
   },
   null,
   {
-   "s": 553.86,
-   "e": 610.79,
+   "s": 578.47,
+   "e": 635.4,
    "sentences": [
     {
      "t": "Three failures made this saga.",
-     "s": 553.86,
-     "e": 556.48
+     "s": 578.47,
+     "e": 581.09
     },
     {
      "t": "The original sin was underwriting: the lending binge of the 2010s that left CET1 at 0.6% by early 2020 - with the supervisor, in the Supreme Court's words, \"a mere bystander.\" The second was distribution: high-yield perpetual bonds sold to retail investors who say they were told these were safe, deposit-like products, a mis-selling scandal that ran parallel to the legal one.",
-     "s": 556.48,
-     "e": 584.65
+     "s": 581.09,
+     "e": 609.26
     },
     {
      "t": "The third was procedural: the 14 March 2020 write-down letter, signed one day too late by an administrator whose powers had already lapsed into the final scheme.",
-     "s": 584.65,
-     "e": 596.5
+     "s": 609.26,
+     "e": 621.11
     },
     {
      "t": "A ₹10,350 crore rescue survived every challenge.",
-     "s": 596.82,
-     "e": 602.3
+     "s": 621.43,
+     "e": 626.91
     },
     {
      "t": "The piece that failed was one sentence of legal process - and it cost ₹8,415 crore.",
-     "s": 602.58,
-     "e": 610.79
+     "s": 627.19,
+     "e": 635.4
     }
    ]
   },
