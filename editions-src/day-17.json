@@ -1,0 +1,490 @@
+{
+ "day": 17,
+ "meta": {
+  "date": "Thursday 22 October 2026",
+  "short": "Thu 22 Oct",
+  "longread": 17
+ },
+ "edition": {
+  "title": "Morning paper, Thursday 22 October 2026",
+  "fact": "Thursday 22 October 2026, edition 17. The RBI's October minutes, out Wednesday, lay bare the reasoning behind a 4-2 stance split that was already public from the 7 October resolution; the 10-year bond yield is at its highest since November 2022 at 7.44%; Jio Platforms' IPO was fully subscribed in 100 minutes on day one. The long read is Zetwerk, which lists tomorrow.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. Wednesday gave the rate story its second chapter: the hike was unanimous, the stance was not, and the bond market is already pricing the hawkish reading. Stocks, meanwhile, faded a strong open for the second session's worth of evidence that oil near $110 is the tape's real problem.",
+  "concept": {
+   "label": "One concept a day",
+   "name": "The cautiousness bias",
+   "line": "When your audience's expectations move in response to your delay, hesitation is not free - price the drift."
+  },
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The RBI's split:</strong> minutes of the 5-7 October meeting, released Wednesday, show the 25 bp hike to 5.50% was unanimous - but the shift to a \"calibrated tightening\" stance passed 4-2, with Nagesh Kumar and Ram Singh voting to stay neutral."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The 10-year at 7.44%:</strong> its highest since November 2022 (Business Standard), up 85 bp this year, as Brent held near $109. Rate-sensitive stocks led the losers."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio's 100 minutes:</strong> India's largest IPO was fully subscribed within 100 minutes of opening and closed day one at 3.16 times; retail was subdued at 0.73 times. Zetwerk lists Friday with its grey-market premium faded to almost nothing."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Meta's two headlines:</strong> record quarterly revenue of $64.6 billion and a narrowed $135-145 billion capex outlook - the same day a New Mexico judge ordered it to pay $25 billion over data-privacy violations."
+     },
+     {
+      "t": "p",
+      "html": "<strong>A faded open:</strong> the Nifty gave up a 127-point gap-up to close down 77.6 points at 22,811; decliners beat gainers seven to one; IT was the only green sector."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Today to watch:</strong> results from Swiggy, Havells, HPCL and Colgate; Zetwerk's final pre-listing grey signals; how rate-sensitives trade the minutes on day two. <a href=\"#s-cal\">Calendar</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Unanimous on the hike, divided 4-2 on what follows: inside the RBI's October minutes",
+      "kicker": "Rates, lead"
+     },
+     {
+      "t": "p",
+      "html": "The Reserve Bank's Monetary Policy Committee - Governor Sanjay Malhotra, deputy governor Poonam Gupta, executive director Indranil Bhattacharyya, and external members Nagesh Kumar, Saugata Bhattacharya and Ram Singh - voted 6-0 at its 5-7 October meeting to raise the repo rate 25 basis points to 5.50%. The 7 October resolution itself disclosed the consequential split: changing the stance from \"neutral\" to \"calibrated tightening\" passed only 4-2, with Kumar and Singh preferring to stay neutral. The minutes, published Wednesday as required on the fourteenth day, lay out the argument behind it."
+     },
+     {
+      "t": "p",
+      "html": "Why the stance word matters: a neutral stance keeps all three options - cut, hike, pause - explicitly on the table. \"Calibrated tightening\" takes the cut off it; from here the live choices are hike or pause. Singh argued against signalling \"an extended cycle of rate hikes\" and favoured incremental, mild moves rather than a high-for-long posture. Executive director Indranil Bhattacharyya went the other way: \"I feel it is better to set aside the cautiousness bias and act in a pre-emptive manner at this juncture rather than wait and watch,\" he wrote, voting for both the hike and the tighter stance - the minutes' own footnote for that phrase explains the mechanism: a bank that under-reacts lets inflation expectations drift and ends up tightening more, for a worse outcome (this edition's <a href=\"#s-oc\">concept of the day</a>). Saugata Bhattacharya sided with the majority while cautioning that too rapid an adjustment risks constricting growth."
+     },
+     {
+      "t": "p",
+      "html": "The forecasts behind the split: the RBI raised its GDP growth projection for FY27 to 7.1% from 6.7% while lifting the CPI inflation forecast to 5.2% from 5.0%, with inflation seen at 6.0% in the December quarter before moderating. September CPI printed 5.54% on 12 October, with food inflation at 7.74% (MoSPI); households' three-month-ahead inflation expectation ran at 9.9% (RBI survey). The committee next meets 2-4 December."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> the rate path now runs through your day job twice - through lenders' margins (Bajaj Finance warned Wednesday that the hike worsens its margin compression, <a href=\"#s-bf\">below</a>) and through insurers' bond portfolios and reinvestment yields as the 10-year sits at 7.44%. December's meeting is the next live decision; the two dissenters are the early signal of where the pause case gets argued."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the market got a unanimous hike and still heard division - because the fight over the next six months was lost 4-2, not won."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839\" target=\"_blank\" rel=\"noopener\">RBI MPC minutes (primary)</a>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 200\" width=\"100%\" role=\"img\" aria-label=\"India 10-year government bond yield, per cent\"><g><text x=\"92\" y=\"33\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Start of 2026</text><rect x=\"100\" y=\"16\" width=\"158.16\" height=\"26\" rx=\"3\" fill=\"#64748b\"></rect><text x=\"264.15999999999997\" y=\"33\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">6.59%</text></g><g><text x=\"92\" y=\"79\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">A month ago</text><rect x=\"100\" y=\"62\" width=\"168.96\" height=\"26\" rx=\"3\" fill=\"#64748b\"></rect><text x=\"274.96000000000004\" y=\"79\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#334155\">7.04%</text></g><g><text x=\"92\" y=\"125\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Wednesday</text><rect x=\"100\" y=\"108\" width=\"178.56\" height=\"26\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"284.56\" y=\"125\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">7.44%</text></g><text x=\"8\" y=\"170\" font-size=\"11\" fill=\"#64748b\">India 10-year G-Sec yield, %. Source: Zerodha AMR, 21 Oct.</text><text x=\"8\" y=\"188\" font-size=\"11\" fill=\"#64748b\">Earlier bars computed from reported moves.</text></svg>"
+     },
+     {
+      "t": "story",
+      "title": "7.44%: the bond selloff meets the minutes",
+      "kicker": "Bonds and oil"
+     },
+     {
+      "t": "p",
+      "html": "India's 10-year government bond yield climbed to 7.44% on Wednesday, its highest since November 2022 (Business Standard; The Hindu BusinessLine gauges an over-three-year high). It has risen 40 basis points in a month and 85 basis points since the start of 2026. The stress showed in the primary market too: the RBI rejected all bids at Wednesday's ₹23,000-crore treasury-bill auction as short-term yields surged (Business Standard, moneycontrol). The rise also predates the minutes - the yield was already above 7.37% by 12 October, after the RBI's liquidity-tightening steps. Crude keeps the pressure on: Brent settled at $108.82 a barrel, near five-month highs (newsquawk crude wrap), with West Asia supply risk keeping a floor under prices. WTI's December contract settled down 67 cents at $97.15."
+     },
+     {
+      "t": "p",
+      "html": "The mechanism connects the two stories above: expensive oil feeds imported inflation, imported inflation validates the \"calibrated tightening\" stance, and a tightening stance demands a higher yield to hold government paper. Equity felt it the same afternoon - banks, NBFCs and autos filled the losers' list while the broad market sagged seven-to-one negative."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> every insurer and lender you deal with marks its bond book to this number; rising yields mean treasury losses now but better reinvestment rates later. For loan-linked products and NBFC funding costs, 7.44% is the input that decides whether Wednesday's margin warnings multiply."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> equities debated the minutes on Wednesday; the bond market had been voting all week."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://aftermarketreport.zerodha.com/p/nifty-gives-up-strong-opening-gains\" target=\"_blank\" rel=\"noopener\">Zerodha Aftermarket Report, 21 Oct</a> / <a href=\"https://www.newsquawk.com/headlines/crude-wrap-wti-z6-settles-usd-067-lower-at-9715bbl\" target=\"_blank\" rel=\"noopener\">Newsquawk crude wrap</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Front page, continued",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "100 minutes to full subscription: Jio's day one, and Zetwerk's quieter road to Friday",
+      "kicker": "IPOs"
+     },
+     {
+      "t": "p",
+      "html": "Jio Platforms' ₹30,213 crore issue - India's largest - was fully subscribed within 100 minutes of opening on Wednesday and ended day one subscribed 3.16 times. The institutional portion led: qualified institutional buyers bid 9.42 times their allocation, while retail reached 0.73 times, leaving the retail book short of full on day one of three. The issue closes Friday; allotment is expected Monday 26 October and listing Wednesday 28 October. The grey market premium - unofficial and unregulated - was last recorded at ₹246, about 22% over the ₹1,119 cap (investorgain, 21 Oct, 11:37 PM)."
+     },
+     {
+      "t": "p",
+      "html": "The contrast lists tomorrow. Zetwerk, the custom-manufacturing platform this edition's long read follows, closed its ₹5,012 crore issue on Monday subscribed 3.06 times and was priced at the ₹151 cap. Its grey-market premium has faded from ₹14 on 15 October to ₹3.50 by 19 October, with none recorded at the last update - against Jio's ₹246 and Tonbo Imaging's ₹512. Two smaller listings join it Friday: Tonbo Imaging India (an aerospace and defence imaging firm, subscribed 135.9 times) and <a href=\"https://www.capitalmarket.com/markets/news/ipo-news/bonfiglioli-transmissions-ipo-ends-with-46-06-times-subscription/1738108\" target=\"_blank\" rel=\"noopener\">Bonfiglioli Transmissions</a> (industrial power-transmission products, 46.06 times, with the QIB book at 120.78 times, per Capital Market)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> subscription multiples describe demand for paper, not businesses; Friday's three listings test whether a faded grey premium says anything true about Zetwerk's open. The week's flows also matter to the tape - thousands of crores are locked in applications until allotments."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> day-one Jio says institutions and grey traders agree on the biggest issue; the interesting data point is retail at 0.73 times - the crowd is not chasing India's largest IPO on day one."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.business-standard.com/markets/ipo/jio-platforms-ipo-subscription-qib-retail-anchor-investor-126102100328_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, day-1 subscription</a> / <a href=\"https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/\" target=\"_blank\" rel=\"noopener\">chittorgarh issue page</a> / <a href=\"https://www.investorgain.com/report/live-ipo-gmp/331/ipo/\" target=\"_blank\" rel=\"noopener\">investorgain live GMP table</a> / <a href=\"https://www.bseindia.com/corporates/download/363595/IPO%20Open/RHPSigned_20261013182900.pdf\" target=\"_blank\" rel=\"noopener\">Zetwerk RHP (primary)</a> / <a href=\"https://www.capitalmarket.com/markets/news/live-news/zetwerk-manufacturing-business-ipo-ends-with-3-06-times-subscription/1738106\" target=\"_blank\" rel=\"noopener\">Capital Market, Zetwerk final</a>"
+     },
+     {
+      "t": "chart",
+      "svg": "<div role=\"img\" aria-label=\"Grey market premiums of this week\\u2019s IPOs in rupees per share\" style=\"margin:16px 0\"><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>Tonbo Imaging (lists Fri)</span><span style=\"font-weight:600;color:#0f172a\">₹512 <span style=\"font-weight:400;color:#64748b\">+73% over cap</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:100%;background:#0f766e;border-radius:3\"></div></div></div><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>Jio Platforms (closes Fri)</span><span style=\"font-weight:600;color:#0f172a\">₹246 <span style=\"font-weight:400;color:#64748b\">+22% over cap</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:48.046875%;background:#0f766e;border-radius:3\"></div></div></div><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>Bonfiglioli (lists Fri)</span><span style=\"font-weight:600;color:#0f172a\">₹132 <span style=\"font-weight:400;color:#64748b\">+22.5% over cap</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:25.78125%;background:#0f766e;border-radius:3\"></div></div></div><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>Zetwerk (lists Fri)</span><span style=\"font-weight:600;color:#0f172a\">₹3.50 <span style=\"font-weight:400;color:#64748b\">on 19 Oct, no quote since</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:1.5%;background:#0f766e;border-radius:3\"></div></div></div><div style=\"font-size:11;color:#64748b;line-height:1.55\">Grey market premium, ₹ per share - unofficial, unregulated. Source: investorgain.com.<br></br>Jio, Tonbo and Bonfiglioli as of 21 Oct, 11:37 PM IST; Zetwerk's last quote was 19 Oct.</div></div>"
+     },
+     {
+      "t": "story",
+      "title": "Meta's two headlines: record revenue and a $135-145 billion build-out, with a $25 billion court penalty on the side",
+      "kicker": "AI, earnings"
+     },
+     {
+      "t": "p",
+      "html": "Revenue rose 26% on the year to $64.6 billion in the September quarter, a record. Reported operating income was $12.99 billion after a $9.89 billion charge for Meta's settlement with US state attorneys general over teen mental health on its platforms; excluding it, operating income would have been $22.88 billion and diluted EPS $7.40 instead of the reported $3.83. Capital expenditure including finance leases was $34.91 billion in the quarter, and Meta narrowed its full-year capex outlook to $135-145 billion from $130-145 billion - the narrowed range raises the floor $5 billion from July's. Fourth-quarter revenue is guided to $73-76 billion. The board also declared a one-time stock dividend of one share of a new Class C stock for each outstanding Class A and Class B share, contingent on an amended and restated charter taking effect 19 January 2027, with record and payment dates still to be set; Meta says it expects the Class A price to reflect the effect of a two-for-one split once paid, that the dividend changes no shareholder's voting power, and that the amended charter was approved by shareholder written consent. Shares initially rose more than 4% in after-hours trading before settling to a gain of about 2%."
+     },
+     {
+      "t": "p",
+      "html": "The same Wednesday, a New Mexico judge ordered Meta to pay $25 billion after a jury found the company liable over Facebook's user-data practices tied to the Cambridge Analytica era, with the judge writing that the company's wrongdoing went to \"the heart of Facebook's core business practices\"; Meta said it intends to appeal (AP, BBC)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> the AI capex race is the demand engine under your IT stocks and the Nasdaq alike - Meta at up to $145 billion a year is a floor under that trade. The penalty is the counter-story: the bill for the last decade's data practices is still arriving while this decade's build-out accelerates."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> record revenue and a $5 billion higher capex floor say the build-out is still accelerating; the $25 billion penalty says the bill for the last decade's data practices is still arriving. Both land on the same balance sheet."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx\" target=\"_blank\" rel=\"noopener\">Meta Q3 2026 press release (primary)</a> / <a href=\"https://apnews.com/article/facebook-penalty-cambridge-analytica-new-mexico-b329f82c3d3db3758a159405acbd4d0e\" target=\"_blank\" rel=\"noopener\">AP on the New Mexico penalty</a> / <a href=\"https://www.bbc.com/news/articles/cqdr8zxrr3dxo\" target=\"_blank\" rel=\"noopener\">BBC on the penalty</a>"
+     },
+     {
+      "t": "story",
+      "title": "Eternal's quarter: profit up 92% and still a miss",
+      "kicker": "Earnings, consumer internet"
+     },
+     {
+      "t": "p",
+      "html": "Eternal - the parent of Zomato and Blinkit - reported September-quarter profit of ₹125 crore, up 92% on the year, against a CNBC-TV18 poll estimate of ₹250 crore. Revenue rose 77.6% to ₹24,138 crore, ahead of the poll's ₹22,425 crore, and EBITDA of ₹752 crore beat the ₹530 crore estimate, a 3.1% margin against 2.4% expected. Expenses rose 75% to ₹24,166 crore. The results landed after the closing bell; the stock had already closed down 2.45% at ₹312.35 (NSE) before they were public."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> the street's complaint is profitability pace, not demand - revenue and EBITDA beat while the profit line missed on costs. That is the same tension the quick-commerce build-out has carried for six quarters, and it decides how patient the market stays with every consumer-internet name on your watchlist."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> a 92% profit rise that disappoints tells you how much expectation is already in the price."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.cnbctv18.com/market/q2-results-live-updates-eternal-srf-indian-hotels-adani-green-pc-jeweller-20015663.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 Q2 coverage</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets: the fade",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The Nifty opened 127 points up at 23,016 on Wednesday, tracking an overnight AI-led rally on Wall Street, and touched 23,120 within twenty minutes. That was the day's high. Selling pulled it below 22,700 by early afternoon, to a low near 22,650, before a closing recovery left it at 22,811.35, down 77.60 points (0.34%). The Sensex closed at 73,709.69, down 143.21 points (0.19%), and Bank Nifty fell 0.92% to 54,976.90 (NSE closing data via AlphaTribe and The Hindu BusinessLine)."
+     },
+     {
+      "t": "p",
+      "html": "Beneath the index the day was worse. Decliners beat advancers 2,036 to 291; only 13.7% of Nifty 500 stocks sit above their 50-day averages; 51 stocks hit 52-week lows against two new highs. IT was the only green sector, up 2.88%, while chemicals fell 2.64%. Options-implied volatility rose from 12.6% to 14.2%, and foreign investors remain positioned heavily bearish in index futures - 9.5% long against 84% for retail and HNI accounts (Zerodha Aftermarket Report, 21 Oct)."
+     },
+     {
+      "t": "p",
+      "html": "The flows disagreed with the tape. Foreign investors were net buyers of ₹1,022.30 crore in the cash market and domestic institutions bought ₹1,614.30 crore (NSE/BSE provisional figures via 5paisa's daily table). The rupee gained 46 paise to close at 94.45 per dollar, its strongest close since 4 September, helped by optimism over an India-US trade deal and foreign inflows toward the Jio IPO (Aftermarket Report). US markets that night continued the AI bid: the Nasdaq rose 1.05% to 26,702.86, the S&amp;P 500 0.58% to 7,757.17 and the Dow 0.69% to 52,856.09; SpaceX jumped 7.8% on its first profit as a public company and Super Micro 9.6% (Reuters/AP wrap)."
+     },
+     {
+      "t": "p",
+      "html": "Overnight earnings added two more data points to the AI ledger. Tesla's third-quarter revenue was roughly flat at $28.05 billion while GAAP net income fell to $787 million from $1.37 billion a year earlier; free cash flow was $1.53 billion and the company says Optimus production has begun at Fremont - a vendor claim, dated (Tesla's 8-K filing via stocktitan). IBM's revenue rose 5% to $17.1 billion with software up 8%; it expects full-year free cash flow up more than $1 billion versus 2025 and constant-currency revenue growth of 4-5% (IBM's press release). Both stocks rose modestly after hours."
+     },
+     {
+      "t": "p",
+      "html": "The split personality of the day - heavy breadth, positive institutional flows, a firming rupee - is what a market looks like when index-level selling is concentrated in rate-sensitives rather than broad risk."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 224\" width=\"100%\" role=\"img\" aria-label=\"Nifty 50 intraday path on Wednesday 21 October 2026\"><line x1=\"34\" y1=\"86.34763636363617\" x2=\"346\" y2=\"86.34763636363617\" stroke=\"#94a3b8\" stroke-dasharray=\"4 4\"></line><text x=\"346\" y=\"81.34763636363617\" text-anchor=\"end\" font-size=\"11\" fill=\"#64748b\">Previous close (Mon 19 Oct) 22,888.95</text><path d=\"M34.0,53.1 L96.4,25.9 L158.8,109.6 L221.2,135.8 L283.6,148.9 L346.0,106.7\" fill=\"none\" stroke=\"#b91c1c\" stroke-width=\"2.5\"></path><g><circle cx=\"34\" cy=\"53.083636363636366\" r=\"3\" fill=\"#b91c1c\"></circle><text x=\"34\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">9:15 open</text><text x=\"34\" y=\"45.083636363636366\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"600\" fill=\"#0f172a\">23,016</text></g><g><circle cx=\"96.4\" cy=\"25.85454545454546\" r=\"3\" fill=\"#b91c1c\"></circle><text x=\"96.4\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">9:30 high</text><text x=\"96.4\" y=\"17.85454545454546\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"600\" fill=\"#0f172a\">23,120</text></g><g><circle cx=\"158.8\" cy=\"109.63636363636364\" r=\"3\" fill=\"#b91c1c\"></circle><text x=\"158.8\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">12:00</text><text x=\"158.8\" y=\"101.63636363636364\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"600\" fill=\"#0f172a\">22,800</text></g><g><circle cx=\"221.2\" cy=\"135.8181818181818\" r=\"3\" fill=\"#b91c1c\"></circle><text x=\"221.2\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">13:45</text><text x=\"221.2\" y=\"127.81818181818181\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"600\" fill=\"#0f172a\">22,700</text></g><g><circle cx=\"283.6\" cy=\"148.9090909090909\" r=\"3\" fill=\"#b91c1c\"></circle><text x=\"283.6\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">14:45 low</text><text x=\"283.6\" y=\"140.9090909090909\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"600\" fill=\"#0f172a\">22,650</text></g><g><circle cx=\"346\" cy=\"106.66472727272765\" r=\"3\" fill=\"#b91c1c\"></circle><text x=\"346\" y=\"182\" text-anchor=\"middle\" font-size=\"11\" fill=\"#475569\">15:30 close</text><text x=\"346\" y=\"98.66472727272765\" text-anchor=\"middle\" font-size=\"11.5\" font-weight=\"600\" fill=\"#0f172a\">22,811.35</text></g><text x=\"6\" y=\"198\" font-size=\"11\" fill=\"#64748b\">Nifty 50 intraday, Wed 21 Oct (IST). Source: Zerodha AMR.</text><text x=\"6\" y=\"214\" font-size=\"11\" fill=\"#64748b\">Open 23,016 (+127), low 22,650, close 22,811.35, down 77.6.</text></svg>"
+     }
+    ]
+   },
+   {
+    "heading": "Top movers, Wednesday 21 October",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Gainers, large cap: <strong>Infosys</strong> +3.30% (₹1,168), <strong>HCLTech</strong> +3.21%, <strong>Tech Mahindra</strong> +3.13% (a fresh 52-week high), <strong>TCS</strong> +2.77% - IT rode the overnight rebound in US AI stocks, with Infosys reporting this Friday. <strong>UltraTech Cement</strong> +1.87% extended Monday's post-results move (September-quarter profit ₹1,501 crore, up 21.3%). Mid caps: <strong>Wipro</strong> +3.86% led the Next 50; Godrej Consumer +1.42%, Divi's +1.13%. (Closing data: AlphaTribe's NSE snapshot; catalysts: Aftermarket Report, CNBC-TV18.)"
+     },
+     {
+      "t": "p",
+      "html": "Losers, large cap: <strong>Bajaj Finance</strong> -3.27% (₹926) after management warned margin compression could exceed the guided 10-15 bp in the second half because of the repo hike (CNBC-TV18). <strong>BSE Ltd</strong> -2.63% - no confirmed catalyst. <strong>Eternal</strong> -2.45% in the session before its post-close results (above). <strong>Eicher</strong> -2.43%, <strong>Trent</strong> -2.41%, <strong>Maruti</strong> -2.40% - no confirmed catalysts; rate-sensitive consumption names sagged with the tape. Mid caps: <strong>ABB India</strong> -5.94%, its worst day in five months, after parent ABB's quarterly update gave no quantified India numbers - analysts peg India orders at ₹4,400-4,600 crore, flat sequentially (CNBC-TV18). <strong>Siemens</strong> -5.59% - no confirmed company-specific catalyst. <strong>Vodafone Idea</strong> -5.21% on 52.6 crore shares as telecom money repositioned around the Jio IPO (Business Today)."
+     },
+     {
+      "t": "p",
+      "html": "Small caps and volume leaders: <strong>India Cements</strong> jumped 12.04% on 102 times usual volume after reports of its plan to acquire a 3.62% stake in Zenataris Renewable Energy for captive green power (<a href=\"https://squawknews.com/news/528574-india-cements-shares-jump-nearly-8-after-renewable-energy-stake-plan\" target=\"_blank\" rel=\"noopener\">SquawkNews</a>, <a href=\"https://www.livemint.com/market/stock-market-news/india-cements-share-price-jumps-8-a-trend-reversal-or-just-a-relief-rally-experts-weigh-in-check-key-levels-to-watch-11792565048115.html\" target=\"_blank\" rel=\"noopener\">Mint</a>, 21 Oct). <strong>L&amp;T Technology Services</strong> surged 10.66% on 118 times volume, extending its results-week rally - its ₹20 dividend goes ex on 27 October (Aftermarket Report; corporate actions below). By volume, Vodafone Idea (52.6 crore shares), Wipro (3.8 crore), PNB (3.1 crore) and Eternal (3.0 crore) led the tape (AlphaTribe)."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Open now:</strong> Jio Platforms (₹1,065-1,119, lot of 12) closes Friday 23 October; allotment 26 October, listing 28 October. Day-one subscription 3.16 times (QIB 9.42x, retail 0.73x); grey premium ₹246, last recorded 21 Oct 11:37 PM (investorgain)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Listing Friday 23 October:</strong> Zetwerk Manufacturing Businesses (₹151, priced at cap; 3.06x subscribed) - the featured study in today's long read. Tonbo Imaging India (₹700 cap; 135.9x) and Bonfiglioli Transmissions (₹586 cap; 46.06x) list the same day. All grey-market figures above are unofficial, dated and sourced to investorgain's live table; chittorgarh's tracker concurs on Jio's ₹246."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Worth a closer look:</strong> the gap between Tonbo's 136x subscription and Zetwerk's 3x, priced one day apart, is this week's cleanest read on where primary-market risk appetite actually sits - defence and small industrials over scaled-but-loss-reporting platforms. What would make that reading wrong: a strong Zetwerk open above ₹170 despite the faded premium."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Declared or going ex this week (record/ex-date, IST), per company notices compiled by TotalMarket's events board from NSE filings, updated 21 Oct:"
+     },
+     {
+      "t": "bullets",
+      "items": [
+       "Thu 22 Oct, ex-date: Angel One interim dividend ₹1.40 per share; Tips Music interim dividend ₹6.50 per share.",
+       "Fri 23 Oct, ex-date: Tech Mahindra interim dividend ₹15; ICICI Lombard interim dividend ₹7; 360 ONE WAM ₹7.50; HDB Financial ₹2; IRFC ₹1.15; Oberoi Realty ₹2; LTM ₹25; Modison ₹4.",
+       "Tue 27 Oct, ex-date: L&amp;T Technology Services dividend ₹20 per share."
+      ]
+     },
+     {
+      "t": "p",
+      "html": "Results ahead: today - Swiggy, Havells, HPCL, Colgate-Palmolive India, Cyient, CreditAccess Grameen, Adani Energy Solutions, Adani Total Gas. Friday - Infosys, Dr Reddy's, IndusInd Bank, JSW Steel, Adani Power, BPCL, Coforge. Saturday - Kotak Mahindra Bank, IDFC First Bank, AU Small Finance Bank, Castrol India. (TotalMarket results calendar from exchange filings.)"
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "HDFC Bank probes a leak from the top floor",
+      "kicker": "Banking governance"
+     },
+     {
+      "t": "p",
+      "html": "HDFC Bank found that two senior executives leaked confidential business information to outsiders, an internal probe has revealed, according to NDTV reporting from Wednesday. The review is ongoing and will determine whether the leaked information was misused. For India's largest private bank - usually the sector's governance reference point - the question now is what the information was and who used it."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> if your work touches bancassurance or bank partnerships, governance headlines at the anchor bank move partner conversations and compliance checklists; watch for the probe's findings and any exchange disclosure."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ndtv.com/business-news/cracks-in-the-citadel-hdfc-banks-senior-executives-leaked-confidential-data-reveals-probe-12214356\" target=\"_blank\" rel=\"noopener\">NDTV</a>"
+     },
+     {
+      "t": "story",
+      "title": "Bajaj Finance's margin warning is the rate hike arriving at NBFC P&amp;Ls",
+      "kicker": "NBFC margins"
+     },
+     {
+      "t": "p",
+      "html": "Bajaj Finance reported a strong quarter - net interest income up 23.6% to ₹13,335 crore, profit up 28.7% to ₹6,367 crore, and it raised FY27 AUM growth guidance - yet the stock fell 3.27% Wednesday because of what management said next: margin compression could exceed the guided 10-15 basis points in the second half as the RBI's repo hike works through funding costs, after roughly 5 basis points of compression already in the first half."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> this is the transmission channel from the lead story into earnings - when the RBI moves the repo rate, NBFC funding costs reprice faster than loan books, and the largest, best-funded NBFC is saying even it cannot fully dodge the squeeze. Every lender on your watchlist gets asked the Bajaj question on its next call."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.cnbctv18.com/market/bajaj-finance-share-price-q2-result-reaction-fy27-guidance-aum-margin-repo-rate-buy-sell-target-outlook-20015660.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>"
+     },
+     {
+      "t": "story",
+      "title": "September's core-sector output grew 7.9%, up from a revised 5.9% in August",
+      "kicker": "Macro data"
+     },
+     {
+      "t": "p",
+      "html": "India's Index of Core Industries rose 7.9% on the year in September, up from a revised 5.9% in August, on coal up 10.7%, iron ore up 18.4% and refinery products up 10.3% (commerce ministry release; Mint; TOI). The print supports the RBI's decision to upgrade FY27 growth to 7.1% - the economy was accelerating into the oil shock."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://aftermarketreport.zerodha.com/p/nifty-gives-up-strong-opening-gains\" target=\"_blank\" rel=\"noopener\">Zerodha Aftermarket Report, 21 Oct</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Zetwerk lists tomorrow</strong> - and its prospectus holds the week's best diligence lesson. The offer for sale shows what each seller paid for its shares: founders Amrit Acharya and Srinath Ramakkrushnan sell 14.23 million shares each at a \"negligible\" acquisition cost (about ₹215 crore each at the cap); seed fund Kae Capital exits part at ₹3.94 a share (38 times its cost at the ₹151 cap); Peak XV's Investments V fund at ₹6.31. One promoter-group entity, Creovate Innovation - a company both founders also direct - sells shares it acquired at ₹178.58, above the ₹151 price-band cap: an underwater exit in the same document. <a href=\"#s-lr\">The long read</a> tells the full story."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The insight:</strong> Accel's Prayank Swaroop passed the classic diligence test in December 2018 - experts called Zetwerk a \"vitamin\" (nice to have), customers called it a \"painkiller\" (they could not ship without it) - and the customers were right. But the mechanism that made it scale was not the marketplace; it was the second pivot, to owning execution risk as the supplier of record. Marketplaces match; businesses that bear the risk get the margin."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Opportunities this creates:</strong> managed-marketplace models are now proven in custom manufacturing; the same \"supplier of record\" wrapper is open in fragmented Indian categories with execution gaps - industrial maintenance, contract packaging, testing-and-certification labs."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One startup idea:</strong> an RHP-reading service for retail IPO investors. Every prospectus already discloses each selling shareholder's acquisition cost - almost nobody reads it. A tool that turns the OFS table into a one-page \"who sells at what multiple\" card (flagging underwater sellers like Creovate) sells to brokerages and wealth apps as an engagement feature; the data is free, the moat is parsing accuracy across thousands of filings."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "OpenAI's models land on Google Cloud",
+      "kicker": "Model distribution"
+     },
+     {
+      "t": "p",
+      "html": "OpenAI's models are coming to Google Cloud's Vertex AI model garden, announced by both companies on 21 October: select customers get limited-preview access now, with general availability planned in the coming weeks (OpenAI's announcement). Google says this makes it the only hyperscaler offering all three leading closed model families - its claim, dated 21 October, and worth treating as vendor framing until independently checked. The substance underneath the framing: enterprise buyers increasingly refuse single-model lock-in, and OpenAI - which competes with Google on models and consumer AI - now rents shelf space on Google's enterprise rails."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> if your product or team builds on any single model API, this is the market telling you multi-model is becoming the default enterprise posture - procurement will expect it, and routing between vendors is turning into a standard architecture decision rather than an exotic one."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://openai.com/index/openai-models-google-cloud\" target=\"_blank\" rel=\"noopener\">OpenAI announcement (primary)</a> / <a href=\"https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers\" target=\"_blank\" rel=\"noopener\">Google Cloud blog (primary)</a>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Radar, last 24-48 hours:</strong> Meta narrowed its 2026 capex outlook to $135-145 billion while posting a record quarter (above). \"BAND\" launched on Product Hunt - a shared chat layer for coordinating multiple AI agents and human teams with governance controls; single-source, vendor-described, listed 21 October. SpaceX reported its first profit as a public company, sending the stock up 7.8% (Reuters; Washington Post). Tesla and SpaceX have each formed special board committees to weigh a potential merger, Musk said (CNBC, TechCrunch, 20-21 October). Nothing else verified in the window worth your attention."
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The build-relevant note in the OpenAI-Google news: Vertex AI's model garden means that once general availability lands in the coming weeks, one Google Cloud project will call Gemini, Anthropic and OpenAI models behind a single IAM and billing surface. If you prototype multi-model routing, that consolidation removes the messiest part - separate credentials and quotas per vendor. A router that sends extraction jobs to the cheapest adequate model and escalates hard ones becomes an afternoon's work once every model sits behind one endpoint."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Thursday: building)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Build an OFS cost-basis card for one IPO (about 30 minutes).</strong> Open the Zetwerk RHP (linked in the IPO section) and copy the offer-for-sale table - seller, shares offered, acquisition cost. Paste it into your AI tool of choice with: \"Turn this table into a one-page card. For each seller show shares sold, cost per share, and the multiple earned at the ₹151 cap price. Flag any seller exiting below cost.\" A good result names Creovate Innovation as the underwater seller without being told, computes Kae Capital's 38x and the founders' ~₹215 crore each, and shows its arithmetic. You will have built the startup idea from the startup section, in miniature, in half an hour."
+     }
+    ]
+   },
+   {
+    "heading": "One Concept a Day: the cautiousness bias",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 1967 the Yale economist William Brainard proved something that became central banking's folk wisdom: when you are unsure what your policy actually does, do less of it - the \"attenuation principle\". Alan Blinder's 1998 book carried it to a generation of central bankers, and Blinder himself suspected it was \"more wise in the real world than the mathematics will support\". In August 2023, three Banque de France economists - Stéphane Dupraz, Sophie Guilloux-Nefussi and Adrian Penalver - published the catch in the International Journal of Central Banking (\"A Pitfall of Cautiousness in Monetary Policy\", Vol 19, No 3). Their model shows that for a central bank, caution has a hidden cost the textbook misses: moving less is only safe if the public's inflation expectations stay put, but the very act of moving less tells firms and households the bank is not serious - expectations drift away from target, and the bank ends up tightening as much as it was reluctant to, for a worse outcome. The authors are careful about limits: they do not claim uncertainty never justifies caution, only that central banks carry a systematic bias toward being too cautious."
+     },
+     {
+      "t": "p",
+      "html": "You watched the concept run live on Wednesday. In the RBI's October minutes, executive director Indranil Bhattacharyya argues it is better to \"set aside the cautiousness bias and act in a pre-emptive manner\" than to wait and watch - better a small hike today than a forced large one after expectations unhinge - and the minutes' footnote for that phrase cites the Dupraz-Guilloux-Nefussi-Penalver paper above directly. Read through this edition's lens - an editorial interpretation, since the members do not mention Brainard - the two dissenters, Nagesh Kumar and Ram Singh, voted the Brainard side of the argument: uncertain about transmission, so attenuate. The 4-2 vote on the stance is, almost literally, the paper's two positions meeting a real decision."
+     },
+     {
+      "t": "p",
+      "html": "The applications run past central banks. In insurance distribution, the same bias appears when an advisor delays a hard renewal-conversation because the outcome is uncertain - the client's expectation of \"same as last year\" hardens with every quiet week, and the eventual correction costs more trust than an early one would have. In product work, shipping a hesitant half-fix signals that the problem is tolerable, and users build habits around it. The paper's escape route is commitment: pre-announce the trigger you will act on, and hesitation stops moving anyone's expectations."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The decision rule:</strong> when your audience's expectations move in response to your delay, hesitation is not free - price the drift. Act early and small, or pre-commit to a trigger; do not wait for certainty that arrives only after expectations have moved."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Sixty-second recall:</strong> close the page and answer: (1) What does Brainard's attenuation principle say? (2) Why does it backfire for a central bank specifically? (3) Which RBI member cited this research on Wednesday, and on which side? (4) The decision rule, in one sentence. Answers: (1) When uncertain about your policy's effects, do less. (2) Because the public reads hesitation as unseriousness and inflation expectations drift - forcing the bank to do as much later for a worse outcome. (3) Executive director Indranil Bhattacharyya, arguing to act pre-emptively. (4) When your delay moves others' expectations, act early and small or pre-commit to a trigger."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: offer for sale (OFS)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The part of an IPO where existing shareholders sell their own shares and pocket the money themselves - unlike a fresh issue, where the company sells new shares and keeps the proceeds. Zetwerk's ₹5,012 crore issue mixes both: ₹2,830 crore fresh (to the company) and about ₹2,182 crore OFS (to founders and investors selling). The split tells you who the listing is for; the OFS table tells you what each seller originally paid."
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. The equity market heard the unanimous hike and sold rate-sensitives; the bond market did the cleaner reading of the split, taking the 10-year to 7.44% - its highest since November 2022. I think the 4-2 stance split matters more than the unanimous hike, because the dissenters' \"neutral\" is where the pause case now lives, and December is six weeks away. My falsifiable marker: if this reading is right, Bank Nifty keeps underperforming the Nifty while the 10-year holds above roughly 7.4%, and Bajaj Finance's margin warning stops looking company-specific. Wrong if the yield slips back under about 7.3% on its own, or if Thursday's trade treats the minutes as old news and rate-sensitives lead a rebound."
+     },
+     {
+      "t": "p",
+      "html": "Scoreboard on yesterday's calls: the Brewing note said the minutes could reveal a split - no credit there: the 4-2 stance split was already public in the 7 October resolution, which named Kumar and Singh; the minutes added the reasoning, not the split. The editor's watch list had crude staying high (yes, Brent settled at $108.82), IT responding to the US tech rebound (yes, +2.88%, the only green sector), and foreign selling extending (no - FIIs turned net buyers of ₹1,022 crore on the exchange-provisional basis). Two of three."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Zetwerk lists Friday against a grey premium that faded from ₹14 to ₹3.50 - the open tests whether subscription multiples or grey pricing lied. Watch the first-hour open versus the ₹151 cap. Wrong if the grey premium revives above ₹20 before listing or the open is a non-event within 2% of the cap.",
+       "IRDAI comments close Sunday 25 October: the distribution-economics consultation paper - and its transition glide path - reprices agent economics and bancassurance income lines. Wrong if the regulator extends the window or signals a materially longer phase-in before Sunday.",
+       "The 2-4 December MPC is now a live meeting with a known fault line: Kumar and Singh on record for neutral. Watch the October CPI print on 12 November and crude; two more high readings isolate the dissenters. Wrong if inflation undershoots the RBI's 6.0% Q3 track and the stance question goes quiet."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Today, Thu 22 Oct: results from Swiggy, Havells, HPCL, Colgate-Palmolive India, Cyient, CreditAccess Grameen, Adani Energy Solutions, Adani Total Gas (exchange filings via TotalMarket).",
+       "Fri 23 Oct: Zetwerk, Tonbo Imaging and Bonfiglioli Transmissions list (investorgain); Jio IPO closes (chittorgarh); results from Infosys, Dr Reddy's, IndusInd Bank, JSW Steel, Adani Power, BPCL, Coforge; ex-dates for Tech Mahindra, ICICI Lombard and six others (NSE notices via TotalMarket).",
+       "Sat 24 Oct: results from Kotak Mahindra Bank, IDFC First Bank, AU Small Finance Bank, Castrol India (TotalMarket results calendar).",
+       "Sun 25 Oct: public comments close on IRDAI's distribution-economics consultation paper (IRDAI).",
+       "Mon 26 Oct: Jio Platforms IPO allotment expected (investorgain).",
+       "Tue 27 Oct: LTTS ₹20 dividend goes ex (TotalMarket); October F&amp;O series expires (Aftermarket Report).",
+       "Wed 28 Oct: Jio Platforms lists on BSE and NSE (chittorgarh)."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "X was not accessed for this edition; the radar was verified through official posts (OpenAI, Google Cloud, Meta, IBM), a filing mirror (stocktitan) and Product Hunt, with vendor claims dated and labelled.",
+       "Discovery layer: Zerodha Pulse and DayStarter were used as pointers only; Pulse surfaced the Meta penalty and HDFC Bank items, both traced to AP/BBC and NDTV respectively. Zerodha's Aftermarket Report (21 Oct issue, read in full) supplied session detail, positioning data and the 10-year yield; its figures are dated and labelled in-line.",
+       "New sources in use this edition: AlphaTribe (NSE closing movers snapshot), TotalMarket (corporate-actions board compiled from NSE notices), 5paisa (daily FII/DII provisional table), investorgain (live IPO grey-market table), the International Journal of Central Banking (primary research for today's concept), AP and BBC (Meta penalty), NDTV (HDFC Bank). Two content-farm sites (wittytrades, chinimandi) surfaced in searches and were rejected.",
+       "India VIX and the NSDL basis of FII flows were dropped: no clean second source for the VIX close, and the NSDL figure measures a different flow basis than the exchange provisional data printed above.",
+       "Markets are watchlist-only. Nothing here is a tip, a target or a buy/sell call."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Edition 17. The long read: \"The marketplace that learned to hold the wrench\" - Zetwerk's road from a one-room Bengaluru office to tomorrow's listing bell."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": null
+}
