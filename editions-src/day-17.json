@@ -486,5 +486,10 @@
    }
   ]
  },
- "audio": null
+ "audio": {
+  "quick": "audio/d17-quick.m4a"
+ },
+ "times": {
+  "quick": "audio/d17-quick.times.json"
+ }
 }
