@@ -3074,5 +3074,117 @@
     "full": "audio/lr16-full.times.json"
    }
   }
+ },
+ "17": {
+  "title": "The marketplace that learned to hold the wrench",
+  "fact": "Thursday 22 October 2026, long read. Zetwerk Manufacturing Businesses lists on BSE and NSE tomorrow, Friday 23 October, at ₹151 a share. Four friends from IIT Madras incorporated it in December 2017 and started operating in May 2018 as a software company. It became something else entirely - twice.",
+  "intro": "This piece is built from primary documents - the red herring prospectus above all - plus the Forbes India profile written at the unicorn moment, funding reports in Mint, entrackr and The Hindu BusinessLine, and PTI's final subscription tally. The appendix at the end boxes the figures with their sources and dates.",
+  "groups": [
+   {
+    "heading": "Part one: the unknown",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Towards the end of 2017, Amrit Acharya had a problem that looked nothing like a problem. He was an IIT Madras graduate with four years at ITC, a Berkeley MBA and a high-paying job at McKinsey in San Francisco. Two things wore him down. The advisory life meant, as he later put it, \"you never knew what was going to happen to that advice\". And his US visa situation had gone bad enough that his firm suggested a migratory arrangement - six months in Australia, then maybe six months somewhere new. When the second rotation came up, he snapped. His girlfriend, now his wife, settled it: \"Uncertainty is not a bad thing necessarily.\" They flew home in January 2018."
+     },
+     {
+      "t": "p",
+      "html": "His father was less lyrical. \"I don't want to introduce you as my unemployed son to any of my relatives,\" he told Acharya, and gave him a deadline: figure out the next move before the wedding. So in May 2018, with three IIT friends - Srinath Ramakkrushnan, Vishal Chaudhary and Rahul Sharma - Acharya started Zetwerk. The plan was B2B software: tools to help companies manage their supply chains. Within a month they had a $1.5 million seed term sheet from Kae Capital and Sequoia."
+     },
+     {
+      "t": "p",
+      "html": "Then, in June 2018 - before a rupee of that seed money had reached the bank - they pivoted. The software would become a marketplace instead: a place where companies could discover custom-manufacturing suppliers. Acharya had to call investors who had signed for a SaaS company and tell them it was now a different business. \"We were worried. We did not know how they would react,\" he recalled to Forbes India. Both stayed. It was the first of two escapes that made the company."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-zetwerk-battled-fear-of-the-unknown-to-turn-unicorn-in-three-years/70093/1\" target=\"_blank\" rel=\"noopener\">Forbes India, 30 Aug 2021</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Part two: vitamin or painkiller",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The marketplace ran into a human problem immediately. Zetwerk's suppliers were small and mid-sized factories - many in places like Chhattisgarh - and to them a new customer was not an opportunity; it was a risk. Would this unknown Bengaluru company pay on time? Were there hidden terms? \"You Google us, and you would see nothing,\" Acharya said of the one-room-office days. The founders spent months convincing factory owners that the order on the screen was real money."
+     },
+     {
+      "t": "p",
+      "html": "In December 2018, Accel's Prayank Swaroop was circling a $9 million investment and doing his calls. The B2B experts he phoned were nearly unanimous: Zetwerk would stay a small business - a \"vitamin\", nice to have. Then he called the customers. They described something else: a \"painkiller\" they could not ship without. \"That was the moment of truth for me,\" Swaroop said. Accel's term sheet was ready in under ten days. The diligence lesson outlived the deal: experts price categories, customers price pain."
+     },
+     {
+      "t": "p",
+      "html": "But the customers' pain turned out to be deeper than discovery. Suppliers found on the platform missed deadlines - for capacity reasons, financing reasons, logistics reasons. A pure marketplace could introduce buyer and factory; it could not make the factory deliver. So Zetwerk pivoted a second time, and this one was the real company: it became the supplier of record. A customer orders from Zetwerk; Zetwerk owes the delivery; behind the curtain, it splits the order across multiple small factories running in parallel - \"parallel manufacturing\", Swaroop called it. The marketplace had learned to hold the wrench."
+     },
+     {
+      "t": "p",
+      "html": "They got plenty wrong along the way, and Acharya admits the biggest self-inflicted one: \"We got very experienced senior folks too early in our journey.\" The perfectionist veterans and the break-things young engineers never fused. Half the company's early life also ran through Covid lockdowns - Zetwerk went remote-first, and Acharya has said he never met over half his own employees. None of it shows in the unicorn headlines; all of it is in the prospectus's risk factors, which still warn that its third-party suppliers can fail on capacity, quality and components."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-zetwerk-battled-fear-of-the-unknown-to-turn-unicorn-in-three-years/70093/1\" target=\"_blank\" rel=\"noopener\">Forbes India, 30 Aug 2021</a> / <a href=\"https://www.bseindia.com/corporates/download/363595/IPO%20Open/RHPSigned_20261013182900.pdf\" target=\"_blank\" rel=\"noopener\">Zetwerk RHP, Oct 2026 (risk factors)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Part three: the number that stopped growing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The growth was real. Revenue went from ₹21 crore in FY19 to ₹949 crore in FY21. In August 2021, D1 Capital Partners led a $150 million Series E at a $1.33 billion valuation - by Forbes India's count the country's 26th unicorn of that year, in three years flat. Acharya insisted the tag he valued was different: Zetwerk was a profitable unicorn, which meant \"the velocity of growth\" would be sustainable and fundraising would stay \"a choice in my hands\"."
+     },
+     {
+      "t": "p",
+      "html": "Then the story left the script. The RHP filed this October shows revenue from operations of ₹12,364 crore in FY24 - and ₹11,332 crore in FY25. A decline, in the middle of the blitzscale years, in the year the IPO was being prepared. FY26 recovered to ₹15,913 crore. The bottom line needs care, because the filing carries it on three tracks. Losses from continuing operations ran ₹852 crore in FY24, narrowed to ₹215 crore in FY25 and widened again to ₹964 crore in FY26; adding the civil-infrastructure business the company chose to discontinue takes total restated losses to ₹918 crore, ₹371 crore and ₹1,606 crore across the three years. Underneath both tracks the operating trend is genuinely better: the continuing-operations loss before exceptional items and tax fell from ₹427 crore in FY24 to ₹81 crore in FY26, and adjusted EBITDA reached ₹421 crore in FY26. The headline losses are swollen by one-offs - FY26's ₹836 crore of exceptional items were primarily a non-cash charge for adjusting the conversion ratios on its share classes. The latest June quarter shows the same pattern: the continuing-operations loss was ₹64 crore against ₹881 crore a year earlier, while the total loss including the discontinued civil-infrastructure business was ₹733 crore against ₹1,368 crore - ₹669 crore of this year's from the business being wound down. The continuing track's narrowing says less about suddenly found religion than about the one-offs falling away."
+     },
+     {
+      "t": "p",
+      "html": "The market had already said so once, privately. A $210 million Series F in December 2021, led by Greenoaks Capital, marked the company at $2.7 billion (Mint). Two years later, in October 2023, Zetwerk raised $120 million more at a flat valuation, Avenir Growth leading at ₹407.4 a share (entrackr) - flat, with the FY25 revenue decline still ahead of it. Close to $90 million raised across 2024 in installments, led by Khosla Ventures, nudged the mark to $3.1 billion (The Hindu BusinessLine). The IPO's ₹151 cap values the company at about ₹25,583 crore, roughly $2.7 billion (Mint) - level with the December 2021 dollar mark. The cleaner comparator is the share price in rupees: the April and July 2026 private placements closed at ₹171 per equity share on the RHP’s own conversion-adjusted basis, so the ₹151 offer cap prices about 12% below those placements. Note also that ₹407.4 and ₹151 are not clean comparisons: the exceptional charges above were primarily the adjustment of conversion ratios between share classes. The founders' answer to the stall was to grow into the question: FY26 revenue rebounded 40%, and the IPO followed."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.bseindia.com/corporates/download/363595/IPO%20Open/RHPSigned_20261013182900.pdf\" target=\"_blank\" rel=\"noopener\">Zetwerk RHP, Oct 2026</a> / <a href=\"https://www.livemint.com/companies/start-ups/zetwerk-raises-210-mn-from-greenoaks-capital-others-at-2-7-bn-valuation-11640772122503.html\" target=\"_blank\" rel=\"noopener\">Mint, 29 Dec 2021 (Series F)</a> / <a href=\"https://entrackr.com/2023/10/exclusive-zetwerk-raises-120-mn-at-flat-valuation/\" target=\"_blank\" rel=\"noopener\">entrackr, Oct 2023 (Series F2)</a> / <a href=\"https://www.thehindubusinessline.com/info-tech/zetwerk-raises-90m-in-latest-funding-round-hits-31b-valuation/article69005187.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine, Dec 2024</a> / <a href=\"https://www.livemint.com/market/ipo/zetwerk-targets-25-583-crore-valuation-in-5-012-crore-ipo-11791797668948.html\" target=\"_blank\" rel=\"noopener\">Mint on the ₹25,583 crore valuation</a> / <a href=\"https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-zetwerk-battled-fear-of-the-unknown-to-turn-unicorn-in-three-years/70093/1\" target=\"_blank\" rel=\"noopener\">Forbes India, 30 Aug 2021</a>"
+     },
+     {
+      "t": "chart",
+      "svg": "<div role=\"img\" aria-label=\"Zetwerk revenue from operations, crore rupees, FY19 to FY26\" style=\"margin:16px 0\"><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>FY19</span><span style=\"font-weight:600;color:#0f172a\">₹21 cr <span style=\"font-weight:400;color:#64748b\">Forbes India</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:1%;background:#1e3a8a;border-radius:3\"></div></div></div><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>FY21</span><span style=\"font-weight:600;color:#0f172a\">₹949 cr <span style=\"font-weight:400;color:#64748b\">Forbes India</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:5.963677496386602%;background:#1e3a8a;border-radius:3\"></div></div></div><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>FY24</span><span style=\"font-weight:600;color:#0f172a\">₹12,364 cr <span style=\"font-weight:400;color:#64748b\">RHP</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:77.6974800477597%;background:#1e3a8a;border-radius:3\"></div></div></div><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>FY25</span><span style=\"font-weight:600;color:#0f172a\">₹11,332 cr <span style=\"font-weight:400;color:#64748b\">RHP - the decline year</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:71.21221642682085%;background:#b91c1c;border-radius:3\"></div></div></div><div style=\"margin-bottom:12\"><div style=\"display:flex;justify-content:space-between;gap:8;flex-wrap:wrap;font-size:12.5;color:#334155;margin-bottom:3\"><span>FY26</span><span style=\"font-weight:600;color:#0f172a\">₹15,913 cr <span style=\"font-weight:400;color:#64748b\">RHP</span></span></div><div style=\"height:10;background:#f1f5f9;border-radius:3\"><div style=\"height:10;width:100%;background:#1e3a8a;border-radius:3\"></div></div></div><div style=\"font-size:11;color:#64748b;line-height:1.55\">Revenue from operations, ₹ crore. Sources: Forbes India; Zetwerk RHP, Oct 2026.</div></div>"
+     }
+    ]
+   },
+   {
+    "heading": "Part four: tomorrow's bell",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Which brings us to Friday morning. The issue - ₹2,830 crore of fresh shares for the company and an offer for sale of 144.5 million shares by existing holders, about ₹2,182 crore at the ₹151 cap - closed Monday subscribed 3.06 times - institutions at 4.73 times and non-institutional buyers at 1.40, while retail stopped at 73 per cent, the same caution Jio's retail book showed on day one (PTI). The anchor book had already committed ₹2,251 crore at ₹151: BlackRock, Goldman Sachs, Nomura, Capital Group, Norway's Government Pension Fund Global and Abu Dhabi Investment Authority among 99 funds (PTI). Respectable and unspectacular, next to the 136 times that defence-imaging firm Tonbo drew the same week. Zetwerk's unofficial grey-market premium faded from ₹14 on 15 October to ₹3.50 by 19 October, with none recorded at the last update. The document's seller table is the quietest drama in it. The two promoter-founders, Acharya and Ramakkrushnan, sell 14.23 million shares each - about ₹215 crore each at the cap - against an acquisition cost the RHP records as \"negligible\". Kae Capital, the seed investor who heard about the first pivot by phone, sells shares that cost ₹3.94 for a 38-times return. Peak XV's Investments V fund paid ₹6.31 a share. And one promoter-group entity, Creovate Innovation - which both founders also direct - sells shares acquired at ₹178.58 apiece, above the cap price: an underwater exit printed in black and white. The other two founders from the May 2018 photograph, Vishal Chaudhary and Rahul Sharma, are in the table as well, selling up to 1.71 million shares each - about ₹26 crore apiece at the cap - and CFO Ankit Fatehpuria - elevated to fifth co-founder in 2022, per Moneycontrol - sells up to 2.29 million more, about ₹35 crore. All four founders, and the finance chief, sell something."
+     },
+     {
+      "t": "p",
+      "html": "One illustrative transaction holds the whole argument. A customer places a large fabrication order. A 2018-vintage Zetwerk would have emailed three factories and invoiced a fee. The Zetwerk that lists tomorrow signs as the supplier, splits the order across a dozen small plants, finances the working capital, owns the delay if a furnace in Raipur goes down - and books the full order value as revenue. That is why the top line is ₹15,913 crore and the margins are a contract manufacturer's, why even a year of 40% growth books a loss on the continuing track - ₹81 crore before one-offs, ₹964 crore after them - and why the listing is a question rather than a coronation: has the wrench-holding version of the company finally found the scale where the model's costs stop growing faster than its orders?"
+     },
+     {
+      "t": "p",
+      "html": "What would invalidate the bull case is visible in the same filing: if the managed model's execution costs keep eating the gross margin as revenue scales - if FY27 shows another FY25 - then Zetwerk is a low-margin contractor with a marketplace's valuation story, and the faded grey premium was the honest price all along. The cash line says the same: operations consumed ₹682 crore in FY26 and another ₹506 crore in the June quarter, and the fresh issue's stated uses are repaying borrowings and acquisitions the company has not yet identified (RHP). What would confirm it is simpler: a second straight year of growth with the June quarter's continuing-operations loss-narrowing intact. Tomorrow's open is only the first data point, and the least reliable one."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.bseindia.com/corporates/download/363595/IPO%20Open/RHPSigned_20261013182900.pdf\" target=\"_blank\" rel=\"noopener\">Zetwerk RHP, Oct 2026</a> / <a href=\"https://money.rediff.com/news/market/zetwerk-manufacturing-ipo-subscribed-3x-on-final-day/56525820261019\" target=\"_blank\" rel=\"noopener\">PTI, 19 Oct (final subscription + anchor book)</a> / <a href=\"https://www.chittorgarh.com/ipo/zetwerk-manufacturing-businesses-ipo/3091/\" target=\"_blank\" rel=\"noopener\">chittorgarh issue page</a> / <a href=\"https://www.investorgain.com/report/live-ipo-gmp/331/ipo/\" target=\"_blank\" rel=\"noopener\">investorgain live GMP table, 21 Oct 11:37 PM</a>"
+     }
+    ]
+   },
+   {
+    "heading": "The week's numbers, boxed",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Revenue from operations (RHP, filed Oct 2026): FY24 ₹12,364 crore; FY25 ₹11,332 crore; FY26 ₹15,913 crore; Q1 FY27 ₹4,118 crore vs ₹2,649 crore a year earlier. Restated loss, continuing operations (RHP): FY24 ₹852 crore; FY25 ₹215 crore; FY26 ₹964 crore; Q1 FY27 ₹64 crore vs ₹881 crore a year earlier - that year-ago quarter's ₹803 crore of exceptional items were primarily non-cash conversion-ratio charges. Total restated loss including discontinued operations (RHP): FY24 ₹918 crore; FY25 ₹371 crore; FY26 ₹1,606 crore; Q1 FY27 ₹733 crore vs ₹1,368 crore a year earlier, of which discontinued operations were ₹669 crore vs ₹488 crore. Loss before exceptional items and tax, continuing operations (RHP): FY24 ₹427 crore; FY26 ₹81 crore. Adjusted EBITDA (RHP): FY26 ₹421 crore, a 2.65% margin; Q1 FY27 ₹103 crore vs ₹31 crore a year earlier. Manufacturing order book (RHP): ₹13,062 crore as of 30 June 2026; ₹12,370 crore at FY26-end. Operating cash flow (RHP): FY26 minus ₹682 crore; Q1 FY27 minus ₹506 crore. Funding: seed $1.5 million (Kae, Sequoia, 2018 - Forbes India); $9 million (Accel, Dec 2018 - Forbes India); Series E $150 million at $1.33 billion (D1 Capital, Aug 2021 - Forbes India); Series F $210 million at $2.7 billion (Greenoaks, Dec 2021 - Mint); Series F2 $120 million, flat, ₹407.4 a share (Avenir Growth, Oct 2023 - entrackr); about $90 million across 2024 at $3.1 billion (The Hindu BusinessLine); April and July 2026 private placements at ₹171 per equity share, conversion-adjusted (RHP). The offer (RHP; chittorgarh; Mint): band ₹143-151, priced at ₹151, valuing the company at about ₹25,583 crore; fresh issue ₹2,830 crore; OFS 144,525,036 shares; anchor book ₹2,251 crore. Final subscription 3.06 times - QIB 4.73x, NII 1.40x, retail 73% (PTI, 19 Oct 2026). Grey-market premium ₹14 on 15 Oct, ₹3.50 on 19 Oct, none recorded at last update (investorgain, 21 Oct 2026, 11:37 PM; unofficial indicator). Listing: Friday 23 October 2026."
+     },
+     {
+      "t": "closing",
+      "html": "Zetwerk Manufacturing Businesses lists Friday 23 October. Edition 17's paper carries the IPO block with the day's subscription and grey-market data, and the concept of the day - the cautiousness bias - from the RBI minutes."
+     }
+    ]
+   }
+  ]
  }
 }
