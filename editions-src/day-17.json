@@ -487,9 +487,11 @@
   ]
  },
  "audio": {
-  "quick": "audio/d17-quick.m4a"
+  "quick": "audio/d17-quick.m4a",
+  "full": "audio/d17-full.m4a"
  },
  "times": {
-  "quick": "audio/d17-quick.times.json"
+  "quick": "audio/d17-quick.times.json",
+  "full": "audio/d17-full.times.json"
  }
 }
