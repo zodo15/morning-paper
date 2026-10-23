@@ -1,8 +1,8 @@
-/* The Morning Paper service worker.
+/* Slow Burn service worker.
    - Shell + data: network first (a new edition shows up the moment it is published), cached copy when offline.
    - Fonts, photos, icons: cache first, filled as you read (so every edition you opened works offline).
    - Audio: never cached here (large, range requests); it needs a connection. */
-var VERSION = 'mp-v42';
+var VERSION = 'mp-v43';
 var SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'data/editions.js', 'data/lraudio.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png',
   'fonts/fraunces-var.woff2', 'fonts/inter-var.woff2', 'fonts/sourceserif4-var.woff2'];
@@ -50,8 +50,8 @@ self.addEventListener('fetch', function (e) {
 /* Web Push: show the alert, and open the page or article when it is tapped. */
 self.addEventListener('push', function (e) {
   var d = {};
-  try { d = e.data ? e.data.json() : {}; } catch (x) { d = { title: 'The Morning Paper', body: e.data ? e.data.text() : '' }; }
-  e.waitUntil(self.registration.showNotification(d.title || 'The Morning Paper', {
+  try { d = e.data ? e.data.json() : {}; } catch (x) { d = { title: 'Slow Burn', body: e.data ? e.data.text() : '' }; }
+  e.waitUntil(self.registration.showNotification(d.title || 'Slow Burn', {
     body: d.body || '', tag: d.tag || undefined, icon: 'icons/icon-192.png', badge: 'icons/icon-192.png', data: { url: d.url || './' }
   }));
 });
