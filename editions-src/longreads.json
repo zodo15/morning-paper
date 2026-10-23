@@ -3186,5 +3186,206 @@
     ]
    }
   ]
+ },
+ "18": {
+  "title": "Seven years for the promise",
+  "fact": "A long read, about 12 minutes",
+  "intro": "At five this evening, bidding closes on India's largest-ever public issue. The company being listed was promised to shareholders from an AGM stage in August 2019 - 'within the next five years.' It took seven. This is what happened in between.",
+  "groups": [
+   {
+    "heading": "The promise",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "On 12 August 2019, Mukesh Ambani stood before shareholders at Reliance Industries' 42nd annual general meeting in Mumbai and made two promises in one speech. The first was about debt: Reliance, which had invested nearly ₹3.5 lakh crore in Jio's digital infrastructure by then and carried net debt of ₹1,54,478 crore, would become a zero-net-debt company within eighteen months. The second was about the stock market: \"We will induct leading global partners in Jio and Reliance Retail in the next few quarters, and move towards the listing of both these companies within the next five years\" (full text of the speech, Business Today; firstpost's AGM report)."
+     },
+     {
+      "t": "p",
+      "html": "The arithmetic he was offering was seductive. Jio had upended Indian telecom in three years - free voice, data priced at a fraction of the incumbents', and a subscriber base that had blown past 300 million. The oil-and-petrochemicals cash cow that funded it was mature. If the old business paid down the debt and the new businesses listed, shareholders would own the future outright and unencumbered. Both halves of the plan had dates on them. Both dates would slip - one by a little, one by a lot."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.businesstoday.in/latest/corporate/story/reliance-42nd-agm-full-text-of-mukesh-ambani-speech-223039-2019-08-12\" target=\"_blank\" rel=\"noopener\">Full AGM speech text, Business Today, 12 Aug 2019</a> / <a href=\"https://www.firstpost.com/business/ril-agm-2019-reliance-industries-will-become-zero-net-debt-company-in-18-months-says-chairman-mukesh-ambani-7148961.html\" target=\"_blank\" rel=\"noopener\">firstpost AGM report</a> / <a href=\"https://www.livemint.com/companies/news/more-stake-sales-on-anvil-as-ril-aims-for-zero-debt-1565632674166.html\" target=\"_blank\" rel=\"noopener\">Mint on the zero-debt plan</a>"
+     }
+    ]
+   },
+   {
+    "heading": "The blitz",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Fifty-eight days",
+      "kicker": "Spring 2020"
+     },
+     {
+      "t": "p",
+      "html": "What happened next, in the middle of a global lockdown, has no real parallel in Indian corporate history. Between late April and late June 2020, a procession of the world's largest investors bought into Jio Platforms - the holding company for the telecom and digital businesses. On 22 April, Facebook paid $5.7 billion (about ₹43,574 crore) for roughly 9.99% - the anchor transaction of the whole exercise, struck while the world's airports were shut, and the deal that set the price everyone else paid around: an implied valuation of about ₹4.36 lakh crore for Jio Platforms (computed from the disclosed stake and price). Silver Lake, Vista, KKR, General Atlantic, Mubadala, ADIA, TPG and others followed. On 19 June 2020, Reliance issued a press release whose headline did the counting itself: \"Reliance raises over ₹168,818 crore in just 58 days\" - ₹115,693.95 crore of it from Jio's new investors, the rest from a rights issue."
+     },
+     {
+      "t": "p",
+      "html": "\"I have fulfilled my promise to the shareholders by making Reliance net debt-free much before our original schedule of 31st March 2021.\" - Mukesh Ambani, Reliance press release, 19 June 2020. Net debt had stood at ₹1,61,035 crore on 31 March 2020."
+     },
+     {
+      "t": "p",
+      "html": "On 15 July, at the 2020 AGM, Google closed the round: $4.5 billion (₹33,737 crore) for 7.7% and a board seat (Reuters). In all, roughly a third of Jio Platforms - about 33% - was sold for about ₹1.52 lakh crore (~$20 billion) in one pandemic year, and Ambani told shareholders the group was ending \"our current cycle of capital raising\" (Reuters, 16 July 2020). The listing half of the 2019 promise looked close behind: Bloomberg reported in May 2020 that bankers were preparing Jio for an overseas IPO within 12 to 24 months. Five years, it turned out, was going to be comfortable."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ril.com/sites/default/files/2023-01/Media-Release-19062020.pdf\" target=\"_blank\" rel=\"noopener\">RIL press release, 19 Jun 2020 (primary)</a> / <a href=\"https://www.reuters.com/article/world/google-backs-reliances-jio-platforms-with-45-billion-india-investment-idUSKCN24H0M0/\" target=\"_blank\" rel=\"noopener\">Reuters on the Google deal, 15 Jul 2020</a> / <a href=\"https://www.bloomberg.com/news/articles/2020-05-26/ambani-is-said-to-prepare-facebook-backed-unit-for-overseas-ipo\" target=\"_blank\" rel=\"noopener\">Bloomberg, 26 May 2020</a>"
+     }
+    ]
+   },
+   {
+    "heading": "The slip",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Two deals that were not to be",
+      "kicker": "2021 to 2024"
+     },
+     {
+      "t": "p",
+      "html": "The first crack appeared in the old business, not the new one. The August 2019 speech had also announced a non-binding deal to sell 20% of Reliance's oil-to-chemicals arm to Saudi Aramco for $15 billion - the final leg of the deleveraging plan. On 25 November 2021, after two years of valuation differences, the companies called it off (Reuters). Reliance said it would re-evaluate; the O2C stake sale never came back in that form."
+     },
+     {
+      "t": "p",
+      "html": "The second crack was a phone. In late 2021, Jio and Google launched the JioPhone Next - a ₹6,500 smartphone meant to convert India's remaining 2G users into Jio customers, the hardware expression of the Google partnership. It flopped. Within six months the price had been cut about 40%; media reports put sales around two million units against ambitions near 50 million; inventory was liquidated, and Jio retreated to selling own-brand 5G phones instead (The Ken's reconstruction, April 2023). The lesson Jio drew was expensive and useful: distribution and price were never the bottleneck - the product was."
+     },
+     {
+      "t": "p",
+      "html": "And the listing? The five-year mark - August 2024 - came and went with no prospectus. By the 2023 AGM, the Economic Times was running pieces explaining why the \"RJio IPO dream shown by Ambani 5 years back won't come true soon\". Reliance Retail, the other company named in the promise, remains unlisted to this day. The promise had not died; it had just quietly gone overdue, the way large promises do when nobody is forced to mention them."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.reuters.com/markets/deals/reliance-aramco-call-off-15-bln-deal-amid-valuation-differences-sources-say-2021-11-25/\" target=\"_blank\" rel=\"noopener\">Reuters on the Aramco deal being called off, 25 Nov 2021</a> / <a href=\"https://the-ken.com/story/google-reliance-jio-a-smartphone-for-millions-what-went-wrong/\" target=\"_blank\" rel=\"noopener\">The Ken on the JioPhone Next, Apr 2023</a> / <a href=\"https://m.economictimes.com/markets/stocks/news/ril-agm-why-rjio-ipo-dream-shown-by-ambani-5-years-back-wont-come-true-soon/articleshow/103101034.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, Aug 2023</a>"
+     }
+    ]
+   },
+   {
+    "heading": "The machine",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "The numbers underneath the wait",
+      "kicker": "What seven years built"
+     },
+     {
+      "t": "p",
+      "html": "While the listing slipped, the business compounded. Jio's own annual report for FY 2025-26 - read for this story, not via summaries - records revenue from operations of ₹1,46,885 crore, up 14.6% on the year; EBITDA of ₹76,255 crore, up 18.8%, at a 51.9% margin; 524.4 million subscribers as of March 2026, each consuming an average of 42.3 GB of data and 988 voice minutes a month (Jio Platforms annual report, investor relations). Profit after tax for FY26 was ₹30,049 crore, per RHP figures cited in IPO notes."
+     },
+     {
+      "t": "p",
+      "html": "The growth engine changed character over the seven years, and this is the part the 2019 audience could not have foreseen. Subscriber growth is no longer the story - India is connected. Pricing is. Industry-wide tariff hikes, led by Jio, have taken average revenue per user from ₹181.7 a month before the July 2024 hike to ₹206.2 after it and ₹215.6 in the June 2026 quarter (RHP figures as cited in IPO notes). The second engine is the home: fixed broadband connections grew from 11.2 million in March 2024 to 28.6 million by June 2026, and rental income from the set-top boxes and routers in those homes more than doubled to ₹3,907 crore in FY26 (RHP figures via IPO notes). Jio also built the country's only standalone 5G network - the architecture that does not lean on a 4G core."
+     },
+     {
+      "t": "chart",
+      "svg": "<div role=\"img\" aria-label=\"Jio average revenue per user per month in rupees across three points\" style=\"margin:16px 0\"><div style=\"margin-bottom:12px\"><div style=\"display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:12.5px;color:#334155;margin-bottom:3px\"><span>Before the Jul 2024 hike</span><span style=\"font-weight:600;color:#0f172a\">₹181.7 <span style=\"font-weight:400;color:#64748b\">per RHP, via IPO notes</span></span></div><div style=\"height:10px;background:#f1f5f9;border-radius:3px\"><div style=\"height:10px;width:75.70833333333333%;background:#1e3a8a;border-radius:3px\"></div></div></div><div style=\"margin-bottom:12px\"><div style=\"display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:12.5px;color:#334155;margin-bottom:3px\"><span>After the Jul 2024 hike</span><span style=\"font-weight:600;color:#0f172a\">₹206.2 <span style=\"font-weight:400;color:#64748b\">per RHP, via IPO notes</span></span></div><div style=\"height:10px;background:#f1f5f9;border-radius:3px\"><div style=\"height:10px;width:85.91666666666666%;background:#1e3a8a;border-radius:3px\"></div></div></div><div style=\"margin-bottom:12px\"><div style=\"display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:12.5px;color:#334155;margin-bottom:3px\"><span>Q1 FY27</span><span style=\"font-weight:600;color:#0f172a\">₹215.6 <span style=\"font-weight:400;color:#64748b\">per RHP, via IPO notes</span></span></div><div style=\"height:10px;background:#f1f5f9;border-radius:3px\"><div style=\"height:10px;width:89.83333333333333%;background:#1e3a8a;border-radius:3px\"></div></div></div><div style=\"font-size:11px;color:#64748b;line-height:1.55\">Average revenue per user per month, ₹. Source: Jio Platforms RHP figures as cited in IPO notes, October 2026.</div></div>"
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.jio.com/en-in/investor-relations/annual-reports\" target=\"_blank\" rel=\"noopener\">Jio Platforms annual reports, investor relations (primary)</a> / <a href=\"https://ipowatch.in/wp-content/uploads/2026/10/Jio-Platforms-Limited-IPO-Note.pdf\" target=\"_blank\" rel=\"noopener\">IPO note citing the RHP (labelled secondary)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "The return",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "The prospectus, seven years on",
+      "kicker": "October 2026"
+     },
+     {
+      "t": "p",
+      "html": "On 14 October 2026, Reliance announced that Jio Platforms had filed its red herring prospectus with SEBI (ril.com corporate announcements). The issue: 27 crore fresh shares at ₹1,065 to ₹1,119, raising ₹30,213 crore at the cap - the largest IPO India has seen, passing Hyundai Motor India's ₹27,858.75 crore (Fortune India). At the cap, the market is being asked to pay about ₹10.3 lakh crore - roughly $108 billion - which would make Jio Platforms India's fourth-most-valuable listed company on debut, behind only its own parent, Bharti Airtel and HDFC Bank (Times of India). It would also tip the RIL group's combined market value past the Tata group's."
+     },
+     {
+      "t": "p",
+      "html": "Read the structure and you can see what the company wants the money to say. It is 100% fresh equity - not one of the 2020 investors is selling a share. Meta (through Jaadhu Holdings), Google, PIF, KKR, Vista, Silver Lake, Mubadala, General Atlantic, ADIA, TPG - all of them stay in at the IPO price. The proceeds have a deliberately unglamorous job: prepaying three external commercial borrowings - dollar and yen loans due March to June 2028, carrying 1.40% to 5.13% - about ₹27,500 crore of it in FY27, with general corporate purposes capped at a quarter of the raise (RHP figures via IPO note). This is not a cash-out; it is a balance-sheet swap, equity for debt, taken at a price the 2020 investors are happy to hold."
+     },
+     {
+      "t": "p",
+      "html": "Which brings back the anchor transaction. Facebook's April 2020 cheque - ₹43,574 crore for 9.99% - implied a valuation of about ₹4.36 lakh crore (computed). The ₹10.3 lakh crore cap price is about 2.4 times that, in rupees, over six and a half years (computed) - a respectable, not spectacular, return for waiting, and exactly the kind of number a prospectus does not print. The sellers of 2020 became the holders of 2026: that, more than any grey-market premium, is the informed-money verdict on the price."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ril.com/investor/resource-center/corporate-announcements\" target=\"_blank\" rel=\"noopener\">ril.com corporate announcements (primary)</a> / <a href=\"https://www.fortuneindia.com/markets/ipo/jio-platforms-ipo-ril-digital-arm-to-raise-30200-crore-at-1065-1119-apiece-valuation-pegged-at-103-lakh-crore/163856\" target=\"_blank\" rel=\"noopener\">Fortune India on size and valuation</a> / <a href=\"https://timesofindia.indiatimes.com/business/india-business/jio-ipo-indias-largest-public-issue-opens-for-subscription-price-band-gmp-listing-date-to-brokerage-views-top-10-things-to-know/articleshow/135079874.cms\" target=\"_blank\" rel=\"noopener\">Times of India on the debut ranking</a> / <a href=\"https://ipowatch.in/wp-content/uploads/2026/10/Jio-Platforms-Limited-IPO-Note.pdf\" target=\"_blank\" rel=\"noopener\">IPO note citing the RHP (labelled secondary)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "What Jio got wrong",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three things, honestly counted. The timeline: \"within the next five years\" became seven, and one of the two companies named in the promise - Reliance Retail - is still unlisted. The phone: the JioPhone Next was a misread of what would move 2G users, and it died in about a year. And the Aramco deal: the elegant 2019 plan to deleverage partly through the old business ended with the new business doing all the work. None of these is fatal; together they explain why this listing arrives in 2026 priced on pricing power rather than in 2021 priced on subscriber growth."
+     }
+    ]
+   },
+   {
+    "heading": "The decision scene",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Which leaves today. Bidding closes at 5 PM, UPI mandates at 7 PM. The settled print after day two: 5.57 times subscribed on BSE data - institutions at 13.29 times their allocation, retail at 1.54 times, having crossed full coverage only on day two (BSE consolidated data as of 7 PM Thursday, via NDTV Profit's timestamped record). Allotment is expected Monday. The bell, if the schedule holds, is Wednesday 28 October."
+     },
+     {
+      "t": "p",
+      "html": "Seven years ago the promise was made from a stage in Mumbai to a hall of shareholders who had lent the company ₹1.5 lakh crore of patience. This morning the grey market - unofficial, unregulated - prices the debut at about 22% above the cap. The 2020 investors, offered the exit, declined it. The question Wednesday answers is whether the public market pays ₹10.3 lakh crore for what seven years actually built: not the company that adds the most subscribers, but the one that decides what India pays to be connected."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ndtvprofit.com/markets/jio-platforms-ipo-day-2-live-updates-check-gmp-subscription-lot-size-price-band-12218160\" target=\"_blank\" rel=\"noopener\">NDTV Profit IPO live blog (BSE data, 7 PM 22 Oct)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "The numbers, boxed",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Figures in one place, with their sources and dates. Items marked \"RHP via notes\" come from IPO notes quoting the red herring prospectus; everything else is from the primary document named."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The business (FY 2025-26):</strong> revenue from operations ₹1,46,885 crore, +14.6%; EBITDA ₹76,255 crore, +18.8%, 51.9% margin; subscribers 524.4 million (March 2026); average use 42.3 GB data and 988 voice minutes per month (Jio Platforms annual report, jio.com investor relations). Profit after tax ₹30,049 crore; ARPU series ₹181.7, ₹206.2, ₹215.6; home broadband 11.2 million to 28.6 million connections; CPE rent ₹3,907 crore (RHP via IPO notes, October 2026)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The 2019-20 promises:</strong> net debt ₹1,54,478 crore and the five-year listing pledge (AGM, 12 Aug 2019, speech text); net debt ₹1,61,035 crore on 31 March 2020, net-debt-free declared 19 June 2020 after ₹168,818 crore raised in 58 days, ₹115,693.95 crore of it into Jio Platforms (RIL press release); about 33% of Jio sold for ~₹1.52 lakh crore across 2020 (Reuters, 16 Jul 2020); Facebook $5.7 billion for ~9.99% (22 Apr 2020); Google $4.5 billion for 7.7% (15 Jul 2020, Reuters)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The issue (October 2026):</strong> RHP filed 14 October (ril.com); 27 crore fresh shares at ₹1,065-1,119; ₹30,213 crore at the cap, India's largest (Fortune India); valuation about ₹10.3 lakh crore, fourth-most-valuable on debut (Times of India); proceeds to prepay ~₹27,500 crore of 2028 ECBs in FY27, general corporate capped at 25% (RHP via IPO note); anchor book about ₹8,110 crore placed 19 October; day-two subscription 5.57 times, QIB 13.29x, retail 1.54x (BSE consolidated data, 7 PM 22 Oct, via NDTV Profit); allotment expected 26 October, listing expected 28 October."
+     }
+    ]
+   },
+   {
+    "heading": "What would prove the thesis wrong",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "This story's working thesis is that the seven-year wait converted a telecom operator into India's consumer-infrastructure layer, and that ₹10.3 lakh crore is a fair price for the pricing power that comes with it. Three things would cut it down. First, the listing itself: a debut that breaks the ₹1,119 cap and stays below it is the market rejecting the price outright. Second, the ARPU engine: the FY24-26 revenue growth - about 15.8% a year, per RHP figures via notes - rests on tariff hikes, and hikes have a political ceiling; a stalled ARPU with 5G returns still building would squeeze the story from both sides. Third, the home: if broadband additions flatten before the set-top-box economics mature, the second engine arrives too late to matter. Watch the first on Wednesday, the second every quarter."
+     }
+    ]
+   },
+   {
+    "heading": "Sources, read in full",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<a href=\"https://www.businesstoday.in/latest/corporate/story/reliance-42nd-agm-full-text-of-mukesh-ambani-speech-223039-2019-08-12\" target=\"_blank\" rel=\"noopener\">RIL 42nd AGM speech, full text (Business Today, 12 Aug 2019)</a>; <a href=\"https://www.firstpost.com/business/ril-agm-2019-reliance-industries-will-become-zero-net-debt-company-in-18-months-says-chairman-mukesh-ambani-7148961.html\" target=\"_blank\" rel=\"noopener\">firstpost AGM report</a>; <a href=\"https://www.ril.com/sites/default/files/2023-01/Media-Release-19062020.pdf\" target=\"_blank\" rel=\"noopener\">RIL press release, 19 June 2020</a>; <a href=\"https://www.reuters.com/article/world/google-backs-reliances-jio-platforms-with-45-billion-india-investment-idUSKCN24H0M0/\" target=\"_blank\" rel=\"noopener\">Reuters on the Google investment, 15 July 2020</a>; <a href=\"https://www.bloomberg.com/news/articles/2020-05-26/ambani-is-said-to-prepare-facebook-backed-unit-for-overseas-ipo\" target=\"_blank\" rel=\"noopener\">Bloomberg on overseas IPO preparations, 26 May 2020</a>; <a href=\"https://www.reuters.com/markets/deals/reliance-aramco-call-off-15-bln-deal-amid-valuation-differences-sources-say-2021-11-25/\" target=\"_blank\" rel=\"noopener\">Reuters on the Aramco deal being called off, 25 Nov 2021</a>; <a href=\"https://the-ken.com/story/google-reliance-jio-a-smartphone-for-millions-what-went-wrong/\" target=\"_blank\" rel=\"noopener\">The Ken on the JioPhone Next, April 2023</a>; <a href=\"https://m.economictimes.com/markets/stocks/news/ril-agm-why-rjio-ipo-dream-shown-by-ambani-5-years-back-wont-come-true-soon/articleshow/103101034.cms\" target=\"_blank\" rel=\"noopener\">Economic Times, Aug 2023</a>; <a href=\"https://www.jio.com/en-in/investor-relations/annual-reports\" target=\"_blank\" rel=\"noopener\">Jio Platforms annual report FY 2025-26 (jio.com investor relations)</a>; <a href=\"https://www.ril.com/investor/resource-center/corporate-announcements\" target=\"_blank\" rel=\"noopener\">ril.com corporate announcements (RHP filing, 14 Oct 2026)</a>; <a href=\"https://ipowatch.in/wp-content/uploads/2026/10/Jio-Platforms-Limited-IPO-Note.pdf\" target=\"_blank\" rel=\"noopener\">IPO note citing the RHP</a>; <a href=\"https://www.fortuneindia.com/markets/ipo/jio-platforms-ipo-ril-digital-arm-to-raise-30200-crore-at-1065-1119-apiece-valuation-pegged-at-103-lakh-crore/163856\" target=\"_blank\" rel=\"noopener\">Fortune India</a>; <a href=\"https://timesofindia.indiatimes.com/business/india-business/jio-ipo-indias-largest-public-issue-opens-for-subscription-price-band-gmp-listing-date-to-brokerage-views-top-10-things-to-know/articleshow/135079874.cms\" target=\"_blank\" rel=\"noopener\">Times of India</a>; <a href=\"https://www.ndtvprofit.com/markets/jio-platforms-ipo-day-2-live-updates-check-gmp-subscription-lot-size-price-band-12218160\" target=\"_blank\" rel=\"noopener\">NDTV Profit day-2 record</a>"
+     },
+     {
+      "t": "p",
+      "html": "Quotes are as printed in the named sources. FY26 business figures were read in Jio's own annual report; figures marked \"RHP via notes\" come from IPO notes quoting the prospectus and are labelled as such in the text. The two valuation multiples (₹4.36 lakh crore implied in 2020; ~2.4x to the cap price) are computed from disclosed figures and labelled computed. The Ken is paywalled beyond its opening; the JioPhone Next figures are from its report as cited in the text."
+     },
+     {
+      "t": "closing",
+      "html": "Written 23 October 2026, on the day the issue closes, from sources published 2019 to 2026 as dated in the text."
+     }
+    ]
+   }
+  ]
  }
 }
