@@ -627,7 +627,7 @@
     var today = D.meta[D.today];
     return '<div class="mast">' +
       '<div class="mast-top"><span class="live-dot"></span><span>A personal daily &middot; brewed before breakfast</span></div>' +
-      '<div class="mast-name"><a href="#/">The Morning Paper</a></div>' +
+      '<div class="mast-name"><a href="#/">Slow Burn</a></div>' +
       '<div class="mast-sub">' + esc(today.date) + ' &middot; Edition ' + D.today + ' &middot; daily</div>' +
       '<div class="mast-rule"></div>' +
       '<div class="tabs"><a class="tab' + (active === 'today' ? ' active' : '') + '" href="#/">Today</a>' +
@@ -703,7 +703,7 @@
       '<h1 class="h1">' + esc(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + esc(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
       editionBody(D.today, true) + ednavHTML(D.today) +
-      '<div class="footer"><span>The Morning Paper &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span><a href="#" class="push-link" data-push="1" hidden></a></div></div>';
+      '<div class="footer"><span>Slow Burn &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span><a href="#" class="push-link" data-push="1" hidden></a></div></div>';
     app.innerHTML = h;
     pushRefresh();
     wirePlayers(app);
@@ -721,7 +721,7 @@
         '<span>' + esc(leadSplit(ed.fact).head) + '</span></span>' +
         '<img class="arch-thumb" src="' + thumb + '" alt="" loading="lazy"></a>';
     }
-    h += '</div><div class="footer"><span>The Morning Paper</span><span>' + D.today + ' editions</span></div></div>';
+    h += '</div><div class="footer"><span>Slow Burn</span><span>' + D.today + ' editions</span></div></div>';
     app.innerHTML = h;
   }
   function renderEdition(n) {
@@ -732,7 +732,7 @@
       '<h1 class="h1">' + esc(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + esc(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
       editionBody(n, n === D.today) + ednavHTML(n) +
-      '<div class="footer"><span>The Morning Paper</span><span><a href="#/archive">Full archive</a></span></div></div>';
+      '<div class="footer"><span>Slow Burn</span><span><a href="#/archive">Full archive</a></span></div></div>';
     app.innerHTML = h;
     wirePlayers(app);
   }
@@ -750,7 +750,7 @@
         '<span class="t">' + esc(lr.title) + '</span>' +
         '<span class="d">' + esc(lr.fact) + '</span></span></a>';
     }
-    h += '</div><div class="footer"><span>The Morning Paper &middot; long reads</span><span><a href="#/archive">Full archive</a></span></div></div>';
+    h += '</div><div class="footer"><span>Slow Burn &middot; long reads</span><span><a href="#/archive">Full archive</a></span></div></div>';
     app.innerHTML = h;
   }
   function renderLongread(n) {
@@ -774,7 +774,7 @@
       h += '</section>';
     });
     h += '<div class="ednav"><a class="ednav-btn" href="#/edition/' + n + '">&larr; Back to the edition</a></div>' +
-      '<div class="footer"><span>The Morning Paper &middot; long reads</span></div></div>';
+      '<div class="footer"><span>Slow Burn &middot; long reads</span></div></div>';
     app.innerHTML = h;
     wirePlayers(app);
   }
