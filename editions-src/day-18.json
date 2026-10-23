@@ -540,5 +540,12 @@
    }
   ]
  },
- "audio": null
+ "audio": {
+  "quick": "audio/d18-quick.m4a",
+  "full": "audio/d18-full.m4a"
+ },
+ "times": {
+  "quick": "audio/d18-quick.times.json",
+  "full": "audio/d18-full.times.json"
+ }
 }
