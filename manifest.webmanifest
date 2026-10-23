@@ -1,6 +1,6 @@
 {
-  "name": "The Morning Paper",
-  "short_name": "Morning Paper",
+  "name": "Slow Burn",
+  "short_name": "Slow Burn",
   "description": "A personal daily paper: markets, macro, startups, AI and one concept a day.",
   "id": "/",
   "start_url": "/?source=pwa",
