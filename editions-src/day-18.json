@@ -1,0 +1,544 @@
+{
+ "day": 18,
+ "meta": {
+  "date": "Friday 23 October 2026",
+  "short": "Fri 23 Oct",
+  "longread": 18
+ },
+ "edition": {
+  "title": "Morning paper, Friday 23 October 2026",
+  "fact": "Friday 23 October 2026, edition 18. Houthi strikes on Saudi oil targets lift Brent to a five-month high of $113.17; the Nasdaq has its worst day since June as Meta's AI spend turns free cash flow negative; India falls a third straight session with the 10-year at 7.46%; the Jio IPO closes today. The long read is Jio's seven-year road to this listing.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. Thursday's tape had two engines: a real supply scare in the Gulf and a real question about what AI spending earns. Both reach India through the same channel - crude, yields and the rate path - and both sit under today's three IPO listings and the close of India's largest-ever public issue.",
+  "concept": {
+   "label": "One concept a day",
+   "name": "The disposition effect",
+   "line": "Write the exit condition when you enter, then review every loser as a fresh buy decision - not a recovery to wait for."
+  },
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The Gulf escalation:</strong> Houthi drones struck near Saudi Arabia's Shaybah oilfield and hit Dammam's airport; Brent settled up 4% at $113.17, its highest close since May."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Wall Street's AI bill:</strong> the S&amp;P 500 fell 1.2% and the Nasdaq 2.6%, its worst day since June, after Meta's results showed AI spending pushing free cash flow negative - Meta fell about 7% despite a revenue beat. Most US stocks actually rose."
+     },
+     {
+      "t": "p",
+      "html": "<strong>India's third straight fall:</strong> Sensex -460 to 73,249, Nifty -124 to 22,688, the rupee snapped an eight-session rise at 94.82, and the 10-year yield closed at 7.46%. Banks were the day's relative winners."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio closes today:</strong> day two settled at 5.57 times subscribed on BSE data (QIB 13.29x, retail 1.54x). Bidding ends 5 PM, UPI mandates 7 PM; allotment Monday, listing Wednesday."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Four listings today:</strong> Zetwerk (grey premium faded to ₹1), Tonbo Imaging (subscribed 135.9 times), Bonfiglioli Transmissions (46 times) and Sahajanand Medical Technologies (BSE listing notice, 22 Oct) open this morning."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Thursday's results:</strong> Swiggy's loss came in wider than estimated even as food delivery posted record margins; HPCL swung to profit against a feared loss but earnings fell 9% on the year as crude squeezed margins; Colgate missed. <a href=\"#s-results\">Roundup</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Today to watch:</strong> Infosys, Dr Reddy's and IndusInd Bank report; the first-hour opens of the four listings; Jio's final subscription print after 5 PM; the Fed decides Wednesday. <a href=\"#s-cal\">Calendar</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Strikes near Saudi oil lift Brent to $113.17, a five-month high",
+      "kicker": "Geopolitics, lead"
+     },
+     {
+      "t": "p",
+      "html": "Yemen's Iran-aligned <a href=\"https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply\" target=\"_blank\" rel=\"noopener\">Houthi movement</a> launched drone strikes that hit near Saudi Arabia's Shaybah oilfield - one of the kingdom's largest - and attacked Dammam's civilian airport on Wednesday, killing two people there and two more at a Saudi oilfield, the Guardian reported. Iran's Revolutionary Guards said four vessels were hit or caught fire in the northern Gulf and three more struck mines west of the Strait of Hormuz, the narrow channel for roughly a fifth of the world's oil. Brent crude settled up 4% at $113.17 a barrel, its highest close since early May, and US WTI settled up 2.4% at $99.47 (WSJ; the Guardian had reported Brent near $112 during trading)."
+     },
+     {
+      "t": "p",
+      "html": "The diplomacy is moving in two directions at once, and both accounts are on the record: CBS News reports the US is reducing its Middle East troop footprint as indirect talks with Iran continue, while President Trump denied any talks the same day and hinted at further strikes - \"We've knocked the hell out of them, and we may do it a little bit further\" (Al Jazeera's live coverage). The IRGC, for its part, threatened to extend confrontation to US bases. That is a named conflict between the two accounts, and it is unresolved."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> crude is the single input that connects your world this month - imported inflation, the RBI's \"calibrated tightening\" stance, the 10-year at 7.46%, and every insurer's bond book. A supply scare that holds $112 into next week's Fed decision hardens the higher-for-longer story on both sides of the world."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> oil markets are now pricing actual damage near Saudi infrastructure, not the threat of it - the five-month high is the receipt."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply\" target=\"_blank\" rel=\"noopener\">The Guardian, 22 Oct</a> / <a href=\"https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83\" target=\"_blank\" rel=\"noopener\">WSJ settles, 22 Oct</a> / <a href=\"https://www.aa.com.tr/en/economy/oil-prices-rise-over-2-after-attack-on-saudi-oil-field-fuels-supply-concerns/4096635\" target=\"_blank\" rel=\"noopener\">Anadolu Agency</a> / <a href=\"https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/\" target=\"_blank\" rel=\"noopener\">CBS News live, 22 Oct</a> / <a href=\"https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive\" target=\"_blank\" rel=\"noopener\">Al Jazeera live, 22 Oct</a>"
+     },
+     {
+      "t": "story",
+      "title": "Meta's negative cash flow snaps the AI trade: Nasdaq's worst day since June",
+      "kicker": "US markets, AI"
+     },
+     {
+      "t": "p",
+      "html": "The S&amp;P 500 fell 93.74 points, or 1.2%, to 7,663.43 on Thursday - its worst day since July - and the Nasdaq dropped 694 points, or 2.6%, to 26,008.86, its worst since June (AP's post-close wrap). The Dow rose 11.89 points to 52,867.98 and the Russell 2000 edged up 0.1% to 2,784.03; most US stocks actually rose, which tells you the damage was concentrated in the AI megacaps. Meta fell about 7% despite beating revenue expectations and guiding higher: CNBC's read of the results is that AI spending pushed free cash flow negative. Chips fell with it - AMD and Intel about 8%, Micron 6%, Nvidia 4%, CoreWeave 10% - even as Jensen Huang told CNBC that demand from the new cloud providers is \"off the charts\". The counterweights were old economy: Procter &amp; Gamble rose more than 5% and Blackstone jumped on their own results (CNBC; Yahoo Finance). Treasury yields fell on the risk move, the 10-year to about 4.97% (CNBC), and weekly jobless claims came in at 194,000 against a 200,000 survey (Labor Department data)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> this is the first session where the market punished the AI build-out's cost rather than rewarding its promise - and India's IT complex, your watchlist's core, takes its cue from exactly this trade. Infosys reports today into that tape."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the question shifted overnight from \"who is spending most on AI\" to \"who can show what it earns\" - and the first answer the market got was negative cash flow."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://apnews.com/article/stocks-wall-street-nasdaq-dow-1970e79d013cbddcae89c53b4b98f384\" target=\"_blank\" rel=\"noopener\">AP post-close wrap</a> / <a href=\"https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-10222026-137490327\" target=\"_blank\" rel=\"noopener\">AP index levels</a> / <a href=\"https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html\" target=\"_blank\" rel=\"noopener\">CNBC on Meta</a>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 210\" width=\"100%\" role=\"img\" aria-label=\"US stock indexes, Thursday 22 October 2026, per cent change\" style=\"margin:14px 0\"><line x1=\"200\" y1=\"26\" x2=\"200\" y2=\"174\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"49\" y=\"44\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Nasdaq</text><rect x=\"57\" y=\"30\" width=\"143\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-2.60%</text></g><g><text x=\"125.44999999999999\" y=\"78\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">S&amp;P 500</text><rect x=\"133.45\" y=\"64\" width=\"66.55\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-1.21%</text></g><g><text x=\"210\" y=\"112\" text-anchor=\"start\" font-size=\"12\" fill=\"#334155\">Dow Jones</text><rect x=\"200\" y=\"98\" width=\"2\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"192\" y=\"112\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+0.02%</text></g><g><text x=\"214.05\" y=\"146\" text-anchor=\"start\" font-size=\"12\" fill=\"#334155\">Russell 2000</text><rect x=\"200\" y=\"132\" width=\"6.05\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"192\" y=\"146\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+0.11%</text></g><text x=\"8\" y=\"190\" font-size=\"11\" fill=\"#64748b\">One-day change, %, 22 Oct closes. Source: AP.</text><text x=\"8\" y=\"205\" font-size=\"11\" fill=\"#64748b\">Megacap AI fell; most US stocks rose.</text></svg>"
+     }
+    ]
+   },
+   {
+    "heading": "Front page, continued",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Third straight fall: oil drags the Nifty to 22,688, the rupee to 94.82, the 10-year to 7.46%",
+      "kicker": "India markets"
+     },
+     {
+      "t": "p",
+      "html": "The Sensex fell 460.30 points (0.62%) to 73,249.39 and the Nifty 123.70 (0.54%) to 22,687.65 on Thursday - a third consecutive fall, about 2% over the three sessions, leaving the index 14% below its 52-week high and 2.3% above its low (Business Standard). The Nifty recovered from a 22,554.85 intraday low to close near 22,688 after testing 22,785 mid-recovery. Bank Nifty fell only 0.09% to 54,925.70, outperforming the index for once, with Bajaj Finance, ICICI Bank and SBI among the Nifty's top gainers. The rupee snapped an eight-session winning streak, falling 36 paise to 94.82 per dollar as crude topped $112 (The Hindu BusinessLine). The 10-year government bond yield closed at 7.46% (ET Markets data; countryeconomy's daily table corroborates 7.46% for 22 October), up about 69 basis points in ten weeks. Foreign investors net sold ₹3,459 crore while domestic institutions bought ₹2,891 crore (moneycontrol's exchange-data wrap). Breadth was ugly: declines outnumbered advances by more than two to one on every count (moneycontrol; ET's NSE tally), and the midcap and smallcap indices fell harder than the large caps."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> three straight oil-driven falls with a weakening rupee is the exact configuration that tests the RBI's stance - and it reprices everything you track, from NBFC funding costs to insurer treasury books. Watch whether banks keep absorbing the shock better than the index; that is where the rate story shows up first."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the index fell less than the world around it, and banks finally outperformed - domestic buyers are still absorbing foreign selling, but the rupee and the bond yield are now moving against them at the same time."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.business-standard.com/markets/news/oil-price-surge-keeps-nifty-in-red-sensex-sheds-460-points-on-thursday-126102201522_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, 22 Oct</a> / <a href=\"https://www.thehindubusinessline.com/markets/rupee-snaps-eight-day-run-crude-tops-112-as-nifty-falls-for-third-straight-day/article71611785.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine, 22 Oct</a> / <a href=\"https://www.moneycontrol.com/news/business/markets/fiis-net-sell-rs-3-459-crore-while-diis-buy-rs-2-891-crore-worth-indian-equities-on-oct-22-14057901.html\" target=\"_blank\" rel=\"noopener\">moneycontrol FII/DII</a> / <a href=\"https://countryeconomy.com/bonds/india\" target=\"_blank\" rel=\"noopener\">10-year yield table</a>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 244\" width=\"100%\" role=\"img\" aria-label=\"Indian stock indexes, Thursday 22 October 2026, per cent change\" style=\"margin:14px 0\"><line x1=\"200\" y1=\"26\" x2=\"200\" y2=\"208\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"129.3\" y=\"44\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Smallcap 100</text><rect x=\"137.3\" y=\"30\" width=\"62.699999999999996\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-1.14%</text></g><g><text x=\"144.15\" y=\"78\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Midcap 100</text><rect x=\"152.15\" y=\"64\" width=\"47.85\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.87%</text></g><g><text x=\"157.9\" y=\"112\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Sensex</text><rect x=\"165.9\" y=\"98\" width=\"34.1\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.62%</text></g><g><text x=\"162.3\" y=\"146\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Nifty 50</text><rect x=\"170.3\" y=\"132\" width=\"29.700000000000003\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.54%</text></g><g><text x=\"187.05\" y=\"180\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Bank Nifty</text><rect x=\"195.05\" y=\"166\" width=\"4.95\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"180\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.09%</text></g><text x=\"8\" y=\"224\" font-size=\"11\" fill=\"#64748b\">One-day change, %, 22 Oct closes. Sources: BS, BusinessLine, NDTV Profit.</text><text x=\"8\" y=\"239\" font-size=\"11\" fill=\"#64748b\">Small caps fell hardest; banks fell least.</text></svg>"
+     },
+     {
+      "t": "story",
+      "title": "Jio's final day: day two settled at 5.57 times, and the bell is set for Wednesday",
+      "kicker": "IPOs, money"
+     },
+     {
+      "t": "p",
+      "html": "India's largest-ever IPO - Jio Platforms' ₹30,213 crore all-fresh issue at ₹1,065-1,119 - ends today: bidding closes at 5 PM and UPI mandates at 7 PM. The settled day-two print, on BSE consolidated bid data as of 7 PM Thursday (NDTV Profit's timestamped live-blog final, matching Mint's table): overall 5.57 times, institutions (QIBs) 13.29 times, non-institutional bidders 5.97 times, retail 1.54 times, Reliance shareholders 4.05 times, employees 2.10 times. NSE's consolidated schedule showed 5.36 times with QIBs at 12.87 times excluding anchor allotments - a different exchange cut and anchor treatment of the same demand. The anchor book of about ₹8,110 crore was placed on 19 October. Allotment is expected Monday 26 October and listing Wednesday 28 October on BSE and NSE. At the ₹1,119 cap the company is valued at about ₹10.3 lakh crore (~$108 billion), which would make it India's fourth-most-valuable listed company on debut (Fortune India; Times of India). Grey-market premium - unofficial - was last at ₹246, about 22% over the cap (investorgain, 22 Oct morning)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> retail crossed full subscription only on day two and sits at 1.54 times - allotment in this issue is a lottery, not a given, and today's final print decides the odds. The listing also redraws India's market-cap map: the RIL group would pass the Tata group in combined value."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the demand question is answered; what Wednesday's open prices is whether ₹10.3 lakh crore is a floor or a ceiling for a business whose growth now comes from tariff hikes, not subscriber additions."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ndtvprofit.com/markets/jio-platforms-ipo-day-2-live-updates-check-gmp-subscription-lot-size-price-band-12218160\" target=\"_blank\" rel=\"noopener\">NDTV Profit live blog, closed 20:01 IST</a> / <a href=\"https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html\" target=\"_blank\" rel=\"noopener\">Mint day-2 table</a> / <a href=\"https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/\" target=\"_blank\" rel=\"noopener\">chittorgarh issue page</a> / <a href=\"https://www.fortuneindia.com/markets/ipo/jio-platforms-ipo-ril-digital-arm-to-raise-30200-crore-at-1065-1119-apiece-valuation-pegged-at-103-lakh-crore/163856\" target=\"_blank\" rel=\"noopener\">Fortune India on the size</a>"
+     },
+     {
+      "t": "story",
+      "title": "Swiggy's quarter: record food-delivery margins, a wider quick-commerce burn, and a loss above estimates",
+      "kicker": "Earnings, consumer internet"
+     },
+     {
+      "t": "p",
+      "html": "Swiggy's board approved September-quarter results between 3:00 and 3:40 PM Thursday (exchange intimation). On the company's shareholder-letter basis, consolidated Adjusted Revenue rose 33.8% on the year to ₹7,909 crore and the consolidated Adjusted EBITDA loss was ₹760 crore. Food delivery is now reliably profitable: gross order value up 17.7% to ₹10,054 crore with Adjusted EBITDA of ₹341 crore - a record 3.4% margin. Quick commerce (Instamart) is where the money goes: order value up 31.4% to ₹9,230 crore across 1,240 dark stores in 133 cities, with an Adjusted EBITDA loss of ₹895 crore, a 9.7% negative margin. On the exchange-filing basis NDTV Profit tracked, net loss narrowed to ₹922 crore from ₹1,092 crore a year ago but came in wider than the ₹871 crore analysts estimated; reported revenue rose 36.1% to ₹7,571 crore - a different, narrower revenue definition than the letter's Adjusted Revenue, so the two bases should not be mixed. The structural news: shareholders approved capping foreign ownership at 49.5%, making Swiggy \"Indian Owned and Controlled\", which lets Instamart own its inventory outright - a shift the company estimates is worth about 80 basis points of contribution margin once fully implemented, with the transition starting mid-Q3 and running two to three quarters (ET, 22 Oct)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> this is the cleanest public dataset on Indian quick-commerce unit economics - the exact trade-off (record margins in the mature engine funding the burn in the growth engine) that every consumer-internet product team, yours included, has to sequence. The IOC restructuring is also a template: ownership structure as a margin lever."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the street wanted the burn to shrink with scale; instead it grew ₹118 crore quarter on quarter while food delivery printed a record - the question is no longer whether the model works, but how long investors fund the second engine."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.swiggy.com/corporate/wp-content/uploads/2026/10/Q2-FY2027-Shareholder-letter.pdf\" target=\"_blank\" rel=\"noopener\">Swiggy shareholder letter (primary)</a> / <a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/8b06e656-9995-4c35-b84c-3455a9314416.pdf\" target=\"_blank\" rel=\"noopener\">BSE filing intimation</a> / <a href=\"https://www.ndtvprofit.com/markets/q2-fy27-results-live-updates-swiggy-havells-india-colgate-palmolive-adani-total-gas-adani-energy-j-k-bank-nippon-life-amc-earnings-today-12218492\" target=\"_blank\" rel=\"noopener\">NDTV Profit Q2 live coverage</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets: the third leg down",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Thursday's session never gave the bulls a window. The Nifty opened weak with global markets, fell to 22,554.85 by early afternoon, and even a recovery attempt stalled below 22,785 before the close at 22,687.65 - the index has now given up about 2% in three sessions and sits closer to its 52-week low (+2.3%) than its high (-14%). The selling was broadest where it hurts most: the smallcap index's 1.14% fall took it to its lowest since 12 June, and only 1,323 stocks advanced against 2,670 declines (moneycontrol; Business Standard)."
+     },
+     {
+      "t": "p",
+      "html": "Under the surface, the leverage is coming off. Margin-trading books shrank to ₹1.56 lakh crore from September's ₹1.6 lakh crore record - the first monthly decline since March - and global funds have pulled more than $32 billion from Indian equities this year, a record, with the NSE 500 down 9% from its September peak (The Hindu BusinessLine). The overnight tape offers no relief: Asia followed Wall Street down on Friday morning, with Seoul's KOSPI opening 2.36% lower on the AI selloff and oil (Yonhap, 9:03 AM Seoul time)."
+     },
+     {
+      "t": "p",
+      "html": "The configuration to watch: crude at a five-month high, the rupee weakening, the 10-year rising and foreign investors selling - all four pressures pointing the same way for the first time in this move, while domestic institutions keep absorbing the supply."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers, Thursday 22 October",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Gainers, large cap: <strong>Bajaj Finance</strong> +1.74% (₹942.10) - recovering part of Wednesday's 3.3% margin-warning slide; no fresh company news. <strong>Cipla</strong> +1.29% and <strong>Sun Pharma</strong> +0.74% - pharma led defensives on a risk-off day. <strong>UltraTech Cement</strong> +1.00% - extending its post-results move (September-quarter profit ₹1,501 crore, up 21.3%). <strong>ICICI Bank</strong> +0.97%, <strong>SBI</strong> +0.73%, <strong>Axis Bank</strong> +0.17% - lenders were the session's pocket of strength; Federal Bank (+1.10%) led the Bank Nifty. (Closing data: AlphaTribe's NSE snapshot, 4 PM.)"
+     },
+     {
+      "t": "p",
+      "html": "Losers, large cap: <strong>Nestle India</strong> -2.78% (₹1,189.90) after the food-safety regulator's notice over product claims (below). <strong>Eternal</strong> -2.53% (₹304.45), a second day of selling after Wednesday's profit miss, on the Nifty's heaviest volume (8.55 crore shares). <strong>Reliance</strong> -2.03% (₹1,184.50), near its 52-week low and down over 18% in a year, falling with the broader market even as its Jio IPO drew record demand (Mint). <strong>HDFC Bank</strong> -1.82% - a second session of pressure since Wednesday's report of an internal probe into leaked confidential information (NDTV, Wednesday). <strong>HDFC Life</strong> -2.09%, <strong>Tata Motors PV</strong> -2.07% (reports today), <strong>Trent</strong> -1.64%, <strong>Power Grid</strong> -1.49% - no confirmed company-specific catalysts; consumer and rate-sensitive names fell with the tape. (AlphaTribe; catalysts as linked.)"
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Closing today:</strong> Jio Platforms (₹1,065-1,119, lot of 12 shares = ₹13,428 at the cap; 27 crore fresh shares, no offer for sale) - final day-3 subscription lands after 5 PM. Day-two settled 5.57 times on BSE data; grey premium ₹246, about 22% (unofficial, dated)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Listing today:</strong> <a href=\"https://www.investorgain.com/gmp/zetwerk-ipo-gmp/2279/\" target=\"_blank\" rel=\"noopener\">Zetwerk Manufacturing Businesses</a> (custom-manufacturing platform; ₹151, priced at the cap; 3.06 times subscribed) - its grey premium has faded to ₹1, an expected 0.66% listing gain (investorgain, 22 Oct 11:37 PM). <a href=\"https://www.moneycontrol.com/news/business/markets/tonbo-imaging-ipo-gmp-at-67-ahead-of-listing-tomorrow-check-key-details-here-14057599.html\" target=\"_blank\" rel=\"noopener\">Tonbo Imaging India</a> (defence imaging; ₹700 cap; 135.9 times subscribed) with the grey market implying about 67% over the cap (moneycontrol, 22 Oct). <a href=\"https://www.capitalmarket.com/markets/news/ipo-news/bonfiglioli-transmissions-ipo-ends-with-46-06-times-subscription/1738108\" target=\"_blank\" rel=\"noopener\">Bonfiglioli Transmissions</a> (industrial power-transmission products; ₹586 cap; 46.06 times, QIB book 120.78 times, per Capital Market). Watch the first-hour opens against the caps - three very different demand profiles list into a weak tape. Sahajanand Medical Technologies also lists today (BSE listing notice, 22 Oct)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Worth a closer look:</strong> the open that tests the grey market's honesty is Zetwerk's - subscription multiples (3.06x) and grey pricing (₹1) tell the same lukewarm story for once. What would make the faded premium wrong: a sustained open above ₹170 on real volume."
+     },
+     {
+      "t": "chart",
+      "svg": "<div role=\"img\" aria-label=\"Grey market premiums of this week's IPOs\" style=\"margin:16px 0\"><div style=\"margin-bottom:12px\"><div style=\"display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:12.5px;color:#334155;margin-bottom:3px\"><span>Tonbo Imaging (lists today)</span><span style=\"font-weight:600;color:#0f172a\">~+67% <span style=\"font-weight:400;color:#64748b\">moneycontrol, 22 Oct</span></span></div><div style=\"height:10px;background:#f1f5f9;border-radius:3px\"><div style=\"height:10px;width:100%;background:#0f766e;border-radius:3px\"></div></div></div><div style=\"margin-bottom:12px\"><div style=\"display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:12.5px;color:#334155;margin-bottom:3px\"><span>Jio Platforms (closes today)</span><span style=\"font-weight:600;color:#0f172a\">₹246, +22% <span style=\"font-weight:400;color:#64748b\">investorgain, 22 Oct morning</span></span></div><div style=\"height:10px;background:#f1f5f9;border-radius:3px\"><div style=\"height:10px;width:73.43283582089552%;background:#0f766e;border-radius:3px\"></div></div></div><div style=\"margin-bottom:12px\"><div style=\"display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:12.5px;color:#334155;margin-bottom:3px\"><span>Bonfiglioli (lists today)</span><span style=\"font-weight:600;color:#0f172a\">₹132, +22.5% <span style=\"font-weight:400;color:#64748b\">investorgain, 21 Oct</span></span></div><div style=\"height:10px;background:#f1f5f9;border-radius:3px\"><div style=\"height:10px;width:39.40298507462687%;background:#0f766e;border-radius:3px\"></div></div></div><div style=\"margin-bottom:12px\"><div style=\"display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;font-size:12.5px;color:#334155;margin-bottom:3px\"><span>Zetwerk (lists today)</span><span style=\"font-weight:600;color:#0f172a\">₹1, +0.66% <span style=\"font-weight:400;color:#64748b\">investorgain, 22 Oct 11:37 PM</span></span></div><div style=\"height:10px;background:#f1f5f9;border-radius:3px\"><div style=\"height:10px;width:5.970149253731343%;background:#0f766e;border-radius:3px\"></div></div></div><div style=\"font-size:11px;color:#64748b;line-height:1.55\">Grey market premium - unofficial, unregulated, dated as shown. Sources: moneycontrol; investorgain.com.</div></div>"
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Going ex today (Friday 23 Oct), per company notices compiled on TotalMarket's events board from exchange filings:"
+     },
+     {
+      "t": "bullets",
+      "items": [
+       "Tech Mahindra - interim dividend ₹15 per share.",
+       "ICICI Lombard General Insurance - interim dividend ₹7 per share.",
+       "360 ONE WAM - ₹7.50; HDB Financial Services - ₹2; IRFC - ₹1.15; Oberoi Realty - ₹2; LTM - ₹25; Modison - ₹4."
+      ]
+     },
+     {
+      "t": "p",
+      "html": "Announced with Thursday's results: Nippon Life India Asset Management declared an interim dividend of ₹9.50 per share, record date 28 October (NDTV Profit results coverage). Carried forward: L&amp;T Technology Services' ₹20 dividend goes ex on Tuesday 27 October."
+     },
+     {
+      "t": "p",
+      "html": "Results boards: today - Infosys, Dr Reddy's Laboratories, IndusInd Bank, JSW Steel, Adani Power, BPCL, Coforge, Tata Motors PV, CG Power. Saturday - Kotak Mahindra Bank, IDFC First Bank, AU Small Finance Bank, Castrol India (The Hindu BusinessLine; TotalMarket results calendar)."
+     }
+    ]
+   },
+   {
+    "heading": "Thursday's results",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "HPCL: profit against a feared loss - but 9% lower than a year ago as crude bit",
+      "kicker": "Energy"
+     },
+     {
+      "t": "p",
+      "html": "Hindustan Petroleum posted a standalone profit of ₹3,483 crore for the September quarter - a swing from the ₹11,526 crore loss in the June quarter and far better than the ₹2,050 crore loss analysts had estimated (NDTV Profit's poll). The year-on-year basis tells the harder story: profit fell 9% from ₹3,830 crore a year ago, because Brent averaged about 40% higher this quarter through the Iran war and the Russia-Ukraine conflict, squeezing marketing margins - Elara Securities estimates diesel marketing margins were minus ₹24 a litre against plus ₹5 a year ago - and the tax charge more than doubled. Product sales value rose 26.2% to ₹1.39 lakh crore (Business Standard). Both bases matter: a big beat against expectations, a decline against last year."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.moneycontrol.com/news/business/earnings/hpcl-q2-results-profit-falls-9-to-rs-3-483-crore-despite-26-sales-jump-as-crude-oil-prices-bite-14057867.html\" target=\"_blank\" rel=\"noopener\">moneycontrol (Reuters)</a> / <a href=\"https://www.business-standard.com/companies/quarterly-results/hpcl-q2-profit-falls-9-to-3-483-cr-on-higher-costs-tax-expenses-126102201213_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard (Reuters)</a>"
+     },
+     {
+      "t": "story",
+      "title": "Colgate misses in its new CEO's first quarter; Havells, Cyient and CreditAccess beat their own bars",
+      "kicker": "Consumer and financials"
+     },
+     {
+      "t": "p",
+      "html": "Colgate-Palmolive India's profit rose 4.3% to ₹342 crore on revenue up 12.2% at ₹1,706 crore, but missed estimates (₹368 crore profit, 29.9% margin expected; 27.8% delivered) in its first quarter under a new CEO; toothpaste volumes grew in the high single digits (Business Standard). Havells' profit rose 11.4% to ₹353 crore on revenue up 34.6%. Cyient's profit rose 16.6% sequentially to ₹121 crore with EBIT margin up at 10.21%. CreditAccess Grameen - India's largest microfinance lender - earned ₹502 crore against ₹129 crore a year ago and raised FY27 return-on-assets guidance to 5.2-5.8%. Adani Energy Solutions' profit jumped to ₹1,323 crore from ₹534 crore on revenue up 52.8%; Adani Total Gas earned ₹173 crore, up 22.3% sequentially. Elsewhere: Jindal Stainless ₹895 crore (+16.4% QoQ), Chennai Petroleum ₹2,271 crore (more than double QoQ), Nippon Life India AMC ₹324 crore (-35.7% QoQ on a one-time ₹97 crore loss), J&amp;K Bank ₹546 crore (+10.5% YoY), and BlueStone narrowed its loss to ₹4.4 crore while planning a ₹300 crore bond raise."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.ndtvprofit.com/markets/q2-fy27-results-live-updates-swiggy-havells-india-colgate-palmolive-adani-total-gas-adani-energy-j-k-bank-nippon-life-amc-earnings-today-12218492\" target=\"_blank\" rel=\"noopener\">NDTV Profit Q2 live coverage</a> / <a href=\"https://www.cnbctv18.com/market/earnings/earnings-central-hpcl-swiggy-havells-colgate-jk-bank-jindal-stainless-cyient-q2-results-20017338.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18 earnings central</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "SEBI proposes letting exchanges and depositories invest without asking it first",
+      "kicker": "Regulation"
+     },
+     {
+      "t": "p",
+      "html": "SEBI has proposed that market infrastructure institutions - the exchanges and depositories that sit at the centre of Indian markets - be allowed to invest in businesses related to their core functions without prior SEBI approval. The waiver would cover investments mandated by SEBI itself, subsidiary investments from internal funds, and entities regulated by other financial regulators, with board oversight and safeguards substituted for case-by-case permission. Public comments are open until 12 November (Reuters). The mechanism matters: BSE Ltd, CDSL and their peers currently need the regulator's sign-off for adjacent bets; the proposal converts permission into governance, which is how an exchange becomes a broader financial-infrastructure company."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> BSE and CDSL are watchlist staples whose optionality has been capped by exactly this approval rule; and for anyone building in fintech or insurance distribution, the regulator's posture here - governance over gatekeeping - is the same posture showing up in the IRDAI distribution paper."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://hk.marketscreener.com/news/india-s-markets-regulator-proposes-easing-approval-rules-for-some-exchange-investments-ce785cdeda80f220\" target=\"_blank\" rel=\"noopener\">Reuters via MarketScreener</a>"
+     },
+     {
+      "t": "story",
+      "title": "SEBI's early-pay-in margin relief is a quiet capital-efficiency win for brokers",
+      "kicker": "Regulation, market plumbing"
+     },
+     {
+      "t": "p",
+      "html": "A SEBI circular dated 22 October waives margin on subsequent buy or sell transactions once a client has made an <a href=\"https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html\" target=\"_blank\" rel=\"noopener\">early pay-in</a> (EPI) - delivering shares or funds to the broker before settlement - with the EPI value now calculated on the trade day. In plain terms: a client who delivers early no longer has margin blocked twice on the same capital. The relief is mechanical, not headline-grabbing, but margin blocked is the binding constraint on how much a broker's clients can trade - this frees it."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html\" target=\"_blank\" rel=\"noopener\">SEBI circular (primary)</a> / <a href=\"https://www.thehindu.com/business/sebi-eases-margin-rules-for-early-share-delivery-epi-value-to-be-calculated-on-trade-day/article71612420.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>"
+     },
+     {
+      "t": "story",
+      "title": "The leverage is leaving: margin books shrink for the first month since March",
+      "kicker": "Smart money"
+     },
+     {
+      "t": "p",
+      "html": "Margin-trading positions - money borrowed from brokers to buy shares - fell to ₹1.56 lakh crore from September's ₹1.6 lakh crore record, the first monthly decline since March (The Hindu BusinessLine). It pairs with the flow data: global funds have pulled a record $32 billion-plus from Indian equities in 2026, and the NSE 500 sits 9% below its September peak. Deleveraging after a record is how corrections usually end - slowly, and with weaker hands gone first."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> falling leverage is the precondition for a durable bottom, not the bottom itself; it tells you the froth is leaving smallcaps - where your watchlist's risk lives - before it leaves the index."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.thehindubusinessline.com/markets/rupee-snaps-eight-day-run-crude-tops-112-as-nifty-falls-for-third-straight-day/article71611785.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine, 22 Oct</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Swiggy's structural play is the quarter's real news.</strong> Buried under the earnings miss is a completed manoeuvre: shareholders approved capping foreign ownership at 49.5%, making the company \"Indian Owned and Controlled\" - the FDI classification that lets Instamart own its inventory instead of operating as a marketplace. Swiggy estimates the switch is worth about 80 basis points of net margin over coming quarters (shareholder letter). The aspiration behind it, stated at its first Capital Markets Day on 6 August 2026: ₹10,000 crore of Adjusted EBITDA by FY31 on ₹2.5 lakh crore of gross order value - about a 4% margin. The build-out is already branded: about 400 brands under its Switch private-label umbrella, and its No!ce value range showing up in one in eight baskets."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The insight:</strong> ownership structure is now a P&amp;L decision in Indian consumer internet. Swiggy is trading shareholder composition for the legal right to hold inventory - because 80 basis points of margin on ₹9,230 crore of quarterly order value is worth more than the strategic flexibility foreign capital above 49.5% would have bought. Watch whether other inventory-curious platforms run the same play."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Opportunity signal:</strong> BlueStone - the online-first jewellery brand that listed this year - narrowed its quarterly loss to ₹4.4 crore and is raising ₹300 crore through non-convertible debentures (NDTV Profit). Venture debt at near-profitability is the new dilution-avoidance playbook for listed consumer startups; expect more of it as equity stays expensive."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One startup idea:</strong> a claims-substantiation service for food and consumer brands. FSSAI's notices this week to Nestle India and Zydus Wellness (over \"easy to digest\" and immunity claims on Lactogen, Nan Excella Pro and Complan) plus the regulator's proposal to ban added sucrose and fructose in infant foods up to six months show the enforcement direction: every label claim now needs a scientific file behind it (The Hindu). A tool that scans a brand's pack copy and ad library against FSSAI's regulations and flags unsubstantiated claims - sold as a subscription audit to D2C food brands - sits exactly on that pain. First step: parse the FSSAI Act's claims schedule into a machine-checkable rulebook and test it on twenty listed products."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "The market's verdict on AI spending: cost is now the story",
+      "kicker": "The AI trade"
+     },
+     {
+      "t": "p",
+      "html": "Thursday was the AI trade's first reckoning session. Meta's record quarter - and its narrowed $135-145 billion capex plan - was read through one line: free cash flow turned negative as AI spending outran it (CNBC). The stock fell about 7%, and the selloff ran down the supply chain: AMD and Intel about 8%, Micron 6%, Nvidia 4%, CoreWeave 10%. The bull case was heard too - Nvidia's Jensen Huang told CNBC demand from the new cloud providers is \"off the charts\" and capital is the scarce resource - and it is worth noting the broader market did not break: most US stocks rose. Meta separately detailed its plan to issue a new class of non-voting shares as a stock dividend - one Class C share for each Class A and B share, contingent on an amended charter taking effect 19 January 2027, with a two-for-one-split-like effect on the Class A price and no change to voting power (Meta's own release) - a way to keep funding the build-out without diluting control."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> the AI capex question now has a market-enforced answer format: show the cash. That reprices the whole chain your work touches - Indian IT services, the model vendors whose APIs you build on, and every startup whose burn is justified by an AI story."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://apnews.com/article/stocks-wall-street-nasdaq-dow-1970e79d013cbddcae89c53b4b98f384\" target=\"_blank\" rel=\"noopener\">AP post-close wrap</a> / <a href=\"https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html\" target=\"_blank\" rel=\"noopener\">CNBC on Meta</a>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Radar, last 24-48 hours:</strong> Anthropic opened a waitlist for Claude Duet, a proactive assistant agent (details in New AI tools, below). Inception Labs shipped Mercury 3, a diffusion-based text model claiming frontier-class quality at 1,068 tokens per second - vendor-reported, not independently tested; what would count as verification: third-party benchmark runs (below). TwinMind brought its meeting-memory app to the desktop (below). OpenAI's models on Google Cloud, announced 21 October, remain in limited preview with general availability \"in the coming weeks\" (<a href=\"https://openai.com/index/openai-models-google-cloud\" target=\"_blank\" rel=\"noopener\">OpenAI</a>) - no GA yet as of this edition. Nothing else verified in the window worth your attention."
+     }
+    ]
+   },
+   {
+    "heading": "New AI tools, verified launches",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Claude Duet: Anthropic's proactive agent goes into preview",
+      "kicker": "Launched 21 October"
+     },
+     {
+      "t": "p",
+      "html": "Anthropic announced Claude Duet on 21 October: a research preview of a proactive agent that builds a morning brief from your connected apps, keeps working while you are away, and checks with you before consequential actions. It runs on Claude Opus 5.5, lives in a standalone iOS/Android app and on claude.ai, and uses a \"Managed Agents\" design so the agent never sees your passwords, with a classifier gating auto-approvals. Access: waitlist only, US Pro and Max subscribers first - India availability is not stated, so expect a wait. Utility for you: the morning-brief pattern is exactly the one this paper runs; Duet is the first mainstream agent packaging it as a product, and the check-before-consequential-actions design is the template to copy in your own agent builds."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://claude.com/resources/articles/claude-duet\" target=\"_blank\" rel=\"noopener\">Anthropic (primary)</a>"
+     },
+     {
+      "t": "story",
+      "title": "Mercury 3: a diffusion text model at diffusion prices",
+      "kicker": "Launched 18 October"
+     },
+     {
+      "t": "p",
+      "html": "Inception Labs released Mercury 3 on 18 October: a diffusion-based large language model the vendor says outperforms GPT-6 Luna and Claude Haiku 5.5 while generating at 1,068 tokens per second on NVIDIA GPUs - vendor-reported benchmarks, not independently tested. Context window is now 1 million tokens (from 260K in Mercury 2.5). Pricing: $0.20 per million input tokens and $0.70 per million output, with a launch discount of 50% ($0.10/$0.35) and 90% off cached input. It speaks the OpenAI API format and is available on Inception's platform, OpenRouter, Baseten and Vercel. Utility for you: at launch pricing it is among the cheapest ways to prototype long-context features - a drop-in base-URL swap lets you A/B it against your current model in an afternoon."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://inceptionlabs.ai/blog/introducing-mercury-3\" target=\"_blank\" rel=\"noopener\">Inception Labs (primary)</a>"
+     },
+     {
+      "t": "story",
+      "title": "TwinMind for Desktop: meeting memory without the bot in the call",
+      "kicker": "Launched this week"
+     },
+     {
+      "t": "p",
+      "html": "TwinMind - the ambient meeting-memory app - launched its third Product Hunt release this week: a native Mac and Windows app that auto-detects Zoom, Meet and Teams calls and captures transcripts and summaries in 140-plus languages, with a floating mic that dictates cleaned-up text into any app. Pricing verified at the vendor: the free plan includes unlimited capture hours, summaries and daily digests; Pro is $11.99 a month. Utility for you: a call-heavy APM week with no bot joining the meeting and no note-taking - the summary lands after. Caveat: it records from your machine's audio, so tell your call participants it is running."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.producthunt.com/products/twinmind\" target=\"_blank\" rel=\"noopener\">Product Hunt listing</a> / <a href=\"https://twinmind.com/pricing\" target=\"_blank\" rel=\"noopener\">Vendor pricing (verified)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Mercury 3 is the build-relevant launch this week because of what diffusion generation implies for app architecture: 1,068 tokens per second (vendor-reported) is fast enough to feel instant on long outputs, and at launch pricing a million-token-context call costs cents. The practical test for your stack: point one non-critical feature - a long summarisation or extraction job - at Mercury 3's OpenAI-compatible endpoint behind a flag, log latency and output quality against your current model for a week, and keep whichever wins on cost-adjusted quality. Treat the vendor's benchmark table as marketing until third-party runs exist; the price and the API compatibility are the verified, usable facts today."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Friday: automation)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Automate your meeting notes for one day (about 15 minutes of setup).</strong> Install TwinMind's new desktop app (free plan, linked above), grant microphone and system-audio access, and let it run through your next three calls - it detects Zoom, Meet and Teams automatically, no bot joins. After the last call, read its summaries and action-item lists against what you would have written. A good result: three usable summaries with correct names and decisions, and zero minutes spent typing. Tell participants you are capturing - it records from your machine. If the summaries hold up, the automation earns its place; if names and numbers drift, you have your answer for free."
+     }
+    ]
+   },
+   {
+    "heading": "One Concept a Day: the disposition effect",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 1998 a young Berkeley economist named Terrance Odean got his hands on something researchers had wanted for decades: the actual trading records of 10,000 individual accounts at a large US discount brokerage, from 1987 to 1993. Not surveys - trades. What he found in them has been replicated in market after market since: people sell their winners much more readily than their losers. Odean counted every position that showed a gain or a loss each day and asked how often each was sold. Investors realized 14.8% of their available gains but only 9.8% of their available losses (\"Are Investors Reluctant to Realize Their Losses?\", Journal of Finance, 1998 - the winners they chose to sell went on to beat the losers they kept). The pattern had been named in 1985 by Hersh Shefrin and Meir Statman: the disposition effect. One detail redeems us slightly: every December the pattern flips - losses get realized at 12.8% against gains at 10.8% - because a tax bill makes the loss suddenly useful."
+     },
+     {
+      "t": "p",
+      "html": "The mechanism is not stupidity; it is reference dependence. A position bought at ₹1,000 is measured against ₹1,000 forever: selling at ₹800 converts \"might recover\" into \"definitely lost\", and losing hurts roughly twice what winning feels good. So the loser is carried - Reliance shareholders holding through an 18% one-year slide into a 52-week low are living the dataset this week - and the winner is banked early to lock the feeling."
+     },
+     {
+      "t": "p",
+      "html": "The applications reach past trading. In insurance, the lapse patterns of underperforming endowment and ULIP policies show the same shape: policyholders keep paying into a visibly poor policy because surrendering makes the loss real - persistency teams quietly rely on it. In product work, users keep paying for subscriptions they no longer use, because cancelling admits the spend was wasted. In your own portfolio review, the test Odean's data suggests is brutal and simple: would I buy this position fresh today?"
+     },
+     {
+      "t": "p",
+      "html": "<strong>The decision rule:</strong> write the exit condition when you enter, while the reference price has no grip on you - then review losers as fresh buy decisions, not as recoveries to wait for."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Sixty-second recall:</strong> close the page and answer: (1) What is the disposition effect? (2) Odean's two numbers for gains and losses realized? (3) Why does December flip the pattern? (4) The decision rule, in one sentence. Answers: (1) the tendency to sell winners too early and hold losers too long. (2) 14.8% of gains realized against 9.8% of losses. (3) tax-loss selling makes losses useful at year-end. (4) set exit conditions at entry and judge losers as if deciding fresh."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: early pay-in (EPI)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Delivering your shares (for a sale) or funds (for a purchase) to your broker before the exchange's settlement deadline instead of on settlement day. When a client pays in early, the obligation is pre-funded - which is why SEBI's circular this week says margin should not also be blocked on the trades that follow: the risk the margin was covering is already gone. For the client, it means the same capital can support more trading; for the broker, less operational chasing on settlement day."
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. Three sessions in, India's fall is being filed as \"global risk-off\", but the domestic legs have their own logic: the 10-year at 7.46% is the highest this move has taken it, the rupee's eight-day rise just broke, and Motilal Oswal now expects the repo rate to reach 6.25% this cycle (The Hindu BusinessLine). I think the tape is starting to price a rate path, not just an oil scare - which is why banks outperformed on a down day: lenders earn the yield curve that hurts everyone else. My falsifiable marker: if this reading is right, financials keep their relative strength through today's results (IndusInd reports) and the three IPO listings trade weak regardless of their subscription multiples, because liquidity is leaving. Wrong if the Nifty reclaims 22,900 today on results strength with Brent still above $110, or if Zetwerk opens more than 10% above its cap and holds."
+     },
+     {
+      "t": "p",
+      "html": "Scoreboard on yesterday's marker: it took its first hit. I said Bank Nifty would keep underperforming while the 10-year held above about 7.4% - the yield leg held (7.44% to 7.46%) but banks outperformed on Thursday (-0.09% against the Nifty's -0.54%), with Bajaj Finance the Nifty's top gainer. One day does not kill the marker, but the honest count is: yield leg intact, bank leg broken on day one."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Jio closes today: watch the final print against the settled day-two figure of 5.57 times - a strong close sets up Wednesday's listing to test the ₹10.3 lakh crore valuation; a fade below day-two levels means late bids were pulled. Wrong if UPI mandate failures distort the final number, which the exchange data will show only on Monday.",
+       "IRDAI comments close Sunday 25 October: the distribution-economics paper - expense caps, payout structures - is the biggest live repricing of insurance distribution economics; watch for industry submissions going public over the weekend. Wrong if the regulator extends the window.",
+       "The Fed decides Wednesday 28 October (meeting 27-28, per the Federal Reserve's own calendar), with the ECB and Bank of Japan in the same week: three central banks meeting into an oil spike is a recipe for a rates-led move in everything. Wrong if Brent gives back the week's gain before Wednesday and takes the urgency with it."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Today, Fri 23 Oct: Jio IPO closes (5 PM bids, 7 PM UPI); Zetwerk, Tonbo Imaging, Bonfiglioli and Sahajanand Medical Technologies list; results from Infosys, Dr Reddy's, IndusInd Bank, JSW Steel, Adani Power, BPCL, Coforge, Tata Motors PV, CG Power; eight dividend ex-dates (above). US flash PMI tonight, 7:15 PM IST (S&amp;P Global).",
+       "Sat 24 Oct: results from Kotak Mahindra Bank, IDFC First Bank, AU Small Finance Bank, Castrol India.",
+       "Sun 25 Oct: public comments close on IRDAI's distribution-economics consultation paper.",
+       "Mon 26 Oct: Jio Platforms IPO allotment expected.",
+       "Tue 27 Oct: L&amp;T Technology Services ₹20 dividend goes ex; the Fed meeting begins in Washington.",
+       "Wed 28 Oct: Jio Platforms lists on BSE and NSE; Fed decision; Nippon Life India AMC dividend record date."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "X was not accessed for this edition; the launch radar was verified at vendor pages (claude.com, inceptionlabs.ai, twinmind.com) and Product Hunt, with vendor benchmark claims labelled and dated.",
+       "A Reuters intraday syndication mislabelled as Thursday's US closing figures (Dow -106.39, S&amp;P 7,647.74, Nasdaq 25,988.10) was caught and rejected; all US closing levels above come from AP's post-close wrap.",
+       "New sources in use this edition: NDTV Profit's BSE-attributed IPO live blog (timestamped subscription prints), countryeconomy's daily bond table (10-year corroboration), Yonhap (Seoul open), MarketScreener carrying Reuters (SEBI proposal), claude.com, inceptionlabs.ai, twinmind.com and the Journal of Finance via Wiley (primary paper for the concept). IPO trackers (ipoguru, ipowatch, mywealthpost) were used as pointers only.",
+       "Swiggy figures carry two labelled bases: the company letter's Adjusted Revenue and the exchange-filing revenue; they measure different things and are not mixed anywhere above. HPCL carries both quarter-on-quarter and year-on-year bases for the same reason.",
+       "Markets are watchlist-only. Nothing here is a tip, a target or a buy/sell call."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Edition 18. The long read: \"Seven years for the promise\" - Jio's road from the 2019 AGM stage to today's closing bell on India's largest IPO."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": null
+}
