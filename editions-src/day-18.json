@@ -8,7 +8,7 @@
  "edition": {
   "title": "Morning paper, Friday 23 October 2026",
   "fact": "Friday 23 October 2026, edition 18. Houthi strikes on Saudi oil targets lift Brent to a five-month high of $113.17; the Nasdaq has its worst day since June as Meta's AI spend turns free cash flow negative; India falls a third straight session with the 10-year at 7.46%; the Jio IPO closes today. The long read is Jio's seven-year road to this listing.",
-  "intro": "The 5-minute lead route is first; sections carry the detail. Thursday's tape had two engines: a real supply scare in the Gulf and a real question about what AI spending earns. Both reach India through the same channel - crude, yields and the rate path - and both sit under today's three IPO listings and the close of India's largest-ever public issue.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. Thursday's tape had two engines: a real supply scare in the Gulf and a real question about what AI spending earns. Both reach India through the same channel - crude, yields and the rate path - and both sit under today's four IPO listings and the close of India's largest-ever public issue.",
   "concept": {
    "label": "One concept a day",
    "name": "The disposition effect",
@@ -482,7 +482,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. Three sessions in, India's fall is being filed as \"global risk-off\", but the domestic legs have their own logic: the 10-year at 7.46% is the highest this move has taken it, the rupee's eight-day rise just broke, and Motilal Oswal now expects the repo rate to reach 6.25% this cycle (The Hindu BusinessLine). I think the tape is starting to price a rate path, not just an oil scare - which is why banks outperformed on a down day: lenders earn the yield curve that hurts everyone else. My falsifiable marker: if this reading is right, financials keep their relative strength through today's results (IndusInd reports) and the three IPO listings trade weak regardless of their subscription multiples, because liquidity is leaving. Wrong if the Nifty reclaims 22,900 today on results strength with Brent still above $110, or if Zetwerk opens more than 10% above its cap and holds."
+      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. Three sessions in, India's fall is being filed as \"global risk-off\", but the domestic legs have their own logic: the 10-year at 7.46% is the highest this move has taken it, the rupee's eight-day rise just broke, and Motilal Oswal now expects the repo rate to reach 6.25% this cycle (The Hindu BusinessLine). I think the tape is starting to price a rate path, not just an oil scare - which is why banks outperformed on a down day: lenders earn the yield curve that hurts everyone else. My falsifiable marker: if this reading is right, financials keep their relative strength through today's results (IndusInd reports) and the four IPO listings trade weak regardless of their subscription multiples, because liquidity is leaving. Wrong if the Nifty reclaims 22,900 today on results strength with Brent still above $110, or if Zetwerk opens more than 10% above its cap and holds."
      },
      {
       "t": "p",
