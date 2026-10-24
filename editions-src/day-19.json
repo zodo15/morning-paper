@@ -1,0 +1,493 @@
+{
+ "day": 19,
+ "meta": {
+  "date": "Saturday 24 October 2026",
+  "short": "Sat 24 Oct",
+  "longread": 19
+ },
+ "edition": {
+  "title": "Slow Burn - Saturday 24 October 2026",
+  "fact": "Edition 19. Oil is pricing the strike that has not happened. Saturday 24 October 2026: Brent settles at $116.72 as the Houthi campaign on Saudi Arabia empties Aramco's Dhahran headquarters; the Dow falls 652 points and gold slips under $4,000 as a December Fed hike gets priced in; the Jio IPO closes with record demand; Infosys flash-crashes nearly 10% in a minute, then cuts guidance after the bell; Swiggy has its worst day since February 2025. The long read works out what $116 oil actually costs India.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. Friday connected the week's two stories: the Gulf escalation lifted crude to $116.72, and expensive money met expensive AI - gold's worst week since June is the receipt for both. Today is results Saturday for three banks; Monday's open is where it all settles.",
+  "concept": {
+   "label": "One concept a day",
+   "name": "The availability heuristic",
+   "line": "When a vivid event moves a price or a decision, ask for the base rate before acting - what actually happened to supply, frequency or numbers last time - and treat how easily examples come to mind as a warning light, not evidence."
+  },
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The Gulf escalation, day two:</strong> Brent settled up 3.1% at $116.72 after Houthi attacks killed two at a Saudi oilfield and two more at Dammam's airport; Aramco evacuated its Dhahran HQ and the US pulled non-essential staff. But Hormuz flows are still near normal - this is a risk premium, not a shortage. <a href=\"#s-oil\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Wall Street's hawkish Friday:</strong> the Dow fell 652.82 points (1.2%) to 52,215.16, spot gold dipped under $4,000 intraday for the first time since mid-July, and futures now price a 78% chance of a December rate HIKE. The Fed decides Wednesday. <a href=\"#s-us\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio's record close:</strong> BSE's final demand schedule shows 9.73 times subscribed on its platform; Indian Express, citing consolidated exchange data, reports 22.19 times - India's largest IPO drew the most bids ever. Allotment Monday, listing Wednesday. <a href=\"#s-jio\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Infosys's strange Friday:</strong> a one-minute flash crash of nearly 10% at 10:38 AM, a recovery within minutes, and after the bell, a cut to FY27 revenue guidance (1-2% in constant currency) with a ₹26 dividend. <a href=\"#s-infy\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Swiggy's worst day since February 2025:</strong> -16.4% after quick-commerce losses widened to ₹895 crore; brokers cut targets across the street while management says losses peaked. <a href=\"#s-swiggy\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>India's Friday:</strong> Sensex -126 to 73,124, Nifty -88 to 22,600, midcaps -2.2%, six declines for every advance. Kotak Mahindra Bank, IDFC First and AU Small Finance Bank report today. <a href=\"#s-mkt\">Detail</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Brent settles at $116.72 as the attacks reach Aramco's doorstep",
+      "kicker": "Geopolitics, lead"
+     },
+     {
+      "t": "p",
+      "html": "Yemen's Iran-aligned <a href=\"https://www.thenationalnews.com/business/energy/2026/10/23/oil-prices-rise-as-houthis-launch-another-wave-of-attacks-on-saudi-arabia/\" rel=\"noopener\" target=\"_blank\">Houthi movement</a> kept striking Saudi Arabia for a second day: Wednesday's drone attack on the Shaybah oilfield in the Eastern Province killed two people and injured two, and an attack on King Fahd International Airport in Dammam killed at least two and injured eight, according to Saudi state media carried by CNBC; the Houthis have also claimed attacks on the Defence Ministry headquarters in Riyadh, an Aramco site in Yanbu and Abha airport over 48 hours (The National). Saudi Aramco told staff to evacuate its Dhahran headquarters and work remotely (Reuters), and the US State Department ordered non-essential personnel to leave the kingdom. Brent futures settled up 3.1% at $116.72 a barrel and US WTI up 3.8% at $103.27; Brent gained 6.2% on the week, a third straight weekly rise. A Libyan supply disruption added to the bid (The National)."
+     },
+     {
+      "t": "p",
+      "html": "The diplomacy is pointing the other way. President Trump said Wednesday the US is \"not negotiating\" with Iran and that something would happen \"fairly soon\"; US officials told the New York Times that Washington and Israel have plans for fresh strikes on Iran after the midterm elections (CNBC). Iran's army chief said the country is ready for \"asymmetric warfare\" (state agency Tasnim). The context that matters for the price: the February war's interim deal, signed in late June with a 60-day clock, has been unravelling since July (AP's timeline), and traders now expect US strikes to resume in the coming weeks (CNBC)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> every $1 on crude adds up to $2 billion a year to India's import bill (Indian Express's arithmetic on PPAC data), and Friday ended with the rupee at 94.93, spot gold dipping under $4,000 intraday and a December Fed hike priced at 78%. But the one balance fact worth holding: Hormuz production and export flows are still near pre-conflict levels, at elevated shipping rates (MUFG's Edward Bell and Soojin Kim, to The National). A premium unwinds much faster than a shortage."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the market is paying for a strike that has not happened - Wednesday's Fed call and the weekend's headlines decide whether it keeps paying."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html\" rel=\"noopener\" target=\"_blank\">CNBC, 23 Oct (read in full)</a> / <a href=\"https://www.thenationalnews.com/business/energy/2026/10/23/oil-prices-rise-as-houthis-launch-another-wave-of-attacks-on-saudi-arabia/\" rel=\"noopener\" target=\"_blank\">The National, 23 Oct (read in full)</a> / <a href=\"https://apnews.com/article/iran-us-timeline-trump-hormuz-war-ceasefire-04da58cbae991183f8b52ef5bf615963\" rel=\"noopener\" target=\"_blank\">AP war timeline (read in full)</a>"
+     },
+     {
+      "t": "story",
+      "title": "Dow -652, gold under $4,000, and a December rate hike gets priced in",
+      "kicker": "US markets, Fed"
+     },
+     {
+      "t": "p",
+      "html": "Friday's closes (AP): the Dow fell 652.82 points (1.2%) to 52,215.16, the S&P 500 lost 39.75 (0.5%) to 7,623.68, the Nasdaq slipped 53.52 (0.2%) to 25,955.34, and the Russell 2000 fell 8.13 (0.3%) to 2,775.90; the 10-year Treasury yield rose to 4.99%. On the week: S&P -0.5%, Nasdaq -0.7%, Dow +0.4%. The bigger repricing is in rates: traders see a 92% chance the Fed holds at its 27-28 October meeting but a 78% probability of a December HIKE (CME FedWatch, cited by CNBC on Friday) - oil-led inflation colliding with last week's hot consumer and producer price prints, and Friday's flash PMI showing selling prices at their highest since 2022 (composite 57.6 vs 58.4; Reuters via Investing.com; Newsquawk). Gold is the tell: spot fell 0.6% to $3,998.49 at 2:27 PM EDT, below $4,000 for the first time since mid-July, down 4% in its worst week since June, with December futures settling at $4,007.90 - the geopolitical hedge falling because hike bets and margin-call selling from the AI rout dominate (analyst Jim Wyckoff, to CNBC). Next data: the PCE inflation report on 29 October."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> a December hike was nowhere in prices a month ago; if it survives Wednesday's statement, every Indian rate assumption - the RBI path, NBFC funding costs, insurer bond books - gets rewritten upward. The rupee at 94.93 is already leaning that way."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the market just moved its worst case from \"oil spike\" to \"oil spike plus a hike\" - that is a different, more durable kind of pressure."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-e07c72bc5cbe5dffe352ddf30054e35f\" rel=\"noopener\" target=\"_blank\">AP index levels (read in full)</a> / <a href=\"https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html\" rel=\"noopener\" target=\"_blank\">CNBC gold/Fed (read in full)</a> / <a href=\"https://www.newsquawk.com/headlines/us-sp-global-composite-pmi-flash-oct-576-prev-584\" rel=\"noopener\" target=\"_blank\">Newsquawk PMI print</a>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 210\" width=\"100%\" role=\"img\" aria-label=\"US stock indexes, Friday 23 October 2026, per cent change\" style=\"margin:14px 0\"><line x1=\"200\" y1=\"26\" x2=\"200\" y2=\"174\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"124.35\" y=\"44\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Dow Jones</text><rect x=\"132.35\" y=\"30\" width=\"67.65\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-1.23%</text></g><g><text x=\"163.4\" y=\"78\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">S&amp;P 500</text><rect x=\"171.4\" y=\"64\" width=\"28.6\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.52%</text></g><g><text x=\"176.05\" y=\"112\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Russell 2000</text><rect x=\"184.05\" y=\"98\" width=\"15.95\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.29%</text></g><g><text x=\"180.45\" y=\"146\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Nasdaq</text><rect x=\"188.45\" y=\"132\" width=\"11.549999999999999\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.21%</text></g><text x=\"8\" y=\"190\" font-size=\"11\" fill=\"#64748b\">One-day change, %, 23 Oct closes. Source: AP.</text><text x=\"8\" y=\"205\" font-size=\"11\" fill=\"#64748b\">Week: S&amp;P -0.5%, Nasdaq -0.7%, Dow +0.4%.</text></svg>"
+     },
+     {
+      "t": "story",
+      "title": "Jio's record close: most bids ever for India's largest IPO; the bell rings Wednesday",
+      "kicker": "IPOs, money"
+     },
+     {
+      "t": "p",
+      "html": "Jio Platforms' ₹30,213 crore all-fresh issue (₹1,065-1,119) closed Friday with the largest bid haul an Indian IPO has ever drawn. Two readings, each labelled by source: BSE's own final demand schedule, timestamped 6:58 PM Friday, shows the issue 9.73 times subscribed on its platform - institutions (QIBs) 33.33 times, non-institutional 4.09 times, retail 1.01 times, employees 1.05 times, Reliance shareholders 2.23 times, with 192.27 crore shares bid against 19.75 crore offered. Indian Express, citing consolidated stock-exchange data across both exchanges, reports 22.19 times overall, QIBs at 70.55 times and 438.26 crore shares bid - about ₹7.4 lakh crore of demand by Indian Express's accounting. Separately: the anchor allotment placed on 19 October was ₹8,110 crore, and the issue itself raises ₹30,213 crore - orders, allotments and proceeds are three different numbers here. Reuters calls it the most-subscribed Indian IPO with about $77 billion in bids. ET, citing a Safal Capital compilation, reports more than one crore applications - the first IPO anywhere to cross that mark, by its compilation. At the ₹1,119 cap, Jio is valued at about ₹10.3 lakh crore. Allotment is expected Monday 26 October; listing is Wednesday 28 October on BSE and NSE."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> retail barely crossed full subscription on BSE's platform (1.01 times) while institutions bid 33 times - if you applied in retail, your allotment odds are far better than the headlines imply. Wednesday's listing is also the market's verdict on whether ₹10.3 lakh crore is a floor or a ceiling for a tariff-hike growth story, and it lands the same day as the Fed."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the demand story was institutional, not retail - watch whether Wednesday's open prices the QIB book's conviction or the retail book's caution."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.bseindia.com/markets/publicissues/bsedemandschedule_new?Scripcode=8047&amp;status=L\" rel=\"noopener\" target=\"_blank\">BSE final demand schedule (official, read live)</a> / <a href=\"https://indianexpress.com/article/business/market/jio-ipo-subscribed-22-times-10934180/\" rel=\"noopener\" target=\"_blank\">Indian Express, 23 Oct</a> / <a href=\"https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087\" rel=\"noopener\" target=\"_blank\">Reuters via Investing.com</a> / <a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-breaks-12-records-rs-4-5-lakh-crore-bids-highest-applications-and-more/articleshow/135149311.cms\" rel=\"noopener\" target=\"_blank\">Economic Times, 23 Oct</a>"
+     },
+     {
+      "t": "story",
+      "title": "Infosys: a one-minute near-10% crash, then a guidance cut after the bell",
+      "kicker": "IT, earnings"
+     },
+     {
+      "t": "p",
+      "html": "At 10:38 AM Friday, Infosys printed down to ₹1,037.15 on BSE (₹1,038.05 on NSE, per EquityPandit) - about 9.9% below Thursday's BSE close of ₹1,151 - then recovered above ₹1,150 within minutes (BSE official session data; Business Upturn; EquityPandit). The explanations circulating - a wrong order, or forced margin-trading liquidation - are attribution from those reports, not established fact. The stock closed at ₹1,154.50, up 0.30% on the day (BSE). After the bell came the real news: Infosys cut FY27 constant-currency revenue guidance to 1-2% growth while keeping its 20-22% margin guide. The quarter itself was steady - PAT ₹7,823 crore, up 6.2%; revenue $5,145 million (₹49,244 crore), up 1.2% quarter on quarter in constant currency; operating margin 21.0%; deal wins $5.2 billion, 62% net new; AI now 10.5% of revenue, up 29% sequentially; free cash flow $928 million, 113.3% of profit - plus a ₹26 interim dividend (record 3 November, payout 11 November). All from the company's BSE filing, read at source."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> the guidance cut is the first hard evidence that the AI-spending wobble on Wall Street is reaching Indian IT order books - the exact transmission this paper flagged Thursday. And the flash crash is a market-structure lesson: a near-10% print that fully reverts in minutes is a liquidity event, not information; Monday's open is the real read on the cut."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> a guidance cut landing hours after a freak print will make two stories out of one stock - keep them separate: the 10:38 print tells you nothing about the business; the 1-2% guide tells you a lot."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://businessupturn.com/finance/stock-market/infosys-share-price-hits-rs1-038-lower-circuit-for-moments-on-nse-and-bse-then-snaps-back-above-rs1-150/\" rel=\"noopener\" target=\"_blank\">Business Upturn on the flash crash</a> / <a href=\"https://www.equitypandit.com/infosys-plunges-10-in-one-minute-then-snaps-back-inside-the-1038-am-flash-crash/\" rel=\"noopener\" target=\"_blank\">EquityPandit reconstruction</a> / <a href=\"https://morning-paper-zodo15s-projects.vercel.app/?c=c261023110539ae\" rel=\"noopener\" target=\"_blank\">Owning BSE filing, via the published card</a>"
+     },
+     {
+      "t": "story",
+      "title": "Swiggy -16.4%: the street stops funding Instamart's second engine",
+      "kicker": "Earnings, consumer internet"
+     },
+     {
+      "t": "p",
+      "html": "Swiggy fell 16.37% to ₹176.70 on BSE - its biggest single-day fall since February 2025 (CNBC-TV18), erasing about ₹9,000 crore of market value (ET). The trigger was Thursday's post-market results: Instamart's Adjusted EBITDA loss widened to ₹895 crore from ₹778 crore in the June quarter, with contribution margin deteriorating to -1.4% from -0.3%, even as net order value grew 13.4% sequentially and 69 new dark stores took the network to 1,240 (ET). Food delivery stayed strong - order value ₹10,054 crore, up 17.7% year on year, Adjusted EBITDA ₹341 crore at a record 3.4% margin - but the growth comparison stings: Eternal's order value grew 21.5% against Swiggy's 17.7%, and Eternal's stock rose 3.97% on Friday. Broker targets fell across the street: JM Financial and Nuvama to ₹200 (from ₹255), Nomura to ₹300 (from ₹435, still a Buy), Emkay to ₹310 (from ₹350); JM Financial said it saw \"zero rationale\" for the separate Toing app (losses ₹162 crore, up from ₹131 crore). Management's defence: losses peaked this quarter, and breakeven needs 2.3 times the current scale - about ₹6,000 crore of annualised order value against roughly ₹2,600 crore now, at ₹30 contribution per order."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> this is the market repricing how long it will fund the second engine of a two-engine business - the same question Meta got on Thursday. For anyone building consumer products, Swiggy's own number is the lesson: breakeven is 2.3x away, and the street just said it wants the path, not the promise."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> a record-margin core business fell 16% because of the business attached to it - the market is done grading on the strong half."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-wiped-out-in-a-day-why-swiggy-investors-are-losing-patience-with-instamart/articleshow/135136399.cms\" rel=\"noopener\" target=\"_blank\">ET on the selloff (read in full)</a> / <a href=\"https://www.cnbctv18.com/market/swiggy-share-price-target-cut-q2-results-net-loss-food-delivery-instamart-slow-growth-estimates-cut-record-low-20017496.htm\" rel=\"noopener\" target=\"_blank\">CNBC-TV18, 23 Oct</a> / <a href=\"https://www.swiggy.com/corporate/wp-content/uploads/2026/10/Q2-FY2027-Shareholder-letter.pdf\" rel=\"noopener\" target=\"_blank\">Swiggy shareholder letter (primary)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets: Friday's broadening slide",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The Sensex fell 126 points to 73,124 and the Nifty 88 points to 22,600 on Friday, but the headline hid the damage: the midcap index plunged 1,263 points (2.2%) to 55,801, the Bank Nifty fell 638 points (1.2%) to 54,287, and six stocks fell for every one that rose on the NSE (CNBC-TV18). Shriram Finance was the Nifty's biggest loser, down 4% as asset quality in its results worried the street; JSW Steel fell 2.6% despite a record quarter, falling with the metals complex. Foreign investors were net BUYERS of ₹887.65 crore and domestic institutions bought ₹3,235.36 crore (provisional exchange data, CNBC-TV18) - the broad fall came despite net institutional buying on both sides. The rupee fell 12 paise to a provisional 94.93 per dollar, a second straight down day, on crude and weak equities (PTI via The Hindu)."
+     },
+     {
+      "t": "callout",
+      "html": "The configuration to watch into Monday: crude at $116.72, a guidance cut from IT's biggest bellwether, three bank results landing today, and a Fed meeting Tuesday - with foreign investors, unusually, on the buy side."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 210\" width=\"100%\" role=\"img\" aria-label=\"Indian stock indexes, Friday 23 October 2026, per cent change\" style=\"margin:14px 0\"><line x1=\"200\" y1=\"26\" x2=\"200\" y2=\"174\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"70.45\" y=\"44\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Midcap 100</text><rect x=\"78.45\" y=\"30\" width=\"121.55\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-2.21%</text></g><g><text x=\"128.2\" y=\"78\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Bank Nifty</text><rect x=\"136.2\" y=\"64\" width=\"63.8\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-1.16%</text></g><g><text x=\"170.55\" y=\"112\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Nifty 50</text><rect x=\"178.55\" y=\"98\" width=\"21.45\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.39%</text></g><g><text x=\"182.65\" y=\"146\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Sensex</text><rect x=\"190.65\" y=\"132\" width=\"9.350000000000001\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.17%</text></g><text x=\"8\" y=\"190\" font-size=\"11\" fill=\"#64748b\">One-day change, %, 23 Oct closes. Sources: CNBC-TV18, BSE.</text><text x=\"8\" y=\"205\" font-size=\"11\" fill=\"#64748b\">Six declines for every advance on the NSE.</text></svg>"
+     }
+    ]
+   },
+   {
+    "heading": "Top movers, Friday 23 October",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Gainers: <strong>Cyient</strong> +7.40% (₹1,229.25) - September-quarter revenue up 25% year on year to ₹2,235 crore, record order intake in its DET business, up 20.8% year on year, a ₹12 interim dividend; profit fell 8% to ₹132 crore, and the street chose the growth (ET). <strong>Eternal</strong> +3.97% (₹317.00) - rebound after a two-day post-results slide, helped by the contrast with Swiggy's widening quick-commerce losses; no fresh company news. (Closing data: BSE official bhavcopy, 23 Oct.)"
+     },
+     {
+      "t": "p",
+      "html": "Losers: <strong>Swiggy</strong> -16.37% (₹176.70) - Instamart's widening loss and broker target cuts (front page). <strong>J&amp;K Bank</strong> -16.26% (₹113.05) - biggest fall since 4 June 2024: operating profit rose 26.7% to ₹789.14 crore and bad loans improved, but net interest margin contracted to 3.17% and core income growth was weak (CNBC-TV18). <strong>Atul</strong> -7.02% (₹5,578.40) - fell on its results day even as the board approved a ₹90 crore buyback (NSE filing). <strong>Ola Electric</strong> -6.39% (₹29.90) - no confirmed catalyst. (BSE official bhavcopy, 23 Oct.)"
+     },
+     {
+      "t": "p",
+      "html": "Most traded by value: State Bank of India (₹380 crore, -1.17%), Cyient (₹236 crore), NSE Ltd (₹232 crore), IndusInd Bank (₹195 crore), Eternal (₹186 crore), JSW Energy (₹181 crore), Voltas (₹163 crore), Swiggy (₹149 crore). (BSE official bhavcopy, 23 Oct.)"
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Closed Friday:</strong> Jio Platforms - final print above; allotment Monday, listing Wednesday."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Friday's four listings, four verdicts:</strong> Tonbo Imaging opened 66% above its ₹700 issue and held most of it, closing at ₹1,133.65 (+62%) - the defence-imaging demand story held (Business Standard; BSE data). Zetwerk opened at ₹159 against its ₹151 issue and sold off all day to close at ₹138.30, 8.4% BELOW the issue price. Bonfiglioli Transmissions opened flat at its ₹586 issue price and closed just under it at ₹576.35. Sahajanand Medical opened 7% above its ₹344 issue and added to it, closing at ₹378.20 (+9.9%). Four demand profiles, four different outcomes."
+     },
+     {
+      "t": "chart",
+      "svg": "<div role=\"img\" aria-label=\"Friday&#x27;s three IPO listings against their issue prices\" style=\"margin:16px 0;overflow-x:auto\"><table style=\"width:100%;border-collapse:collapse;font-size:12.5px;color:#334155\"><thead><tr style=\"text-align:left;color:#64748b\"><th style=\"padding:4px 8px 4px 0\">Issue</th><th style=\"padding:4px 8px\">Open</th><th style=\"padding:4px 8px\">Day high</th><th style=\"padding:4px 8px\">Close</th><th style=\"padding:4px 0\">vs issue</th></tr></thead><tbody><tr style=\"border-top:1px solid #e2e8f0\"><td style=\"padding:5px 8px 5px 0\">Tonbo Imaging (₹700 issue)</td><td style=\"padding:5px 8px\">₹1,162 (+66%)</td><td style=\"padding:5px 8px\">₹1,209.85</td><td style=\"padding:5px 8px\">₹1,133.65</td><td style=\"padding:5px 0;font-weight:600;color:#15803d\">+62.0%</td></tr><tr style=\"border-top:1px solid #e2e8f0\"><td style=\"padding:5px 8px 5px 0\">Zetwerk (₹151 issue)</td><td style=\"padding:5px 8px\">₹159 (+5.3%)</td><td style=\"padding:5px 8px\">₹160.50</td><td style=\"padding:5px 8px\">₹138.30</td><td style=\"padding:5px 0;font-weight:600;color:#b91c1c\">-8.4%</td></tr><tr style=\"border-top:1px solid #e2e8f0\"><td style=\"padding:5px 8px 5px 0\">Bonfiglioli (₹586 issue)</td><td style=\"padding:5px 8px\">₹586 (flat)</td><td style=\"padding:5px 8px\">₹607</td><td style=\"padding:5px 8px\">₹576.35</td><td style=\"padding:5px 0;font-weight:600;color:#b91c1c\">-1.6%</td></tr><tr style=\"border-top:1px solid #e2e8f0\"><td style=\"padding:5px 8px 5px 0\">Sahajanand Medical (₹344 issue)</td><td style=\"padding:5px 8px\">₹368.05 (+7.0%)</td><td style=\"padding:5px 8px\">₹409.95</td><td style=\"padding:5px 8px\">₹378.20</td><td style=\"padding:5px 0;font-weight:600;color:#15803d\">+9.9%</td></tr></tbody></table><div style=\"font-size:11px;color:#64748b;margin-top:6px;line-height:1.55\">Open, high and close: BSE official session data, Friday 23 October 2026. Issue prices: Tonbo ₹700, Zetwerk ₹151, Bonfiglioli ₹586, Sahajanand ₹344 (upper band, per Moneycontrol and Bajaj Broking).</div></div>"
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Declared with Friday's results: <strong>Cyient</strong> - interim dividend ₹12 per share. <strong>Infosys</strong> - interim dividend ₹26, record 3 November, payout 11 November. <strong>Atul</strong> - board approved a ₹90 crore buyback (NSE filing)."
+     },
+     {
+      "t": "p",
+      "html": "Carried forward: L&T Technology Services' ₹20 dividend goes ex on Tuesday 27 October; Nippon Life India AMC's ₹9.50 dividend has its record date Wednesday 28 October."
+     },
+     {
+      "t": "p",
+      "html": "Results today (Saturday): Kotak Mahindra Bank - Q2 with an earnings call scheduled today (company's NSE intimation, 19 Oct); also IDFC First Bank, AU Small Finance Bank and Castrol India (TotalMarket's results board from exchange filings). Sunday: public comments close on IRDAI's distribution-economics consultation paper (the listed deadline; Hindu BusinessLine reports an extension is possible)."
+     }
+    ]
+   },
+   {
+    "heading": "Friday's results",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "IndusInd Bank swings back to profit - the recovery quarter",
+      "kicker": "Banks"
+     },
+     {
+      "t": "p",
+      "html": "IndusInd Bank earned ₹1,242 crore in the September quarter against a ₹437 crore loss a year ago, beating estimates, with net interest income up 3.6% to ₹4,569 crore and gross NPAs down to 2.73% from 3.25% in the June quarter. The context: this is the bank that took a derivatives-accounting hit and a management change in early 2025; Friday's print is its clean-up working."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.cnbctv18.com/market/earnings/indusind-bank-q2-results-lender-swings-to-profit-as-gross-npa-falls-to-3-beats-estimates-20018253.htm\" rel=\"noopener\" target=\"_blank\">CNBC-TV18, 23 Oct</a>"
+     },
+     {
+      "t": "story",
+      "title": "Adani Power +134% - with a one-time boost inside",
+      "kicker": "Energy"
+     },
+     {
+      "t": "p",
+      "html": "Adani Power's consolidated profit jumped 134% year on year to ₹6,919 crore on revenue up 44% to ₹19,439 crore - on higher power sales, improved tariff realisations, and one-time revenue recognition from previous periods (The Hindu BusinessLine). Read it as a strong quarter with a non-recurring layer, not a doubled run-rate."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.thehindubusinessline.com/companies/adani-power-q2-results-net-profit-jumps-134-to-6919-cr/article71615422.ece\" rel=\"noopener\" target=\"_blank\">The Hindu BusinessLine, 23 Oct</a>"
+     },
+     {
+      "t": "story",
+      "title": "Dr Reddy's -36%: lenalidomide fades, semaglutide waits for November",
+      "kicker": "Pharma"
+     },
+     {
+      "t": "p",
+      "html": "Dr Reddy's consolidated profit fell 36% year on year to ₹925 crore (from ₹1,437 crore), on revenue down 1.5% to ₹8,671 crore (from ₹8,805 crore) - IFRS figures from the company's filing. The mechanism, per The Hindu: North America generics revenue fell 23% to ₹2,489 crore as sales of cancer drug lenalidomide declined - the patent-cliff mathematics of a blockbuster going generic. Management put the West Asia crisis's cost at about 100 basis points of EBITDA (key starting materials, solvents, freight), and said the halted generic semaglutide returns to Canada in November, with 6-7 million pen sales estimated across this fiscal's second half (The Hindu). The facility angle to track: two new US FDA observations at an Andhra Pradesh plant."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3787a62c-6056-45bf-a566-3851ca03f88c.pdf\" rel=\"noopener\" target=\"_blank\">Company filing on BSE (IFRS basis)</a> / <a href=\"https://www.thehindu.com/business/Industry/dr-reddys-q2-net-dips-32-to-913-cr-on-lower-revenue/article71617231.ece\" rel=\"noopener\" target=\"_blank\">The Hindu, 23 Oct (segment and management detail)</a>"
+     },
+     {
+      "t": "story",
+      "title": "BPCL's profit returns - but the LPG buffer tells the real story",
+      "kicker": "Energy, state-owned"
+     },
+     {
+      "t": "p",
+      "html": "BPCL filed standalone September-quarter profit of ₹4,993.17 crore (consolidated ₹4,863.05 crore), against a June-quarter loss of ₹3,962.13 crore - but still down 22.5% from ₹6,442.53 crore a year ago, as marketing margins stayed suppressed. The number inside the filing that matters more: a cumulative negative LPG buffer of ₹17,334.40 crore at 30 September - the under-recovery the company has absorbed selling LPG below cost - with ₹3,796.98 crore of government LPG compensation recognised in the half. Refinery throughput rose to 10.41 million tonnes from 9.82 million. How that buffer resolves runs through some mix of retail price changes, further government compensation and margins absorbing more; the filing quantifies the buffer, not the answer."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://nsearchives.nseindia.com/corporate/BPCL26_23102026191050_stexintimationoutcome231026s.pdf\" rel=\"noopener\" target=\"_blank\">BPCL results filed with NSE, 19:11 IST (primary)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Gold below $4,000 during a war scare - the paradox that explains 2026",
+      "kicker": "Macro mechanism"
+     },
+     {
+      "t": "p",
+      "html": "Gold should love a war scare. Instead it just had its worst week since June, with spot dipping under $4,000 an ounce intraday for the first time since mid-July, because the scare's second effect is bigger than its first: oil-driven inflation kills the rate-CUT path and, as of Friday, prices a 78% chance of a December HIKE (CME FedWatch, cited by CNBC). Higher-for-longer means a higher real yield on cash and bonds - and gold, which pays nothing, loses that contest even while missiles fly. Add the mechanical leg: Thursday's AI selloff triggered margin calls, and traders sell what they can, not what they want to - gold and silver fund the equity margin (Jim Wyckoff, American Gold Exchange). The India footnote: Dussehra-week buying picked up on the dip and premiums lifted, so Indian households bought what global funds sold (CNBC)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> if you hold gold as crisis insurance, this week repriced what it insures: it hedges chaos, not inflation-plus-hikes. For your SIP math, the same repricing hits long-duration equity first - which is why midcaps fell 2.2% on a day the Sensex fell 0.2%."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html\" rel=\"noopener\" target=\"_blank\">CNBC gold/Fed (read in full)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Case study - Tonbo Imaging: fourteen years to a 66% debut.</strong> Bengaluru's Tonbo Imaging listed Friday at ₹1,162 against its ₹700 issue, closing at ₹1,133.65 - a market value of about ₹6,656 crore (Moneycontrol) - after an IPO subscribed 135.9 times. The company began in 2012 when <a href=\"https://inc42.com/startups/uri-to-sindoor-how-tonbo-imaging-helped-forces-with-warfront-intel/\" rel=\"noopener\" target=\"_blank\">Arvind Lakshmikumar</a> - BITS Pilani, then a robotics PhD at Carnegie Mellon, then head of Sarnoff Corporation's India arm - regrouped his Sarnoff colleagues after the US research lab wound down its India operations in 2006. He first hired the team into Serial Innovations in 2010, then founded Tonbo with Ankit Kumar and Cecilia D'Souza in 2012, on ₹2.2 crore of seed money from Mumbai Angels and Blume's founders. The turn that made it: dropping a broad imaging menu to double down on autonomous defence vision - thermal sights and targeting systems, including kits for Zu-23 air-defence guns - with the company saying its systems were used in the Uri surgical strike and Operation Sindoor (company claims, reported by Inc42). The economics: a roughly ₹400 crore business by 2025 (Inc42), built on defence procurement's slow, sticky contracts - brutal sales cycles, near-unbreakable incumbency once inducted. The lesson in one line: deep-tech patience compounds; Tonbo spent six years finding the wedge and eight defending it. (Sources: Inc42's June 2025 profile, the IPO RHP on BSE, Business Standard, Moneycontrol.)"
+     },
+     {
+      "t": "p",
+      "html": "<strong>The insight:</strong> this week's funding pattern is \"AI for the frontline workforce\": Firstwork raised a $15 million Series A led by Earlybird (with Legion, Deel Ventures, Gradient and Y Combinator - $20 million total since 2024) for AI agents that run document checks, onboarding and compliance for deskless workers (company announcement); days earlier Hyderabad's Hunar.AI took ₹3 crore from haf.vc for voice-and-WhatsApp hiring agents (YourStory). Two continents, same thesis: the next AI budget is the blue-collar HR stack, not the white-collar one. Also raised: SpectraGaze Systems, an Ahmedabad startup founded by former ISRO scientist Arup Banerjee, ₹3.7 crore from GVFL for indigenous optical payloads - with ISRO itself as a customer (YourStory)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Opportunity signal:</strong> India's global capability centres are projected to grow from 2.3 million employees to 3.3-3.7 million by 2031 - a million-plus net new white-collar jobs, mostly outside the old IT-services model (Embark report, via YourStory). For an APM, the GCC is where product ownership is moving; for a founder, it is where the first ten enterprise customers now sit."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One startup idea:</strong> a fuel-shock pass-through calculator for India's fleet operators and logistics SMEs. With Brent at $116.72 and every $1 adding up to $2 billion to the national bill, thousands of small transporters are repricing contracts with no tool that converts crude moves into per-kilometre surcharge recommendations. Input: fleet profile, routes, contract terms. Output: a weekly surcharge sheet and a hedge-or-absorb call. First step: scrape five years of daily retail diesel prices against Brent and publish the lag structure - the data product alone finds the first hundred users."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Meta's bill, itemised: $34.9 billion of capex against $32.8 billion of cash",
+      "kicker": "The AI trade"
+     },
+     {
+      "t": "p",
+      "html": "Meta's own release, read at source, is cleaner than the headlines: September-quarter revenue $64.60 billion, up 26%; operating cash flow $32.79 billion; capital expenditure $34.91 billion - free cash flow NEGATIVE $2.12 billion, the crossover the market punished on Thursday (stock -7%, five-year credit-default swaps at record highs). The full-year capex guide is $135-145 billion, \"narrowed\" from $130-145 billion - the floor rose, the ceiling did not. Inside the quarter: a $9.89 billion charge for the 52-attorneys-general teen-safety settlement (up to $18.59 billion; GAAP EPS $3.83 against $7.40 excluding it), headcount down 15% year on year to 66,775, Q4 revenue guided to $73-76 billion, and no 2027 outlook - only \"continue investing aggressively\". Meta is also creating a new non-voting Class C share class (CNBC)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> the AI trade now has a quarterly exam: cash in versus cash out. Every AI vendor you buy from, and every IT-services order book you track, prices off Meta's answer - and Infosys's Friday guidance cut is the first Indian echo."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx\" rel=\"noopener\" target=\"_blank\">Meta Q3 press release (primary, read in full)</a> / <a href=\"https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html\" rel=\"noopener\" target=\"_blank\">CNBC on Meta</a>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Radar, last 24-48 hours:</strong> Recursive, a startup building self-improving AI, released Flint - a free coding model that runs on a laptop, built largely by its own automated research system (\"Eureka Machine\") in under four months (TechCrunch, 21 October; vendor claims, not independently tested). OpenAI announced a safety and security partnership with Poland's NASK research institute (OpenAI, 23 October - vendor announcement). Solo.io launched \"agentshield\", infrastructure to contain enterprise AI agents (vendor press release, 23 October - single-source). OpenAI's frontier models are coming to Google Cloud (OpenAI's blog, 21 October - vendor announcement). X was not accessible from our side this morning; the radar above is from vendor pages and TechCrunch, labelled as such."
+     }
+    ]
+   },
+   {
+    "heading": "New AI tools, verified launches",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Flint: a coding model your laptop can run, written mostly by AI",
+      "kicker": "Launched 21 October"
+     },
+     {
+      "t": "p",
+      "html": "Recursive - an AI startup founded last year to build self-improving systems - released Flint on Wednesday: a free coding model that runs locally on a laptop, which the company says was built largely by its automated research system, the \"Eureka Machine\", letting a small team produce it from scratch in under four months (TechCrunch). Vendor claims, dated, not independently benchmarked - what would count as verification: public model weights plus third-party coding-benchmark runs. The story is less the model than the method: if a handful of researchers with an automated pipeline can ship a usable coding model in a quarter, the cost of producing models is falling as fast as the cost of using them."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/\" rel=\"noopener\" target=\"_blank\">TechCrunch, 21 Oct</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Flint's practical meaning for your stack: a free, local coding model removes the two frictions that keep prototypes dependent on hosted APIs - per-call cost and data leaving the machine. If the weights publish, the test is an afternoon: point your editor's local-model slot at it, run your ten hardest real prompts (not the demo kind), and compare against your current assistant on acceptance rate. Until independent benchmarks exist, treat \"frontier-class\" as marketing; the verified, usable facts are the price (free), the footprint (a laptop) and the method (AI-built in four months)."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Saturday: money)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Find your money leaks with an AI subscription audit (about 20 minutes).</strong> Export three months of your bank or card statement as a CSV, remove the account numbers, and paste only the merchant names and amounts into your AI chat. Ask: \"Cluster these by merchant, flag anything recurring more than twice, and list subscriptions I have not used a linked service keyword for in 90 days.\" Then ask it to draft the cancellation messages. A good result: a table of every recurring debit with monthly and annual cost, at least one forgotten subscription found, and cancel drafts you can send. What a bad result looks like: the model inventing subscriptions that are not in your data - so keep its output tied to the pasted rows, and never paste card numbers, account numbers or OTPs into any AI tool."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: the availability heuristic",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 1973, Amos Tversky and Daniel Kahneman asked people a simple question: are there more English words that start with K, or that have K as the third letter? Most said the first - though the second is about twice as common - because words starting with K come to mind more easily. Their paper (\"Availability: A Heuristic for Judging Frequency and Probability\", Cognitive Psychology, 1973) named the mechanism the availability heuristic: we judge how likely something is by how easily an example comes to mind, not by how often it actually happens."
+     },
+     {
+      "t": "p",
+      "html": "The human story that proves it matters: after a flood or an earthquake, insurance sales spike - not because risk changed, but because the picture is vivid. Kunreuther and colleagues documented this in US flood insurance, and <a href=\"https://www.aeaweb.org/articles?id=10.1257/app.6.3.206\" rel=\"noopener\" target=\"_blank\">Gallagher's study of the national flood programme</a> measured it: demand jumps right after a flood, then steadily declines back toward baseline as memory fades - people buy the most cover when the vivid event has already passed and skip it as the quiet risk rebuilds. Oil markets this week are running the same program: two days of attack footage lifted Brent about $6.7, while the duller fact - Hormuz flows near normal - sat in paragraph eleven."
+     },
+     {
+      "t": "p",
+      "html": "The applications reach your desk. In insurance distribution, the availability spike is the best and worst time to sell: demand arrives uninvited after every flood, but the policies bought in a panic lapse when the memory fades - persistency teams know the cohort. In product work, one vivid complaint in a review meeting outvotes a thousand quiet data points. In markets, the vivid event (missiles) reprices faster than the statistical one (flows)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The decision rule:</strong> when a vivid event moves a price or a decision, ask for the base rate before acting - what actually happened to supply, frequency or numbers last time - and treat how easily examples come to mind as a warning light, not evidence."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Sixty-second recall:</strong> close the page and answer: (1) What is the availability heuristic? (2) The K-letter experiment's result? (3) What happens to flood-insurance demand after a flood, as the months pass? (4) The decision rule, in one sentence. Answers: (1) judging likelihood by ease of recall rather than frequency. (2) people overcount words starting with K versus K-third-letter words, though the latter are twice as common. (3) demand spikes after the event, then steadily declines toward baseline as memory fades. (4) when vividness moves a decision, check the base rate first."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: price band",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The daily limit an exchange sets on how far a stock can move in a session. For most Indian stocks it is a fixed band - 2%, 5%, 10% or 20% either side of the previous close - and the price cannot trade beyond it that day. Stocks in the futures-and-options segment, and Infosys is one, have no fixed band at all: instead a dynamic operating range starts at 10% either side of the previous close - a filter against erroneous orders, not a guaranteed wall - and, when the price approaches the edge, the exchange can relax it in 5% steps during the day, in co-ordination with the other exchange (<a href=\"https://www.nseindia.com/static/products-services/equity-market-price-bands\" rel=\"noopener\" target=\"_blank\">NSE's price-band page</a>; <a href=\"https://www.nseindia.com/static/trade/price-band-operating-range-flex-faqs\" rel=\"noopener\" target=\"_blank\">flex FAQ</a>). Friday's 10:38 AM Infosys print - about 9.9% below the previous close - sat just inside that initial range, and the price rebounded within minutes. Watch for the term \"circuit filter\": that name belongs to the fixed-band system."
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. The oil story is being read as supply; it is actually insurance. Hormuz flows are near normal (MUFG's read on Friday), so the roughly $6.7 weekly move in Brent is a premium for a strike that has not happened - and premiums answer to headlines, not inventories. If the weekend passes with no new attack and Wednesday's Fed statement keeps December live without committing, I expect Monday to open soft on the Infosys cut and Saturday's bank results, then stabilise: the Nifty holds above 22,400, with banks deciding the day on Kotak's margin print. My falsifiable marker: if Brent gaps above $120 before Monday's open, or if Kotak reports a margin contraction with management guiding weaker, the stabilisation read is wrong and 22,400 does not hold."
+     },
+     {
+      "t": "p",
+      "html": "Scoreboard on Friday's marker: mixed, honestly counted. I said financials would keep their relative strength and the IPO listings would trade weak. The listings leg half-held - Zetwerk closed 8.4% under its issue price and Bonfiglioli under its issue price as called, but Tonbo held a 62% listing-day gain and Sahajanand closed up 9.9%. The financials leg broke: the Bank Nifty fell 1.2% against the Nifty's 0.4% as Shriram's asset-quality print repriced lenders ahead of today's bank results. One leg each way."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Jio lists Wednesday: the same morning as the Fed decision. Watch the open against the ₹1,119 cap and the ₹10.3 lakh crore valuation - a strong debut pulls index money toward the RIL complex; a weak one lands on a day the Fed could sour everything anyway. Wrong if the Fed dominates so completely that the listing tracks the index instead of the book.",
+       "The December hike repricing: 78% priced as of Friday (CME FedWatch via CNBC). The chain runs oil to inflation to the Fed; the PCE inflation report on 29 October is the next hard input. Wrong if Brent gives back the week before Wednesday, deflating the inflation argument.",
+       "US strikes on Iran \"after the midterm elections\" - US officials to the New York Times, carried by CNBC; Trump says \"fairly soon\". Aramco's Dhahran evacuation and the State Department pullout are the on-the-ground version of the same expectation. Wrong if the interim-deal track revives - the 60-day clock signed in late June has already survived one unravelling."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Today, Sat 24 Oct: results - Kotak Mahindra Bank (earnings call today), IDFC First Bank, AU Small Finance Bank, Castrol India.",
+       "Sun 25 Oct: public comments close on IRDAI's distribution-economics consultation paper.",
+       "Mon 26 Oct: Jio Platforms IPO allotment expected; first session to price the Infosys guidance cut and Saturday's bank results.",
+       "Tue 27 Oct: L&T Technology Services ₹20 dividend goes ex; the Fed's two-day meeting begins.",
+       "Wed 28 Oct: Jio Platforms lists on BSE and NSE; Fed decision and Powell's press conference; Nippon Life India AMC dividend record date.",
+       "Thu 29 Oct: US PCE inflation report - the Fed's preferred gauge, and the December repricing's next test."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Verification note: our web-fetch tool was down all morning, so every load-bearing story above was read in full in a live browser session - BSE's official Jio demand schedule, Meta's own press release, CNBC's oil and gold reports, AP's index levels and war timeline, and The National's Gulf coverage. Excerpt-only items are marked with their source and date.",
+       "Jio subscription figures are presented in two labelled readings: BSE's own final demand schedule (timestamped 6:58 PM Friday) and Indian Express's consolidated cross-exchange report; they are different cuts of the demand, not an error.",
+       "X was not accessed for this edition; the launch radar uses vendor pages and TechCrunch, with vendor claims labelled and dated.",
+       "Swiggy's percentage moves: the official BSE close (-16.37%) is used everywhere; intraday snapshots cited by other outlets are labelled with their times where mentioned.",
+       "Markets are watchlist-only. Nothing here is a tip, a target or a buy/sell call."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Edition 19. The long read: \"The premium, not the shortage\" - what $116 oil actually costs India, worked out barrel by barrel."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": null
+}
