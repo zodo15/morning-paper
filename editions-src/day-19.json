@@ -490,9 +490,11 @@
   ]
  },
  "audio": {
-  "quick": "audio/d19-quick.m4a"
+  "quick": "audio/d19-quick.m4a",
+  "full": "audio/d19-full.m4a"
  },
  "times": {
-  "quick": "audio/d19-quick.times.json"
+  "quick": "audio/d19-quick.times.json",
+  "full": "audio/d19-full.times.json"
  }
 }
