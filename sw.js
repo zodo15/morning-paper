@@ -2,7 +2,7 @@
    - Shell + data: network first (a new edition shows up the moment it is published), cached copy when offline.
    - Fonts, photos, icons: cache first, filled as you read (so every edition you opened works offline).
    - Audio: never cached here (large, range requests); it needs a connection. */
-var VERSION = 'mp-v47';
+var VERSION = 'mp-v48';
 var SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'data/editions.js', 'data/lraudio.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/apple-touch-icon.png',
   'fonts/fraunces-var.woff2', 'fonts/inter-var.woff2', 'fonts/sourceserif4-var.woff2'];
