@@ -3523,5 +3523,139 @@
     "full": "audio/lr19-full.times.json"
    }
   }
+ },
+ "20": {
+  "title": "The chairman's to-do list",
+  "fact": "The long read, Sunday 25 October 2026. SEBI chairman Tuhin Kanta Pandey has laid out an unusually specific market-plumbing agenda: tokenised corporate bonds, a short-selling review, graded broker compliance and rules for market AI. None of it is a rule yet. This is the story of the list, what each item would actually change, and what would prove it is only a speech.",
+  "intro": "One argument, worked through: the speech matters less for what it announced than for what it made measurable. Every item now has a next observable step, and the next two SEBI board meetings will tell you which reading was right.",
+  "groups": [
+   {
+    "heading": "The room",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "ANMI's International Capital Market Convention - the broking industry's own gathering, at its sixteenth edition this year - is where SEBI's chairman, <a href=\"https://www.sebi.gov.in/media-and-notifications/speeches/oct-2026/address-by-chairman-at-anmi-convention_105415.html\" target=\"_blank\" rel=\"noopener\">Tuhin Kanta Pandey</a>, used the stage to read out what amounts to a work order for the market's next rebuild. Not a vision speech about grand themes: four specific plumbing jobs, each with a named mechanism, plus a side note on making it easier for non-resident Indians to open accounts."
+     },
+     {
+      "t": "p",
+      "html": "The audience matters for reading the speech. Brokers are the industry that carries the compliance load, operates the lending desks and will run - or resist - every one of these changes. A chairman who tells this room that compliance will be graded by size, and that short-selling rules are under review, is not testing slogans. He is telling the people who will have to build it."
+     },
+     {
+      "t": "p",
+      "html": "Here is what is on the list, what each item really does, and what has to happen next for any of it to be real."
+     }
+    ]
+   },
+   {
+    "heading": "Job one: bonds that ordinary people can actually trade",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "India's corporate-bond market is big and strangely invisible. About Rs 61 lakh crore is outstanding - the chairman's own figure - and almost none of it trades where a saver can see it. The market runs institution to institution, over the phone and through dealers, in ticket sizes a household cannot touch. A fixed deposit is simple but locks you in; equity is liquid but volatile; the bond in between, which should be the natural third asset, is effectively closed to retail."
+     },
+     {
+      "t": "p",
+      "html": "The chairman's answer has a name: <strong>Demat 2.0</strong>. In the 1990s, dematerialisation took share certificates out of paper and put them in electronic accounts, and equity trading exploded. Demat 2.0 proposes the same move for bonds - tokenised corporate bonds, represented digitally, tradeable in small pieces, with a secondary-trading framework so a holder can sell before maturity. The speech confirms secondary trading as part of the design, not an afterthought."
+     },
+     {
+      "t": "p",
+      "html": "To see what is actually being promised, walk one transaction through both worlds. Today: you want to lend Rs 10 lakh to a solid company for three years. Practically, you cannot - not directly. Your bank will sell you a deposit, your broker will sell you a bond fund that holds hundreds of names you never chose, and the underlying bond trades in lots sized for institutions. Under the proposal: that company's bond exists as tokens, your Rs 10 lakh buys a slice at a screen price, and if you need out in year two, a market-maker quotes you a bid. The bond stops being a vault and becomes an instrument."
+     },
+     {
+      "t": "p",
+      "html": "Two dependencies decide whether this is real. First, market-makers - the speech separately lists a bond market-making framework, and it is the unglamorous half of the idea, because a token nobody quotes is a fixed deposit with extra steps. Second, the small print on credit risk: a retail-tradable bond market also makes it easier to sell weak paper to the least protected buyer. How the framework grades issuers will matter as much as the token itself."
+     }
+    ]
+   },
+   {
+    "heading": "Job two: let the market argue with itself",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "India is one of the world's most bullish markets structurally: betting against a stock is hard, expensive and rare. The mechanism for it - securities lending and borrowing, SLB, the pipe through which you borrow shares to sell them short - exists but stays thin, while futures and options carry most of the scepticism. The chairman said the short-selling framework and SLB are under review."
+     },
+     {
+      "t": "p",
+      "html": "Why a regulator would want stronger shorts is not cynicism; it is price discovery. A market where doubt is expensive is a market where bad stories last longer. When sceptics cannot borrow stock cheaply, the first honest signal of trouble arrives late and all at once - as this paper's readers saw in Friday's flash crash, where price discovery briefly broke in the other direction. A working SLB market lets the bear case get priced gradually instead of detonating."
+     },
+     {
+      "t": "p",
+      "html": "Watch for the review's shape: borrow costs, eligible-stock lists, and whether large shareholders are nudged to lend idle stock. If the review ends in a consultation paper with real relaxations, crowded long trades get a new counterweight. If it ends in a study, nothing changes."
+     }
+    ]
+   },
+   {
+    "heading": "Job three: one rulebook, sized to fit",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Ask a two-branch brokerage what compliance costs and you get a number that decides whether the firm survives; ask a bank-owned giant and you get a department. The chairman told the room - the room that pays these bills - that SEBI is exploring graded compliance: obligations scaled to the size and risk of the intermediary."
+     },
+     {
+      "t": "p",
+      "html": "This is the item with the most immediate constituency and the least public glamour. Its second-order effect is competition: a compliance load that is flat in size is a moat for the big and a wall for the small. Grading it changes how many brokers can exist, which changes what distribution costs - and in a country where the same firms distribute mutual funds, bonds and insurance, that cost eventually reaches every saver's statement."
+     }
+    ]
+   },
+   {
+    "heading": "Job four: rules for the machines",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The last item is the one with the strangest timing. Market intermediaries are already running AI - in surveillance, in client onboarding, in robo-advice, in order routing - and the regulator's rulebook for it is a blank page. The chairman announced two fills: a regulatory sandbox, supervised space where market AI can be tested with real users under the regulator's eye, and responsible-AI guidelines now being finalised - tiered by risk, with kill switches, aligned with IOSCO, the global club of securities regulators."
+     },
+     {
+      "t": "p",
+      "html": "The detail to hold is \"kill switches\". A guideline that requires a market AI to be stoppable is a guideline written by someone who has read the failure modes: models do not get tired or conflicted; they get wrong, at scale, at machine speed. Tiering matters for the same reason - a chatbot answering account questions and a model routing institutional orders are not the same risk, and a flat rule would either strangle the first or under-police the second."
+     }
+    ]
+   },
+   {
+    "heading": "What would prove the speech wrong",
+    "blocks": [
+     {
+      "t": "chart",
+      "svg": "<div role=\"img\" aria-label=\"The typical path a SEBI idea travels from speech to rule\" style=\"margin:16px 0\"><div style=\"display:flex;gap:10px;align-items:flex-start;margin-bottom:10px\"><div style=\"min-width:10px;height:10px;border-radius:5px;background:#0f766e;margin-top:5px\"></div><div style=\"font-size:12.5px;color:#334155;line-height:1.5\"><strong>1. Speech or agenda.</strong> The chairman signals intent. Every item on this list is here today.</div></div><div style=\"display:flex;gap:10px;align-items:flex-start;margin-bottom:10px\"><div style=\"min-width:10px;height:10px;border-radius:5px;background:#94a3b8;margin-top:5px\"></div><div style=\"font-size:12.5px;color:#334155;line-height:1.5\"><strong>2. Consultation paper.</strong> The first hard test: a published proposal, with a public comment window.</div></div><div style=\"display:flex;gap:10px;align-items:flex-start;margin-bottom:10px\"><div style=\"min-width:10px;height:10px;border-radius:5px;background:#94a3b8;margin-top:5px\"></div><div style=\"font-size:12.5px;color:#334155;line-height:1.5\"><strong>3. Board approval.</strong> SEBI's board votes. Watch the agenda papers of the next two meetings.</div></div><div style=\"display:flex;gap:10px;align-items:flex-start;margin-bottom:10px\"><div style=\"min-width:10px;height:10px;border-radius:5px;background:#94a3b8;margin-top:5px\"></div><div style=\"font-size:12.5px;color:#334155;line-height:1.5\"><strong>4. Circular.</strong> The operative rule, with an effective date. Only this changes behaviour.</div></div><div style=\"font-size:11px;color:#64748b;line-height:1.55\">The standard SEBI rulemaking path, drawn for this article. The chairman\\'s four items sit at step one; nothing here is a rule yet.</div></div>"
+     },
+     {
+      "t": "p",
+      "html": "A SEBI idea travels a known road: signal, consultation paper, board approval, circular. The chairman's four items are at the first step, which is why the honest reading of this speech is not \"reform is coming\" but \"reform is now measurable\". Here is the checklist the speech itself hands you:"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Demat 2.0 is real if</strong> a consultation paper on tokenised bonds and secondary trading appears - and if the market-making framework arrives with it, not a year later. It is a slogan if the token gets piloted without anyone obligated to quote a bid."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The short-selling review is real if</strong> it ends in published proposals on borrow costs and eligible stock - and a slogan if it ends in a committee. <strong>Graded compliance is real if</strong> the next broker-regulation amendments actually sort obligations by size. <strong>The AI framework is real if</strong> the guidelines land with the promised tiering and kill switches rather than a blanket registration form."
+     },
+     {
+      "t": "p",
+      "html": "The next two SEBI board meetings are the window. If none of the four appears in the agenda papers, the correct reading of the ANMI speech is that it was a speech. If even two of the four show up as consultation papers, the correct reading is that the market's plumbing is about to be rebuilt - and the winners are the saver who gets a third asset, the small broker who gets to keep existing, and the sceptic who finally gets to borrow."
+     },
+     {
+      "t": "p",
+      "html": "A speech that hands you its own test is rare. This one did. The board-meeting agenda papers are where to grade it."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792828724497.pdf\" target=\"_blank\" rel=\"noopener\">Speech text, SEBI website (primary, read in full)</a> / <a href=\"https://www.sebi.gov.in/media-and-notifications/speeches/oct-2026/address-by-chairman-at-anmi-convention_105415.html\" target=\"_blank\" rel=\"noopener\">Speech page</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Notes",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Every claim about the agenda in this article comes from the published speech text, read in full, on SEBI's website. The illustrative bond transaction describes the proposal's design as announced; no framework documents exist yet, so mechanics such as lot sizes and market-maker obligations are what to watch for in consultation papers, not facts. The Rs 61-lakh-crore corporate-bond figure is the chairman's, from the speech."
+     },
+     {
+      "t": "closing",
+      "html": "Slow Burn long read, Sunday 25 October 2026. The daily paper: \"Three banks deliver, the Gulf bristles\"."
+     }
+    ]
+   }
+  ]
  }
 }
