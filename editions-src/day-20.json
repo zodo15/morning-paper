@@ -7,7 +7,7 @@
  },
  "edition": {
   "title": "Slow Burn - Sunday 25 October 2026",
-  "fact": "Edition 20. Three banks deliver, the Gulf bristles. Sunday 25 October 2026, the deep edition: Iran's army chief threatens US warships as tankers hit mines and the Houthis hit Riyadh again, with Brent closed at $116.72; Kotak Mahindra Bank, AU Small Finance Bank and IDFC First Bank all grow profit sharply; SEBI's chairman lays out a four-part market road map, every item still at the agenda stage; Jio Platforms allotments land Monday ahead of Wednesday's listing; and two weekend AI launches arrive with vendor claims labelled.",
+  "fact": "Edition 20. Three banks deliver, the Gulf bristles. Sunday 25 October 2026, the deep edition: Iran's army chief threatens US warships as tankers hit mines and the Houthis hit Riyadh again, with Brent closed at $116.72; Kotak Mahindra Bank, AU Small Finance Bank and IDFC First Bank all grow profit sharply; SEBI's chairman lays out a four-part market road map, every item still at the agenda stage; Jio Platforms allotments land Monday ahead of Wednesday's listing; and fresh AI model claims from Kimi and Block, vendor labels attached.",
   "intro": "The 5-minute lead route is first; sections carry the detail. This is the deep edition: the week's two stories - the oil premium and the results season - met on Saturday, and Monday's open is where they get priced. The long read goes inside SEBI chairman Tuhin Kanta Pandey's to-do list for India's market plumbing.",
   "hero": null,
   "concept": {
@@ -45,7 +45,7 @@
      },
      {
       "t": "p",
-      "html": "<strong>Weekend AI:</strong> Moonshot's Kimi K3.1 Pro - a 3-trillion-class open-weight model with weights promised by 4 November - and Block's Dessa, a voice model trained only on speech. Vendor claims, labelled."
+      "html": "<strong>AI race:</strong> Moonshot's Kimi K3.1 Pro - a 3-trillion-class open-weight model with weights promised by 4 November - and Block's Dessa, a voice model trained only on speech. Vendor claims, labelled."
      },
      {
       "t": "p",
@@ -160,8 +160,8 @@
      },
      {
       "t": "story",
-      "title": "Weekend AI: a 3-trillion-class open model and a voice model trained only on speech",
-      "kicker": "AI, launches"
+      "title": "AI race: a 3-trillion-class open model and a voice model trained only on speech",
+      "kicker": "AI, models"
      },
      {
       "t": "p",
@@ -173,7 +173,7 @@
      },
      {
       "t": "p",
-      "html": "<strong>Editor's takeaway:</strong> both launches are claims until the weights and the demos ship - the dates to hold are 4 November (Kimi weights) and Dessa's first public third-party test."
+      "html": "<strong>Editor's takeaway:</strong> both sets of capability claims stay vendor-labelled until third parties test them outside the makers' own pages - the date to hold is 4 November, when Kimi says the open weights arrive; for Dessa, Block promises more recordings on X."
      },
      {
       "t": "p",
@@ -186,7 +186,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "Friday's closes, the last prints before this weekend's escalation: the Dow fell 652.82 points (1.23%) to 52,215.16, the S&amp;P 500 lost 0.52% to 7,623.68 and the Nasdaq 0.21% to 25,955.34, as US crude topped $100 and the selloff broadened out of tech into staples, utilities and healthcare; on the week the S&amp;P lost 0.5%, the Nasdaq 0.7%, the Dow gained 0.4% (CNBC's post-close wrap; AP's levels). The VIX - Wall Street's fear gauge, the price of S&amp;P options - closed its week above 20 for the first time since early June. American Express fell more than 3% after saying it would cut about 5% of its workforce to \"prepare for AI\". In India: the Sensex slipped 126 points to 73,124, the Nifty 88 to 22,600, but the midcap index plunged 2.2% and the Bank Nifty 1.2%, with six declines for every advance (CNBC-TV18); BSE's own snapshot shows the Bankex down 1.10% and its IT index down 0.66%. Foreign investors were net buyers of Rs 887.65 crore and domestic institutions of Rs 3,235.36 crore (provisional exchange data) - the fall came despite institutional buying on both sides. The rupee fell 12 paise to a provisional 94.93 per dollar (PTI via The Hindu). Gold, the paradox of the week, dipped under $4,000 an ounce intraday for the first time since mid-July - because an oil-driven inflation scare kills the rate-cut path and raises real yields, which is poison for a metal that pays nothing; futures even price a 78% chance of a December rate HIKE (CME FedWatch, cited by CNBC Friday)."
+      "html": "Friday's closes, the last prints before this weekend's escalation: the Dow fell 652.82 points (1.23%) to 52,215.16, the S&amp;P 500 lost 0.52% to 7,623.68 and the Nasdaq 0.21% to 25,955.34, as US crude topped $100 and the selloff broadened out of tech into staples, utilities and healthcare; on the week the S&amp;P lost 0.5%, the Nasdaq 0.7%, the Dow gained 0.4% (CNBC's post-close wrap; AP's levels). The VIX - Wall Street's fear gauge, the price of S&amp;P options - crossed 20 intraday on Thursday and again on Friday, touching 20.66, but settled Friday at 19.45, below last Friday's 19.99: the first weekly close above 20 since June that CNBC had on track did not materialize at the official close (CBOE's official daily data). American Express fell more than 3% after saying it would cut about 5% of its workforce to \"prepare for AI\". In India: the Sensex slipped 126 points to 73,124, the Nifty 88 to 22,600, but the midcap index plunged 2.2% and the Bank Nifty 1.2%, with six declines for every advance (CNBC-TV18); BSE's own snapshot shows the Bankex down 1.10% and its IT index down 0.66%. Foreign investors were net buyers of Rs 887.65 crore and domestic institutions of Rs 3,235.36 crore (provisional exchange data) - the fall came despite institutional buying on both sides. The rupee fell 12 paise to a provisional 94.93 per dollar (PTI via The Hindu). Gold, the paradox of the week, dipped under $4,000 an ounce intraday for the first time since mid-July - because an oil-driven inflation scare kills the rate-cut path and raises real yields, which is poison for a metal that pays nothing; futures even price a 78% chance of a December rate HIKE (CME FedWatch, cited by CNBC Friday)."
      },
      {
       "t": "p",
@@ -199,6 +199,10 @@
      {
       "t": "chart",
       "svg": "<svg viewBox=\"0 0 380 216\" width=\"100%\" role=\"img\" aria-label=\"US stock indexes, Friday 23 October 2026, per cent change\" style=\"margin:14px 0\"><line x1=\"200\" y1=\"26\" x2=\"200\" y2=\"174\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"124.35\" y=\"44\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Dow Jones</text><rect x=\"132.35\" y=\"30\" width=\"67.65\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-1.23%</text></g><g><text x=\"163.4\" y=\"78\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">S&amp;P 500</text><rect x=\"171.4\" y=\"64\" width=\"28.6\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.52%</text></g><g><text x=\"176.05\" y=\"112\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Russell 2000</text><rect x=\"184.05\" y=\"98\" width=\"15.95\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.29%</text></g><g><text x=\"180.45\" y=\"146\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Nasdaq</text><rect x=\"188.45\" y=\"132\" width=\"11.549999999999999\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.21%</text></g><text x=\"8\" y=\"194\" font-size=\"11\" fill=\"#64748b\">One-day change, %, 23 Oct closes. Sources: CNBC post-close wrap, AP.</text><text x=\"8\" y=\"209\" font-size=\"11\" fill=\"#64748b\">Week: S&amp;P -0.5%, Nasdaq -0.7%, Dow +0.4%.</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html\" target=\"_blank\" rel=\"noopener\">CNBC post-close wrap (on-track VIX framing)</a> / <a href=\"https://www.cboe.com/tradable_products/vix/vix_historical_data/\" target=\"_blank\" rel=\"noopener\">CBOE VIX official daily data</a>"
      }
     ]
    },
@@ -388,15 +392,23 @@
     "blocks": [
      {
       "t": "p",
-      "html": "<em>Research, not advice. Conditional setups on cash stocks with named triggers and stops; no orders are placed by this desk; outcomes are scored honestly in the linked ledger. No Saturday session means no new price data - the levels below are the standing board into Monday.</em>"
+      "html": "<em>Research, not advice. This is the standing board into Monday, printed in full: one qualified setup, five watchlist names with named triggers, three left out with reasons. The frame is five setup slots plus five on watch, and empty slots stay empty rather than forcing picks. No orders are placed by this desk; every call is scored in the standing ledger. No Saturday session means no new price data - these are Friday's levels.</em>"
      },
      {
       "t": "p",
-      "html": "<strong>On watch from Friday's board:</strong> Kotak Mahindra Bank - Saturday's profit beat with the margin question attached now sits against the published trigger zone at Rs 437.55 and the invalidation at Rs 420; Monday's reaction is the test. HCL Technologies - the published zone is Rs 1,351-1,378 with a stop at Rs 1,346.90 and a target of Rs 1,466.80; validity runs to Friday 30 October. Tech Mahindra - trigger at Rs 1,845.95; the bonus record date is still unannounced. ONGC - the coil at Rs 218.50-238.75 resolves with crude, which is the week's loudest variable. Infosys - the qualitative call: how Monday prices Friday's guidance cut, against a flash crash that said nothing about the business."
+      "html": "<strong>The one qualified setup - HCL Technologies.</strong> A conditional entry at Rs 1,351-1,378 (the post-results shelf), stop Rs 1,346.90, target Rs 1,466.80 (the adjusted 20-session high); risk-reward about 1:2.4-2.5 net of verified costs at the worst permitted fill of 1,378. It activates only if price trades into the zone with no prior-day trade at or below the stop first; if the zone and the stop first trade on the same day, the order is unknowable from daily data and conservative scoring assumes the worst fill, then the stop. Validity lapses untriggered after Friday 30 October. Infosys's Friday-night guidance cut is precisely the scenario that could fill it at Monday's open - or gap it away."
      },
      {
       "t": "p",
-      "html": "The full research file - setups, scoring rules, the reconciliation of every level - is the linked ledger: <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 October</a>."
+      "html": "<strong>On watch, triggers named, none a setup yet.</strong> ONGC (Rs 226.00) - a three-week coil inside 218.50-238.75 with crude as the driver; the trigger is a breakout above 228 with crude holding, but at that fill a structural stop yields only about 1:1.76, below the screen, so it waits. JSW Steel (Rs 1,187.00) - a record Q2 at the owning release; the trigger is holding 1,158.95, then reclaiming 1,218.90-1,222.30; the risk-reward screens at about 1:1.2, and the promoter pledge rose to 12.25% of the promoter holding in the September quarter (BSE shareholding data). Infosys (Rs 1,154.50) - the trigger is deliberately qualitative: how Monday prices Friday's FY27 guidance cut to 1-2%; Friday's flash print is excluded from structure. Tech Mahindra (Rs 1,789.40) - the trigger is a reclaim of 1,845.95, Friday's high; the recommended 1:1 bonus still has no record date. Kotak Mahindra Bank (Rs 430.10) - Saturday's profit beat with the margin question attached: strength above Rs 437.55 keeps it live, weakness below Rs 420 shelves it, and Monday's reaction is the test."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Left out, with reasons.</strong> TCS - up 22% in October and above the only published broker target, so there is no honest risk-reward structure at Rs 2,528. Shriram Finance - a day-one post-results breakdown, with the 833.65-915.50 range unresolved. Wipro - the weakest verified fundamentals of the large-cap IT pack, bookings down 22.9% QoQ in its own release."
+     },
+     {
+      "t": "p",
+      "html": "<strong>What a trade costs.</strong> About 0.224% round trip in verified statutory charges on a BSE delivery trade, before brokerage; the worked HCLTech example nets about +Rs 8,546 against -Rs 3,432 per 100 shares at the worst permitted fill. Every level above is reconciled from the official BSE bhavcopy, and the full scoring rules and outcome log live in the standing ledger: <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 October</a>."
      }
     ]
    },
