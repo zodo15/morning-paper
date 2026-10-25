@@ -3551,7 +3551,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "India's corporate-bond market is big and strangely invisible. About Rs 61 lakh crore is outstanding - the chairman's own figure - and almost none of it trades where a saver can see it. The market runs institution to institution, over the phone and through dealers, in ticket sizes a household cannot touch. A fixed deposit is simple but locks you in; equity is liquid but volatile; the bond in between, which should be the natural third asset, is effectively closed to retail."
+      "html": "India's corporate-bond market is big and strangely invisible. About Rs 61 lakh crore is outstanding - the chairman's own figure - and almost none of it trades where a saver can see it. The market runs institution to institution, over the phone and through dealers, in ticket sizes built for institutions. A fixed deposit is simple but locks you in; equity is liquid but volatile; the bond in between, which should be the natural third asset, has let retail in at Rs 10,000 since July 2024 - but barely lets it out, because secondary trading is thin and the exit is where the cost sits."
      },
      {
       "t": "p",
@@ -3559,7 +3559,7 @@
      },
      {
       "t": "p",
-      "html": "To see what is actually being fixed, walk one transaction through both worlds. Today: you want to lend Rs 10 lakh to a solid company for three years. You can - since July 2024, privately placed bonds come in Rs 10,000 denominations and online bond platforms will sell you one. What you cannot easily do is sell it again: secondary trading is thin, quotes are wide, and the exit, not the entry, is the real wall between households and bonds. Under phase two: that company's bond exists as a token in your demat account, it trades on the RFQ platform, and settlement - the part that today takes days - lands the same day, because the bond and the money move together on the RBI's CBDC rail."
+      "html": "To see what is actually being fixed, walk one transaction through both worlds. Today: you want to lend Rs 10 lakh to a solid company for three years. You can - since July 2024, privately placed bonds come in Rs 10,000 denominations and online bond platforms will sell you one. What you cannot easily do is sell it again: secondary trading is thin, quotes are wide, and the exit, not the entry, is the real wall between households and bonds. Under phase two: that company's bond exists as a token in your demat account, it trades on the RFQ platform, and settlement - the part that in the conventional market takes days - lands the same day, because the bond and the money move together on the RBI's CBDC rail."
      },
      {
       "t": "p",
