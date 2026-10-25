@@ -477,11 +477,11 @@
   ]
  },
  "audio": {
-  "quick": "audio/d20-quick.m4a",
+  "quick": null,
   "full": null
  },
  "times": {
-  "quick": "audio/d20-quick.times.json",
+  "quick": null,
   "full": null
  }
 }
