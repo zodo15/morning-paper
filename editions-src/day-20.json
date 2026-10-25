@@ -1,0 +1,468 @@
+{
+ "day": 20,
+ "meta": {
+  "date": "Sunday 25 October 2026",
+  "short": "Sun 25 Oct",
+  "longread": 20
+ },
+ "edition": {
+  "title": "Slow Burn - Sunday 25 October 2026",
+  "fact": "Sunday 25 October 2026, edition 20, the deep edition. Iran's army chief threatens US warships as tankers hit mines and the Houthis hit Riyadh again, with Brent closed at $116.72; Kotak Mahindra Bank, AU Small Finance Bank and IDFC First Bank all grow profit sharply; SEBI's chairman lays out a four-part market road map, every item still at the agenda stage; Jio Platforms allotments land Monday ahead of Wednesday's listing; and two weekend AI launches arrive with vendor claims labelled.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. This is the deep edition: the week's two stories - the oil premium and the results season - met on Saturday, and Monday's open is where they get priced. The long read goes inside SEBI chairman Tuhin Kanta Pandey's to-do list for India's market plumbing.",
+  "hero": null,
+  "concept": {
+   "label": "One concept a day",
+   "name": "Lottery demand",
+   "line": "When demand concentrates in the cheapest, most skewed ticket on the shelf, read it as entertainment spending, not conviction - and size your own ticket accordingly."
+  },
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The Gulf, a hair-trigger weekend:</strong> Iran's armed forces chief says the US Navy cannot re-enter the Gulf and will be targeted if it tries; President Trump floats \"another Epic Fury\"; mines and missiles keep hitting tankers and Saudi targets. Brent closed Friday at $116.72, its highest since April."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Kotak Mahindra Bank:</strong> standalone profit up 29% year on year to Rs 4,212 crore, interest income up 16% - but the margin slipped to 4.31% on bulk-deposit dilution."
+     },
+     {
+      "t": "p",
+      "html": "<strong>AU Small Finance Bank:</strong> profit up 53% to Rs 858 crore, margin up 33 basis points year on year to 5.8%, bad loans down to 1.99%."
+     },
+     {
+      "t": "p",
+      "html": "<strong>IDFC First Bank:</strong> profit up 196.5% to Rs 1,045 crore - against a Rs 352 crore year-ago base."
+     },
+     {
+      "t": "p",
+      "html": "<strong>SEBI's road map:</strong> tokenised corporate bonds under \"Demat 2.0\", a short-selling review, graded broker compliance and responsible-AI rules - all announced as agenda items, not circulars."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio, the eve of allotment:</strong> BSE's own final demand schedule shows the issue 9.73 times subscribed on its platform, retail barely crossing full cover while institutions bid 33 times. Allotment Monday, listing Wednesday."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Weekend AI:</strong> Moonshot's Kimi K3.1 Pro - a 3-trillion-class open-weight model with weights promised by 4 November - and Block's Dessa, a voice model trained only on speech. Vendor claims, labelled."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Monday's setup:</strong> oil on a knife edge, three bank prints to price, an Infosys guidance cut to digest, the Fed Wednesday and Jio's listing the same morning. <a href=\"#s-ed\">The editor's read</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Iran's army chief threatens US warships; Trump muses about 'another Epic Fury'",
+      "kicker": "Geopolitics, lead"
+     },
+     {
+      "t": "p",
+      "html": "The war's rhetoric escalated on Saturday even as its front lines stayed roughly where Friday left them. Ali Abdollahi, chief of general staff of Iran's armed forces, said the US Navy is incapable of re-entering the Gulf or its periphery because Iran can target any vessel in the region: \"The US president can only dream of their soldiers and military again entering the Persian Gulf. They will take this wish to the grave,\" he said in a statement carried by state media. President Trump, at a Florida rally on Friday, said the US military \"may do another Epic Fury\" - his name for the bombing campaign that opened the war - and framed the choice as fresh strikes or continued blockade-and-sanctions pressure (Al Jazeera's Tehran dispatch, 24 October)."
+     },
+     {
+      "t": "p",
+      "html": "The on-the-water picture: the IRGC - Iran's Islamic Revolutionary Guard Corps, the parallel military that runs the naval harassment campaign - said seven tankers were attacked or hit mines overnight into Thursday, and claimed two supertankers struck mines on Friday; vessels in and around the <a href=\"https://www.eia.gov/todayinenergy/detail.php?id=61002\" target=\"_blank\" rel=\"noopener\">Strait of Hormuz</a>, the Gulf chokepoint that carried about 21% of global petroleum liquids consumption in 2022, the US Energy Information Administration's count, keep coming under attack. The Iran-aligned Houthis in Yemen hit Riyadh again on Saturday, with Dammam's airport and the Shaybah oilfield targeted in recent days; Saudi forces bombed Marib, Taiz and other Houthi-held provinces. Washington has reportedly ordered many diplomatic staff out of Saudi Arabia. The diplomacy: Turkiye, Saudi Arabia, Pakistan and Egypt met the UK, France, Germany and Italy in Istanbul on Friday - no US, no Iran - and Turkiye's foreign minister Hakan Fidan said afterwards that \"a new attack on Iran would widen the war\". Separately, Axios reported on Saturday that US intelligence sees Iran having \"substantially increased\" efforts to strike American officials. Claims by state-linked Iranian media that Tehran has activated a \"dead hand\" retaliation doctrine are just that - claims - but they show the direction of the signalling. Brent settled Friday at $116.72, its highest since April; US WTI at $103.27 (CNBC; Al Jazeera)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> for the insurance desk, an active war-risk theatre in the Gulf reprices marine and aviation cover and reinsurance renewals across the region - and every $1 on crude adds up to $2 billion a year to India's import bill (<a href=\"https://indianexpress.com/article/explained/explained-economics/indias-reliance-on-imported-oil-may-hit-fresh-high-in-fy26-10548802/\" target=\"_blank\" rel=\"noopener\">Indian Express's arithmetic on PPAC data</a>). Two elections frame the next ten days: Israel votes on Tuesday and the US midterms land on 3 November, and both capitals are campaigning on Iran."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the weekend produced louder threats and more mine claims, but no new US strike and no closure of Hormuz - the premium is still paying for the strike that has not happened."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks\" target=\"_blank\" rel=\"noopener\">Al Jazeera, Tehran, 24 Oct (read in full)</a> / <a href=\"https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html\" target=\"_blank\" rel=\"noopener\">CNBC oil wrap, 23 Oct</a> / <a href=\"https://apnews.com/article/stocks-markets-ai-oil-inflation-7b47ef3b037bfba4e34f685329b9b963\" target=\"_blank\" rel=\"noopener\">AP markets wrap, 23 Oct</a>"
+     },
+     {
+      "t": "figure",
+      "img": "photos/carrier2.jpg",
+      "alt": "US Navy sailors on the flight deck of the aircraft carrier USS George Washington transiting the Arabian Sea",
+      "caption": "The USS George Washington transiting the Arabian Sea in support of US operations in the war with Iran, 20 August 2026. Credit: US Navy handout via Reuters, carried by Al Jazeera."
+     },
+     {
+      "t": "story",
+      "title": "Saturday's bank results: three clean profit beats, one margin question",
+      "kicker": "Banks, earnings"
+     },
+     {
+      "t": "p",
+      "html": "Three banks reported on Saturday, and the headline numbers all beat. <strong>Kotak Mahindra Bank</strong> earned Rs 4,212 crore standalone in the September quarter, up 29% on the Rs 3,253 crore of a year ago, with net interest income (NII, the gap between what a bank earns on loans and pays on deposits) up 16% to Rs 8,459 crore; consolidated profit rose 26% to Rs 5,645 crore. <strong>AU Small Finance Bank</strong> earned Rs 858 crore, up 53% on Rs 561 crore, with NII up 32% to Rs 2,820 crore, gross bad loans down to 1.99% of the book from 2.41%, deposits up 28.6% to Rs 1,70,460 crore and advances up 27.9% to Rs 1,50,291 crore. <strong>IDFC First Bank</strong> earned Rs 1,045 crore standalone, up 196.5% - against a depressed Rs 352 crore year-ago quarter - with NII up 21% to Rs 6,184 crore; consolidated profit was Rs 1,049 crore. All figures from the banks' own exchange-filed releases and presentations."
+     },
+     {
+      "t": "p",
+      "html": "The margin line is where the three diverge, and it is the line Monday will trade. Kotak's net interest margin (NIM - NII as a share of earning assets) fell to 4.31% from 4.53% in the June quarter and 4.54% a year ago; the bank attributes the moderation to its FCNR(B) bulk-deposit mobilisation during the quarter - cheap-rate-window foreign-currency deposits that dilute margin while adding low-cost funding. AU went the other way: NIM up 33 basis points year on year to 5.8% (a basis point is a hundredth of a percentage point). IDFC First's release flags the same FCNR dilution optics while noting the funding should benefit profit and return ratios. The cross-bank read this results season: deposit cost, not loan growth, is deciding who gets paid - J&amp;K Bank fell 16% on Friday on exactly this line (margin down to 3.17%), while IndusInd's recovery quarter beat on it."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> margins are the transmission from Friday's oil spike and the 94.93 rupee to your world: if funding costs stay high, lenders protect margin by re-pricing loans and by pushing fee lines - including insurance distribution. Monday's reaction in these three stocks is the market's verdict on whether a beat with a smaller margin still counts as a beat."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> AU printed the complete quarter - growth, margin and asset quality all moving the right way; Kotak printed the biggest profit with the one question attached; IDFC First's near-tripling is real cash in the bank, off a low base."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/25bc5c70-6a61-4420-9faa-6b8f121a4fc1.pdf\" target=\"_blank\" rel=\"noopener\">AU Small Finance Bank press release on BSE (primary)</a> / <a href=\"https://beta.bseindia.com/xml-data/corpfiling/AttachLive/a96128e4-25cf-4add-94e2-936883cb32af.pdf\" target=\"_blank\" rel=\"noopener\">IDFC First Bank press release on BSE (primary)</a> / <a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/d582991a-0014-41a0-a748-45d281f68a49.pdf\" target=\"_blank\" rel=\"noopener\">Kotak results release on BSE (primary)</a>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 162\" width=\"100%\" role=\"img\" aria-label=\"Saturday bank results: standalone profit growth, year on year, Q2 FY2027\" style=\"margin:14px 0\"><g><text x=\"8\" y=\"40\" font-size=\"12\" fill=\"#334155\">IDFC First</text><rect x=\"150\" y=\"26\" width=\"158\" height=\"20\" rx=\"3\" fill=\"#0f766e\"></rect><text x=\"316\" y=\"40\" font-size=\"12\" font-weight=\"600\" fill=\"#0f766e\">+196.5%</text></g><g><text x=\"8\" y=\"74\" font-size=\"12\" fill=\"#334155\">AU SFB</text><rect x=\"150\" y=\"60\" width=\"42.61577608142494\" height=\"20\" rx=\"3\" fill=\"#0f766e\"></rect><text x=\"200.61577608142494\" y=\"74\" font-size=\"12\" font-weight=\"600\" fill=\"#0f766e\">+53%</text></g><g><text x=\"8\" y=\"108\" font-size=\"12\" fill=\"#334155\">Kotak</text><rect x=\"150\" y=\"94\" width=\"23.31806615776081\" height=\"20\" rx=\"3\" fill=\"#0f766e\"></rect><text x=\"181.31806615776082\" y=\"108\" font-size=\"12\" font-weight=\"600\" fill=\"#0f766e\">+29%</text></g><text x=\"8\" y=\"156\" font-size=\"11\" fill=\"#64748b\">YoY standalone profit growth, Q2 FY27. Bank releases, 24 Oct.</text></svg>"
+     },
+     {
+      "t": "story",
+      "title": "SEBI's chairman draws the next market map: tokenised bonds, a short-selling review, AI rules",
+      "kicker": "Regulation"
+     },
+     {
+      "t": "p",
+      "html": "SEBI chairman <a href=\"https://www.sebi.gov.in/media-and-notifications/speeches/oct-2026/address-by-chairman-at-anmi-convention_105415.html\" target=\"_blank\" rel=\"noopener\">Tuhin Kanta Pandey</a> used ANMI's International Capital Market Convention - the broking industry's own gathering - to lay out a four-part road map for the market's plumbing. First, \"Demat 2.0\": tokenised corporate bonds - bonds represented as digital tokens that can trade in small pieces - with a secondary-trading framework, aimed at a corporate-bond market that now has about Rs 61 lakh crore outstanding but stays institution-to-institution. Second, a review of short-selling and the stock lending and borrowing (SLB) mechanism - the rules that govern betting against stocks. Third, a graded compliance framework for brokers, so that a small brokerage does not carry the same compliance load as a giant. Fourth, an AI agenda: a regulatory sandbox for market AI, and responsible-AI guidelines now being finalised - tiered obligations, kill switches, aligned with IOSCO, the global securities-regulators' body. He also flagged easier NRI onboarding. Every one of these is at the agenda stage: no circulars have been issued, and the speech frames them as explorations and reviews, not decisions (speech text, read in full)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> if tokenised bonds arrive with real secondary trading, a retail saver gets a third asset between fixed deposits and equity - and insurers get a deeper bond market to match liabilities against. The short-selling review is the one your watch list cares about: SLB reform changes how cheaply crowded longs can be hedged."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> treat this as a to-do list, not a rulebook - the tell will be whether consultation papers show up at the next two SEBI board meetings."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.sebi.gov.in/sebi_data/attachdocs/oct-2026/1792828724497.pdf\" target=\"_blank\" rel=\"noopener\">Speech text, SEBI website (primary, read in full)</a> / <a href=\"https://www.sebi.gov.in/media-and-notifications/speeches/oct-2026/address-by-chairman-at-anmi-convention_105415.html\" target=\"_blank\" rel=\"noopener\">Speech page</a>"
+     },
+     {
+      "t": "story",
+      "title": "Jio Platforms: allotment Monday, the owning numbers behind the record",
+      "kicker": "IPOs, money"
+     },
+     {
+      "t": "p",
+      "html": "Jio Platforms' Rs 30,213 crore all-fresh issue - India's largest IPO - closed Friday, and the official record is BSE's final demand schedule, timestamped 6:58 PM Friday: the issue was bid 9.73 times on BSE's platform, with institutions (QIBs - qualified institutional buyers, the mutual funds and foreign funds) at 33.33 times, non-institutional bidders at 4.09 times, retail at 1.01 times, employees at 1.05 times and Reliance shareholders at 2.23 times; 192.27 crore shares were bid against 19.75 crore on offer, in a Rs 1,065-1,119 band with a Rs 54 employee discount and a 12-share lot. The anchor book placed on 19 October raised Rs 8,110 crore ahead of the public issue; the registrar is Kfin Technologies and the allotment is expected Monday 26 October, with listing on BSE and NSE on Wednesday 28 October. At the Rs 1,119 cap, Jio is valued at about Rs 10.3 lakh crore."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> retail barely crossed full cover at 1.01 times on the BSE platform, so if you applied in retail your allotment odds are far better than the headline multiples suggest - and Monday's allotment is the first hard answer. Wednesday's listing lands the same morning as the Fed decision: the market's verdict on a Rs 10.3 lakh crore tariff-hike story will arrive on a noisy day."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> the demand story was institutional conviction against retail caution - Wednesday's open prices which book was right."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.bseindia.com/markets/publicissues/bsedemandschedule_new?Scripcode=8047&status=L\" target=\"_blank\" rel=\"noopener\">BSE final demand schedule (official)</a> / <a href=\"https://www.bseindia.com/markets/publicIssues/DisplayIPO?IPONo=8047&id=4894&idtype=1&series=mainboard&startdt=21%2F10%2F2026&status=F&type=IPO\" target=\"_blank\" rel=\"noopener\">BSE issue page (official)</a>"
+     },
+     {
+      "t": "story",
+      "title": "Weekend AI: a 3-trillion-class open model and a voice model trained only on speech",
+      "kicker": "AI, launches"
+     },
+     {
+      "t": "p",
+      "html": "Moonshot AI - the Beijing lab behind the Kimi assistant - announced <strong>Kimi K3.1 Pro</strong> on its blog: a roughly 3-trillion-parameter-class open-weight model with a 1-million-token context window (about seven novels of input at once) and a \"Highspeed\" mode it says runs 2-3 times faster, with model weights promised by 4 November. The benchmark table on the page is vendor-run: what would count as verification is the public weights plus independent evaluations. Jack Dorsey's <strong>Block</strong> published <strong>Dessa</strong>: a conversation model it says was trained only on human speech - no text pretraining, no borrowed language model - and which holds full-duplex conversations (it can listen and talk at the same time, like a person). Block calls it a world first; that is a vendor claim, and what would count as verification is third-party demos and latency tests."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> open weights at the frontier keep compressing what a side project can do for free - if K3.1 Pro's weights land on 4 November, a coding or analysis agent you self-host gets materially better that week. A speech-native model is the other end of the same trend: interfaces moving from typing to talking."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Editor's takeaway:</strong> both launches are claims until the weights and the demos ship - the dates to hold are 4 November (Kimi weights) and Dessa's first public third-party test."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\" target=\"_blank\" rel=\"noopener\">Kimi blog (vendor, read in full)</a> / <a href=\"https://block.xyz/dessa\" target=\"_blank\" rel=\"noopener\">Block Dessa page (vendor, read in full)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets: the week that priced a strike",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Friday's closes, the last prints before this weekend's escalation: the Dow fell 652.82 points (1.23%) to 52,215.16, the S&amp;P 500 lost 0.52% to 7,623.68 and the Nasdaq 0.21% to 25,955.34, as US crude topped $100 and the selloff broadened out of tech into staples, utilities and healthcare; on the week the S&amp;P lost 0.5%, the Nasdaq 0.7%, the Dow gained 0.4% (CNBC's post-close wrap; AP's levels). The VIX - Wall Street's fear gauge, the price of S&amp;P options - closed its week above 20 for the first time since early June. American Express fell more than 3% after saying it would cut about 5% of its workforce to \"prepare for AI\". In India: the Sensex slipped 126 points to 73,124, the Nifty 88 to 22,600, but the midcap index plunged 2.2% and the Bank Nifty 1.2%, with six declines for every advance (CNBC-TV18); BSE's own snapshot shows the Bankex down 1.10% and its IT index down 0.66%. Foreign investors were net buyers of Rs 887.65 crore and domestic institutions of Rs 3,235.36 crore (provisional exchange data) - the fall came despite institutional buying on both sides. The rupee fell 12 paise to a provisional 94.93 per dollar (PTI via The Hindu). Gold, the paradox of the week, dipped under $4,000 an ounce intraday for the first time since mid-July - because an oil-driven inflation scare kills the rate-cut path and raises real yields, which is poison for a metal that pays nothing; futures even price a 78% chance of a December rate HIKE (CME FedWatch, cited by CNBC Friday)."
+     },
+     {
+      "t": "p",
+      "html": "The configuration into Monday: Brent at $116.72 after a weekend of threats but no new strike, three bank beats to price, an Infosys guidance cut to digest, the Fed's decision Wednesday and Jio's listing the same morning - with foreign investors, unusually, on the buy side."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 216\" width=\"100%\" role=\"img\" aria-label=\"Indian stock indexes, Friday 23 October 2026, per cent change\" style=\"margin:14px 0\"><line x1=\"200\" y1=\"26\" x2=\"200\" y2=\"174\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"70.45\" y=\"44\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Midcap 100</text><rect x=\"78.45\" y=\"30\" width=\"121.55\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-2.21%</text></g><g><text x=\"128.2\" y=\"78\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Bank Nifty</text><rect x=\"136.2\" y=\"64\" width=\"63.8\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-1.16%</text></g><g><text x=\"170.55\" y=\"112\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Nifty 50</text><rect x=\"178.55\" y=\"98\" width=\"21.45\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.39%</text></g><g><text x=\"182.65\" y=\"146\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Sensex</text><rect x=\"190.65\" y=\"132\" width=\"9.350000000000001\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.17%</text></g><text x=\"8\" y=\"194\" font-size=\"11\" fill=\"#64748b\">One-day change, %, 23 Oct closes. Sources: CNBC-TV18, BSE.</text><text x=\"8\" y=\"209\" font-size=\"11\" fill=\"#64748b\">Six declines for every advance on the NSE.</text></svg>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 216\" width=\"100%\" role=\"img\" aria-label=\"US stock indexes, Friday 23 October 2026, per cent change\" style=\"margin:14px 0\"><line x1=\"200\" y1=\"26\" x2=\"200\" y2=\"174\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"124.35\" y=\"44\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Dow Jones</text><rect x=\"132.35\" y=\"30\" width=\"67.65\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-1.23%</text></g><g><text x=\"163.4\" y=\"78\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">S&amp;P 500</text><rect x=\"171.4\" y=\"64\" width=\"28.6\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.52%</text></g><g><text x=\"176.05\" y=\"112\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Russell 2000</text><rect x=\"184.05\" y=\"98\" width=\"15.95\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.29%</text></g><g><text x=\"180.45\" y=\"146\" text-anchor=\"end\" font-size=\"12\" fill=\"#334155\">Nasdaq</text><rect x=\"188.45\" y=\"132\" width=\"11.549999999999999\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"208\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.21%</text></g><text x=\"8\" y=\"194\" font-size=\"11\" fill=\"#64748b\">One-day change, %, 23 Oct closes. Sources: CNBC post-close wrap, AP.</text><text x=\"8\" y=\"209\" font-size=\"11\" fill=\"#64748b\">Week: S&amp;P -0.5%, Nasdaq -0.7%, Dow +0.4%.</text></svg>"
+     }
+    ]
+   },
+   {
+    "heading": "Top movers, Friday 23 October",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Gainers: <strong>Cyient</strong> +7.40% (Rs 1,229.25) - September-quarter revenue up 25% year on year to Rs 2,235 crore, record order intake in its DET business, a Rs 12 interim dividend; profit fell 8% to Rs 132 crore, and the street chose the growth (ET). <strong>Eternal</strong> +3.97% (Rs 317.00) - rebound after a two-day slide, helped by the contrast with Swiggy's widening quick-commerce losses; no fresh company news. (Closing data: BSE official bhavcopy, 23 Oct.)"
+     },
+     {
+      "t": "p",
+      "html": "Losers: <strong>Swiggy</strong> -16.37% (Rs 176.70) - Instamart's widening loss and street-wide target cuts (edition 19's front page has the full anatomy). <strong>J&amp;K Bank</strong> -16.26% (Rs 113.05) - biggest fall since June 2024: operating profit rose 26.7% but the margin contracted to 3.17% and core income growth was weak - Saturday's results make this the cautionary pre-read (CNBC-TV18). <strong>Atul</strong> -7.02% (Rs 5,578.40) - fell on results day even as the board approved a Rs 90 crore buyback. <strong>Ola Electric</strong> -6.39% (Rs 29.90) - no confirmed catalyst. (BSE official bhavcopy, 23 Oct.)"
+     },
+     {
+      "t": "p",
+      "html": "Most traded by value: State Bank of India (Rs 380 crore, -1.17%), Cyient (Rs 236 crore), NSE Ltd (Rs 232 crore), IndusInd Bank (Rs 195 crore), Eternal (Rs 186 crore), JSW Energy (Rs 181 crore), Voltas (Rs 163 crore), Swiggy (Rs 149 crore). (BSE official bhavcopy, 23 Oct.)"
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Declared with results: <strong>Cyient</strong> - interim dividend Rs 12 per share. <strong>Infosys</strong> - interim dividend Rs 26, record 3 November, payout 11 November. <strong>Atul</strong> - board approved a Rs 90 crore buyback."
+     },
+     {
+      "t": "p",
+      "html": "This week: L&amp;T Technology Services' Rs 20 dividend goes ex on Tuesday 27 October; Nippon Life India AMC's Rs 9.50 dividend has its record date Wednesday 28 October."
+     },
+     {
+      "t": "p",
+      "html": "Results announced Saturday: Kotak Mahindra Bank, IDFC First Bank, AU Small Finance Bank and JK Cement (board approved unaudited standalone and consolidated results, meeting ended 2:08 PM, company filing). JK Cement's quarter: consolidated revenue Rs 3,733.42 crore and net profit Rs 169.30 crore per its BSE XBRL filing; standalone revenue Rs 3,594.70 crore, up 25.8% year on year, with profit of Rs 190 crore (earnings per share Rs 24.59) per the company's board-outcome filing."
+     }
+    ]
+   },
+   {
+    "heading": "SEBI's road map, item by item",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Demat 2.0 and tokenised bonds.</strong> India's Rs 61-lakh-crore corporate-bond market is institution-to-institution: big tickets, thin trading. The chairman's proposal: represent bonds as tokens that can trade in small pieces on a secondary-trading framework - the bond-market equivalent of what dematerialisation did for shares in the 1990s. What it needs to work: market-makers (also on his list), because a token that nobody quotes is a fixed deposit with extra steps."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Short-selling and SLB review.</strong> The stock lending and borrowing mechanism - the pipe through which shares are borrowed to sell short - has stayed thin in India while cash-and-carry and futures do most of the work. A review signals the regulator wants two-way markets that do not depend on derivatives alone."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Graded broker compliance.</strong> One rulebook today stretches from two-person brokerages to bank-owned giants; a graded framework would scale obligations to size. For the broking industry in the room at ANMI, this was the applause line."
+     },
+     {
+      "t": "p",
+      "html": "<strong>AI: sandbox plus responsible-AI guidelines.</strong> A regulatory sandbox - supervised space to test market AI with real users - plus guidelines now being finalised: tiered obligations by risk, kill switches for misbehaving models, aligned with IOSCO. For any fintech shipping models into distribution or advice, this is the framework your compliance team will be quoting in a year."
+     },
+     {
+      "t": "p",
+      "html": "<em>All four are agenda items announced in a speech; none is a circular. The long read tells the story of the list itself - and what would prove it wrong.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "The FCNR(B) ghost in Saturday's margins",
+      "kicker": "Banking mechanism"
+     },
+     {
+      "t": "p",
+      "html": "Two of Saturday's three banks flagged the same accounting ghost: deposits raised through RBI's FCNR(B) swap window - the concessional facility, closed 31 August, that let banks bring in foreign-currency non-resident deposits cheaply. Kotak's margin fell to 4.31% \"largely on account of FCNR(B) mobilisation during the quarter\"; IDFC First's release calls the same effect \"optically NIM-dilutive\" while arguing the funding benefits profit, earnings per share and return on equity. The mechanism: the window's swap pricing made these deposits cheap in all-in cost, but the balance-sheet swelling they cause dilutes the margin ratio even when the money is profitable. So the same deposits can be good for profit and bad for the margin print - which is why Monday's analysts will ask both banks for the ex-FCNR margin before they re-rate anything."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Why it matters to you:</strong> when a bank's margin \"misses\" on a deliberate, profitable funding trade, the correct read is the adjusted margin, not the reported one - the same lesson the deposit-growth headlines taught earlier this season."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/25bc5c70-6a61-4420-9faa-6b8f121a4fc1.pdf\" target=\"_blank\" rel=\"noopener\">AU press release (primary)</a> / <a href=\"https://beta.bseindia.com/xml-data/corpfiling/AttachLive/a96128e4-25cf-4add-94e2-936883cb32af.pdf\" target=\"_blank\" rel=\"noopener\">IDFC First press release (primary)</a>"
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The insight - retail demand is not one thing:</strong> BSE's final schedule for Jio shows retail at 1.01 times cover while QIBs bid 33.33 times - and the same week, Tonbo Imaging, a Rs 400-crore-revenue defence firm, closed its IPO subscribed 135.9 times. Read side by side, the pattern is not \"retail loves IPOs\" or \"retail is scared\"; it is that retail IPO demand concentrates in small, cheap, skewed tickets and thins out precisely when the issue is large and the valuation debate is real. For a founder, the lesson cuts both ways: a giant issue needs institutional conviction to price, while a small issue can ride lottery demand it should not mistake for a verdict on the business."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One startup idea - the allotment-odds desk:</strong> a free tool that converts each open IPO's live exchange subscription data (category-wise, like the BSE schedule above) into plain-English allotment odds for a retail applicant, updated twice a day during the issue window, with an archive of how odds related to listing outcomes. Who pays: brokers and IPO-advisory newsletters, for the API and the white-label widget; the consumer page is the funnel. Why now: Jio just put a crore-plus applications through the system and allotment anxiety is the week's dominant retail emotion. First step: build the category-odds calculator for the three issues open this month and publish the method note."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "story",
+      "title": "Kimi K3.1 Pro: open weights at the frontier, if 4 November delivers",
+      "kicker": "Models"
+     },
+     {
+      "t": "p",
+      "html": "Moonshot AI's blog post announces Kimi K3.1 Pro as a roughly 3-trillion-parameter-class open-weight model: a 1-million-token context window, a \"Highspeed\" mode the post says runs 2-3 times faster, and benchmark tables showing it competitive with the top proprietary models. Every performance number on that page is vendor-run; the verification path is explicit - weights by 4 November, then independent evaluators can check. If the weights land, this is the strongest open-weight option yet for long-document work: a crore-word corpus fits in one context."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://www.kimi.ai/blog/kimi-k3-1-pro\" target=\"_blank\" rel=\"noopener\">Kimi blog (vendor, read in full)</a>"
+     },
+     {
+      "t": "story",
+      "title": "Block's Dessa: a voice model with no text inside",
+      "kicker": "Models"
+     },
+     {
+      "t": "p",
+      "html": "Every voice assistant you have used is a text model wearing a headset: speech in, transcribed to text, answered by a language model, synthesised back. Block says Dessa removes the text entirely - trained only on human conversation, holding full-duplex calls where it can be interrupted and talks over you back. The claim is Block's own, with no third-party test yet; what would count: an independent side-by-side against the big voice modes on interruption handling and latency. If the approach holds, it changes what phone-first products - insurance renewals, claims intake - can feel like in two years."
+     },
+     {
+      "t": "p",
+      "html": "Source: <a href=\"https://block.xyz/dessa\" target=\"_blank\" rel=\"noopener\">Block Dessa page (vendor, read in full)</a>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Radar note:</strong> X was not accessible from our side for this edition; the radar above is built from vendor pages read in full, with vendor claims labelled."
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "K3.1 Pro's practical meaning for your stack, if the 4 November weights arrive as promised: a 1M-token context changes how you build tools more than another point on a benchmark does. Whole-repo analysis stops needing a retrieval layer; your codebase, its tests and its docs fit in one prompt. The test on release day: point it at your messiest repository and ask for a dependency-ordered refactor plan - if it holds the whole repo without dropping files, the open-weight stack just caught the hosted one for your workload. Until independent runs exist, treat the benchmark table as a brochure; the verified facts today are the licence promise (open weights), the context length and the date."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Sunday: wild card)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Interview a voice-native AI (about 15 minutes).</strong> Block's Dessa page (linked in AI Race) offers a live conversation demo. Try this protocol: open it on your phone, and run three tests - (1) interrupt it mid-sentence with a new question and see if it recovers the thread; (2) ask it to explain net interest margin in Hindi and then in English, and listen for whether it understands or pattern-matches; (3) tell it something false with confidence (\"Kotak's margin rose this quarter\") and see whether it pushes back or agrees. A good result: it handles the interruption gracefully, switches languages without losing the concept, and corrects you. What a bad result looks like: smooth-sounding agreement with your false premise - the failure mode that matters most for voice interfaces, because you cannot skim a voice for errors. Time: 15 minutes. The point: vendor claims are cheap; your own interruption test is the first independent evidence you can collect yourself."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: lottery demand",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 2009, Alok Kumar of the University of Texas at Austin published a study in the Journal of Finance with a title that asks its own question: <a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2009.01483.x\" target=\"_blank\" rel=\"noopener\">\"Who Gambles in the Stock Market?\"</a>. His finding, from US investor data: the propensity to gamble and investment decisions are correlated. Individual investors systematically prefer stocks with lottery features - cheap tickets, skewed payoffs, long-shot upside - and the demand behaves like lottery demand: it rises in economic downturns, it is stronger where state lotteries are popular, and it concentrates among lower-income investors, who consequently underperform the most. Lotteries and lottery stocks, he showed, attract the same clienteles."
+     },
+     {
+      "t": "p",
+      "html": "Watch the concept at work in this week's IPO tape. Tonbo Imaging - a Rs 400-crore-revenue defence firm at Rs 700 a share - was subscribed 135.9 times and listed at a 66% premium. Jio Platforms - a Rs 30,213-crore issue at Rs 1,119 - drew retail cover of barely 1.01 times on the BSE platform while institutions bid 33 times. The retail rupee did not go where the biggest business was; it went where the ticket was small and the payoff felt skewed. That is lottery demand, and it is why \"the IPO was subscribed 100 times\" tells you about the ticket's shape, not the business's quality."
+     },
+     {
+      "t": "p",
+      "html": "The applications reach your desk. In insurance product work, the same preference is why low-premium, high-payout-framed products outsell actuarially superior boring ones - the customer is buying the ticket shape, not the expected value. In markets, a stock's retail following growing on \"multi-bagger\" chatter is lottery demand arriving, not analysis. In your own allocation, the honest question when a small cheap ticket excites you is whether you are investing or buying a lottery with extra steps."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The decision rule:</strong> when demand concentrates in the cheapest, most skewed ticket on the shelf, read it as entertainment spending, not conviction - and size your own ticket accordingly."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Sixty-second recall:</strong> close the page and answer: (1) What did Kumar's 2009 study show? (2) When does lottery-type demand rise? (3) Which investors overweight lottery stocks most, and with what result? (4) The decision rule, in one sentence. Answers: (1) gambling propensity and investment decisions are correlated - individuals prefer lottery-feature stocks. (2) in economic downturns, and where state lotteries are popular. (3) lower-income investors, who underperform the most as a result. (4) demand concentrated in cheap, skewed tickets is entertainment, not conviction - size your ticket accordingly."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: anchor investor",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "An institutional investor allotted shares in an IPO a day before the public issue opens, at the final price, with a lock-in - 30 days on part of the allotment, 90 on the rest - so it cannot flip on listing day. The book-build's signal fire: a strong anchor book tells later bidders that big money has already committed at the price. Jio Platforms' anchor round, placed on 19 October, raised Rs 8,110 crore ahead of the public issue (BSE's issue page carries the anchor-allocation notice). The term to not confuse it with: cornerstone investors in global listings play a similar role but typically carry longer lock-ins."
+     }
+    ]
+   },
+   {
+    "heading": "Swing research desk",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<em>Research, not advice. Conditional setups on cash stocks with named triggers and stops; no orders are placed by this desk; outcomes are scored honestly in the linked ledger. No Saturday session means no new price data - the levels below are the standing board into Monday.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>On watch from Friday's board:</strong> Kotak Mahindra Bank - Saturday's profit beat with the margin question attached now sits against the published trigger zone at Rs 437.55 and the invalidation at Rs 420; Monday's reaction is the test. HCL Technologies - the published zone is Rs 1,351-1,378 with a stop at Rs 1,346.90 and a target of Rs 1,466.80; validity runs to Friday 30 October. Tech Mahindra - trigger at Rs 1,845.95; the bonus record date is still unannounced. ONGC - the coil at Rs 218.50-238.75 resolves with crude, which is the week's loudest variable. Infosys - the qualitative call: how Monday prices Friday's guidance cut, against a flash crash that said nothing about the business."
+     },
+     {
+      "t": "p",
+      "html": "The full research file - setups, scoring rules, the reconciliation of every level - is the linked ledger: <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 October</a>."
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<em>What I think the market is missing</em> - an analytical read, not advice. Saturday's three bank beats land on a market that spent Friday punishing margins, and I expect it to sort them by margin direction, not by profit growth: AU gets paid first (growth, margin and asset quality all moving right), Kotak gets paid with a question mark (the 4.31% NIM is FCNR-diluted, and Monday's call will be about the ex-FCNR number), and IDFC First's 196.5% gets discounted for its Rs 352-crore base. My falsifiable marker: if IDFC First outperforms both Kotak and AU on Monday, the market is trading optics over margin mechanics and this read is wrong. On oil: the weekend added threats and mine claims but no new US strike, so I expect the premium to hold rather than spike at Monday's reopen - wrong if Brent gaps above $120, which was already the marker from Saturday's edition."
+     },
+     {
+      "t": "p",
+      "html": "Scoreboard on Saturday's markers: one leg fired, one waits. I said the stabilisation read fails if Kotak reports a margin contraction with weaker guidance, or if Brent gaps above $120 before Monday. Kotak did report a margin contraction - 4.31% from 4.53% - but attributed to FCNR(B) mobilisation, and no weaker guidance accompanied it; the marker is strained, not broken. Brent never reopened over the weekend, so the second leg is untested. Honestly counted: the stabilisation call goes into Monday weakened."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Jio lists Wednesday, the same morning as the Fed decision. Watch the open against the Rs 1,119 cap and the Rs 10.3 lakh crore valuation: a strong debut pulls index money toward the RIL complex; a weak one lands on a day the Fed could sour everything anyway. Wrong if the Fed dominates so completely that the listing tracks the index instead of the book.",
+       "The December hike repricing: 78% priced as of Friday (CME FedWatch via CNBC). The chain runs oil to inflation to the Fed; Thursday's PCE report is the next hard input. Wrong if Brent gives back the week before Wednesday, deflating the inflation argument.",
+       "SEBI's road map: the chairman's four items are agenda-stage, and the proof is paperwork - consultation papers or circulars at the next two board meetings. Wrong if the next board meeting passes with none of the four on the agenda; that reads as a speech, not a programme.",
+       "IRDAI's distribution-economics consultation: the listed comment window closes today, 25 October. Watch for an extension notice or, more telling, a summary of comments - the first look at how hard the industry is pushing back on the expense caps. Wrong if the deadline passes quietly with no extension and no summary; then the paper moves toward a final regulation on schedule."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Today, Sun 25 Oct: public comments close on IRDAI's distribution-economics consultation paper (listed deadline).",
+       "Mon 26 Oct: Jio Platforms allotment expected; first session to price Saturday's bank results and the Infosys guidance cut; US crude futures reopen after the weekend's threats.",
+       "Tue 27 Oct: Israel votes, with Iran policy at the centre (Al Jazeera); the Fed's two-day meeting begins (Federal Reserve calendar); L&amp;T Technology Services Rs 20 dividend goes ex.",
+       "Wed 28 Oct: Jio Platforms lists on BSE and NSE; the Fed's decision and press conference; Nippon Life India AMC dividend record date.",
+       "Thu 29 Oct: US PCE inflation report - the Fed's preferred gauge, and the December repricing's next test.",
+       "Fri 30 Oct: the HCL Technologies swing setup's published validity lapses - the ledger scores it either way."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read in full for this edition: Al Jazeera's 24 October Tehran dispatch; CNBC's post-close market wrap and oil and gold coverage; AP's index levels; the three banks' exchange-filed press releases and Kotak's investor presentation; JK Cement's BSE XBRL filing and board-outcome PDF; the SEBI chairman's speech text on sebi.gov.in; BSE's Jio issue page and final demand schedule; the Federal Reserve's meeting calendar; Kimi's and Block's launch pages; Wiley's abstract of Kumar (2009).",
+       "Jio subscription figures in this edition come from BSE's own final demand schedule (platform figures, timestamped 6:58 PM Friday); cross-exchange consolidated compilations reported elsewhere differ by basis and are not used.",
+       "Saturday bank figures: standalone basis unless marked consolidated; Kotak's consolidated profit is Rs 5,645 crore (+26%), IDFC First's is Rs 1,049 crore - wire reports quoting other figures are using different bases.",
+       "X was not accessed for this edition; the launch radar uses vendor pages read in full, with vendor claims labelled.",
+       "Markets are watchlist-only. Nothing here is a tip, a target or a buy/sell call."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Edition 20, the deep edition. The long read: \"The chairman's to-do list\" - inside SEBI's four-part plan to rebuild India's market plumbing, and what would prove it is only a speech."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": null
+}
