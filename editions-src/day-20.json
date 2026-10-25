@@ -476,5 +476,12 @@
    }
   ]
  },
- "audio": null
+ "audio": {
+  "quick": "audio/d20-quick.m4a",
+  "full": "audio/d20-full.m4a"
+ },
+ "times": {
+  "quick": "audio/d20-quick.times.json",
+  "full": "audio/d20-full.times.json"
+ }
 }
