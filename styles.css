@@ -147,6 +147,9 @@ a.arch-card { border-bottom: 1px solid var(--line); }
   .h1 { font-size: 34px; }
 }
 
+/* corrected-text highlight (editor Fix spans, subtle amber) */
+.fix { background: rgba(255,200,0,.18); border-radius: 2px; padding: 0 1px; }
+
 /* recorded-reader sync highlight */
 .player-track { cursor: pointer; }
 .w2 { border-radius: 3px; transition: background .15s; }
