@@ -606,6 +606,7 @@
 
   /* ---------- render helpers ---------- */
   function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+  function escFix(s) { return esc(s).replace(/&lt;Fix&gt;/g, '<span class="fix">').replace(/&lt;\/Fix&gt;/g, '</span>'); }
   function deent(s) { var t = document.createElement('textarea'); t.innerHTML = String(s); return t.value; }
   function blockHTML(b) {
     switch (b.t) {
@@ -701,7 +702,7 @@
     var ed = D.editions[D.today];
     var h = '<div class="wrap">' + mast('today') + tickerHTML(D.today) +
       '<div class="kicker">Today &middot; ' + esc(D.meta[D.today].date) + '</div>' +
-      '<h1 class="h1">' + esc(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + esc(leadSplit(ed.fact).deck) + '</p>' : '') +
+      '<h1 class="h1">' + escFix(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
       editionBody(D.today, true) + ednavHTML(D.today) +
       '<div class="footer"><span>Slow Burn &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span><a href="#" class="push-link" data-push="1" hidden></a></div></div>';
@@ -719,7 +720,7 @@
       var thumb = ed.thumb || (ed.hero && ed.hero.img) || plateFor(n, 'Front page') || 'photos/concept-compounding.jpg';
       h += '<a class="arch-card" href="#/edition/' + n + '"><span class="arch-num">' + n + '</span>' +
         '<span class="arch-meta"><b>' + esc(D.meta[n].date) + (n === D.today ? ' &nbsp;<span class="arch-today-tag">Today</span>' : '') + '</b>' +
-        '<span>' + esc(leadSplit(ed.fact).head) + '</span></span>' +
+        '<span>' + escFix(leadSplit(ed.fact).head) + '</span></span>' +
         '<img class="arch-thumb" src="' + thumb + '" alt="" loading="lazy"></a>';
     }
     h += '</div><div class="footer"><span>Slow Burn</span><span>' + D.today + ' editions</span></div></div>';
@@ -730,7 +731,7 @@
     if (!ed) { renderArchive(); return; }
     var h = '<div class="wrap">' + mast('') +
       '<div class="kicker">Edition ' + n + ' &middot; ' + esc(D.meta[n].date) + '</div>' +
-      '<h1 class="h1">' + esc(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + esc(leadSplit(ed.fact).deck) + '</p>' : '') +
+      '<h1 class="h1">' + escFix(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
       editionBody(n, n === D.today) + ednavHTML(n) +
       '<div class="footer"><span>Slow Burn</span><span><a href="#/archive">Full archive</a></span></div></div>';
