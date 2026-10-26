@@ -1,0 +1,282 @@
+{
+ "day": 21,
+ "meta": {
+  "date": "Monday 26 October 2026",
+  "short": "Mon 26 Oct",
+  "longread": 21
+ },
+ "edition": {
+  "title": "Slow Burn - Monday 26 October 2026",
+  "fact": "Edition 21. The strike window Donald Trump named for Sunday passed without one, and oil opened about a dollar lower overnight; Jio Platforms decides more than a crore allotments today ahead of Wednesday's listing; the Fed, the Bank of Japan, 450-plus Indian results and Israel's election pack the week; and the market opens with smallcaps coming off their worst week since February 2025.",
+  "intro": "Five minutes: start with the front page. An hour: the sections, the movers appendix, and today's long read, The war premium - what it now costs to insure a barrel through Hormuz, linked at the close.",
+  "concept": null,
+  "groups": [
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The Sunday that did not happen: no US strike on Iran, Qatari mediators in Tehran, and the war premium opening lower."
+     },
+     {
+      "t": "p",
+      "html": "<strong>1. The strike that did not come.</strong> The window Donald Trump named on Saturday - \"maybe tomorrow\", Sunday - expired with the answer he gave reporters before leaving for Michigan: \"There will not be a strike today\" (<a href=\"https://www.iranintl.com/en/202610251639\" target=\"_blank\" rel=\"noopener\">Iran International</a>, 4:26 PM GMT Sunday; <a href=\"https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron\" target=\"_blank\" rel=\"noopener\">Al Jazeera's live log</a>). The diplomacy track surfaced at the same moment: Qatari mediators arrived in Tehran in what officials described as a US-coordinated de-escalation effort, while Iran publicly called talks \"meaningless\" until seven conditions are met (<a href=\"https://www.hindustantimes.com/india-news/iran-says-us-talks-meaningless-until-7-conditions-met-as-qatari-mediators-arrive-in-tehran-101792945652451.html\" target=\"_blank\" rel=\"noopener\">Hindustan Times</a>). The market's first verdict came at the Asian open: Brent fell 93 cents, or 0.8%, to $115.79 and WTI 99 cents to $102.28 by 4:45 AM IST (<a href=\"https://www.channelnewsasia.com/business/oil-prices-down-almost-1-in-early-trading-6491701\" target=\"_blank\" rel=\"noopener\">Reuters via CNA</a>) - a partial refund of Friday's $3 settle higher, which had been driven by Houthi attacks on Saudi energy infrastructure. Separately, US Central Command said American forces have helped more than 3,000 commercial vessels cross the Strait of Hormuz in six months (Al Jazeera). Why it matters to you: for the insurance desk this is the difference between a repricing week and a claims week - and every dollar on crude still adds about $2 billion a year to India's import bill. <em>Editor's takeaway: the premium is leaking, not draining - de-escalation words are doing the work a deal has not yet done.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. Jio Platforms: allotment day.</strong> India's largest IPO - Rs 30,213 crore, all fresh issue - finalises its basis of allotment today; applicants check status on registrar <a href=\"https://ipostatus.kfintech.com/\" target=\"_blank\" rel=\"noopener\">KFin Technologies' portal</a>. The official record, BSE's final demand schedule timestamped 6:58 PM Friday: 9.73 times covered on the BSE platform, institutions at 33.33 times, non-institutional 4.09 times, retail barely across the line at 1.01 times, employees 1.05, Reliance shareholders 2.23; 192.27 crore shares bid against 19.75 crore on offer in the Rs 1,065-1,119 band with a Rs 54 employee discount and a 12-share lot. The anchor book had placed Rs 8,110 crore on 19 October, ahead of the public issue. The unofficial grey market priced a premium of Rs 250 per share on Sunday afternoon - about 22% over the cap - down from Rs 280 on 21 October (<a href=\"https://ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/\" target=\"_blank\" rel=\"noopener\">IPO Watch's day-wise log</a>, an unofficial indicator, dated). Listing is Wednesday on BSE and NSE, the same day the Fed decides (that lands about 11:30 PM IST). Why it matters to you: a crore-plus retail applicants learn what a 1.01-times book actually allots, and Wednesday stress-tests whether primary-market appetite survives a falling secondary tape. <em>Editor's takeaway: the grey market is quoting confidence the exchange book - retail at one-times cover - did not show; Wednesday decides which signal was noise.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. Trump's Russia oil U-turn.</strong> The first tanker of Russian diesel is sailing to the US under Trump's deal with Vladimir Putin (<a href=\"https://apnews.com/article/russia-united-states-tanker-diesel-shipment-f2c733604fd4fbd82e7b668c94fad978\" target=\"_blank\" rel=\"noopener\">AP, 23 Oct</a>), after the White House waived Russia-related tariffs weeks after he signed the sanctions bill (<a href=\"https://finance.yahoo.com/economy/policy/articles/trump-waives-russia-related-tariffs-094509767.html\" target=\"_blank\" rel=\"noopener\">Yahoo Finance, 21 Oct</a>). Ukraine's Zelenskiy criticised the move, US Democrats plan to investigate the diesel companies involved (<a href=\"https://www.washingtonpost.com/politics/2026/10/22/democrats-plan-investigate-us-diesel-companies-involved-easing-russian-sanctions/\" target=\"_blank\" rel=\"noopener\">Washington Post, 22 Oct</a>), and Republican senators are publicly uneasy. The logic is domestic: diesel for American pumps before the 3 November midterms, while oil near $116 does political damage. Why it matters to you: Washington easing one oil risk (Russian barrels) while escalating another (Iran) is the arbitrage that decides where crude - and India's import bill - sits into year-end. <em>Editor's takeaway: the US is now managing the oil price as an election variable, and every supply decision until 3 November reads through that lens.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>4. The week that prices the quarter.</strong> The Fed decides Wednesday (2 PM Washington, about 11:30 PM IST) - a hold is expected, with attention on how clearly a December hike gets signalled (<a href=\"https://think.ing.com/articles/federal-reserve-preview-a-pause-before-a-december-hike/\" target=\"_blank\" rel=\"noopener\">ING's preview: \"a pause before a December hike\"</a>; <a href=\"https://www.afp.com/en/fed-expected-hold-rates-steady-days-ahead-us-midterms\" target=\"_blank\" rel=\"noopener\">AFP</a>). The Bank of Japan decides the same week, and US GDP, PCE inflation and jobless claims land alongside Big Tech earnings. In India, more than 450 companies report, from Paytm, Mankind Pharma and Tata Consumer today (<a href=\"https://www.zeebiz.com/companies/news-q2-results-on-october-26-paytm-mankind-pharma-tata-consumer-products-among-90-companies-in-the-list-404457\" target=\"_blank\" rel=\"noopener\">calendar</a>) to L&amp;T, Maruti, HUL, Adani Ports, Trent, Sun Pharma and Bharat Electronics later (<a href=\"https://www.etnownews.com/markets/q2-results-this-week-over-450-companies-to-announce-earnings-coal-india-ntpc-lt-maruti-suzuki-vedanta-in-focus-full-list-article-156401324\" target=\"_blank\" rel=\"noopener\">ET's full list</a>). Israel votes tomorrow with final polls deadlocked - neither bloc near a majority (<a href=\"https://www.i24news.tv/en/news/israeli-elections/artc-final-election-polls-point-to-deadlock-as-neither-bloc-secures-a-majority\" target=\"_blank\" rel=\"noopener\">i24 News</a>; <a href=\"https://www.timesofisrael.com/netanyahu-and-eisenkot-in-dead-heat-five-days-before-election-final-toi-poll-shows/\" target=\"_blank\" rel=\"noopener\">Times of Israel's final poll</a>). India's monthly F&amp;O expiry lands tomorrow. Why it matters: positioning is already bearish - foreign investors hold about 2.8 lakh net-short index-futures contracts (<a href=\"https://aftermarketreport.zerodha.com/p/surging-oil-prices-drag-nifty-to\" target=\"_blank\" rel=\"noopener\">Zerodha's Aftermarket Report</a>) - so the week's surprises arrive on a loaded spring. <em>Editor's takeaway: nobody gets to be surprised this week - the calendar is printed; what matters is which of its events the market has mispriced.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>5. The tape at the edge.</strong> The Nifty enters Monday at 22,600 after four straight falls, down 2.36% for the week; the Smallcap 100 lost 7.3% - its worst week since February 2025 - and 748 NSE stocks hit 52-week lows against 102 new highs. India VIX closed at 16.86, the highest since May; the 10-year government bond yield rose 12 basis points to 7.52%, a one-year high; the rupee closed at 94.93 (<a href=\"https://aftermarketreport.zerodha.com/p/surging-oil-prices-drag-nifty-to\" target=\"_blank\" rel=\"noopener\">Aftermarket Report's weekly</a>; <a href=\"https://www.cnbctv18.com/market/nifty-outlook-monday-october-26-22200-key-support-crude-oil-fed-policy-earnings-in-focus-20018821.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18's outlook</a>). Foreign investors have now sold Indian equities for ten straight weeks (<a href=\"https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms\" target=\"_blank\" rel=\"noopener\">ET</a>), though Friday itself saw net FII buying of Rs 888 crore alongside DII buying of Rs 3,459 crore (<a href=\"https://www.moneycontrol.com/news/business/markets/fiis-net-buy-rs-888-crore-of-indian-equities-while-diis-net-buy-rs-3459-crore-14058825.html\" target=\"_blank\" rel=\"noopener\">moneycontrol's flow data</a>) - with Jio's IPO-linked inflows helping cap even the rupee's fall (<a href=\"https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>). Today's session delivers the verdicts on Saturday's bank results - Kotak's diluted margin, AU's complete quarter, IDFC First's low-base surge - and on Infosys's Friday guidance cut. <em>Editor's takeaway: breadth, not the index, is telling the truth this October - nine in ten liquid stocks are below their 50-day average, and rallies are being sold, not held.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Friday's close, the last prints before a packed week.</strong> The Sensex fell 125.56 points to 73,123.83 and the Nifty 87.65 points, or 0.4%, to 22,600, recovering more than 200 points from the day's low of 22,372 in the closing auction (<a href=\"https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>; <a href=\"https://www.cnbctv18.com/market/nifty-outlook-monday-october-26-22200-key-support-crude-oil-fed-policy-earnings-in-focus-20018821.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18</a>). Bank Nifty fell 638 points; supports sit at 53,700-53,800. The week: Nifty -2.36% (-546 points), Sensex -2.1% (-1,605 points), Midcap 100 -5.6%, Smallcap 100 -7.3%; only IT closed the week green, +0.2% (<a href=\"https://upstox.com/news/market-news/stocks/market-weekly-wrap-sensex-nifty-50-snap-winning-streak-fall-2-as-crude-oil-prices-hit-117-bbl-adani-ent-shriram-finance-top-losers/article-202330/\" target=\"_blank\" rel=\"noopener\">Upstox's weekly wrap, NSE data</a>). Brent settled Friday at $116.72, up nearly $3 on the day and about 7% on the week, having touched $117.45 intraday. Gold and silver fell 3.1% and 5.5% on the week - unusual companions for a risk-off move, and a sign positioning was already crowded. US markets fell Friday, the Dow 652 points lower, with the VIX settling at 19.45."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 256\" width=\"100%\" role=\"img\" aria-label=\"NSE sector indices, week ended 23 Oct (%); source: NSE data via Upstox weekly wrap\" style=\"margin:14px 0\"><line x1=\"270\" y1=\"26\" x2=\"270\" y2=\"222\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"8\" y=\"44\" font-size=\"12\" fill=\"#334155\" font-weight=\"700\">IT</text><rect x=\"270\" y=\"30\" width=\"3.267605633802817\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"279.2676056338028\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+0.2%</text></g><g><text x=\"8\" y=\"78\" font-size=\"12\" fill=\"#334155\">Realty</text><rect x=\"188.3098591549296\" y=\"64\" width=\"81.69014084507042\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"182.3098591549296\" y=\"78\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-5.0%</text></g><g><text x=\"8\" y=\"112\" font-size=\"12\" fill=\"#334155\">Media</text><rect x=\"186.67605633802816\" y=\"98\" width=\"83.32394366197182\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"180.67605633802816\" y=\"112\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-5.1%</text></g><g><text x=\"8\" y=\"146\" font-size=\"12\" fill=\"#334155\">Metal</text><rect x=\"181.77464788732394\" y=\"132\" width=\"88.22535211267606\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"175.77464788732394\" y=\"146\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-5.4%</text></g><g><text x=\"8\" y=\"180\" font-size=\"12\" fill=\"#334155\">Consumer Durables</text><rect x=\"165.43661971830986\" y=\"166\" width=\"104.56338028169014\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"159.43661971830986\" y=\"180\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-6.4%</text></g><g><text x=\"8\" y=\"214\" font-size=\"12\" fill=\"#334155\">India Defence</text><rect x=\"154\" y=\"200\" width=\"115.99999999999999\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"148\" y=\"214\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-7.1%</text></g><text x=\"8\" y=\"248\" font-size=\"11\" fill=\"#64748b\">NSE sector indices, week ended 23 Oct (%); source: NSE data via Upstox weekly wrap</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>What Monday watches.</strong> Overnight, oil opened about a dollar lower on the Iran de-escalation (front page, item 1). At home: Kotak Mahindra Bank, AU Small Finance and IDFC First trade their Saturday results for the first time; Infosys trades its Friday FY27 guidance cut (to 1-2%) properly; Paytm, Mankind Pharma and Tata Consumer report after the close. Technicals: 22,372 (Friday's low) then 22,200 as supports; 22,800 as resistance (<a href=\"https://www.cnbctv18.com/market/nifty-outlook-monday-october-26-22200-key-support-crude-oil-fed-policy-earnings-in-focus-20018821.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18's levels survey</a>). Options pricing implies a move of about 1.2% by tomorrow's monthly expiry (<a href=\"https://aftermarketreport.zerodha.com/p/surging-oil-prices-drag-nifty-to\" target=\"_blank\" rel=\"noopener\">AMR</a>). Framed as what to watch, never what to buy."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Featured: Jio Platforms (allotment today, listing Wednesday).</strong> Covered on the front page (item 2): Rs 30,213 crore all-fresh issue, Rs 1,065-1,119 band, 12-share lot, 9.73 times covered on BSE's platform with retail at 1.01 times (<a href=\"https://economictimes.indiatimes.com/jio-platforms-ltd/ipos/companyid-2078676.cms\" target=\"_blank\" rel=\"noopener\">issue details</a>; <a href=\"https://ipostatus.kfintech.com/\" target=\"_blank\" rel=\"noopener\">allotment status, registrar KFin Technologies</a>). What the book says: institutions underwrote this issue (33.33 times) while retail watched - the reverse of the usual retail-chasing pattern, on India's biggest business. Grey-market premium Rs 250 on Sunday, about 22% (<a href=\"https://ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/\" target=\"_blank\" rel=\"noopener\">IPO Watch, unofficial indicator, 25 Oct 1:51 PM</a>). Watchlist framing only: worth watching as the quarter's primary-market verdict; the case cracks if Wednesday's open in a falling tape prices below the grey market's quote and chills the IPO pipeline behind it. Nothing else open or listing this week clears the bar for space."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The yield that moved while everyone watched oil.</strong> India's 10-year government bond yield rose 12 basis points last week to 7.52%, its highest in a year (<a href=\"https://aftermarketreport.zerodha.com/p/surging-oil-prices-drag-nifty-to\" target=\"_blank\" rel=\"noopener\">Aftermarket Report, 25 Oct</a>). The chain: crude at $116 feeds inflation expectations, inflation expectations price out rate relief, and every basis point on the benchmark reprices home-loan EMIs, corporate borrowing and the equity risk premium - which AMR puts at -2.27%, against a five-year median of -2.42%. Why it matters: the oil shock is already inside the bond market; the equity market is debating whether to follow."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Flows: a green Friday inside a red quarter.</strong> Friday's FII buying of Rs 888 crore (DII: +Rs 3,459 crore; <a href=\"https://www.moneycontrol.com/news/business/markets/fiis-net-buy-rs-888-crore-of-indian-equities-while-diis-net-buy-rs-3459-crore-14058825.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>) breaks no trend: foreign investors have sold for ten straight weeks (<a href=\"https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms\" target=\"_blank\" rel=\"noopener\">ET</a>) and four-week foreign outflows total Rs 73,192 crore against DII inflows of Rs 82,523 crore (<a href=\"https://aftermarketreport.zerodha.com/p/surging-oil-prices-drag-nifty-to\" target=\"_blank\" rel=\"noopener\">AMR</a>). The why: domestic institutions - your employer's industry collects a large share of those SIP and premium flows - are the only thing standing between foreign selling and lower prices. Watch whether Friday's buying was month-end book-keeping or a turn."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Regulator watch.</strong> SEBI has attached properties of SecureKloud Technologies' promoters - a listed cloud-services company - over Rs 6.45 crore in unpaid penalties (<a href=\"https://legal.economictimes.indiatimes.com/news/regulators/sebi-attaches-properties-of-securekloud-promoters-over-unpaid-penalties/135144094\" target=\"_blank\" rel=\"noopener\">ET Legal, 23 Oct</a>): the recovery-of-dues machinery in action, worth noting for anyone holding small caps with old regulatory overhangs. The Prime Minister on Sunday inaugurated the RBI's Rs 169-crore data centre and a cybersecurity training institute in Bhubaneswar (<a href=\"https://pib.gov.in/PressReleseDetailm.aspx?PRID=2328250&lang=1&reg=3\" target=\"_blank\" rel=\"noopener\">PIB release</a>) - the central bank hardening its own plumbing while it asks banks to harden theirs."
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The listed-consumer split widened last week.</strong> Swiggy fell 24.9% after its Q2 showed softer food-delivery and quick-commerce growth against a stronger Eternal, while Urban Company fell 16% as its quarterly net loss widened to Rs 182.48 crore from Rs 59.33 crore a year ago (<a href=\"https://upstox.com/news/market-news/stocks/market-weekly-wrap-sensex-nifty-50-snap-winning-streak-fall-2-as-crude-oil-prices-hit-117-bbl-adani-ent-shriram-finance-top-losers/article-202330/\" target=\"_blank\" rel=\"noopener\">Upstox weekly, NSE data</a>). The why: public markets have stopped paying for consumer-internet growth stories and started paying for proven unit economics - the same re-rating that hit Paytm's stock in 2022-23 is now applied company by company, result by result. For anyone building: the private-market read-through is that Series B+ conversations now open with contribution margin, not GMV."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One startup idea - claim-ready evidence packs.</strong> Today's long read shows war-risk claims arriving \"thick and fast\" into a market where documentation decides settlement speed. A service that assembles insurer-ready evidence bundles - voyage logs, AIS tracks, timestamped imagery, crew statements - for shipowners and cargo interests transiting listed areas, sold per voyage and priced against faster settlement, not against the premium itself. First step: interview three marine claims handlers on what documentation actually slows their files. Who pays: owners, charterers, cargo insurers outsourcing file preparation. What would make it wrong: if claims volumes normalise faster than a book can be built."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The radar, honestly read.</strong> No major verified model or agent launch landed in the last 48 hours. The week's confirmed AI story remains Moonshot AI's Kimi K3.1 Pro (Saturday's edition): vendor-run benchmarks, open weights promised by 4 November - that date, not the launch post, is when the claims become testable. What would count as verification: independent benchmark runs on the released weights. One cautionary note for the radar itself: aggregator sites over the weekend carried an \"Anthropic Claude Duet\" launch that no official Anthropic channel confirms - it stays out of this paper until a primary source exists."
+     }
+    ]
+   },
+   {
+    "heading": "AI hack of the day - prompting (Monday)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Try this today: compute your own allotment odds.</strong> When Jio's basis of allotment publishes today, paste the notice (from the exchange or registrar) into your AI tool of choice with this prompt: \"Here is the basis of allotment for an IPO. For each investor category, compute the probability that a single-lot applicant receives an allotment, show the arithmetic, and flag any number you had to assume.\" Five minutes. A good result states the lottery odds per category with the formula visible - and tells you which inputs were missing rather than guessing them. The same pattern works for any lottery-style allocation notice."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Additional premium (AP).</strong> The extra charge, quoted as a percentage of a ship's hull value per transit, that war-risk underwriters add when a vessel enters an area on the Lloyd's Joint War Committee's listed-areas register - the London market committee that designates conflict-risk waters. Gulf APs ran at 0.15-0.25% of hull value before this war and are quoted at 6-10% in mid-October. The mechanism, the market and what it does to a barrel of oil are today's long read."
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<em>An analytical read, not advice. Saturday's three bank results get priced today, and I expect the market to sort them by margin direction rather than profit growth: AU paid first, Kotak paid with its ex-FCNR margin question attached, IDFC First discounted for its low base - wrong if IDFC First outperforms both Kotak and AU today. On oil: de-escalation words trim the war premium but do not drain it - I expect Brent to hold above $112 into Wednesday's Fed, wrong on a settle below that or on Qatar producing a named, dated framework. Scoreboard: Saturday's markers held - Kotak's margin contraction printed but arrived FCNRB-attributed (\"strained, not broken\"), and Sunday's named strike window passed quietly, which is what a premium paying for an unstruck strike should do. Confidence: moderate; the tape is thin and jumpy.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The Qatar channel.</strong> Mediators in Tehran, messages passing, oil a dollar lower. Watch: a named framework or a date for direct US-Iran contact as the upgrade; a strike or a breakdown statement as the kill. Wrong if hostilities resume this week."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The 10-year at 7.52%.</strong> A one-year-high yield with crude above $115. Watch: whether the RBI leans against the move (open-market operations, commentary) ahead of its next policy; wrong if Brent falls below $110 and the yield retraces on its own."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio's Wednesday open.</strong> The year's biggest listing lands in the weakest breadth since February, on Fed day. Watch: the open against the Rs 1,119 cap and what it does to the IPO pipeline behind it; wrong if a strong listing single-handedly reopens primary-market risk appetite."
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Mon 26 Oct",
+        "detail": "Jio Platforms allotment; Paytm, Mankind Pharma, Tata Consumer among about 90 results (Zee Biz calendar); Hexaware ex-dividend Rs 9.5 (NDTV Profit)."
+       },
+       {
+        "n": "2",
+        "title": "Tue 27 Oct",
+        "detail": "Israel votes (final polls deadlocked - i24 News); monthly F&O expiry; L&T Technology Services ex-dividend Rs 20 (NDTV Profit)."
+       },
+       {
+        "n": "3",
+        "title": "Wed 28 Oct",
+        "detail": "Jio Platforms lists on BSE and NSE; FOMC decision about 11:30 PM IST (hold expected - ING); Cyient ex-dividend Rs 12, Nippon Life India AMC Rs 9.5 (NDTV Profit)."
+       },
+       {
+        "n": "4",
+        "title": "Thu 29 Oct",
+        "detail": "CRISIL ex-dividend Rs 17, Shriram Finance Rs 6.5, Ksolves Rs 1 (NDTV Profit); US GDP and PCE inflation prints due this week (CNBC TV18)."
+       },
+       {
+        "n": "5",
+        "title": "Fri 30 Oct",
+        "detail": "HCLTech swing-setup validity lapses untriggered after today (ledger linked below)."
+       },
+       {
+        "n": "6",
+        "title": "Tue 3 Nov",
+        "detail": "US midterm elections - the date Trump's oil and Iran decisions are all priced around."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Top movers - the week ended 23 Oct (appendix)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Weekly, not daily, moves (NSE data via <a href=\"https://upstox.com/news/market-news/stocks/market-weekly-wrap-sensex-nifty-50-snap-winning-streak-fall-2-as-crude-oil-prices-hit-117-bbl-adani-ent-shriram-finance-top-losers/article-202330/\" target=\"_blank\" rel=\"noopener\">Upstox's weekly wrap</a>), each with its traced driver; movers without a confirmed driver are omitted."
+     },
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Adani Enterprises -8% (Nifty50 loser)",
+        "detail": "Reuters reported plans to raise about Rs 2,000 crore via short-duration bonds - fresh leverage in a risk-off week."
+       },
+       {
+        "n": "2",
+        "title": "Shriram Finance -8%",
+        "detail": "Fell despite Q2 standalone PAT up 59.4% YoY to Rs 3,677.03 crore - a day-one post-results breakdown, sellers ignoring the headline."
+       },
+       {
+        "n": "3",
+        "title": "Swiggy -24.9% (midcap)",
+        "detail": "Q2 showed softer food-delivery and quick-commerce growth against a stronger Eternal; the market is repricing unit economics, not growth."
+       },
+       {
+        "n": "4",
+        "title": "Himadri Speciality -25.5% (smallcap)",
+        "detail": "PAT grew 29% to Rs 240 crore but operating margin contracted 140 bp to 20.7% - margin over profit, again."
+       },
+       {
+        "n": "5",
+        "title": "Urban Company -16.0% (smallcap)",
+        "detail": "Quarterly net loss widened to Rs 182.48 crore from Rs 59.33 crore a year ago."
+       },
+       {
+        "n": "6",
+        "title": "CreditAccess Grameen -16.7% (smallcap)",
+        "detail": "Part of the week's smallcap rout; driver per weekly wrap is the broad de-rating, no single confirmed catalyst."
+       },
+       {
+        "n": "7",
+        "title": "HCL Technologies +3.1% (Nifty50 gainer)",
+        "detail": "IT was the week's only green sector (+0.2%); a 94.9 rupee helps exporters' translated earnings."
+       },
+       {
+        "n": "8",
+        "title": "TCS +2.6%, ONGC +2.5%",
+        "detail": "Same IT resilience; ONGC rides the crude rally directly - upstream realisations rise with Brent."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions (appendix)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Announced actions and this week's ex-dates, one line each (source: <a href=\"https://www.ndtvprofit.com/markets/corporate-actions-this-week-hexaware-technologies-l-t-technology-services-cyient-and-crisil-12233553\" target=\"_blank\" rel=\"noopener\">NDTV Profit's weekly list</a>; dividend boards via <a href=\"https://www.livemint.com/market/stock-market-news/dividend-buzz-dalmia-bharat-mazagon-dock-coal-india-ntpc-2-others-to-consider-payouts-this-week-11792943992658.html\" target=\"_blank\" rel=\"noopener\">Mint</a>). No recommendations."
+     },
+     {
+      "t": "bullets",
+      "items": [
+       "Mon 26: Hexaware Technologies ex-dividend Rs 9.5 interim; Midaas Fashions ex-split, face value Rs 10 to Rs 5.",
+       "Tue 27: L&amp;T Technology Services ex-dividend Rs 20 interim; Magnus Steel &amp; Infra ex-rights; Anantam Highways Trust ex-distribution (InvIT).",
+       "Wed 28: Cyient ex-dividend Rs 12; Nippon Life India AMC ex-dividend Rs 9.5; Automobile Corporation of Goa ex-buyback.",
+       "Thu 29: CRISIL ex-dividend Rs 17; Shriram Finance ex-dividend Rs 6.5; Ksolves India ex-dividend Rs 1; Chandni Machines ex-split, Rs 10 to Rs 1.",
+       "Boards to consider dividends this week: Dalmia Bharat, Mazagon Dock, Coal India, NTPC (Mint).",
+       "Results boards today: Paytm (One97 Communications), Mankind Pharma, Tata Consumer Products (Zee Biz calendar)."
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Swing research desk (research, not advice)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Standing state into Monday.</strong> The HCLTech conditional setup (entry zone Rs 1,351-1,378, stop Rs 1,346.90, target Rs 1,466.80) stays untriggered: Friday's NSE range was Rs 1,415.00-1,467.50, close Rs 1,422.20 - the zone never filled, and intraday the stock traded above the target level without an entry, which the scoring rules count as nothing. Validity runs today through Friday 30 October, then lapses. Watchlist live today: Kotak Mahindra Bank (post-print strength above Rs 437.55 keeps it live, below Rs 420 shelves it; reference Rs 430.10), Infosys (qualitative read on how the guidance cut gets priced), Tech Mahindra (reclaim of Rs 1,845.95; bonus record date still unannounced), ONGC (coil Rs 218.50-238.75 with crude as driver). No orders placed, ever; every call scored by the standing rules in <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">the ledger File</a>."
+     },
+     {
+      "t": "closing",
+      "html": "Edition 21. The long read: \"The war premium\" - inside the market that prices a ship's passage through a war zone, and what its 40-times re-rating does to the price of everything that floats."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": null
+}
