@@ -662,6 +662,14 @@
       '<div class="go">Read it &rarr;</div></a>';
   }
 
+  function editionLongreadLink(day) {
+    var lrDay = D.meta[day] && D.meta[day].longread;
+    if (!lrDay || !D.longreads[lrDay]) return '';
+    return '<a class="edition-lr-link" href="#/longread/' + lrDay + '"><span>' +
+      (day === D.today ? "Today's long read" : "This edition's long read") +
+      '</span><span aria-hidden="true">Read &rarr;</span></a>';
+  }
+
   /* ---------- pages ---------- */
   function editionBody(day, isToday) {
     var ed = D.editions[day];
@@ -700,7 +708,7 @@
   }
   function renderToday() {
     var ed = D.editions[D.today];
-    var h = '<div class="wrap">' + mast('today') + tickerHTML(D.today) +
+    var h = '<div class="wrap">' + mast('today') + editionLongreadLink(D.today) + tickerHTML(D.today) +
       '<div class="kicker">Today &middot; ' + esc(D.meta[D.today].date) + '</div>' +
       '<h1 class="h1">' + escFix(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + esc(ed.intro) + '</p>' +
@@ -729,7 +737,7 @@
   function renderEdition(n) {
     var ed = D.editions[n];
     if (!ed) { renderArchive(); return; }
-    var h = '<div class="wrap">' + mast('') +
+    var h = '<div class="wrap">' + mast('') + editionLongreadLink(n) +
       '<div class="kicker">Edition ' + n + ' &middot; ' + esc(D.meta[n].date) + '</div>' +
       '<h1 class="h1">' + escFix(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + esc(ed.intro) + '</p>' +

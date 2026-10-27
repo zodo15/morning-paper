@@ -358,3 +358,9 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .lane .ucnt { display: inline-block; min-width: 17px; padding: 1px 4px; border-radius: 999px; background: var(--red); color: #fff; font-size: 10.5px; font-weight: 700; text-align: center; vertical-align: 1px; }
 .lane .ucnt[hidden] { display: none; }
 .cards-end .end-sub { color: var(--ink); font-size: 15.5px; margin: 0 0 14px; }
+
+/* Direct route from each edition to its long read. */
+.edition-lr-link { display: flex; align-items: center; justify-content: space-between; gap: 14px; min-height: 48px; padding: 13px 16px; margin: 0 0 18px; border: 1.5px solid var(--red); border-radius: 8px; background: var(--red); color: var(--paper); font-family: 'PS Meta', sans-serif; font-size: 13px; font-weight: 800; }
+.edition-lr-link:hover { background: var(--ink); border-color: var(--ink); }
+.edition-lr-link:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
+.edition-lr-link span:last-child { white-space: nowrap; font-weight: 600; }
