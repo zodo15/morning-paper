@@ -753,7 +753,7 @@
     for (var n = D.today; n >= 1; n--) {
       var lr = D.longreads[n];
       if (!lr) continue;
-      var thumb = (lr.hero && lr.hero.img) || 'photos/concept-compounding.jpg';
+      var thumb = lr.thumb || (lr.hero && lr.hero.img) || 'photos/concept-compounding.jpg';
       h += '<a class="lr-card" href="#/longread/' + n + '">' +
         '<img src="' + thumb + '" alt="" loading="lazy">' +
         '<span class="lr-card-meta"><span class="m">' + esc(D.meta[n].date) + (n === D.today ? ' &middot; Today' : '') + '</span>' +
