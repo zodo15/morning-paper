@@ -1057,6 +1057,14 @@
     updateCardsDot();
     window.scrollTo(0, 0);
   }
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href^="#s-"]');
+    if (!a) return;
+    var target = document.getElementById(a.getAttribute('href').slice(1));
+    if (!target) return;
+    e.preventDefault();
+    target.closest('.section').scrollIntoView({behavior:'smooth',block:'start'});
+  });
   window.addEventListener('hashchange', route);
   document.addEventListener('click', function (e) {
     var btn = e.target.closest('.listen-btn');
