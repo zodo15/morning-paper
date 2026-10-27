@@ -767,7 +767,7 @@
         (lr.hero.caption ? '<figcaption>' + esc(lr.hero.caption) + '</figcaption>' : '') + '</figure>';
     }
     if (D.audio && D.audio['lr' + n] && D.audio['lr' + n].full) {  // recorded read of the whole long read (no on-device voice)
-      h += playerHTML('lr' + n, 'full', 'Listen to this long read', 'Recorded read, highlighted line by line', true);
+      h += playerHTML('lr' + n, 'full', 'Listen to this long read', 'Recorded read', true);
     }
     lr.groups.forEach(function (g, gi) {
       h += '<section class="section"><div class="section-head"><div class="section-title">' + esc(g.heading) + '</div>' +
