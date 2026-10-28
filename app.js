@@ -168,6 +168,7 @@
     HL.items = []; HL.ready = false; HL.pending = false; HL.failed = false; HL.url = null;
   }
   function wrapBlockSentences(el, sentences) {
+    if (!sentences || !sentences.length) return null;
     var text = el.textContent, pos = 0, ranges = [];
     for (var i = 0; i < sentences.length; i++) {
       var t = sentences[i].t;
