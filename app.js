@@ -610,7 +610,7 @@
   function deent(s) { var t = document.createElement('textarea'); t.innerHTML = String(s); return t.value; }
   function blockHTML(b) {
     switch (b.t) {
-      case 'story': return (b.kicker ? '<div class="story-kicker">' + esc(b.kicker) + '</div>' : '') + '<h3 class="story-title">' + esc(b.title) + '</h3>';
+      case 'story': return (b.kicker ? '<div class="story-kicker">' + esc(b.kicker) + '</div>' : '') + '<h3 class="story-title">' + escFix(b.title) + '</h3>';
       case 'p': return '<p class="body-p rp">' + b.html + '</p>';
       case 'bullets': return '<ul class="bullets">' + b.items.map(function (i) { return '<li class="rp">' + i + '</li>'; }).join('') + '</ul>';
       case 'rows': return '<div class="rows">' + b.items.map(function (r) {
@@ -686,7 +686,7 @@
     var hasFull = D.audio[String(day)] && D.audio[String(day)].full;
     ed.groups.forEach(function (g, gi) {
       h += '<section class="section" id="g' + gi + '"><div class="section-head">' +
-        '<div class="section-title">' + esc(g.heading) + '</div>' +
+        '<div class="section-title">' + escFix(g.heading) + '</div>' +
         (hasFull ? '' : '<button class="listen-btn" data-g="' + gi + '">&#9654; Listen</button>') + '<button class="pace-btn" data-g="' + gi + '">&#9201; Pace</button></div>';
       var plate = plateFor(day, g.heading);
       if (plate) h += '<figure class="plate"><img src="' + plate + '" alt="" loading="lazy"></figure>';
@@ -711,7 +711,7 @@
     var h = '<div class="wrap">' + mast('today') + editionLongreadLink(D.today) + tickerHTML(D.today) +
       '<div class="kicker">Today &middot; ' + esc(D.meta[D.today].date) + '</div>' +
       '<h1 class="h1">' + escFix(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
-      '<p class="intro">' + esc(ed.intro) + '</p>' +
+      '<p class="intro">' + escFix(ed.intro) + '</p>' +
       editionBody(D.today, true) + ednavHTML(D.today) +
       '<div class="footer"><span>Slow Burn &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span><a href="#" class="push-link" data-push="1" hidden></a></div></div>';
     app.innerHTML = h;
@@ -740,7 +740,7 @@
     var h = '<div class="wrap">' + mast('') + editionLongreadLink(n) +
       '<div class="kicker">Edition ' + n + ' &middot; ' + esc(D.meta[n].date) + '</div>' +
       '<h1 class="h1">' + escFix(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
-      '<p class="intro">' + esc(ed.intro) + '</p>' +
+      '<p class="intro">' + escFix(ed.intro) + '</p>' +
       editionBody(n, n === D.today) + ednavHTML(n) +
       '<div class="footer"><span>Slow Burn</span><span><a href="#/archive">Full archive</a></span></div></div>';
     app.innerHTML = h;
@@ -769,7 +769,7 @@
     var h = '<div class="wrap">' + mast('') +
       '<div class="kicker">The long read &middot; ' + esc(D.meta[n].date) + '</div>' +
       '<h1 class="h1">' + esc(lr.title) + '</h1>' +
-      '<p class="intro">' + esc(lr.intro || lr.fact) + '</p>';
+      '<p class="intro">' + escFix(lr.intro || lr.fact) + '</p>';
     if (lr.hero && lr.hero.img) {
       h += '<figure class="plate"><img src="' + lr.hero.img + '" alt="' + esc(lr.hero.alt || '') + '">' +
         (lr.hero.caption ? '<figcaption>' + esc(lr.hero.caption) + '</figcaption>' : '') + '</figure>';
@@ -778,7 +778,7 @@
       h += playerHTML('lr' + n, 'full', 'Listen to this long read', 'Recorded read', true);
     }
     lr.groups.forEach(function (g, gi) {
-      h += '<section class="section"><div class="section-head"><div class="section-title">' + esc(g.heading) + '</div>' +
+      h += '<section class="section"><div class="section-head"><div class="section-title">' + escFix(g.heading) + '</div>' +
         '<button class="pace-btn" data-lg="' + gi + '">&#9201; Pace</button></div>';
       g.blocks.forEach(function (b) { h += blockHTML(b); });
       h += '</section>';
