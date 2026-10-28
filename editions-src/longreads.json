@@ -3957,5 +3957,242 @@
       "full": "audio/lr22.m4a"
     },
     "thumb": "photos/lr22-thumb.jpg"
+  },
+  "23": {
+    "title": "The company that lost its bank",
+    "fact": "A Slow Burn long read, Wednesday 28 October 2026. On Monday, Paytm's parent One97 Communications reported a profit of Rs 225 crore for the September quarter - more than ten times the year-ago figure - nearly three years after the Reserve Bank of India shut down the bank at the centre of its business. This is the story of India's biggest IPO, its worst debut, the order that took the bank away, and the rebuild that followed.",
+    "intro": "The story in one line: the company that rode demonetisation to a record-breaking listing discovered its licence to operate was its real product, lost a large part of it in a single regulatory order, and survived by shrinking to the part of the business that earned money. Every claim below comes from the sources listed at the end; where two accounts differ, the difference is named.",
+    "groups": [
+      {
+        "heading": "1. The wallet that won a demonetisation",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Vijay Shekhar Sharma founded One97 Communications in 2000, a mobile-content company in the pre-smartphone era, and launched the Paytm wallet in 2010 - a way to keep a small balance on the phone and spend it without a card (dates from One97's 2021 <a href=\"https://paytm.com/document/ir/ipo-documents/paytm-red-herring-prospectus.pdf\" target=\"_blank\" rel=\"noopener\">IPO prospectus</a>). For six years it was a useful product in a cash country. Then, on 8 November 2016, the government withdrew the two largest currency notes overnight, and queues formed at every ATM in India. Paytm did not need a queue: it was already in the phone. Merchants taped its QR code to counters because the alternative was turning customers away. Reuters covered the surge at the time - the wallet's user count and merchant base multiplied within weeks, and \"Paytm\" became a verb for paying by phone in the way \"Google\" had become a verb for search."
+          },
+          {
+            "t": "p",
+            "html": "The pattern that decade set mattered later. Paytm grew by riding state-built rails and state-driven shocks: cheap smartphones, the Aadhaar identity system, and then UPI - the Unified Payments Interface, the central-bank-backed network that lets any bank account pay any other instantly, free. UPI made paying by phone universal, but it also made the wallet's stored balance less necessary. Paytm's answer was to spread outward: movie tickets, insurance, gold, lending - and a bank of its own."
+          }
+        ]
+      },
+      {
+        "heading": "2. The biggest listing, the worst debut",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "In November 2021, at the peak of India's pandemic market boom, One97 Communications sold shares to the public. The numbers were records: Rs 18,300 crore raised at Rs 2,150 a share, the largest IPO India had ever seen. The bankers priced it for perfection - a company that had never posted a full-year profit, valued on the certainty that it would become the payment layer of a billion-person economy."
+          },
+          {
+            "t": "p",
+            "html": "On listing day, 18 November 2021, the stock fell 27% - the worst major debut in Indian market history, erasing roughly $5 billion of value in a session. Sharma, who had wept with joy at the morning's listing ceremony, told <a href=\"https://www.reuters.com/world/india/indias-paytm-set-trading-debut-after-25-bln-ipo-2021-11-18/\" target=\"_blank\" rel=\"noopener\">Reuters</a> by the end of it: \"One day does not decide what our future is.\" He was right, though not in the direction he meant. The stock would spend the next two years falling, and the worst day was not the first one."
+          },
+          {
+            "t": "p",
+            "html": "The market's verdict on day one was about price. The verdict that mattered arrived later, and it was about permission."
+          },
+          {
+            "t": "figure",
+            "img": "photos/lr23-fig1.jpg",
+            "alt": "Abstract illustration of one very large cracked navy circle shedding small falling fragments",
+            "caption": "The listing: the biggest circle in the room, with the crack already showing."
+          }
+        ]
+      },
+      {
+        "heading": "3. The warnings",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Paytm Payments Bank was the piece that made Paytm more than an app. A payments bank is a stripped-down Indian bank licence: it can take deposits and run payment accounts, but cannot lend. It held the wallets, the nodal accounts through which merchant settlements flowed, and a large share of the plumbing that made Paytm's QR codes and soundboxes - the little speakers that call out \"Paytm par Rs 50 prapt hue\" at lakhs of shop counters - actually work."
+          },
+          {
+            "t": "p",
+            "html": "The regulator's discomfort built in stages. On 11 March 2022, the Reserve Bank of India barred Paytm Payments Bank from onboarding new customers and ordered an external audit of its IT systems - the kind of action the RBI takes when it stops trusting what a regulated entity tells it. The audit happened. So did a compliance validation exercise. What they found, the RBI would later say, was not fixed."
+          }
+        ]
+      },
+      {
+        "heading": "4. The order",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "On 31 January 2024, the RBI published <a href=\"https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=57224\" target=\"_blank\" rel=\"noopener\">an order</a> that was two pages long and ended Paytm Payments Bank as a going concern. After a system audit and compliance validation by external auditors, the bank was found to have \"persistent non-compliances and continued material supervisory concerns\". No deposits, credits, or top-ups into any customer account, wallet, or instrument after 29 February 2024. The nodal accounts of One97 Communications and Paytm Payments Services - the settlement pipes - were to be terminated by the same date. Whatever was already in the settlement pipeline had to be cleared by 15 March."
+          },
+          {
+            "t": "p",
+            "html": "Read it again as a shopkeeper: the soundbox on the counter, the QR code on the wall, the wallet on the customer's phone - all of them drained into accounts the regulator had just ordered closed, with one month's notice. Paytm the app was not banned. But the bank under Paytm the app was gone."
+          },
+          {
+            "t": "figure",
+            "img": "photos/lr23-fig2.jpg",
+            "alt": "Abstract illustration of a crowd of small navy squares dammed against a tall rust wall with one narrow gate",
+            "caption": "The order: one regulator's wall across the payment flow, with a single narrow gate."
+          }
+        ]
+      },
+      {
+        "heading": "5. The crash",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The market's answer came in instalments, because the stock kept hitting its daily lower circuit - the exchange's automatic brake that stops a share from falling further that day. Over three sessions the stock fell 42%, erasing nearly Rs 20,500 crore of market value (<a href=\"https://www.business-standard.com/markets/news/paytm-plunges-42-in-3-days-erodes-nearly-rs-20-500-crore-in-market-value-124020500190_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, 5 February 2024</a>). The Enforcement Directorate reportedly questioned executives (moneycontrol's reporting at the time). On 16 February 2024, the stock touched Rs 318.05 intraday - its record low, 85% below the IPO price of twenty-seven months earlier (<a href=\"https://www.moneycontrol.com/news/business/markets/paytm-shares-fall-2-to-fresh-record-low-tank-23-in-last-5-days-12285111.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>)."
+          },
+          {
+            "t": "p",
+            "html": "What was being priced was not a bad quarter. It was the possibility that the franchise itself - the merchants, the soundboxes, the habit of paying with Paytm - would migrate away while the company rebuilt its plumbing, and that what remained would be a wallet app in a country that had moved to UPI."
+          }
+        ]
+      },
+      {
+        "heading": "6. The ten days, and the rebuild",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The decision that saved the company was made in the days after the order, and it was unglamorous: move everything, bank by bank. Paytm's UPI handles - the @paytm addresses customers typed - had to live at other banks, and by March 2024 they did, migrated to four partner banks: the State Bank of India, HDFC Bank, Axis Bank and Yes Bank, after approval from NPCI, the body that runs UPI (company filing). The RBI itself published a consumer FAQ confirming the mechanics: Paytm QR codes and soundboxes would keep working only where merchants migrated to the partner banks' handles (<a href=\"https://inc42.com/buzz/paytm-qr-codes-soundboxes-to-remain-operational-only-if-merchants-migrate-to-other-banks-rbi/\" target=\"_blank\" rel=\"noopener\">Inc42's account of the FAQ</a>). On 22 October 2024 came the formal unlock: NPCI granted Paytm third-party application provider status - permission, as a standalone app without its own bank, to onboard new UPI users again (<a href=\"https://paytm.com/document/ir/stock-exchange-submissions/fy2024-25/oct/Disclosure_Reg_30_of_the_SEBI_LODR_22_Oct_2024.pdf\" target=\"_blank\" rel=\"noopener\">company disclosure</a>; <a href=\"https://www.thehindu.com/business/Industry/paytm-gets-npci-nod-to-onboard-new-upi-users/article68785582.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Then the company shrank on purpose. Out went the everything-app sprawl; in came a focus on the merchants who paid rather than the users who did not - subscription soundboxes and card machines, payment services, and loans distributed to merchants, with costs cut hard, including what the company describes as AI-led automation. The first proof arrived in July 2025: Paytm's first-ever profitable quarter, Rs 122.5 crore of profit after tax in Q1 FY26 (<a href=\"https://www.business-standard.com/companies/quarterly-results/paytm-turns-around-with-rs-122-5-cr-net-profit-28-jump-in-revenue-from-ops-125072201230_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>). The second quarter of that year dipped back to Rs 21 crore - a figure that still included government payment-infrastructure incentives the company stopped receiving in December 2025. Then the rebuild compounded: Rs 220 crore in Q1 FY27, and Rs 225 crore in the quarter reported Monday, more than ten times the year-ago figure, on revenue up 28% to Rs 2,648 crore, with 1.64 crore merchant devices installed and EBITDA up 90% to Rs 270 crore (<a href=\"https://paytm.com/document/ir/financial-results/Earning-Release_Q2-FY-2027_INR_Paytm.pdf\" target=\"_blank\" rel=\"noopener\">the company's own earnings release</a>, read in full)."
+          },
+          {
+            "t": "p",
+            "html": "Sharma had said it before it happened. At Davos in January 2025, with the stock still a fraction of the issue price, he told <a href=\"https://www.moneycontrol.com/news/business/davos-summit/upi-share-easily-recoverable-will-be-pat-profitable-in-some-quarters-says-paytm-s-vijay-shekhar-sharma-12916225.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a> the UPI share was \"easily recoverable\" and the company would be PAT-profitable in some quarters. At ET's Global Business Summit weeks later, he put the stake in the ground personally: \"I consider Paytm like my daughter.\" The first prediction has now printed twice."
+          },
+          {
+            "t": "p",
+            "html": "Paytm lost the bank and kept the counter. The QR code on the wall never moved; only the account behind it did."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 380 188\" width=\"100%\" role=\"img\" aria-label=\"Paytm quarterly profit after tax, Rs crore; source: company earnings releases (Q1 FY26 per Business Standard)\" style=\"margin:14px 0\"><line x1=\"235\" y1=\"26\" x2=\"235\" y2=\"154\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"8\" y=\"44\" font-size=\"12\" fill=\"#334155\">Q1 FY26</text><rect x=\"235\" y=\"30\" width=\"43.55555555555556\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"284.55555555555554\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">Rs 122.5 cr</text></g><g><text x=\"8\" y=\"78\" font-size=\"12\" fill=\"#334155\">Q2 FY26</text><rect x=\"235\" y=\"64\" width=\"7.466666666666667\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"248.46666666666667\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">Rs 21 cr</text></g><g><text x=\"8\" y=\"112\" font-size=\"12\" fill=\"#334155\">Q1 FY27</text><rect x=\"235\" y=\"98\" width=\"78.22222222222223\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"319.22222222222223\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">Rs 220 cr</text></g><g><text x=\"8\" y=\"146\" font-size=\"12\" fill=\"#334155\" font-weight=\"700\">Q2 FY27</text><rect x=\"235\" y=\"132\" width=\"80\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"321\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">Rs 225 cr</text></g></svg>",
+            "label": "Paytm quarterly profit after tax, Rs crore; source: company earnings releases (Q1 FY26 per Business Standard)"
+          },
+          {
+            "t": "figure",
+            "img": "photos/lr23-fig3.jpg",
+            "alt": "Abstract illustration of navy, ochre and rust blocks assembling into a rising staircase",
+            "caption": "The rebuild: smaller blocks, but they stack."
+          }
+        ]
+      },
+      {
+        "heading": "7. The tailwind it always wanted",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "There is one more turn, and it arrived six weeks ago. For years Paytm's argument with India's payments economics was that free UPI meant nobody who built the acceptance side got paid - the merchant soundboxes, the QR stickers, the settlement files. On 15 September 2026, the finance ministry published an <a href=\"https://financialservices.gov.in/sites/default/files/2026-09/FAQs---Merchant-Discount-Rate--MDR--on-Select-UPI--P2M--Transactions_0.pdf\" target=\"_blank\" rel=\"noopener\">FAQ</a> setting a merchant discount rate - MDR, the fee a merchant pays per transaction - of 0.4% on person-to-merchant UPI payments above Rs 2,000, capped at Rs 300, effective 15 October; transactions up to Rs 2,000 stay free. Paytm's release says implementation follows immediately after Diwali, on a date to be notified, and estimates the uplift at about 2.5 basis points of payment processing margin on its current mix - with the caveat that the outcome takes two to three quarters to stabilise. Its own line in the release is the honest one: any MDR on UPI would be an upside, not the foundation."
+          }
+        ]
+      },
+      {
+        "heading": "8. What made it work - and what it got wrong",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "What made it work is visible in the rebuild. First, the franchise was at the merchant counter, not in the bank: soundboxes and QR codes are physical, habitual, and painful to rip out, and competitors would have had to visit lakhs of shops one by one to take them. Second, the partner-bank migration was executed in weeks under deadline pressure with the regulator's own FAQ guiding customers - an operational march the company has never really been credited for. Third, the discipline arrived late but real: cutting to the monetisable core produced profit within six quarters of the worst day."
+          },
+          {
+            "t": "p",
+            "html": "What it got wrong, or nearly did. It treated compliance as a backlog item while operating as critical national payment infrastructure - the RBI's finding of persistent non-compliance came after years of warnings, an audit, and a validation exercise. It let the app sprawl into everything while the core economics of free UPI stayed unsolved. And it priced the 2021 IPO for a certainty that had not been earned, which is why the debut did the damage it did. The lesson is not that ambition was wrong; the merchant network is the proof it was not. The lesson is that in a regulated business, the licence is the product."
+          }
+        ]
+      },
+      {
+        "heading": "9. What would prove this story wrong",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Three tests now run in public. The MDR test: if the implemented rates or exemptions land below the company's 2.5-basis-point estimate after the two-to-three-quarter stabilisation it names, the tailwind chapter of this story was oversold. The regulatory test: the Enforcement Directorate matter's public status remains unresolved, and a second action of the 2024 kind - against the surviving business this time - is the one event the rebuild cannot absorb twice. And the market-share test: PhonePe and Google Pay still carry most UPI volume, and if Paytm's merchant GMV share erodes while the big two stay free for consumers, the counter franchise proves weaker than the crash priced in. A year from now, this story reads either as the great Indian fintech survival, or as a company that survived the regulator only to be worn down by the duopoly."
+          }
+        ]
+      },
+      {
+        "heading": "Appendix: the numbers, with their source dates",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "One97 Communications founded 2000; Paytm wallet launched 2010",
+                "detail": "One97 IPO prospectus (RHP), November 2021."
+              },
+              {
+                "n": "2",
+                "title": "IPO: Rs 18,300 crore at Rs 2,150 a share, India's largest at the time",
+                "detail": "RHP; Reuters, 18 Nov 2021."
+              },
+              {
+                "n": "3",
+                "title": "Debut: -27% on day one, about $5 billion erased; 'One day does not decide what our future is.'",
+                "detail": "Reuters, 18 Nov 2021."
+              },
+              {
+                "n": "4",
+                "title": "RBI bars Paytm Payments Bank from onboarding new customers, orders IT audit",
+                "detail": "RBI action of 11 Mar 2022, cited in the 31 Jan 2024 order."
+              },
+              {
+                "n": "5",
+                "title": "The order: no deposits, credits or top-ups after 29 Feb 2024; nodal accounts terminated; pipeline settled by 15 Mar",
+                "detail": "RBI press release 2023-2024/1774, 31 Jan 2024, read in full."
+              },
+              {
+                "n": "6",
+                "title": "Crash: -42% in three sessions, nearly Rs 20,500 crore of market value erased",
+                "detail": "Business Standard, 5 Feb 2024."
+              },
+              {
+                "n": "7",
+                "title": "Record low: Rs 318.05 intraday",
+                "detail": "moneycontrol, 16 Feb 2024."
+              },
+              {
+                "n": "8",
+                "title": "UPI handles migrated to SBI, HDFC Bank, Axis Bank, Yes Bank",
+                "detail": "Company filing and NPCI approval, Mar 2024."
+              },
+              {
+                "n": "9",
+                "title": "NPCI third-party app approval: Paytm may onboard new UPI users again",
+                "detail": "Company disclosure and The Hindu, 22 Oct 2024."
+              },
+              {
+                "n": "10",
+                "title": "First profitable quarter: Rs 122.5 crore PAT, Q1 FY26",
+                "detail": "Company results; Business Standard, 22 Jul 2025."
+              },
+              {
+                "n": "11",
+                "title": "Q2 FY27: revenue Rs 2,648 crore (+28%), EBITDA Rs 270 crore (+90%), PAT Rs 225 crore, 1.64 crore devices",
+                "detail": "Paytm earnings release, 26 Oct 2026, read in full."
+              },
+              {
+                "n": "12",
+                "title": "MDR: 0.4% on P2M UPI above Rs 2,000, capped Rs 300; company estimates ~2.5 bps processing-margin uplift, stabilising over 2-3 quarters",
+                "detail": "Finance ministry FAQ, 15 Sep 2026; company release."
+              },
+              {
+                "n": "13",
+                "title": "Stock: Rs 2,150 issue, Rs 318.05 record low, Rs 1,604 close on 27 Oct 2026 - about five times the low, still about 25% below issue",
+                "detail": "BSE official data; moneycontrol."
+              }
+            ]
+          },
+          {
+            "t": "closing",
+            "html": "The Slow Burn long read for Wednesday 28 October 2026. Sources: the Reserve Bank of India's 31 January 2024 order, read in full; Paytm's Q2 FY27 earnings release, read in full; One97 Communications' 2021 IPO prospectus; Reuters; Business Standard; moneycontrol; The Hindu; Inc42; the finance ministry's MDR FAQ. Research, not advice."
+          }
+        ]
+      }
+    ],
+    "hero": {
+      "t": "figure",
+      "img": "photos/lr23-hero.jpg",
+      "alt": "Abstract illustration of a large navy arch collapsed on one side while small figures build a smaller ochre arch beside it",
+      "caption": "The arch that fell, and the smaller one being built next to it."
+    },
+    "thumb": "photos/lr23-thumb.jpg"
   }
 }

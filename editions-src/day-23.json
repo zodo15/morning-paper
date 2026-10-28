@@ -1,0 +1,471 @@
+{
+ "day": 23,
+ "meta": {
+  "date": "Wednesday 28 October 2026",
+  "short": "Wed 28 Oct",
+  "longread": 23
+ },
+ "edition": {
+  "title": "Slow Burn - Wednesday 28 October 2026",
+  "fact": "Edition 23. Jio lists at ten, the Fed at half past eleven. Wednesday 28 October 2026, edition 23. Jio Platforms lists on the BSE and NSE at 10 AM after a 22-times-subscribed Rs 30,213-crore IPO priced at Rs 1,119; the Federal Reserve decides on rates at 11:30 PM IST with a hold nearly fully priced, and Microsoft and Alphabet report after the US close; L&T posted a record order book while Maruti and Cipla missed; Paytm's profit rose ten-fold as UPI gets a fee; and Abhishek Sharma hit a 35-ball hundred in Wellington.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. Today is a double event: India's largest listing opens for trade this morning, and the US rate call lands tonight - with two mega-cap earnings reports between them. The long read is Paytm: the company that lost its bank and came back.",
+  "concept": null,
+  "groups": [
+   {
+    "heading": "Today's long read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Today's long read:</strong> The company that lost its bank - Paytm's road from the biggest IPO flop of its year, through an RBI order that took its banking arm, to four straight profitable quarters. <a href=\"#/longread/23\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+     }
+    ]
+   },
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-route\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio lists at 10 AM:</strong> price Rs 1,119, issue Rs 30,213 crore, subscribed 22.19 times, pre-listing valuation about Rs 10.3 lakh crore; special pre-open session 9:00-9:45 AM. Grey-market premium Rs 244 as of Tuesday - unofficial, read the caveat before the number. <a href=\"#s-ipo\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The Fed tonight:</strong> decision 11:30 PM IST; a hold is priced at about 93%, with hikes expected later - the December language is the event. Microsoft and Alphabet report after the US close; Amazon on Thursday. <a href=\"#s-fed\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Tuesday's split tape:</strong> flat headline (Sensex -8 points) over a smallcap surge (+2.59%) and a bank selloff; oil eased on Iran diplomacy, Brent settled at $113.88. <a href=\"#s-mkt\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Results day:</strong> L&amp;T's record Rs 1.47 lakh crore order inflow and Bajaj Auto's first Rs 20,000-crore quarter against Maruti's profit falling 26% and Cipla's 35%. <a href=\"#s-results\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>UPI gets a fee, Paytm counts it:</strong> MDR of 0.4% on merchant UPI payments above Rs 2,000 applies after Diwali; Paytm's quarter (profit up ten-fold to Rs 225 crore) is the first to put a number on the gain. <a href=\"#s-mdr\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The setup board, week two:</strong> the HCLTech setup stays live but untriggered; three watchlist triggers from Monday are holding; no new setup clears the bar. <a href=\"#s-board\">Detail</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The long read:</strong> Paytm - the company that lost its bank. Named people, dated scenes, and what would prove the story wrong. <a href=\"#s-lr\">Read it</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-front\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>1. India's largest listing opens at 10 AM.</strong> Jio Platforms begins trading on both exchanges this morning after a special pre-open session (9:00-9:45 AM, matching 9:45-9:55). The final facts, all from the issue timetable and the company's filings: price Rs 1,119 - the top of the Rs 1,065-1,119 band; Rs 30,213 crore raised, entirely fresh issue (27 crore shares, no offer-for-sale); subscribed 22.19 times overall - institutions 70.55 times, non-institutional 14 times, retail 2.72 times; pre-listing valuation about Rs 10.3 lakh crore; up to Rs 27,500 crore of proceeds go to repay borrowings of subsidiary Reliance Jio Infocomm (<a href=\"https://www.livemint.com/market/ipo/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-gains-latest-gmp-all-eyes-on-nse-bse-debut-11793071293037.html\" target=\"_blank\" rel=\"noopener\">livemint</a>; <a href=\"https://www.moneycontrol.com/news/business/ipo/jio-platforms-ipo-price-fixed-at-rs-1-119-after-22x-subscription-rs-10-3-lakh-crore-valuation-ahead-of-listing-14059936.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>). The grey market - informal, unofficial pre-listing trades - quoted a Rs 244 premium on Tuesday (three trackers, dated; see Notes). Why it matters to you: this is the largest float the Indian market has ever had to absorb, landing on the same day as a Fed decision; the open will be noisy, the close is the first honest print. <em>Editor's takeaway: a 22-times book means the optimistic case is already priced; watch whether the index holds 22,700 while money rotates into the debut, not the first tick.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. The Fed decides at 11:30 PM IST; two mega-caps report after.</strong> The FOMC's October decision lands tonight, with traders pricing about a 93% chance of a hold (<a href=\"https://news.kalshi.com/p/interest-rate-odds-fed-october-2026\" target=\"_blank\" rel=\"noopener\">Kalshi's tracker</a>) and the CNBC Fed Survey expecting rate hikes - but not this week; the common read is a \"hawkish hold\" that keeps a December hike live (<a href=\"https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Hours later, Microsoft (call 5:30 PM ET; its own July guide: revenue $89.85-90.95 billion, Azure growing about 45% at constant currency) and Alphabet (call 4:30 PM ET; Google Cloud grew 82% to $24.8 billion last quarter - the number the street grades) report; Amazon follows Thursday, the same day as the first estimate of US Q3 growth (<a href=\"https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026\" target=\"_blank\" rel=\"noopener\">StockTitan's calendar, dates from company notices</a>). Why it matters to you: India opens Thursday to all of it at once - the rate language, the cloud-capex numbers, and whatever Jio's debut did to domestic liquidity. <em>Editor's takeaway: a hold is priced as certain, so the statement's December wording is the trade, not the decision.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. Tuesday's tape: flat line on top, rotation underneath.</strong> The Sensex slipped 8.08 points to 73,598.67 and the Nifty 3.45 points to 22,749.75 on monthly-expiry day - but the BSE smallcap index rose 2.59% and the midcap 0.88%, with healthcare (+2.28%), telecom (+2.15%) and realty (+1.64%) leading while banks fell about 1% and IT 0.22% (<a href=\"https://www.business-standard.com/markets/news/sensex-nifty-close-largely-unchanged-amid-selling-in-bank-it-stocks-elevated-crude-oil-prices-126102701164_1.html\" target=\"_blank\" rel=\"noopener\">PTI via Business Standard</a>). Foreign investors sold Rs 1,462.49 crore on Monday (exchange data). Oil helped: Brent settled down 1.67% at $113.88 in New York after Iran's leadership discussed conditions for ending the conflict - though attacks on Saudi sites, including a fire at the Ras Tanura hub, kept the floor under prices (<a href=\"https://www.cnbc.com/2026/10/27/oil-eases-on-mideast-diplomacy-hopes-saudi-attacks-stoke-supply-woes.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Why it matters to you: the index hid the day's real action - money left banks and IT for pharma, realty and smallcaps ahead of tonight. <em>Editor's takeaway: rotation under a flat index is positioning, not conviction; tonight decides which it was.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>4. Results split: the order-book economy is strong, the consumption economy is squeezed.</strong> L&amp;T reported its highest-ever quarterly order inflow - Rs 1.47 lakh crore, up 28% - with profit up 33% to Rs 5,202 crore on revenue of Rs 78,750 crore (+16%); over half the new orders came from hydrocarbon and offshore energy (<a href=\"https://www.thehindubusinessline.com/companies/lt-q2-profit-grows-33-to-5202-crore-sees-record-order-intake/article71632610.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine</a>). Bajaj Auto posted records on every line: first-ever Rs 20,000-crore revenue quarter (+34%), profit Rs 3,354 crore (+35%), electric vehicles at about 200,000 units (<a href=\"https://www.bajajauto.com/-/media/images/bajajauto/media-kit/quarterly-results/2026/press-release-q2-fy27.pdf\" target=\"_blank\" rel=\"noopener\">company release</a>). The other side: Maruti's profit fell 26.4% to Rs 2,466.1 crore as commodity costs, forex and lower investment income bit - despite record sales of 696,654 vehicles - and it plans more price hikes after three this year (<a href=\"https://www.business-standard.com/companies/quarterly-results/maruti-q2fy27-results-net-profit-declines-26-36-to-2-466-1-crore-126102700965_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>); Cipla's profit fell 35% to Rs 877.54 crore on a 19% North America decline (<a href=\"https://www.cipla.com/sites/default/files/Cipla_Q2FY27-Press-Release.pdf\" target=\"_blank\" rel=\"noopener\">company release</a>; <a href=\"https://www.moneycontrol.com/news/business/earnings/cipla-q2-results-net-profit-plunges-35-to-rs-878-crore-revenue-falls-2-4-yoy-14061203.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>). Why it matters to you: companies selling to projects and exports are compounding; companies selling to the Indian wallet are passing on costs - that split is the earnings season's real map. <em>Editor's takeaway: profit growth is no longer the story; WHERE the growth comes from is.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<span id=\"s-lr\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>5. Paytm's tenth quarter of the comeback - and a fee it always wanted.</strong> One97 Communications reported Q2 profit of Rs 225 crore - over ten times the year-ago Rs 21 crore - on revenue up 28% to Rs 2,648 crore, with EBITDA up 90% to a record Rs 270 crore and 1.64 crore merchant devices deployed (<a href=\"https://paytm.com/document/ir/financial-results/Earning-Release_Q2-FY-2027_INR_Paytm.pdf\" target=\"_blank\" rel=\"noopener\">company's earnings release</a>; <a href=\"https://www.thehindubusinessline.com/money-and-banking/paytm-q2-fy27-profit-rises-over-10-fold-to-225-crore-revenue-grows-28-to-2648-crore/article71629657.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine</a>; the stock closed 3.1% lower at Rs 1,604, BSE). Inside the release, the bigger story: the UPI merchant fee - MDR - approved for payments above Rs 2,000 now applies from after Diwali, and Paytm is the first major player to quantify it: about 2.5 basis points of added payment margin, stabilising in 2-3 quarters. Why it matters to you: the company that nearly died in 2024 is now paid by the very rail it runs on - the full arc is today's long read (<a href=\"#/longread/23\" target=\"_blank\" rel=\"noopener\">read it here</a>). <em>Editor's takeaway: the market sold the quarter because the easy recovery is done; the MDR annuity is what the next year is about.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-mkt\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Tuesday, the full picture.</strong> A volatile expiry session ended where it began: Sensex 73,598.67 (day range 73,179.41-73,762.98), Nifty 22,749.75 (<a href=\"https://www.business-standard.com/markets/news/sensex-nifty-close-largely-unchanged-amid-selling-in-bank-it-stocks-elevated-crude-oil-prices-126102701164_1.html\" target=\"_blank\" rel=\"noopener\">PTI via Business Standard</a>). Breadth told the truer story: BSE SmallCap Select +2.59%, MidCap Select +0.88%. In the US overnight, the S&amp;P 500 rose 0.6% to 7,722.60 and the Nasdaq 1.18% to 26,477.81, led by chips: Broadcom +4% after a bank coalition - Bank of America, Citi, Morgan Stanley - and Blackstone announced $63 billion of financing for Anthropic's purchase of Broadcom technology; Micron +3%, AMD +5% (<a href=\"https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Korea's SK Hynix jumped 6.5% on a newspaper report of a $12 billion dividend plan - a report, not a filing."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 256\" width=\"100%\" role=\"img\" aria-label=\"Tuesday 27 Oct, BSE sectoral indices (%); source: PTI via Business Standard\" style=\"margin:14px 0\"><line x1=\"235\" y1=\"26\" x2=\"235\" y2=\"222\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"8\" y=\"44\" font-size=\"12\" fill=\"#334155\">Healthcare</text><rect x=\"235\" y=\"30\" width=\"80\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"321\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+2.28%</text></g><g><text x=\"8\" y=\"78\" font-size=\"12\" fill=\"#334155\">Telecom</text><rect x=\"235\" y=\"64\" width=\"75.43859649122807\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"316.43859649122805\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+2.15%</text></g><g><text x=\"8\" y=\"112\" font-size=\"12\" fill=\"#334155\">Realty</text><rect x=\"235\" y=\"98\" width=\"57.54385964912281\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"298.5438596491228\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+1.64%</text></g><g><text x=\"8\" y=\"146\" font-size=\"12\" fill=\"#334155\">Auto</text><rect x=\"235\" y=\"132\" width=\"56.842105263157904\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"297.8421052631579\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+1.62%</text></g><g><text x=\"8\" y=\"180\" font-size=\"12\" fill=\"#334155\">IT</text><rect x=\"227.28070175438597\" y=\"166\" width=\"7.719298245614036\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"221.28070175438597\" y=\"180\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.22%</text></g><g><text x=\"8\" y=\"214\" font-size=\"12\" fill=\"#334155\" font-weight=\"700\">Banks</text><rect x=\"200.26315789473685\" y=\"200\" width=\"34.73684210526316\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"194.26315789473685\" y=\"214\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-0.99%</text></g></svg>",
+      "label": "Tuesday 27 Oct, BSE sectoral indices (%); source: PTI via Business Standard"
+     },
+     {
+      "t": "p",
+      "html": "<span id=\"s-fed\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>What Wednesday watches.</strong> Three clocks: Jio's pre-open from 9 AM and first trade at 10; the FOMC statement at 11:30 PM IST (hold ~93% priced - <a href=\"https://news.kalshi.com/p/interest-rate-odds-fed-october-2026\" target=\"_blank\" rel=\"noopener\">Kalshi</a>); Microsoft and Alphabet after the US close, Amazon Thursday (<a href=\"https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026\" target=\"_blank\" rel=\"noopener\">calendar</a>). Results continue through the week - IndiGo, Adani Enterprises, Vedanta and NTPC are among the remaining large names (ET Now's calendar). Framed as what to watch, never what to buy."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-ipo\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Jio Platforms, listing day.</strong> The mechanics first: a special pre-open session runs 9:00-9:45 AM, order matching sets the opening price 9:45-9:55, regular trading starts 10:00 AM (<a href=\"https://www.livemint.com/market/ipo/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-gains-latest-gmp-all-eyes-on-nse-bse-debut-11793071293037.html\" target=\"_blank\" rel=\"noopener\">livemint, per the IPO timetable</a>). The book, reconciled: 22.19 times subscribed overall - institutions 70.55 times, non-institutional 14 times, retail 2.72 times; all 27 crore shares are fresh issue, so every rupee of the Rs 30,213 crore goes to the company, and up to Rs 27,500 crore of it to repay subsidiary debt. Employees got 46,94,835 reserved shares at a Rs 54 discount; Kotak Mahindra Capital ran the book, KFin Technologies is registrar; one lot was 12 shares, Rs 13,428 at the top band. The grey-market premium - the informal, unofficial price pre-listing shares change hands at, published by no exchange - stood at Rs 244 on Tuesday per three tracking reports, implying roughly a 22% premium if the grey market is right; it often is not, and the actual listing price can differ sharply. Worth a closer look means watching the 10 AM print and the close, never a subscribe call."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The week's smaller slate.</strong> Nine issues worth about Rs 2,768 crore are in the market this week (<a href=\"https://www.etnownews.com/markets/ipo/ipos-this-week-9-new-public-issues-to-raise-rs-2768-crore-check-opening-dates-price-bands-and-lot-sizes-article-156405588\" target=\"_blank\" rel=\"noopener\">ET Now's tracker</a>): EAAA India Alternatives (closes today; band Rs 1,585-1,665; a pure offer-for-sale by promoter Edelweiss Securities and Investments - insiders selling, nothing to the company); BLS Polymers and SFC Environmental (both close Thursday; Rs 142-150 and Rs 313-330); MK Sons Fine Jewels (opens today); Bombay Coated and Special Steels (opens Thursday). Paras Healthcare lists this week per the tracker (day not confirmed). The pattern to note: one Rs 30,213-crore giant and nine small issues in the same week - the primary market is open at both ends at once."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers, Tuesday 27 October",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-movers\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "All figures from the official BSE end-of-day file (bhavcopy), A-group, minimum volume filter applied."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 380 256\" width=\"100%\" role=\"img\" aria-label=\"Tuesday 27 Oct, biggest A-group moves (%), BSE closing prices; source: BSE official bhavcopy\" style=\"margin:14px 0\"><line x1=\"235\" y1=\"26\" x2=\"235\" y2=\"222\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"8\" y=\"44\" font-size=\"12\" fill=\"#334155\" font-weight=\"700\">Ola Electric</text><rect x=\"235\" y=\"30\" width=\"80\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"321\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+16.8%</text></g><g><text x=\"8\" y=\"78\" font-size=\"12\" fill=\"#334155\">Mankind Pharma</text><rect x=\"235\" y=\"64\" width=\"41.168753726893264\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"282.16875372689327\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+8.6%</text></g><g><text x=\"8\" y=\"112\" font-size=\"12\" fill=\"#334155\">Sona BLW</text><rect x=\"235\" y=\"98\" width=\"40.21466905187835\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"281.21466905187833\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">+8.4%</text></g><g><text x=\"8\" y=\"146\" font-size=\"12\" fill=\"#334155\">Mazagon Dock</text><rect x=\"203.51520572450806\" y=\"132\" width=\"31.484794275491947\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"197.51520572450806\" y=\"146\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-6.6%</text></g><g><text x=\"8\" y=\"180\" font-size=\"12\" fill=\"#334155\">M&amp;M Fin</text><rect x=\"204.13536076326773\" y=\"166\" width=\"30.86463923673226\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"198.13536076326773\" y=\"180\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-6.5%</text></g><g><text x=\"8\" y=\"214\" font-size=\"12\" fill=\"#334155\" font-weight=\"700\">Kirloskar Pneu</text><rect x=\"186.62790697674419\" y=\"200\" width=\"48.372093023255815\" height=\"20\" rx=\"3\" fill=\"#b91c1c\"></rect><text x=\"180.62790697674419\" y=\"214\" text-anchor=\"end\" font-size=\"12\" font-weight=\"600\" fill=\"#b91c1c\">-10.1%</text></g></svg>",
+      "label": "Tuesday 27 Oct, biggest A-group moves (%), BSE closing prices; source: BSE official bhavcopy"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Gainers, with the why.</strong> Ola Electric (+16.77%): its biggest one-day gain since April 9, on heavy volume; the day's filing-side news: a SoftBank investment vehicle sold Rs 358 crore of rights entitlements in Ola's ongoing Rs 1,000-crore rights issue (<a href=\"https://www.thehindubusinessline.com/money-and-banking/softbank-vehicle-sells-358-crore-ola-electric-rights-entitlements-amid-1000-crore-issue/article71628154.ece\" target=\"_blank\" rel=\"noopener\">The Hindu BusinessLine</a>). No company-fundamental catalyst explains the size of the move, so treat it as a flow story. Mankind Pharma (+8.63%): strong Q2 earnings with brokerages upbeat - an 11% two-day run (<a href=\"https://www.business-standard.com/markets/news/mankind-pharma-share-price-soars-11-in-2-days-on-strong-q2-earnings-brokerages-upbeat-126102700209_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>). Sona BLW Precision Forgings (+8.43%): Q2 profit growth (CNBC TV18)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Losers, with the why.</strong> Kirloskar Pneumatic (-10.14%): Q2 margins contracted and revenue fell (<a href=\"https://www.cnbctv18.com/market/earnings/kirloskar-pneumatic-shares-slide-over-11-pc-as-q2-margins-contract-revenue-falls-20020275.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18</a>). Mazagon Dock (-6.60%): profit fell 54% on lower revenue and higher provisions (results above). M&amp;M Financial Services (-6.47%): no confirmed catalyst in filings; the lender cluster has been under margin-pressure scrutiny since Monday. Aegis Logistics (-7.02%): no confirmed catalyst for Tuesday's fall - its Monday print had shown profit up 45% (CNBC TV18), so this reads as selling the news."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-results\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>The beats.</strong> L&amp;T: profit Rs 5,202 crore (+33%), revenue Rs 78,750 crore (+16%), record order inflow Rs 1.47 lakh crore (+28%); watch-items it named itself: Rs 40,000 crore of water projects stalled on state funding, and possible revenue deferral if the Saudi crisis drags (<a href=\"https://www.thehindubusinessline.com/companies/lt-q2-profit-grows-33-to-5202-crore-sees-record-order-intake/article71632610.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>). Bajaj Auto: first Rs 20,000-crore revenue quarter (+34%), EBITDA above Rs 4,000 crore, PAT Rs 3,354 crore (+35%), margin 20.9%, EVs now a third of domestic revenue at about 200,000 units, free cash flow of about Rs 4,000 crore (<a href=\"https://www.bajajauto.com/-/media/images/bajajauto/media-kit/quarterly-results/2026/press-release-q2-fy27.pdf\" target=\"_blank\" rel=\"noopener\">company release</a>). Paytm: PAT Rs 225 crore, over ten times the year-ago Rs 21 crore (Front page, item 5)."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The misses.</strong> Maruti Suzuki: profit -26.4% to Rs 2,466.1 crore despite record volumes of 696,654 vehicles (+26.5%) and revenue of Rs 53,355 crore (+26%); costs rose faster (commodities on the West Asia conflict, forex, lower investment income); operating margin recovered to 9.4% from 8.6% sequentially, and a fourth price hike is coming within six months (MD Hisashi Takeuchi, per <a href=\"https://www.business-standard.com/companies/quarterly-results/maruti-q2fy27-results-net-profit-declines-26-36-to-2-466-1-crore-126102700965_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>). Cipla: profit -35% to Rs 877.54 crore, revenue -2.4% to Rs 7,404 crore, EBITDA margin 18.7% from 25% - North America fell 19% while India grew 12% to a record quarter (<a href=\"https://www.cipla.com/sites/default/files/Cipla_Q2FY27-Press-Release.pdf\" target=\"_blank\" rel=\"noopener\">company release</a>; <a href=\"https://www.moneycontrol.com/news/business/earnings/cipla-q2-results-net-profit-plunges-35-to-rs-878-crore-revenue-falls-2-4-yoy-14061203.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>). Mazagon Dock: profit -54.1% to Rs 344 crore, EBITDA down 71.4% to Rs 199 crore on lower revenue and higher provisions; declared a Rs 5-a-share interim dividend (<a href=\"https://www.ndtvprofit.com/markets/mazagon-dock-q2-results-profit-falls-54-announces-interim-dividend-check-record-date-12242241\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>)."
+     },
+     {
+      "t": "p",
+      "html": "<span id=\"s-corp\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "Mazagon Dock declared an interim dividend of Rs 5 a share with Tuesday's results; record date Monday 3 November (<a href=\"https://www.ndtvprofit.com/markets/mazagon-dock-q2-results-profit-falls-54-announces-interim-dividend-check-record-date-12242241\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>). Infosys's Rs 26 interim dividend has its record date on Monday 3 November, payout on 11 November (company's release). Jio Platforms lists today (Front page). Tech Mahindra's 1:1 bonus record date remains unannounced - shareholder approval by postal ballot is in progress and the company says the date \"will be intimated separately\"."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-fin\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<span id=\"s-mdr\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>1. UPI gets a price tag: what the post-Diwali fee actually says.</strong> The documents, in order. The finance ministry's 15 September FAQ: MDR - the merchant discount rate, the fee a shop pays to accept a payment - of 0.4% applies to person-to-merchant UPI payments above Rs 2,000, capped at Rs 300 for payments of Rs 75,000 and above; transactions up to Rs 2,000 - more than 95% of volume - stay free; part of the collection funds small-merchant onboarding in tier-3-to-6 towns (<a href=\"https://financialservices.gov.in/sites/default/files/2026-09/FAQs---Merchant-Discount-Rate--MDR--on-Select-UPI--P2M--Transactions_0.pdf\" target=\"_blank\" rel=\"noopener\">the FAQ, read in full</a>). NPCI then deferred the start to after Diwali (8 November), with the date \"to be notified separately\" (<a href=\"https://indianexpress.com/article/business/upi-mdr-p2m-select-payment-charges-merchants-imposed-after-diwali-npci-10919441/\" target=\"_blank\" rel=\"noopener\">Indian Express</a>). And on Monday, Paytm put the first company number on it: an indicative 2.5-basis-point uplift to its payment processing margin, currently above 4 basis points, stabilising over 2-3 quarters (<a href=\"https://paytm.com/document/ir/financial-results/Earning-Release_Q2-FY-2027_INR_Paytm.pdf\" target=\"_blank\" rel=\"noopener\">earnings release</a>). The mechanism: since 2020, UPI's zero-MDR rule made the rail free for merchants and loss-making for the companies running it; this fee converts the largest payment rail into a paying one for large tickets only. What would make the read wrong: the steering committee re-pricing categories before the notification lands. <em>Editor's takeaway: 0.4% is a third of a debit card's fee - the regime keeps UPI the cheapest rail while finally paying its operators.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. Oil: diplomacy talks the price down, fires hold it up.</strong> Brent settled at $113.88 (-1.67%) in New York - off Monday's $117 peak, the highest since April - after Iran's leadership discussed conditions for ending the conflict, and Saudi, Turkish and Pakistani officials held talks in Tehran (<a href=\"https://www.cnbc.com/2026/10/27/oil-eases-on-mideast-diplomacy-hopes-saudi-attacks-stoke-supply-woes.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Against that: a fire at Saudi Arabia's Ras Tanura hub after a Houthi attack, and October now the worst month for shipping attacks in and around the Strait of Hormuz, the waterway that carried about a fifth of world energy supply before the war (CNBC, citing a Washington maritime-security tracker). Every dollar on crude adds roughly $2 billion a year to India's import bill (this paper's standing math from petroleum ministry volumes), so the $3 refund since Monday is worth about $6 billion annualized if it holds. What to watch: whether $112-113 - the pre-escalation shelf - holds through tonight's Fed. <em>Editor's takeaway: the premium leaks on words and refills on strikes; until a signed deal, it is a range, not a direction - analysis, not advice.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. The results season's real map.</strong> Twelve days in, the split is consistent: companies selling to projects, defence and exports - L&amp;T's record orders, Bharat Electronics-style defence books, Bajaj's exports up 40% - are compounding; companies selling to the domestic consumer - Maruti, Cipla's US book, the small lenders - are protecting price, not volume. The mechanism: government capex and the West Asia rebuild keep the order economy funded while the household economy absorbs three car-price hikes and 0.4% payment fees. What would flip it: a rural demand print strong enough to let consumer companies raise prices without losing volume - Maruti's own test for the next six months. <em>Editor's takeaway: this season, read the order book for strength and the margin line for truth.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-sup\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>The two ends of the liquidity market.</strong> This week holds both: Jio's Rs 30,213-crore listing - the largest ever - and nine small issues raising Rs 2,768 crore between them (IPOs section). The insight of the day: public markets are paying for scale at one end and scarcity at the other, while the private middle - the Series B to pre-IPO round - waits for listing-day evidence before re-pricing anything. If Jio holds its premium through Friday, every large private fintech and consumer platform gets a new comparable tonight; if it does not, the wait gets longer."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Startup idea (one, as specified).</strong> An acceptance-cost auditor for mid-size merchants: from after Diwali, UPI above Rs 2,000 costs a shop 0.4% (capped Rs 300), against roughly 0.9% for debit and 1.5-2.5% for credit cards (the ministry's own comparisons). A tool that reads a merchant's settlement files across UPI, cards and wallets, shows the true per-instrument cost, and re-prompts the cheapest tender at checkout sells to exactly the high-ticket merchants - jewellery, electronics, furniture - who now pay the new fee. Who pays: the merchant, per month, off measured savings. First step: a ten-merchant pilot reading settlement CSVs by hand. What would make it wrong: the steering committee re-pricing or exempting those categories before the habit forms."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Opportunity watch.</strong> Nothing verified this cycle clears the bar for a specific grant, programme or competition deadline worth your time this week; the honest entry is an empty slot rather than a padded one."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-anth\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>1. Anthropic's S-1, now with the hard numbers.</strong> Filed publicly Monday: the company plans to list on the Nasdaq as \"ANT\" through Goldman Sachs and Morgan Stanley (<a href=\"https://www.anthropic.com/news/s1-sec\" target=\"_blank\" rel=\"noopener\">company announcement</a>; <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\" target=\"_blank\" rel=\"noopener\">the filing itself, on the SEC's EDGAR</a>). The verified figures from the filing (<a href=\"https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/\" target=\"_blank\" rel=\"noopener\">TechCrunch's read</a>): revenue of $16.3 billion in the first half of 2026, up from $1.2 billion a year earlier; operating loss narrowed to $693 million from $2.1 billion; the $80.7 billion net loss is largely non-cash accounting entries tied to convertible instruments (yesterday's One concept explained the mechanism). Customers: 11,900 spending over $100,000 a year, 1,900 over $1 million, about 250 over $10 million. Governance: the seven co-founders keep 50.1% of voting power through a Founder LLC, and the Long-Term Benefit Trust appoints most of the board - public shareholders get economics, not control. On Tuesday, Broadcom rose 4% on a $63 billion financing package from Bank of America, Citi, Morgan Stanley and Blackstone for Anthropic's purchase of its technology (CNBC) - the first IPO-adjacent capex line to hit a public supplier's stock. <em>Editor's takeaway: the filing turns every private AI valuation into a claim against audited revenue; the roadshow's price range is the next document to watch.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. Genie 4: DeepMind's world model gets ears.</strong> Google DeepMind announced Genie 4 on Tuesday (<a href=\"https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/\" target=\"_blank\" rel=\"noopener\">official blog</a>): a real-time interactive world simulator that now generates audio - music, ambient sound, dialogue - natively with the scene, built on Gemini models. It rolls out as a research preview to trusted testers, Google AI Ultra subscribers via Project Genie, and early-access partners in the Gemini API and AI Studio; no benchmark claims accompanied it, so capability is vendor-described and dated today. The third-party signal: 627 points and 382 comments on Hacker News within seven hours, and Ars Technica coverage the same day - attention, not evaluation. <em>Editor's takeaway: world models are the training-ground bet for robots and agents; the waitlist, not the demo reel, is where the evidence starts.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. Radar.</strong> Liquid AI released LFM3 (<a href=\"https://www.liquid.ai/blog/lfm3\" target=\"_blank\" rel=\"noopener\">official blog</a>): open-weight, roughly-2-billion-parameter models spanning text, vision, audio and decision-making on one backbone, 22 trillion tokens of training, a 256K context window, sized to run in about 1 GB of memory; the vendor claim - its 1.7B beats its own previous 2.6B with 35% fewer parameters - is labelled as such, with AMD, Qualcomm and Ambarella quoted as interested partners; Hacker News front page (99 points) is the third-party pulse. Microsoft launched MAI Image 2.7 (<a href=\"https://microsoft.ai/news/mai-image-2-7-debut/\" target=\"_blank\" rel=\"noopener\">Microsoft AI</a>): an image-EDITING model, number 3 on the Arena Edit leaderboard and number 2 on Artificial Analysis - leaderboard claims, dated. Gemini Robotics Embodied Reasoning 2 is now on Google Cloud (<a href=\"https://cloud.google.com/blog/products/ai-machine-learning/gemini-robotics-embodied-reasoning-2-is-now-available-on-google-cloud\" target=\"_blank\" rel=\"noopener\">official blog</a>). X was not accessible for cross-checking; radar built from official blogs and Hacker News, and says so."
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-vibe\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "The useful shift in this week's launches is size, not smarts. LFM3's pitch - a capable agent model that fits in about a gigabyte and fine-tunes on one GPU - means the agent that reads your files and answers your mail can now live on your own hardware, with your data never leaving the room. If you are building this week: take Liquid AI's open weights, start with their smallest text model, and build the harness first - the permissions list (what the agent may touch), the test loop (how you know it did the thing), and the kill switch (how you stop it). The model will swap out in a month; the harness is the product. Treat every capability claim in this section - LFM3's benchmarks, Genie 4's realism - as a brochure until your own test suite confirms it on your workload."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Wednesday)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-try\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Run a pre-mortem on one thing you are shipping (20 minutes).</strong> Today's One concept explains the method; here is the practice. Pick a project with a real date - a launch, a filing, a pitch. Set a timer for five minutes and write this sentence: \"It is [the date]. It failed completely.\" Then list every reason it failed, alone, in writing, before you show anyone. Spend ten minutes marking which of those reasons you can act on this week, and act on one before Friday. A good result: at least one failure reason you had not said out loud before - that one is the list's whole value. If you want a second rep, run it on the Jio listing instead: \"It is Friday. Jio closed below Rs 1,119.\" List the reasons; then check Friday's close. The skill transfers to every plan you make."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: the pre-mortem",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-concept\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "A post-mortem asks why something died. A pre-mortem asks it before the death. The method, named by psychologist Gary Klein in the Harvard Business Review (September 2007, <a href=\"https://hbr.org/2007/09/performing-a-project-premortem\" target=\"_blank\" rel=\"noopener\">\"Performing a Project Premortem\"</a>): before a project starts, the team imagines it has already failed - \"It is six months from now. It failed.\" - and each person writes, independently, the reasons why. The mechanism is researched: psychologists call it prospective hindsight. In the study Klein cites (Mitchell, Russo and Pennington, 1989), people imagining an outcome as already certain generated about 30% more concrete reasons for it than people merely predicting it - certainty, even imagined, unlocks honesty that forecasting suppresses. Daniel Kahneman, who calls it one of his favourite techniques in \"Thinking, Fast and Slow\", argues its real power is social: once failure is the premise, doubting the plan stops being disloyal. The human story is Klein's own: he spent years watching confident launch meetings where nobody voiced the obvious risk, and built the pre-mortem to make the unsayable the assignment. The decision rule: run it while the plan can still change - after launch, the same exercise is just an obituary. Sixty-second recall, closed book: (1) Who named the pre-mortem? (2) What is prospective hindsight? (3) Why does imagining failure as certain produce more reasons? Answers: Gary Klein; treating a future outcome as already happened; certainty frees people to generate explanations that prediction - and politeness - suppress."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: grey market premium",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-term\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "The unofficial price premium at which IPO shares change hands before listing - deals struck person-to-person outside the exchanges, on trust, with no regulator, no settlement guarantee and no published order book. Trackers collect quotes from dealers and publish them as the GMP; Jio's stood at Rs 244 on Tuesday. Read it as a sentiment thermometer, never a price: it is unregulated, thinly traded and often wrong by wide margins on listing day, and no exchange stands behind a grey-market trade."
+     }
+    ]
+   },
+   {
+    "heading": "Sport",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-sport\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>Abhishek Sharma's 35-ball hundred buries New Zealand.</strong> India chased 199 in 13.2 overs in Wellington on Tuesday to win the third T20 by six wickets and seal the five-match series 3-0 (<a href=\"https://www.bbc.com/sport/cricket/articles/cvlyd05g6wypo\" target=\"_blank\" rel=\"noopener\">BBC Sport</a>; AP). The numbers: Abhishek 113 off 38 balls - nine fours, eleven sixes, his fifty in 15 balls; 15-year-old Vaibhav Sooryavanshi 45 off 19; their opening stand of 133 in seven overs powered a powerplay of 118, a new record in international T20s. New Zealand's 198-3 (Daryl Mitchell 89) was, by normal arithmetic, competitive; normal arithmetic did not apply. Abhishek's own India record - a 30-ball hundred against Afghanistan last month - survived by five balls."
+     }
+    ]
+   },
+   {
+    "heading": "The setup board (research, not advice)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-board\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "Week two. Every live name on one board: terms in rows, nothing buried in prose. Conditional setups only - entry is a zone, never a market order. No orders are placed, ever; every call is scored by the standing rules in <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">the ledger File</a>. One rule change, from you: setups no longer lapse after five sessions - each stays on the board until its target or its stop resolves it, with the status kept honest daily."
+     },
+     {
+      "t": "chart",
+      "svg": "<div style=\"margin:18px 0\"><p><strong>Conditional setup and watchlist triggers, week of 26 October; prices are BSE official closes, Tuesday 27 October</strong></p><div style=\"border:1px solid #d8cdbb;padding:12px;margin:12px 0\"><h3 style=\"margin:0 0 10px\">1. HCL Technologies</h3><dl style=\"margin:0\"><dt style=\"font-weight:700;margin-top:7px\">Status</dt><dd style=\"margin:0\">Live - untriggered</dd><dt style=\"font-weight:700;margin-top:7px\">Entry / trigger</dt><dd style=\"margin:0\">Zone Rs 1,351-1,378 (post-results shelf)</dd><dt style=\"font-weight:700;margin-top:7px\">Stop / invalidation</dt><dd style=\"margin:0\">Rs 1,346.90</dd><dt style=\"font-weight:700;margin-top:7px\">Target / objective</dt><dd style=\"margin:0\">Rs 1,466.80 (adjusted 20-session high)</dd><dt style=\"font-weight:700;margin-top:7px\">R:R at worst fill</dt><dd style=\"margin:0\">about 1:2.4</dd><dt style=\"font-weight:700;margin-top:7px\">Persistence</dt><dd style=\"margin:0\">Until target or stop</dd><dt style=\"font-weight:700;margin-top:7px\">Reference price</dt><dd style=\"margin:0\">Rs 1,416.00 (Tue close)</dd></dl></div><div style=\"border:1px solid #d8cdbb;padding:12px;margin:12px 0\"><h3 style=\"margin:0 0 10px\">2. Kotak Mahindra Bank</h3><dl style=\"margin:0\"><dt style=\"font-weight:700;margin-top:7px\">Status</dt><dd style=\"margin:0\">Watchlist - trigger hit Mon</dd><dt style=\"font-weight:700;margin-top:7px\">Entry / trigger</dt><dd style=\"margin:0\">Post-print strength above Rs 437.55 - hit Monday</dd><dt style=\"font-weight:700;margin-top:7px\">Stop / invalidation</dt><dd style=\"margin:0\">Below Rs 420 shelves it</dd><dt style=\"font-weight:700;margin-top:7px\">Target / objective</dt><dd style=\"margin:0\">Structured-setup candidate</dd><dt style=\"font-weight:700;margin-top:7px\">R:R at worst fill</dt><dd style=\"margin:0\">n/a (not a setup)</dd><dt style=\"font-weight:700;margin-top:7px\">Persistence</dt><dd style=\"margin:0\">Until it triggers or shelves</dd><dt style=\"font-weight:700;margin-top:7px\">Reference price</dt><dd style=\"margin:0\">Rs 442.85 (Tue close)</dd></dl></div><div style=\"border:1px solid #d8cdbb;padding:12px;margin:12px 0\"><h3 style=\"margin:0 0 10px\">3. JSW Steel</h3><dl style=\"margin:0\"><dt style=\"font-weight:700;margin-top:7px\">Status</dt><dd style=\"margin:0\">Watchlist - trigger hit Mon</dd><dt style=\"font-weight:700;margin-top:7px\">Entry / trigger</dt><dd style=\"margin:0\">Hold 1,158.95, then reclaim 1,218.90-1,222.30 - hit Monday</dd><dt style=\"font-weight:700;margin-top:7px\">Stop / invalidation</dt><dd style=\"margin:0\">Under 1,158.95 breaks the floor</dd><dt style=\"font-weight:700;margin-top:7px\">Target / objective</dt><dd style=\"margin:0\">20-session high Rs 1,297.95 (reference)</dd><dt style=\"font-weight:700;margin-top:7px\">R:R at worst fill</dt><dd style=\"margin:0\">1:1.2 - failed the screen</dd><dt style=\"font-weight:700;margin-top:7px\">Persistence</dt><dd style=\"margin:0\">Until it resolves</dd><dt style=\"font-weight:700;margin-top:7px\">Reference price</dt><dd style=\"margin:0\">Rs 1,247.05 (Tue close)</dd></dl></div><div style=\"border:1px solid #d8cdbb;padding:12px;margin:12px 0\"><h3 style=\"margin:0 0 10px\">4. ONGC</h3><dl style=\"margin:0\"><dt style=\"font-weight:700;margin-top:7px\">Status</dt><dd style=\"margin:0\">Watchlist - breakout watch</dd><dt style=\"font-weight:700;margin-top:7px\">Entry / trigger</dt><dd style=\"margin:0\">Breakout above 228 with crude holding</dd><dt style=\"font-weight:700;margin-top:7px\">Stop / invalidation</dt><dd style=\"margin:0\">Coil floor Rs 218.50</dd><dt style=\"font-weight:700;margin-top:7px\">Target / objective</dt><dd style=\"margin:0\">Coil top Rs 238.75</dd><dt style=\"font-weight:700;margin-top:7px\">R:R at worst fill</dt><dd style=\"margin:0\">1:1.76 - below the screen</dd><dt style=\"font-weight:700;margin-top:7px\">Persistence</dt><dd style=\"margin:0\">Until the coil breaks</dd><dt style=\"font-weight:700;margin-top:7px\">Reference price</dt><dd style=\"margin:0\">Rs 229.00 (Tue close)</dd></dl></div><div style=\"border:1px solid #d8cdbb;padding:12px;margin:12px 0\"><h3 style=\"margin:0 0 10px\">5. Infosys</h3><dl style=\"margin:0\"><dt style=\"font-weight:700;margin-top:7px\">Status</dt><dd style=\"margin:0\">Watchlist - absorption held</dd><dt style=\"font-weight:700;margin-top:7px\">Entry / trigger</dt><dd style=\"margin:0\">Qualitative: guidance-cut absorption - held Monday</dd><dt style=\"font-weight:700;margin-top:7px\">Stop / invalidation</dt><dd style=\"margin:0\">Decisive weakness shelves it</dd><dt style=\"font-weight:700;margin-top:7px\">Target / objective</dt><dd style=\"margin:0\">Later structured entry</dd><dt style=\"font-weight:700;margin-top:7px\">R:R at worst fill</dt><dd style=\"margin:0\">n/a (qualitative)</dd><dt style=\"font-weight:700;margin-top:7px\">Persistence</dt><dd style=\"margin:0\">Until it structures or shelves</dd><dt style=\"font-weight:700;margin-top:7px\">Reference price</dt><dd style=\"margin:0\">Rs 1,161.95 (Tue close)</dd></dl></div><div style=\"border:1px solid #d8cdbb;padding:12px;margin:12px 0\"><h3 style=\"margin:0 0 10px\">6. Tech Mahindra</h3><dl style=\"margin:0\"><dt style=\"font-weight:700;margin-top:7px\">Status</dt><dd style=\"margin:0\">Watchlist</dd><dt style=\"font-weight:700;margin-top:7px\">Entry / trigger</dt><dd style=\"margin:0\">Reclaim Rs 1,845.95</dd><dt style=\"font-weight:700;margin-top:7px\">Stop / invalidation</dt><dd style=\"margin:0\">n/a</dd><dt style=\"font-weight:700;margin-top:7px\">Target / objective</dt><dd style=\"margin:0\">Bonus record date pending</dd><dt style=\"font-weight:700;margin-top:7px\">R:R at worst fill</dt><dd style=\"margin:0\">n/a (not a setup)</dd><dt style=\"font-weight:700;margin-top:7px\">Persistence</dt><dd style=\"margin:0\">Until the reclaim or the bonus date</dd><dt style=\"font-weight:700;margin-top:7px\">Reference price</dt><dd style=\"margin:0\">Rs 1,807.00 (Tue close)</dd></dl></div></div>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 400 125\" width=\"100%\" role=\"img\" aria-label=\"HCL Technologies: stop to target, marker at Tuesday's close\"><text x=\"8\" y=\"20\" font-size=\"12\">HCLTech</text><line x1=\"50\" y1=\"60\" x2=\"350\" y2=\"60\" stroke=\"#aaa\"/><line x1=\"82.70967741935502\" y1=\"60\" x2=\"314.774193548387\" y2=\"60\" stroke=\"#ba553a\" stroke-width=\"5\"/><circle cx=\"216.4516129032258\" cy=\"60\" r=\"6\" fill=\"#153d50\"/><text x=\"82.70967741935502\" y=\"45\" text-anchor=\"middle\" font-size=\"11\">1346.9</text><text x=\"314.774193548387\" y=\"45\" text-anchor=\"middle\" font-size=\"11\">1466.8</text><text x=\"216.4516129032258\" y=\"85\" text-anchor=\"middle\" font-size=\"11\">1416</text><text x=\"50\" y=\"110\" font-size=\"11\">1,330</text><text x=\"350\" y=\"110\" text-anchor=\"end\" font-size=\"11\">1,485</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": "Setup slots 2 to 5 are empty today. Nothing else cleared the verification bar; an empty slot is a result, not a gap. Tuesday's read: HCLTech's low of Rs 1,390.85 stayed above the zone - no fill, no gain, no loss; Kotak and JSW Steel held above their Monday triggers; ONGC closed at Rs 229.00, its second close above the 228 mark, still inside the coil; Tech Mahindra's bonus record date is still unannounced. Ather stays on watch off the board: it rose another 6.2% to Rs 1,671 - momentum without an honest entry structure."
+     }
+    ]
+   },
+   {
+    "heading": "How the board scores",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "No prior-day stop trade",
+        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+       },
+       {
+        "n": "2",
+        "title": "Same-day zone and stop",
+        "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
+       },
+       {
+        "n": "3",
+        "title": "Resolutions stay on record",
+        "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-ed\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "Today answers two pricing questions at once: what India's biggest company is worth on debut, and what US money will cost in December. The falsifiable read: if Jio closes its first day above Rs 1,119 while the Nifty holds 22,700, domestic liquidity is adding, not rotating - and every large private company in India gets a re-rating argument by Monday. If Jio closes below issue with the index under 22,500, the 22-times book was the top of the year's risk appetite, and the smallcap surge under Tuesday's flat index was distribution, not confidence. Tonight's Fed likely changes neither by itself - a hold is priced - but hawkish December language plus a soft Microsoft cloud number would hand Thursday a double headwind. Confidence: moderate. What would change my mind before Friday: a Jio close below Rs 1,050, which would say the pricing overshot real demand by more than the grey market ever did."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-brew\"></span>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>1. The Fed and two mega-caps, tonight.</strong> Decision 11:30 PM IST (hold ~93% priced, Kalshi); Microsoft and Alphabet report after the close. Watch for: the statement's December wording and Alphabet's Google Cloud number against last quarter's 82% growth. What would prove the market wrong: a surprise hike - low probability, high impact."
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. Anthropic's price range.</strong> The S-1 is public; the amended filing with a price range and share count is the next document, with the debut reported as targeted for Thanksgiving week. Watch for: the roadshow range versus the last private mark ($965 billion, May 2026). What would change the story: a range priced below that mark - a public down-round for the AI leader."
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. The UPI fee's start date.</strong> MDR above Rs 2,000 applies after Diwali (8 November), date \"to be notified separately\" (NPCI circular; Indian Express). Watch for: the notification and the steering committee's final category caps. What would prove it wrong: the notification slipping past November without explanation."
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-week\"></span>"
+     },
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Today, Wed 28 Oct",
+        "detail": "Jio Platforms lists 10 AM (pre-open from 9); FOMC decision 11:30 PM IST; Microsoft and Alphabet report after the US close; Q2 results continue (IndiGo, Adani Enterprises, Vedanta, NTPC among the week's names - ET Now calendar)."
+       },
+       {
+        "n": "2",
+        "title": "Thu 29 Oct",
+        "detail": "Amazon reports after the US close; first estimate of US Q3 GDP; BLS Polymers and SFC Environmental IPOs close; Bombay Coated opens."
+       },
+       {
+        "n": "3",
+        "title": "Fri 30 Oct",
+        "detail": "First full session with Jio in the index universe; results season continues."
+       },
+       {
+        "n": "4",
+        "title": "Mon 3 Nov",
+        "detail": "Infosys Rs 26 interim dividend record date (payout 11 Nov)."
+       },
+       {
+        "n": "5",
+        "title": "Sun 8 Nov",
+        "detail": "Diwali; UPI MDR applies from after the festival, date to be notified by NPCI."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<span id=\"s-notes\"></span>"
+     },
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read for this edition: the finance ministry's MDR FAQ (15 Sep, in full); Paytm's Q2 FY27 earnings release (in full, from its investor page and its BSE filing of 26 Oct); Bajaj Auto's and Cipla's Q2 press releases (in full); Anthropic's S-1 announcement and the SEC filing record; the RBI's 31 January 2024 order on Paytm Payments Bank (in full, for the long read); Liquid AI's, DeepMind's, Microsoft AI's and Google Cloud's launch posts; PTI's market wrap via Business Standard; CNBC's US close and oil reports; The Hindu BusinessLine on L&amp;amp;T and Paytm; Business Standard on Maruti and Mankind; livemint and moneycontrol on Jio's listing timetable and price; BBC Sport and AP on the Wellington match; Kalshi's rate odds; ET Now's IPO and results trackers; the BSE official end-of-day file (bhavcopy) for every Indian price quoted.",
+       "Jio issue size: printed as Rs 30,213 crore (livemint; exactly 27 crore shares at Rs 1,119). Yesterday's edition carried a moneycontrol figure of Rs 30,188 crore; the reconciled figure is used here.",
+       "Grey-market premium: Rs 244 as of 27 October, per three agreeing wire reports (livemint, News18, Business Standard). The two specialist GMP trackers this paper normally cross-checks (investorgain.com, chittorgarh.com) could not be loaded this morning; the figure is labelled unofficial and dated, as always.",
+       "Paytm Q2 profit: printed as Rs 225 crore per the company's own release and its blog; one wire (CNBC TV18) headlined Rs 226 crore - the company figure governs.",
+       "One L&amp;amp;T detail dropped: a wire line on the international share of its energy orders was internally garbled (75 versus 75%) and could not be reconciled; it is not printed.",
+       "X was not accessible this morning; the AI radar uses official blogs and Hacker News, with vendor and leaderboard claims labelled and dated.",
+       "Indian prices are from BSE's official end-of-day file only; NSE surfaces were not accessed. Index levels are as carried in the named wraps.",
+       "Markets coverage is research, not advice: the setup board's levels are conditional research triggers with published invalidation and targets, not recommendations to buy or sell. No orders are placed; the ledger books results only on actual fills."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Edition 23. The long read: \"The company that lost its bank\" - Paytm's road from a record IPO flop to an RBI death sentence to four profitable quarters. <a href=\"#/longread/23\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": null
+}
