@@ -4193,6 +4193,12 @@
       "alt": "Abstract illustration of a large navy arch collapsed on one side while small figures build a smaller ochre arch beside it",
       "caption": "The arch that fell, and the smaller one being built next to it."
     },
-    "thumb": "photos/lr23-thumb.jpg"
+    "thumb": "photos/lr23-thumb.jpg",
+    "audio": {
+      "full": "audio/lr23-full.m4a",
+      "times": {
+        "full": "audio/lr23-full.times.json"
+      }
+    }
   }
 }
