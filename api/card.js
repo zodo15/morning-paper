@@ -37,6 +37,7 @@ async function ingestImage(id, im) {
 
 /* Provenance and depth fields; new cards require at least one verified depth field. */
 function applyMeta(b, card) {
+  if (b.corporate_action === true) card.corporate_action = true;
   if (typeof b.source_name === 'string' && b.source_name.trim()) card.source_name = clean(b.source_name, LIM.source_name);
   if (typeof b.watch_next === 'string' && b.watch_next.trim()) card.watch_next = clean(b.watch_next, LIM.watch_next);
   if (typeof b.wrong_if === 'string' && b.wrong_if.trim()) card.wrong_if = clean(b.wrong_if, LIM.wrong_if);
