@@ -73,7 +73,7 @@ export default async function handler(req, res) {
   }
   var tooLong = over(b, ['headline', 'body', 'why', 'watch', 'source_name', 'watch_next', 'wrong_if', 'market_reaction', 'likely_reaction']);
   if (tooLong) return res.status(400).json({ error: tooLong });
-  if (b.likely_reaction && !/^(Positive|Mixed|Muted)\b/i.test(String(b.likely_reaction).trim())) return res.status(400).json({ error: 'likely_reaction must start Positive, Mixed or Muted and explain the judgment' });
+  if (b.likely_reaction && !/^(?:Judgment:\s*)?(Positive|Mixed|Muted)\b/i.test(String(b.likely_reaction).trim())) return res.status(400).json({ error: 'likely_reaction must name Positive, Mixed or Muted and explain the judgment' });
   if (b.update) {
     var tgt = feed.find(function (x) { return x.id === b.update; });
     if (!tgt) return res.status(404).json({ error: 'no such card' });
