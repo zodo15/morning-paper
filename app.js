@@ -843,9 +843,10 @@
     else out += ' \u00b7 ' + ageOf(d);
     return out;
   }
-  function hasMore(c) { return sane(c.watch) || sane(c.watch_next) || sane(c.wrong_if) || sane(c.market_reaction); }
+  function hasMore(c) { return sane(c.watch) || sane(c.watch_next) || sane(c.wrong_if) || sane(c.market_reaction) || sane(c.likely_reaction); }
   function moreHTML(c) {
     var h = '';
+    if (sane(c.likely_reaction)) h += '<b>Likely reaction</b><p><small>Next session · Judgment, not a price target</small><br>' + esc(sane(c.likely_reaction)) + '</p>';
     if (sane(c.market_reaction)) h += '<b>Market reaction</b><p>' + esc(sane(c.market_reaction)) + '</p>';
     if (sane(c.watch_next)) h += '<b>Watch next</b><p>' + esc(sane(c.watch_next)) + '</p>';
     if (sane(c.wrong_if)) h += '<b>Wrong if</b><p>' + esc(sane(c.wrong_if)) + '</p>';

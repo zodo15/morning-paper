@@ -3,7 +3,7 @@ import { authed, pushAll, readFeed, writeFeed } from './_lib.js';
 import { put } from '@vercel/blob';
 var LANES = ['markets', 'insurance', 'fintech', 'ai', 'startups'];
 function clean(s, n) { return String(s == null ? '' : s).replace(/\s+/g, ' ').trim().slice(0, n); }
-var LIM = { headline: 140, body: 900, why: 450, watch: 600, source_name: 60, watch_next: 120, wrong_if: 120, market_reaction: 160 };
+var LIM = { headline: 140, body: 900, why: 450, watch: 600, source_name: 60, watch_next: 120, wrong_if: 120, market_reaction: 160, likely_reaction: 160 };
 function over(b, keys) { for (var k of keys) { if (b[k] != null && String(b[k]).replace(/\s+/g, ' ').trim().length > LIM[k]) return k + ' is over ' + LIM[k] + ' characters (not truncated; shorten it)'; } return null; }
 function firstSentence(t, n) {
   var m = String(t).match(/^(.+?[.!?])(\s|$)/); var s = m ? m[1] : String(t);
@@ -40,6 +40,7 @@ function applyMeta(b, card) {
   if (typeof b.source_name === 'string' && b.source_name.trim()) card.source_name = clean(b.source_name, LIM.source_name);
   if (typeof b.watch_next === 'string' && b.watch_next.trim()) card.watch_next = clean(b.watch_next, LIM.watch_next);
   if (typeof b.wrong_if === 'string' && b.wrong_if.trim()) card.wrong_if = clean(b.wrong_if, LIM.wrong_if);
+  if (typeof b.likely_reaction === 'string' && b.likely_reaction.trim()) card.likely_reaction = clean(b.likely_reaction, LIM.likely_reaction);
   if (typeof b.market_reaction === 'string' && b.market_reaction.trim()) card.market_reaction = clean(b.market_reaction, LIM.market_reaction);
   if (typeof b.published_at_source === 'string') {
     var v = b.published_at_source.trim();
@@ -70,8 +71,9 @@ export default async function handler(req, res) {
     var pr = await pushAll({ title: clean(b.pushTitle, 110), body: clean(b.pushGist, 160), url: pu, tag: clean(b.tag, 60) || undefined }, b.force === true);
     return res.status(200).json({ pushOnly: true, push: pr });
   }
-  var tooLong = over(b, ['headline', 'body', 'why', 'watch', 'source_name', 'watch_next', 'wrong_if', 'market_reaction']);
+  var tooLong = over(b, ['headline', 'body', 'why', 'watch', 'source_name', 'watch_next', 'wrong_if', 'market_reaction', 'likely_reaction']);
   if (tooLong) return res.status(400).json({ error: tooLong });
+  if (b.likely_reaction && !/^(Positive|Mixed|Muted)\b/i.test(String(b.likely_reaction).trim())) return res.status(400).json({ error: 'likely_reaction must start Positive, Mixed or Muted and explain the judgment' });
   if (b.update) {
     var tgt = feed.find(function (x) { return x.id === b.update; });
     if (!tgt) return res.status(404).json({ error: 'no such card' });
@@ -95,6 +97,9 @@ export default async function handler(req, res) {
     at: clean(b.at, 40)
   };
   applyMeta(b, card);
+  var corporateAction = b.corporate_action === true || /earnings|results|fundraise|acquisition|demerg|acqui(?:re|res|red|sition)|fundrais|raises? (?:rs|inr|usd|us\$|\$)|\bQ[1-4]\b.*(?:profit|revenue|sales|earnings|result)|(?:order|contract).*(?:crore|billion|million)|(?:crore|billion|million).*(?:order|contract)/i.test(card.headline + ' ' + card.tags.join(' '));
+  if (corporateAction && !card.likely_reaction) return res.status(400).json({ error: 'Corporate-action cards require likely_reaction: next-session judgment with direction and reason' });
+  if (corporateAction) card.corporate_action = true;
   if (!card.headline || !card.body || !card.sources.length) return res.status(400).json({ error: 'headline, body and at least one https source required' });
   if (!['watch', 'watch_next', 'wrong_if', 'market_reaction'].some(function (k) { return typeof card[k] === 'string' && card[k].trim(); })) return res.status(400).json({ error: 'At least one verified More field required: watch, watch_next, wrong_if or market_reaction' });
   if (!card.why) return res.status(400).json({ error: 'A factual why-it-matters field is required' });
