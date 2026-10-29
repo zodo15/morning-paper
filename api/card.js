@@ -56,6 +56,7 @@ export default async function handler(req, res) {
     return res.status(200).json({ removed: n0 - feed.length });
   }
   if (b.pushOnly) {
+    if (!b.pushTitle || !b.pushGist || String(b.pushTitle).length > 110 || String(b.pushGist).length > 160) return res.status(400).json({ error: 'Push requires title <=110 and body <=160, no truncation' });
     var pu = String(b.url || ''); if (!/^(\.\/|\.\/\?c=c[a-z0-9]+)$/.test(pu)) return res.status(400).json({ error: 'url must be ./ or ./?c=<card id>' });
     // Card push title, body and destination must refer to one live card.
     if (pu !== './') {
@@ -112,9 +113,5 @@ export default async function handler(req, res) {
   await writeFeed(feed.slice(0, 200));
   var out = { id: card.id, pushed: false, image: card.image ? card.image.src : null };
   if (imgWarn) out.imageWarning = imgWarn;
-  if (b.push !== false) {
-    out.push = await pushAll({ title: clean(b.pushTitle, 110) || card.headline, body: clean(b.pushGist, 160) || firstSentence(card.body, 150), url: './?c=' + card.id, tag: card.id }, b.force === true);
-    out.pushed = true;
-  }
   res.status(200).json(out);
 }
