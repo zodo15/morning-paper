@@ -839,8 +839,8 @@
     var day = d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', timeZone: 'Asia/Kolkata' });
     var out = 'Source published ' + day;
     if (!dateOnly) out += ' \u00b7 ' + d.toLocaleTimeString('en-IN', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'Asia/Kolkata' }).toUpperCase().replace(' ', '\u00a0') + ' IST';
-    out += ' \u00b7 ' + ageOf(d);
-    if (dateOnly) out += ' \u00b7 time n/a';
+    if (dateOnly) out += ' \u00b7 time not stated';
+    else out += ' \u00b7 ' + ageOf(d);
     return out;
   }
   function hasMore(c) { return sane(c.watch) || sane(c.watch_next) || sane(c.wrong_if) || sane(c.market_reaction); }
