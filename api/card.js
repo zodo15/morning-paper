@@ -35,7 +35,7 @@ async function ingestImage(id, im) {
   return { src: 'api/img?p=' + path, credit: credit, page: page, pos: pos };
 }
 
-/* optional card metadata: provenance + depth fields (all optional; old cards lack them) */
+/* Provenance and depth fields; new cards require at least one verified depth field. */
 function applyMeta(b, card) {
   if (typeof b.source_name === 'string' && b.source_name.trim()) card.source_name = clean(b.source_name, LIM.source_name);
   if (typeof b.watch_next === 'string' && b.watch_next.trim()) card.watch_next = clean(b.watch_next, LIM.watch_next);
@@ -86,6 +86,8 @@ export default async function handler(req, res) {
   };
   applyMeta(b, card);
   if (!card.headline || !card.body || !card.sources.length) return res.status(400).json({ error: 'headline, body and at least one https source required' });
+  if (!['watch', 'watch_next', 'wrong_if', 'market_reaction'].some(function (k) { return typeof card[k] === 'string' && card[k].trim(); })) return res.status(400).json({ error: 'At least one verified More field required: watch, watch_next, wrong_if or market_reaction' });
+  if (!card.why) return res.status(400).json({ error: 'A factual why-it-matters field is required' });
   if (!b.force) {
     var dupe = feed.find(function (c) { return c.headline.toLowerCase() === card.headline.toLowerCase(); });
     if (dupe) return res.status(409).json({ error: 'duplicate headline', id: dupe.id });

@@ -850,7 +850,7 @@
     if (sane(c.watch_next)) h += '<b>Watch next</b><p>' + esc(sane(c.watch_next)) + '</p>';
     if (sane(c.wrong_if)) h += '<b>Wrong if</b><p>' + esc(sane(c.wrong_if)) + '</p>';
     if (sane(c.watch)) h += '<b>What could change this</b><p>' + esc(sane(c.watch)) + '</p>';
-    return h || '<b>More</b><p>No extra notes for this card. The source link on the card has the full announcement.</p>';
+    return h;
   }
   function cardHTML(c) {
     var tags = (c.tags || []).slice(0, 4).map(function (t) { return '<span class="ctag">' + esc(t) + '</span>'; }).join('');
@@ -863,7 +863,7 @@
       (pubLine(c) ? '<div class="ncard-meta">' + pubLine(c) + '</div>' : '') +
       (sane(c.why) ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(sane(c.why)) + '</span></div>' : '') +
       '<div class="ncard-foot">' + (tags ? '<div class="ncard-tags">' + tags + '</div>' : '') +
-      '<div class="ncard-src">Source: ' + src + ' &middot; <button class="more-btn" data-act="more">More</button>' + '</div></div>' +
+      '<div class="ncard-src">Source: ' + src + (hasMore(c) ? ' &middot; <button class="more-btn" data-act="more">More</button>' : '') + '</div></div>' +
       '</article></section>';
   }
   function endHTML() {
