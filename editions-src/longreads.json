@@ -4200,5 +4200,208 @@
         "full": "audio/lr23-full.times.json"
       }
     }
+  },
+  "24": {
+    "title": "The company that gave the internet away",
+    "fact": "A Slow Burn long read, Thursday 29 October 2026. On Wednesday, Jio Platforms closed its first day of trading at Rs 1,419 a share, up 26.81% on its issue price, valued at Rs 13.05 lakh crore - instantly India's second-most-valuable listed company, ahead of Bharti Airtel. This is the story of how a free-data giveaway in 2016 became the largest public listing India has ever seen.",
+    "intro": "The story in one line: a company that could afford to give its product away did exactly that, built the largest subscriber base in the country while rivals priced by the gigabyte, cleaned its balance sheet in one fifty-eight-day sprint, and arrived at the stock market a decade later with the debt gone and the customers already inside. Every claim below comes from the sources listed at the end, most of them the company's own releases.",
+    "groups": [
+      {
+        "heading": "1. The first print",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Wednesday morning at the National Stock Exchange, the Ambani family assembled for a listing ceremony that had been expected, on and off, for well over a year. Mukesh Ambani stood with Nita Ambani, Isha Ambani and Anant Ambani; Akash Ambani, Jio Platforms' managing director, spoke; NSE's chief executive Ashishkumar Chauhan attended (Indian Express). The stock opened at Rs 1,358, a premium of 21.36% to the issue price of Rs 1,119, and closed at Rs 1,419 - up Rs 300, or 26.81%, on the day (<a href=\"https://www.fortuneindia.com/markets/jio-platforms-shares-rally-27-on-ipo-debut-investors-wealth-swells-by-275-lakh-crore-as-m-cap-tops-13-lakh-crore/167214\" target=\"_blank\" rel=\"noopener\">Fortune India</a>; <a href=\"https://indianexpress.com/article/business/jio-listing-premium-issue-akash-ambani-10939995/\" target=\"_blank\" rel=\"noopener\">Indian Express</a>)."
+          },
+          {
+            "t": "p",
+            "html": "By the close, Jio Platforms was worth Rs 13.05 lakh crore - more than Bharti Airtel's Rs 12.16 lakh crore, behind only its own parent, Reliance Industries, at about Rs 15.67 lakh crore. The issue itself had already set its records before a single trade: Rs 30,213 crore raised, the largest IPO in Indian history, passing Hyundai Motor India's Rs 27,870 crore from 2024; about 1.37 crore applications, the first Indian IPO to cross one crore; subscribed 22.19 times overall. One brokerage note captured the day's strangeness flatly: Motilal Oswal initiated coverage that morning with a Buy - and a target price of Rs 1,350, below the price the market closed at. The company debuted, in other words, above at least one major broker's idea of what it is worth."
+          },
+          {
+            "t": "p",
+            "html": "A 22-times-subscribed book and a first-day pop mean the optimistic case was paid for in advance. What buyers own now is the ten years that produced this room."
+          }
+        ]
+      },
+      {
+        "heading": "2. The wall around the internet",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "To understand the launch, hold the 2016 market in mind: mobile data in India was sold by the gigabyte at prices that made streaming a luxury, and most of the country rationed the internet like a metered utility. On 1 September 2016, Reliance Jio Infocomm filed its tariff plans with the regulator and announced what it called the Jio Welcome Offer (<a href=\"https://www.ril.com/sites/default/files/2023-01/Media-Release-Jio-01092016-1.pdf\" target=\"_blank\" rel=\"noopener\">company release, read in full</a>): from 5 September, users would get unlimited LTE data, national voice, video and messaging - free of cost - until 31 December 2016."
+          },
+          {
+            "t": "p",
+            "html": "The mechanism was brutal in its simplicity. The barrier to India's internet was never demand; it was the price of the marginal megabyte. Jio made the marginal megabyte zero and let the habit form. Free service - the Welcome Offer to 31 December 2016, extended by the Happy New Year Offer to 31 March 2017 (<a href=\"https://www.ril.com/sites/default/files/2023-01/Media-Release-01122016.pdf\" target=\"_blank\" rel=\"noopener\">company release, 1 December 2016</a>) - was not a discount; it was an invitation to reorganise daily life around data: video calls, films, payments, all of it, before the first bill ever arrived. Competitors pricing by the gigabyte were suddenly selling a metered product next to an unmetered one."
+          },
+          {
+            "t": "figure",
+            "img": "photos/lr24-fig2.jpg",
+            "alt": "Abstract illustration of a crowd of small navy squares pressed against a tall rust wall with one narrow gate",
+            "caption": "2016: data behind a price wall, with one narrow gate. The Welcome Offer took the wall down; the Happy New Year Offer kept it down to 31 March 2017."
+          }
+        ]
+      },
+      {
+        "heading": "3. One hundred million in 170 days",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "On 21 February 2017, Mukesh Ambani addressed what he called \"my 100 million Jio customers\" (<a href=\"https://www.ril.com/sites/default/files/2023-01/RIL%20Sh%20Mukesh%20D%20Ambani%20Speech%20-%2021%20Feb%202017.pdf\" target=\"_blank\" rel=\"noopener\">the chairman's speech, in full</a>): \"Jio launched its services on Sept 5th of last year. Today... just 170 days later... Jio has crossed the 100 million customer mark.\" One hundred million people in under six months - an adoption pace with no precedent in Indian consumer business, built on the free offer and the habit it created."
+          },
+          {
+            "t": "p",
+            "html": "The free period ended on 31 March 2017; the customers stayed and, with Jio Prime from April, started paying. The number that tracks that conversion is ARPU - average revenue per user, the monthly rupee yield of one subscriber. Jio's ARPU was Rs 181.7 in FY24, Rs 214 in FY26, and Rs 215.6 in the April-June quarter of FY27 (<a href=\"https://indianexpress.com/article/business/jio-listing-premium-issue-akash-ambani-10939995/\" target=\"_blank\" rel=\"noopener\">Indian Express, from the company's disclosures</a>). Bharti Airtel's, for comparison, stood at Rs 264. Jio won the subscribers; the industry kept a price umbrella over its head that it is still, a decade later, climbing toward."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 380 188\" width=\"100%\" role=\"img\" aria-label=\"Jio ARPU, rupees per user per month; sources: company disclosures carried in the Indian Express, 28 Oct 2026\" style=\"margin:14px 0\"><line x1=\"270\" y1=\"26\" x2=\"270\" y2=\"154\" stroke=\"#94a3b8\" stroke-width=\"1\"></line><g><text x=\"8\" y=\"44\" font-size=\"12\" fill=\"#334155\">FY24</text><rect x=\"270\" y=\"30\" width=\"79.83787878787878\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"355.83787878787876\" y=\"44\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">181.7</text></g><g><text x=\"8\" y=\"78\" font-size=\"12\" fill=\"#334155\">FY26</text><rect x=\"270\" y=\"64\" width=\"94.03030303030303\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"370.030303030303\" y=\"78\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">214</text></g><g><text x=\"8\" y=\"112\" font-size=\"12\" fill=\"#334155\">Q1 FY27</text><rect x=\"270\" y=\"98\" width=\"94.73333333333333\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"370.73333333333335\" y=\"112\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">215.6</text></g><g><text x=\"8\" y=\"146\" font-size=\"12\" fill=\"#334155\" font-weight=\"700\">Airtel Q1 FY27</text><rect x=\"270\" y=\"132\" width=\"116\" height=\"20\" rx=\"3\" fill=\"#15803d\"></rect><text x=\"392\" y=\"146\" text-anchor=\"start\" font-size=\"12\" font-weight=\"600\" fill=\"#15803d\">264</text></g><text x=\"8\" y=\"180\" font-size=\"11\" fill=\"#64748b\">Jio ARPU, rupees per user per month; sources: company disclosures carried in the Indian Express, 28 Oct 2026</text></svg>"
+          }
+        ]
+      },
+      {
+        "heading": "4. The fifty-eight days",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Building a nationwide 4G network from nothing had been funded the way everything at Reliance was funded: with debt. By 31 March 2020, the group carried net debt of Rs 161,035 crore (<a href=\"https://www.ril.com/sites/default/files/2023-01/Media-Release-19062020.pdf\" target=\"_blank\" rel=\"noopener\">company release, 19 June 2020</a>). What happened next, in the middle of a national lockdown, unwound that debt in fifty-eight days."
+          },
+          {
+            "t": "p",
+            "html": "It began on 22 April 2020: Facebook invested Rs 43,574 crore for a 9.99% stake in Jio Platforms (<a href=\"https://www.ril.com/news-media/press-releases/facebook-invest-rs43574-crore-jio-platforms-999-stake\" target=\"_blank\" rel=\"noopener\">company release</a>) - the largest foreign direct investment for a minority stake in India, the release noted. Then the queue formed. Over the following weeks: Silver Lake, Vista Equity Partners, General Atlantic, KKR, Mubadala, ADIA, TPG, L Catterton and Saudi Arabia's Public Investment Fund. By 19 June - fifty-eight days after the Facebook announcement - Jio Platforms had raised Rs 115,693.95 crore from ten global investors, and a parallel Reliance rights issue had raised Rs 53,124.20 crore more: Rs 168,818 crore in all. The company's own release stated the result in one line: \"RIL has become NET DEBT-FREE.\" On 15 July, Google closed the round with Rs 33,737 crore for 7.73% (<a href=\"https://www.ril.com/news-media/press-releases/google-invest-rs33737-crore-jio-platforms-773-stake\" target=\"_blank\" rel=\"noopener\">company release</a>), taking the equity raise to about Rs 1.52 lakh crore in three months (Intel Capital and Qualcomm Ventures also invested that July) - and putting both Facebook and Google on the shareholder register of the same Indian telecom company."
+          },
+          {
+            "t": "p",
+            "html": "The 2020 spree did two things at once: it erased the debt that built the network, and it priced the network's owner in front of the world's most demanding investors - six years before the public got its turn."
+          }
+        ]
+      },
+      {
+        "heading": "5. The build, as it stands",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The asset that listed on Wednesday is no longer a SIM card business. From the parent's Q1 FY27 presentation of July 2026 (<a href=\"https://www.ril.com/sites/default/files/2026-07/Presentation_for_RIL_Analyst_Meeting_v17072026.pdf\" target=\"_blank\" rel=\"noopener\">read in full</a>): Jio Platforms' quarterly revenue was Rs 45,961 crore, up 12% year on year; EBITDA Rs 20,865 crore, up 15.1%. The subscriber base stood above 533 million, with 285 million of them on its 5G network - a network the company says is built on proprietary technology. In homes, it counted 28.6 million fixed-broadband subscribers, about half on Jio AirFiber, its fixed-wireless product, where it claims over 78% of the Indian market. Digital services - cloud, enterprise connectivity, IoT, managed services - grew 20% year on year."
+          },
+          {
+            "t": "figure",
+            "img": "photos/lr24-fig3.jpg",
+            "alt": "Abstract illustration of navy, ochre and rust blocks assembling into a rising staircase",
+            "caption": "Connectivity first, then homes, then cloud and enterprise: smaller blocks, stacked in order."
+          }
+        ]
+      },
+      {
+        "heading": "6. The wait",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The listing was first announced in mid-2025 (<a href=\"https://indianexpress.com/article/business/jio-listing-premium-issue-akash-ambani-10939995/\" target=\"_blank\" rel=\"noopener\">Indian Express</a>) and took more than a year to arrive. The offer, when it came, was structured plainly: a price band of Rs 1,065 to Rs 1,119, an entirely fresh issue of about 27 crore shares - no promoter selling a single one, so every rupee of the Rs 30,213 crore goes to the company. Anchor investors were brought in first, for Rs 8,110 crore, with mutual funds taking over a third of the institutional anchor allocation. Employees got a reserved slice of 46,94,835 shares at a Rs 54 discount to the price. When the book closed on 23 October, the institutional portion was subscribed nearly 71 times, non-institutional about 14 times, retail 2.72 times: 22.19 times overall, with bids for 438.26 crore shares against 19.75 crore on offer to the public."
+          }
+        ]
+      },
+      {
+        "heading": "7. What the money is for",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The offer documents name two uses: up to Rs 27,500 crore to repay borrowings of the operating subsidiary Reliance Jio Infocomm - the 2020 deleveraging, completed a second time from the inside - and the rest for general corporate purposes. Around the raise sits a commercial calendar: Nomura expects an industry-wide tariff hike of about 15% around November-December, the recurring event that has driven every step of the ARPU chart above. And there is the ambition Akash Ambani stated at the ceremony: \"In our first 10 years, we democratised data... In our next 10, we want to democratise every technology that can transform Indian lives: AI, cloud, connected devices, connectivity even from space.\" Meta still holds about 10% of the company and Google about 8% - the AI partnerships the market is pricing sit inside the shareholding itself."
+          }
+        ]
+      },
+      {
+        "heading": "8. What made it work - and what it got wrong",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "What worked, in order: the free offer converted the country's internet from a rationed utility to a daily habit before anyone was billed; the parent absorbed a decade of capital expenditure that no standalone rival could have carried; the 2020 sprint removed the debt exactly when the world was offering cheap equity; and the platform was stacked on the pipe - homes, cloud, enterprise - so that connectivity's thin margins were never the whole business. The honest list of what it got wrong, or has not yet gotten right: ARPU still sits about 18% below Airtel's, the price umbrella it created has not fully closed; the AI and cloud build-out repeats the original wager - spend first, monetise later - in a market where the payoff is less proven than connectivity was; and the stock debuted above at least one major broker's target, which means the public buyer starts where the easy optimism is already spent."
+          }
+        ]
+      },
+      {
+        "heading": "9. What would prove this story wrong",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Three tests now run in public. The ARPU test: if Jio's ARPU stalls below roughly Rs 220 through FY27 while Airtel's keeps climbing, the umbrella is closing the wrong way and the volume story has no price story to hold it. The tariff test: if the expected November-December hike slips past the first quarter of 2027, the regulator and the market are signalling the ceiling has been reached - and the monetisation chapter of this story was oversold. And the platform test: if digital-services growth - 20% in the last presentation - slows to connectivity's 11% (the last presentation's figure) before the AI partnerships produce a visible revenue line, the platform stacked on the pipe is a brochure, and the company is a utility with a glamorous register. A decade from now, this reads either as the great Indian consumer-internet build, or as the most expensive entry price retail investors ever paid for a telecom."
+          }
+        ]
+      },
+      {
+        "heading": "Appendix: the numbers, with their source dates",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Welcome Offer announced 1 Sep 2016, effective 5 Sep: unlimited data, voice, video and messaging free until 31 Dec 2016",
+                "detail": "Reliance Jio media release, 1 Sep 2016, read in full."
+              },
+              {
+                "n": "2",
+                "title": "100 million customers in 170 days",
+                "detail": "Chairman's speech, Reliance Industries, 21 Feb 2017, read in full."
+              },
+              {
+                "n": "3",
+                "title": "Facebook: Rs 43,574 crore for 9.99%, 22 Apr 2020",
+                "detail": "RIL press release, 22 Apr 2020."
+              },
+              {
+                "n": "4",
+                "title": "Rs 115,693.95 crore from ten global investors in 58 days; rights issue Rs 53,124.20 crore; Rs 168,818 crore total; net debt Rs 161,035 crore as of 31 Mar 2020; 'net debt-free'",
+                "detail": "RIL media release, 19 Jun 2020, read in full."
+              },
+              {
+                "n": "5",
+                "title": "Google: Rs 33,737 crore for 7.73%; over Rs 1.5 lakh crore raised in three months",
+                "detail": "RIL press release, 15 Jul 2020."
+              },
+              {
+                "n": "6",
+                "title": "Q1 FY27: revenue Rs 45,961 crore (+12%), EBITDA Rs 20,865 crore (+15.1%); over 533 million subscribers, 285 million on 5G; 28.6 million fixed broadband, about half AirFiber; over 78% FWA share",
+                "detail": "Reliance Industries Q1 FY27 analyst presentation, Jul 2026, read in full."
+              },
+              {
+                "n": "7",
+                "title": "ARPU: Rs 181.7 (FY24), Rs 214 (FY26), Rs 215.6 (Q1 FY27); Airtel Rs 264",
+                "detail": "Company disclosures carried in the Indian Express, 28 Oct 2026."
+              },
+              {
+                "n": "8",
+                "title": "IPO: Rs 30,213 crore, all fresh issue, about 27 crore shares at Rs 1,119 (band Rs 1,065-1,119); anchors Rs 8,110 crore; subscribed 22.19 times (QIB nearly 71 times, non-institutional about 14, retail 2.72); about 1.37 crore applications",
+                "detail": "Fortune India and Indian Express, 28 Oct 2026, both read in full."
+              },
+              {
+                "n": "9",
+                "title": "Debut: listed Rs 1,358 (+21.36%), closed Rs 1,419 (+26.81%); market value Rs 13.05 lakh crore, ahead of Bharti Airtel (Rs 12.16 lakh crore), behind Reliance Industries (about Rs 15.67 lakh crore)",
+                "detail": "Fortune India and Indian Express, 28 Oct 2026."
+              },
+              {
+                "n": "10",
+                "title": "Motilal Oswal: Buy, target Rs 1,350, 11.5 times estimated FY29 EBITDA; projected FY26-29 CAGR - revenue 14%, EBITDA 15%, profit 20%",
+                "detail": "Initiation note as quoted by Fortune India, 28 Oct 2026."
+              },
+              {
+                "n": "11",
+                "title": "Use of proceeds: up to Rs 27,500 crore to repay Reliance Jio Infocomm borrowings, rest general corporate purposes",
+                "detail": "Offer documents, as reported by livemint and moneycontrol."
+              },
+              {
+                "n": "12",
+                "title": "Nomura expects an industry-wide tariff hike of about 15% around November-December",
+                "detail": "Indian Express, 28 Oct 2026."
+              }
+            ]
+          },
+          {
+            "t": "closing",
+            "html": "The Slow Burn long read for Thursday 29 October 2026. Sources: Reliance Industries' own releases of 1 September 2016, 21 February 2017, 22 April 2020, 19 June 2020 and 15 July 2020, and its Q1 FY27 presentation of July 2026 - each read in full; Fortune India's and the Indian Express's listing-day reports of 28 October 2026, read in full. Research, not advice."
+          }
+        ]
+      }
+    ],
+    "thumb": "photos/lr24-thumb.jpg"
   }
 }
