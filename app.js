@@ -233,7 +233,7 @@
         if (!bm) continue;
         var got = wrapBlockSentences(els[i], bm.sentences || []);
         if (got) items = items.concat(got);
-        else if (bm.s != null) items.push({ s: bm.s, e: bm.e, spans: [], block: els[i] });
+        else if (bm.s != null) items.push({ s: bm.s, e: bm.e, spans: wrapWholeBlock(els[i]), block: els[i] });
       }
       items.sort(function (x, y) { return x.s - y.s; });
       if (items.length && items[0].s > 2) {  // spoken opening (greeting, nameplate, fact, intro) has no sentence map: light the title + intro as one honest block, no faked timings
