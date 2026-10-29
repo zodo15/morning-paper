@@ -364,3 +364,8 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .edition-lr-link:hover { background: var(--ink); border-color: var(--ink); }
 .edition-lr-link:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
 .edition-lr-link span:last-child { white-space: nowrap; font-weight: 600; }
+
+/* Keep every Cards category reachable on narrow screens. */
+.cfs .lanes { min-width: 0; touch-action: pan-x; overscroll-behavior-x: contain; }
+.lane-scroll { flex: none; width: 18px; min-height: 44px; padding: 0; border: 0; background: transparent; color: var(--stone); font-size: 24px; cursor: pointer; }
+.cfs-home { flex: none; }

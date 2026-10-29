@@ -711,7 +711,7 @@
     var ed = D.editions[D.today];
     var h = '<div class="wrap">' + mast('today') + editionLongreadLink(D.today) + tickerHTML(D.today) +
       '<div class="kicker">Today &middot; ' + esc(D.meta[D.today].date) + '</div>' +
-      '<h1 class="h1">' + escFix(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
+      '<h1 class="h1">' + escFix(ed.headline || leadSplit(ed.fact).head) + '</h1>' + (!ed.headline && leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + escFix(ed.intro) + '</p>' +
       editionBody(D.today, true) + ednavHTML(D.today) +
       '<div class="footer"><span>Slow Burn &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span><a href="#" class="push-link" data-push="1" hidden></a></div></div>';
@@ -729,7 +729,7 @@
       var thumb = ed.thumb || (ed.hero && ed.hero.img) || plateFor(n, 'Front page') || 'photos/concept-compounding.jpg';
       h += '<a class="arch-card" href="#/edition/' + n + '"><span class="arch-num">' + n + '</span>' +
         '<span class="arch-meta"><b>' + esc(D.meta[n].date) + (n === D.today ? ' &nbsp;<span class="arch-today-tag">Today</span>' : '') + '</b>' +
-        '<span>' + escFix(leadSplit(ed.fact).head) + '</span></span>' +
+        '<span>' + escFix(ed.headline || leadSplit(ed.fact).head) + '</span></span>' +
         '<img class="arch-thumb" src="' + thumb + '" alt="" loading="lazy"></a>';
     }
     h += '</div><div class="footer"><span>Slow Burn</span><span>' + D.today + ' editions</span></div></div>';
@@ -740,7 +740,7 @@
     if (!ed) { renderArchive(); return; }
     var h = '<div class="wrap">' + mast('') + editionLongreadLink(n) +
       '<div class="kicker">Edition ' + n + ' &middot; ' + esc(D.meta[n].date) + '</div>' +
-      '<h1 class="h1">' + escFix(leadSplit(ed.fact).head) + '</h1>' + (leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
+      '<h1 class="h1">' + escFix(ed.headline || leadSplit(ed.fact).head) + '</h1>' + (!ed.headline && leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + escFix(ed.intro) + '</p>' +
       editionBody(n, n === D.today) + ednavHTML(n) +
       '<div class="footer"><span>Slow Burn</span><span><a href="#/archive">Full archive</a></span></div></div>';
@@ -850,7 +850,7 @@
     if (sane(c.watch_next)) h += '<b>Watch next</b><p>' + esc(sane(c.watch_next)) + '</p>';
     if (sane(c.wrong_if)) h += '<b>Wrong if</b><p>' + esc(sane(c.wrong_if)) + '</p>';
     if (sane(c.watch)) h += '<b>What could change this</b><p>' + esc(sane(c.watch)) + '</p>';
-    return h;
+    return h || '<b>More</b><p>No extra notes for this card. The source link on the card has the full announcement.</p>';
   }
   function cardHTML(c) {
     var tags = (c.tags || []).slice(0, 4).map(function (t) { return '<span class="ctag">' + esc(t) + '</span>'; }).join('');
@@ -863,7 +863,7 @@
       (pubLine(c) ? '<div class="ncard-meta">' + pubLine(c) + '</div>' : '') +
       (sane(c.why) ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(sane(c.why)) + '</span></div>' : '') +
       '<div class="ncard-foot">' + (tags ? '<div class="ncard-tags">' + tags + '</div>' : '') +
-      '<div class="ncard-src">Source: ' + src + (hasMore(c) ? ' &middot; <button class="more-btn" data-act="more">More</button>' : '') + '</div></div>' +
+      '<div class="ncard-src">Source: ' + src + ' &middot; <button class="more-btn" data-act="more">More</button>' + '</div></div>' +
       '</article></section>';
   }
   function endHTML() {
@@ -905,7 +905,7 @@
     else if (!n) panels = '<section class="pg"><div class="pg-in cards-empty">' + (CARDS.lane === 'unread' ? 'No unread cards. You\'re all caught up for today.' : CARDS.list.length ? 'No cards in this lane yet.' : 'No cards yet. They appear here as the day\'s news lands.') + '</div></section>';
     else panels = list.map(cardHTML).join('') + endHTML();
     app.innerHTML = '<div class="cfs">' +
-      '<div class="cfs-top"><a class="cfs-home" href="#/" aria-label="Back to the paper">&larr; Paper</a><div class="lanes">' + lanes + '</div><button class="cfs-gear" data-act="gear" aria-label="Card settings">&#9881;</button></div>' +
+      '<div class="cfs-top"><a class="cfs-home" href="#/" aria-label="Back to the paper">&larr; Paper</a><button class="lane-scroll" data-act="lanesback" aria-label="Previous categories">&#8249;</button><div class="lanes" aria-label="Card categories, swipe to see all">' + lanes + '</div><button class="lane-scroll" data-act="lanesnext" aria-label="More categories">&#8250;</button><button class="cfs-gear" data-act="gear" aria-label="Card settings">&#9881;</button></div>' +
       '<div class="cfs-set" id="cfs-set" hidden><label><input type="checkbox" id="quiet-toggle"' + (quietPref() ? ' checked' : '') + '> Quiet hours <span>11 PM to 7 AM IST, no pushes</span></label><a href="#" class="push-link" data-push="1" hidden></a></div>' +
       '<div class="pager" id="pager"><div class="track" id="track">' + panels + '</div></div>' +
       '<div class="cfs-arrows"><span class="cards-pos" id="cpos"></span><button class="arw" data-act="prev" aria-label="Previous card"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 15l7-7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="arw" data-act="next" aria-label="Next card"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 9l7 7 7-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button></div>' +
@@ -973,11 +973,12 @@
   function closeSheet() { var s = document.getElementById('cfs-sheet'); if (s) s.hidden = true; }
   document.addEventListener('click', function (e) {
     var l = e.target.closest && e.target.closest('.lane');
-    if (l) { CARDS.lane = l.getAttribute('data-lane'); CARDS.i = 0; renderCardsView(); return; }
+    if (l) { var oldStrip = document.querySelector('.cfs .lanes'), sx = oldStrip ? oldStrip.scrollLeft : 0; CARDS.lane = l.getAttribute('data-lane'); CARDS.i = 0; renderCardsView(); var newStrip = document.querySelector('.cfs .lanes'); if (newStrip) newStrip.scrollLeft = sx; return; }
     var b = e.target.closest && e.target.closest('[data-act]');
     if (!b || b.disabled) return;
     var a = b.getAttribute('data-act');
-    if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') { CARDS.lane = 'all'; renderCardsView(); goTo(0); } else if (a === 'unread') { CARDS.lane = 'unread'; CARDS.i = 0; renderCardsView(); }
+    if (a === 'lanesnext' || a === 'lanesback') { var strip = document.querySelector('.cfs .lanes'); if (strip) strip.scrollBy({left: (a === 'lanesnext' ? 1 : -1) * strip.clientWidth * .8, behavior:'smooth'}); }
+    else if (a === 'next') cardStep(1); else if (a === 'prev') cardStep(-1); else if (a === 'first') { CARDS.lane = 'all'; renderCardsView(); goTo(0); } else if (a === 'unread') { CARDS.lane = 'unread'; CARDS.i = 0; renderCardsView(); }
     else if (a === 'gear') { var g = document.getElementById('cfs-set'); if (g) g.hidden = !g.hidden; }
     else if (a === 'more') { var c = filteredCards()[CARDS.i]; var s = document.getElementById('cfs-sheet'); if (c && s) { document.getElementById('cfs-sheet-p').innerHTML = moreHTML(c); s.hidden = false; } }
     else if (a === 'closemore') closeSheet();
