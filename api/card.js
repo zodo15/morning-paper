@@ -57,6 +57,15 @@ export default async function handler(req, res) {
   }
   if (b.pushOnly) {
     var pu = String(b.url || ''); if (!/^(\.\/|\.\/\?c=c[a-z0-9]+)$/.test(pu)) return res.status(400).json({ error: 'url must be ./ or ./?c=<card id>' });
+    // Card push title, body and destination must refer to one live card.
+    if (pu !== './') {
+      var pushId = pu.slice(5), pc = feed.find(function (c) { return c.id === pushId; });
+      if (!pc) return res.status(400).json({ error: 'Push destination card is not live' });
+      var norm = function (v) { return String(v || '').replace(/\s+/g, ' ').trim().replace(/[.!?]+$/, ''); };
+      var titleText = norm(b.pushTitle), bodyText = norm(b.pushGist);
+      var sourceText = ['headline','body','why','watch','watch_next','wrong_if','market_reaction'].map(function(k){return norm(pc[k]);});
+      if (!titleText || !bodyText || !sourceText.some(function(t){return t.includes(titleText);}) || !sourceText.some(function(t){return t.includes(bodyText);})) return res.status(400).json({ error: 'Push title and body must be verbatim from the same destination card' });
+    } else if (!/^edition-\d+$/.test(String(b.tag || ''))) return res.status(400).json({ error: 'Card pushes require one card destination; generic batch pushes are disabled' });
     var pr = await pushAll({ title: clean(b.pushTitle, 110), body: clean(b.pushGist, 160), url: pu, tag: clean(b.tag, 60) || undefined }, b.force === true);
     return res.status(200).json({ pushOnly: true, push: pr });
   }
