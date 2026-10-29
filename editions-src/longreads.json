@@ -4402,6 +4402,12 @@
         ]
       }
     ],
-    "thumb": "photos/lr24-thumb.jpg"
+    "thumb": "photos/lr24-thumb.jpg",
+    "audio": {
+      "full": "audio/lr24-full.m4a",
+      "times": {
+        "full": "audio/lr24-full.times.json"
+      }
+    }
   }
 }

@@ -354,11 +354,18 @@
           },
           {
             "t": "closing",
-            "html": "Edition 24. The long read: \"The company that gave the internet away\" - Jio's decade from four free months to the largest listing in Indian history. <a href=\"https://files.instinct.com/nqzp8m8evehs-the-company-that-gave-the-internet\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+            "html": "Edition 24. The long read: \"The company that gave the internet away\" - Jio's decade from <span class=\"fix\">seven free months</span> to the largest listing in Indian history. <a href=\"https://files.instinct.com/nqzp8m8evehs-the-company-that-gave-the-internet\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
           }
         ]
       }
     ]
   },
-  "audio": null
+  "audio": {
+    "full": "audio/d24-full.m4a",
+    "quick": "audio/d24-quick.m4a"
+  },
+  "times": {
+    "full": "audio/d24-full.times.json",
+    "quick": "audio/d24-quick.times.json"
+  }
 }
