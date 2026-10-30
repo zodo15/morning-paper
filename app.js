@@ -711,7 +711,7 @@
     var ed = D.editions[D.today];
     var h = '<div class="wrap">' + mast('today') + editionLongreadLink(D.today) + tickerHTML(D.today) +
       '<div class="kicker">Today &middot; ' + esc(D.meta[D.today].date) + '</div>' +
-      '<h1 class="h1">' + escFix(ed.headline || leadSplit(ed.fact).head) + '</h1>' + (!ed.headline && leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
+      '<h1 class="h1">' + escFix(ed.headline || leadSplit(ed.fact).head) + '</h1>' + (ed.deck || (!ed.headline && leadSplit(ed.fact).deck) ? '<p class="deck">' + escFix(ed.deck || leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + escFix(ed.intro) + '</p>' +
       editionBody(D.today, true) + ednavHTML(D.today) +
       '<div class="footer"><span>Slow Burn &middot; daily since 6 Oct 2026</span><span>Set in Fraunces &amp; Source Serif</span><a href="#" class="push-link" data-push="1" hidden></a></div></div>';
@@ -740,7 +740,7 @@
     if (!ed) { renderArchive(); return; }
     var h = '<div class="wrap">' + mast('') + editionLongreadLink(n) +
       '<div class="kicker">Edition ' + n + ' &middot; ' + esc(D.meta[n].date) + '</div>' +
-      '<h1 class="h1">' + escFix(ed.headline || leadSplit(ed.fact).head) + '</h1>' + (!ed.headline && leadSplit(ed.fact).deck ? '<p class="deck">' + escFix(leadSplit(ed.fact).deck) + '</p>' : '') +
+      '<h1 class="h1">' + escFix(ed.headline || leadSplit(ed.fact).head) + '</h1>' + (ed.deck || (!ed.headline && leadSplit(ed.fact).deck) ? '<p class="deck">' + escFix(ed.deck || leadSplit(ed.fact).deck) + '</p>' : '') +
       '<p class="intro">' + escFix(ed.intro) + '</p>' +
       editionBody(n, n === D.today) + ednavHTML(n) +
       '<div class="footer"><span>Slow Burn</span><span><a href="#/archive">Full archive</a></span></div></div>';
