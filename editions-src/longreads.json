@@ -4601,6 +4601,9 @@
     ]
    }
   ],
-  "thumb": "photos/lr25-thumb.png"
+  "thumb": "photos/lr25-thumb.png",
+  "audio": {
+   "full": "audio/lr25.m4a"
+  }
  }
 }
