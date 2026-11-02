@@ -70,10 +70,10 @@ def main():
     subprocess.run([sys.executable, os.path.join(ROOT,'scripts','build_data.py')], check=True)
 
     changed = [f'editions-src/day-{n}.json', 'data/editions.js']
-    if audio['full']: changed.append(f'audio/d{n}-full.m4a')
-    if audio['quick']: changed.append(f'audio/d{n}-quick.m4a')
-    if times: changed.append(times['full'])
-    print('push these files:'); [print('  ' + c) for c in changed]
+    print('push these files to main:'); [print('  ' + c) for c in changed]
+    if audio['full'] or audio['quick'] or times:
+        print('audio is NOT committed to main (hosted on GitHub Pages since 2026-11-02).')
+        print('after pushing main, run: python3 scripts/publish_audio_pages.py --push')
 
 if __name__ == '__main__':
     main()

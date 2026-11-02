@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/audio/:path*", "destination": "https://zodo15.github.io/morning-paper/audio/:path*" }
+  ]
+}
