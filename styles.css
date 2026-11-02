@@ -369,3 +369,5 @@ html.cards-fs, html.cards-fs body { overflow: hidden; height: 100%; overscroll-b
 .cfs .lanes { min-width: 0; touch-action: pan-x; overscroll-behavior-x: contain; }
 .lane-scroll { flex: none; width: 18px; min-height: 44px; padding: 0; border: 0; background: transparent; color: var(--stone); font-size: 24px; cursor: pointer; }
 .cfs-home { flex: none; }
+
+.chapter-audio{margin:16px 0 22px}.chapter-audio summary{cursor:pointer;color:#766f62;font-size:14px;padding:10px 0}.chapter-audio .player{margin:10px 0}

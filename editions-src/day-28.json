@@ -1,0 +1,409 @@
+{
+ "day": 28,
+ "meta": {
+  "date": "Monday 2 November 2026",
+  "short": "Mon 2 Nov",
+  "longread": 28
+ },
+ "edition": {
+  "groups": [
+   {
+    "heading": "Today's long read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Today's long read:</strong> The pipes under the market - how CDSL grew from the BSE's defensive answer to a rival-owned vault into Asia-Pacific's first listed depository and the carrier of 18 crore investor accounts, with 75 lakh more added in a single quarter. <a href=\"https://files.instinct.com/brr2o8f1dq6u-the-pipes-under-the-market\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+     }
+    ]
+   },
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The war moves to LNG - and oil slips on deal talk:</strong> a Qatari gas carrier is hit despite Iranian clearance; the IRGC claims two more mined tankers on Sunday; yet Brent fell 1.3% in early trade as Iran-Qatar talks ran a third straight day."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Election eve:</strong> NBC's final poll gives Democrats a seven-point lead for Congress, independents by 21; Trump's disapproval hits 60%, an NBC record across both terms. Voting is tomorrow; results land Wednesday morning IST."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Binance's stress test, answered:</strong> withdrawals reopened Sunday in phases; $4.65 billion went out in nine and a half hours against $1.01 billion in - 2.1% of assets, absorbed without a freeze."
+     },
+     {
+      "t": "p",
+      "html": "<strong>India's festive print:</strong> October GST at Rs 2.31 lakh crore, +23%, the second-highest ever; passenger-car dispatches +13% to a record 5.30 lakh, Maruti's best month in its history."
+     },
+     {
+      "t": "p",
+      "html": "<strong>EAAA lists at 10:00:</strong> the Edelweiss alternatives platform debuts at Rs 1,665, BSE scrip 545008, grey market implying about +3.9%. What a professional-bid IPO needs from the after-market."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The long read:</strong> CDSL - the vault under every Indian share, from paper rot to 100 million accounts."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>1. The mediator's ship takes a hit - and oil falls anyway.</strong> The LNG carrier Al Mayeda, owned by Qatar's Nakilat and bound for Pakistan with Qatari fuel, was struck by \"unidentified objects\" on Friday evening near the Strait of Hormuz; no crew was hurt and the vessel is safe and operational, Nakilat said in a stock-exchange statement on Sunday (<a href=\"https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf\" target=\"_blank\" rel=\"noopener\">Al Jazeera, read in full</a>). The detail that changes the story: Pakistan had negotiated safe passage with Tehran, and Iranian authorities cleared the voyage hours before the attack; the tanker turned back toward the Gulf. India's shipping minister, Sarbananda Sonowal, confirmed a projectile strike and that all 25 crew - six of them Indian - are safe (<a href=\"https://www.investing.com/news/economy-news/pakistanbound-lng-tanker-attacked-near-hormuz-despite-iran-clearance--bloomberg-4989531\" target=\"_blank\" rel=\"noopener\">Bloomberg, read in full</a>). Qatar called it \"a dangerous act\"; Saudi Arabia, Bahrain, the UAE and the GCC lined up behind Doha. Separately, the IRGC told Iranian state television on Sunday that two more oil tankers struck Iranian mines - one a supertanker \"engulfed in flames\" - after switching off their tracking systems; the UK's maritime agency logged yet another vessel hit by an unknown projectile on Sunday; and Iran claimed, without US confirmation, to have destroyed an American unmanned vessel (<a href=\"https://www.jpost.com/middle-east/iran-news/article-913514\" target=\"_blank\" rel=\"noopener\">Jerusalem Post, read in full</a>). "
+     },
+     {
+      "t": "p",
+      "html": "Yet the price moved the other way: Brent fell $1.51, or 1.33%, to $111.92 and WTI 1.71% to $102.34 in early Asian trade, because Iranian and Qatari officials have now held three straight days of talks on ending the war (<a href=\"https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-slips-more-1-talks-continue-ending-iran-war\" target=\"_blank\" rel=\"noopener\">Business Times</a>). The war's shipping toll stands at 120-plus vessels since February, with October the worst month at 29; LNG through Hormuz ran at roughly 30% of pre-war volumes last month, and spot LNG costs more than three times its pre-war level. <em>Editor's takeaway: escalation at sea and negotiation in the same week is what an endgame looks like - markets are pricing the talks, not the mines. Watch whether the letter from US Vice President Vance to Tehran, unanswered since last week, gets an answer.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. Election eve: seven points, and a record the president did not want.</strong> NBC News's final national poll (28-30 October, 1,000 registered voters, margin of error 3.1; <a href=\"https://www.nbcnews.com/politics/2026-election/poll-voters-demand-change-check-trump-fueling-steep-democratic-midterm-rcna606183\" target=\"_blank\" rel=\"noopener\">read in full</a>) puts Democratic control of Congress ahead 52-45 - up two points in a month, with a 21-point lead among independents. Donald Trump's disapproval reached 60%, the highest NBC has recorded across both his terms, and for the first time in thirty years of the poll, more voters are dissatisfied than satisfied with their own finances (51-49). The complicating facts: the Democratic Party itself is disliked (29% positive), voters split evenly on which party handles key issues, and Republicans lead the congressional ballot in the districts and states that will actually decide control - because the battlefield runs through Trump-won terrain. That is the map the forecasters keep pricing: the House strongly Democratic-leaning, the Senate the knife fight we mapped yesterday - eight races within four points, four net gains needed. <em>Editor's takeaway: a referendum poll on Monday is a turnout war on Tuesday. For Indian portfolios, the transmission is the war: a changed Congress changes the Iran war's funding conversation, and Wednesday's oil open will say it first.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. Binance's stress test gets its answer: $3.64 billion out, no freeze.</strong> Withdrawals resumed on Sunday in phases from 2pm Singapore time - Ethereum, USDT and USDC first, then fifteen networks by evening (<a href=\"https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency\" target=\"_blank\" rel=\"noopener\">The Guardian, read in full</a>). The first nine and a half hours processed $4.65 billion of withdrawals against $1.01 billion of deposits: $3.64 billion of net outflows, about 2.1% of its $171 billion in assets, with volumes easing after the initial spike and an updated proof-of-reserves report due Monday - real money leaving, but a bank run this was not (<a href=\"https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259\" target=\"_blank\" rel=\"noopener\">The Block, read in full</a>). "
+     },
+     {
+      "t": "p",
+      "html": "The replenishment stands at about 90% of the $6.3 billion stolen, made whole from the $1 billion SAFU insurance fund, part of the futures insurance fund and the corporate treasury; co-CEO Richard Teng says the remaining 10% - the less-liquid tokens - will also be covered. The FBI's Saturday statement named the attacker: TraderTraitor, the North Korean Lazarus-linked group behind the Sony-era playbook, already converting the loot to Ether for laundering. <em>Editor's takeaway: the industry's largest ever theft has so far been absorbed by one balance sheet and a working withdrawal pipe - solvency as marketing. The open question is regulatory: insurance-fund adequacy is now a policy file, not a forum debate.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>4. The festive economy prints: second-best GST ever, record car month.</strong> October's gross GST collections came in at Rs 2,31,290 crore, up 22.9% on last October's Rs 1,88,125 crore - the second-highest monthly haul since the tax began in 2017; the April-October tally stands at Rs 14.78 lakh crore, up 13.2% (<a href=\"https://tutorial.gst.gov.in/downloads/news/gst_revenue_report_final_for_publishing_oct_2026.pdf\" target=\"_blank\" rel=\"noopener\">the government's revenue report</a>; <a href=\"https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>). The showroom numbers match the mood: passenger-vehicle wholesales rose about 13% to an estimated 5.30 lakh units in October, the industry's best month, with Dhanteras (6 November) and Diwali (8 November) still ahead (<a href=\"https://www.thehindubusinessline.com/companies/festive-mode-brings-cheer-to-automakers-with-record-sales-in-october/article71652377.ece\" target=\"_blank\" rel=\"noopener\">Business Line, read in full</a>). Maruti Suzuki's domestic dispatches hit an all-time high of 2,12,384 (+20.45%), network stock down to 12 days with 2.45 lakh pending bookings; Tata Motors PV +21% to 73,894; Hyundai a record 62,799 (+16.7%); Mahindra 73,338 (+2%); Kia a record 33,462; two-wheelers joined in - Honda +11%, TVS +22% - while Toyota and Renault declined. <em>Editor's takeaway: a war premium on every imported barrel and the second-best tax haul in GST history can coexist only while domestic demand shrugs off the pump price. October says it is shrugging. November's bill arrives with winter crude.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>5. EAAA opens at 10:00 - the professional bid meets the after-market.</strong> India's newest listing goes live this morning: EAAA India Alternatives, the Edelweiss alternatives platform, lists on the BSE (scrip 545008, EDELALTS) and NSE at its confirmed issue price of Rs 1,665, after a Special Pre-Open Session - the exchange's own listing notice is the source of record (<a href=\"https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-39/20261030-39.pdf\" target=\"_blank\" rel=\"noopener\">BSE notice, read in full</a>). The Rs 1,200-crore offer for sale was carried by institutions - QIBs 13.13 times, retail barely covered at 1.03 times, 5.25 times overall on the exchange tally - and the grey market's last quote, Rs 65 over issue, implies a debut around 3.9% up; treat that as an unofficial dealer quote, dated 1 November, that has missed the real listing gain by about 3.5 points on average over the last ten listings (<a href=\"https://www.ipoguru.in/news/eaaa-india-alternatives-ipo-listing-date-gmp\" target=\"_blank\" rel=\"noopener\">IPO Guru's tracker</a>). The after-market question for an institution-carried debut is whether the retail bid shows up later - the mirror image of Jio's household-name book last week. The parent's thirty-year arc, from a mortgaged Mahalaxmi house to this morning's listing, was yesterday's long read."
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The tape into Monday.</strong> Friday's closes, on the record: Sensex 74,459.53 (+0.42%), Nifty 23,053.10 (+0.51%), a second straight gain; FIIs bought a provisional Rs 3,598.54 crore (<a href=\"https://www.cnbctv18.com/market/fiis-return-to-buying-indian-stocks-with-rs3599-crore-inflows-diis-turn-net-sellers-20023622.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18</a>). New York sold off hard into the weekend - S&amp;P 500 7,580.07 (-1.82%), Nasdaq Composite 25,437.00 (-2.86%, its worst day since June and worst month since March 2025), Dow 51,770.31 (-1.09%) - end-of-day finals from the <a href=\"https://finance.yahoo.com/quote/%5EGSPC/history/\" target=\"_blank\" rel=\"noopener\">historical tables</a>, after Amazon and Intel disappointed and the Nasdaq-100 briefly entered correction territory (<a href=\"https://newsquawk.com/asia-pac-opening-news\" target=\"_blank\" rel=\"noopener\">Newsquawk's Asia note</a>). The weekend's two moving numbers: Brent eased to $111.92 (-1.33%) and WTI to $102.34 in early Asian trade on the Iran-Qatar talks (Business Times, above), and spot gold sits near $3,875 (quote dated 1 Nov) - down about 27% from its late-January record daily settle of $5,318.40 (<a href=\"https://www.xauusdglobal.com/blog/why-did-gold-fall-2026-drawdown/\" target=\"_blank\" rel=\"noopener\">xauusdglobal's data log</a>; <a href=\"https://global.morningstar.com/en-gb/markets/investors-keep-buying-gold-etfs-even-prices-fall\" target=\"_blank\" rel=\"noopener\">Morningstar</a>) despite nine months of war."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 126\" role=\"img\" aria-label=\"The haven that failed: gold's record daily settle, 29 Jan 2026 (xauusdglobal log), vs spot on 1 Nov - over the same nine months, Brent gained 13.6% in October alone\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Gold, Jan peak settle</text><rect x=\"320\" y=\"30\" width=\"300\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"628\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">$5,318</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Gold, 1 Nov spot</text><rect x=\"320\" y=\"78\" width=\"218.58077617328522\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"546.5807761732852\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">$3,875 (-27%)</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">The haven that failed: gold's record daily settle, 29 Jan 2026 (xauusdglobal log), vs spot on 1 Nov - over the same nine months, Brent gained 13.6% in October alone</p>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>What Monday watches.</strong> Four clocks: EAAA's 10:00 open against Rs 1,665; whether oil's 1% slip on deal talk holds once Europe reads the weekend's mine claims; how the market prices Saturday's results slate (NTPC's 39% jump and first interim dividend against IGL's and Birla Corp's misses) with Friday's close as the last vote; and the US session's ISM manufacturing survey - the last big data print before America votes."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Listing today: EAAA India Alternatives (10:00).</strong> The essentials from the exchange's own notice (<a href=\"https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-39/20261030-39.pdf\" target=\"_blank\" rel=\"noopener\">BSE</a>): 'B' group, market lot one, allotment completed 29 October, Special Pre-Open Session before continuous trading from 10:00; registrar MUFG Intime. Issue Rs 1,200 crore, entirely an offer for sale at Rs 1,665 (band Rs 1,585-1,665); lot of nine shares. Demand: 5.25 times overall; QIB 13.13x, non-institutional 4.58x, retail 1.03x. Grey market: Rs 65 (+3.9%) as of 1 November, having climbed every day since the issue closed - unofficial, and historically off by about 3.5 points on the final pop (<a href=\"https://www.ipoguru.in/news/eaaa-india-alternatives-ipo-listing-date-gmp\" target=\"_blank\" rel=\"noopener\">IPO Guru</a>). What to watch at the open: an institution-carried debut needs the after-market to find the retail bid; a flat-to-modest open with steady volumes is the healthy version, a spike-and-fade is not. No view on subscribing - the issue is closed; this is the read on the debut itself."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One halted: OPay's NYSE debut.</strong> The SoftBank-backed payments company stopped its New York listing hours before Friday's first trade, citing a regulatory inquiry (<a href=\"https://newsquawk.com/asia-pac-opening-news\" target=\"_blank\" rel=\"noopener\">Newsquawk</a>). One data point, not a trend - and a reminder that fintech listings now turn on regulators as much as on demand."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers, Friday 30 October",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Friday's board remains the latest session on record; all figures BSE official closing prints; reasons traced to company releases or named reports."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 318\" role=\"img\" aria-label=\"Friday 30 Oct, biggest A-group moves (%), BSE closing prices; source: BSE official quote data\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Borosil</text><rect x=\"410\" y=\"30\" width=\"155\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"573\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+20.0%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Laurus Labs</text><rect x=\"410\" y=\"78\" width=\"50.813313313313316\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"468.8133133133133\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+6.6%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Trent</text><rect x=\"410\" y=\"126\" width=\"40.34034034034034\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"458.34034034034033\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+5.2%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Navin Fluorine</text><rect x=\"410\" y=\"174\" width=\"35.76326326326327\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"453.7632632632633\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+4.6%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Suzlon</text><rect x=\"347.93793793793793\" y=\"222\" width=\"62.062062062062054\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"339.93793793793793\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-8.0%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">Equitas SFB</text><rect x=\"361.43643643643645\" y=\"270\" width=\"48.56356356356356\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"353.43643643643645\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-6.3%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Friday 30 Oct, biggest A-group moves (%), BSE closing prices; source: BSE official quote data</p>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>The why.</strong> Borosil (+19.98% to Rs 286.40), Laurus Labs (+6.55% to Rs 2,392.00) and Navin Fluorine (+4.61% to Rs 8,676.35) moved on quarterly results; Trent (+5.20% to Rs 3,015.10) was the big large-cap gainer with no confirmed catalyst in the sources read. Downside: Suzlon (-8.0% to Rs 33.85) on its margin-guidance cut - covered in Friday's long read; Equitas Small Finance Bank (-6.26% to Rs 53.42), day two of the fallout from its founder-CEO's resignation, about 18% lost in two sessions. Monday's reaction list adds Saturday's results: NTPC, Muthoot, CDSL on one side, IGL and Birla Corp on the other."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Dates for the diary.</strong> EAAA India Alternatives lists today, 10:00 (<a href=\"https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-39/20261030-39.pdf\" target=\"_blank\" rel=\"noopener\">BSE notice</a>). Infosys's Rs 26 interim dividend record date is tomorrow, Tuesday 3 November (payout 11 November). Coal India's Rs 10.25 interim record date is Wednesday 4 November (payment by 27 November). NTPC declared its first interim dividend with Saturday's results - amount and record date to be announced per its filing. HUL's Rs 19 interim record date falls Thursday 12 November (payment 25 November)."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Why nine months of war made oil, not gold.</strong> The textbook says war sends money into gold. This war sent it into barrels: Brent gained 13.6% in October while gold sat about 27% below its late-January record settle of $5,318.40 (<a href=\"https://www.xauusdglobal.com/blog/why-did-gold-fall-2026-drawdown/\" target=\"_blank\" rel=\"noopener\">price log</a>). The mechanism is one number: the real interest rate - what a ten-year US Treasury pays after inflation. On 7 October the ten-year Treasury yield hit a 24-year high of 5.35% and the thirty-year 5.72%, with the Fed's quarter-point hike on 16 September behind the climb (<a href=\"https://global.morningstar.com/en-gb/markets/investors-keep-buying-gold-etfs-even-prices-fall\" target=\"_blank\" rel=\"noopener\">Morningstar's analysis, read in full</a>). Gold pays nothing, so every tenth of a point on the real rate raises the cost of holding it; when the US government borrows at wartime scale, yields climb and the yield-less metal sinks, whatever the headlines say. Oil faces no such arithmetic: the war threatens the physical supply of the thing itself. The personal-money translation: a \"safe haven\" is only safe against the risk you actually face - inflation-hedge gold and shock-hedge gold are the same metal with opposite drivers, and since January the bond market's driver has been winning. What would flip it, in the fund managers' own framing: the Fed or the Treasury moving to cap yields, or inflation stubborn enough to force more hikes the other way."
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The lesson in Binance's bad weekend.</strong> Buried in the rescue math is a business-model data point for anyone building in finance: Binance's $1 billion SAFU fund - a standing, disclosed, segregated insurance reserve - turned an extinction-level $6.3 billion theft into a two-day operations story (<a href=\"https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency\" target=\"_blank\" rel=\"noopener\">The Guardian</a>). Indian fintechs selling \"safety\" (from payments apps to small-finance deposit-takers) almost never show their buffer this way. The mechanism generalises: a visible, pre-funded, third-party-verified loss-absorption layer is not a cost centre; in a crisis it is the entire brand. The founders who copy it early will pay for it in margin and collect in survival."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One startup idea, tied to today's reporting: war-risk pricing for Indian hulls.</strong> With 120-plus ships hit since February and spot war-risk premiums moving on every mine strike, Indian fleet owners, charterers and their lenders are pricing passages off London desk gossip and PDF circulars. The product: an India-first maritime risk data desk - vessel-tracking plus incident verification plus premium benchmarking - sold as a subscription to owners, P&amp;I clubs' local correspondents and commodity importers with cargo at sea. Who pays: the shipper whose premium swings by six figures per voyage. First step: publish a free weekly Hormuz incident-and-premium index to build the audience, then gate the granular data. What would make it wrong: if the war ends and premiums normalise faster than the subscriber base builds - the index then becomes a commodity feature inside existing shipping-data vendors."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The credit question reaches Anthropic.</strong> Blackstone has told investors that Anthropic may not secure an investment-grade credit rating after its IPO - expected instead to land at the high end of junk - reversing earlier expectations of an investment-grade outcome, the Financial Times reported (<a href=\"https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/\" target=\"_blank\" rel=\"noopener\">via TechCrunch</a>). Why a rating matters to a company posting $11.6 billion of quarterly revenue: the AI build-out is increasingly debt-funded, and a junk tag raises the interest bill on every data-centre bond across the sector. Anthropic's S-1 road to a listing from the week of 16 November (<a href=\"https://finance.yahoo.com/markets/article/anthropics-ipo-could-start-trading-as-soon-as-nov-16--heres-the-road-from-filing-to-first-trade-155405578.html\" target=\"_blank\" rel=\"noopener\">Yahoo Finance's roadmap</a>) now runs through the rating agencies before it reaches the stock market - the second referee this fortnight, after public equity, for the \"who funds the build-out\" question."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Radar.</strong> DeepSeek launched a \"Super-Agent\" prototype - an open-source, more autonomous coding agent positioned against Anthropic's Claude Code, able to monitor developer channels and propose fixes unprompted (<a href=\"https://newsquawk.com/asia-pac-opening-news\" target=\"_blank\" rel=\"noopener\">Newsquawk</a>); vendor claim, no independent benchmark yet - what would count: a public SWE-bench-style run against Claude Code on the same tasks. OpenAI, Google, Microsoft and Anthropic adopted a shared opt-out standard letting publishers signal AI-training consent once, across all four (vendor posts are the record of note). Nothing else in 48 hours cleared the bar."
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Supervision is the new syntax.</strong> DeepSeek's prototype pushes the same trend Claude Code started: the coding agent stops waiting for prompts and starts watching - your chats, your error logs - and proposing work. The skill that survives this shift is not typing code or even prompting it; it is reviewing an autonomous agent's proposed changes with a clear head: read the diff, ask what it assumed, know how to roll it back. Practical rule for the week: any agent that can act unprompted gets a sandbox and a revert path before it gets credentials. The builders who internalise that will ship faster than the ones learning it from their first public incident."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Monday)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Prompting: the pre-mortem prompt.</strong> Before any big AI-assisted task this week, add one line to your prompt: \"Before answering, list the three most likely ways this plan fails, then answer with those in mind.\" It costs the model a few seconds and reliably surfaces the assumption you forgot you were making - the same move as a project pre-mortem, compressed into a sentence. Try it on your hardest task today and compare against your usual prompt's first draft."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: anchoring",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The first number you hear is already negotiating with you.</strong> In 1974, psychologists Amos Tversky and Daniel Kahneman spun a rigged wheel of fortune in front of students - it stopped only at 10 or 65 - then asked what percentage of UN countries were African. Students who saw 10 guessed around 25%; those who saw 65 guessed around 45%. A random number they knew was random had silently moved their estimate. That is anchoring: the brain grabs the first figure in view and adjusts too little from it. You saw it in this paper all weekend: oil forecasts framed as \"$70-90 after the war, against $60-70 before\" - both anchors are pre-war ranges, not analysis; and the grey market's Rs 65 premium quote will anchor how \"good\" EAAA's 10:00 open feels, whatever the actual supply-demand at the open. The defence is dull but real: before reacting to a price, write down your own estimate first - anchor yourself before someone else does. <em>60-second recall, closed book: (1) Who ran the wheel-of-fortune experiment? (2) What happened to the two groups' guesses? (3) Name one anchor active in today's edition. Answers: Tversky and Kahneman; the group that saw 65 guessed nearly twice the group that saw 10; the grey-market Rs 65 - or the pre-war $60-70 oil range.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: grey market premium",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The unofficial, off-exchange price at which IPO shares change hands between allotment and listing - dealers quoting cash premiums for applications and allotted stock before the exchange opens. It exists because listing-day demand is information everyone wants early; it misleads because the market is tiny, unregulated, and prone to operator games - the average miss against the actual listing gain has run about 3.5 points on recent mainboard debuts (<a href=\"https://www.ipoguru.in/news/eaaa-india-alternatives-ipo-listing-date-gmp\" target=\"_blank\" rel=\"noopener\">IPO Guru's tracker data</a>). Read it as weather, not climate: direction is signal, the number itself is noise. EAAA's quote into this morning: Rs 65, or about 3.9% over the Rs 1,665 issue."
+     }
+    ]
+   },
+   {
+    "heading": "The setup board (research, not advice)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The desk's rule, restated after the 27 October change: every published setup stays on the board until it completes (target hit) or fails (stop hit); the five-session lapse is retired. Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 Oct</a>."
+     },
+     {
+      "t": "chart",
+      "svg": "<p style=\"color:#64748b;font-size:13px\">Conditional setup and watchlist triggers, week of 2 November; prices are BSE official closes, Friday 30 October</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. HCL Technologies</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Live - holding</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Zone Rs 1,351-1,378 filled Wed - worst fill Rs 1,378.00 (Rs 1,382.13 with the 0.3% cost convention)</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Rs 1,346.90 (never traded)</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Rs 1,466.80 (adjusted 20-session high)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>about 1:2.4</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until target or stop</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,428.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - hit Monday, held since</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until it triggers or shelves</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 461.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - hit Monday, held since</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>20-session high Rs 1,297.95 (reference)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.2 - failed the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until it resolves</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,245.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - not regained</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until the coil breaks</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 226.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>5. Infosys</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Absorption above 1,175 - Rs 26 dividend record date tomorrow</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>A close under 1,120 ends the thesis</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>First checkpoint 1,245 (gap zone)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (qualitative)</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until the thesis breaks</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,182.00 (Fri close)</p></div>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"HCL Technologies: stop to target, marker at Friday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">HCLTech</text><line x1=\"204.51612903225836\" x2=\"591.290322580645\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"466.1290322580645\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.51612903225836\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">1346.9</text><text x=\"466.1290322580645\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">1428</text><text x=\"591.290322580645\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">1466.8</text></svg><p style=\"font-size:13px;color:#64748b\">HCL Technologies: stop to target, marker at Friday's close</p>"
+     },
+     {
+      "t": "p",
+      "html": "Setup slots 2 to 5 stay empty today - nothing new cleared the verification bar over the weekend; an empty slot is a result, not a gap. The weekend read, with per-share prices: HCLTech (Rs 1,428.00) sits +3.3% against the cost-adjusted fill of Rs 1,382.13, target Rs 1,466.80 now 2.7% away; the level map is unchanged into the open. Kotak Mahindra Bank (Rs 461.00) holds above its Rs 437.55 trigger - still a candidate, not a setup. JSW Steel (Rs 1,245.00) holds above its floor and reclaim zone. ONGC (Rs 226.00) sits inside the Rs 218.50-238.75 coil - and the weekend's mine claims cut both ways: crude strength helps the breakout case, but a deal that ends the war would pull the wind out of it; the coil decides. Infosys (Rs 1,182.00) trades ex-dividend dynamics from tomorrow's record date. Tech Mahindra stays shelved above the Rs 1,500 cap; its 1:1 bonus postal ballot is in voting, no record date set."
+     }
+    ]
+   },
+   {
+    "heading": "How the board scores",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "No prior-day stop trade",
+        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+       },
+       {
+        "n": "2",
+        "title": "Same-day zone and stop",
+        "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
+       },
+       {
+        "n": "3",
+        "title": "Resolutions stay on record",
+        "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three open questions settle Monday's tone, in the order they land. First, oil: whether Brent's early slip toward $112 holds once Europe reads the weekend's mine claims - or reverses. Second, EAAA: where the professional-bid debut opens against Rs 1,665, and whether retail volumes follow. Third, the imported drag: Wall Street's worst tech day since June arrived after India closed on Friday, so that weight is unpriced here, while the GST and auto prints argue the domestic bid is real. Which of the three leads the first hour is the session's tell - this desk does not predict the answer; it watches these conditions."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Iran-Qatar talks, day three.</strong> Cause chain: three straight days of officials talking, a mediator's own ship hit, and oil falling on hope. Watch next: any framework or ceasefire announcement from Doha or Tehran this week - and whether the Vance letter gets an answer. Proven wrong if: mine strikes continue after a deal is announced."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Anthropic's rating referee.</strong> Cause chain: Blackstone's junk-rating warning lands while the S-1 roadshow is being planned. Watch next: the amended S-1 with a price range, and any rating-agency commentary before the possible week-of-16-November debut. Proven wrong if: an agency signals investment-grade despite the warning."
+     },
+     {
+      "t": "p",
+      "html": "<strong>EAAA's retail bid.</strong> Cause chain: an institution-carried book (retail 1.03x) meets the after-market at 10:00. Watch next: whether retail volumes build over the first five sessions without the price cracking below issue. Proven wrong if: the debut breaks Rs 1,665 on day one and stays under."
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Mon 2 Nov",
+        "detail": "EAAA India Alternatives lists at 10:00 (Special Pre-Open first); India October manufacturing PMI in the morning; US ISM manufacturing at night - the last big print before the vote; oil trades the Iran-Qatar talks."
+       },
+       {
+        "n": "2",
+        "title": "Tue 3 Nov",
+        "detail": "US midterm elections (all 435 House seats, 35 Senate); Infosys Rs 26 interim dividend record date."
+       },
+       {
+        "n": "3",
+        "title": "Wed 4 Nov",
+        "detail": "US election results land through the India day - House call first, the eight knife-fight Senate races through the day; Coal India Rs 10.25 interim dividend record date (payment by 27 November)."
+       },
+       {
+        "n": "4",
+        "title": "Thu 5 Nov",
+        "detail": "Post-election positioning across crude, defence and the dollar."
+       },
+       {
+        "n": "5",
+        "title": "Fri 6 Nov",
+        "detail": "US October jobs report, 8:30am ET (BLS release schedule) - the data the Fed takes into December; Dhanteras."
+       },
+       {
+        "n": "6",
+        "title": "Sun 8 Nov",
+        "detail": "Diwali."
+       },
+       {
+        "n": "7",
+        "title": "Tue 10 Nov",
+        "detail": "Israel's new Knesset is sworn in after last Tuesday's election."
+       },
+       {
+        "n": "8",
+        "title": "Wed 11 Nov",
+        "detail": "Infosys dividend payout. No FOMC this week - the next meeting is 8-9 December (Fed calendar)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read in full for this edition: Al Jazeera on the Al Mayeda strike; Bloomberg on the Pakistani clearance; the Jerusalem Post on the IRGC’s Sunday mine claims and UKMTO; the Business Times on the oil open and the third day of talks; the Guardian on Binance’s phased reopening; The Block on the first hours of outflows; NBC News’s final poll; the government’s GST revenue report PDF; Business Line’s auto-sales report; the BSE’s EAAA listing notice PDF; IPO Guru’s GMP tracker; TechCrunch on the FT’s Anthropic-rating report; Newsquawk’s Asia note; CDSL’s investor presentation and Q2 coverage for the long read.",
+       "US closes are Friday’s end-of-day finals from Yahoo Finance’s historical table (S&amp;P 500 7,580.07, -1.82%; Nasdaq 25,437.00, -2.86%; Dow 51,770.31, -1.09%); India closes are Friday’s official prints (Sensex 74,459.53; Nifty 23,053.10). Oil prices marked at 23:03 GMT Sunday, early Asian trade (Business Times). Gold marked near $3,875 spot, 1 Nov.",
+       "Attributions kept distinct: the two-mined-tankers account is the IRGC’s own claim to state TV; the Al Mayeda strike is confirmed by its owner without attribution of who fired; the fishing-boat and unmanned-vessel claims remain unconfirmed by the US; North Korea’s role is the FBI’s determination; the Anthropic rating outlook is the FT’s reporting of Blackstone’s investor communication, not an agency decision.",
+       "Yesterday’s edition was corrected after delivery: Friday’s US closes and one company name were fixed in the live File (generation 4) and reported separately; corrections carry the subtle underline only."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
+     }
+    ]
+   }
+  ],
+  "title": "Slow Burn - Monday 2 November 2026",
+  "fact": "Edition 28. The mediator's ship takes a hit. Monday 2 November 2026, edition 28. A Qatari LNG carrier bound for Pakistan was struck near the Strait of Hormuz on Friday evening - hours after Iran had cleared its passage - and Iran's Guards say two more oil tankers hit mines on Sunday; yet oil slipped over 1% in early Asian trade as Iranian and Qatari officials held a third straight day of talks on ending the war. America votes tomorrow with Democrats seven points up in NBC's final poll and Trump's disapproval at a record 60%. Binance reopened withdrawals on Sunday and absorbed $3.64 billion of net outflows - 2.1% of assets. India's festive economy printed: GST collections rose 23% to the second-highest ever and carmakers set October records. And EAAA India Alternatives lists at 10:00 this morning at Rs 1,665. The long read is CDSL, the pipes under the market.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: how a paper-choked market built an electronic vault, how the challenger passed the incumbent, and what its chief is betting on next - pegged to CDSL's 24% profit jump on Saturday.",
+  "concept": {
+   "label": "One Concept a Day",
+   "name": "Anchoring",
+   "line": "An initial number can pull later judgments towards it, even when it is no longer relevant."
+  }
+ },
+ "audio": {
+  "full": "audio/d28-full.ogg",
+  "quick": "audio/d28-quick.ogg",
+  "segments": [
+   {
+    "key": "segment1",
+    "label": "Opening"
+   },
+   {
+    "key": "segment2",
+    "label": "The mediator’s ship takes a hit"
+   },
+   {
+    "key": "segment3",
+    "label": "Oil and the talks"
+   },
+   {
+    "key": "segment4",
+    "label": "Binance’s stress test"
+   },
+   {
+    "key": "segment5",
+    "label": "Election eve"
+   },
+   {
+    "key": "segment6",
+    "label": "The festive economy"
+   },
+   {
+    "key": "segment7",
+    "label": "EAAA listing"
+   },
+   {
+    "key": "segment8",
+    "label": "Markets and the tape"
+   },
+   {
+    "key": "segment9",
+    "label": "The long read and close"
+   }
+  ],
+  "segment1": "audio/d28-segments/full-001.ogg",
+  "segment2": "audio/d28-segments/full-002.ogg",
+  "segment3": "audio/d28-segments/full-003.ogg",
+  "segment4": "audio/d28-segments/full-004.ogg",
+  "segment5": "audio/d28-segments/full-005.ogg",
+  "segment6": "audio/d28-segments/full-006.ogg",
+  "segment7": "audio/d28-segments/full-007.ogg",
+  "segment8": "audio/d28-segments/full-008.ogg",
+  "segment9": "audio/d28-segments/full-009.ogg"
+ }
+}

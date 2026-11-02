@@ -4899,5 +4899,141 @@
   "audio": {
    "full": "audio/lr27.m4a"
   }
+ },
+ "28": {
+  "groups": [
+   {
+    "heading": "1. The paper rot",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "To understand why CDSL exists, picture Indian share ownership in the early 1990s: a physical certificate, a transfer deed, a signature match at the company's registrar, and weeks of waiting - with the ever-present risk that the paper was forged, stolen or simply \"bad delivery,\" the market's term for a certificate that would not transfer cleanly. The 1992 securities scandal showed how easily paper could be printed into existence. Parliament's answer was dematerialisation: shares as entries in a central electronic vault. The first vault went to the establishment - the National Securities Depository, promoted by the country's largest institutions. The Bombay Stock Exchange, suddenly facing a rival-owned pipe under its own market, promoted a second: Central Depository Services (India) Ltd, incorporated in Mumbai on 12 December 1997 (<a href=\"https://www.sebi.gov.in/sebi_data/attachdocs/nov-2017/1510909565946.pdf\" target=\"_blank\" rel=\"noopener\">CDSL's offer document, on Sebi's site</a>), opening for business in 1999 (<a href=\"https://www.cdslindia.com/downloads/InvestorRels/Financial/NSEIntimation_InvestorPresentation.pdf\" target=\"_blank\" rel=\"noopener\">CDSL's investor presentation, read in full</a>)."
+     },
+     {
+      "t": "p",
+      "html": "The division of spoils looked settled before it began. The older depository, owned by the country's biggest financial institutions, took the institutions: the custodial accounts, the foreign funds, the blue-chip registers. CDSL got what was left - the retail edge of the market, the small broker, the small investor. It is the oldest pattern in infrastructure: one player is handed the present; the other is left the future, if it can survive long enough to collect."
+     },
+     {
+      "t": "figure",
+      "img": "./photos/lr28-fig1.jpg",
+      "alt": "Editorial illustration of torn paper certificates dissolving into an ordered stream of small squares",
+      "caption": "Dematerialisation: a mountain of paper certificates becoming a single ordered stream of entries."
+     }
+    ]
+   },
+   {
+    "heading": "2. The slow decade",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Survival took patience. CDSL crossed one million demat accounts only in 2005 - six years in, a rounding error next to the incumbent's institutional book. What it did with the wait matters more than the wait: it built for the customer nobody else was courting. It pioneered e-voting for shareholders in 2009, turning corporate governance from a postal ritual into a click; by the end of January 2012 it had ten thousand issuers admitting their securities - equities, bonds, debentures, commercial paper, mutual fund units - into its system; it built e-DIS, replacing the physical delivery-instruction slip with a digital mandate. Each product was small. Each one assumed the account holder was a person, not an institution (all milestones from the company's own <a href=\"https://www.cdslindia.com/downloads/InvestorRels/Financial/NSEIntimation_InvestorPresentation.pdf\" target=\"_blank\" rel=\"noopener\">investor presentation</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "3. The listing that made it real",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In June 2017, twenty years after incorporation, BSE brought its depository to market - and CDSL became India's, and Asia-Pacific's, first listed depository (<a href=\"https://www.cdslindia.com/downloads/InvestorRels/Financial/NSEIntimation_InvestorPresentation.pdf\" target=\"_blank\" rel=\"noopener\">company timeline</a>). The market's verdict was immediate: the stock listed at a 68% premium to its issue price on 30 June 2017 (<a href=\"https://www.thehindubusinessline.com/markets/cdsl-stock-lists-at-68-premium/article9727304.ece\" target=\"_blank\" rel=\"noopener\">Business Line, that day</a>). A utility - the plumbing - had become a stock people wanted to own, because by 2017 the plumbing was the growth story: every new investor India added had to pass through a depository, and increasingly that depository was CDSL."
+     },
+     {
+      "t": "figure",
+      "img": "./photos/lr28-fig2.jpg",
+      "alt": "Editorial illustration of a shorter tower overtaking a taller one as squares flow upward through it",
+      "caption": "2019: the challenger passes the incumbent in accounts - and has not looked back."
+     }
+    ]
+   },
+   {
+    "heading": "4. The flip",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 2019 CDSL became India's largest depository by number of demat accounts, a position it has held since (<a href=\"https://www.cdslindia.com/downloads/InvestorRels/Financial/NSEIntimation_InvestorPresentation.pdf\" target=\"_blank\" rel=\"noopener\">investor presentation</a>). Then came the flood. The pandemic year turned the smartphone into a broker's office, and the discount brokers India's new investors signed up with ran their plumbing through CDSL. In 2023 it crossed 100 million demat accounts - the first depository in the country to do so - having taken six years for its first million and then adding them by the crore. It rolled with the market's biggest structural upgrades: T+1 settlement and pledge instructions in 2022, mandatory direct payout of securities to investor accounts in 2025, twenty-five years of operations marked in 2024. By FY24 it held 76% market share with 11.56 crore investor accounts (company annual report). The gap in accounts is now a chasm: 18.01 crore BO accounts at 31 March 2026 on CDSL's own Q4FY26 deck, against the older depository's 3.95 crore in the comparison drawn ahead of NSDL's own listing (<a href=\"https://www.ndtvprofit.com/business/nsdl-vs-cdsl-which-depository-leads-on-revenue-market-share-and-growth-ahead-of-nsdl-ipo\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>) - which finally arrived on 6 August 2025, eight years after the challenger showed the way (<a href=\"https://economictimes.indiatimes.com/markets/ipos/fpos/nsdl-shares-list-at-10-premium-over-issue-price/articleshow/123096387.cms\" target=\"_blank\" rel=\"noopener\">Economic Times</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "5. The machine, and its wobble",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Saturday's numbers show the machine at work. CDSL's September-quarter net profit rose 24% to Rs 174 crore against Rs 140 crore a year ago; revenue rose to Rs 394 crore from Rs 319 crore; about 75 lakh new demat accounts opened in the quarter alone; assets under custody crossed Rs 89 lakh crore; the account base grew about 17% year on year (<a href=\"https://www.thehindubusinessline.com/markets/cdsl-q2-results-net-profit-jumps-24-to-174-cr-on-strong-demand/article71649202.ece\" target=\"_blank\" rel=\"noopener\">Business Line, read in full</a>). \"Despite global macroeconomic volatility, participation in securities market continues to demonstrate resilience,\" said Nehal Vora, the managing director and chief executive - a market-plumbing lifer who was BSE's chief regulatory officer before Sebi cleared his appointment to CDSL's top job in 2019. The economics are the kind analysts dream about: once the vault is built, every additional account, transaction and issuer costs almost nothing to serve - a business where growth falls mostly to the bottom line."
+     },
+     {
+      "t": "p",
+      "html": "But keep two honest caveats on the record. First, the machine tracks the market's mood: through FY26, as the correction bit, CDSL's standalone quarterly operating income slipped from Rs 221 crore to Rs 212 crore and net profit from Rs 152 crore to Rs 90 crore (company presentation) - before the FY27 rebound that Saturday's print confirms. Second, the machine has failed in public: in April 2025, Sebi made CDSL deposit Rs 3 crore as a financial disincentive for technical glitches (<a href=\"https://www.cdslindia.com/downloads/InvestorRels/CorporateGovernance/Intimation_of_financial_disincentive_Final.pdf\" target=\"_blank\" rel=\"noopener\">CDSL's own exchange intimation</a>) - the regulator's way of saying that when the pipes burst, the whole market waits. A depository that is most of the country's accounts is also most of the country's single point of failure."
+     },
+     {
+      "t": "figure",
+      "img": "./photos/lr28-fig3.jpg",
+      "alt": "Editorial illustration of a precise machine of gears balancing on a thin fulcrum",
+      "caption": "Annuity economics on a fulcrum: growth falls to the bottom line - until the machine itself stumbles."
+     }
+    ]
+   },
+   {
+    "heading": "6. What Vora is betting on",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Which sets up the decision in front of Vora now. The account-opening flood that built CDSL cannot run forever: 18 crore accounts is already a large fraction of India's plausible investing population, the regulator watches fees on market plumbing with a hawk's patience, and from August 2025 the older depository is listed too - with its own shareholders to answer and an incentive to fight for the retail account it once ignored. CDSL's answer, visible in its own disclosures, is to carry its franchise beyond the equity vault: an investment in India International Bullion Holding IFSC - the GIFT City bullion exchange's holding company - to support its technology; a strategic stake in ONDC, the open commerce network; an insurance-repository subsidiary signing software partnerships beyond its original brief (<a href=\"https://www.thehindubusinessline.com/markets/cdsl-q2-results-net-profit-jumps-24-to-174-cr-on-strong-demand/article71649202.ece\" target=\"_blank\" rel=\"noopener\">Business Line</a>). None of these is yet a business on the scale of the vault. Together they are an admission: the flood was a gift, and the next twenty years have to be built."
+     },
+     {
+      "t": "p",
+      "html": "The paper rot made CDSL necessary; retail India made it big; the listing made it rich. What makes it last is the question its own chief executive is now paid to answer - and the honest way to read Saturday's 24% jump is not as proof of permanence, but as one more quarter of running room in which to find out."
+     },
+     {
+      "t": "closing",
+      "html": "Sources read for this long read: CDSL's investor presentation and annual reports (company site), the 2017 offer document (Sebi's site), Business Line's listing-day and Q2 reports, the company's intimation of the Sebi disincentive, NDTV Profit's depository comparison, and the Economic Times on NSDL's listing. Every figure is from those documents; nothing here is investment advice."
+     }
+    ]
+   }
+  ],
+  "title": "The pipes under the market",
+  "fact": "A Slow Burn long read, Monday 2 November 2026. Every share an Indian investor owns sits in one of two vaults. The smaller, younger one - Central Depository Services, CDSL - opened for business in 1999 with almost nothing, became the first listed depository in Asia, and now holds the accounts of most of the country's investors - 18 crore of them. On Saturday it posted a 24% profit jump, with 75 lakh new demat accounts opened in a single quarter. This is how India's market forgot paper - and what the company that made it happen is worth worrying about next.",
+  "hero": {
+   "t": "figure",
+   "img": "./photos/lr28-hero.jpg",
+   "alt": "Editorial illustration of an abstract network of pipelines carrying glowing paper slips into a central hub",
+   "caption": "Every trade in India ends in one of two depositories. The younger one now carries most of the country's investors."
+  },
+  "thumb": "photos/lr28-thumb.jpg",
+  "audio": {
+   "full": "audio/lr28.ogg",
+   "segments": [
+    {
+     "key": "segment1",
+     "label": "Opening"
+    },
+    {
+     "key": "segment2",
+     "label": "The paper rot"
+    },
+    {
+     "key": "segment3",
+     "label": "The slow decade and listing"
+    },
+    {
+     "key": "segment4",
+     "label": "The flip"
+    },
+    {
+     "key": "segment5",
+     "label": "The machine wobbles"
+    },
+    {
+     "key": "segment6",
+     "label": "The next bet"
+    }
+   ],
+   "segment1": "audio/d28-segments/lr-001.ogg",
+   "segment2": "audio/d28-segments/lr-002.ogg",
+   "segment3": "audio/d28-segments/lr-003.ogg",
+   "segment4": "audio/d28-segments/lr-004.ogg",
+   "segment5": "audio/d28-segments/lr-005.ogg",
+   "segment6": "audio/d28-segments/lr-006.ogg"
+  }
  }
 }

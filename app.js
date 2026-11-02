@@ -319,6 +319,14 @@
   }
 
 
+  function chapterPlayersHTML(day) {
+    var audio = D.audio[String(day)];
+    if (!audio || !audio.segments || !audio.segments.length) return '';
+    return '<details class="chapter-audio"><summary>Listen by chapter (' + audio.segments.length + ')</summary>' + audio.segments.map(function (seg) {
+      return playerHTML(day, seg.key, seg.label, 'Chapter audio', false);
+    }).join('') + '</details>';
+  }
+
   /* ---------- silent reading pacer (no audio; WPM-paced sentence highlight) ---------- */
   var splitSents;
   try {
@@ -678,6 +686,7 @@
     if (isToday) {
       h += playerHTML(day, 'full', 'The full read', 'Every section, read aloud', true);
       h += playerHTML(day, 'quick', 'The quick listen', 'Short version, just what matters', false);
+      h += chapterPlayersHTML(day);
       h += conceptHTML(day);
     }
     if (ed.hero && ed.hero.img) {
@@ -777,6 +786,7 @@
     }
     if (D.audio && D.audio['lr' + n] && D.audio['lr' + n].full) {  // recorded read of the whole long read (no on-device voice)
       h += playerHTML('lr' + n, 'full', 'Listen to this long read', 'Recorded read', true);
+      h += chapterPlayersHTML('lr' + n);
     }
     lr.groups.forEach(function (g, gi) {
       h += '<section class="section"><div class="section-head"><div class="section-title">' + escFix(g.heading) + '</div>' +
