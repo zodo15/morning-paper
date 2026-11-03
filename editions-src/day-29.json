@@ -1,0 +1,339 @@
+{
+  "day": 29,
+  "meta": {
+    "date": "Tuesday 3 November 2026",
+    "short": "Tue 3 Nov",
+    "longread": 29
+  },
+  "edition": {
+    "groups": [
+      {
+        "heading": "Today's long read",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>Today's long read:</strong> The Diwali listing - how Coal India went from 711 nationalised mines to the biggest IPO India had ever seen, what slipped on the road to a billion tonnes, and what chairman B Sairam's Rs 1 trillion bet on coal's durability means now. <a href=\"https://files.instinct.com/yl0tzau2u5si-the-diwali-listing\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+          }
+        ]
+      },
+      {
+        "heading": "The 5-minute lead route",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>Reliance's record day:</strong> highest-ever quarterly profit of Rs 29,550 crore (+33.8%), and the stock's 11.64% jump carried the Sensex 1,233 points higher to 75,692.78 and the Nifty to 23,440.80."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Oil's 7% bet on peace:</strong> WTI settled at $96.46 and Brent at $104.77 - the biggest one-day fall since July - on US-Iran detente hopes. The catch: the Doha talks broke on Sunday without a deal, and the war's pattern is that these selloffs reverse."
+          },
+          {
+            "t": "p",
+            "html": "<strong>America votes today:</strong> all 435 House seats and 35 Senate seats; the last NBC poll had Democrats seven points up; results land through tomorrow morning IST."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Binance's proof lands:</strong> a zero-knowledge proof of reserves for ten major assets, replenishment now 95%, and daily outflows halved from the peak."
+          },
+          {
+            "t": "p",
+            "html": "<strong>EAAA's debut, scored:</strong> opened at Rs 1,673 against the Rs 1,665 issue, closed Rs 1,727.05, +3.73% - the grey market's +3.9% quote was nearly exact this time."
+          },
+          {
+            "t": "p",
+            "html": "<strong>The long read:</strong> Coal India - from 711 nationalised mines to India's largest IPO, on the eve of its sixteenth listing anniversary. <a href=\"https://files.instinct.com/yl0tzau2u5si-the-diwali-listing\" target=\"_blank\" rel=\"noopener\">Read it</a>."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>1. Reliance's record quarter lifts the whole tape.</strong> Reliance Industries reported its highest-ever quarterly profit: Rs 29,550 crore for July-September, up 33.8% on a year ago, on revenue of Rs 3,62,268 crore (+27.8%) and record EBITDA of Rs 62,409 crore (<a href=\"https://www.ril.com/sites/default/files/2026-10/30102026_Media%20Release_RIL_Q2_FY2026-27_Financial_and_Operational_Performance.pdf\" target=\"_blank\" rel=\"noopener\">RIL's results release</a>). The engine was oil-to-chemicals: O2C EBITDA jumped 67.9% to Rs 25,203 crore with refining margins at historic highs, while Jio added 11.3% revenue growth to Rs 47,485 crore and retail stayed subdued. The stock rose 11.64% on the BSE to close at Rs 1,299.00 - exactly at the day's high - on Rs 475 crore of traded value there, the session's biggest mover and the Nifty's largest index contributor at roughly 7.3% weight (<a href=\"https://www.indiainfoline.com/news/markets/closing-bell-nifty-surges-1-68-to-23441-as-reliance-rallies-11-6-on-record-profit-crude-cools-below-110\" target=\"_blank\" rel=\"noopener\">closing-bell report, read in full</a>; BSE official prints). The close: Sensex 75,692.78 (+1,233.25, +1.66%), Nifty 23,440.80 (+387.70, +1.68%), with energy, infrastructure and metals leading. Goldman Sachs kept a Buy with an Rs 1,840 target and Nomura Rs 1,560; both flagged the weak retail arm. <em>Editor's takeaway: one stock did the heavy lifting for the headline indices - the market's verdict was on refining margins, and the same evening's 7% oil crash cuts both ways on those.</em>"
+          },
+          {
+            "t": "p",
+            "html": "<strong>2. Oil plunges 7% on detente hopes - with the catch spelled out.</strong> WTI settled down 7.4% at $96.46 and Brent down 7.6% at $104.77 on Monday, the biggest daily loss since 27 July, as Iran said \"intensive\" exchanges with Washington were underway and offered to reopen the Strait of Hormuz within two days under strict conditions, including lifting the US blockade of Iranian ports (<a href=\"https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html\" target=\"_blank\" rel=\"noopener\">CNBC, read in full</a>; <a href=\"https://www.afp.com/en/oil-prices-plunge-us-iran-detente-hopes-ahead-us-midterms\" target=\"_blank\" rel=\"noopener\">AFP, read in full</a>). Axios reported that the letter from US Vice President Vance to Iran's security chief Mohsen Rezaei - acknowledged last week - proposed new talks; Rezaei told state television he has not responded, while calling the American tone \"completely changed\" and a \"very good sign\". The catch: Iran's delegation left Doha on Sunday after the weekend's talks ended without a breakthrough, a draft proposal is only circulating for feedback, and regional officials told the AP they fear US or Israeli strikes after today's election (<a href=\"https://www.pbs.org/newshour/world/irans-delegation-has-left-negotiations-in-qatar-after-a-tense-weekend-heres-where-things-stand\" target=\"_blank\" rel=\"noopener\">AP's status report, read in full</a>). The war's own pattern is the warning: every settlement rumour so far has deflated the premium and then re-inflated it on escalation. Again Capital's John Kilduff put it plainly: \"All these losses will be taken right back if this doesn't pan out.\" <em>Editor's takeaway: the market is pricing the letter, not the mines - the condition to watch is whether Tehran answers it before the election result changes Washington's hand.</em>"
+          },
+          {
+            "t": "p",
+            "html": "<strong>3. Election day in America.</strong> Voting is underway across the United States for all 435 House seats and 35 Senate seats, with the first state polls closing at 7pm Eastern - early Wednesday morning in India - and most results landing through the Indian day tomorrow (<a href=\"https://www.pbs.org/newshour/politics/heres-when-polls-are-closing-in-your-state-this-midterm-election\" target=\"_blank\" rel=\"noopener\">state-by-state closing times</a>). The final pre-vote picture is yesterday's: NBC's closing national poll put Democrats seven points ahead for Congress (52-45), the president's disapproval at a 60% record, and the House strongly Democratic-leaning while the Senate fight runs through states Trump won in 2024 (<a href=\"https://www.nbcnews.com/politics/2026-election/poll-voters-demand-change-check-trump-fueling-steep-democratic-midterm-rcna606183\" target=\"_blank\" rel=\"noopener\">NBC's final poll</a>). Two late inputs: Donald Trump made his closing pitch at the Lincoln Memorial Reflecting Pool on Monday night, and the Supreme Court rejected his administration's push to set aside thousands of California mail ballots (<a href=\"https://apnews.com/live/midterm-elections-trump-house-senate-news-updates-11-2-2026\" target=\"_blank\" rel=\"noopener\">AP's live log</a>). For Indian portfolios the transmission stays the war: the next Congress votes on the Iran conflict's funding and posture, and oil's 7% Monday says the market is already trading the diplomacy track. <em>Editor's takeaway: today is the last day the polls matter and tomorrow the first day they don't - watch the Senate's knife fights on red terrain, not the national number.</em>"
+          },
+          {
+            "t": "p",
+            "html": "<strong>4. Binance's proof of reserves lands, and the bleeding halves.</strong> The exchange published a completed zero-knowledge proof of reserves on Monday covering ten assets - BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD and ZEC - letting users independently verify 1:1 backing, and said replenishment of the hacked assets now stands at about 95%, with the remaining 5% in less-liquid tokens it is still acquiring (<a href=\"https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321\" target=\"_blank\" rel=\"noopener\">The Block, read in full</a>). Withdrawals for more networks resume from today; the next reserves snapshot is Wednesday, with the full zero-knowledge proof taking a further 40-50 hours to generate. The flow data says the run is easing: 24-hour net outflows fell to about $3.29 billion, down more than half from the roughly $7 billion peak, on DeFiLlama's count - which tracks about $127.78 billion in linked on-chain wallets, a different basis from the exchange's own $171 billion total-assets figure quoted on Sunday, so the two are not comparable. Investigators at SomaXBT say $242 million of the stolen funds have already been laundered on Tron. <em>Editor's takeaway: solvency theatre is becoming verifiable solvency - the interesting question for every other exchange is why a customer should accept less than a zero-knowledge proof after this month.</em>"
+          },
+          {
+            "t": "p",
+            "html": "<strong>5. EAAA's debut, scored against the grey market.</strong> EAAA India Alternatives opened at Rs 1,673.00 against its Rs 1,665 issue price, traded between Rs 1,600.10 and Rs 1,762.55, and closed its first day at Rs 1,727.05 - up 3.73% - on 4.58 lakh shares changing hands worth Rs 77.4 crore (BSE official prints, scrip 545008). The grey market's last quote had implied a debut about 3.9% up; against a 3.5-point average miss on recent listings, this call landed almost exactly. The shape matched the book: an institution-carried IPO (QIB 13.13 times, retail 1.03 times) opened modestly and held, never cracking below issue. What yesterday could not answer is the after-market question from Monday's edition - whether the retail bid builds over the first week. Day one gave no verdict either way; the register to watch is whether volumes stay broad without the price testing Rs 1,665."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>Monday's tape, on the record.</strong> Sensex 75,692.78 (+1,233.25, +1.66%), Nifty 23,440.80 (+387.70, +1.68%), Bank Nifty 55,002.20 (+0.58%) - a strong start to Diwali week (<a href=\"https://www.indiainfoline.com/news/markets/closing-bell-nifty-surges-1-68-to-23441-as-reliance-rallies-11-6-on-record-profit-crude-cools-below-110\" target=\"_blank\" rel=\"noopener\">closing report</a>). Reliance's +11.64% (BSE) did most of it; sectorally, Nifty Energy rose 3.92%, Infrastructure 3.70% and Metals 3.21%, while IT (-0.50%) and Media (-0.76%) fell as money rotated out of tech on Wall Street's AI-spending worries. New York's Monday, end-of-day finals from the <a href=\"https://finance.yahoo.com/quote/%5EGSPC/history/\" target=\"_blank\" rel=\"noopener\">historical tables</a>: S&amp;P 500 7,541.40 (-0.51%), Nasdaq 25,164.32 (-1.07%) as tech stayed under pressure, Dow 51,983.98 (+0.41%). Oil settled at $96.46 WTI and $104.77 Brent (-7.4%/-7.6%, above); gold rebounded to about $3,954 spot (+1.85%) after Friday's rout pushed it below $4,000 for the first time since October 2025, with silver at $51.66 (<a href=\"https://www.usagold.com/daily-gold-price-history/\" target=\"_blank\" rel=\"noopener\">daily metals report</a>)."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 270\" role=\"img\" aria-label=\"Monday 2 Nov, Nifty sector moves (%); source: closing-bell report, NSE indices\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Energy</text><rect x=\"410\" y=\"30\" width=\"30.411612903225805\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"448.41161290322583\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+3.9%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Infrastructure</text><rect x=\"410\" y=\"78\" width=\"28.70483870967742\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"446.7048387096774\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+3.7%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Metal</text><rect x=\"410\" y=\"126\" width=\"24.903387096774193\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"442.90338709677417\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+3.2%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">IT</text><rect x=\"406.1209677419355\" y=\"174\" width=\"3.879032258064516\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"398.1209677419355\" y=\"193\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.5%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Media</text><rect x=\"404.10387096774195\" y=\"222\" width=\"5.896129032258065\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"396.10387096774195\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.8%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Monday 2 Nov, Nifty sector moves (%); source: closing-bell report, NSE indices</p>"
+          },
+          {
+            "t": "p",
+            "html": "<strong>What Tuesday watches.</strong> Three clocks: the US vote through the day with first poll closes at 5:30 AM IST Wednesday; Infosys trading around its Rs 26 dividend record date after Monday's -1.61% (BSE); and whether oil's 7% repricing holds into the result - Brent's $104.77 settle is the line the detente trade is built on. Coal India's Rs 10.25 dividend record date is tomorrow; the stock added 4.61% on the BSE on Monday."
+          }
+        ]
+      },
+      {
+        "heading": "IPOs",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>Listed: EAAA India Alternatives (+3.73% on day one).</strong> The essentials, all BSE official: opened Rs 1,673.00 (+0.5% to the Rs 1,665 issue), high Rs 1,762.55, low Rs 1,600.10, closed Rs 1,727.05; 4.58 lakh shares traded, Rs 77.4 crore by value. The debut validates the institution-carried book rather than the retail one - retail had subscribed just 1.03 times (<a href=\"https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-39/20261030-39.pdf\" target=\"_blank\" rel=\"noopener\">BSE listing notice</a>). The five-session question from Monday stands: whether retail volumes build without the price cracking issue. Nothing else opens, closes or lists this week that clears the bar for space."
+          }
+        ]
+      },
+      {
+        "heading": "Top movers, Monday 2 November",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "All figures BSE official closing prints for Monday 2 November; reasons traced to company releases or named reports, and a mover is dropped where no driver could be traced."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 270\" role=\"img\" aria-label=\"Monday 2 Nov, index-level moves (%), BSE closing prices; source: BSE official data\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Reliance</text><rect x=\"410\" y=\"30\" width=\"90.30387096774194\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"508.30387096774194\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+11.6%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Tata Steel</text><rect x=\"410\" y=\"78\" width=\"43.75548387096774\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"461.75548387096774\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+5.6%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">JSW Steel</text><rect x=\"410\" y=\"126\" width=\"40.497096774193544\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"458.49709677419355\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+5.2%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Coal India</text><rect x=\"410\" y=\"174\" width=\"35.76467741935484\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"453.7646774193548\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+4.6%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Infosys</text><rect x=\"397.50951612903225\" y=\"222\" width=\"12.490483870967742\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"389.50951612903225\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.6%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Monday 2 Nov, index-level moves (%), BSE closing prices; source: BSE official data</p>"
+          },
+          {
+            "t": "p",
+            "html": "<strong>The why.</strong> Reliance (+11.64% to Rs 1,299.00) moved on its record quarterly profit - detail on the front page. Coal India (+4.61% to Rs 407.40) traded its 57% profit jump and the approach of tomorrow's Rs 10.25 dividend record date (<a href=\"https://www.moneycontrol.com/news/business/earnings/coal-india-q2-results-net-profit-rises-57-to-rs-6-547-crore-announces-dividend-14063703.html\" target=\"_blank\" rel=\"noopener\">results report</a>). Tata Steel (+5.64% to Rs 177.15) and JSW Steel (+5.22% to Rs 1,310.00) had no company-specific filings; the move was sector-wide (Nifty Metal +3.21%), which the closing report attributes to the same Reliance-led, crude-cooling rotation - attribution, not a confirmed company catalyst. Infosys (-1.61% to Rs 1,163.00) fell with the IT pack on Wall Street's AI-spending worries, a day before its Rs 26 dividend record date. Most traded by value on the day: Reliance (about Rs 475 crore on the BSE; the all-venue figure ran to roughly Rs 11,004 crore per the closing report) and Infosys (Rs 52 crore on the BSE; Rs 1,508 crore across venues)."
+          }
+        ]
+      },
+      {
+        "heading": "Corporate actions",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>Dates for the diary.</strong> Infosys's Rs 26 interim dividend record date is today, Tuesday 3 November (payout 11 November). Coal India's Rs 10.25 second interim dividend record date is tomorrow, Wednesday 4 November - payment on or before 27 November, per its exchange filing (<a href=\"https://www.moneycontrol.com/news/business/earnings/coal-india-q2-results-net-profit-rises-57-to-rs-6-547-crore-announces-dividend-14063703.html\" target=\"_blank\" rel=\"noopener\">report</a>) - and the date lands sixteen years to the week after the company's 4 November 2010 listing. HUL's Rs 19 interim record date falls Thursday 12 November (payment 25 November). NTPC declared a Rs 3 first interim dividend with Saturday's results - record date Friday 6 November, payment from 25 November, per its exchange filing."
+          }
+        ]
+      },
+      {
+        "heading": "Finance Goldmine",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>What a 7% fall in oil is actually worth to India.</strong> The number that moved Monday night was a percentage; the thing that matters to a household is the chain it sets off. India imports the overwhelming share of the crude it burns, so every sustained dollar off Brent trims the import bill, softens the pump price's pressure on inflation, and loosens the tightest screw on the rupee - which is why the stock market celebrated an oil fall the same day it celebrated an oil company's record margins, and both reactions were internally consistent: Reliance's win was on refining margins, not crude levels, and cheaper crude cools everyone's input costs. The honest caveat sits in the mechanism that made the fall: it was a bet on diplomacy, not a barrel of new supply. The war premium - the extra dollars crude carried because Hormuz might close - deflated on a letter and a negotiating draft. Premiums built on fear reflate on a single mine strike, as this war has shown more than once. The personal-money translation: treat Monday's relief at the petrol pump's wholesale end as a truce dividend, not a peace settlement - it is real money while it lasts, and it lasts exactly as long as the talks do. The tell that it has ended: Brent back above its pre-crash settle around $113, the price it held before the detente bid began."
+          }
+        ]
+      },
+      {
+        "heading": "Startup Intelligence",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>The product Binance actually shipped this week: verifiable trust.</strong> Strip away the hack and what remains is a product decision any fintech founder can study. Binance did not ask customers to believe a press release; it shipped a zero-knowledge proof that lets each user mathematically verify their own balance sits inside a 1:1-backed pool, on a published cadence, with the next snapshot already dated (<a href=\"https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321\" target=\"_blank\" rel=\"noopener\">The Block's report</a>). The mechanism generalises past crypto: any business that custodies other people's money - a payments app holding float, a lender pooling escrow, a broker holding margin - sells the same invisible product, \"your money is there\". The pre-crisis price of making that verifiable is engineering time and some transparency; the post-crisis price of not having it is the franchise. Indian exchanges and fintechs will be measured against this month's bar whether regulators write it down or not."
+          },
+          {
+            "t": "p",
+            "html": "<strong>One startup idea, tied to today's reporting: proof-of-reserves infrastructure for Indian platforms.</strong> India's crypto exchanges, and eventually any platform holding customer float, need exactly what Binance had to build in a crisis: reserve attestations users can check themselves. The product: an independent reserves-attestation service - cryptographic snapshots, liability trees, published verification - sold to exchanges and fintechs that would rather rent credibility than build it during their own emergency. Who pays: the platform whose next funding round or licence review asks the question. First step: publish a free, dated reserve-tracking dashboard for the three largest Indian exchanges using their existing attestations, and let the gaps make the sales pitch. What would make it wrong: if Indian regulation mandates a specific audit standard first, the independent tool becomes compliance plumbing - a smaller, still real business."
+          }
+        ]
+      },
+      {
+        "heading": "AI Race",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>The AI backlash goes electoral - and the AI trade wobbles again.</strong> Two threads from Monday, one from each side of the Pacific. In the US, opposition to data centres has become a live campaign issue in today's midterms - Cresset Capital's chief strategist Joseph Zidle told AFP the election anxiety and the AI-spending anxiety \"are actually related\", as communities push back on the build-out's land, power and water demands (<a href=\"https://www.afp.com/en/oil-prices-plunge-us-iran-detente-hopes-ahead-us-midterms\" target=\"_blank\" rel=\"noopener\">AFP</a>). In the market, the question that knocked nearly 3% off the Nasdaq on Friday kept working: the index fell a further 1.07% on Monday even as the broader Dow rose, with investors still asking when the industry's enormous AI capital spending pays back. Neither thread is a product launch; both are the demand-and-consent side of the AI story that vendor keynotes never cover. What would count as a counter-signal: a hyperscaler showing measured revenue per dollar of AI capex, not projections."
+          }
+        ]
+      },
+      {
+        "heading": "Vibe coding",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>Nothing new cleared the bar in 48 hours.</strong> No verified tool, model or workflow change in the window worth your morning - the honest entry is the empty one. The standing rule from Monday holds while agents get more autonomous (DeepSeek's channel-watching prototype, covered yesterday): anything that can act unprompted gets a sandbox and a revert path before it gets credentials."
+          }
+        ]
+      },
+      {
+        "heading": "Try this today (Tuesday)",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>Research: trace one number to its source.</strong> Pick the biggest number in this edition - Reliance's Rs 29,550 crore profit - and paste this into your AI tool: \"Find the original results release this figure comes from. Quote the exact line, the period it covers, and whether it is standalone or consolidated. Then find one reputable news report of the same figure and flag any difference in basis.\" Five minutes. A good result names the document, not a summary of it, and tells you which basis each source used - the same exercise that resolved Coal India's 53%-versus-57% headline split in today's paper. Use it on any number you are about to repeat."
+          }
+        ]
+      },
+      {
+        "heading": "One concept: the availability heuristic",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>The easiest thing to remember feels like the most likely thing to happen.</strong> In 1973, psychologists Amos Tversky and Daniel Kahneman showed that people judge frequency by how easily examples come to mind: asked whether more English words start with the letter K or have K in third place, most said starting with K - because such words are easier to recall - though words with K third are about twice as common. What is vivid, recent or easily pictured crowds out the base rate. You can watch it in today's edition: after one 7% plunge, peace in the Gulf feels close - because the plunge is vivid and today's - while nine months of strikes, mines and failed truces are the less-pictured base rate arguing the premium can return. The defence is a written one: before acting on the day's most dramatic fact, write down what you would believe if you had seen only the last twelve months, not the last twelve hours. If the two answers differ, the dramatic fact is doing availability's work. <em>60-second recall, closed book: (1) What did people get wrong about the letter K? (2) What is the rule the brain is actually following? (3) Where is availability bias live in today's paper? Answers: more words have K in third place; ease of recall stands in for frequency; the oil plunge making peace feel nearer than nine months of war justify.</em>"
+          }
+        ]
+      },
+      {
+        "heading": "Term of the day: proof of reserves",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "A cryptographic attestation by a custodian - a crypto exchange, or any holder of client balances - that the assets it owes customers exist, at 1:1 backing or better. The modern version uses zero-knowledge proofs: the custodian publishes a snapshot of reserves and a mathematical proof that every customer's balance is included, so users verify rather than trust, without any account being exposed. Binance's post-hack proof, published Monday for ten major assets, is the working example (<a href=\"https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321\" target=\"_blank\" rel=\"noopener\">The Block</a>); its limit is equally worth knowing - a proof covers assets at a snapshot in time, not liabilities you cannot see or what happens the next day, which is why Binance has already dated the next snapshot for Wednesday."
+          }
+        ]
+      },
+      {
+        "heading": "The setup board (research, not advice)",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The desk's rule, restated after the 27 October change: every published setup stays on the board until it completes (target hit) or fails (stop hit); the five-session lapse is retired. Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 Oct</a>."
+          },
+          {
+            "t": "chart",
+            "svg": "<p style=\"color:#64748b;font-size:13px\">Conditional setup and watchlist triggers, week of 2 November; prices are BSE official closes, Monday 2 November</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. HCL Technologies</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Live - holding</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Zone Rs 1,351-1,378 filled 28 Oct - worst fill Rs 1,378.00 (Rs 1,382.13 with the 0.3% cost convention)</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Rs 1,346.90 (never traded)</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Rs 1,466.80 (adjusted 20-session high) - Monday high Rs 1,458.00 came within Rs 8.80</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>about 1:2.4</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until target or stop</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,430.00 (Mon close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it all week</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until it triggers or shelves</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 458.00 (Mon close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - held since; closed above the 1,297.95 reference high Monday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>20-session high Rs 1,297.95 - taken out Monday</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.2 - failed the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until it resolves</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,310.00 (Mon close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close 234.50 but crude crashed 7% overnight</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until the coil breaks</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 234.50 (Mon close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>5. Infosys</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Absorption above 1,175 - Rs 26 dividend record date today; closed 1,163.00 Monday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>A close under 1,120 ends the thesis</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>First checkpoint 1,245 (gap zone)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (qualitative)</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until the thesis breaks</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,163.00 (Mon close)</p></div>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"HCL Technologies: stop to target, marker at Monday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">HCLTech</text><line x1=\"204.5161290322585\" x2=\"591.2903225806449\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"472.5806451612907\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5161290322585\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">1346.9</text><text x=\"472.5806451612907\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">1430</text><text x=\"591.2903225806449\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">1466.8</text></svg><p style=\"font-size:13px;color:#64748b\">HCL Technologies: stop to target, marker at Monday's close</p>"
+          },
+          {
+            "t": "p",
+            "html": "Setup slots 2 to 5 stay empty today - nothing new cleared the verification bar; an empty slot is a result, not a gap. The honest reads, with per-share prices: HCLTech (Rs 1,430.00) closed +3.5% against the cost-adjusted fill of Rs 1,382.13, with Monday's high of Rs 1,458.00 stopping Rs 8.80 short of the Rs 1,466.80 target - nearest approach since entry. Kotak Mahindra Bank (Rs 458.00) holds above its Rs 437.55 trigger - still a candidate, not a setup. JSW Steel (Rs 1,310.00) closed above its 1,297.95 reference high after Monday's +5.22% - the reclaim thesis is playing out; the board's published R:R screen still failed it, which is why it remains a watchlist line and not a setup. ONGC (Rs 234.50) sits in the top half of its Rs 218.50-238.75 coil - but the breakout case was built on crude strength, and crude just fell 7% on detente hopes; the coil decides, now with the wind against it. Infosys (Rs 1,163.00) trades its Rs 26 dividend record date today after Monday's -1.61% - the absorption thesis is being tested, not broken. Tech Mahindra stays shelved above the Rs 1,500 cap."
+          }
+        ]
+      },
+      {
+        "heading": "How the board scores",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "No prior-day stop trade",
+                "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+              },
+              {
+                "n": "2",
+                "title": "Same-day zone and stop",
+                "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
+              },
+              {
+                "n": "3",
+                "title": "Resolutions stay on record",
+                "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The editor's read",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Three conditions, in the order they resolve. First, oil: whether Brent's $104.77 detente settle holds once Tehran's answer to the Vance letter - confirmed received, still unanswered - lands, or the war's reflation pattern repeats. Second, the election: whether the Senate's knife fights on red terrain follow the national poll or the battlefield map, and what that does to the war's funding debate. Third, the home tape: whether Reliance's record-margin verdict survives the same oil fall that lifted everything else - cheaper crude cools input costs for the market and refining margins for Reliance at once. This desk does not predict the answers; it watches these conditions."
+          }
+        ]
+      },
+      {
+        "heading": "Brewing",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "<strong>The unanswered letter.</strong> Cause chain: Axios reports Vance's letter proposed new talks; Rezaei confirms receiving it and says the US tone has changed; the Doha draft circulates. Watch next: any Iranian response, or a dated follow-up meeting, before the election result shifts Washington's leverage. Proven wrong if: strikes resume on shipping while the draft is live."
+          },
+          {
+            "t": "p",
+            "html": "<strong>Binance's Wednesday snapshot.</strong> Cause chain: Monday's proof covers ten assets at 95% replenishment; the next snapshot is dated tomorrow. Watch next: whether coverage widens and whether the remaining 5% of less-liquid tokens gets a dated acquisition plan. Proven wrong if: the snapshot slips or shows backing below 1:1."
+          },
+          {
+            "t": "p",
+            "html": "<strong>The Senate map.</strong> Cause chain: a seven-point national lead meets a battlefield running through states Trump won in 2024 - NBC's final poll notes Democrats must flip at least two states Trump carried by double digits. Watch next: the calls on those red-terrain races through tomorrow morning IST, not the national number. Proven wrong if: control is settled before the knife fights report."
+          }
+        ]
+      },
+      {
+        "heading": "The week ahead",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Tue 3 Nov",
+                "detail": "US midterm elections - all 435 House seats, 35 Senate; first state polls close 7pm ET (5:30 AM IST Wednesday). Infosys Rs 26 interim dividend record date. Binance resumes withdrawals on more networks."
+              },
+              {
+                "n": "2",
+                "title": "Wed 4 Nov",
+                "detail": "US results land through the India day - House call first, the knife-fight Senate races on red terrain through the day. Coal India Rs 10.25 interim dividend record date (payment by 27 November). Binance's next reserves snapshot."
+              },
+              {
+                "n": "3",
+                "title": "Thu 5 Nov",
+                "detail": "Post-election positioning across crude, defence and the dollar."
+              },
+              {
+                "n": "4",
+                "title": "Fri 6 Nov",
+                "detail": "NTPC Rs 3 first interim dividend record date (payment from 25 November). US October jobs report, 8:30am ET (BLS release schedule) - the data the Fed takes into December; Dhanteras."
+              },
+              {
+                "n": "5",
+                "title": "Sun 8 Nov",
+                "detail": "Diwali."
+              },
+              {
+                "n": "6",
+                "title": "Tue 10 Nov",
+                "detail": "Israel's new Knesset is sworn in after last Tuesday's election - Netanyahu's bloc lost its majority."
+              },
+              {
+                "n": "7",
+                "title": "Wed 11 Nov",
+                "detail": "Infosys dividend payout. No FOMC this week - the next meeting is 8-9 December (Fed calendar)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Notes on this edition",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Sources read in full for this edition: India Infoline’s closing-bell report; Reliance’s Q2 results release (headline figures cross-checked against two independent reports); CNBC and AFP on the oil settle; the Associated Press status report on the Doha talks (via PBS); NBC News’s final poll; AP’s election live log; PBS’s poll-closing guide; The Block on Binance’s proof of reserves; moneycontrol’s report of Coal India’s exchange filing; usagold’s daily metals report; BSE’s official bhavcopy for all Indian stock prices; the BSE’s EAAA listing notice.",
+              "All Indian stock prices are BSE official closing prints from the exchange’s own bhavcopy (2 November); index levels (Sensex, Nifty, Bank Nifty, sector indices) are as reported in the closing-bell report. US closes are Monday’s end-of-day finals from Yahoo Finance’s historical table (S&P 500 7,541.40, -0.51%; Nasdaq 25,164.32, -1.07%; Dow 51,983.98, +0.41%). Oil settles are Monday’s finals (WTI $96.46, -7.4%; Brent $104.77, -7.6%, CNBC). Gold marked near $3,954 spot, Monday (usagold).",
+              "Two-basis figures kept distinct: Coal India’s profit is reported both ways exactly as its exchange filing frames them - total consolidated PAT Rs 6,547 crore (+57%) and profit attributable to owners Rs 6,516 crore (+53%). Binance’s asset figures are not spliced: DeFiLlama’s $127.78 billion tracks linked on-chain wallets; the $171 billion quoted Sunday was the exchange’s own total-assets basis.",
+              "Attributions kept distinct: the Hormuz-reopening offer and the \"intensive exchanges\" line are Tehran’s own framing; the Vance letter’s existence is Iran’s acknowledgment, its contents are Axios’s reporting; fears of post-election strikes are attributed to regional officials speaking to the AP; Reliance’s broker targets are Goldman Sachs’s and Nomura’s published calls, not this paper’s view."
+            ]
+          },
+          {
+            "t": "closing",
+            "html": "Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
+          }
+        ]
+      }
+    ],
+    "title": "Reliance's record day, and oil's 7% bet on peace",
+    "fact": "Tuesday 3 November 2026, edition 29. Reliance Industries posted its highest-ever quarterly profit - Rs 29,550 crore, up 33.8% - and rose 11.64% in a single session, pulling the Sensex up 1,233 points and the Nifty above 23,400. Oil plunged 7% on hopes of a US-Iran deal, even though Iran's delegation left the Doha talks on Sunday without one. America votes today in the midterms; results land tomorrow morning India time. Binance published its post-hack proof of reserves and said replenishment is 95% done. And EAAA India Alternatives closed its debut day up 3.7% - almost exactly what the grey market had priced. The long read is Coal India, sixteen years to the week after its own record Diwali listing.",
+    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: how a nationalised monopoly became India's largest-ever IPO, what the 2010 Diwali debut says about this week's record date, and the billion-tonne bet its chairman is making - pegged to Coal India's 57% profit jump and tomorrow's dividend record date.",
+    "concept": {
+      "label": "One Concept a Day",
+      "name": "The availability heuristic",
+      "line": "The easiest thing to remember feels like the most likely thing to happen."
+    }
+  },
+  "audio": null,
+  "times": null
+}
