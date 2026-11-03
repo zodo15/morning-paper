@@ -334,6 +334,56 @@
       "line": "The easiest thing to remember feels like the most likely thing to happen."
     }
   },
-  "audio": null,
+  "audio": {
+    "full": "audio/d29-full.m4a",
+    "quick": "audio/d29-quick.m4a",
+    "segments": [
+      {
+        "key": "segment1",
+        "label": "Lead: Reliance's record day"
+      },
+      {
+        "key": "segment2",
+        "label": "Oil's 7% bet on peace"
+      },
+      {
+        "key": "segment3",
+        "label": "Election day in America"
+      },
+      {
+        "key": "segment4",
+        "label": "Binance's proof of reserves"
+      },
+      {
+        "key": "segment5",
+        "label": "EAAA's debut, scored"
+      },
+      {
+        "key": "segment6",
+        "label": "Markets on the record"
+      },
+      {
+        "key": "segment7",
+        "label": "Corporate actions and movers"
+      },
+      {
+        "key": "segment8",
+        "label": "The setup board"
+      },
+      {
+        "key": "segment9",
+        "label": "The editor's read"
+      }
+    ],
+    "segment1": "audio/d29-segment1.m4a",
+    "segment2": "audio/d29-segment2.m4a",
+    "segment3": "audio/d29-segment3.m4a",
+    "segment4": "audio/d29-segment4.m4a",
+    "segment5": "audio/d29-segment5.m4a",
+    "segment6": "audio/d29-segment6.m4a",
+    "segment7": "audio/d29-segment7.m4a",
+    "segment8": "audio/d29-segment8.m4a",
+    "segment9": "audio/d29-segment9.m4a"
+  },
   "times": null
 }
