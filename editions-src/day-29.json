@@ -383,7 +383,20 @@
     "segment6": "audio/d29-segment6.m4a",
     "segment7": "audio/d29-segment7.m4a",
     "segment8": "audio/d29-segment8.m4a",
-    "segment9": "audio/d29-segment9.m4a"
+    "segment9": "audio/d29-segment9.m4a",
+    "durations": {
+      "full": 1611.75,
+      "quick": 119.24,
+      "segment1": 112.21,
+      "segment2": 186.53,
+      "segment3": 163.45,
+      "segment4": 193.33,
+      "segment5": 200.13,
+      "segment6": 228.09,
+      "segment7": 171.05,
+      "segment8": 154.93,
+      "segment9": 202.05
+    }
   },
   "times": null
 }
