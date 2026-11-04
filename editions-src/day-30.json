@@ -333,6 +333,69 @@
       "line": "Losses weigh about twice as much as gains of the same size."
     }
   },
-  "audio": null,
+  "audio": {
+    "full": "audio/d30-full.m4a",
+    "quick": "audio/d30-quick.m4a",
+    "segments": [
+      {
+        "key": "segment1",
+        "label": "Opening and the five-minute lead route"
+      },
+      {
+        "key": "segment2",
+        "label": "Front page: the count, and oil through a strike"
+      },
+      {
+        "key": "segment3",
+        "label": "Front page: the home tape, Marico, Binance"
+      },
+      {
+        "key": "segment4",
+        "label": "Markets, IPOs, and the top movers"
+      },
+      {
+        "key": "segment5",
+        "label": "Corporate actions, Finance Goldmine, Startup Intelligence"
+      },
+      {
+        "key": "segment6",
+        "label": "AI Race, vibe coding, try this, and the concept of the day"
+      },
+      {
+        "key": "segment7",
+        "label": "Term of the day and the setup board"
+      },
+      {
+        "key": "segment8",
+        "label": "Board scoring, the editor's read, and Brewing"
+      },
+      {
+        "key": "segment9",
+        "label": "The week ahead and the notes on this edition"
+      }
+    ],
+    "durations": {
+      "full": 2246.92,
+      "quick": 64.68,
+      "segment1": 159.04,
+      "segment2": 172.04,
+      "segment3": 256.28,
+      "segment4": 294.44,
+      "segment5": 243.92,
+      "segment6": 246.32,
+      "segment7": 454.16,
+      "segment8": 162.56,
+      "segment9": 258.16
+    },
+    "segment1": "audio/d30-segment1.m4a",
+    "segment2": "audio/d30-segment2.m4a",
+    "segment3": "audio/d30-segment3.m4a",
+    "segment4": "audio/d30-segment4.m4a",
+    "segment5": "audio/d30-segment5.m4a",
+    "segment6": "audio/d30-segment6.m4a",
+    "segment7": "audio/d30-segment7.m4a",
+    "segment8": "audio/d30-segment8.m4a",
+    "segment9": "audio/d30-segment9.m4a"
+  },
   "times": null
 }
