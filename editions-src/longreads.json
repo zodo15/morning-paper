@@ -5191,7 +5191,7 @@
   },
   "thumb": "./photos/lr30-thumb.jpg",
   "audio": {
-   "full": "audio/lr30-full.m4a",
+   "full": "audio/lr30-full.m4a?v=20261104r2",
    "segments": [
     {
      "key": "segment1",
@@ -5215,15 +5215,15 @@
     }
    ],
    "durations": {
-    "full": 440.88,
+    "full": 438.48,
     "segment1": 103.2,
-    "segment2": 81.04,
+    "segment2": 78.64,
     "segment3": 110.72,
     "segment4": 83.24,
     "segment5": 62.68
    },
    "segment1": "audio/lr30-segment1.m4a",
-   "segment2": "audio/lr30-segment2.m4a",
+   "segment2": "audio/lr30-segment2.m4a?v=20261104r2",
    "segment3": "audio/lr30-segment3.m4a",
    "segment4": "audio/lr30-segment4.m4a",
    "segment5": "audio/lr30-segment5.m4a"

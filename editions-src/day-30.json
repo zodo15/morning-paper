@@ -1,401 +1,401 @@
 {
-  "day": 30,
-  "meta": {
-    "date": "Wednesday 4 November 2026",
-    "short": "Wed 4 Nov",
-    "longread": 30
+ "day": 30,
+ "meta": {
+  "date": "Wednesday 4 November 2026",
+  "short": "Wed 4 Nov",
+  "longread": 30
+ },
+ "edition": {
+  "groups": [
+   {
+    "heading": "Today's long read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Today's long read:</strong> The oil merchant's brands - how a third-generation commodity trader looked at tins of coconut oil and saw a consumer company, broke the business out in 1990, survived his own acquisitions, and built Parachute and Saffola into national defaults. <a href=\"https://files.instinct.com/4omvuhxk95y3-the-oil-merchants-brands\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+     }
+    ]
+   },
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>America counts:</strong> Democrats took the first Senate call of the night, in Virginia; Kentucky's Republican leads but is uncalled; control of both chambers is open at press time, with the knife fights still to report."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The strike nobody sold:</strong> the US hit Iran's Qeshm Island on election eve - and oil still fell for a second day, Brent settling at $103.60. The market is pricing the letter, not the launcher."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Four in a row at home:</strong> Sensex 76,917.85 and Nifty 23,810.85, two-month highs, on the biggest single-day FII buying in a year."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Marico's blowout:</strong> profit up 31%, volume growth the best in 22 quarters, guidance raised - the stock rose 9.4%."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Binance's dated test:</strong> the broader reserves snapshot is due today; Monday's proof showed 1:1 backing on ten assets with replenishment at 95%."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The long read:</strong> Marico - the oil merchant's brands, thirty-five years from tin cans to a 31% profit quarter. <a href=\"https://files.instinct.com/4omvuhxk95y3-the-oil-merchants-brands\" target=\"_blank\" rel=\"noopener\">Read it</a>."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>1. America voted; the count is the story.</strong> Polls closed across the United States on Tuesday for all 435 House seats and 35 Senate seats, and results are landing through this Indian day (<a href=\"https://apnews.com/live/midterm-election-2026\" target=\"_blank\" rel=\"noopener\">AP's live log</a>). At press time - about 7:30pm in Washington - the called map is thin by definition: the Associated Press's first Senate call of the night gave Democrats the Virginia seat, while Kentucky's Senate race, one of the red-terrain knife fights this paper flagged on Monday, showed Republican Andy Barr leading Charles Booker but remained uncalled (<a href=\"https://apnews.com/article/midterm-elections-house-senate-congress-trump-ef6199e25927a9ac9f4c18eae0e497cd\" target=\"_blank\" rel=\"noopener\">AP's race report</a>). The stakes, restated: Democrats must flip four Senate seats and three House seats to take both chambers, per AP's count. Everything that matters for your money is downstream of the calls still to come - so this paper reports what is called, attributes the caller, and leaves the rest to tomorrow. <em>Editor's takeaway: the honest front page this morning is a partial one - Virginia is called, Kentucky is not, and the Senate's red terrain reports through your day.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. The US struck Qeshm Island - and oil fell anyway.</strong> On the eve of the vote, the US military carried out what a US official called limited, defensive strikes on Iran's Qeshm Island in the Strait of Hormuz, hours after Vice President Vance said diplomacy was moving in the right direction (<a href=\"https://www.reuters.com/5f374b32b07b/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/\" target=\"_blank\" rel=\"noopener\">Reuters</a>; <a href=\"https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island\" target=\"_blank\" rel=\"noopener\">the Guardian</a>). US officials quoted by The National said an Iranian surface-to-air missile had downed an American drone over waters east of Hormuz and that the strikes hit a missile launcher; Reuters' own account said only that Iran had fired at a US aircraft - with the US describing the action as defensive, not a resumption of major combat operations."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The market's verdict is the remarkable part.</strong> Brent settled down 1.1% at $103.60 and WTI down $0.37 at $96.09 on Tuesday, a second straight fall and a near-four-week low (<a href=\"https://www.marketwatch.com/story/oil-settles-lower-as-market-holds-out-hope-for-middle-east-diplomacy-3nd-update-5e0c6814?mod=markets\" target=\"_blank\" rel=\"noopener\">MarketWatch's settle report</a>; <a href=\"https://www.newsquawk.com/headlines/crude-wrap-wti-z6-settles-usd-037-lower-at-9609bbl\" target=\"_blank\" rel=\"noopener\">Newsquawk's crude wrap</a>). The detente bid that began with the Vance letter is now holding through live strikes - but the war's cost showed up in an Indian orderbook the same day: KEC International cut its FY27 revenue guidance to 8-10%, citing the West Asia conflict, and its stock fell 9.3% (<a href=\"https://www.cnbctv18.com/market/earnings/kec-international-cuts-fy27-revenue-guidance-q2-results-west-asia-crisis-alpha-article-20025541.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18</a>). <em>Editor's takeaway: the premium is deflating through strikes, which is new - but Tehran has still not answered the letter, and this war has re-inflated on a single incident more than once.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. Four straight days, two-month highs, and foreigners buying again.</strong> The Sensex rose 1,225.07 points (1.62%) to 76,917.85 and the Nifty 1.58% to 23,810.85 on Tuesday - a fourth straight gain, both indices at two-month highs, up about 5% across the four sessions (<a href=\"https://www.business-standard.com/markets/news/stock-market-live-november-3-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110300101_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard's close</a>; <a href=\"https://www.moneycontrol.com/news/business/markets/taking-stock-markets-near-2-month-high-nifty-above-23-800-sensex-jumps-1-225-pts-14067577.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's taking-stock</a>). The driver worth naming: foreign investors net bought Rs 6,836.81 crore of Indian equities - the biggest single-day print since October 2025 and a third straight buying day, taking the streak past Rs 13,500 crore - while domestic institutions net sold about Rs 3,679 crore (<a href=\"https://www.cnbctv18.com/market/fiis-record-biggest-single-day-buying-of-2026-with-nearly-rs6900-crore-inflows-20026310.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18, on exchange data</a>). FMCG led the sectors (Nifty FMCG +2.5%) with realty (+2.1%) and private banks (+2.0%) behind; most major sector indices closed higher. New York's election-day finals, from the <a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c\" target=\"_blank\" rel=\"noopener\">AP's closing report</a>: S&amp;P 500 up 27.52 points to 7,568.92 (+0.4%) as chip stocks rebounded, Nasdaq composite up 207.65 to 25,372.01 (+0.8%), Dow down 197.26 to 51,786.72 (-0.4%) - with Apple falling against the grain. <em>Editor's takeaway: the rally is now broad and foreign-funded - and domestic institutions are selling into it, which is the disagreement to watch.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>4. Marico's best volume quarter in years.</strong> Marico reported consolidated profit up 31% for July-September, well ahead of estimates, on lower copra costs and broad demand - and raised its FY27 growth guidance (<a href=\"https://www.moneycontrol.com/news/business/markets/marico-shares-climb-8-as-q2-results-beat-estimates-on-strong-demand-14067503.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>; <a href=\"https://www.thehindubusinessline.com/markets/stock-markets/marico-surges-8-after-q2-earnings-beat-analysts-raise-targets/article71659648.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>). Parachute coconut oil volumes grew 13%, the strongest in 22 quarters, taking volume market share above 60% (Mint). The stock jumped 9.44% on the BSE to close at Rs 873.20 - its high of the day - on about six lakh shares there, leading the FMCG pack that carried the market. The full build story - from a family commodity business to this quarter - is today's long read. <em>Editor's takeaway: this was a volume quarter, not just a margin gift from cheap copra - that distinction is what the 9.4% was buying.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>5. Binance's dated test arrives today.</strong> The exchange's next proof-of-reserves snapshot is dated today - the first since Monday's completed zero-knowledge proof showed ten major assets (BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, ZEC) backed at least 1:1, verifiable by each user against a published Merkle tree. Replenishment of the hacked assets stood at about 95%, with the remaining 5% in less-liquid tokens still being acquired, and withdrawals have been progressively restoring since the weekend, with more networks added from Tuesday (The Block; TokenPost). The snapshot itself was not yet published at press time - that is expected, since the full proof historically takes 40-50 hours to generate after the snapshot. The tripwires from Monday stand: coverage should widen, the 5% needs a dated plan, and anything below 1:1 breaks the story. <em>Editor's takeaway: a crisis response is now a cadence - the product question for every rival exchange is why a customer should accept less.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Tuesday's tape, on the record.</strong> Sensex 76,917.85 (+1,225.07, +1.62%), Nifty 23,810.85 (+1.58%), both two-month highs after a fourth straight gain (<a href=\"https://www.moneycontrol.com/news/business/markets/taking-stock-markets-near-2-month-high-nifty-above-23-800-sensex-jumps-1-225-pts-14067577.html\" target=\"_blank\" rel=\"noopener\">taking-stock report</a>). Most major sector indices rose, led by FMCG; the laggards were not the story. FII buying of Rs 6,836.81 crore against DII selling of about Rs 3,679 crore framed the day. New York's finals are on the front page; oil settled at $103.60 Brent and $96.09 WTI - below the $104.77 line Monday's detente trade was built on, which is now resistance, not support."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 270\" role=\"img\" aria-label=\"Tuesday 3 Nov, Nifty sector moves (%); source: taking-stock report, NSE indices\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">FMCG</text><rect x=\"410\" y=\"30\" width=\"19.39516129032258\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"437.39516129032256\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.5%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Realty</text><rect x=\"410\" y=\"78\" width=\"16.29193548387097\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"434.291935483871\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.1%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Private Bank</text><rect x=\"410\" y=\"126\" width=\"15.360967741935482\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"433.3609677419355\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.0%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Auto</text><rect x=\"410\" y=\"174\" width=\"13.188709677419354\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"431.18870967741935\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.7%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Bank</text><rect x=\"410\" y=\"222\" width=\"6.206451612903226\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"424.2064516129032\" y=\"241\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.8%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Tuesday 3 Nov, Nifty sector moves (%); source: taking-stock report, NSE indices</p>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>What Wednesday watches.</strong> The count, first: House and Senate calls land through the Indian day, with the red-terrain Senate races the ones that decide control. Then Coal India's Rs 10.25 dividend record date - the stock closed at Rs 408.75 on Tuesday, up 0.33%. Binance's snapshot is dated today. And the results calendar (Upstox's count) has about 250 companies reporting, including BSE Ltd, Nykaa, Dabur, Apollo Hospitals and Lenskart - a results flood into a counting day."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>EAAA, day two: no verdict, thinner volume.</strong> EAAA India Alternatives closed its second session at Rs 1,722.00, down 0.29%, trading between Rs 1,680.00 and Rs 1,762.00 on 49,635 shares worth about Rs 8.6 crore - a tenth of debut-day volume, and never once testing the Rs 1,665 issue price (BSE official prints, scrip 545008). The five-session question from Monday - does the retail bid build without the price testing issue - is two sessions old and unanswered; day two's evidence is a shrug, not a crack. Nothing else opens, closes or lists this week that clears the bar for space."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers, Tuesday 3 November",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "All figures BSE official closing prints for Tuesday 3 November; reasons traced to company releases or named reports, and a mover is dropped where no driver could be traced."
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 222\" role=\"img\" aria-label=\"Tuesday 3 Nov, results-day moves (%), BSE closing prices; source: BSE official data\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">KRBL</text><rect x=\"410\" y=\"30\" width=\"81.61483870967741\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"499.61483870967743\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+10.5%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Marico</text><rect x=\"410\" y=\"78\" width=\"73.23612903225806\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"491.2361290322581\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+9.4%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">MCX</text><rect x=\"410\" y=\"126\" width=\"60.59048387096774\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"478.5904838709677\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+7.8%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">KEC Intl</text><rect x=\"337.85\" y=\"174\" width=\"72.15\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"329.85\" y=\"193\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-9.3%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Tuesday 3 Nov, results-day moves (%), BSE closing prices; source: BSE official data</p>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>The why.</strong> KRBL (+10.52% to Rs 400.95) reported consolidated profit up 50.44% to Rs 258.93 crore for the September quarter - on its highest-ever domestic quarterly revenue (<a href=\"https://www.moneycontrol.com/news/business/markets/q2-results-impact-krbl-shares-rally-13-as-september-quarter-profit-jumps-51-14067453.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>). Marico (+9.44% to Rs 873.20) beat estimates with a 31% profit rise and raised guidance - front page has the detail. MCX (+7.81% to Rs 3,493.00) traded as high as Rs 3,537 intraday as the exchange-stocks theme extended; no single company filing drove the day, so treat the attribution as momentum, not news. KEC International (-9.30% to Rs 316.40) reported profit down 81.6% to Rs 29.7 crore on revenue down 10.2% at Rs 5,468 crore, and cut FY27 revenue guidance to 8-10% on the West Asia conflict (<a href=\"https://www.business-standard.com/markets/news/kec-international-falls-8-as-q2-profit-sinks-82-margins-contract-sharply-126110300434_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>; <a href=\"https://www.cnbctv18.com/market/earnings/kec-international-cuts-fy27-revenue-guidance-q2-results-west-asia-crisis-alpha-article-20025541.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18</a>) - the Gulf war arriving in an Indian EPC's order book. Bharti Airtel (+4.00% to Rs 2,065.90) moved without a confirmed company catalyst - listed here, unattributed, because size demands it. The most-traded counter by value on the BSE was the NSE's own stock - the exchange listed on its rival on 24 September (<a href=\"https://indianexpress.com/article/business/nse-ipo-listing-market-cap-bse-insurance-stocks-irdai-10891795/\" target=\"_blank\" rel=\"noopener\">Indian Express</a>): about Rs 800 crore changed hands at a close of Rs 1,803.80, +1.35%."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Dates for the diary.</strong> Coal India's Rs 10.25 second interim dividend has its record date today, Wednesday 4 November - payment on or before 27 November, per its exchange filing - sixteen years to the day after the company's own listing on 4 November 2010. NTPC's Rs 3 first interim has its record date Friday 6 November (payment from 25 November). HUL's Rs 19 interim record date falls Thursday 12 November (payment 25 November). Infosys's Rs 26 interim, whose record date was Tuesday, pays out on 11 November."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>What a record date actually does to the price you pay.</strong> Three dividend dates crowd this week - Coal India today, NTPC Friday, HUL next Thursday - so the mechanics are worth getting exact. The record date is the day the company checks its register to decide who gets paid; because Indian trades now settle in one day, the stock goes ex-dividend on that same date - buy on the record date and you are too late for the dividend. The part people feel but rarely see: the price adjusts mechanically. Infosys gave a live demonstration on Tuesday - its Rs 26 dividend had its record date, and the stock fell 1.46% to Rs 1,146.00. The dividend was about 2.2% of the price, so the stock fell by less than the payout - a quiet sign that buyers absorbed the adjustment and then some, which is exactly the absorption thesis the setup board is tracking. The personal-money translation: a dividend is not a bonus - it is your own capital returned with a tax consequence, and the stock opens lower by roughly the same amount. What makes one dividend worth holding for is never the payout day; it is whether the business keeps compounding after it."
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>What Marico's quarter teaches consumer founders.</strong> Strip the 31% profit jump to its mechanics and three portable lessons survive. First, input-cost cycles are strategy, not weather: copra - coconut kernel, Marico's core raw material - got cheaper, and the company chose to let some of that reach consumers as sharper pricing rather than banking it all as margin, which is how you get 13% volume growth and a 60%-plus share at the same time. Second, distribution depth is a moat that compounds quietly: Parachute's best volume quarter in 22 quarters comes from rural reach built over decades, not from any launch. Third, guidance is a credibility instrument - raising FY27 guidance on a beat tells the market the demand is structural, and the 9.4% repricing says the market believed it. The full thirty-five-year build is the long read."
+     },
+     {
+      "t": "p",
+      "html": "<strong>One startup idea, tied to today's reporting: price discovery for copra and farm commodities.</strong> Marico's margin story is, upstream, a coconut farmer's price story - and that farmer sells into an opaque, trader-mediated market with no live benchmark. The product: a verified, mandi-level price feed for copra and similar plantation commodities - collected from actual transactions, published daily, sold as data to FMCG procurement desks and lenders, free to farmers on WhatsApp. Who pays: the procurement and credit side first; farmer-side stays free because their transactions are the product. First step: pick one Karnataka copra mandi, publish a daily verified price for ninety days, and let a buyer's treasury team find it indispensable. What would make it wrong: if transaction data is too sparse to verify honestly - in which case the honest answer is no product, not a noisier feed."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The AI trade's election day: chips bounce, Apple falls, the question stands.</strong> New York's Tuesday session was a relief rally for the AI trade - chip stocks rebounded and carried the Nasdaq up 0.8% while the broader Dow slipped, and Apple fell against the grain (<a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c\" target=\"_blank\" rel=\"noopener\">AP's closing report</a>). Nothing in the day answered the question that knocked nearly 3% off the Nasdaq last Friday: when the industry's enormous capital spending pays back in measured revenue. The political thread from Monday's edition now has a vote attached - data-center opposition was a live campaign issue in several local races, and whether the new Congress is friendly or hostile to the build-out is one of the things tonight's count will actually settle. Counter-signal to watch for, unchanged: a hyperscaler reporting measured revenue per dollar of AI capex, not projections."
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Meituan ships a 1.6-trillion-parameter coding model.</strong> LongCat-2.5 went live on 2 November - a mixture-of-experts model with 1.6 trillion total parameters and about 48 billion active per token, trained with long-horizon reinforcement learning over real codebases and aimed squarely at long coding-agent runs; it works with the Claude Code, Codex and Hermes harnesses and is available through LongCat's chat and API now, with open weights planned but not yet shipped (<a href=\"https://agentdex.app/news/2026-11-03/\" target=\"_blank\" rel=\"noopener\">launch roundup citing Meituan's changelog and tech blog</a>). The capability claims are vendor-published: Meituan's own table has it strong on terminal and 3D-coding benchmarks, self-reported and not yet independently verified - and on several coding tests Claude Opus 5 and DeepSeek V4.1 Flash still score higher. The pattern worth keeping: another frontier-class coding model from a Chinese lab, shipped into agent tooling first and benchmarks later."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Wednesday)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Writing: the 100-word constraint.</strong> Take the biggest developing story of your day - the US count, if you like - and ask your AI tool: \"Summarise what is known right now in exactly 100 words. Use no adjectives. After every sentence, add in brackets the source you would cite for it.\" Then strike every sentence whose bracket comes back empty or vague. What survives is reporting; what falls was fluency. The exercise transfers directly: any brief you write for someone else this week gets the same treatment before you send it - every load-bearing sentence earns its bracket or gets cut."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: loss aversion",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Losses weigh about twice as much as gains of the same size.</strong> In 1979, psychologists Daniel Kahneman and Amos Tversky published prospect theory: people do not judge outcomes as final states of wealth but as gains and losses from a reference point - and losses loom roughly twice as large. Kahneman, with Jack Knetsch and Richard Thaler, later showed it with coffee mugs: students given a mug demanded about twice as much to sell it as students without one would pay to buy it - owning it made losing it hurt more than not owning it made gaining it pleasant. You can watch it in today's paper: domestic institutions are selling into a four-day foreign-funded rally, and one way to read that is a gain being locked in early - the classic loss-averse trade - while foreign buyers with a fresh reference point see only entry. Neither is stupid; they are running different reference points. The defence is to name yours before you act: write down the price or level you are measuring from, and ask whether you would take the same decision if you did not already hold the position. <em>60-second recall, closed book: (1) What did the mug sellers demand versus the buyers? (2) What is a reference point? (3) Where is loss aversion live in today's paper? Answers: about twice as much; the level you measure gains and losses from; domestic selling into the FII rally.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: record date",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The date a company consults its shareholder register to decide who receives a declared dividend or other corporate benefit. Under India's one-day settlement, buying on the record date itself is too late - the stock trades ex-dividend from that date, meaning new buyers no longer carry the right to the payout, and the price typically adjusts down by roughly the dividend amount. Coal India's Rs 10.25 record date is today; NTPC's Rs 3 is Friday. The mechanics, with Infosys as Tuesday's live example, are in Finance Goldmine."
+     }
+    ]
+   },
+   {
+    "heading": "The setup board (research, not advice)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The desk's rule, restated after the 27 October change: every published setup stays on the board until it completes (target hit) or fails (stop hit); the five-session lapse is retired. Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 Oct</a>."
+     },
+     {
+      "t": "chart",
+      "svg": "<p style=\"color:#64748b;font-size:13px\">Conditional setup and watchlist triggers, week of 2 November; prices are BSE official closes, Tuesday 3 November</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. HCL Technologies</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Live - holding</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Zone Rs 1,351-1,378 filled 28 Oct - worst fill Rs 1,378.00 (Rs 1,382.13 with the 0.3% cost convention)</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Rs 1,346.90 (never traded)</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Rs 1,466.80 (adjusted 20-session high) - Tuesday high Rs 1,452.00; nearest approach remains Monday at Rs 8.80 short</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>about 1:2.4</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until target or stop</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,437.00 (Tue close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it for a seventh session</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until it triggers or shelves</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 464.00 (Tue close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - held since; extended to 1,318.55 Tuesday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>20-session high Rs 1,297.95 - taken out Monday</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.2 - failed the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until it resolves</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,318.55 (Tue close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close 231.65 inside the coil; crude fell again overnight</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until the coil breaks</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 231.65 (Tue close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>5. Infosys</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Absorption above 1,175 - Rs 26 dividend record date passed Tuesday; closed 1,146.00</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>A close under 1,120 ends the thesis</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>First checkpoint 1,245 (gap zone)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (qualitative)</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until the thesis breaks</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,146.00 (Tue close)</p></div>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"HCL Technologies: stop to target, marker at Tuesday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">HCLTech</text><line x1=\"204.5161290322585\" x2=\"591.2903225806449\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"495.1612903225805\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5161290322585\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">1346.9</text><text x=\"495.1612903225805\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">1437</text><text x=\"591.2903225806449\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">1466.8</text></svg><p style=\"font-size:13px;color:#64748b\">HCL Technologies: stop to target, marker at Tuesday's close</p>"
+     },
+     {
+      "t": "p",
+      "html": "Setup slots 2 to 5 stay empty today - nothing new cleared the verification bar; an empty slot is a result, not a gap. Tuesday's results movers were screened against the six standing factors before being left off: Marico (Rs 873.20) has momentum, volume, trend and a verified catalyst, but a post-spike entry fails the board's risk-reward screen at this price and the fundamentals line is one quarter deep; KRBL (Rs 400.95) screens similarly - real catalyst, real volume, but entry after a 10.5% single-day repricing is chasing, not a setup; Angel One (Rs 310.95) moves on broking momentum with no company catalyst line, which fails the news screen outright. The honest reads on the live lines, with per-share prices: HCLTech (Rs 1,437.00) closed +4.0% against the cost-adjusted fill of Rs 1,382.13, with Tuesday's high of Rs 1,452.00 inside Rs 15 of the Rs 1,466.80 target - the stop at Rs 1,346.90 has never traded. Kotak Mahindra Bank (Rs 464.00) held above its Rs 437.55 trigger again - still a candidate, not a setup. JSW Steel (Rs 1,318.55) extended above the reclaimed zone; the published R:R screen still fails it, which is why it stays a watchlist line. ONGC (Rs 231.65) held inside its Rs 218.50-238.75 coil with crude falling again - the coil decides, wind still against it. Infosys (Rs 1,146.00) fell 1.46% on record date - less than its Rs 26 dividend - absorption tested, not broken. Tech Mahindra stays shelved above the Rs 1,500 cap."
+     }
+    ]
+   },
+   {
+    "heading": "How the board scores",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "No prior-day stop trade",
+        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+       },
+       {
+        "n": "2",
+        "title": "Same-day zone and stop",
+        "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
+       },
+       {
+        "n": "3",
+        "title": "Resolutions stay on record",
+        "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three conditions, in the order they resolve. First, the count: whether the red-terrain Senate races follow the battlefield map as calls land through the Indian day - Virginia called for the Democrats early, Kentucky's Republican leading but uncalled at press. Second, oil through a strike: whether the detente bid keeps holding now that the US has hit Iranian soil and Tehran still has not answered the letter - Brent's $103.60 settle says the bid held on day one of that test. Third, the home disagreement: whether the biggest FII buying in a year keeps meeting domestic selling, and which side blinks first at two-month highs. This desk does not predict the answers; it watches these conditions."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The count.</strong> Cause chain: all 435 House seats and 35 Senate seats voted Tuesday; Democrats need four Senate and three House flips for control (AP); Virginia called Democratic, Kentucky uncalled with the Republican leading at press. Watch next: the AP's calls on the remaining red-terrain Senate races through this morning IST. Proven wrong if: control of either chamber is called before those races report."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The unanswered letter, now with strikes.</strong> Cause chain: Vance's letter proposed new talks; Tehran confirmed receipt, called the tone changed, and has not answered; the US then struck Qeshm Island on election eve, calling it defensive and limited. Watch next: any Iranian response - to the letter or to the strike - now that the vote is behind Washington. Proven wrong if: strikes resume on shipping while the draft is live."
+     },
+     {
+      "t": "p",
+      "html": "<strong>Binance's dated snapshot.</strong> Cause chain: Monday's completed proof covered ten assets at 1:1 backing with replenishment at 95%; the broader snapshot is dated today; the full proof takes a further 40-50 hours. Watch next: the snapshot actually landing, coverage widening, and a dated acquisition plan for the remaining 5%. Proven wrong if: the snapshot slips, or backing prints below 1:1."
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Wed 4 Nov",
+        "detail": "US midterm calls land through the India day - House call first, the knife-fight Senate races after. Coal India Rs 10.25 dividend record date (payment by 27 November). Binance's next reserves snapshot. About 250 companies report, including BSE Ltd, Nykaa, Dabur, Apollo Hospitals and Lenskart."
+       },
+       {
+        "n": "2",
+        "title": "Thu 5 Nov",
+        "detail": "Post-election positioning across crude, defence and the dollar; the results flood continues."
+       },
+       {
+        "n": "3",
+        "title": "Fri 6 Nov",
+        "detail": "NTPC Rs 3 first interim dividend record date (payment from 25 November). US October jobs report, 8:30am ET (BLS release schedule) - the data the Fed takes into December. Dhanteras."
+       },
+       {
+        "n": "4",
+        "title": "Sun 8 Nov",
+        "detail": "Diwali."
+       },
+       {
+        "n": "5",
+        "title": "Tue 10 Nov",
+        "detail": "Israel's new Knesset is sworn in after last Tuesday's election - Netanyahu's bloc lost its majority."
+       },
+       {
+        "n": "6",
+        "title": "Wed 11 Nov",
+        "detail": "Infosys Rs 26 dividend payout. No FOMC this week - the next meeting is 8-9 December (Fed calendar)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read for this edition: the Associated Press’s midterm live log and race calls; Reuters and the Guardian on the Qeshm Island strikes (The National for the drone-downing account, attributed to US officials); MarketWatch and Newsquawk on the oil settles; Business Standard, Hindu BusinessLine and Moneycontrol on the Indian close; CNBC TV18 on FII/DII flows (exchange data); the AP’s Wall Street closing report; Moneycontrol and Hindu BusinessLine on Marico’s results; Moneycontrol on KRBL; Business Standard and CNBC TV18 on KEC International; the Agentdex launch roundup for LongCat-2.5 (vendor-published specifications, not independently benchmarked); BSE’s official bhavcopy for every Indian stock price; the Wednesday reporters list comes from Upstox\\u2019s results calendar.",
+       "All Indian stock prices are BSE official closing prints from the exchange’s own bhavcopy (3 November); index levels (Sensex, Nifty, sector indices) are as carried in the named closing reports. US closes are Tuesday’s end-of-day finals per the Associated Press (S&P 500 7,568.92, +0.4%; Nasdaq composite 25,372.01, +0.8%; Dow 51,786.72, -0.4%). Oil settles are Tuesday’s finals (Brent $103.60, -1.1%; WTI $96.09, -$0.37).",
+       "Election framing at press time: only races called by the Associated Press are reported as called (Virginia’s Senate seat, Democratic); Kentucky is reported as a lead, not a call. Counts of seats needed for control are the AP’s. Anything later than about 6:00 AM IST is deliberately not in this edition.",
+       "Marico’s profit growth is reported as +31% (consolidated, per Moneycontrol and Hindu BusinessLine); one wire headlined +29% on a different basis - the company’s exchange filing is the arbiter if the distinction matters to you. KEC’s profit fall is -81.6% consolidated, to Rs 29.7 crore. Attributions kept distinct: the Qeshm strikes’ “defensive, limited” framing is the US official position; the drone-downing account comes from US officials via The National."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
+     }
+    ]
+   }
+  ],
+  "title": "America counts, and oil falls straight through a Gulf strike",
+  "fact": "Edition 30. America counts, and oil falls straight through a Gulf strike. Wednesday 4 November 2026, edition 30. This edition runs 4,155 words. America voted in the midterms and the count is under way - Democrats took the first Senate call of the night, in Virginia, with control of both chambers still open at press time. Oil fell for a second day even as the US struck Iran's Qeshm Island - Brent settled at $103.60, below the line Monday's detente trade was built on. India extended its Diwali rally to a fourth day at two-month highs, on the biggest single-day FII buying in a year. Marico jumped 9.4% on a profit quarter well ahead of estimates. And Binance's next proof-of-reserves snapshot is dated today. The long read is Marico - how a Bombay oil-trading family built the Parachute-and-Saffola house.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: how Harsh Mariwala turned his family's commodity oil business into one of India's great consumer brands - the tin-can problem, the 1990 breakaway, the bets that failed - pegged to Marico's 9.4% surge on Tuesday's results.",
+  "concept": {
+   "label": "One Concept a Day",
+   "name": "Loss aversion",
+   "line": "Losses weigh about twice as much as gains of the same size."
+  }
+ },
+ "audio": {
+  "full": "audio/d30-full.m4a?v=20261104r2",
+  "quick": "audio/d30-quick.m4a",
+  "segments": [
+   {
+    "key": "segment1",
+    "label": "Opening and the five-minute lead route"
+   },
+   {
+    "key": "segment2",
+    "label": "Front page: the count, and oil through a strike"
+   },
+   {
+    "key": "segment3",
+    "label": "Front page: the home tape, Marico, Binance"
+   },
+   {
+    "key": "segment4",
+    "label": "Markets, IPOs, and the top movers"
+   },
+   {
+    "key": "segment5",
+    "label": "Corporate actions, Finance Goldmine, Startup Intelligence"
+   },
+   {
+    "key": "segment6",
+    "label": "AI Race, vibe coding, try this, and the concept of the day"
+   },
+   {
+    "key": "segment7",
+    "label": "Term of the day and the setup board"
+   },
+   {
+    "key": "segment8",
+    "label": "Board scoring, the editor's read, and Brewing"
+   },
+   {
+    "key": "segment9",
+    "label": "The week ahead and the notes on this edition"
+   }
+  ],
+  "durations": {
+   "full": 2234.32,
+   "quick": 64.68,
+   "segment1": 159.04,
+   "segment2": 172.04,
+   "segment3": 266.2,
+   "segment4": 304.68,
+   "segment5": 243.92,
+   "segment6": 240.68,
+   "segment7": 452.52,
+   "segment8": 164.4,
+   "segment9": 230.84
   },
-  "edition": {
-    "groups": [
-      {
-        "heading": "Today's long read",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>Today's long read:</strong> The oil merchant's brands - how a third-generation commodity trader looked at tins of coconut oil and saw a consumer company, broke the business out in 1990, survived his own acquisitions, and built Parachute and Saffola into national defaults. <a href=\"https://files.instinct.com/4omvuhxk95y3-the-oil-merchants-brands\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
-          }
-        ]
-      },
-      {
-        "heading": "The 5-minute lead route",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>America counts:</strong> Democrats took the first Senate call of the night, in Virginia; Kentucky's Republican leads but is uncalled; control of both chambers is open at press time, with the knife fights still to report."
-          },
-          {
-            "t": "p",
-            "html": "<strong>The strike nobody sold:</strong> the US hit Iran's Qeshm Island on election eve - and oil still fell for a second day, Brent settling at $103.60. The market is pricing the letter, not the launcher."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Four in a row at home:</strong> Sensex 76,917.85 and Nifty 23,810.85, two-month highs, on the biggest single-day FII buying in a year."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Marico's blowout:</strong> profit up 31%, volume growth the best in 22 quarters, guidance raised - the stock rose 9.4%."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Binance's dated test:</strong> the broader reserves snapshot is due today; Monday's proof showed 1:1 backing on ten assets with replenishment at 95%."
-          },
-          {
-            "t": "p",
-            "html": "<strong>The long read:</strong> Marico - the oil merchant's brands, thirty-five years from tin cans to a 31% profit quarter. <a href=\"https://files.instinct.com/4omvuhxk95y3-the-oil-merchants-brands\" target=\"_blank\" rel=\"noopener\">Read it</a>."
-          }
-        ]
-      },
-      {
-        "heading": "Front page",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>1. America voted; the count is the story.</strong> Polls closed across the United States on Tuesday for all 435 House seats and 35 Senate seats, and results are landing through this Indian day (<a href=\"https://apnews.com/live/midterm-election-2026\" target=\"_blank\" rel=\"noopener\">AP's live log</a>). At press time - about 7:30pm in Washington - the called map is thin by definition: the Associated Press's first Senate call of the night gave Democrats the Virginia seat, while Kentucky's Senate race, one of the red-terrain knife fights this paper flagged on Monday, showed Republican Andy Barr leading Charles Booker but remained uncalled (<a href=\"https://apnews.com/article/midterm-elections-house-senate-congress-trump-ef6199e25927a9ac9f4c18eae0e497cd\" target=\"_blank\" rel=\"noopener\">AP's race report</a>). The stakes, restated: Democrats must flip four Senate seats and three House seats to take both chambers, per AP's count. Everything that matters for your money is downstream of the calls still to come - so this paper reports what is called, attributes the caller, and leaves the rest to tomorrow. <em>Editor's takeaway: the honest front page this morning is a partial one - Virginia is called, Kentucky is not, and the Senate's red terrain reports through your day.</em>"
-          },
-          {
-            "t": "p",
-            "html": "<strong>2. The US struck Qeshm Island - and oil fell anyway.</strong> On the eve of the vote, the US military carried out what a US official called limited, defensive strikes on Iran's Qeshm Island in the Strait of Hormuz, hours after Vice President Vance said diplomacy was moving in the right direction (<a href=\"https://www.reuters.com/5f374b32b07b/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/\" target=\"_blank\" rel=\"noopener\">Reuters</a>; <a href=\"https://www.theguardian.com/world/2026/nov/03/us-strikes-irans-qeshm-island\" target=\"_blank\" rel=\"noopener\">the Guardian</a>). US officials quoted by The National said an Iranian surface-to-air missile had downed an American drone over waters east of Hormuz and that the strikes hit a missile launcher; Reuters' own account said only that Iran had fired at a US aircraft - with the US describing the action as defensive, not a resumption of major combat operations."
-          },
-          {
-            "t": "p",
-            "html": "<strong>The market's verdict is the remarkable part.</strong> Brent settled down 1.1% at $103.60 and WTI down $0.37 at $96.09 on Tuesday, a second straight fall and a near-four-week low (<a href=\"https://www.marketwatch.com/story/oil-settles-lower-as-market-holds-out-hope-for-middle-east-diplomacy-3nd-update-5e0c6814?mod=markets\" target=\"_blank\" rel=\"noopener\">MarketWatch's settle report</a>; <a href=\"https://www.newsquawk.com/headlines/crude-wrap-wti-z6-settles-usd-037-lower-at-9609bbl\" target=\"_blank\" rel=\"noopener\">Newsquawk's crude wrap</a>). The detente bid that began with the Vance letter is now holding through live strikes - but the war's cost showed up in an Indian orderbook the same day: KEC International cut its FY27 revenue guidance to 8-10%, citing the West Asia conflict, and its stock fell 9.3% (<a href=\"https://www.cnbctv18.com/market/earnings/kec-international-cuts-fy27-revenue-guidance-q2-results-west-asia-crisis-alpha-article-20025541.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18</a>). <em>Editor's takeaway: the premium is deflating through strikes, which is new - but Tehran has still not answered the letter, and this war has re-inflated on a single incident more than once.</em>"
-          },
-          {
-            "t": "p",
-            "html": "<strong>3. Four straight days, two-month highs, and foreigners buying again.</strong> The Sensex rose 1,225.07 points (1.62%) to 76,917.85 and the Nifty 1.58% to 23,810.85 on Tuesday - a fourth straight gain, both indices at two-month highs, up about 5% across the four sessions (<a href=\"https://www.business-standard.com/markets/news/stock-market-live-november-3-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110300101_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard's close</a>; <a href=\"https://www.moneycontrol.com/news/business/markets/taking-stock-markets-near-2-month-high-nifty-above-23-800-sensex-jumps-1-225-pts-14067577.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's taking-stock</a>). The driver worth naming: foreign investors net bought Rs 6,836.81 crore of Indian equities - the biggest single-day print since October 2025 and a third straight buying day, taking the streak past Rs 13,500 crore - while domestic institutions net sold about Rs 3,679 crore (<a href=\"https://www.cnbctv18.com/market/fiis-record-biggest-single-day-buying-of-2026-with-nearly-rs6900-crore-inflows-20026310.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18, on exchange data</a>). FMCG led the sectors (Nifty FMCG +2.5%) with realty (+2.1%) and private banks (+2.0%) behind; most major sector indices closed higher. New York's election-day finals, from the <a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c\" target=\"_blank\" rel=\"noopener\">AP's closing report</a>: S&amp;P 500 up 27.52 points to 7,568.92 (+0.4%) as chip stocks rebounded, Nasdaq composite up 207.65 to 25,372.01 (+0.8%), Dow down 197.26 to 51,786.72 (-0.4%) - with Apple falling against the grain. <em>Editor's takeaway: the rally is now broad and foreign-funded - and domestic institutions are selling into it, which is the disagreement to watch.</em>"
-          },
-          {
-            "t": "p",
-            "html": "<strong>4. Marico's best volume quarter in years.</strong> Marico reported consolidated profit up 31% for July-September, well ahead of estimates, on lower copra costs and broad demand - and raised its FY27 growth guidance (<a href=\"https://www.moneycontrol.com/news/business/markets/marico-shares-climb-8-as-q2-results-beat-estimates-on-strong-demand-14067503.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>; <a href=\"https://www.thehindubusinessline.com/markets/stock-markets/marico-surges-8-after-q2-earnings-beat-analysts-raise-targets/article71659648.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>). Parachute coconut oil volumes grew 13%, the strongest in 22 quarters, taking volume market share above 60% (Mint). The stock jumped 9.44% on the BSE to close at Rs 873.20 - its high of the day - on about six lakh shares there, leading the FMCG pack that carried the market. The full build story - from a family commodity business to this quarter - is today's long read. <em>Editor's takeaway: this was a volume quarter, not just a margin gift from cheap copra - that distinction is what the 9.4% was buying.</em>"
-          },
-          {
-            "t": "p",
-            "html": "<strong>5. Binance's dated test arrives today.</strong> The exchange's next proof-of-reserves snapshot is dated today - the first since Monday's completed zero-knowledge proof showed ten major assets (BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, ZEC) backed at least 1:1, verifiable by each user against a published Merkle tree. Replenishment of the hacked assets stood at about 95%, with the remaining 5% in less-liquid tokens still being acquired, and withdrawals have been progressively restoring since the weekend, with more networks added from Tuesday (The Block; TokenPost). The snapshot itself was not yet published at press time - that is expected, since the full proof historically takes 40-50 hours to generate after the snapshot. The tripwires from Monday stand: coverage should widen, the 5% needs a dated plan, and anything below 1:1 breaks the story. <em>Editor's takeaway: a crisis response is now a cadence - the product question for every rival exchange is why a customer should accept less.</em>"
-          }
-        ]
-      },
-      {
-        "heading": "Markets",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>Tuesday's tape, on the record.</strong> Sensex 76,917.85 (+1,225.07, +1.62%), Nifty 23,810.85 (+1.58%), both two-month highs after a fourth straight gain (<a href=\"https://www.moneycontrol.com/news/business/markets/taking-stock-markets-near-2-month-high-nifty-above-23-800-sensex-jumps-1-225-pts-14067577.html\" target=\"_blank\" rel=\"noopener\">taking-stock report</a>). Most major sector indices rose, led by FMCG; the laggards were not the story. FII buying of Rs 6,836.81 crore against DII selling of about Rs 3,679 crore framed the day. New York's finals are on the front page; oil settled at $103.60 Brent and $96.09 WTI - below the $104.77 line Monday's detente trade was built on, which is now resistance, not support."
-          },
-          {
-            "t": "chart",
-            "svg": "<svg viewBox=\"0 0 760 270\" role=\"img\" aria-label=\"Tuesday 3 Nov, Nifty sector moves (%); source: taking-stock report, NSE indices\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">FMCG</text><rect x=\"410\" y=\"30\" width=\"19.39516129032258\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"437.39516129032256\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.5%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Realty</text><rect x=\"410\" y=\"78\" width=\"16.29193548387097\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"434.291935483871\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.1%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Private Bank</text><rect x=\"410\" y=\"126\" width=\"15.360967741935482\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"433.3609677419355\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.0%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Auto</text><rect x=\"410\" y=\"174\" width=\"13.188709677419354\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"431.18870967741935\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.7%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Bank</text><rect x=\"410\" y=\"222\" width=\"6.206451612903226\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"424.2064516129032\" y=\"241\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.8%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Tuesday 3 Nov, Nifty sector moves (%); source: taking-stock report, NSE indices</p>"
-          },
-          {
-            "t": "p",
-            "html": "<strong>What Wednesday watches.</strong> The count, first: House and Senate calls land through the Indian day, with the red-terrain Senate races the ones that decide control. Then Coal India's Rs 10.25 dividend record date - the stock closed at Rs 408.75 on Tuesday, up 0.33%. Binance's snapshot is dated today. And the results calendar (Upstox's count) has about 250 companies reporting, including BSE Ltd, Nykaa, Dabur, Apollo Hospitals and Lenskart - a results flood into a counting day."
-          }
-        ]
-      },
-      {
-        "heading": "IPOs",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>EAAA, day two: no verdict, thinner volume.</strong> EAAA India Alternatives closed its second session at Rs 1,722.00, down 0.29%, trading between Rs 1,680.00 and Rs 1,762.00 on 49,635 shares worth about Rs 8.6 crore - a tenth of debut-day volume, and never once testing the Rs 1,665 issue price (BSE official prints, scrip 545008). The five-session question from Monday - does the retail bid build without the price testing issue - is two sessions old and unanswered; day two's evidence is a shrug, not a crack. Nothing else opens, closes or lists this week that clears the bar for space."
-          }
-        ]
-      },
-      {
-        "heading": "Top movers, Tuesday 3 November",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "All figures BSE official closing prints for Tuesday 3 November; reasons traced to company releases or named reports, and a mover is dropped where no driver could be traced."
-          },
-          {
-            "t": "chart",
-            "svg": "<svg viewBox=\"0 0 760 222\" role=\"img\" aria-label=\"Tuesday 3 Nov, results-day moves (%), BSE closing prices; source: BSE official data\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">KRBL</text><rect x=\"410\" y=\"30\" width=\"81.61483870967741\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"499.61483870967743\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+10.5%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Marico</text><rect x=\"410\" y=\"78\" width=\"73.23612903225806\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"491.2361290322581\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+9.4%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">MCX</text><rect x=\"410\" y=\"126\" width=\"60.59048387096774\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"478.5904838709677\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+7.8%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">KEC Intl</text><rect x=\"337.85\" y=\"174\" width=\"72.15\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"329.85\" y=\"193\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-9.3%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Tuesday 3 Nov, results-day moves (%), BSE closing prices; source: BSE official data</p>"
-          },
-          {
-            "t": "p",
-            "html": "<strong>The why.</strong> KRBL (+10.52% to Rs 400.95) reported consolidated profit up 50.44% to Rs 258.93 crore for the September quarter - on its highest-ever domestic quarterly revenue (<a href=\"https://www.moneycontrol.com/news/business/markets/q2-results-impact-krbl-shares-rally-13-as-september-quarter-profit-jumps-51-14067453.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>). Marico (+9.44% to Rs 873.20) beat estimates with a 31% profit rise and raised guidance - front page has the detail. MCX (+7.81% to Rs 3,493.00) traded as high as Rs 3,537 intraday as the exchange-stocks theme extended; no single company filing drove the day, so treat the attribution as momentum, not news. KEC International (-9.30% to Rs 316.40) reported profit down 81.6% to Rs 29.7 crore on revenue down 10.2% at Rs 5,468 crore, and cut FY27 revenue guidance to 8-10% on the West Asia conflict (<a href=\"https://www.business-standard.com/markets/news/kec-international-falls-8-as-q2-profit-sinks-82-margins-contract-sharply-126110300434_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>; <a href=\"https://www.cnbctv18.com/market/earnings/kec-international-cuts-fy27-revenue-guidance-q2-results-west-asia-crisis-alpha-article-20025541.htm\" target=\"_blank\" rel=\"noopener\">CNBC TV18</a>) - the Gulf war arriving in an Indian EPC's order book. Bharti Airtel (+4.00% to Rs 2,065.90) moved without a confirmed company catalyst - listed here, unattributed, because size demands it. The most-traded counter by value on the BSE was the NSE's own stock - the exchange listed on its rival on 24 September (<a href=\"https://indianexpress.com/article/business/nse-ipo-listing-market-cap-bse-insurance-stocks-irdai-10891795/\" target=\"_blank\" rel=\"noopener\">Indian Express</a>): about Rs 800 crore changed hands at a close of Rs 1,803.80, +1.35%."
-          }
-        ]
-      },
-      {
-        "heading": "Corporate actions",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>Dates for the diary.</strong> Coal India's Rs 10.25 second interim dividend has its record date today, Wednesday 4 November - payment on or before 27 November, per its exchange filing - sixteen years to the day after the company's own listing on 4 November 2010. NTPC's Rs 3 first interim has its record date Friday 6 November (payment from 25 November). HUL's Rs 19 interim record date falls Thursday 12 November (payment 25 November). Infosys's Rs 26 interim, whose record date was Tuesday, pays out on 11 November."
-          }
-        ]
-      },
-      {
-        "heading": "Finance Goldmine",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>What a record date actually does to the price you pay.</strong> Three dividend dates crowd this week - Coal India today, NTPC Friday, HUL next Thursday - so the mechanics are worth getting exact. The record date is the day the company checks its register to decide who gets paid; because Indian trades now settle in one day, the stock goes ex-dividend on that same date - buy on the record date and you are too late for the dividend. The part people feel but rarely see: the price adjusts mechanically. Infosys gave a live demonstration on Tuesday - its Rs 26 dividend had its record date, and the stock fell 1.46% to Rs 1,146.00. The dividend was about 2.2% of the price, so the stock fell by less than the payout - a quiet sign that buyers absorbed the adjustment and then some, which is exactly the absorption thesis the setup board is tracking. The personal-money translation: a dividend is not a bonus - it is your own capital returned with a tax consequence, and the stock opens lower by roughly the same amount. What makes one dividend worth holding for is never the payout day; it is whether the business keeps compounding after it."
-          }
-        ]
-      },
-      {
-        "heading": "Startup Intelligence",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>What Marico's quarter teaches consumer founders.</strong> Strip the 31% profit jump to its mechanics and three portable lessons survive. First, input-cost cycles are strategy, not weather: copra - coconut kernel, Marico's core raw material - got cheaper, and the company chose to let some of that reach consumers as sharper pricing rather than banking it all as margin, which is how you get 13% volume growth and a 60%-plus share at the same time. Second, distribution depth is a moat that compounds quietly: Parachute's best volume quarter in 22 quarters comes from rural reach built over decades, not from any launch. Third, guidance is a credibility instrument - raising FY27 guidance on a beat tells the market the demand is structural, and the 9.4% repricing says the market believed it. The full thirty-five-year build is the long read."
-          },
-          {
-            "t": "p",
-            "html": "<strong>One startup idea, tied to today's reporting: price discovery for copra and farm commodities.</strong> Marico's margin story is, upstream, a coconut farmer's price story - and that farmer sells into an opaque, trader-mediated market with no live benchmark. The product: a verified, mandi-level price feed for copra and similar plantation commodities - collected from actual transactions, published daily, sold as data to FMCG procurement desks and lenders, free to farmers on WhatsApp. Who pays: the procurement and credit side first; farmer-side stays free because their transactions are the product. First step: pick one Karnataka copra mandi, publish a daily verified price for ninety days, and let a buyer's treasury team find it indispensable. What would make it wrong: if transaction data is too sparse to verify honestly - in which case the honest answer is no product, not a noisier feed."
-          }
-        ]
-      },
-      {
-        "heading": "AI Race",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>The AI trade's election day: chips bounce, Apple falls, the question stands.</strong> New York's Tuesday session was a relief rally for the AI trade - chip stocks rebounded and carried the Nasdaq up 0.8% while the broader Dow slipped, and Apple fell against the grain (<a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-95ac47c160dba546cbbdf72c10010e2c\" target=\"_blank\" rel=\"noopener\">AP's closing report</a>). Nothing in the day answered the question that knocked nearly 3% off the Nasdaq last Friday: when the industry's enormous capital spending pays back in measured revenue. The political thread from Monday's edition now has a vote attached - data-center opposition was a live campaign issue in several local races, and whether the new Congress is friendly or hostile to the build-out is one of the things tonight's count will actually settle. Counter-signal to watch for, unchanged: a hyperscaler reporting measured revenue per dollar of AI capex, not projections."
-          }
-        ]
-      },
-      {
-        "heading": "Vibe coding",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>Meituan ships a 1.6-trillion-parameter coding model.</strong> LongCat-2.5 went live on 2 November - a mixture-of-experts model with 1.6 trillion total parameters and about 48 billion active per token, trained with long-horizon reinforcement learning over real codebases and aimed squarely at long coding-agent runs; it works with the Claude Code, Codex and Hermes harnesses and is available through LongCat's chat and API now, with open weights planned but not yet shipped (<a href=\"https://agentdex.app/news/2026-11-03/\" target=\"_blank\" rel=\"noopener\">launch roundup citing Meituan's changelog and tech blog</a>). The capability claims are vendor-published: Meituan's own table has it strong on terminal and 3D-coding benchmarks, self-reported and not yet independently verified - and on several coding tests Claude Opus 5 and DeepSeek V4.1 Flash still score higher. The pattern worth keeping: another frontier-class coding model from a Chinese lab, shipped into agent tooling first and benchmarks later."
-          }
-        ]
-      },
-      {
-        "heading": "Try this today (Wednesday)",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>Writing: the 100-word constraint.</strong> Take the biggest developing story of your day - the US count, if you like - and ask your AI tool: \"Summarise what is known right now in exactly 100 words. Use no adjectives. After every sentence, add in brackets the source you would cite for it.\" Then strike every sentence whose bracket comes back empty or vague. What survives is reporting; what falls was fluency. The exercise transfers directly: any brief you write for someone else this week gets the same treatment before you send it - every load-bearing sentence earns its bracket or gets cut."
-          }
-        ]
-      },
-      {
-        "heading": "One concept: loss aversion",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>Losses weigh about twice as much as gains of the same size.</strong> In 1979, psychologists Daniel Kahneman and Amos Tversky published prospect theory: people do not judge outcomes as final states of wealth but as gains and losses from a reference point - and losses loom roughly twice as large. Kahneman, with Jack Knetsch and Richard Thaler, later showed it with coffee mugs: students given a mug demanded about twice as much to sell it as students without one would pay to buy it - owning it made losing it hurt more than not owning it made gaining it pleasant. You can watch it in today's paper: domestic institutions are selling into a four-day foreign-funded rally, and one way to read that is a gain being locked in early - the classic loss-averse trade - while foreign buyers with a fresh reference point see only entry. Neither is stupid; they are running different reference points. The defence is to name yours before you act: write down the price or level you are measuring from, and ask whether you would take the same decision if you did not already hold the position. <em>60-second recall, closed book: (1) What did the mug sellers demand versus the buyers? (2) What is a reference point? (3) Where is loss aversion live in today's paper? Answers: about twice as much; the level you measure gains and losses from; domestic selling into the FII rally.</em>"
-          }
-        ]
-      },
-      {
-        "heading": "Term of the day: record date",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "The date a company consults its shareholder register to decide who receives a declared dividend or other corporate benefit. Under India's one-day settlement, buying on the record date itself is too late - the stock trades ex-dividend from that date, meaning new buyers no longer carry the right to the payout, and the price typically adjusts down by roughly the dividend amount. Coal India's Rs 10.25 record date is today; NTPC's Rs 3 is Friday. The mechanics, with Infosys as Tuesday's live example, are in Finance Goldmine."
-          }
-        ]
-      },
-      {
-        "heading": "The setup board (research, not advice)",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "The desk's rule, restated after the 27 October change: every published setup stays on the board until it completes (target hit) or fails (stop hit); the five-session lapse is retired. Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: <a href=\"https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 Oct</a>."
-          },
-          {
-            "t": "chart",
-            "svg": "<p style=\"color:#64748b;font-size:13px\">Conditional setup and watchlist triggers, week of 2 November; prices are BSE official closes, Tuesday 3 November</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. HCL Technologies</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Live - holding</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Zone Rs 1,351-1,378 filled 28 Oct - worst fill Rs 1,378.00 (Rs 1,382.13 with the 0.3% cost convention)</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Rs 1,346.90 (never traded)</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Rs 1,466.80 (adjusted 20-session high) - Tuesday high Rs 1,452.00; nearest approach remains Monday at Rs 8.80 short</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>about 1:2.4</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until target or stop</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,437.00 (Tue close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it for a seventh session</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until it triggers or shelves</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 464.00 (Tue close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - held since; extended to 1,318.55 Tuesday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>20-session high Rs 1,297.95 - taken out Monday</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.2 - failed the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until it resolves</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,318.55 (Tue close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close 231.65 inside the coil; crude fell again overnight</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until the coil breaks</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 231.65 (Tue close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>5. Infosys</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Absorption above 1,175 - Rs 26 dividend record date passed Tuesday; closed 1,146.00</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>A close under 1,120 ends the thesis</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>First checkpoint 1,245 (gap zone)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (qualitative)</p><p style=\"margin:10px 0;font-size:15px\"><b>Persistence: </b>Until the thesis breaks</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,146.00 (Tue close)</p></div>"
-          },
-          {
-            "t": "chart",
-            "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"HCL Technologies: stop to target, marker at Tuesday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">HCLTech</text><line x1=\"204.5161290322585\" x2=\"591.2903225806449\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"495.1612903225805\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5161290322585\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">1346.9</text><text x=\"495.1612903225805\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">1437</text><text x=\"591.2903225806449\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">1466.8</text></svg><p style=\"font-size:13px;color:#64748b\">HCL Technologies: stop to target, marker at Tuesday's close</p>"
-          },
-          {
-            "t": "p",
-            "html": "Setup slots 2 to 5 stay empty today - nothing new cleared the verification bar; an empty slot is a result, not a gap. Tuesday's results movers were screened against the six standing factors before being left off: Marico (Rs 873.20) has momentum, volume, trend and a verified catalyst, but a post-spike entry fails the board's risk-reward screen at this price and the fundamentals line is one quarter deep; KRBL (Rs 400.95) screens similarly - real catalyst, real volume, but entry after a 10.5% single-day repricing is chasing, not a setup; Angel One (Rs 310.95) moves on broking momentum with no company catalyst line, which fails the news screen outright. The honest reads on the live lines, with per-share prices: HCLTech (Rs 1,437.00) closed +4.0% against the cost-adjusted fill of Rs 1,382.13, with Tuesday's high of Rs 1,452.00 inside Rs 15 of the Rs 1,466.80 target - the stop at Rs 1,346.90 has never traded. Kotak Mahindra Bank (Rs 464.00) held above its Rs 437.55 trigger again - still a candidate, not a setup. JSW Steel (Rs 1,318.55) extended above the reclaimed zone; the published R:R screen still fails it, which is why it stays a watchlist line. ONGC (Rs 231.65) held inside its Rs 218.50-238.75 coil with crude falling again - the coil decides, wind still against it. Infosys (Rs 1,146.00) fell 1.46% on record date - less than its Rs 26 dividend - absorption tested, not broken. Tech Mahindra stays shelved above the Rs 1,500 cap."
-          }
-        ]
-      },
-      {
-        "heading": "How the board scores",
-        "blocks": [
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "1",
-                "title": "No prior-day stop trade",
-                "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
-              },
-              {
-                "n": "2",
-                "title": "Same-day zone and stop",
-                "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
-              },
-              {
-                "n": "3",
-                "title": "Resolutions stay on record",
-                "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "The editor's read",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "Three conditions, in the order they resolve. First, the count: whether the red-terrain Senate races follow the battlefield map as calls land through the Indian day - Virginia called for the Democrats early, Kentucky's Republican leading but uncalled at press. Second, oil through a strike: whether the detente bid keeps holding now that the US has hit Iranian soil and Tehran still has not answered the letter - Brent's $103.60 settle says the bid held on day one of that test. Third, the home disagreement: whether the biggest FII buying in a year keeps meeting domestic selling, and which side blinks first at two-month highs. This desk does not predict the answers; it watches these conditions."
-          }
-        ]
-      },
-      {
-        "heading": "Brewing",
-        "blocks": [
-          {
-            "t": "p",
-            "html": "<strong>The count.</strong> Cause chain: all 435 House seats and 35 Senate seats voted Tuesday; Democrats need four Senate and three House flips for control (AP); Virginia called Democratic, Kentucky uncalled with the Republican leading at press. Watch next: the AP's calls on the remaining red-terrain Senate races through this morning IST. Proven wrong if: control of either chamber is called before those races report."
-          },
-          {
-            "t": "p",
-            "html": "<strong>The unanswered letter, now with strikes.</strong> Cause chain: Vance's letter proposed new talks; Tehran confirmed receipt, called the tone changed, and has not answered; the US then struck Qeshm Island on election eve, calling it defensive and limited. Watch next: any Iranian response - to the letter or to the strike - now that the vote is behind Washington. Proven wrong if: strikes resume on shipping while the draft is live."
-          },
-          {
-            "t": "p",
-            "html": "<strong>Binance's dated snapshot.</strong> Cause chain: Monday's completed proof covered ten assets at 1:1 backing with replenishment at 95%; the broader snapshot is dated today; the full proof takes a further 40-50 hours. Watch next: the snapshot actually landing, coverage widening, and a dated acquisition plan for the remaining 5%. Proven wrong if: the snapshot slips, or backing prints below 1:1."
-          }
-        ]
-      },
-      {
-        "heading": "The week ahead",
-        "blocks": [
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "1",
-                "title": "Wed 4 Nov",
-                "detail": "US midterm calls land through the India day - House call first, the knife-fight Senate races after. Coal India Rs 10.25 dividend record date (payment by 27 November). Binance's next reserves snapshot. About 250 companies report, including BSE Ltd, Nykaa, Dabur, Apollo Hospitals and Lenskart."
-              },
-              {
-                "n": "2",
-                "title": "Thu 5 Nov",
-                "detail": "Post-election positioning across crude, defence and the dollar; the results flood continues."
-              },
-              {
-                "n": "3",
-                "title": "Fri 6 Nov",
-                "detail": "NTPC Rs 3 first interim dividend record date (payment from 25 November). US October jobs report, 8:30am ET (BLS release schedule) - the data the Fed takes into December. Dhanteras."
-              },
-              {
-                "n": "4",
-                "title": "Sun 8 Nov",
-                "detail": "Diwali."
-              },
-              {
-                "n": "5",
-                "title": "Tue 10 Nov",
-                "detail": "Israel's new Knesset is sworn in after last Tuesday's election - Netanyahu's bloc lost its majority."
-              },
-              {
-                "n": "6",
-                "title": "Wed 11 Nov",
-                "detail": "Infosys Rs 26 dividend payout. No FOMC this week - the next meeting is 8-9 December (Fed calendar)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Notes on this edition",
-        "blocks": [
-          {
-            "t": "bullets",
-            "items": [
-              "Sources read for this edition: the Associated Press’s midterm live log and race calls; Reuters and the Guardian on the Qeshm Island strikes (The National for the drone-downing account, attributed to US officials); MarketWatch and Newsquawk on the oil settles; Business Standard, Hindu BusinessLine and Moneycontrol on the Indian close; CNBC TV18 on FII/DII flows (exchange data); the AP’s Wall Street closing report; Moneycontrol and Hindu BusinessLine on Marico’s results; Moneycontrol on KRBL; Business Standard and CNBC TV18 on KEC International; the Agentdex launch roundup for LongCat-2.5 (vendor-published specifications, not independently benchmarked); BSE’s official bhavcopy for every Indian stock price; the Wednesday reporters list comes from Upstox\\u2019s results calendar.",
-              "All Indian stock prices are BSE official closing prints from the exchange’s own bhavcopy (3 November); index levels (Sensex, Nifty, sector indices) are as carried in the named closing reports. US closes are Tuesday’s end-of-day finals per the Associated Press (S&P 500 7,568.92, +0.4%; Nasdaq composite 25,372.01, +0.8%; Dow 51,786.72, -0.4%). Oil settles are Tuesday’s finals (Brent $103.60, -1.1%; WTI $96.09, -$0.37).",
-              "Election framing at press time: only races called by the Associated Press are reported as called (Virginia’s Senate seat, Democratic); Kentucky is reported as a lead, not a call. Counts of seats needed for control are the AP’s. Anything later than about 6:00 AM IST is deliberately not in this edition.",
-              "Marico’s profit growth is reported as +31% (consolidated, per Moneycontrol and Hindu BusinessLine); one wire headlined +29% on a different basis - the company’s exchange filing is the arbiter if the distinction matters to you. KEC’s profit fall is -81.6% consolidated, to Rs 29.7 crore. Attributions kept distinct: the Qeshm strikes’ “defensive, limited” framing is the US official position; the drone-downing account comes from US officials via The National."
-            ]
-          },
-          {
-            "t": "closing",
-            "html": "Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
-          }
-        ]
-      }
-    ],
-    "title": "America counts, and oil falls straight through a Gulf strike",
-    "fact": "Edition 30. America counts, and oil falls straight through a Gulf strike. Wednesday 4 November 2026, edition 30. This edition runs 4,155 words. America voted in the midterms and the count is under way - Democrats took the first Senate call of the night, in Virginia, with control of both chambers still open at press time. Oil fell for a second day even as the US struck Iran's Qeshm Island - Brent settled at $103.60, below the line Monday's detente trade was built on. India extended its Diwali rally to a fourth day at two-month highs, on the biggest single-day FII buying in a year. Marico jumped 9.4% on a profit quarter well ahead of estimates. And Binance's next proof-of-reserves snapshot is dated today. The long read is Marico - how a Bombay oil-trading family built the Parachute-and-Saffola house.",
-    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: how Harsh Mariwala turned his family's commodity oil business into one of India's great consumer brands - the tin-can problem, the 1990 breakaway, the bets that failed - pegged to Marico's 9.4% surge on Tuesday's results.",
-    "concept": {
-      "label": "One Concept a Day",
-      "name": "Loss aversion",
-      "line": "Losses weigh about twice as much as gains of the same size."
-    }
-  },
-  "audio": {
-    "full": "audio/d30-full.m4a",
-    "quick": "audio/d30-quick.m4a",
-    "segments": [
-      {
-        "key": "segment1",
-        "label": "Opening and the five-minute lead route"
-      },
-      {
-        "key": "segment2",
-        "label": "Front page: the count, and oil through a strike"
-      },
-      {
-        "key": "segment3",
-        "label": "Front page: the home tape, Marico, Binance"
-      },
-      {
-        "key": "segment4",
-        "label": "Markets, IPOs, and the top movers"
-      },
-      {
-        "key": "segment5",
-        "label": "Corporate actions, Finance Goldmine, Startup Intelligence"
-      },
-      {
-        "key": "segment6",
-        "label": "AI Race, vibe coding, try this, and the concept of the day"
-      },
-      {
-        "key": "segment7",
-        "label": "Term of the day and the setup board"
-      },
-      {
-        "key": "segment8",
-        "label": "Board scoring, the editor's read, and Brewing"
-      },
-      {
-        "key": "segment9",
-        "label": "The week ahead and the notes on this edition"
-      }
-    ],
-    "durations": {
-      "full": 2246.92,
-      "quick": 64.68,
-      "segment1": 159.04,
-      "segment2": 172.04,
-      "segment3": 256.28,
-      "segment4": 294.44,
-      "segment5": 243.92,
-      "segment6": 246.32,
-      "segment7": 454.16,
-      "segment8": 162.56,
-      "segment9": 258.16
-    },
-    "segment1": "audio/d30-segment1.m4a",
-    "segment2": "audio/d30-segment2.m4a",
-    "segment3": "audio/d30-segment3.m4a",
-    "segment4": "audio/d30-segment4.m4a",
-    "segment5": "audio/d30-segment5.m4a",
-    "segment6": "audio/d30-segment6.m4a",
-    "segment7": "audio/d30-segment7.m4a",
-    "segment8": "audio/d30-segment8.m4a",
-    "segment9": "audio/d30-segment9.m4a"
-  },
-  "times": null
+  "segment1": "audio/d30-segment1.m4a",
+  "segment2": "audio/d30-segment2.m4a?v=20261104r2",
+  "segment3": "audio/d30-segment3.m4a?v=20261104r2",
+  "segment4": "audio/d30-segment4.m4a?v=20261104r2",
+  "segment5": "audio/d30-segment5.m4a",
+  "segment6": "audio/d30-segment6.m4a?v=20261104r2",
+  "segment7": "audio/d30-segment7.m4a?v=20261104r2",
+  "segment8": "audio/d30-segment8.m4a?v=20261104r2",
+  "segment9": "audio/d30-segment9.m4a?v=20261104r2"
+ },
+ "times": null
 }
