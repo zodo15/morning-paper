@@ -5179,5 +5179,139 @@
    "segment5": "audio/lr29-segment5.m4a",
    "segment6": "audio/lr29-segment6.m4a"
   }
+ },
+ "30": {
+  "title": "The oil merchant's brands",
+  "fact": "A Slow Burn long read, Wednesday 4 November 2026. On Tuesday, Marico reported its strongest volume quarter in years and the stock rose 9.4%. Behind that number is a thirty-five-year build: a third-generation commodity trader who looked at fifteen-kilo tins of coconut oil and saw a consumer brand, carved a company out of his family's business in 1990, took it public in 1996, bought brands off global giants, and survived the bets that did not work. This is how Parachute and Saffola became national defaults - and what the latest quarter says the machine is still doing right.",
+  "hero": {
+   "t": "figure",
+   "img": "./photos/lr30-hero.png",
+   "alt": "Flat geometric editorial illustration of oil tins transforming into repeating branded bottle shapes",
+   "caption": "From fifteen-kilo commodity tins to branded bottles on a national shelf - the Marico transformation in one image."
+  },
+  "thumb": "./photos/lr30-thumb.jpg",
+  "audio": {
+   "full": "audio/lr30-full.m4a",
+   "segments": [
+    {
+     "key": "segment1",
+     "label": "The tin-can problem"
+    },
+    {
+     "key": "segment2",
+     "label": "The breakaway"
+    },
+    {
+     "key": "segment3",
+     "label": "Going public, buying brands"
+    },
+    {
+     "key": "segment4",
+     "label": "The machine today"
+    },
+    {
+     "key": "segment5",
+     "label": "What the story leaves you with"
+    }
+   ],
+   "durations": {
+    "full": 440.88,
+    "segment1": 103.2,
+    "segment2": 81.04,
+    "segment3": 110.72,
+    "segment4": 83.24,
+    "segment5": 62.68
+   },
+   "segment1": "audio/lr30-segment1.m4a",
+   "segment2": "audio/lr30-segment2.m4a",
+   "segment3": "audio/lr30-segment3.m4a",
+   "segment4": "audio/lr30-segment4.m4a",
+   "segment5": "audio/lr30-segment5.m4a"
+  },
+  "groups": [
+   {
+    "heading": "1. The tin-can problem",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Harsh Mariwala did not found a startup; he inherited a trading desk. His grandfather and father had incorporated Bombay Oil Industries, a family firm that traded the oils an old Bombay merchant house traded - coconut, groundnut, safflower - sold in bulk, in fifteen-kilo tin cans, to intermediaries who owned the customer relationship (<a href=\"https://hbr.org/2023/01/maricos-chairman-on-innovating-across-every-part-of-the-business\" target=\"_blank\" rel=\"noopener\">Mariwala's own first-person account in Harvard Business Review</a>). Fresh out of Sydenham College in 1971, he joined the family business and found the commodity trader's classic trap: real volume, no pricing power, and a product whose maker the end consumer never knew (<a href=\"https://www.library.hbs.edu/special-collections-and-archives/collections/collection-areas/oral-histories/creating-emerging-markets/interviews/harsh-mariwala\" target=\"_blank\" rel=\"noopener\">Harvard Business School's oral history</a>)."
+     },
+     {
+      "t": "p",
+      "html": "The insight that built everything came from looking at the tin. Oils sold loose and anonymous could be sold branded and packaged - Parachute coconut oil and Saffola refined oil already existed as small family brands inside the business, and the young Mariwala spent the 1970s and 1980s pushing them from tin cans into consumer packs, building distribution one town at a time in a country where coconut oil was bought on habit, not advertising. The company's own anniversary report marks the moment: the blue bottle's first appearance in the 1980s was, it says, Harsh's first innovation - traditional tin packs replaced by plastic, pioneering an industry-wide shift (<a href=\"https://economictimes.indiatimes.com/panache/panache-people-101/harsh-c-mariwala/profileshow/80853177.cms\" target=\"_blank\" rel=\"noopener\">Economic Times profile</a>). The lesson he has repeated ever since: in a commodity business, the brand is not decoration - it is the entire margin."
+     }
+    ]
+   },
+   {
+    "heading": "2. The breakaway",
+    "blocks": [
+     {
+      "t": "figure",
+      "img": "./photos/lr30-fig1.png",
+      "alt": "Flat geometric illustration of a small office block separating from a large warehouse",
+      "caption": "In 1990 the branded business stepped out of the family commodity house - a new company, a new identity, and by 1992 its own office."
+     },
+     {
+      "t": "p",
+      "html": "By the late 1980s the branded business had outgrown its home inside a trading firm. The corporate shell was incorporated in 1988; the branded consumer business itself was created in 1990 as an offshoot of Bombay Oil Industries - deliberately separate, with its own professional managers and its own culture. The company's own anniversary timeline starts the story on 2 April 1990 and records the first overseas office, in Dubai, in 1992-94 - Parachute reaching the Gulf's Indian diaspora before most Indian consumer companies had looked outward at all (<a href=\"https://marico.com/investorspdf/Marico_Annual_Report_-_FY16.pdf\" target=\"_blank\" rel=\"noopener\">Marico's 25-year anniversary report, read in full</a>; <a href=\"https://knowledge.insead.edu/entrepreneurship/oiling-wheels-change-traditional-business-marico-story\" target=\"_blank\" rel=\"noopener\">INSEAD's case study</a>)."
+     },
+     {
+      "t": "p",
+      "html": "The separation was the making of the firm. Inside a commodities house, a brand is one line among many; inside its own company, it is the whole reason to exist. The breakaway let Marico hire differently - professional managers rather than family traders - and price risk differently: a bad quarter in copra could hurt, but it could no longer sink an unrelated trading book, and a great brand idea no longer had to compete for capital with a commodity position."
+     }
+    ]
+   },
+   {
+    "heading": "3. Going public, buying brands",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "In 1996 Marico listed on the Indian stock exchange in an IPO-cum-offer-for-sale - the step that turned a family offshoot into a listed company. The company's own arithmetic on what followed: a rupee invested at the IPO was worth Rs 117 by March 2016, a 27% compounded annual return, nearly eighteen times the Sensex over the same twenty years (<a href=\"https://marico.com/investorspdf/Marico_Annual_Report_-_FY16.pdf\" target=\"_blank\" rel=\"noopener\">the anniversary report</a>). What the listing financed was an acquisition habit that became Marico's second engine: buying under-loved brands and running them harder than their owners had. In 2006 it bought Nihar, a coconut-oil brand, from Hindustan Unilever - the boldest version of the play, taking a rival's asset and folding it into the Parachute system. In 2012 it bought Set Wet, Livon and Zatak - the erstwhile Paras Pharmaceuticals personal-care brands - from Reckitt Benckiser, agreements signed that February and completed that May, extending from oils into male grooming and hair care (<a href=\"https://marico.com/investorspdf/Media_Release_-_Q1_FY_13.pdf\" target=\"_blank\" rel=\"noopener\">Marico's own results release</a>)."
+     },
+     {
+      "t": "p",
+      "html": "The honest ledger includes the misses. The most visible experiment was Kaya, a chain of skin-care clinics launched in the 2000s - a services business inside a products company, later separated into its own entity after years of dragging on the core. The pattern matters more than any single deal: Marico kept testing adjacencies, kept what compounded, and cut what did not. A consumer company that never misses is not taking enough swings; the discipline is in the cutting."
+     }
+    ]
+   },
+   {
+    "heading": "4. The machine today",
+    "blocks": [
+     {
+      "t": "figure",
+      "img": "./photos/lr30-fig2.png",
+      "alt": "Flat geometric illustration of rising volume bars beside a falling cost curve",
+      "caption": "Copra costs fell; Marico passed some of it through as sharper pricing, and volumes answered with their best quarter in 22 quarters."
+     },
+     {
+      "t": "p",
+      "html": "Tuesday's quarter showed the old machine still learning. Consolidated profit rose 31% for July-September, ahead of estimates, helped by cheaper copra - the coconut kernel that is Parachute's core input - and the company raised its growth guidance for the year (<a href=\"https://www.moneycontrol.com/news/business/markets/marico-shares-climb-8-as-q2-results-beat-estimates-on-strong-demand-14067503.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's report</a>). The number inside the number: Parachute's volumes grew 13%, the strongest in 22 quarters, taking volume market share above 60%, per the company's information update reported by <a href=\"https://www.thehindubusinessline.com/markets/stock-markets/marico-surges-8-after-q2-earnings-beat-analysts-raise-targets/article71659648.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a> - meaning the input-cost windfall was partly passed to consumers as sharper pricing rather than banked entirely as margin. The stock rose 9.44% on the BSE to Rs 873.20, its high of the day, leading the FMCG pack that carried the whole market to a two-month high."
+     },
+     {
+      "t": "p",
+      "html": "Read against the founder's original insight, the quarter is a late proof. A commodity input fell in price; a trader would have banked the spread; a brand-builder bought volume and share with it instead. Fifty-five years after a Sydenham graduate walked into his family's oil business, that is still the whole strategy in one decision."
+     }
+    ]
+   },
+   {
+    "heading": "5. What the story leaves you with",
+    "blocks": [
+     {
+      "t": "figure",
+      "img": "./photos/lr30-fig3.png",
+      "alt": "Flat geometric illustration of a single bottle casting a long shadow shaped like a rising graph",
+      "caption": "The brand is the margin: one decision, compounded for three decades."
+     },
+     {
+      "t": "p",
+      "html": "Three transferable lessons, none of them new and all of them rare in practice. First, the escape from commodity economics runs through the consumer's memory, not the factory gate - packaging, distribution and trust are the product. Second, separation is strategy: the branded business only compounded once it had its own company, its own people and its own P&amp;L. Third, acquisitions are a skill built in reps - Marico's hits worked because the misses were survived, sized and cut. The next test for the machine is already visible: input costs cycle back up, and the same choice - bank the margin or buy the volume - arrives in reverse. The company's own history says which way it usually answers."
+     },
+     {
+      "t": "closing",
+      "html": "Sources for this long read are linked inline; profit-growth bases are reconciled in today's edition notes. Nothing here is investment advice."
+     }
+    ]
+   }
+  ]
  }
 }
