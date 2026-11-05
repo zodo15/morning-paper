@@ -1,0 +1,200 @@
+#!/usr/bin/env python3
+import json, io
+
+LRURL = 'https://files.instinct.com/gqn467t8lax3-the-exchange-under-the-banyan-tree'
+APMID = 'https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226'
+NPRSEN = 'https://www.npr.org/2026/11/04/nx-s1-6028602/democrats-take-control-of-the-senate'
+NBCELS = 'https://www.nbcnews.com/politics/2026-election/democrat-abdul-el-sayed-wins-michigans-high-stakes-senate-race-rcna603315'
+CNBCOIL = 'https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html'
+AJIRAN = 'https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes'
+KIPLING = 'https://www.kiplinger.com/investing/stocks/dow-rallies-1-570-points-on-midterm-relief-stock-market-today'
+UPWRAP = 'https://upstox.com/news/market-news/stocks/market-wrap-nov-4-sensex-rises-383-pts-nifty-50-ends-at-23-960-nifty-smallcap-100-jumps-2-bel-top-gainer/article-202977/'
+FIIFLOW = 'https://www.cnbctv18.com/market/fiis-invest-over-rs20000-crore-in-four-days-as-markets-rise-for-fifth-straight-session-20027245.htm'
+ETBSE = 'https://economictimes.indiatimes.com/markets/stocks/earnings/bse-q2-results-net-profit-rises-45-yoy-to-rs-809-crore-revenue-up-34/articleshow/135540031.cms'
+UPLIVE = 'https://upstox.com/news/market-news/earnings/q2-results-live-updates-nykaa-lenskart-dabur-torent-pharma-apollo-tyres-others-to-report-earnings/liveblog-202942/'
+HBLLIVE = 'https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-bse-cummins-zydus-apollo-lenskart-nykaa-aurobindo-nhpc-dabur-torrent-power-biocon-sundaram-premier-energies-physicswallah-nse-sbi-results-04-november-2026/article71660621.ece'
+ND327 = 'https://www.ndtvprofit.com/markets/q2-results-live-updates-november-4-bse-cummins-india-zydus-lifesciences-among-327-companies-to-announce-earnings-today-12280800'
+CNBCTV18W = 'https://www.cnbctv18.com/photos/market/stocks/stocks-to-watch-for-nov-5-dabur-nykaa-lenskart-torrent-power-rites-and-more-20027129.htm'
+BBCBIN = 'https://www.bbc.com/news/articles/ck5ynwz9gy67o'
+AXBIN = 'https://www.axios.com/2026/11/03/north-korea-job-interview-binance-heist'
+CDBIN = 'https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says'
+DEFIPOR = 'https://defiedge.com/security/binance-expands-proof-of-reserves-snapshot-to-44-tokens-f77bb084'
+KARBLOG = 'https://karpathy.bearblog.dev/hacker-tube/'
+HNITEM = 'https://news.ycombinator.com/item?id=50319510'
+OAPIERRE = 'https://openai.com/index/openai-to-acquire-pierre'
+AXPIERRE = 'https://www.axios.com/2026/11/04/openai-pierre-computer-github'
+LEDGER = 'https://files.instinct.com/pydxtv6brdnl-slow-burn-swing-research-24-oct'
+
+def a(href, text):
+    return '<a href="%s" target="_blank" rel="noopener">%s</a>' % (href, text)
+
+def p(html): return {'t': 'p', 'html': html}
+
+def bars(label, rows, scale=7.758064516129032, zero=410):
+    n = len(rows)
+    h = 30 + 48*n
+    out = ['<svg viewBox="0 0 760 %d" role="img" aria-label="%s">' % (h, label)]
+    for i, (name, val, vlabel) in enumerate(rows):
+        ty = 47 + 48*i
+        ry = 30 + 48*i
+        out.append('<text x="8" y="%d" font-size="21" fill="#334155">%s</text>' % (ty, name))
+        w = abs(val)*scale
+        if val >= 0:
+            out.append('<rect x="%d" y="%d" width="%s" height="26" fill="#15803d" rx="3"/>' % (zero, ry, w))
+            out.append('<text x="%s" y="%d" text-anchor="start" font-size="20" fill="#15803d">%s</text>' % (zero+w+8, ty+2, vlabel))
+        else:
+            out.append('<rect x="%s" y="%d" width="%s" height="26" fill="#b91c1c" rx="3"/>' % (zero-w, ry, w))
+            out.append('<text x="%s" y="%d" text-anchor="end" font-size="20" fill="#b91c1c">%s</text>' % (zero-w-8, ty+2, vlabel))
+    out.append('</svg><p style="font-size:13px;color:#64748b;line-height:1.5">%s</p>' % label)
+    return ''.join(out)
+
+def rangec(low, now, high, lo, hi, nowlabel, caption):
+    scale = (591.290322580645-204.51612903225836)/(1466.8-1346.9)
+    x0 = 204.51612903225836 - 1346.9*scale
+    xl, xn, xh = x0+low*scale, x0+now*scale, x0+high*scale
+    return ('<svg viewBox="0 0 760 125" role="img" aria-label="%s">'
+            '<text x="8" y="44" font-size="23">HCLTech</text>'
+            '<line x1="%s" x2="%s" y1="38" y2="38" stroke="#15803d" stroke-width="10"/>'
+            '<circle cx="%s" cy="38" r="10" fill="#172b3c"/>'
+            '<text x="%s" y="82" font-size="19" text-anchor="middle">1346.9</text>'
+            '<text x="%s" y="16" font-size="19" text-anchor="middle">%s</text>'
+            '<text x="%s" y="82" font-size="19" text-anchor="middle">1466.8</text></svg>'
+            '<p style="font-size:13px;color:#64748b">%s</p>') % (caption, xl, xh, xn, xl, xn, nowlabel, xh, caption)
+
+def card(num, name, rows):
+    s = '<div style="border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0"><strong>%d. %s</strong>' % (num, name)
+    for k, v in rows:
+        s += '<p style="margin:10px 0;font-size:15px"><b>%s: </b>%s</p>' % (k, v)
+    return s + '</div>'
+
+sector = bars('Wednesday 4 Nov, Nifty sector moves (%); source: market wrap, NSE indices', [
+    ('Media', 5.15, '+5.15%'), ('Realty', 2.85, '+2.85%'), ('Metal', 2.80, '+2.8%'),
+    ('Cons Durables', 2.04, '+2.04%'), ('Oil &amp; Gas', 1.54, '+1.54%'), ('IT', -1.50, '-1.5%')])
+
+movers = bars('Wednesday 4 Nov, single-day moves (%), BSE closing prices; source: BSE official data', [
+    ('Fractal', 14.08, '+14.1%'), ('Saregama', 12.98, '+13.0%'), ('Alembic Pharma', 12.81, '+12.8%'),
+    ('MCX', -5.18, '-5.2%'), ('AIA Engineering', -4.97, '-5.0%')])
+
+table_html = ('<p style="color:#64748b;font-size:13px">Conditional setup and watchlist triggers, week of 2 November; prices are BSE official closes, Wednesday 4 November</p>'
+ + card(1, 'HCL Technologies', [('Status','Live - holding'),('Entry / trigger','Zone Rs 1,351-1,378 filled 28 Oct - worst fill Rs 1,378.00 (Rs 1,382.13 with the 0.3% cost convention)'),('Stop / invalidation','Rs 1,346.90 (never traded; Wednesday low Rs 1,399.70)'),('Target / objective','Rs 1,466.80 (adjusted 20-session high) - Rs 62 above Wednesday&#8217;s close'),('R:R at worst fill','about 1:2.4'),('Persistence','Until target or stop'),('Reference price','Rs 1,405.00 (Wed close)')])
+ + card(2, 'Kotak Mahindra Bank', [('Status','Watchlist - trigger held'),('Entry / trigger','Post-print strength above Rs 437.55 - held above it for an eighth session'),('Stop / invalidation','Below Rs 420 shelves it'),('Target / objective','Structured-setup candidate'),('R:R at worst fill','n/a (not a setup)'),('Persistence','Until it triggers or shelves'),('Reference price','Rs 459.00 (Wed close)')])
+ + card(3, 'JSW Steel', [('Status','Watchlist - trigger held'),('Entry / trigger','Hold 1,158.95, then reclaim 1,218.90-1,222.30 - held since; extended to 1,341.10 Wednesday'),('Stop / invalidation','Under 1,158.95 breaks the floor'),('Target / objective','20-session high Rs 1,297.95 - taken out Monday'),('R:R at worst fill','1:1.2 - failed the screen'),('Persistence','Until it resolves'),('Reference price','Rs 1,341.10 (Wed close)')])
+ + card(4, 'ONGC', [('Status','Watchlist - inside coil'),('Entry / trigger','Breakout above 228 with crude holding - close 234.55 inside the coil; crude crashed 8% overnight'),('Stop / invalidation','Coil floor Rs 218.50'),('Target / objective','Coil top Rs 238.75'),('R:R at worst fill','1:1.1 - below the screen'),('Persistence','Until the coil breaks'),('Reference price','Rs 234.55 (Wed close)')])
+ + card(5, 'Infosys', [('Status','Watchlist'),('Entry / trigger','Absorption above 1,175 - dipped below 1,120 intraday Wednesday, closed back above'),('Stop / invalidation','A close under 1,120 ends the thesis'),('Target / objective','First checkpoint 1,245 (gap zone)'),('R:R at worst fill','n/a (qualitative)'),('Persistence','Until the thesis breaks'),('Reference price','Rs 1,127.10 (Wed close)')]))
+
+range_svg = rangec(1346.90, 1405.00, 1466.80, 1330, 1485, '1405', "HCL Technologies: stop to target, marker at Wednesday's close")
+
+groups = [
+ {'heading': "Today's long read", 'blocks': [p('<strong>Today&#8217;s long read:</strong> The exchange under the banyan tree - how the Bombay Stock Exchange went from one-rupee memberships in 1875 to a near-death slide in the 2010s, and how the Ramamurthy revival rebuilt its derivatives market from 1,446 contracts a day to a 24% national share. ' + a(LRURL, 'Read it here') + '.')]},
+ {'heading': 'The 5-minute lead route', 'blocks': [
+   p('<strong>The sweep:</strong> Democrats take both chambers - seven Senate seats flipped, five of them in states Trump won by double digits; a path to 54 seats is live.'),
+   p('<strong>Oil&#8217;s strangest day:</strong> WTI settled down 8.3% at $88.12 while four tankers burned off Hormuz. Vance&#8217;s verdict: &#8220;The reason we lost is the war.&#8221;'),
+   p('<strong>Wall Street&#8217;s verdict:</strong> Dow +1,569 - the biggest post-midterm rally since 1982; megacaps roared, Trump&#8217;s own stock fell 24.5%.'),
+   p('<strong>Five in a row at home:</strong> Sensex 77,301, Nifty 23,961; IT the only sector in the red; foreigners have bought Rs 20,000 crore in four days.'),
+   p('<strong>The heist&#8217;s front door:</strong> Binance says fake job interviews - and North Korea - were behind the $6.3 billion hack; the reserves proof widens to 44 tokens.'),
+   p('<strong>The long read:</strong> BSE - 150 years from a banyan tree to a 45% profit quarter. ' + a(LRURL, 'Read it') + '.'),
+ ]},
+ {'heading': 'Front page', 'blocks': [
+   p('<strong>1. America hands Trump a Democratic Congress.</strong> Democrats won control of both the House and the Senate in Tuesday&#8217;s midterms - a strong rebuke to President Trump, driven by prices, the Iran war and corruption, and flipped in states that had been Republican for decades, per the ' + a(APMID, 'Associated Press&#8217;s verdict') + '. The Senate margin is the story inside the story: Democrats picked up seven seats, flipping five states Trump won by double digits - including South Carolina - and could reach 54 seats once the uncalled races land, per the DSCC&#8217;s Devan Barber to ' + a(NPRSEN, 'NPR') + '. Michigan&#8217;s Abdul El-Sayed won his Senate race (' + a(NBCELS, 'NBC') + '); Mississippi (a handful of votes in it) and Alaska remain uncalled at press. In Kentucky, the Washington Post has called Mitch McConnell&#8217;s seat for Republican Andy Barr - the AP had not, so this paper holds it as a lead, not a call. The losers&#8217; verdict came from the top: &#8220;The reason we lost is the war,&#8221; Vice President Vance said. Trump, to the New York Times: &#8220;I look forward to working with them&#8230; we can probably work something out&#8221; - hours after posting a photo of himself in a veto-branded hat. <em>Editor&#8217;s takeaway: a trifecta became a check - and the check takes office in January, which is when the subpoenas, the budget fights and the veto count start mattering to money.</em>'),
+   p('<strong>2. Oil crashed through burning tankers.</strong> The strangest tape of the war: WTI settled down 8.3% at $88.12 and Brent down 8.7% at $94.62 on Wednesday - both down more than 14% on the week - on the same day Iran&#8217;s Revolutionary Guards said four oil tankers were destroyed by naval mines in a prohibited lane south of the Strait of Hormuz, with two more vessels detained (' + a(CNBCOIL, 'CNBC') + '; ' + a(AJIRAN, 'Al Jazeera') + '). The logic the market traded: the election result reads as de-escalation - Trump told the FT he has no immediate plans to strike Iran and is &#8220;getting everything we want,&#8221; and Vance&#8217;s concession made the war politically costly to continue. The counter-evidence, all from Wednesday: SNSC secretary Mohsen Rezaei said the US reply to Iran&#8217;s seven conditions for reopening Hormuz was &#8220;not convincing&#8221; - though the letter has now been answered, with Qatar shuttling proposals in real time; Trump confirmed to Fox that he ordered the Qeshm Island strike (&#8220;a minor attack,&#8221; &#8220;it wasn&#8217;t war&#8221;); the UKMTO logged a tanker hit by two projectiles off Oman on Tuesday, linkage unverified; and US reports say CENTCOM is planning post-election strike options with three carriers. CIBC&#8217;s Babin called the selloff possibly overdone; Rapidan&#8217;s McNally still favours escalation odds. <em>Editor&#8217;s takeaway: the war premium came out in one session - which means it can go back in on one incident; the seven conditions and the detained tankers are now the tripwires.</em>'),
+   p('<strong>3. Wall Street&#8217;s biggest post-midterm day since 1982.</strong> The Dow jumped 1,569 points (3.0%) to 53,356 on Wednesday - the largest post-midterm rally in 44 years - with the S&amp;P 500 up 1.6% to 7,688, the Nasdaq composite up 1.4% to 25,736 and the Russell 2000 up 1.6% to 2,856 (' + a(KIPLING, 'Kiplinger&#8217;s closing report') + '). The split inside the rally is the tell: megacap tech roared - Microsoft +6.7%, Amazon +6.1%, Apple +5.3%, Alphabet +3.2% - while the Trump Media stock fell 24.5% to $4.49, energy slid 4.8% on the crude crash, and Nvidia fell 3.2% ahead of its 17 November report. Yields held high: 2-year 4.579%, 10-year 4.888%, 30-year 5.277%. <em>Editor&#8217;s takeaway: this was a certainty rally, not an endorsement rally - the market bought the end of one-party Washington and cheaper war risk in one ticket.</em>'),
+   p('<strong>4. Five straight at home, and the foreigners keep coming.</strong> The Sensex rose 383.55 points (0.5%) to 77,301.4 and the Nifty 149.7 points (0.63%) to 23,960.6 on Wednesday - a fifth consecutive gain, with the midcap and smallcap indices up 1.55% and 2% (' + a(UPWRAP, 'Upstox&#8217;s market wrap') + '). Foreign investors have now put more than Rs 20,000 crore into Indian equities in four sessions (' + a(FIIFLOW, 'CNBC TV18, on exchange data') + '). The day&#8217;s anatomy: media (+5.15%), realty (+2.85%) and metals (+2.8%) led; IT was the only sectoral loser (-1.5%) - TCS -2.52%, HCLTech -2.37%, Infosys -1.73% - as the post-election dollar and a results-heavy tape rotated money elsewhere; BEL (+4.71%) led the gainers. <em>Editor&#8217;s takeaway: the rally is broadening - smallcaps at +2% on a day IT bleeds is rotation with conviction, and it is foreign-funded.</em>'),
+   p('<strong>5. The results flood: the exchange, the beauty counter and the eyewear app.</strong> About 327 companies reported on Wednesday (' + a(ND327, 'NDTV Profit&#8217;s count') + '), and three prints tell the day. BSE Ltd: consolidated profit up 44.9% to Rs 809.15 crore on revenue up 34.1% - and the stock fell 1.75%, because after a nine-fold run a 45% quarter is what the price assumes (' + a(ETBSE, 'Economic Times') + '). Nykaa: profit up 197% - and the stock rose just 0.31%, the same lesson in reverse. Lenskart: profit up 122% on revenue up 36%, and the stock rose 2.97% (' + a(UPLIVE, 'Upstox&#8217;s results blog') + '). Aurobindo Pharma shone; PI Industries and Apollo Tyres took margin heat; NHPC rose, Biocon and Zydus fell (' + a(HBLLIVE, 'Hindu BusinessLine') + '). Thursday brings Cummins, Torrent Power, Premier Energies and PhysicsWallah. <em>Editor&#8217;s takeaway: this flood is repricing expectations, not effort - the gap between the print and the whisper is the only number that moves the stock.</em>'),
+   p('<strong>6. The $6.3 billion hack walked in through a job interview.</strong> Binance says its October breach - the largest in crypto&#8217;s history - began with fake job interviews: North Korea-linked operatives infiltrated the exchange for months using fraudulent employment lures, with an AI tool used in the campaign, the company said (' + a(BBCBIN, 'BBC') + '; ' + a(AXBIN, 'Axios') + '; ' + a(CDBIN, 'CoinDesk') + '). The rebuilding continues on schedule: a new proof-of-reserves snapshot was taken on 4 November at 00:00 UTC, this time covering 44 tokens against ten in Monday&#8217;s proof, per co-founder He Yi (' + a(DEFIPOR, 'DefiEdge') + '). The full proof historically takes 40-50 hours to generate - so it lands this weekend. A figure circulating in aggregators - &#8220;98% replenished&#8221; - could not be verified against a primary statement at press time, so this paper does not carry it. <em>Editor&#8217;s takeaway: the attack vector was HR, not code - every treasury policy in the industry just became a hiring policy too.</em>'),
+ ]},
+ {'heading': 'Markets', 'blocks': [
+   p('<strong>Wednesday&#8217;s tape, on the record.</strong> Sensex 77,301.4 (+383.55, +0.5%), Nifty 23,960.6 (+149.7, +0.63%) - five straight gains; midcaps +1.55%, smallcaps +2% (' + a(UPWRAP, 'market wrap') + '). Media, realty and metals led; IT was the only sectoral loser. FIIs have bought over Rs 20,000 crore in four sessions; Wednesday&#8217;s exact FII/DII split was not published at press time. New York&#8217;s finals and oil&#8217;s settles are on the front page: the Dow +3% to 53,356, WTI -8.3% to $88.12.'),
+   {'t': 'chart', 'svg': sector},
+   p('<strong>What Thursday watches.</strong> The results flood continues - Cummins, Torrent Power, Premier Energies and PhysicsWallah report; the stocks-to-watch list is Dabur, BSE, Nykaa, Lenskart, Torrent Power and RITES (' + a(CNBCTV18W, 'CNBC TV18') + '). Washington&#8217;s post-election positioning continues across crude, defence and big tech. The uncalled Senate races - Mississippi and Alaska - can land any time. And Binance&#8217;s 44-token proof is due by the weekend.'),
+ ]},
+ {'heading': 'IPOs', 'blocks': [
+   p('<strong>EAAA, day three: the drift continues.</strong> EAAA India Alternatives (BSE: EDELALTS, scrip 545008) closed its third session at Rs 1,689.55, down 1.88%, trading between Rs 1,681.30 and Rs 1,746.15 on just 13,364 shares worth about Rs 2.3 crore - a quarter of Tuesday&#8217;s already-thin volume, and still above the Rs 1,665 issue price (BSE official prints). Three sessions in, the pattern is set: no crack below issue, no retail bid building either - the stock is held up by absence, not demand. The five-session question from Monday has two days left to answer. Lenskart, the other recent listing in the results flood, closed at Rs 691.00 (+2.97%) on its 122% profit jump - the contrast worth watching: one new listing trading on numbers, one trading on absence.'),
+ ]},
+ {'heading': 'Top movers, Wednesday 4 November', 'blocks': [
+   p('All figures BSE official closing prints for Wednesday 4 November; reasons traced to company releases or named reports, and a mover is dropped where no driver could be traced.'),
+   {'t': 'chart', 'svg': movers},
+   p('<strong>The why.</strong> Alembic Pharma (+12.81% to Rs 907.20) moved on its September-quarter report, part of Wednesday&#8217;s results flood (' + a(HBLLIVE, 'Hindu BusinessLine&#8217;s results blog') + '). Saregama (+12.98% to Rs 635.15) rode the day&#8217;s strongest sector - Nifty Media rose 5.15% - with no single company filing traced; treat the attribution as sector momentum, not news. Fractal (+14.08% to Rs 835.75) and AIA Engineering (-4.97% to Rs 3,224.65) moved without a confirmed company catalyst - listed here, unattributed, because size demands it. MCX (-5.18% to Rs 3,312.00) fell on the day its peer BSE Ltd dropped 1.75% after results - the exchange-stocks theme pausing together, with no single filing driving MCX. Hospital stocks had a good day - Medanta +5.64% to Rs 1,401.45, Aster DM +5.44% to Rs 718.90 - on Apollo Hospitals&#8217; results day, a sector read-across rather than company news. The most-traded counter by value on the BSE was again the NSE&#8217;s own stock: about Rs 721 crore changed hands at a close of Rs 1,809.40, +0.31%.'),
+ ]},
+ {'heading': 'Corporate actions', 'blocks': [
+   p('<strong>Dates for the diary.</strong> NTPC&#8217;s Rs 3 first interim dividend has its record date tomorrow, Friday 6 November (payment from 25 November). HUL&#8217;s Rs 19 interim record date falls Thursday 12 November (payment 25 November). Infosys&#8217;s Rs 26 interim pays out on 11 November. Coal India&#8217;s Rs 10.25, whose record date was Wednesday, pays on or before 27 November.'),
+ ]},
+ {'heading': 'Finance Goldmine', 'blocks': [
+   p('<strong>Why a 45% profit quarter can sink a stock.</strong> Wednesday gave a clean laboratory: BSE Ltd reported profit up 44.9% and fell 1.75%; Nykaa reported profit up 197% and rose 0.31%; Marico on Tuesday reported 31% and jumped 9.4%. Same flood, opposite reactions - and the difference is expectation, not quality. A stock&#8217;s price before results already carries what investors collectively expect; the print moves the price only by its gap from that expectation. BSE had risen nine-fold in two years, so a 45% quarter was already the assumption - meeting it fully is, mechanically, a non-event, and some holders sell the confirmation itself (&#8220;sell the news&#8221;). Marico&#8217;s 31% landed against a market expecting far less, so the same-sized surprise in the other direction repriced the stock a tenth higher in a day. The personal-money translation: never read a result as &#8220;good&#8221; or &#8220;bad&#8221; in the absolute - read it against what the price had already assumed. The number that matters is not the growth; it is the gap.'),
+ ]},
+ {'heading': 'Startup Intelligence', 'blocks': [
+   p('<strong>What the BSE comeback teaches builders.</strong> Three portable lessons from the long read. First, distribution and trust outlive technology leads: the 1875 institution lost to a better system, then came back because its brand, membership and listings franchise were still intact to build on. Second, the comeback method was subtraction before addition: Ramamurthy ended the broker incentives that had propped up fake volume, then rebuilt on real contracts - killing a subsidy your metrics depend on is the honest first step of any turnaround. Third, regulation is a product surface, not background noise: SEBI&#8217;s options curbs can cut volumes 35% - the exchange&#8217;s answer is to diversify into indices, data and mutual-fund rails, revenue lines a regulator is less likely to halve overnight.'),
+   p('<strong>One startup idea, tied to today&#8217;s reporting: permitting intelligence for the data-center backlash.</strong> The US election just made state-level data-center opposition a priced risk - governors who campaigned on pauses won, and the stocks sold off. The product: a tracked, sourced database of data-center permitting, moratorium bills and grid-queue rules across US states (and later, Indian states) - sold to developers, utilities and the investors financing the build-out. Who pays: the capex side, for whom one stalled permit costs more than a decade of subscriptions. First step: pick the three states where the backlash just won, publish a weekly verified tracker for ninety days, and let one developer&#8217;s site-selection team find it indispensable. What would make it wrong: if the rules change slower than the news cycle suggests - in which case the honest answer is a monthly report, not a platform.'),
+ ]},
+ {'heading': 'AI Race', 'blocks': [
+   p('<strong>Karpathy&#8217;s two-hour site, and the ballot-box backlash.</strong> Andrej Karpathy built himself a personal video-discovery site - HackerTube, 6,454 long-form videos ranked from Hacker News recommendations - in about two hours using Claude Code, he writes in his ' + a(KARBLOG, 'own account') + '; the post drew a long ' + a(HNITEM, 'Hacker News thread') + '. The claim to hold: not that the tool is magic, but that the build-measure loop for a personal product is now an evening, not a team. Item two is the election: Democrats won both chambers, and governors favouring data-center pauses won &#8220;in a number of states, including Texas,&#8221; per UBS&#8217;s Keith Parker, with exit polls showing most voters opposing new data centers (' + a(KIPLING, 'Kiplinger') + '). The market voted the same day: CoreWeave -9.9%, Applied Digital -6.7%, SpaceX -3.8%. State-level data-center regulation is now a near-term expectation - the build-out&#8217;s political licence has become a priced risk, which Monday&#8217;s edition flagged as a campaign issue and Wednesday priced.'),
+ ]},
+ {'heading': 'Vibe coding', 'blocks': [
+   p('<strong>OpenAI buys the plumbing under the code.</strong> OpenAI is acquiring Pierre Computer Company - the small team behind the Trees and Diffs libraries already inside the Codex app, the Code Storage service, and a fast syntax highlighter - to rebuild the Git workflow for the agent era, ' + a(OAPIERRE, 'the company announced') + '; Axios frames it as a ' + a(AXPIERRE, 'direct shot at Microsoft&#8217;s GitHub') + '. Days earlier OpenAI disclosed Pando, its in-house source-control backend built for engineers and agents working in parallel. Read together: the coding-agent war is moving down the stack - from models, to harnesses, to the version-control layer itself. Pierre&#8217;s open-source projects stay open, and the deal awaits customary approvals. For anyone building with coding agents this month, the practical note is simpler: the diff-review surface inside your tool is about to become the contested territory.'),
+ ]},
+ {'heading': 'Try this today (Thursday)', 'blocks': [
+   p('<strong>The three-explanations drill.</strong> Take today&#8217;s most confusing market fact - oil falling 8.3% on a day four tankers burned - and ask your AI tool: &#8220;Give me three competing explanations for this move. For each, list the evidence that supports it and the evidence against. Then rank them by how much of the move they explain - and tell me what new fact would change your ranking.&#8221; The ranking matters less than the last answer: an explanation that names its own falsifier is analysis; one that cannot is storytelling. Use the same four-line prompt on the next confusing number anyone sends you at work.'),
+ ]},
+ {'heading': 'One concept: prices aggregate information', 'blocks': [
+   p('<strong>A price is a signal that wraps up what millions of people separately know.</strong> In 1945, the economist Friedrich Hayek published &#8220;The Use of Knowledge in Society&#8221;: the knowledge that runs an economy is dispersed - no single mind holds it - and the price system&#8217;s quiet miracle is that it aggregates that scattered knowledge into one number people can act on without knowing why it moved. Today gave a live demonstration. Oil fell 8.3% while tankers burned - apparently irrational, until you see what the price had already absorbed overnight: an election result the market read as de-escalation, a president saying he had no immediate strike plans, a vice president conceding the war cost power. The strikes were the old information; the vote was the new. The concept&#8217;s honest limit: the aggregation is only as good as what participants know - when the consensus facts change, the price reprices violently, which is why the same market can look wise at Wednesday&#8217;s settle and foolish by Friday&#8217;s. The defence is to ask, whenever a price moves &#8220;irrationally&#8221;: what does the crowd know that I have not read yet? <em>60-second recall, closed book: (1) What did Hayek say no single mind can hold? (2) Why did oil fall on a tanker-strike day? (3) What is the concept&#8217;s limit? Answers: the economy&#8217;s dispersed knowledge; the price had already absorbed the election and the de-escalation signals; the crowd reprices violently when the consensus facts change.</em>'),
+ ]},
+ {'heading': 'Term of the day: consolidated profit', 'blocks': [
+   p('The combined profit of a company and its subsidiaries, reported as one economic entity - as against standalone profit, which counts the parent company alone. When a results headline gives one profit number, it is almost always the consolidated one, and the gap between the two tells you how much of the business sits in the subsidiaries. Wednesday&#8217;s live example: BSE Ltd&#8217;s consolidated profit rose 44.9% to Rs 809.15 crore, while its standalone profit rose 50.3% to Rs 773.4 crore (' + a(ETBSE, 'Economic Times') + ') - the difference being what the parent&#8217;s subsidiaries and associates add to (or, in weaker quarters, subtract from) the group total. Compare like with like: a consolidated print against a standalone one from last year is not a comparison, it is a category error.'),
+ ]},
+ {'heading': 'The setup board (research, not advice)', 'blocks': [
+   p('The desk&#8217;s rule, restated after the 27 October change: every published setup stays on the board until it completes (target hit) or fails (stop hit); the five-session lapse is retired. Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: ' + a(LEDGER, 'Slow Burn swing research, 24 Oct') + '.'),
+   {'t': 'chart', 'svg': table_html},
+   {'t': 'chart', 'svg': range_svg},
+   p('Setup slots 2 to 5 stay empty today - nothing new cleared the verification bar; an empty slot is a result, not a gap. Wednesday&#8217;s movers were screened against the six standing factors before being left off: BSE Ltd has a verified catalyst and trend, but a 1.75% fall on a 45% quarter breaks short-term momentum, and the entry fails the risk-reward screen at this price; Alembic Pharma (Rs 907.20), Saregama (Rs 635.15) and Fractal (Rs 835.75) all failed the same screen - entry after a double-digit single-day repricing is chasing, not a setup; Medanta (Rs 1,401.45) moved on a sector read-across with no company-specific catalyst line, which fails the news screen outright. The honest reads on the live lines, with per-share prices: HCLTech (Rs 1,405.00) fell 2.23% with the IT selloff, still +1.66% against the cost-adjusted fill of Rs 1,382.13; Wednesday&#8217;s low of Rs 1,399.70 stayed well above the Rs 1,346.90 stop, which has never traded. Kotak Mahindra Bank (Rs 459.00) held above its Rs 437.55 trigger for an eighth session - still a candidate, not a setup. JSW Steel (Rs 1,341.10) closed at its day high, extending above the reclaimed zone; the published R:R screen still fails it, which is why it stays a watchlist line. ONGC (Rs 234.55) held inside its Rs 218.50-238.75 coil while crude crashed 8% - the coil decides, and the wind is harder against it now. Infosys (Rs 1,127.10) dipped to Rs 1,113.25 intraday - below the 1,120 line - but the rule is close-based, and the close held: absorption tested harder, thesis intact. Tech Mahindra stays shelved above the Rs 1,500 cap.'),
+ ]},
+ {'heading': 'How the board scores', 'blocks': [
+   {'t': 'rows', 'items': [
+     {'n': '1', 'title': 'No prior-day stop trade', 'detail': 'A setup activates only if the zone fills before any prior-day trade at or below the stop.'},
+     {'n': '2', 'title': 'Same-day zone and stop', 'detail': 'Unknowable from daily data: conservative scoring assumes the worst fill, then the stop.'},
+     {'n': '3', 'title': 'Resolutions stay on record', 'detail': 'A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger.'},
+   ]},
+ ]},
+ {'heading': "The editor's read", 'blocks': [
+   p('Three conditions, in the order they resolve. First, the transition: whether Trump&#8217;s &#8220;probably work something out&#8221; becomes actual dealing with the incoming Democratic Congress or curdles into veto war - the veto hat and the olive branch arrived within hours of each other, and the first legislative tests will say which was the costume. Second, oil&#8217;s paradox: whether Wednesday&#8217;s 8% crash marked the war premium unwinding or a trap - the tells are Tehran&#8217;s response to a reply it calls &#8220;not convincing,&#8221; the fate of the two detained tankers, and whether CENTCOM&#8217;s three-carrier planning stays planning. Third, the home bid: whether Rs 20,000 crore of four-day foreign buying keeps absorbing the results flood, with IT - the old leadership - now the funding source. This desk does not predict the answers; it watches these conditions.'),
+ ]},
+ {'heading': 'Brewing', 'blocks': [
+   p('<strong>The new Congress.</strong> Cause chain: Democrats took both chambers on Tuesday (AP), flipping seven Senate seats with a path to 54 (DSCC via NPR); Mississippi and Alaska are uncalled; Trump has offered both an olive branch and a veto hat. Watch next: the final Senate margin, the leadership races, and the first legislative test of the deal-making line. Proven wrong if: the uncalled races pull the Senate count back to Republican control.'),
+   p('<strong>The Hormuz reply chain.</strong> Cause chain: Iran sent seven conditions for reopening the strait; the US answered; Rezaei calls the answer &#8220;not convincing&#8221; while Qatar shuttles proposals in real time; four tankers are destroyed by mines per the IRGC, two vessels are detained, and CENTCOM is reportedly planning post-election strike options. Watch next: Tehran&#8217;s counter-reply, UKMTO confirmations on further shipping incidents, and any move from planning to orders. Proven wrong if: a signed reopening of the strait lands while tankers are still being detained.'),
+   p('<strong>Binance&#8217;s proof chain.</strong> Cause chain: the $6.3 billion hack is now attributed by the company to North Korea-linked operatives who came in through fake job interviews; a 44-token reserves snapshot was taken on 4 November; the full proof takes 40-50 hours. Watch next: the proof publishing with 1:1-or-better backing on the widened list, a verified replenishment figure for the stolen assets, and whether the hiring-layer breach draws a regulatory response. Proven wrong if: the new snapshot prints below 1:1, or the attribution is formally walked back.'),
+ ]},
+ {'heading': 'The week ahead', 'blocks': [
+   {'t': 'rows', 'items': [
+     {'n': '1', 'title': 'Thu 5 Nov', 'detail': 'The results flood continues: Cummins, Torrent Power, Premier Energies and PhysicsWallah report; Dabur, BSE, Nykaa, Lenskart, Torrent Power and RITES are the stocks to watch (CNBC TV18). Post-election positioning continues in Washington.'},
+     {'n': '2', 'title': 'Fri 6 Nov', 'detail': 'NTPC Rs 3 first interim dividend record date (payment from 25 November). US October jobs report, 8:30am ET (BLS release schedule) - the data the Fed takes into December. Dhanteras.'},
+     {'n': '3', 'title': 'Sat-Sun 7-8 Nov', 'detail': 'Binance&#8217;s 44-token proof-of-reserves expected (40-50 hours after Wednesday&#8217;s snapshot). Sunday: Diwali.'},
+     {'n': '4', 'title': 'Tue 10 Nov', 'detail': 'Israel&#8217;s new Knesset is sworn in after last Tuesday&#8217;s election - Netanyahu&#8217;s bloc lost its majority.'},
+     {'n': '5', 'title': 'Wed 11 Nov', 'detail': 'Infosys Rs 26 dividend payout. No FOMC this week - the next meeting is 8-9 December (Fed calendar).'},
+     {'n': '6', 'title': 'Watching', 'detail': 'Mississippi and Alaska Senate calls (uncalled at press). Tehran&#8217;s reply to the US answer on the seven Hormuz conditions. Nvidia reports 17 November.'},
+   ]},
+ ]},
+ {'heading': 'Notes on this edition', 'blocks': [
+   {'t': 'bullets', 'items': [
+     'Sources read for this edition: the Associated Press on the midterm verdict; NPR (DSCC) on the Senate map; NBC on Michigan; CNBC on the oil settles; Al Jazeera on the Hormuz reply chain (IRGC claims via IRNA, UKMTO incident logged separately, linkage unverified); Kiplinger&#8217;s closing report for the US finals; Upstox&#8217;s market wrap and CNBC TV18 (exchange data) for the Indian close and flows; Economic Times, Upstox and Hindu BusinessLine on the results flood; BBC, Axios and CoinDesk for Binance&#8217;s hack attribution (the company&#8217;s own account); DefiEdge on the 44-token snapshot; Karpathy&#8217;s blog and the Hacker News thread for HackerTube; OpenAI&#8217;s announcement and Axios on the Pierre deal; BSE&#8217;s official bhavcopy for every Indian stock price.',
+     'All Indian stock prices are BSE official closing prints from the exchange&#8217;s own bhavcopy (4 November); index levels (Sensex, Nifty, sector indices) are as carried in the named closing reports. US closes are Wednesday&#8217;s end-of-day finals per Kiplinger&#8217;s closing report (Dow 53,356, +3.0%; S&P 500 7,688, +1.6%; Nasdaq composite 25,736, +1.4%). Oil settles are Wednesday&#8217;s finals per CNBC (WTI $88.12, -8.3%; Brent $94.62, -8.7%).',
+     'Election framing at press time: only races called by the Associated Press are reported as called (House and Senate control, Democratic); Kentucky is reported as a Washington Post call, not an AP call; Mississippi and Alaska are uncalled. Wednesday&#8217;s exact FII/DII split was not published at press time - the four-day Rs 20,000 crore figure is CNBC TV18&#8217;s, on exchange data. Anything later than about 6:15 AM IST is deliberately not in this edition.',
+     'Figures we could not verify are omitted, not carried: a &#8220;98% replenished&#8221; Binance figure circulating in aggregators has no primary statement behind it; a view count for Karpathy&#8217;s X post could not be confirmed at the owning source; Kiplinger&#8217;s own WTI settle ($88.67) conflicts with CNBC&#8217;s ($88.12) - they are different contracts&#8217; prints, and this paper carries CNBC&#8217;s throughout. Attributions kept distinct: the four-tanker destruction is an IRGC claim via IRNA; the drone-downing is an IRGC claim; &#8220;not convincing&#8221; is Rezaei on X, via Al Jazeera.',
+   ]},
+   {'t': 'closing', 'html': 'Nothing on this page is investment advice. Verify anything load-bearing against the linked sources.'},
+ ]},
+]
+
+day31 = {
+ 'day': 31,
+ 'meta': {'date': 'Thursday 5 November 2026', 'short': 'Thu 5 Nov', 'longread': 31},
+ 'edition': {
+   'groups': groups,
+   'title': "America's rebuke, and oil crashes while the tankers burn",
+   'fact': "Edition 31. America's rebuke, and oil crashes while the tankers burn. Thursday 5 November 2026, edition 31. This edition runs 4,426 words. Democrats won both the House and the Senate in Tuesday's midterms - a strong rebuke to President Trump, per the Associated Press - flipping seven Senate seats, with a path to 54. Oil crashed more than 8% to $88 even as Iran said four tankers burned in the Strait of Hormuz - the market pricing the election as de-escalation. Wall Street roared: the Dow's 1,569-point gain was the biggest post-midterm rally since 1982. India rose a fifth straight day - Sensex 77,301 - as the results flood landed: BSE Ltd's own profit up 45%, Nykaa's up 197%, Lenskart's up 122%. And Binance says its $6.3 billion hack began with a fake job interview. The long read is BSE - the 150-year-old exchange that died and came back.",
+   'intro': "The 5-minute lead route is first; sections carry the detail. The long read: how Asia's oldest exchange - founded for one rupee a member under a banyan tree in 1875 - lost its business to a younger rival, and how a chief executive since 2023 rebuilt it to a 45% profit quarter, pegged to Wednesday's results.",
+   'concept': {'label': 'One Concept a Day', 'name': 'Prices aggregate information', 'line': 'A price is a signal that wraps up what millions of people separately know - and it often knows before any one of them does.'},
+ },
+ 'audio': None,
+ 'times': None,
+}
+with io.open('/tmp/day-31-src.json', 'w') as f:
+    json.dump(day31, f, ensure_ascii=False, indent=2)
+print('day-31 src written,', len(groups), 'groups')
