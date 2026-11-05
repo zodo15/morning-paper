@@ -870,7 +870,7 @@
       '<div class="ncard-k"><span>' + esc(c.kind || LANE_NAMES[c.lane] || 'Markets') + (seenSet().indexOf(c.id) < 0 ? ' <span class="ncard-new" data-new="' + esc(c.id) + '">New</span>' : '') + '</span><span class="ncard-t">' + (c.timeLabel ? esc(c.timeLabel) : cardTime(c)) + '</span></div>' +
       (c.image && c.image.src ? '<figure class="ncard-img"><img src="' + esc(c.image.src) + '" alt="" onerror="this.parentNode.classList.add(\'bad\')">' + (c.image.credit ? '<figcaption>' + esc(c.image.credit) + '</figcaption>' : '') + '</figure>' : '<figure class="ncard-img plate-ph lane-' + esc(c.lane || 'markets') + '"><div class="ph-t">' + esc((c.tags && c.tags[0]) || LANE_NAMES[c.lane] || '') + '</div><div class="ph-s">' + esc((c.tags || []).slice(1, 3).join(' · ')) + '</div></figure>') +
       '<h2 class="ncard-h">' + esc(c.headline) + '</h2>' +
-      '<p class="ncard-b">' + esc(sane(c.body)) + '</p>' +
+      '<p class="ncard-b">' + escFix(sane(c.body)) + '</p>' +
       (pubLine(c) ? '<div class="ncard-meta">' + pubLine(c) + '</div>' : '') +
       (sane(c.why) ? '<div class="ncard-why"><b>Why it matters</b><span>' + esc(sane(c.why)) + '</span></div>' : '') +
       '<div class="ncard-foot">' + (tags ? '<div class="ncard-tags">' + tags + '</div>' : '') +
