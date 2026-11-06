@@ -5412,44 +5412,156 @@
           }
         ]
       }
+    ]
+  },
+  "32": {
+    "title": "The machine that weighed the gold",
+    "fact": "A Slow Burn long read, Friday 6 November 2026. On Thursday, Titan Company reported quarterly profit up 114% to Rs 2,393 crore - a one-off customs-duty gain flattered the print, but the underlying business grew 18% - on the eve of the Diwali weekend its jewellery brand was built for. Behind that quarter is the least likely success in the Tata stable: a watch company that wandered into jewellery for export, nearly sank selling 18-karat Western designs to a country that buys 22-karat wedding gold, and was saved by an X-ray machine that proved India's jewellers were short-changing their customers. This is how Tanishq was built.",
+    "hero": {
+      "t": "figure",
+      "img": "./photos/lr32-hero.png",
+      "alt": "Flat geometric editorial illustration of a gold bangle passing through a scanning machine, with a watch face in the background",
+      "caption": "A watch company, a purity machine, and the trust machine it became: Titan&#8217;s jewellery business turned on one test."
+    },
+    "thumb": "./photos/lr32-thumb.jpg",
+    "groups": [
+      {
+        "heading": "1. Watches, by accident",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Titan exists because of a phone call in March 1977. Xerxes Desai, then running Tata Press, got a call from his associate Anil Manchanda, who had been scouting new businesses for the group: &#8220;There are five projects I have shortlisted. The best among them is watches&#8221; (<a href=\"https://www.tata.com/newsroom/business/40-years-titan-company\" target=\"_blank\" rel=\"noopener\">Tata&#8217;s own 40-year history</a>). The market logic was blunt. In the 1970s, Indian buyers queued on waiting lists for sturdy mechanical watches from two domestic incumbents; the industry made about 1.5 million watches a year against a market worth at least 30 million, and smuggled foreign watches filled the gap (<a href=\"https://www.tata.com/newsroom/heritage/jrd-titan-xerxes\" target=\"_blank\" rel=\"noopener\">Tata&#8217;s heritage account</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The obstacles were the Licence Raj itself. The Swiss would not share movement technology; the government had reserved watchmaking for the public and small-scale sectors and denied the Tatas permission. The way in came through Iravatham Mahadevan, whom Desai had helped years earlier and who by 1979 ran TIDCO - the Tamil Nadu Industrial Development Corporation. TIDCO was talking to the French movement maker France Ebauches and needed a joint-venture partner. When Francois Perret of France Ebauches came to Bombay House to close the deal, JRD Tata - fluent in French - conducted the final negotiations himself, and when the fee seemed too high, traded acceptance of the price for more intensive training of the workforce (<a href=\"https://www.tata.com/newsroom/heritage/jrd-titan-xerxes\" target=\"_blank\" rel=\"noopener\">Tata&#8217;s heritage account</a>). The name is an acronym: TI for Tata Industries, TAN for Tamil Nadu."
+          },
+          {
+            "t": "p",
+            "html": "Titan Watches was incorporated in July 1984 - more than seven years after the project began, a stretch Desai said brought the team close to &#8220;abandoning the effort&#8221; more than once. Hosur, a small town in Tamil Nadu, became the factory site; Charles Correa designed the township; JRD dedicated the complex in March 1988. Quartz technology, sharp design and honest pricing made the watches bestsellers from the first ad - customers arrived at stores carrying newspaper cuttings. By its first year of operations, 1987-88, Titan was India&#8217;s leading producer of quartz analogue watches (<a href=\"https://www.tata.com/newsroom/business/40-years-titan-company\" target=\"_blank\" rel=\"noopener\">Tata&#8217;s 40-year history</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "2. The detour that nearly sank the company",
+        "blocks": [
+          {
+            "t": "figure",
+            "img": "./photos/lr32-fig1.png",
+            "alt": "Flat geometric illustration of a 1980s Indian watch factory with a French flag motif and quartz watch movements",
+            "caption": "Hosur, 1984: France Ebauches movements, Charles Correa&#8217;s township, and quartz watches India queued for."
+          },
+          {
+            "t": "p",
+            "html": "The jewellery business began as an export plant, and the reason was foreign exchange. Titan&#8217;s own imports were eating currency, and the government was encouraging exports; on a visit to a Mumbai jewellery exhibition in 1990, Desai and Titan&#8217;s PR head Jayanthi Prasad formed the idea. In mid-1993 Tata Sons approved the plan, and Titan built the finest jewellery plant it could in Hosur - an investment of Rs 65 crore, a huge sum then (<a href=\"https://www.rediff.com/business/special/the-machine-that-saved-tanishq/20240829.htm\" target=\"_blank\" rel=\"noopener\">C K Venkataraman&#8217;s account, excerpted on Rediff from his book The Tanishq Story</a>)."
+          },
+          {
+            "t": "p",
+            "html": "It failed almost immediately. The plant, opened in 1994, was built for Western tastes - a small range of 18-karat, minimal-styled jewellery - without leaders who knew the export markets or buyers who wanted the product. &#8220;Of course, all this is in hindsight,&#8221; Venkataraman writes. With the investment stranded, Titan turned to the domestic market - and repeated the mistake at home. No consumer research was done on whether Indians would buy 18-karat jewellery; Desai was confident Titan would transform jewellery as it had watches. Tanishq - the name Desai built from Nishka, a throat ornament, swapping the k for a q and adding a ta in front - opened its first boutique on Cathedral Road, Chennai, in July 1996. It was modelled on European stores; customers were expected to make appointments; the staff were &#8220;like air hostesses.&#8221; First-year sales closed at Rs 2.8 crore against a target of Rs 3.5 crore, and the feedback was unambiguous: we need 22-karat (<a href=\"https://www.rediff.com/business/special/the-machine-that-saved-tanishq/20240829.htm\" target=\"_blank\" rel=\"noopener\">Rediff</a>)."
+          },
+          {
+            "t": "p",
+            "html": "What Titan was up against was not taste but arithmetic. Indian jewellery was a store of value first: 22-karat gold (916 parts in 1,000), bought largely for weddings, made by hand by karigars, sold by family jewellers customers had trusted for generations. Ishaat Hussain, Tata Sons&#8217; finance director and a Titan board member for over twenty years, could not see how the gaddi could be corporatized. Through the late 1990s the business bled, living off the watch division&#8217;s profits (<a href=\"https://www.ndtvprofit.com/business/the-story-of-titans-tanishq-turnaround-10384783\" target=\"_blank\" rel=\"noopener\">NDTV Profit&#8217;s excerpt from Vinay Kamath&#8217;s TITAN: Inside India&#8217;s Most Successful Consumer Brand</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "3. The machine",
+        "blocks": [
+          {
+            "t": "figure",
+            "img": "./photos/lr32-fig2.png",
+            "alt": "Flat geometric illustration of an X-ray fluorescence machine analysing a gold ornament, a queue of customers behind",
+            "caption": "The Karatmeter: three minutes, non-destructive, and devastating to an industry built on under-karatage."
+          },
+          {
+            "t": "p",
+            "html": "The industry&#8217;s quiet secret was under-karatage. Because buyers resisted high making charges, many jewellers protected their margins by selling 19- or 20-karat gold as 22-karat; Titan&#8217;s own testing of jewellery from across the country had established this. The problem was proof: the standard test meant melting the piece. At the Basel jewellery and watch show in 1996, Titan&#8217;s manufacturing head M S Shantharam saw an X-ray fluorescence spectrometer - a machine that could read a metal alloy&#8217;s composition in three minutes without damaging it. Vasant Nangia, moved from London in 1997 to head jewellery, pushed the machines into boutiques nationwide at over Rs 10 lakh each, at a time when Tanishq&#8217;s finances could barely carry the bet. Titan&#8217;s team reprogrammed the devices for Indian alloys, working through forty-five to fifty gold standards. The Lintas agency named it the Karatmeter (<a href=\"https://www.rediff.com/business/special/the-machine-that-saved-tanishq/20240829.htm\" target=\"_blank\" rel=\"noopener\">Rediff</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The machine worked - as an indictment. Queues formed; customers wept or raged at discovering what their family jeweller had sold them; local jewellers leaned on Tanishq franchisees to stop using it, some with threats of violence. And sales still did not move. The breakthrough was a single customer encounter: a woman at the Dickenson Road store in Bangalore tested her jewellery, learned it was 17-karat, not 22, and snapped at then-COO Jacob Kurian, &#8220;You don&#8217;t do anything to solve our problem. All you do are things to make us feel bad.&#8221; The Karatmeter told people they had been cheated; Tanishq offered no remedy (<a href=\"https://www.ndtvprofit.com/business/the-story-of-titans-tanishq-turnaround-10384783\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The remedy became the famous exchange scheme, branded 19=22: bring your old jewellery, test it on the Karatmeter, and if it read between 19 and 22 karat, Tanishq would exchange it for new 22-karat jewellery at full value - the customer paid only the making charges, and Tanishq bore the cost of the gold. The finance head nearly had a heart attack, Kurian recalled. The night it launched, a staffer called him from the store in excitement: &#8220;There are people in our store!&#8221; It was, he said, &#8220;like a zoo.&#8221; The scheme ran across India and converted the machine&#8217;s indictment into Tanishq&#8217;s founding promise (<a href=\"https://www.ndtvprofit.com/business/the-story-of-titans-tanishq-turnaround-10384783\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "4. The company the machine built",
+        "blocks": [
+          {
+            "t": "figure",
+            "img": "./photos/lr32-fig3.png",
+            "alt": "Flat geometric illustration of a modern Indian jewellery showroom at Diwali, lamps and gold necklaces",
+            "caption": "Diwali weekend: the season Tanishq was rebuilt for, one purity test at a time."
+          },
+          {
+            "t": "p",
+            "html": "The turnaround had a deadline. Kurian told his town halls the business had one year to turn around or they would all be out of jobs - the factory staff, paid the same wages as the profitable watch division, had no idea how badly Tanishq was doing. Harish Bhat, who had joined from Tata Tea in 2001 and took over as COO when Kurian left in 2003, recalls the Diwali festival sale that year: stores were dialled around the country at midnight to tally sales, and several crossed Rs 1 crore in a single day. The trust machine - transparent weights, purity on display, the exchange promise - had found its season (<a href=\"https://www.ndtvprofit.com/business/the-story-of-titans-tanishq-turnaround-10384783\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>)."
+          },
+          {
+            "t": "p",
+            "html": "What followed was compounding. Tanishq became India&#8217;s largest jewellery retailer; Titan layered on Zoya and Mia, eyewear (Titan EyePlus), and in 2016 paid Rs 357.24 crore for a 62% stake in CaratLane, the online jewellery startup - the omnichannel bet that aged well (<a href=\"https://www.business-standard.com/article/news-cm/titan-company-signs-share-purchase-agreement-to-acquire-majority-stake-in-carat-lane-trading-116071401111_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, from the BSE filing</a>). For the full financial year 2025-26, Titan&#8217;s consolidated total income rose 33% to Rs 76,078 crore and profit rose 52% to Rs 5,073 crore (<a href=\"https://www.businesstoday.in/markets/stocks/story/jhunjhunwala-stock-rs-15-dividend-in-q4-results-revenue-breaches-rs-75000-cr-mark-in-fy26-530598-2026-05-08\" target=\"_blank\" rel=\"noopener\">Business Today</a>)."
+          },
+          {
+            "t": "p",
+            "html": "And then the quarter that pegs this story. On Thursday, Titan reported consolidated profit up 114% to Rs 2,393 crore for the September 2026 quarter - a figure inflated by a one-off gain from the change in gold customs duty, with adjusted pre-tax profit up 18% - on revenue of Rs 20,614 crore that missed street estimates (<a href=\"https://www.thehindubusinessline.com/companies/titan-q2-profit-more-than-doubles-on-one-off-gain-adjusted-pbt-growth-at-18/article71670744.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>; <a href=\"https://www.livemint.com/companies/company-results/titan-misses-revenue-estimates-but-beats-profit-view-as-jewellery-demand-holds-up-11793890877911.html\" target=\"_blank\" rel=\"noopener\">Mint</a>). The stock rose 1.72% on results eve. The honest way to read the print: the duty windfall is noise; the 18% underlying growth into the Diwali season is the signal - the season that, thirty years ago, taught a failing boutique what Indian customers actually buy."
+          }
+        ]
+      },
+      {
+        "heading": "5. The decision scene",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The scene that deserves the last word is Basel, 1996. M S Shantharam walks a trade-show floor, stops at a spectrometer built for metallurgy labs, and sees what nobody in a centuries-old industry had productized: proof. The machine cost over Rs 10 lakh at a time the business buying it was losing money; the industry it was aimed at would respond with threats; the customers it served would first respond with tears. Titan bought it anyway, reprogrammed it for forty-five alloys, put it in the window - and then, when proof alone failed to sell a single extra bangle, did the harder thing and underwrote the answer with its own balance sheet. Plenty of companies find the indictment. The ones that matter build the remedy."
+          },
+          {
+            "t": "closing",
+            "html": "Sources read in full for this piece: Tata&#8217;s heritage and 40-year histories, C K Venkataraman&#8217;s excerpted account on Rediff, Vinay Kamath&#8217;s excerpted account on NDTV Profit, the 2016 CaratLane filing via Business Standard, and Thursday&#8217;s results coverage in Hindu BusinessLine, Mint and Business Today. Nothing on this page is investment advice."
+          }
+        ]
+      }
     ],
     "audio": {
-      "full": "audio/lr31-full.m4a",
+      "full": "audio/lr32-full.m4a",
       "segments": [
         {
           "key": "segment1",
-          "label": "The banyan tree"
+          "label": "Watches, by accident"
         },
         {
           "key": "segment2",
-          "label": "The index, the machine, and the long slide"
+          "label": "The detour that nearly sank the company"
         },
         {
           "key": "segment3",
-          "label": "Becoming a company"
+          "label": "The machine"
         },
         {
           "key": "segment4",
-          "label": "The comeback"
+          "label": "The company the machine built"
         },
         {
           "key": "segment5",
-          "label": "The quarter, and the next test"
+          "label": "The decision scene"
         }
       ],
       "durations": {
-        "full": 599.96,
-        "segment1": 118.8,
-        "segment2": 107.92,
-        "segment3": 103.72,
-        "segment4": 114.32,
-        "segment5": 119.64
+        "full": 717.96,
+        "segment1": 143.6,
+        "segment2": 155.48,
+        "segment3": 159.28,
+        "segment4": 141.28,
+        "segment5": 74.64
       },
-      "segment1": "audio/lr31-segment1.m4a",
-      "segment2": "audio/lr31-segment2.m4a",
-      "segment3": "audio/lr31-segment3.m4a",
-      "segment4": "audio/lr31-segment4.m4a",
-      "segment5": "audio/lr31-segment5.m4a"
+      "segment1": "audio/lr32-segment1.m4a",
+      "segment2": "audio/lr32-segment2.m4a",
+      "segment3": "audio/lr32-segment3.m4a",
+      "segment4": "audio/lr32-segment4.m4a",
+      "segment5": "audio/lr32-segment5.m4a"
     },
     "times": null
   }
