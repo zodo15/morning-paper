@@ -1,0 +1,377 @@
+{
+ "day": 35,
+ "meta": {
+  "date": "Monday 9 November 2026",
+  "short": "Mon 9 Nov",
+  "longread": 35
+ },
+ "edition": {
+  "title": "Slow Burn - Monday 9 November 2026",
+  "fact": "Edition 35. The probe and the pause. Monday 9 November 2026, edition 35. This edition runs 4,817 words. Nvidia's board opened an independent investigation after reporting that founder-CEO Jensen Huang was the target of a foreign intelligence effort; Huang admitted being unfaithful in a memo to employees, per the reporting. Donald Trump told CNN that renewed strikes on Iran are \"highly unlikely\" if talks hold, and Iran sent its conditions to Washington through Qatar. Oil extended its collapse - Brent towards $97 in early Asia trade after a 16.4% weekly fall, the steepest since the pandemic. The Muhurat session opened Samvat 2083 with its first red close since 2017, capping the market's best week since February 2021. Goldman Sachs pulled Claude Code from its bankers and traders. The long read is Zomato - the menu box that became Eternal.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: two colleagues at Bain scanning menus in 2008, a record listing, a crash to Rs 46, an all-stock bet on a ten-minute grocer, and the January morning the founder handed his company to the man he bought.",
+  "concept": null,
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Today's long read:</strong> The app that outgrew its name - how Zomato grew from a menu-scanning sideline into India's first listed unicorn, crashed 72% from its peak, bet Rs 4,447 crore of stock on Blinkit, renamed itself Eternal, and ended with Deepinder Goyal handing the CEO chair to the founder he acquired. <a href=\"https://files.instinct.com/jkw0h87zhu4w-the-app-that-outgrew-its-name\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The probe:</strong> Nvidia's board opened an independent investigation after New York Times and Financial Times reporting that CEO Jensen Huang was targeted by a Chinese intelligence effort; the board says it has no reason to believe secrets were compromised, and Huang told employees: \"I was unfaithful to my wife.\""
+     },
+     {
+      "t": "p",
+      "html": "<strong>The pause:</strong> Trump told CNN that renewed strikes on Iran are \"highly unlikely\" if Tehran signs \"a very strong agreement,\" while noting three aircraft carriers are \"fully locked and loaded\"; Iran sent conditions for ending the war to Washington through Qatar, its security chief said."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The tape:</strong> the Qeshm explosions now have two official stories - the IRGC's news agency says a US projectile struck; Iranian officials say the cause is unconfirmed and may be their own military activity. A drone strike shut Iraq's Khor Mor gas field, cutting about 2,800 MW."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The session:</strong> the Muhurat hour ended red for the first time since 2017 - Sensex 80,999.40, Nifty 24,986.40 - on an up-to-400-point rally that faded; breadth stayed firmly positive."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The oil:</strong> Brent fell 16.4% last week, its steepest weekly drop since the pandemic, and slipped towards $97 in early Monday trade as the Trump remarks raised hopes of a deal."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The lab:</strong> Goldman Sachs restricted Claude Code and similar AI coding tools to engineers, months after its CIO praised front-office \"vibe coding\"; the story was the biggest Hacker News discussion overnight."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The long read:</strong> Zomato to Eternal - the app that outgrew its name."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>1. Nvidia's board opens an investigation into its own CEO's targeting.</strong> The company announced Sunday that its board is \"initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort,\" overseen by a committee of independent directors with outside independent counsel (<a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener\">Nvidia's own statement</a>). The reporting behind it, from the New York Times and the Financial Times, concerns Huang's relationship with Alice Huang - no relation - a Chinese businesswoman whose Singapore-based company was buying Nvidia's advanced chips; US intelligence agencies had her under surveillance and assessed that she had been recruited to spy by China's top intelligence agency (<a href=\"https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148\" target=\"_blank\" rel=\"noopener\">NBC News</a>; <a href=\"https://apnews.com/article/nvidia-jensen-huang-investigation-chinese-spy-68839e7ca6ba2b121529f7e475e501d6\" target=\"_blank\" rel=\"noopener\">AP</a>; NBC has not independently confirmed either report). The board's statement is careful on the two points that matter to shareholders: it \"has no reason to believe that either national security or NVIDIA secrets were compromised,\" and it \"has confidence in Jensen and his leadership team,\" with Huang supporting the review and committed to cooperating. In a memo to employees that Nvidia shared with NBC, Huang wrote: \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did.\" Congress is already circling - CNBC reports scrutiny over the chipmaker's China exposure - and the inquiry lands the week before Nvidia's third-quarter print on 17 November, in a market where the top-tier chips at the centre of the story are mostly barred from China. <em>Editor's takeaway: the board kept the two reassurances separate on purpose - nothing compromised, confidence in the CEO - and both are now testable claims with an outside counsel attached; watch the committee's mandate wording and any congressional hearing date before the earnings call.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. Trump: renewed strikes \"highly unlikely\" - with three carriers loaded.</strong> In a CNN interview Sunday, President Trump downplayed the prospect of a new military campaign against Iran: \"It depends on whether or not they sign a very strong agreement. The answer is highly unlikely it's going to be necessary\" (<a href=\"https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190\" target=\"_blank\" rel=\"noopener\">Deutsche Welle's wire wrap</a>; Xinhua carried the same quotes). The deterrence ran in the same breath: \"I've got three aircraft carriers here. They're fully locked and loaded,\" with 38 bridges in Iran in American sights \"that we can knock down in literally one hour,\" and a military \"ready\" to \"finish [Iran] off.\" Trump described Iran as \"withering away financially\" after eight months of hostilities and said the Iranians \"want to make a deal so badly.\" On the other side of the channel, Iran sent conditions for ending the war to Washington through Qatar, an Iranian security chief said, per the pro-Iran ILKHA agency - carried here as its report, attributed - and Trump publicly praised the new \"Iron Gate\" land blockade: very little gets in or out, per Israel National News. The market's verdict arrived overnight: oil extended its fall in early Monday trade (story 5). The backdrop, per DW: the US first struck Iran in late February after Israel's preemptive strike; a June memorandum in Islamabad is the war's one tangible diplomatic artefact; Iran still holds a partial blockade of the strait, and the Houthis are hitting targets in Riyadh. <em>Editor's takeaway: both capitals are now talking about the shape of an end - conditions through Doha, terms on American television - while the military tape keeps running; the things to watch are a formal US reply to the Qatari channel and whether the strait's reopening gets scheduled, not said.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. One blast, two official stories; one gas field, 2,800 MW dark.</strong> The weekend's Qeshm explosions now carry a named attribution conflict. The Tasnim agency - affiliated with the IRGC - says a projectile fired by US forces struck Qeshm, the only impact location of a US attack (<a href=\"https://www.iranintl.com/en/202611081452\" target=\"_blank\" rel=\"noopener\">via Iran International</a>). Iranian officials, via state television and Reuters reporting, have not confirmed missile strikes and say the explosions \"might be related to Iranian military activity\" (<a href=\"https://www.al-monitor.com/originals/2026/11/iran-suggests-blasts-are-not-us-attacks-both-sides-report-ships-hit\" target=\"_blank\" rel=\"noopener\">Al-Monitor</a>). Both versions sit in this paper as attributed claims. The same weekend's ledger: Iran said two vessels hit mines in the strait and a third caught fire; the US disabled a vessel in the Gulf of Oman; and CENTCOM's new Task Force Iron Gate - about twenty civilian and military personnel based in Tampa - is working to disrupt land transit routes into Iran (Iran International; Arab News). Separately and bloodlessly, a drone strike late Sunday hit the Khor Mor gas field in Iraq's Kurdistan region - Chamchamal district, Sulaymaniyah province - knocking about 2,800 MW of generating capacity offline, halting production with extensive damage and a major fire, and no casualties reported; Iraqi Prime Minister Ali Falih al-Zaidi ordered a joint investigation with Kurdish authorities (<a href=\"https://www.aa.com.tr/en/middle-east/drone-strike-targets-gas-field-disrupting-electricity-supplies-in-northern-iraq/4116376\" target=\"_blank\" rel=\"noopener\">Anadolu</a>). The Jerusalem Post reports the field was referenced by Kataib Hezbollah before the hit - a claim this paper carries as such. <em>Editor's takeaway: the Qeshm story splitting into two official versions is itself the news - attribution is being negotiated alongside the ceasefire terms - while the Khor Mor strike, unattributed and casualty-free, shows the energy grid is now a standing target in the proxy layer.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>4. The first red Diwali since 2017.</strong> Samvat 2083 opened the way Samvat 2082 closed - soft at the index level, stronger underneath. The Sensex ended the Muhurat hour 28.62 points lower at 80,999.40 and the Nifty 43.95 points lower at 24,986.40, back below 25,000, after an early rally of about 400 Sensex points took the Nifty across 25,100 and faded (<a href=\"https://www.moneycontrol.com/news/business/markets/diwali-muhurat-trading-2026-sensex-nifty-end-lower-after-early-rally-experts-bullish-eye-upside-with-caution-14074937.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>). It snaps an eight-session Diwali winning streak and marks only the eighth red Muhurat close in thirty years, per Mint's count. Breadth told the other story: 3,127 advances against 917 declines on BSE, with the midcap and smallcap indices closing green - up 0.13% and 1% (<a href=\"https://www.livemint.com/market/stock-market-news/sensex-nifty-muhurat-trading-samvat-2083-diwali-market-11794137925445.html\" target=\"_blank\" rel=\"noopener\">Mint</a>). The board's leaders were defensive and metal: Sun Pharma up 3.17% to Rs 1,919, Tata Steel up 2.09%, ONGC up 1.31%; M&amp;M, IndiGo, Trent, Infosys and Bharti Airtel dragged. The flows, from the combined NSE-BSE-MSEI report via Indian Market Grid: foreign investors sold a rounding error - Rs 0.25 crore net - ending, by twenty-five lakh rupees, the fourteen-session Rs 53,154-crore buying streak, while domestic institutions sold Rs 700.31 crore. The voices of the session split on cue: Ramesh Damani declared a new bull market; Raamdeo Agrawal promised bumper returns by next Diwali; Marathon's Atul Suri held to Nifty 30,000 in eighteen months, calling this the first stage of short covering; Helios's Samir Arora stayed cautious, wanting capital-gains-tax changes and currency-adjusted returns (moneycontrol). Samvat 2082's final ledger: Sensex down 3,398 points, about 4%, over the year (Mint). <em>Editor's takeaway: a twenty-eight-point red close on 3,127 advancing stocks is a pause in the headline index, not a crack in the tape - the streak's technical end on a Rs 0.25-crore foreign print says the holiday session carried no information, and today's full session is the first real read of Samvat 2083.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>5. The war premium unwound in a week - and kept unwinding.</strong> Brent settled Friday at $98.32, down 16.4% on the week - the steepest weekly fall since the pandemic, per <a href=\"https://www.alarabiya.net/aswaq/oil-and-gas/2026/11/07/%D8%A8%D8%B1%D9%86%D8%AA-%D9%8A%D8%AA%D9%83%D8%A8%D8%AF-%D8%A7%D9%83%D8%A8%D8%B1-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9-%D9%85%D9%86%D8%B0-%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-164\" target=\"_blank\" rel=\"noopener\">Al Arabiya</a> - and WTI settled at $90.83, its worst week since 2022 (<a href=\"https://www.financialjuice.com/News/9841360/NYMEX-WTI-Crude-Dec-futures-settle-at-9083-a-barrel-up-31-cents-034.aspx?xy=rss\" target=\"_blank\" rel=\"noopener\">financialjuice</a>; Rigzone). Early Monday, the slide continued on the Trump remarks: Brent fell towards $97 and WTI towards $90 in Asian trade (<a href=\"https://www.thevibes.com/articles/business/129315/oil-prices-extend-losses-on-hopes-of-us-iran-breakthrough\" target=\"_blank\" rel=\"noopener\">The Vibes</a>). The repricing is political: the Democratic midterm sweep lowered the market's odds on a prolonged Iran war, and Trump himself acknowledged the conflict's cost to his party - Vibes notes his admission that the war contributed to the \"historic defeat.\" The week's other macro markers moved the same direction: the US ten-year Treasury yield ended Friday at 4.86% (<a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=202611\" target=\"_blank\" rel=\"noopener\">Treasury's daily curve</a>), back below 5%, and the rupee had its best day since 12 October, up 57 paise to a six-month high of 93.91 per dollar (<a href=\"https://timesofindia.indiatimes.com/business/india-business/rupee-rises-57-paise-to-close-at-6-mth-high-of-93-91/articleshow/135624179.cms\" target=\"_blank\" rel=\"noopener\">Times of India</a>). The setup for today's Indian open, per <a href=\"https://www.moneycontrol.com/news/business/markets/trade-setup-for-november-9-top-15-things-to-know-before-the-opening-bell-14075032.html\" target=\"_blank\" rel=\"noopener\">moneycontrol's trade setup</a>: Nifty resistance at 25,200 then 25,500 - where maximum call open interest sits at 1.23 crore contracts - with support at 24,800, then 24,400-24,300; India VIX jumped 5.53% to 18.43, its highest close since 20 May. GIFT Nifty's overnight prints pointed to a flat open - 24,990 around 4:30 AM, 25,026.50 by 5:52. <em>Editor's takeaway: oil, yields and the rupee are all pricing the same trade - the war ending - and the Nifty's option writers are pricing a ceiling 500 points above; a deal headline moves everything at once, and so does a denial.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The Muhurat hour closed Samvat 2082's scoreboard: Sensex 80,999.40 (-0.04%) and Nifty 24,986.40 (-0.18%), with the week - an extended one, Friday to Sunday - up 8.39% on the Nifty and 8.78% on the Sensex, the biggest weekly gain since February 2021 (<a href=\"https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-q2-earnings-us-india-inflation-fii-flow-oil-prices-among-10-key-factors-to-watch-14075029.html\" target=\"_blank\" rel=\"noopener\">moneycontrol's week-ahead</a>). The five-session Friday-to-Friday count was 8.58%, the strongest weekly rally in five years (<a href=\"https://www.cnbctv18.com/market/nifty-outlook-monday-november-9-index-eyes-25500-after-strongest-weekly-rally-in-five-years-20029826.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>); the midcap and smallcap indices lagged all week, up 5.91% and 3.81%. Monday's holiday-shortened week - the exchanges are shut Tuesday for Diwali Balipratipada (Zerodha's circular) - opens with Asia mixed: the Nikkei rose 695 points at the open on chip dip-buying after Friday's 4.21% rebound in the Philadelphia semiconductor index (<a href=\"https://www.zaikei.co.jp/article/20261109/876616.html\" target=\"_blank\" rel=\"noopener\">Zaikei</a>), while Korea's Kospi opened lower. New York's Friday finals, carried: S&amp;P 500 7,376.86 (+0.31%); Dow 51,285.73 (-0.46%); Nasdaq 24,579.42 (+1.09%). US index futures pointed higher in early Monday trade."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Nothing new filed in the verified record over the weekend. <strong>IL JIN Electronics (India)</strong> - Amber Enterprises' electronics-manufacturing arm, Rs 2,500-crore DRHP dated 6 November - sits with SEBI (<a href=\"https://www.ndtvprofit.com/markets/amber-enterprises-arm-il-jin-electronics-files-drhp-with-sebi-for-ipo-to-raise-rs-2-500-crore-12296381\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>, carried). <strong>Repro</strong> stands at Friday's close of Rs 313.10; the Muhurat hour does not rescore the line. <strong>The EAAA bond</strong> (10.8%, BSE symbol 108EAAAL27): still no verified close in the data this desk uses; the line returns when a verified close exists. <strong>Still on file:</strong> Anthropic's amended S-1, with third-quarter financials public, remains the overseas filing to read (carried from edition 32). In the pipeline this week: no new issues open; the results calendar (below) is where the action is."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers - the Muhurat board",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The ceremonial session's verified gainers, all BSE official prints via moneycontrol's close report:"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 260\" role=\"img\" aria-label=\"Muhurat session 8 Nov, top Sensex gainers (%), BSE official closes\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Sun Pharma</text><rect x=\"410\" y=\"30\" width=\"41.21\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"459.21\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+3.17%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Tata Steel</text><rect x=\"410\" y=\"78\" width=\"27.17\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"445.17\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.09%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">ONGC</text><rect x=\"410\" y=\"126\" width=\"17.03\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"435.03\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.31%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Tata Motors PV</text><rect x=\"410\" y=\"174\" width=\"14.69\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"432.69\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.13%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Muhurat session 8 Nov, top Sensex gainers (%), BSE official closes</p>"
+     },
+     {
+      "t": "p",
+      "html": "Sun Pharma closed at Rs 1,919 and Tata Steel at Rs 190.20; on the other side, M&amp;M, IndiGo, Trent, Infosys and Bharti Airtel were the index's biggest drags (moneycontrol; Mint). The loser percentages were not published in the sources this desk verified, so they are named, not charted."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Infosys's</strong> Rs 26 interim dividend pays out Wednesday 11 November. <strong>MRF's</strong> board meets Tuesday - a market holiday - on results and an interim dividend decision; Cochin Shipyard's board the same day. Thursday brings dividend decisions from Oil India, Page Industries and Manappuram Finance alongside results; Natco Pharma's board decides Friday (<a href=\"https://hindi.etnownews.com/markets/q2-results-next-week-share-market-november-9-14-2026-hal-mrf-tata-power-ola-hindustan-copper-article-156478360\" target=\"_blank\" rel=\"noopener\">ET Now Swadesh's results calendar</a>). <strong>Bosch's</strong> 3:1 bonus plus 1:5 split awaits the postal ballot; record date still to be fixed. <strong>ONGC's</strong> Rs 8 interim dividend stands declared (carried)."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The arithmetic of a twenty-five-lakh ending. Fourteen sessions of foreign buying - Rs 53,154 crore from 16 October, about Rs 3,800 crore a day - met a one-hour holiday session in which foreign investors sold a net Rs 0.25 crore: twenty-five lakh rupees, or about seven ten-thousandths of the average day of the run (<a href=\"https://indianmarketgrid.com/news/muhurat-session-official-fii-dii-flows-november-8-evening\" target=\"_blank\" rel=\"noopener\">combined exchange report, via Indian Market Grid</a>). Two readings exist. The literal one says the streak ended; the honest one says a ceremonial hour with most trading desks closed cannot carry a signal either way - the print is a rounding error wearing a headline. The number inside the session that does carry weight is the domestic one: DIIs sold Rs 700.31 crore, continuing their run of selling into the foreign bid - the same divergence that has run underneath the whole rally. Watch today's full session for the real fifteenth print. The second piece of arithmetic belongs to the week: the Nifty's 8.39% gain came with midcaps up 5.91% and smallcaps 3.81% - the rally was a large-cap, foreign-led repricing, not a broad re-rating, which is exactly what a risk-premium unwind looks like when it arrives in five sessions (<a href=\"https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-q2-earnings-us-india-inflation-fii-flow-oil-prices-among-10-key-factors-to-watch-14075029.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Quick commerce's scoreboard flipped.</strong> Eternal's September-quarter print put the whole sector's argument in one line: Blinkit - the ten-minute grocer Zomato bought for Rs 4,447 crore of stock in 2022 - reported adjusted EBITDA of plus Rs 184 crore against a loss of Rs 156 crore a year earlier, its sixth straight quarter of margin improvement, while adding 308 stores to reach 2,751 and raising its target to 3,500 stores by March 2027 and about 5,000 by March 2028 (<a href=\"https://www.livemint.com/companies/company-results/eternal-revises-blinkit-store-target-as-q2-net-profit-rises-92-11792587954055.html\" target=\"_blank\" rel=\"noopener\">Mint, on the results</a>). Management's reasons matter as much as the numbers: competition has become \"more predictable,\" smaller cities offer attractive paybacks. Read: the cash-burn phase of the ten-minute war is closing, and the surviving game is store economics, not subsidy. The parent, meanwhile, nearly doubled profit to Rs 125 crore - and still missed the street's estimate, because expenses rose 75% to Rs 24,166 crore against revenue of Rs 24,138 crore. The market's verdict on the miss, and the consumer internet scorecard more broadly, lands in today's session."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Wall Street's first vibe-coding reversal.</strong> Goldman Sachs has cut off most of its employees from advanced AI coding tools - Anthropic's Claude Code and Microsoft's GitHub tools - restricting them to engineers only, per internal guidelines dating to October (<a href=\"https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/\" target=\"_blank\" rel=\"noopener\">The Decoder, on Bloomberg's reporting</a>; NDTV Profit corroborates). The reversal is total: traders and bankers had spent months using the tools to monitor trading flows and create content, and in July the firm's CIO Marco Argenti was publicly praising exactly that - non-technical staff building quick prototypes for engineers to scale. Spokesperson Nick Carcaterra's explanation names \"a variety of factors including productivity and risk management,\" and that the experimentation phase is over; the rollback is reportedly causing frustration inside the firm. The story drew the biggest Hacker News discussion of the overnight cycle, around 490 points by early Monday. It lands in the same week this paper tracks Microsoft's research fold and the Nvidia board's security inquiry - three separate institutions deciding, in one news cycle, where AI access ends. <em>Editor's takeaway: the pattern to watch is governance, not capability - the first bank to celebrate front-office vibe coding is the first to revoke it, and every other firm's October-style guideline review just got a template.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Goldman's reversal carries a builder's lesson that no launch post will: access is a policy, not a capability. The traders who wired their morning flow checks through Claude Code did nothing wrong - the firm's own CIO had blessed the pattern in July - and they lost the tool in October anyway, because risk committees move slower than enthusiasm and then all at once. The practical rule for anyone building an AI-assisted workflow inside any institution: assume the tool can be revoked on a quarter's notice, and build so the workflow survives it. Keep the data and the checks where you can reach them without the model; write the process down in a form a person can run; treat the AI layer as acceleration, not load-bearing structure. The engineers at Goldman kept their access because their work was already legible to the firm's controls - reviewed, tested, owned. Make your use look like engineering, and it survives the next memo. Make it look like a shortcut, and the memo is already drafted."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Monday)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Before the 9:15 open, read one page that is not a news wire: Eternal's Q2 shareholder letter - the document behind the Blinkit numbers in today's Startup section. It is the rare Indian earnings artifact written to be read. Pair it with the line from Eternal's analyst call that the whole consumer-internet sector is repricing on: competition has become more predictable. Then, when the results start landing from 3:30 PM - Olectra Greentech and Whirlpool of India today, about 560 companies through Saturday - read one print the way this paper does: the number, the estimate it missed or beat, and the expense line underneath, in that order. And when Zomato delivers dinner tonight, notice the app's new Host Mode - hide the prices, keep the surprise - and remember the packet started as a scanned menu in a Bain office. <a href=\"https://files.instinct.com/jkw0h87zhu4w-the-app-that-outgrew-its-name\" target=\"_blank\" rel=\"noopener\">The long read is here</a>."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: war premium",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The number that left the oil price last week has a name: the war premium - the extra dollars per barrel that traders pay not for oil that exists, but for oil that might not. When a conflict threatens supply routes - and eight months of US-Iran war, with a partial blockade of the strait through which a fifth of the world's oil passes, qualifies - the futures price carries insurance on top of supply and demand. The premium is invisible while it stands; you see it only when it leaves. Last week it left: from well above $110 to a $98.32 Brent settle, a 16.4% fall in five sessions on nothing more than election results and the expectation of talks - no new oil flowed, no pipeline reopened, and yet the price fell by a sixth (<a href=\"https://www.alarabiya.net/aswaq/oil-and-gas/2026/11/07/%D8%A8%D8%B1%D9%86%D8%AA-%D9%8A%D8%AA%D9%83%D8%A8%D8%AF-%D8%A7%D9%83%D8%A8%D8%B1-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9-%D9%85%D9%86%D8%B0-%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-164\" target=\"_blank\" rel=\"noopener\">Al Arabiya, on the weekly fall</a>; <a href=\"https://www.thevibes.com/articles/business/129315/oil-prices-extend-losses-on-hopes-of-us-iran-breakthrough\" target=\"_blank\" rel=\"noopener\">The Vibes</a>). That is the tell: physical markets move on cargoes, premium markets move on headlines. The unwinding is why the same newspaper can truthfully report a war still running and an oil price in freefall - the market was never pricing the war; it was pricing the chance the war gets worse. When you read \"oil falls on deal hopes,\" the honest translation is: the insurance is being cancelled before the policy's terms are even agreed."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: independent investigation",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "When Nvidia's board announced an \"independent investigation\" on Sunday, it used a term of art with a specific machinery. The \"independent\" refers to two separations: the inquiry is run by a committee of independent directors - board members who are not executives and, in a clean process, not entangled in the matter - and it is conducted by outside independent counsel, a law firm engaged for the purpose rather than the company's regular lawyers. The model exists because the people normally charged with investigating - management - are the subject; Jensen Huang is cooperating with a review of Jensen Huang, so the file cannot sit on his desk. What the machinery can do: compel documents and interviews inside the company, hire forensic help, and deliver findings the board can act on, from a clean bill to governance changes. What it cannot do: subpoena anyone, or bind regulators and prosecutors, who run their own tracks. The statement's careful sentence - the board \"has no reason to believe\" secrets were compromised - is the pre-investigation position, not the finding (<a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\" target=\"_blank\" rel=\"noopener\">Nvidia's statement</a>). The finding is what the committee is for, and it will land whenever the counsel finishes, not when the news cycle wants it."
+     }
+    ]
+   },
+   {
+    "heading": "The setup board (research, not advice)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Today is a scored session - the first of Samvat 2083. The Muhurat hour, by this desk's standing rule, activated nothing, so the board runs into the open on Friday's closes; today's 3:30 prints score against them. Every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: <a href=\"https://files.instinct.com/gqn467t8lax3-the-exchange-under-the-banyan-tree\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 Oct</a>."
+     },
+     {
+      "t": "chart",
+      "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines into the first session of Samvat 2083; prices are BSE official closes, Friday 6 November</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it for a tenth session</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 480.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil, crude leg failing</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close 232.00, four sessions above 228 inside the coil; crude has fallen 16% in a week, so the condition is under direct pressure; Rs 8 dividend declared</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 232.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. Infosys</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside trigger zone</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Absorption thesis - trigger zone Rs 1,175, close-based floor Rs 1,120 - close 1,180.65: inside the trigger zone; Rs 26 dividend pays Wednesday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>A close under 1,120 ends the thesis</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>First checkpoint 1,245 (gap zone)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (qualitative)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,180.65 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - R:R fails screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - held since</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>20-session high Rs 1,297.95</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.2 - failed the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,359.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>5. Hindalco</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - new candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>No entry zone yet - levels to be verified against longer price history</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>n/a until an entry zone exists</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Momentum plus record quarter as catalyst</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 957.70 (Fri close)</p></div>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, marker at Friday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"271.43\" x2=\"560.71\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"464.29\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"271.43\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.5</text><text x=\"464.29\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">232</text><text x=\"560.71\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC: coil floor to coil top, marker at Friday's close</p>"
+     },
+     {
+      "t": "p",
+      "html": "The resolved line stays in the ledger: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at Friday's high of Rs 1,468.00 - gross +6.44%, net +6.14% after the 0.3% cost convention, in seven sessions. Of the open lines: Kotak (Rs 480.00) has held above its Rs 437.55 trigger for ten sessions - a candidate, not a setup. ONGC (Rs 232.00) is the line the week's news attacks directly: its breakout condition was crude holding, and Brent just lost 16.4% in a week and slipped towards $97 this morning; the stock was up 1.31% in the Muhurat hour regardless, but the coil floor at Rs 218.50 is the invalidation that matters, not the mood. Infosys (Rs 1,180.65) sits inside the Rs 1,175 trigger zone with Wednesday's Rs 26 payout ahead. JSW Steel (Rs 1,359.00) keeps failing the published R:R screen. Hindalco (Rs 957.70) remains a candidate without an entry zone until levels are verified against a longer price history. Voltas stays rejected; Tech Mahindra stays shelved above the cap."
+     }
+    ]
+   },
+   {
+    "heading": "How the board scores",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "No prior-day stop trade",
+        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+       },
+       {
+        "n": "2",
+        "title": "Same-day zone and stop",
+        "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
+       },
+       {
+        "n": "3",
+        "title": "Resolutions stay on record",
+        "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three conditions, in the order they resolve. First, today's full session: the fourteenth foreign-buying print technically ended at Rs 0.25 crore in a ceremonial hour - the real fifteenth test is today's full session, with the option market's ceiling at 25,500 and the VIX at its highest close since May. Second, the Qatari channel: Iran's conditions are reportedly with Washington, Trump's price is \"a very strong agreement,\" and oil has already spent the week pricing the answer - a formal reply, a scheduled Hormuz reopening, or a denial from either capital reprices crude, yields and the rupee at once. Third, the Nvidia committee: an independent investigation with outside counsel now runs alongside congressional interest and a 17 November earnings print - the mandate's wording and any hearing dates are the early tells. This desk does not predict the answers; it watches these conditions."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The Gulf's off-ramp.</strong> Cause chain: eight months of war; a Democratic midterm sweep the president blames partly on the war; oil's steepest weekly fall since the pandemic; then Trump's \"highly unlikely\" on CNN, Iran's conditions routed through Qatar, and public praise for the Iron Gate land blockade. Watch next: a formal US reply through Doha; any scheduling of the strait's reopening; whether Tasnim's US-projectile claim on Qeshm is officially adopted or quietly dropped. Proven wrong if: strikes resume at scale while the channel is live - the carriers are, as the president says, loaded."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The Nvidia inquiry.</strong> Cause chain: years of chip-export controls aimed at China; NYT and FT reporting that a Chinese intelligence asset operated inside the CEO's personal circle; a board investigation with outside counsel; congressional scrutiny forming; a 17 November print. Watch next: the committee's mandate wording, any hearing date, Beijing's response, and whether customers or suppliers change behaviour. Proven wrong if: the committee completes with a clean finding and no governance change, and the export-control regime stays exactly as it stands."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The streak after the streak.</strong> Cause chain: foreign investors sold Indian equities most of 2026, then bought fourteen sessions straight - Rs 53,154 crore - while domestic institutions sold into them; the Muhurat hour printed a Rs 0.25-crore foreign sale and Rs 700 crore of domestic selling. Watch next: today's full-session flows, and whether the domestic selling persists if the foreign bid returns in size. Proven wrong if: the foreign number flips durably negative with the indices still near the week's highs."
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Mon 9 Nov",
+        "detail": "First full session of Samvat 2083; the real fifteenth FII print. Results: Olectra Greentech, Whirlpool of India (after the close, as always). Oil trades the Trump remarks from the open."
+       },
+       {
+        "n": "2",
+        "title": "Tue 10 Nov",
+        "detail": "Indian exchanges closed for Diwali Balipratipada (Zerodha's circular). CoreWeave reports Q3 at 5:00 PM ET - the first print from a neocloud - one of the new AI-datacentre landlords - since the correction (company IR). Israel's new Knesset holds its inaugural session (Anadolu). MRF and Cochin Shipyard boards meet on results and dividends."
+       },
+       {
+        "n": "3",
+        "title": "Wed 11 Nov",
+        "detail": "Infosys Rs 26 interim dividend payout. Results: Tata Power, Hindustan Copper, Triveni Turbine, Mishra Dhatu Nigam."
+       },
+       {
+        "n": "4",
+        "title": "Thu 12 Nov",
+        "detail": "India's October inflation print due this week (moneycontrol's trigger list). Results wave: HAL, Vodafone Idea, IRCTC, Ola Electric, NMDC, Bharat Dynamics, Alkem, Hitachi Energy, Amber Enterprises; dividends at Oil India, Page Industries, Manappuram."
+       },
+       {
+        "n": "5",
+        "title": "Fri 13 Nov",
+        "detail": "About 200 companies report: Tata Motors PV, Eicher Motors, Grasim, ABB India, RVNL, Zetwerk; Natco Pharma's dividend call. Saturday: Ashok Leyland, Brainbees (FirstCry)."
+       },
+       {
+        "n": "6",
+        "title": "Watching",
+        "detail": "Washington's reply to the Qatari channel and any Hormuz scheduling; the Qeshm attribution; the Nvidia committee's mandate and Congress; Nvidia reports 17 November; SEBI's observations on IL JIN's DRHP; Bosch's postal ballot."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read for this edition: Nvidia’s own board statement; NBC News and AP on the investigation, with the underlying reporting belonging to the New York Times and the Financial Times, named as such; Deutsche Welle’s wire wrap of the CNN interview, with Xinhua as the second wire; Iran International on the Tasnim claim; Al-Monitor on the officials’ denial; Anadolu on Khor Mor and the Knesset date; moneycontrol for the Muhurat close, the trade setup and the week-ahead; Mint for the streak history and Samvat 2082 ledger; CNBC-TV18 for the five-session count; The Vibes for Monday’s oil trade; Al Arabiya for the weekly oil fall; the US Treasury’s own daily yield curve; Times of India on the rupee; The Decoder (on Bloomberg’s reporting) for Goldman; ET Now Swadesh for the results calendar; Zaikei on the Nikkei open; BSE’s official prints behind every Indian price.",
+       "Corrections discipline: a Mint piece carrying a Muhurat Nifty close of 25,023.70 was rejected - moneycontrol’s close report, its trade setup and week-ahead, and Business Standard’s headline all carry 24,986.40; the Mint article’s reasons section also recycled stale macro. The Muhurat FII and DII flows rest on a single aggregator carrying the combined exchange report and are attributed as such. The Tasnim and ILKHA claims are carried as attributed claims, not events. An oilprice.com live quote from before the ICE open was discarded as non-comparable. Two AI items circulating on front pages - an Anthropic misuse report and the OpenAI agents incident - were dropped as months old. Anything later than about 7:00 AM IST is deliberately not in this edition."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "full": "audio/d35-full.m4a",
+  "quick": "audio/d35-quick.m4a",
+  "segments": [
+   {
+    "key": "segment1",
+    "label": "Opening and the five-minute lead route"
+   },
+   {
+    "key": "segment2",
+    "label": "Front page: the Nvidia investigation and Trump's Iran remarks"
+   },
+   {
+    "key": "segment3",
+    "label": "Front page: the conflict tape, the red Muhurat, and the oil unwind"
+   },
+   {
+    "key": "segment4",
+    "label": "Markets, IPOs, and the top movers"
+   },
+   {
+    "key": "segment5",
+    "label": "Corporate actions, Finance Goldmine, Startup Intelligence"
+   },
+   {
+    "key": "segment6",
+    "label": "AI Race, vibe coding, try this, and the war premium"
+   },
+   {
+    "key": "segment7",
+    "label": "Term of the day and the setup board"
+   },
+   {
+    "key": "segment8",
+    "label": "Board scoring, the editor's read, and Brewing"
+   },
+   {
+    "key": "segment9",
+    "label": "The week ahead and the notes on this edition"
+   }
+  ],
+  "durations": {
+   "full": 2330.5,
+   "quick": 210.4,
+   "segment1": 238.8,
+   "segment2": 233.1,
+   "segment3": 426.3,
+   "segment4": 216.5,
+   "segment5": 211.5,
+   "segment6": 317.2,
+   "segment7": 222.6,
+   "segment8": 212.0,
+   "segment9": 243.8
+  },
+  "segment1": "audio/d35-segment1.m4a",
+  "segment2": "audio/d35-segment2.m4a",
+  "segment3": "audio/d35-segment3.m4a",
+  "segment4": "audio/d35-segment4.m4a",
+  "segment5": "audio/d35-segment5.m4a",
+  "segment6": "audio/d35-segment6.m4a",
+  "segment7": "audio/d35-segment7.m4a",
+  "segment8": "audio/d35-segment8.m4a",
+  "segment9": "audio/d35-segment9.m4a"
+ }
+}
