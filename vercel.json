@@ -9,5 +9,10 @@
     "api/*.js": {
       "includeFiles": "data/cards-feed.json"
     }
+  },
+  "git": {
+    "deploymentEnabled": {
+      "cards-data": false
+    }
   }
 }

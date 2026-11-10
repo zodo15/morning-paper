@@ -1145,6 +1145,12 @@
     if (!pushSupported()) { var standalone = window.navigator.standalone === false && /iPhone|iPad/.test(navigator.userAgent); if (standalone) pushSet('Add to Home Screen for alerts', true); return; }
     if (Notification.permission === 'denied') { pushSet('Alerts off - blocked in browser settings', true); return; }
     navigator.serviceWorker.ready.then(function (reg) { return reg.pushManager.getSubscription(); }).then(function (sub) {
+      if (sub && Notification.permission === 'granted' && !pushRefresh.synced) {
+        return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: pushBody(sub) }).then(function (r) {
+          if (!r.ok) throw new Error('save');
+          pushRefresh.synced = true; pushSet('Alerts on', true);
+        }).catch(function () { pushSet('Alerts need retry - tap to reconnect', false); });
+      }
       pushSet(sub && Notification.permission === 'granted' ? 'Alerts on' : 'Turn on alerts', !!sub);
     }).catch(function () {});
   }
@@ -1155,7 +1161,7 @@
     pushSet('Working...', true);
     navigator.serviceWorker.ready.then(function (reg) {
       return reg.pushManager.getSubscription().then(function (sub) {
-        if (sub) { return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: pushBody(sub) }).then(function () { pushSet('Alerts on', true); }); }
+        if (sub) { return fetch('api/subscribe', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: pushBody(sub) }).then(function (r) { if (!r.ok) throw new Error('save'); pushSet('Alerts on', true); }); }
         return Notification.requestPermission().then(function (perm) {
           if (perm !== 'granted') { pushRefresh(); return; }
           return fetch('api/vapid').then(function (r) { return r.json(); }).then(function (k) {

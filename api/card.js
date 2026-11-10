@@ -1,5 +1,5 @@
 import crypto from 'node:crypto';
-import { authed, pushAll, readFeed, writeFeed } from './_lib.js';
+import { authed, pushAll, loadFeed, writeFeed } from './_lib.js';
 import { put } from '@vercel/blob';
 var LANES = ['markets', 'insurance', 'fintech', 'ai', 'startups'];
 function clean(s, n) { return String(s == null ? '' : s).replace(/\s+/g, ' ').trim().slice(0, n); }
@@ -48,13 +48,14 @@ function applyMeta(b, card) {
     if ((/^\d{4}-\d{2}-\d{2}$/.test(v) || !isNaN(Date.parse(v))) && v.length <= 40) card.published_at_source = v;
   }
 }
-export default async function handler(req, res) {
+async function handler(req, res) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'POST only' });
   if (!authed(req)) return res.status(401).json({ error: 'unauthorized' });
   var b = req.body && (typeof req.body === 'string' ? JSON.parse(req.body) : req.body) || {};
-  var feed = await readFeed();
+  var state = await loadFeed({ strict: true });
+  var feed = state.cards;
   if (b.remove) {
-    var n0 = feed.length; feed = feed.filter(function (c) { return c.id !== b.remove; }); await writeFeed(feed);
+    var n0 = feed.length; feed = feed.filter(function (c) { return c.id !== b.remove; }); await writeFeed(feed, state.sha);
     return res.status(200).json({ removed: n0 - feed.length });
   }
   if (b.pushOnly) {
@@ -85,7 +86,7 @@ export default async function handler(req, res) {
     }
     applyMeta(b, tgt);
     try { var im0 = await ingestImage(tgt.id, b.image); if (im0) tgt.image = im0; } catch (e) { return res.status(422).json({ error: String(e.message || e) }); }
-    await writeFeed(feed);
+    await writeFeed(feed, state.sha);
     return res.status(200).json({ updated: tgt.id, image: tgt.image || null });
   }
   var card = {
@@ -116,8 +117,13 @@ export default async function handler(req, res) {
   try { card.image = await ingestImage(card.id, b.image); } catch (e) { imgWarn = String(e.message || e); }
   feed.push(card);
   feed.sort(function (a, c) { return a.publishedAt < c.publishedAt ? 1 : -1; });
-  await writeFeed(feed.slice(0, 200));
+  await writeFeed(feed.slice(0, 200), state.sha);
   var out = { id: card.id, pushed: false, image: card.image ? card.image.src : null };
   if (imgWarn) out.imageWarning = imgWarn;
   res.status(200).json(out);
+}
+
+export default async function safeHandler(req, res) {
+  try { return await handler(req, res); }
+  catch (e) { return res.status(e.statusCode === 409 ? 409 : 503).json({ error: e.statusCode === 409 ? 'Cards changed concurrently; re-read and retry' : 'Cards storage temporarily unavailable; no publish or push confirmed' }); }
 }

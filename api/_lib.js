@@ -1,5 +1,6 @@
 import crypto from 'node:crypto';
 import { readFileSync } from 'node:fs';
+import { getJSON, putJSON, readSubs, mutateSubs } from './_github-state.js';
 import { put, list, get, del } from '@vercel/blob';
 import webpush from 'web-push';
 
@@ -12,23 +13,15 @@ export function okEndpoint(u) {
 }
 export function keyFor(endpoint) { return 'subs/' + crypto.createHash('sha256').update(endpoint).digest('hex') + '.json'; }
 export async function saveSub(sub, quiet) {
-  await put(keyFor(sub.endpoint), JSON.stringify({ sub: sub, quiet: !!quiet, at: new Date().toISOString() }), { access: 'private', addRandomSuffix: false, allowOverwrite: true, contentType: 'application/json' });
+  const path = keyFor(sub.endpoint);
+  await mutateSubs(items => {
+    const old = items.find(s => s.path === path);
+    if (old && JSON.stringify(old.sub) === JSON.stringify(sub) && old.quiet === !!quiet) return items;
+    return items.filter(s => s.path !== path).concat([{ path, sub, quiet: !!quiet, at: new Date().toISOString() }]);
+  });
 }
-export async function allSubs() {
-  var out = [], cursor;
-  do {
-    var r = await list({ prefix: 'subs/', cursor: cursor, limit: 1000 });
-    for (var b of r.blobs) {
-      var g = await get(b.pathname, { access: 'private', useCache: false });
-      if (!g) continue;
-      var txt = await new Response(g.stream).text();
-      try { var j = JSON.parse(txt); out.push({ path: b.pathname, sub: j.sub, quiet: !!j.quiet }); } catch (e) {}
-    }
-    cursor = r.hasMore ? r.cursor : undefined;
-  } while (cursor);
-  return out;
-}
-export async function dropSub(path) { await del(path); }
+export async function allSubs() { return (await readSubs()).value; }
+export async function dropSub(path) { await mutateSubs(items => items.filter(s => s.path !== path)); }
 export function vapid() { webpush.setVapidDetails(SUBJECT, PUBLIC_KEY, process.env.VAPID_PRIVATE_KEY); return webpush; }
 
 /* quiet hours: 23:00 to 07:00 India time, only for subscribers who turned the toggle on */
@@ -52,12 +45,28 @@ export function authed(req) {
   if (!t || h.length !== t.length) return false;
   return crypto.timingSafeEqual(Buffer.from(h), Buffer.from(t));
 }
-// Emergency last-good snapshot: never treat storage failure as an empty feed.
-export async function readFeed() {
-  const cards = JSON.parse(readFileSync(process.cwd() + '/data/cards-feed.json', 'utf8'));
-  if (!Array.isArray(cards) || cards.length === 0 || cards.some(c => !c.id || !c.headline || !c.publishedAt)) throw new Error('Cards snapshot unavailable or invalid');
+// Last-good feed survives provider failures; writes require a fresh remote revision.
+let feedCache = null;
+function validFeed(cards) {
+  if (!Array.isArray(cards) || cards.length === 0 || cards.some(c => !c.id || !c.headline || !c.publishedAt) || new Set(cards.map(c => c.id)).size !== cards.length) throw new Error('Cards state unavailable or invalid');
   return cards;
 }
-export async function writeFeed(cards) {
-  throw new Error('Cards publishing paused pending durable storage migration');
+export async function loadFeed({ strict = false } = {}) {
+  if (!strict && feedCache && Date.now() - feedCache.at < 30000) return { cards: structuredClone(feedCache.cards), sha: feedCache.sha, source: 'github-cache' };
+  try {
+    const r = await getJSON('morning-paper', 'cards/feed.json', 'cards-data');
+    validFeed(r.value); feedCache = { cards: r.value, sha: r.sha, at: Date.now() };
+    return { cards: structuredClone(r.value), sha: r.sha, source: 'github' };
+  } catch (e) {
+    if (strict) throw e;
+    if (feedCache) return { cards: structuredClone(feedCache.cards), source: 'last-good' };
+    const cards = validFeed(JSON.parse(readFileSync(process.cwd() + '/data/cards-feed.json', 'utf8')));
+    return { cards, source: 'snapshot' };
+  }
+}
+export async function readFeed(options) { return (await loadFeed(options)).cards; }
+export async function writeFeed(cards, sha) {
+  validFeed(cards);
+  await putJSON('morning-paper','cards/feed.json','cards-data',cards,sha,'Update Cards feed');
+  feedCache = null;
 }
