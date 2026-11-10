@@ -359,7 +359,8 @@
    "segment6": 308.0,
    "segment7": 239.3,
    "segment8": 219.8,
-   "segment9": 226.4
+   "segment9": 226.4,
+   "full": 2243.9
   },
   "segment1": "audio/d36-segment1.m4a",
   "segment2": "audio/d36-segment2.m4a",
@@ -369,6 +370,7 @@
   "segment6": "audio/d36-segment6.m4a",
   "segment7": "audio/d36-segment7.m4a",
   "segment8": "audio/d36-segment8.m4a",
-  "segment9": "audio/d36-segment9.m4a"
+  "segment9": "audio/d36-segment9.m4a",
+  "full": "audio/d36-full.m4a"
  }
 }
