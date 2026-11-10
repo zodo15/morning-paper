@@ -310,7 +310,6 @@
   ]
  },
  "audio": {
-  "full": "audio/d36-full.m4a",
   "quick": "audio/d36-quick.m4a",
   "segments": [
    {
@@ -351,7 +350,6 @@
    }
   ],
   "durations": {
-   "full": 2243.9,
    "quick": 183.6,
    "segment1": 221.6,
    "segment2": 236.2,
