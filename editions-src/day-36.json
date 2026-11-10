@@ -1,0 +1,376 @@
+{
+ "day": 36,
+ "meta": {
+  "date": "Tuesday 10 November 2026",
+  "short": "Tue 10 Nov",
+  "longread": 36
+ },
+ "edition": {
+  "title": "Slow Burn - Tuesday 10 November 2026",
+  "fact": "Edition 36. The day off and the test. Tuesday 10 November 2026, edition 36. This edition runs 4,824 words. Indian markets are closed today for Diwali Balipratipada; Monday closed at a nine-month Nifty high of 25,044.65, with PSU banks leading, up 3.7%. Tonight at 7 PM IST, America's October inflation print lands - without year-on-year rates, because the 2025 shutdown means none exist. Wall Street had its best day since April - the Nasdaq's since July: Dow up 2.15%, S&P 500 up 2.35%, Nasdaq up 2.74% - while Nvidia fell 4.2% on the board's probe into its CEO. Oil's collapse deepened: Brent settled at $92.57, down 5.85%. Trump, after meeting Qatar's prime minister, said \"Iran militarily is effectively over.\" Anthropic shipped Fable 5.2 and Mythos 5.2. The long read is Divi's Laboratories - the chemist's customer.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a boy who failed his twelfth, a sick unit with eight reactors, a hundred and twenty-five resignations on one morning, a seven-crore bet on a seventy-one-crore plant - and the customers who lobbied a foreign regulator to keep their supplier alive.",
+  "concept": null,
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Today's long read:</strong> The chemist's customer - how Murali Divi went from a failed exam to running the world's most courted drug-ingredient maker, walked out of Anji Reddy's company with a hundred and twenty-five people behind him, and built Divi's Laboratories on one rule: never compete with the customer. <a href=\"https://files.instinct.com/riqctod5obp1-the-chemists-customer\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The holiday:</strong> Indian exchanges are shut today for Diwali Balipratipada; Monday left the Nifty at a nine-month high of 25,044.65 and PSU banks up 3.7% leading the board, with foreigners buying Rs 7,212 crore."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The test:</strong> US October CPI prints tonight at 7 PM IST - an unusual report with no year-on-year rates, because the 2025 government shutdown stopped the data collection a year ago. Wells Fargo expects one more Fed hike in December."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The tape:</strong> Wall Street's best day since April - the Nasdaq's since July - all eleven S&amp;P sectors up, Dow plus 1,104 points - driven by oil's slide, even as Nvidia fell 4.2% to its lowest since April."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The oil:</strong> Brent settled at $92.57, down 5.85% on the day, lowest since late August, and kept falling after the settle; the physical market is now weaker than the paper one."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The war:</strong> after hosting Qatar's prime minister, Trump said the Iran war \"militarily is effectively over\"; Iran is defending a proposal whose conditions Washington rejected as outrageous."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The lab:</strong> Anthropic launched Fable 5.2 and Mythos 5.2 - one model, two doors - claiming black-hole physics and a thirty-hour formal proof of Fermat's Last Theorem among prerelease feats."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The long read:</strong> Divi's Laboratories - the chemist's customer."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>1. The shutters are down; the scoreboard says nine-month high.</strong> No session today - the exchanges are closed for Diwali Balipratipada, and the currency market is shut with them (<a href=\"https://www.cnbctv18.com/market/stock-market-holiday-will-nse-bse-remain-closed-on-november-10-tomorrow-check-details-20030527.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's holiday note</a>; Hindu BusinessLine). What Monday left behind is the strongest board of Samvat 2083's young year: the Sensex up 107.25 points at 81,106.65 and the Nifty up 58.25 at 25,044.65, a nine-month closing high, on a day the PSU Bank index jumped 3.7% and pharma gained 1.65% while IT fell the most (<a href=\"https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard's close report</a>). SBI, Trent, L&amp;T and NTPC led the Sensex pack; HCL Tech, Tata Steel, UltraTech and Bajaj Finance dragged. The flows extended the streak that the Muhurat hour had technically broken: foreign investors bought Rs 7,212 crore net - the real fifteenth print - while domestic institutions sold Rs 7,173 crore, the same hand-off that has run under the whole rally (<a href=\"https://www.cnbctv18.com/market/stock-market-holiday-will-nse-bse-remain-closed-on-november-10-tomorrow-check-details-20030527.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>; <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/fiis-extend-buying-momentum-on-dalal-street-with-rs-7212-crore-inflows-diis-continue-equity-sell-off/articleshow/135684722.cms\" target=\"_blank\" rel=\"noopener\">Economic Times</a>). The rupee went the other way for once: it closed at 93.9275 per dollar, weaker by about two paise from 93.9050, snapping a six-session winning run on dollar bids from state-run banks, after touching a six-month high of 93.69 intraday in thin trade (<a href=\"https://www.thehindubusinessline.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/article71682202.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>). <em>Editor's takeaway: a nine-month closing high printed into a holiday, with foreigners buying and locals selling, is exactly where this market stood before the break - Wednesday's reopen inherits both the 3.7% PSU bank jump and tonight's American inflation number, in that order.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>2. Tonight's inflation print has no year-ago number.</strong> The US October CPI report lands at 8:30 AM Eastern - 7 PM IST, while Indian markets sit shut - and it will be an odd document: the Bureau of Labor Statistics did not collect price data in October 2025 during the government shutdown, so it will not publish year-on-year inflation rates this month, putting the entire weight on the month-on-month moves (<a href=\"https://www.kiplinger.com/investing/economy/october-2026-cpi-report-what-to-expect\" target=\"_blank\" rel=\"noopener\">Kiplinger's preview</a>). The setup around it: the Federal Reserve raised rates in mid-September - its first hike in three years - then paused in late October, saying \"inflation remains elevated\"; September's CPI ran 3.7% year-on-year on higher fuel. Wells Fargo's economists estimate October headline at plus 0.28% month-on-month and core at plus 0.21%, with gasoline slowing and food picking up - and they say the report should reinforce their call for one more FOMC hike in December. Kiplinger's own economist expects CPI to end the year at 4% and core at 2.7%. Yields crept up ahead of the print, the ten-year at 4.863% (<a href=\"https://www.morningstar.com/news/dow-jones/202611099292/10-year-treasury-yield-rises-to-4863-data-talk\" target=\"_blank\" rel=\"noopener\">Morningstar's Data Talk</a>), and Comex gold settled 1% higher at $4,105 (<a href=\"https://www.morningstar.com/news/dow-jones/202611098746/comex-gold-settles-100-higher-at-410500-data-talk\" target=\"_blank\" rel=\"noopener\">Morningstar</a>). India's own October inflation lands later this week: an FE poll of economists sees 6.1%, a twenty-four-month high, breaching the RBI's band on food prices (<a href=\"https://www.financialexpress.com/policy/economy-oct-cpi-seen-at-24-month-high-of-6-1-breaching-rbi-target-fe-poll-4378686/\" target=\"_blank\" rel=\"noopener\">Financial Express</a>). <em>Editor's takeaway: a month-on-month-only CPI is a small-denominator print - one soft core reading and December's hike talk fades, one hot one and Wednesday's reopen in Mumbai prices both halves of the world's inflation story at once.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>3. The best day since April - the Nasdaq's since July - with the biggest stock falling.</strong> New York rallied hard on Monday: the Dow rose 1,104.02 points, or 2.15%, to 52,389.75; the S&amp;P 500 gained 2.35% to 7,549.94, its biggest daily percentage gain since 8 April; and the Nasdaq added 2.74% to 25,253.14, its best day since 30 July (<a href=\"https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-wall-street-jumps-oil-slide-cools-inflation-worries-nvidia-slumps\" target=\"_blank\" rel=\"noopener\">Business Times, Bloomberg copy</a>; AP's index wrap agrees on the best-since-April framing). All eleven major S&amp;P sectors rose, nine of them by more than 1%, with industrials and consumer discretionary each up over 3%. The fuel was oil: crude's slide cooled the inflation fear that has dogged the market since the Fed's September hike. And the rally ran straight over the market's biggest controversy - Nvidia fell 4.2% to its lowest close since 7 April, as investors weighed the board's investigation into CEO Jensen Huang (story 6). The context that frames it all: last week's slump, the S&amp;P's worst since April 2025, followed the Democratic midterm sweep - Democrats took both the House and the Senate, 254 House seats at the latest count (<a href=\"https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226\" target=\"_blank\" rel=\"noopener\">AP</a>) - which fed worries that new regulation could dent the AI trade; Monday's buyers decided the fear was overdone. <em>Editor's takeaway: the market is saying the AI trade survives a hostile Congress but not necessarily a compromised CEO - watch whether Nvidia's drag stays company-specific or starts pricing the whole export-control regime.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>4. The collapse keeps going: $92.57, then lower after the bell.</strong> Brent settled down $5.75, or 5.85%, at $92.57 a barrel on Monday - its lowest settle since late August - and lost more than $7 a barrel in post-settlement trade; WTI settled down $3.98, or 4.38%, at $86.85 and kept falling after hours too (<a href=\"https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html\" target=\"_blank\" rel=\"noopener\">Mint, Reuters copy</a>; <a href=\"https://www.thestar.com.my/news/world/2026/11/10/crude-futures-settle-lower\" target=\"_blank\" rel=\"noopener\">The Star, AP copy</a>). The trigger was Trump's Iran remarks; the follow-through is structural: this comes on top of last week's 16% plunge, the steepest weekly drop since the pandemic. The detail that matters most is in Morgan Stanley's Monday note, carried by Reuters: dated Brent - the price of actual cargoes - has weakened to a discount against the nearby futures contract, meaning the physical market is now softer than the paper one. That is the opposite of a supply scare, and it is what a war premium looks like after it has fully left. For India the arithmetic runs both ways: cheaper crude helps the import bill and the rupee's defenders, and it directly attacks the realisations of upstream producers - ONGC's coil on this paper's board is the line under pressure. <em>Editor's takeaway: when physical cargoes price under paper futures, the market is not afraid of running out of oil - the remaining question is how low the political premium can take the floor, and that is a Washington-and-Doha question now.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>5. \"Militarily effectively over.\"</strong> President Trump made a surprise appearance in the White House briefing room on Monday after meeting Qatar's prime minister - the channel through which Iran sent its conditions - and said: \"Iran militarily is effectively over. We're just keeping it the status quo\" (<a href=\"https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff\" target=\"_blank\" rel=\"noopener\">AP</a>). He told Reuters separately that Qatar and Saudi Arabia want a peaceful deal, while adding the US remains ready for strikes if needed (<a href=\"https://www.al-monitor.com/originals/2026/11/trump-tells-reuters-qatar-saudi-arabia-want-peaceful-iran-deal-us-ready-strikes\" target=\"_blank\" rel=\"noopener\">Al-Monitor's wrap</a>). The negotiating tape underneath is rougher: Iran is publicly defending a two-day proposal for peace talks after Washington rejected its conditions as \"outrageous\" (<a href=\"https://www.nbcnews.com/world/iran/iran-defends-2-day-proposal-peace-talks-us-rejects-outrageous-conditio-rcna608263\" target=\"_blank\" rel=\"noopener\">NBC News</a>). So the war's endgame now has both halves visible at once - a president declaring the military question settled on television, and two capitals still arguing over terms through Doha. Oil has chosen which half to believe (story 4). <em>Editor's takeaway: \"effectively over, keeping the status quo\" is a freeze, not a peace - the blockade, the carriers and the rejected conditions all still stand; the things that change prices now are a signed text, a scheduled strait reopening, or a strike that ends the freeze.</em>"
+     },
+     {
+      "t": "p",
+      "html": "<strong>6. The Nvidia probe, mapped.</strong> Reuters' explainer lays out what is actually known. The board is investigating whether Jensen Huang was the target of a foreign intelligence effort, after New York Times reporting that Huang had a relationship with Alice Huang - no relation - a Chinese citizen and former executive of Megaspeed, a Singapore-based cloud-computing firm; US authorities investigated her and concluded she was a Chinese intelligence asset. Megaspeed itself is an Nvidia cloud partner and customer under US investigation over suspicions it helped Beijing obtain Nvidia's advanced AI chips, which are barred from shipment to China (<a href=\"https://www.investing.com/news/stock-market-news/explainerwhat-we-know-about-nvidias-probe-into-ceo-jensen-huang-5010580\" target=\"_blank\" rel=\"noopener\">Reuters, via Investing.com</a>). Two disciplines matter in the reading: Reuters could not independently verify the claims or Alice Huang's current status at Megaspeed - the paper carries them as the NYT's reporting, attributed; and Nvidia's valuation stood at $4.5 trillion as of 6 November, which makes Monday's 4.2% fall roughly $190 billion of market value. Beijing has denied the spying claims (<a href=\"https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates\" target=\"_blank\" rel=\"noopener\">The Guardian's live file</a>). Huang's Sunday message to employees - admitting he was unfaithful to his wife and taking \"full responsibility\" - remains the only words from the man himself. The earnings print is 17 November. <em>Editor's takeaway: the case now has three separate tracks - the board's counsel, the Megaspeed export investigation, and Beijing's denial - and only one of them reports to shareholders; the committee's mandate wording is still the first tell to watch.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "One session to carry, and it closed strong: Sensex 81,106.65 (+0.13%) and Nifty 25,044.65 (+0.23%) on Monday, with midcaps up 0.55% and smallcaps up 0.1% (<a href=\"https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>). New York's Monday finals are in story 3: Dow 52,389.75 (+2.15%), S&amp;P 500 7,549.94 (+2.35%), Nasdaq 25,253.14 (+2.74%). Asia opens this morning without its Indian counterpart: nothing trades in Mumbai until Wednesday 9:15 AM. The overnight markers: ten-year Treasury 4.863%, Comex gold $4,105 (+1%), Brent $92.57 and falling after the settle. Today's offshore events with an Indian echo: CoreWeave reports its third quarter at 5 PM ET - the first neocloud print since the correction, a read-through for the AI-datacentre trade (<a href=\"https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx\" target=\"_blank\" rel=\"noopener\">company IR</a>) - and Israel's new Knesset holds its inaugural session (<a href=\"https://www.aa.com.tr/en/middle-east/israel-s-newly-elected-knesset-to-hold-inaugural-session-on-nov-10/4108816\" target=\"_blank\" rel=\"noopener\">Anadolu</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Nothing new filed in the verified record overnight. <strong>IL JIN Electronics (India)</strong> - Amber Enterprises' electronics-manufacturing arm, Rs 2,500-crore DRHP dated 6 November - sits with SEBI (<a href=\"https://www.ndtvprofit.com/markets/amber-enterprises-arm-il-jin-electronics-files-drhp-with-sebi-for-ipo-to-raise-rs-2-500-crore-12296381\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>, carried). <strong>Repro</strong> closed Monday at Rs 314.55 on BSE, up a fraction from 314.20 - the line holds. <strong>The EAAA bond</strong> (10.8%, BSE symbol 108EAAAL27): still no verified close in the data this desk uses; the line returns when a verified close exists. <strong>Overseas:</strong> Anthropic's amended S-1 stays the filing to read - and the company just gave it fresh numbers to carry, launching Fable 5.2 and Mythos 5.2 at $8 and $40 per million tokens while its IPO documentation circulates (<a href=\"https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html\" target=\"_blank\" rel=\"noopener\">CNBC, on the launch timing</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers - Monday's board",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Monday's verified Sensex leaders and laggards, percentages computed from BSE's official closes against the Muhurat close:"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 452\" role=\"img\" aria-label=\"Sensex leaders and laggards, Monday 9 Nov (% vs Muhurat close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">SBI</text><rect x=\"410\" y=\"30\" width=\"31.2\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"449.2\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.4%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Trent</text><rect x=\"410\" y=\"78\" width=\"27.3\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"445.3\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.1%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">L&amp;T</text><rect x=\"410\" y=\"126\" width=\"26\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"444\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">NTPC</text><rect x=\"410\" y=\"174\" width=\"20.8\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"438.8\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.6%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Bajaj Finance</text><rect x=\"386.6\" y=\"222\" width=\"23.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"378.6\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.8%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">UltraTech</text><rect x=\"384\" y=\"270\" width=\"26\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"376\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Tata Steel</text><rect x=\"378.8\" y=\"318\" width=\"31.2\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"370.8\" y=\"337\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.4%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"377.5\" y=\"366\" width=\"32.5\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"369.5\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.5%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Sensex leaders and laggards, Monday 9 Nov (% vs Muhurat close), BSE official prints</p>"
+     },
+     {
+      "t": "p",
+      "html": "Closes: SBI Rs 1,041.45, Trent Rs 3,115, L&amp;T Rs 4,185.30, NTPC Rs 328.40; on the other side Bajaj Finance Rs 1,065, UltraTech Rs 12,260, Tata Steel Rs 184.90, HCL Tech Rs 1,407. The split is the session in one frame: banks and builders up on the domestic bid, IT and metals down on the global one - HCL Tech fell even as New York's tech index had its best day since July, because India's IT complex trades the regulation-and-spending question, not the index."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>Infosys's</strong> Rs 26 interim dividend pays out tomorrow, Wednesday 11 November. <strong>MRF's</strong> and <strong>Cochin Shipyard's</strong> boards meet today - a market holiday - on results and dividend decisions; their prints land with the reopen. Thursday brings the results wave with dividends at Oil India, Page Industries and Manappuram Finance; Natco Pharma's board decides Friday (<a href=\"https://hindi.etnownews.com/markets/q2-results-next-week-share-market-november-9-14-2026-hal-mrf-tata-power-ola-hindustan-copper-article-156478360\" target=\"_blank\" rel=\"noopener\">ET Now Swadesh's calendar</a>, carried). <strong>Bosch's</strong> 3:1 bonus plus 1:5 split awaits the postal ballot; record date still to be fixed. <strong>ONGC's</strong> Rs 8 interim stands declared. <strong>Tech Mahindra's</strong> 1:1 bonus, announced 15 October, still has no record date in the filings this desk checks - the shelved line gets its one note, and nothing more."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Fourteen thousand crore changing hands in one session. Monday's real fifteenth foreign print came in at plus Rs 7,212 crore - the streak the Muhurat hour had interrupted on a twenty-five-lakh technicality is, by any honest reading, alive - and domestic institutions sold Rs 7,173 crore against it (<a href=\"https://www.cnbctv18.com/market/stock-market-holiday-will-nse-bse-remain-closed-on-november-10-tomorrow-check-details-20030527.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>; <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/fiis-extend-buying-momentum-on-dalal-street-with-rs-7212-crore-inflows-diis-continue-equity-sell-off/articleshow/135684722.cms\" target=\"_blank\" rel=\"noopener\">ET</a>). That is a Rs 14,385-crore hand-off in a single day: one class of owner selling to another at nine-month highs, each convinced the other is wrong. The arithmetic of the divergence is worth holding: foreigners have now bought roughly Rs 60,000 crore across fifteen sessions while domestics have sold into nearly all of it - a rally can run like this for a long time, but it cannot end like this; either the domestic bid returns to confirm the highs, or the foreign bid tires and meets no buyer. The currency printed the same tension from the other side: the rupee's six-session winning run ended not on panic but on state-run banks buying dollars at a six-month-strong rupee - with Emkay's Madhavi Arora reading the RBI's hand in it, rebuilding reserves rather than allowing a sharp appreciation (<a href=\"https://www.thehindubusinessline.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/article71682202.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>). A central bank that buys its own currency's strength is telling you what it thinks the strength is worth keeping."
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>One print, two streets.</strong> Honasa Consumer - Mamaearth's parent - rose about 5% on Monday after its September quarter, and the analyst split on it is the story: Jefferies sees 45% upside; Citi says Sell (<a href=\"https://www.moneycontrol.com/news/business/markets/mamaearth-parent-honasa-shares-jump-5-post-q2-results-jefferies-sees-45-upside-citi-says-sell-14075337.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>). A 45-percentage-point disagreement between two houses reading the same print is not analysis noise - it is the consumer-internet sector's open question in miniature: whether a digital-first brand's growth is compounding or just expensive. The sector's other scoreboard stayed quiet through the holiday week: Eternal, after last month's 92% profit jump that still missed estimates, drifted to Rs 363 on Monday - the market has not yet decided whether Blinkit's profitability turn outweighs the parent's expense line, and with the exchanges shut today, it gets another day to think. What to watch in the prints ahead: not the profit line, which both bulls and bears can explain, but the expense line underneath it - the Eternal quarter taught that lesson in one session."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>One model, two doors.</strong> Anthropic launched Claude Fable 5.2 and Claude Mythos 5.2 on Monday - the same underlying model behind two names: Fable carries cybersecurity and biology safeguards that make it available to all users; Mythos, without them, is gated to organisations in Anthropic's verification programs (<a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\" target=\"_blank\" rel=\"noopener\">Anthropic's own announcement</a>). The claims are sized to the frontier: prerelease testers, per Anthropic, used the models for otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, and formalised the proof of Fermat's Last Theorem in thirty hours. The commercial wrap: outputs up to 30% faster than the 5.1 generation, at $8 per million input tokens and $40 per million output, with an optional fast mode at double price and two-and-a-half times the speed; benchmarks above Opus 5.5 on almost every capability Anthropic evaluated. The context writes itself: the launch lands as the company's amended S-1 circulates (<a href=\"https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html\" target=\"_blank\" rel=\"noopener\">CNBC: \"ahead of IPO\"</a>) and as safety critics warn about recursive self-improvement (<a href=\"https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/\" target=\"_blank\" rel=\"noopener\">TechCrunch: \"amid RSI concerns\"</a>) - both framings attributed, both true. On Hacker News the overnight argument ran on an independent benchmark: Artificial Analysis scoring Fable 5.2 at 65, the highest it has recorded. <em>Editor's takeaway: the two-door structure is the real product - capability and permission now ship as separate features, and the price list says the market will pay double for speed alone.</em>"
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The thirty-hour Fermat proof is the detail to sit with. Formalising a proof that took mathematicians three and a half centuries to find - into machine-checkable form, in thirty hours - is not autocomplete; it is a model holding a mathematical structure steady for longer than any human session lasts. The builder's lesson is about where the human sits in that loop. Nobody typed the proof steps; someone chose the target, framed the problem, judged the output, and decided it counted. That is the vibe-coding posture at its most honest: the human contribution migrates from doing the work to specifying it and auditing it. For anyone building with these tools, the practical translation: invest in the two skills the model cannot do for you - stating precisely what you want, in words a sceptic could test, and checking what you get back against reality. The models are getting faster and cheaper on a schedule; the specification and the audit are the durable half of your workflow, and they compound."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Tuesday)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The market is shut - use the day the way this desk does. Read one primary document before lunch: Anthropic's Fable 5.2 and Mythos 5.2 system card, linked from the launch post - skip the benchmarks table and read the sandbox-escape evaluation, the section the safety argument actually turns on. Then set an alarm for 6:55 PM IST and watch the US October CPI land at 7:00 PM: with no year-on-year rates in the report, the month-on-month core line is the whole story - under 0.2% and Wednesday's reopen breathes; over 0.3% and it doesn't. And if you want the holiday's quieter pleasure, read <a href=\"https://files.instinct.com/riqctod5obp1-the-chemists-customer\" target=\"_blank\" rel=\"noopener\">today's long read</a> - the story of the company whose biggest customers once lobbied a foreign regulator to keep it alive, printed into a record high this week, thirty years after its founder failed his twelfth standard."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: dated Brent",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The oil price you see on a screen is a promise; dated Brent is the cargo. Futures like the Brent contract traded on ICE are paper - agreements about oil for a future month, settled between traders. Dated Brent is the assessed price of physical North Sea cargoes with loading dates attached - actual barrels that refiners have bought and must ship. The two usually move together, and the gap between them is a lie detector for the market's mood. When fear runs - a war, a blockade - paper outruns physical: futures price the oil that might not arrive, and dated lags. When the fear leaves, the relationship can flip. That is what Morgan Stanley flagged on Monday: dated Brent has weakened to a discount to the nearby futures contract (<a href=\"https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html\" target=\"_blank\" rel=\"noopener\">via Reuters</a>) - physical barrels are now cheaper than the paper promise, which means refiners see ample supply and traders' remaining premium is habit, not shortage. For the reader, one rule of thumb covers most oil headlines: futures tell you what the market fears; dated tells you what the market has. When the two disagree, believe the cargo."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: validation batches",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Divi's quarter - and the whole custom-synthesis boom behind it - turns on a term of pharmaceutical manufacturing: validation batches. When a drug company hires a contract manufacturer to make an ingredient for a new medicine, the contract does not start at full commercial volume. The manufacturer first runs validation batches: full-scale production runs, made exactly as the commercial process will run, that must prove the process is stable, repeatable and pure - the evidence regulators and the customer both require before a single commercial shipment. Revenue from validation batches is real but lumpy: it arrives when batches ship, not on a smooth curve, which is why Divi's custom-synthesis line jumped 44% on shipped validation batches and why the same line can pause between programs. The tell for a reader of pharma results: validation-batch revenue is a promise of commercial revenue - each validated process that a customer's drug clears trials becomes a running order - so a company shipping validation batches today is banking next year's sales. Divi's has three large dedicated projects in validation, one nearing commercialisation (<a href=\"https://www.business-standard.com/markets/news/divis-joins-3-trn-market-cap-club-rallies-15-in-2-days-post-q2-results-126110900182_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard, on the quarter</a>). The batch is the bridge between a molecule that works and a product that sells."
+     }
+    ]
+   },
+   {
+    "heading": "The setup board (research, not advice)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "No session today - the board rests with the exchange - so Monday's closes stand as the last scored prints; Wednesday's session scores against them. Every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: <a href=\"https://files.instinct.com/gqn467t8lax3-the-exchange-under-the-banyan-tree\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 Oct</a>."
+     },
+     {
+      "t": "chart",
+      "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines after Monday's session; prices are BSE official closes, Monday 9 November</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it for an eleventh session, close Rs 480.00</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 480.00 (Mon close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil, crude leg failing</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close Rs 233.70, five sessions above 228 inside the coil; Brent has now settled at $92.57, so the crude condition is failing outright; Rs 8 dividend declared</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 233.70 (Mon close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. Infosys</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - weakness noted</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Absorption thesis - trigger zone Rs 1,175, close-based floor Rs 1,120 - close Rs 1,153.90, below the zone after a 1,140 intraday low; weakness noted, not yet decisive; Rs 26 dividend pays Wednesday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>A close under 1,120 ends the thesis</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>First checkpoint 1,245 (gap zone)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (qualitative)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,153.90 (Mon close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - R:R fails screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - held since; closed Rs 1,345.00, off Friday’s Rs 1,354 close</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>5 November swing high near Rs 1,370</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.2 - failed the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,345.00 (Mon close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>5. Hindalco</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>No entry zone yet - levels to be verified against longer price history; closed Rs 959.00 after another 5% intraday range</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>n/a until an entry zone exists</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Momentum plus record quarter as catalyst</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 959.00 (Mon close)</p></div>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, marker at Monday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"271.43\" x2=\"560.71\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"488.57\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"271.43\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.5</text><text x=\"488.57\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">233.7</text><text x=\"560.71\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC: coil floor to coil top, marker at Monday's close</p>"
+     },
+     {
+      "t": "p",
+      "html": "The resolved line stays in the ledger: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at Friday's high of Rs 1,468.00 - gross +6.44%, net +6.14% after the 0.3% cost convention, in seven sessions; the stock closed Monday at Rs 1,407, back inside its old entry zone, which changes nothing for a line that already paid. Of the open lines: ONGC (Rs 233.70) is the one tonight's oil tape argues with directly - its breakout condition was crude holding, and Brent has settled at $92.57 with dated cargoes below futures; the coil floor at Rs 218.50 is the invalidation that decides, not the argument. Kotak (Rs 480.00) has held above its Rs 437.55 trigger for eleven sessions - a candidate, not a setup. Infosys (Rs 1,153.90) slipped below its Rs 1,175 trigger zone with a 1,140 intraday low - weakness noted, two and a half percent off Friday; the Rs 26 payout lands Wednesday. JSW Steel (Rs 1,345.00) keeps failing the published R:R screen. Hindalco (Rs 959.00) remains a candidate without an entry zone. No new setup clears tonight - the leaders of Monday's board, the PSU banks, carry no verified levels against longer history yet, and tonight's CPI sits between here and the next session; an empty slot stays a result. Voltas stays rejected; Tech Mahindra stays shelved above the cap."
+     }
+    ]
+   },
+   {
+    "heading": "How the board scores",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "No prior-day stop trade",
+        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+       },
+       {
+        "n": "2",
+        "title": "Same-day zone and stop",
+        "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
+       },
+       {
+        "n": "3",
+        "title": "Resolutions stay on record",
+        "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three conditions, in the order they resolve. First, tonight's CPI at 7 PM IST: no year-on-year rates in the report, Wells Fargo's December-hike call riding on the core month-on-month line - the print lands into a shut Indian market, so Wednesday's reopen takes the whole reaction at once, with the PSU bank jump and the FII streak as the springboard or the trapdoor. Second, the freeze that is not a peace: Trump has declared the Iran war militarily over while Iran's conditions sit rejected in Washington - oil has priced the declaration; a signed text, a scheduled strait reopening, or a resumed strike reprices it either way. Third, the Nvidia committee: three tracks now - the board's counsel, the Megaspeed export investigation, Beijing's denial - with the 17 November print approaching and Monday's 4.2% fall saying the market is pricing the man, not the chips. This desk does not predict the answers; it watches these conditions."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "<strong>The Gulf's off-ramp, at the declaration stage.</strong> Cause chain: eight months of war; a midterm sweep the president blames partly on it; oil's steepest weekly fall since the pandemic; Iran's conditions routed through Qatar; the Qatari prime minister at the White House; Trump's \"militarily is effectively over\" on Monday - with the same conditions rejected as outrageous. Watch next: a formal written reply through Doha; any scheduling of the strait's reopening; whether the freeze holds through the CPI week. Proven wrong if: strikes resume at scale while the channel is live."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The Nvidia inquiry.</strong> Cause chain: years of chip-export controls; NYT reporting that a Chinese intelligence asset operated inside the CEO's personal circle; a board investigation with outside counsel; the Megaspeed export probe running in parallel; Beijing's denial; a 4.2% fall to an April low; the 17 November print. Watch next: the committee's mandate wording, any congressional hearing date, and whether customers or suppliers change behaviour around the cloud-partner layer. Proven wrong if: the committee completes with a clean finding, no governance change, and the export regime untouched."
+     },
+     {
+      "t": "p",
+      "html": "<strong>The fifteenth print, confirmed.</strong> Cause chain: foreigners sold Indian equities most of 2026, then bought fourteen sessions; the Muhurat hour's Rs 0.25-crore sale technically ended the run; Monday's full session printed plus Rs 7,212 crore against DII selling of Rs 7,173 crore, at a nine-month Nifty high, into a holiday. Watch next: Wednesday's flows after tonight's CPI, and whether the domestic selling persists at new highs. Proven wrong if: the foreign number flips durably negative with the indices still near the highs."
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Tue 10 Nov (today)",
+        "detail": "Exchanges closed for Diwali Balipratipada. US October CPI at 8:30 AM ET (7 PM IST) - month-on-month only, no year-on-year rates. CoreWeave reports Q3 at 5 PM ET - the first neocloud print since the correction (company IR). Israel's new Knesset holds its inaugural session (Anadolu). MRF and Cochin Shipyard boards meet on results and dividends."
+       },
+       {
+        "n": "2",
+        "title": "Wed 11 Nov",
+        "detail": "Reopen prices the CPI at once. Infosys's Rs 26 interim dividend pays out. Results: Tata Power, Hindustan Copper, Triveni Turbine, Mishra Dhatu Nigam; MRF's and Cochin Shipyard's prints from today's board meetings."
+       },
+       {
+        "n": "3",
+        "title": "Thu 12 Nov",
+        "detail": "India's October inflation print due this week - an FE poll sees 6.1%, a twenty-four-month high. Results wave: HAL, Vodafone Idea, IRCTC, Ola Electric, NMDC, Bharat Dynamics, Alkem, Hitachi Energy, Amber Enterprises; dividends at Oil India, Page Industries, Manappuram."
+       },
+       {
+        "n": "4",
+        "title": "Fri 13 Nov",
+        "detail": "About 200 companies report: Tata Motors PV, Eicher Motors, Grasim, ABB India, RVNL, Zetwerk; Natco Pharma's dividend call. Saturday: Ashok Leyland, Brainbees (FirstCry)."
+       },
+       {
+        "n": "5",
+        "title": "Watching",
+        "detail": "The written reply to Iran's conditions through Doha and any Hormuz scheduling; CoreWeave's print as the neocloud read-through; the Nvidia committee's mandate and any hearing date, with Nvidia reporting 17 November; SEBI's observations on IL JIN's DRHP; Bosch's postal ballot; Tech Mahindra's bonus record date."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read for this edition: Business Standard’s close report for the Indian session; Business Times (Bloomberg copy) and AP for New York’s finals; Mint (Reuters copy) and The Star (AP copy) on the oil settle; AP, NBC News and Al-Monitor on the Iran channel; Reuters’ explainer for the Nvidia probe, with the underlying reporting belonging to the New York Times, named as such; The Guardian for Beijing’s denial; Hindu BusinessLine on the rupee; CNBC-TV18 and Economic Times on the flows; Kiplinger and Wells Fargo, as carried, on the CPI; Financial Express’s poll on India’s inflation; Anthropic’s own announcement for Fable and Mythos 5.2, with CNBC and TechCrunch framings attributed; BSE’s official bhavcopy behind every Indian price and every computed percentage.",
+       "Corrections discipline: a Guardian figure of $330 billion for Nvidia’s value loss was rejected - Reuters’ $4.5-trillion valuation of 6 November against Monday’s 4.2% fall implies roughly $190 billion; a PTI wire carrying the rupee \"up 5 paise at 93.93\" contradicts Hindu BusinessLine’s verified 93.9050-to-93.9275 close and was dropped; a Hacker News item alleging Google routes personal files to human annotators rests on an unverifiable repository and was dropped; Meta’s Muse Ember model is carried nowhere here for want of a verified owning source. Anything later than about 6:30 AM IST is deliberately not in this edition."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "full": "audio/d36-full.m4a",
+  "quick": "audio/d36-quick.m4a",
+  "segments": [
+   {
+    "key": "segment1",
+    "label": "Opening and the five-minute lead route"
+   },
+   {
+    "key": "segment2",
+    "label": "Front page: the holiday board, and tonight's inflation print"
+   },
+   {
+    "key": "segment3",
+    "label": "Front page: Wall Street's best day, oil's collapse, the Iran freeze, and the Nvidia probe"
+   },
+   {
+    "key": "segment4",
+    "label": "Markets, IPOs, and the top movers"
+   },
+   {
+    "key": "segment5",
+    "label": "Corporate actions, Finance Goldmine, Startup Intelligence"
+   },
+   {
+    "key": "segment6",
+    "label": "AI Race, vibe coding, try this, and dated Brent"
+   },
+   {
+    "key": "segment7",
+    "label": "Term of the day and the setup board"
+   },
+   {
+    "key": "segment8",
+    "label": "Board scoring, the editor's read, and Brewing"
+   },
+   {
+    "key": "segment9",
+    "label": "The week ahead and the notes on this edition"
+   }
+  ],
+  "durations": {
+   "full": 2243.9,
+   "quick": 183.6,
+   "segment1": 221.6,
+   "segment2": 236.2,
+   "segment3": 390.2,
+   "segment4": 230.1,
+   "segment5": 214.4,
+   "segment6": 308.0,
+   "segment7": 239.3,
+   "segment8": 219.8,
+   "segment9": 226.4
+  },
+  "segment1": "audio/d36-segment1.m4a",
+  "segment2": "audio/d36-segment2.m4a",
+  "segment3": "audio/d36-segment3.m4a",
+  "segment4": "audio/d36-segment4.m4a",
+  "segment5": "audio/d36-segment5.m4a",
+  "segment6": "audio/d36-segment6.m4a",
+  "segment7": "audio/d36-segment7.m4a",
+  "segment8": "audio/d36-segment8.m4a",
+  "segment9": "audio/d36-segment9.m4a"
+ }
+}
