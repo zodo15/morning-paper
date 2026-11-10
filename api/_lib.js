@@ -1,4 +1,5 @@
 import crypto from 'node:crypto';
+import { readFileSync } from 'node:fs';
 import { put, list, get, del } from '@vercel/blob';
 import webpush from 'web-push';
 
@@ -51,14 +52,12 @@ export function authed(req) {
   if (!t || h.length !== t.length) return false;
   return crypto.timingSafeEqual(Buffer.from(h), Buffer.from(t));
 }
-var FEED = 'cards/feed.json';
+// Emergency last-good snapshot: never treat storage failure as an empty feed.
 export async function readFeed() {
-  try {
-    var g = await get(FEED, { access: 'private', useCache: false });
-    if (!g) return [];
-    return JSON.parse(await new Response(g.stream).text());
-  } catch (e) { return []; }
+  const cards = JSON.parse(readFileSync(process.cwd() + '/data/cards-feed.json', 'utf8'));
+  if (!Array.isArray(cards) || cards.length === 0 || cards.some(c => !c.id || !c.headline || !c.publishedAt)) throw new Error('Cards snapshot unavailable or invalid');
+  return cards;
 }
 export async function writeFeed(cards) {
-  await put(FEED, JSON.stringify(cards), { access: 'private', addRandomSuffix: false, allowOverwrite: true, contentType: 'application/json' });
+  throw new Error('Cards publishing paused pending durable storage migration');
 }

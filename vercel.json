@@ -1,5 +1,13 @@
 {
   "rewrites": [
-    { "source": "/audio/:path*", "destination": "https://zodo15.github.io/morning-paper/audio/:path*" }
-  ]
+    {
+      "source": "/audio/:path*",
+      "destination": "https://zodo15.github.io/morning-paper/audio/:path*"
+    }
+  ],
+  "functions": {
+    "api/*.js": {
+      "includeFiles": "data/cards-feed.json"
+    }
+  }
 }

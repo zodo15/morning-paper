@@ -961,7 +961,8 @@
   function loadCards(cb) {
     var cached = cardsCache(); if (cached && CARDS.list === null) CARDS.list = cached;
     fetch('api/cards', { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); }).then(function (j) {
-      CARDS.list = j.cards || []; try { localStorage.setItem('mp-cards', JSON.stringify(CARDS.list)); } catch (e) {}
+      if (!Array.isArray(j.cards) || !j.cards.length) throw new Error("Cards unavailable");
+      CARDS.list = j.cards; try { localStorage.setItem('mp-cards', JSON.stringify(CARDS.list)); } catch (e) {}
       cb(true);
     }).catch(function () { if (CARDS.list === null) CARDS.list = []; cb(false); });
   }
