@@ -5956,12 +5956,6 @@
      }
     ]
    }
-  ],
-  "audio": {
-   "full": "audio/lr36-full.m4a",
-   "durations": {
-    "full": 829.7
-   }
-  }
+  ]
  }
 }
