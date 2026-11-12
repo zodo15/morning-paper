@@ -72,7 +72,7 @@
   }
  ],
  "resolved_today": [],
- "ledger_note": "HCLTech (resolved 28 Oct fill 1,378.00, target 1,466.80 taken at 1,468.00; gross +6.44%, net +6.14% after 0.3% cost) stays in the ledger. HCLTECH closed today: check bhavcopy if the build leg wants the reference price.",
+ "ledger_note": "HCLTech (resolved: 28 Oct fill 1,378.00, target 1,466.80 taken at 1,468.00; gross +6.44%, net +6.14% after 0.3% cost) stays in the ledger; it closed Thursday at Rs 1,378.00 - exactly its old worst-fill entry.",
  "new_setups_clearing_screen": [],
  "shelved": [
   "Voltas stays rejected",
