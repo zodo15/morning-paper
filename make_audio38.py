@@ -116,6 +116,9 @@ def respell(t):
     # ranges number-number -> number to number
     def rng(m):
         return speak_number(m.group(1)) + ' to ' + speak_number(m.group(2))
+    def rngpct(m):
+        return speak_number(m.group(1)) + ' to ' + speak_number(m.group(2)) + ' percent'
+    t = re.sub(r"(?<![A-Za-z])(\d[\d,]*(?:\.\d+)?)-(\d[\d,]*(?:\.\d+)?)%", rngpct, t)
     t = re.sub(r"(?<![A-Za-z])(\d[\d,]*(?:\.\d+)?)-(\d[\d,]*(?:\.\d+)?)(?![A-Za-z])", rng, t)
     # 'a Rs 3 dividend' -> 'a 3-rupee dividend'
     t = re.sub(r"\bRs\.?\s*([0-9][0-9,]*) dividend", r"\1-rupee dividend", t)
