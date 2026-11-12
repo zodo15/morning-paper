@@ -7,8 +7,13 @@ Compiled 4:15-4:35 AM IST. Every figure verified against the source shown. Setup
 - The why (attribute, never assert): Washington Post and WSJ reported the resignation followed board scrutiny after reports of two extramarital affairs - one with a woman suspected of being a Chinese spy, another with a senior Nvidia executive; AFP described a "board revolt amid a probe." Nvidia's own release gives no reason.
   https://www.washingtonpost.com/technology/2026/11/12/nvidia-board-weighs-jensen-huangs-future-after-affair-with-allege-chinese-spy/
   https://www.afp.com/en/asian-stocks-drop-traders-keep-eye-nvidia-crisis
-- Market reaction: NVDA closed -4.3% Thursday after being down nearly 12% intraday; retail bought ~$111M in the first 30 minutes, biggest opening bid on record (Vanda Analytics, via Reuters/Business Times). Broadcom, AMD, Alphabet rose - among the biggest boosts to the S&P. AI-linked names fell: Nebius -16.8% (post-earnings, biggest daily drop since Jul 1), CoreWeave -6.9%, IREN -6.5%, Applied Digital -5.4%. SOX -0.5% after +17.2% over the prior four sessions.
+- Market reaction: NVDA closed $166.19, -$7.54, -4.34% (VERIFIED on Yahoo Finance historical, 4:00:01 PM EST close; after-hours $166.98 +0.48%). Intraday low: wires disagree - Reuters/Business Times says "nearly 12%", ET's version of the wire says "as much as 14%" - use "double-digit intraday loss" or drop the exact low. Retail bought a net $111M in the first 30 minutes, biggest opening bid on record, per Vanda Analytics data carried by the Reuters wire (ET + SquawkNews both carry it).
   https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-equities-close-lower-nvidia-drop-outweighs-energy-gains
+  https://m.economictimes.com/markets/us-stocks/news/us-stocks-retail-buyers-limit-nvidia-stock-rout/amp_articleshow/135782108.cms
+  Broadcom, AMD, Alphabet rose - among the biggest boosts to the S&P. AI-linked names fell: Nebius -16.8% (post-earnings, biggest daily drop since Jul 1), CoreWeave -6.9%, IREN -6.5%, Applied Digital -5.4%. SOX -0.5% after +17.2% over the prior four sessions.
+
+## MAIN'S STEER ON THE HUANG STORY (4:18 AM, binding for the build)
+Nvidia's own release gives NO reason for the resignation. The paper's lead framing stays "Nvidia has given no reason." Leave out the affair/spy allegations entirely unless the original WaPo and WSJ pieces have been read in full and stand on their own reporting; even then, ONE attributed line maximum, no detail. When in doubt, drop it.
 
 ## US close (Thursday 12 Nov, Reuters end-of-day via Business Times)
 - Dow 52,297.09 (-189.40, -0.36%); S&P 500 7,592.40 (-26.98, -0.35%); Nasdaq 25,366.09 (-100.10, -0.39%). S&P erased a ~1% opening drop before fading.
