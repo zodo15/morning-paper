@@ -323,5 +323,69 @@
       }
     ]
   },
-  "audio": {}
+  "audio": {
+    "quick": "audio/d40-quick.m4a",
+    "durations": {
+      "full": 2020.2,
+      "quick": 94.5,
+      "segment1": 259.6,
+      "segment2": 157.6,
+      "segment3": 202.2,
+      "segment4": 306.8,
+      "segment5": 257.1,
+      "segment6": 289.5,
+      "segment7": 155.6,
+      "segment8": 217.7,
+      "segment9": 174.6
+    },
+    "segments": [
+      {
+        "key": "segment1",
+        "label": "Opening and the five-minute lead route"
+      },
+      {
+        "key": "segment2",
+        "label": "Front page: the breath, the shortlist, and the print"
+      },
+      {
+        "key": "segment3",
+        "label": "Front page: the exchange, the ledger, and the debut"
+      },
+      {
+        "key": "segment4",
+        "label": "Markets, IPOs, and the top movers"
+      },
+      {
+        "key": "segment5",
+        "label": "Corporate actions, Finance Goldmine, Startup Intelligence"
+      },
+      {
+        "key": "segment6",
+        "label": "AI Race, vibe coding, try this, and veto power"
+      },
+      {
+        "key": "segment7",
+        "label": "Term of the day and the setup board"
+      },
+      {
+        "key": "segment8",
+        "label": "Board scoring, the editor's read, and Brewing"
+      },
+      {
+        "key": "segment9",
+        "label": "The week ahead and the notes on this edition"
+      }
+    ],
+    "segment1": "audio/d40-segment1.m4a",
+    "segment2": "audio/d40-segment2.m4a",
+    "segment3": "audio/d40-segment3.m4a",
+    "segment4": "audio/d40-segment4.m4a",
+    "segment5": "audio/d40-segment5.m4a",
+    "segment6": "audio/d40-segment6.m4a",
+    "segment7": "audio/d40-segment7.m4a",
+    "segment8": "audio/d40-segment8.m4a",
+    "segment9": "audio/d40-segment9.m4a",
+    "full": "audio/d40-full.m4a"
+  },
+  "times": null
 }
