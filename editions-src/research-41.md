@@ -79,3 +79,10 @@ Google Antigravity /teamwork + Deep Review — free: 2 Deep Review calls/week, 1
 - Apple "HomeView $299" (icreat digest) — no owning source found; out.
 - Cloudflare Kitesurf browser (icreat digest) — not verified to owning blog; out unless build-leg fetch confirms.
 - TechCrunch Huang testifies before Thanksgiving — secondary, not owning; optional one-liner attributed to TechCrunch if used.
+
+## 11. SpaceX Starship Flight 15 (05:00 lead from main/Cards, verified)
+- UPPER-STAGE (Ship) catch from orbit Saturday Nov 14 (US time) - first ever; booster catch FAILED - keep the two strictly distinct; NOT a double catch.
+- Sequence (SpaceNews + SpaceX webcast via AP): liftoff late Friday Nov 13 ET, Starbase; booster engines stopped firing too soon on descent (SpaceX's Kate Tice on webcast); guidance sensed off-position and AUTO-INITIATED Gulf of Mexico divert + self-destruct (exploded before splashdown); cause under investigation. AP lede's "exploding shortly after liftoff" is loose - use the Tice/SpaceNews sequence.
+- Ship deployed 26 Starlink v3 satellites, spent ~22h aloft, 14 laps at ~265km (previous mission: 1-2 laps), then caught by Mechazilla chopsticks at Starbase. SpaceX: everything incl heat shield appeared to work. Musk posted X video inspecting the craft after capture. SpaceX officials: demonstrates full reusability; company already had 3 booster catches.
+- Context: 15th full-scale Starship flight, only 2nd to orbit; NASA Artemis stakes (Artemis III docking with Starship + Blue Moon; KSC Starship launches within months). Hawaii DOT paused some West Coast flights Friday for debris risk - SEPARATE from Friday's FAA telecom ground stop (unrelated, do not conflate).
+- Owning spacex.com completion statement not recovered; attribute to SpaceX webcast/officials as quoted. Confirmed by: AP via NPR https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history ; CNBC (Reuters photo) https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html ; SpaceNews https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/ ; Xinhua Nov 15.
