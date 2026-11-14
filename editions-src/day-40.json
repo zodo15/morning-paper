@@ -1,0 +1,319 @@
+{
+ "day": 40,
+ "meta": {
+  "date": "Saturday 14 November 2026",
+  "short": "Sat 14 Nov",
+  "longread": 40
+ },
+ "edition": {
+  "title": "Slow Burn - Saturday 14 November 2026",
+  "fact": "Edition 40. The breath and the shortlist. Saturday 14 November 2026, edition 40. This edition runs 3,825 words. Mumbai's three-day rally broke in the first session priced with 6.09% inflation and a $95 barrel: Sensex 81,592.45, down 318.56 points, Nifty 25,144.30, down 155.05 - with foreigners still buying a provisional Rs 5,736.55 crore on the way down. New York closed mixed and Nvidia fell 2% into a sixth straight losing week. Overnight the succession story gained a name: the FT reports the board has approached Arm's Rene Haas. America's producer prices ran 6.5% on the year; Anthropic's own filing set terms for a reported Thursday debut; OpenAI gave ChatGPT a wallet. The long read is Arm - the architecture everybody rents, and the company Nvidia could not buy.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a Cambridge acorn, twelve designers in a three-way joint venture, a licensing bet born of the Newton's failure, a 24-billion-pound take-private, a 40-billion-dollar takeover the regulators killed - and the phone call that came on Friday from the company that tried to buy it.",
+  "concept": null,
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Today's long read: The architecture everybody rents - how twelve designers spun out of Acorn built the chip architecture inside 350 billion chips, why Nvidia's $40 billion bid to own it died in 2022, and whose phone rang on Friday. <a href=\"https://files.instinct.com/mogmte6q2hl1-the-architecture-everybody-rents\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+     },
+     {
+      "t": "p",
+      "html": "The breath: Mumbai's three-day rally broke in the first session priced with 6.09% inflation and a $95 barrel - Sensex 81,592.45, down 318.56 points (0.39%), Nifty 25,144.30, down 155.05 (0.61%). Foreigners still bought a provisional Rs 5,736.55 crore on the way down."
+     },
+     {
+      "t": "p",
+      "html": "The shortlist: the Financial Times reports Nvidia's board has approached Arm chief executive Rene Haas about succeeding Jensen Huang - one of several candidates, no guarantee; Arm declined comment and Reuters could not independently verify. Interim chief Colette Kress presents earnings on Tuesday."
+     },
+     {
+      "t": "p",
+      "html": "The print: America's October producer prices rose 6.5% on the year, the fastest since November 2022, with goods up 10.2%; the ten-year Treasury yield ended its worst week since April 2025 at 5.152%, and a December rate hike is fully priced."
+     },
+     {
+      "t": "p",
+      "html": "The exchange: final terms of a large Russia-Ukraine prisoner exchange are agreed - thousands of detainees - but the swap is not yet implemented; Europe joins the next round of talks while Putin's territory demand stands."
+     },
+     {
+      "t": "p",
+      "html": "The ledger: Tata Motors PV posted its steepest loss in 22 quarters, Rs 5,531 crore against a demerger-boosted profit a year ago; Eicher rose 14.8%; Zetwerk's loss narrowed to Rs 88 crore from Rs 733 crore a quarter earlier; Natco declared a Rs 1.25 dividend."
+     },
+     {
+      "t": "p",
+      "html": "The debut: Anthropic's own filing sets terms - 825 million shares at $70 to $78, Nasdaq symbol ANT. Plans to price Wednesday and trade Thursday are reported by Reuters and Bloomberg, attributed as reported plans; OpenAI gave ChatGPT a wallet."
+     },
+     {
+      "t": "p",
+      "html": "The long read: Arm - the architecture everybody rents."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The breath. Mumbai's Friday finals: Sensex 81,592.45, down 318.56 points (0.39%); Nifty 25,144.30, down 155.05 (0.61%) - the first red close of the week, in the first session trading with Thursday's two after-hours numbers in the price: October inflation at 6.09% and Brent at $95.82. Desks named the same four drivers all day - rate-hike arithmetic, firm crude, a global tech wobble and profit-taking after three straight gains (<a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-13-november-2026/article71693403.ece\" target=\"_blank\" rel=\"noopener\">HBL</a>; <a href=\"https://www.financialexpress.com/market/fiis-pour-in-rs-5736-crore-but-nifty-slips-what-is-keeping-investors-cautious-4383868/\" target=\"_blank\" rel=\"noopener\">FE</a>). The notable print was underneath the index: foreigners bought a provisional Rs 5,736.55 crore even so (<a href=\"https://www.financialexpress.com/market/fiis-pour-in-rs-5736-crore-but-nifty-slips-what-is-keeping-investors-cautious-4383868/\" target=\"_blank\" rel=\"noopener\">NSDL figures via FE</a>)."
+     },
+     {
+      "t": "p",
+      "html": "The shortlist. The succession story gained a name overnight: the Financial Times reports that Nvidia's board has approached Rene Haas - Arm's chief executive since 2022 and a seven-year Nvidia veteran before that - about the top job. The FT's own framing is careful: Haas is one of several candidates, with no guarantee he is offered or accepts; Arm declined to comment, Nvidia did not immediately respond, and Reuters could not independently verify the approach (<a href=\"https://www.channelnewsasia.com/business/nvidia-approached-arm-ceo-haas-succeed-huang-ft-reports-6550286\" target=\"_blank\" rel=\"noopener\">Reuters via CNA</a>). The company's own record stands unchanged: no reason given for the resignation, Kress interim, the search internal and external (<a href=\"https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx\" target=\"_blank\" rel=\"noopener\">Nvidia's release</a>). The stock closed Friday at $162.85, down 2.01%, a sixth straight weekly decline (<a href=\"https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-end-lower-as-nvidia-uncertainty-weighs-on-tech-shares\" target=\"_blank\" rel=\"noopener\">Reuters</a>)."
+     },
+     {
+      "t": "p",
+      "html": "The print. America's October producer prices rose 0.3% on the month and 6.5% on the year - the fastest annual pace since November 2022 - with goods alone up 10.2% year-on-year; Chicago Fed president Goolsbee said too many readings are going the wrong way, and not just oil or tariffs (<a href=\"https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Fed funds futures fully price a quarter-point December hike with slight odds on a half. The ten-year Treasury yield settled at 5.152%, up 29.4 basis points on the week - its largest one-week rise since April 2025 (<a href=\"https://www.morningstar.com/news/dow-jones/202611139683/10-year-treasury-yield-rises-to-5152-this-week-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones data</a>)."
+     },
+     {
+      "t": "p",
+      "html": "The exchange. Final terms of a large prisoner exchange between Russia and Ukraine are agreed, per Jared Kushner speaking in Dublin - thousands of detainees, in his words, brought back to their families - but the exchange itself is not yet implemented and no date is set (<a href=\"https://en.interfax.com.ua/news/general/1235881.html\" target=\"_blank\" rel=\"noopener\">Interfax-Ukraine</a>). Zelenskyy spoke of more than a thousand from each side and said Europe will join the next round of talks; Moscow says the exchange is not linked to a wider settlement, and Putin's demand that Ukrainian forces leave Donetsk is unchanged (<a href=\"https://www.bbc.com/news/articles/ckn80j9jv3jxo\" target=\"_blank\" rel=\"noopener\">BBC</a>). Terms agreed, implementation open - hold that distinction."
+     },
+     {
+      "t": "p",
+      "html": "The ledger. Friday's results wave, on the companies' own numbers: Tata Motors PV swung to a consolidated net loss of Rs 5,531 crore - its steepest in 22 quarters - against a year-ago profit of Rs 76,170 crore that held an Rs 82,616 crore one-time demerger gain; revenue rose 34% to Rs 96,920 crore with JLR still recovering from the cyberattack and carrying restructuring costs (<a href=\"https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-pv-swings-to-unexpected-loss/articleshow/135812907.cms\" target=\"_blank\" rel=\"noopener\">ET</a>). Eicher Motors' profit rose 14.8% to Rs 1,573.37 crore on revenue up 20.2% (<a href=\"https://eicher.in/content/dam/eicher-motors/investor/financial-and-reports/quarterly-results/press-release-november-13-2026.pdf\" target=\"_blank\" rel=\"noopener\">company release</a>); Grasim's profit came in at Rs 2,306 crore against Rs 805 crore a year ago on revenue up 32.6% (<a href=\"https://www.grasim.com/media/press-releases/grasim-results-q2fy-2026-27\" target=\"_blank\" rel=\"noopener\">company release</a>). Zetwerk's net loss narrowed to Rs 88 crore from Rs 733 crore in the June quarter - the company's own framing, on revenue up 18% (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/663c2ed8-8a67-45a9-b158-63d05c419562.pdf\" target=\"_blank\" rel=\"noopener\">BSE filing</a>). Natco's profit fell 61% to Rs 203 crore, and the board declared a Rs 1.25 second interim dividend, record date 19 November (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb4c9b49-4b40-4018-9e98-063b9bd7cbfb.pdf\" target=\"_blank\" rel=\"noopener\">the board filing</a>)."
+     },
+     {
+      "t": "p",
+      "html": "The debut. Anthropic's amended filing sets the terms the issuer owns: 825 million Class A shares at an expected $70 to $78, application to list on the Nasdaq as ANT, a controlled-company structure, and - deep in the risk factors - roughly $451.6 billion of compute commitments expected before end-2030 (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the S-1/A</a>; <a href=\"https://www.anthropic.com/news/roadshow-launch\" target=\"_blank\" rel=\"noopener\">the company's note</a>). The calendar is not the issuer's: Reuters and Bloomberg report plans to price on 18 November and begin trading on 19 November, carried here as reported plans, not commitments (<a href=\"https://www.theverge.com/ai-artificial-intelligence/1031894/anthropic-confirms-its-planning-for-its-shares-to-start-publicly-trading-on-november-19th\" target=\"_blank\" rel=\"noopener\">The Verge</a>). Across town, OpenAI introduced ChatGPT Wallet - tokenized cards the agent never sees, biometric approval per purchase, agentic payments on the user's behalf, Pro subscribers in the US first (<a href=\"https://openai.com/index/introducing-chatgpt-wallet/\" target=\"_blank\" rel=\"noopener\">OpenAI's announcement</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Mumbai's Friday finals: Sensex 81,592.45, down 318.56 points (0.39%); Nifty 25,144.30, down 155.05 (0.61%) - the three-day rally done. The flows underneath: foreigners bought a provisional Rs 5,736.55 crore while domestic institutions sold Rs 2,253.58 crore, a net institutional inflow of Rs 3,482.97 crore into a falling tape (<a href=\"https://www.financialexpress.com/market/fiis-pour-in-rs-5736-crore-but-nifty-slips-what-is-keeping-investors-cautious-4383868/\" target=\"_blank\" rel=\"noopener\">FE</a>). New York closed mixed: Dow 52,347.55, up 0.10%; S&P 500 7,561.67, down 0.40%; Nasdaq 25,136.27, down 0.91% - Nvidia's slide weighing on tech (<a href=\"https://www.straitstimes.com/business/companies-markets/sp-500-nasdaq-end-lower-as-nvidia-uncertainty-weighs-on-tech-shares\" target=\"_blank\" rel=\"noopener\">Reuters</a>). Nvidia ended at $162.85, down 2.01%, a sixth consecutive weekly loss; HSBC cut the stock to Hold from Buy on the chief-executive uncertainty (<a href=\"https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-nvidia-slides-after-hsbc-downgrades-stock-to-hold-on-ceo-uncertainty/\" target=\"_blank\" rel=\"noopener\">the downgrade note</a>). Brent settled at $95.84, two cents firmer on the day but down 2.52% on the week (<a href=\"https://www.morningstar.com/news/dow-jones/202611139432/front-month-ice-brent-crude-fell-252-this-week-to-settle-at-9584-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones data</a>); gold settled at $3,879.70, down 4.55% on the week (<a href=\"https://www.morningstar.com/news/dow-jones/202611139071/comex-gold-ends-the-week-455-lower-at-387970-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones data</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The week's listing story is Anthropic's, and the discipline is in separating what the issuer owns from what reporters expect. The issuer owns the terms: 825 million Class A shares - 801.4 million primary, the rest selling stockholders whose proceeds Anthropic never touches - at an expected $70 to $78, with an application to list on the Nasdaq Global Select Market as ANT and a further 123.75 million shares on the underwriters' option (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the S-1/A, filed 10 November</a>). The reporters own the calendar: pricing 18 November, first trading 19 November, per Reuters and Bloomberg - reported plans, attributed as such (<a href=\"https://www.theverge.com/ai-artificial-intelligence/1031894/anthropic-confirms-its-planning-for-its-shares-to-start-publicly-trading-on-november-19th\" target=\"_blank\" rel=\"noopener\">The Verge</a>). Nearer home, Zetwerk delivered its first quarterly report as a listed company, three weeks after listing: revenue up 18% year-on-year to Rs 4,599 crore and a net loss narrowed to Rs 88 crore from Rs 733 crore in the June quarter, in the company's own telling (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/663c2ed8-8a67-45a9-b158-63d05c419562.pdf\" target=\"_blank\" rel=\"noopener\">the BSE filing</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers - Friday's board",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The session that priced the print, percentages computed from BSE's official closes against Thursday:"
+     },
+     {
+      "t": "chart",
+      "svg": "BARCHART_MOVERS"
+     },
+     {
+      "t": "p",
+      "html": "Closes: Hindustan Unilever Rs 1,985.00, Bajaj Finance Rs 1,115.20, ONGC Rs 225.30, Eternal Rs 364.50; on the other side Bharat Electronics Rs 401, Bajaj Finserv Rs 1,860, TCS Rs 2,410, Maruti Suzuki Rs 12,878, State Bank of India Rs 1,080.50, ICICI Bank Rs 1,584. The results board ran its own race beside them: Eicher Motors Rs 7,674.65 (+1.84%) and ABB India Rs 7,045 (+1.37%) rose on their numbers, while Tata Motors PV Rs 287 (-3.37%), Grasim Rs 3,020 (-3.21%) and Rail Vikas Nigam Rs 199.45 (-2.90%) paid for theirs. Read the index's red against the foreigners' green - the selling was not foreign."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The wave's detail, on the filings: Tata Motors PV's Rs 5,531-crore loss is the steepest in 22 quarters, but the comparison line matters - the year-ago quarter's Rs 76,170-crore profit included an Rs 82,616-crore one-time gain from the demerger; revenue of Rs 96,920 crore rose 34%, and JLR is still working through the cyberattack's aftermath plus restructuring costs (<a href=\"https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-motors-pv-swings-to-unexpected-loss/articleshow/135812907.cms\" target=\"_blank\" rel=\"noopener\">ET</a>; <a href=\"https://www.moneycontrol.com/news/business/earnings/q2-results-2026-live-updates-grasim-eicher-motors-tata-motors-pv-manipal-health-rvnl-iti-godrej-industries-q2-earnings-nov-13-liveblog-14079138.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>). Eicher: profit Rs 1,573.37 crore, up 14.8%, EBITDA margin 23.7%, down 80 basis points (<a href=\"https://eicher.in/content/dam/eicher-motors/investor/financial-and-reports/quarterly-results/press-release-november-13-2026.pdf\" target=\"_blank\" rel=\"noopener\">company release</a>). Zetwerk: adjusted pre-tax profit positive at Rs 28 crore against a Rs 12-crore loss in the June quarter; the net loss narrowed 88% quarter-on-quarter (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/663c2ed8-8a67-45a9-b158-63d05c419562.pdf\" target=\"_blank\" rel=\"noopener\">company release via BSE</a>). Natco: profit down 61% to Rs 203 crore on revenue down 29% (<a href=\"https://www.cnbctv18.com/market/natco-pharma-q2-results-net-profit-revenue-decline-from-last-year-dividend-record-date-share-price-20033485.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>), with a Rs 1.25 second interim dividend - 62.5% of the Rs 2 face value - record date Thursday 19 November, payment from 27 November (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb4c9b49-4b40-4018-9e98-063b9bd7cbfb.pdf\" target=\"_blank\" rel=\"noopener\">the board filing</a>). Today's watch: Ashok Leyland, Patanjali Foods, Brainbees (FirstCry), PTC Industries, Kaynes Technology and Sammaan Capital report (<a href=\"https://upstox.com/news/market-news/earnings/q2-results-nov-14-ashok-leyland-patanjali-foods-brainbees-solutions-hero-motors-ptc-industries-kaynes-tech-sammaan-capital-others-to-post-earnings/article-203438/\" target=\"_blank\" rel=\"noopener\">the calendar</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The bid that outlived the rally. Read Friday's two provisional prints against each other, because they describe one trade: foreigners bought Rs 5,736.55 crore while domestic institutions sold Rs 2,253.58 crore - a net institutional inflow of Rs 3,482.97 crore into a session the index lost (<a href=\"https://www.financialexpress.com/market/fiis-pour-in-rs-5736-crore-but-nifty-slips-what-is-keeping-investors-cautious-4383868/\" target=\"_blank\" rel=\"noopener\">NSDL and BSE figures via FE</a>). One thesis the wires carried all week explains the foreign bid: global funds rotating out of the crowded AI trade and into markets like India and Korea, in the telling of the Motilal Oswal wealth CIO quoted by the wires - a thesis, attributed as one, and the provisional numbers are consistent with it. What is arithmetic, not thesis: the foreign bid has now absorbed three straight weeks of domestic selling, and on Friday it absorbed a rate-shock session too. The hand to watch is the domestic one - if the locals stop selling, the same foreign bid meets a thinner offer."
+     }
+    ]
+   },
+   {
+    "heading": "Startup Intelligence",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "A thin week for the ledger. Indian startups disclosed about $91.3 million across 13 rounds in the week to 13 November, down 81% from the prior week's $487 million; the week's largest was PlatinumRx's $32 million, with Sofina set to lead (<a href=\"https://stopdown.in/funding/this-week\" target=\"_blank\" rel=\"noopener\">the weekly table</a>). Around the table: Greenjoules, which turns agricultural waste into biocrude, raised a Rs 150-crore Series B; OnEMI, the lender behind Kissht, took a Rs 832-crore preferential allotment from 34 investors; and Bengaluru hospital chain Superhealth is rebuilding a Rs 100-crore round after Ronnie Screwvala dropped out, with US-based TechU Ventures stepping in for Rs 50 crore (<a href=\"https://www.moneycontrol.com/news/business/funding/superhealth-s-rs-100-crore-fundraise-sees-ronnie-screwvala-drop-out-techu-ventures-step-in-14078952.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>). The idea worth stealing this week is not a company but a question - see today's concept: Rob Snyder's veto power, the category of reasons it is fine if the customer does not buy (<a href=\"https://thephysicsofstartups.substack.com/p/they-should-buy-and-dont\" target=\"_blank\" rel=\"noopener\">the essay</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "ChatGPT gets a wallet, and the agents get a checkout. OpenAI's own announcement: ChatGPT Wallet stores payment methods with the card number tokenized by the card networks - the agent never sees the details - every purchase needs the user's biometric approval, card rewards and dispute protections survive, and Pro subscribers in the US get it first; delegated spending with limits and categories is the stated direction (<a href=\"https://openai.com/index/introducing-chatgpt-wallet/\" target=\"_blank\" rel=\"noopener\">OpenAI's announcement</a>). OpenAI also claims 1.2 billion weekly users - the company's own number. Meanwhile Anthropic's filing puts a figure on what the race costs the runners: roughly $451.6 billion of compute and infrastructure commitments expected before the end of 2030, about $70.7 billion of it due in the twelve months after September 2026 (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the S-1/A</a>). One sells the agent a wallet; the other sells the market shares in the bill. The race's two business models, filed one day apart."
+     }
+    ]
+   },
+   {
+    "heading": "Vibe coding",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The research agent that never sleeps. Product writer Aakash Gupta's account this week follows Greg Greiner - formerly chief product officer at Bolt and head of product for Uber for Business, now running Woven - who built a customer-research agent in Claude Code that interviews users on its own schedule and tags what it hears (<a href=\"https://news.aakashg.com/p/ai-customer-research\" target=\"_blank\" rel=\"noopener\">the piece</a>). Where a founder's month once held seven or eight customer calls, the agent talks to every funnel dropout. One number in the piece - emailing customers who left lifted conversion 37% - is the builder's own measurement, carried here with that label, not an independent result. The transferable shape is the pipeline, not the metric: a standing interview program that costs nothing per extra conversation, pointed at the users who already said no."
+     }
+    ]
+   },
+   {
+    "heading": "Try this today (Saturday)",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three reads, in order. First, the primary source behind the succession: Nvidia's own transition release - one page, the whole of the official record, and the baseline every new report should be checked against (<a href=\"https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx\" target=\"_blank\" rel=\"noopener\">the release</a>). Second, Zetwerk's first shareholder letter as a listed company - the actual BSE filing behind today's narrowed-loss line, five minutes of a company explaining itself in its own arithmetic (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/663c2ed8-8a67-45a9-b158-63d05c419562.pdf\" target=\"_blank\" rel=\"noopener\">the filing</a>). Third, Rob Snyder's short essay on why customers should buy and don't - the piece behind today's concept, and the cleanest thinking on vetoes you will read this week (<a href=\"https://thephysicsofstartups.substack.com/p/they-should-buy-and-dont\" target=\"_blank\" rel=\"noopener\">the essay</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: veto power",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Why do customers who should buy, not buy? Rob Snyder's answer, in this week's essay: every deal carries two lists - the reasons they should buy, and the reasons it is acceptable to them if they don't. The first list is additive; stack enough shoulds and the deal looks compelling. The second list is absolute: a single surviving reason not to buy vetoes the whole first list, no matter how long it grows. His name for the second list's power is veto power, and his framework - PULL - starts from the customer's acceptable alternatives rather than the seller's pitch. The generalization is worth keeping beyond startups. Any decision with a survivable alternative has a veto list: the hire who stays put, the vendor who renews, the reader who closes the tab. Work on the shoulds and you lengthen the argument; work on the vetoes and you shorten the other list. A plan whose success needs every should to land is weaker than one that has simply run out of reasons to fail (<a href=\"https://thephysicsofstartups.substack.com/p/they-should-buy-and-dont\" target=\"_blank\" rel=\"noopener\">the essay</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "Term of the day: controlled company",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "A controlled company is one where a single holder keeps more than half the voting power - and under Nasdaq's rules, such a company may skip the usual requirements: a majority-independent board, independent director nominations, an independent compensation committee. Anthropic's filing claims the status: its Long-Term Benefit Trust holds the majority of the voting power, so the public float buys economics, not steering (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the S-1/A</a>). When the shares trade as ANT, that single defined term is the answer to the question every new shareholder should ask first: whose company is this, after I buy it?"
+     }
+    ]
+   },
+   {
+    "heading": "Setup board",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Friday priced the print and the barrel, and nothing on the board resolved: the oldest line spent a fourteenth session above its trigger, and ONGC held above its coil floor for a second session after the ex-dividend adjustment. Every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger:"
+     },
+     {
+      "t": "chart",
+      "svg": "BOARD_TABLE"
+     },
+     {
+      "t": "chart",
+      "svg": "ONGC_RANGE"
+     },
+     {
+      "t": "p",
+      "html": "The resolved line stays in the ledger: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.44%, net +6.14% after the 0.3% cost convention, in seven sessions; the stock closed Friday at Rs 1,376.60, which changes nothing for a line that already paid. Of the open lines: ONGC (Rs 225.30) spent a second session under the 228 breakout line - the break was the Rs 8 ex-dividend adjustment, and Friday's low of 224.90 held well above the 218.50 floor while crude firmed to $95.84; Kotak (Rs 487.60) held its trigger for a fourteenth session; Infosys (Rs 1,140.00) is flat below the zone with the 1,120 floor untouched; JSW Steel (Rs 1,345.20) still fails the risk-reward screen; Hindalco (Rs 944.40, the board's weakest name on Friday) remains a candidate without a verified entry zone. No resolutions, no new setups."
+     }
+    ]
+   },
+   {
+    "heading": "How the board scores",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "No prior-day stop trade",
+        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+       },
+       {
+        "n": "2",
+        "title": "Same-day zone and stop",
+        "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
+       },
+       {
+        "n": "3",
+        "title": "Resolutions stay on record",
+        "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The editor's read",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "Three conditions, in the order they resolve. First, Monday's open: Mumbai re-enters having digested one session of the 6.09% print, with Saturday's results - Ashok Leyland, Patanjali, Brainbees, PTC, Kaynes, Sammaan - landing between now and then, and Brent holding $95.84. Watch whether the foreign bid that bought Friday's dip repeats, and whether domestic selling thins; the rotation story is one thesis, the flows are arithmetic. Second, Tuesday's exam: Nvidia reports its first quarter since the resignation - written CFO commentary at 1:20pm Pacific, the call at 2pm, Kress on the microphone with the search open above her. The numbers will be what they are; what the market prices is whether the chair looks filled. Third, Thursday's debut: Anthropic's reported plan is pricing Wednesday, trading Thursday - reported, not owned - with the filing's own $451.6-billion compute bill as the prospectus's quiet centerpiece. The AI trade gets its second referendum in a week; the first one's result is still being counted."
+     }
+    ]
+   },
+   {
+    "heading": "Brewing",
+    "blocks": [
+     {
+      "t": "p",
+      "html": "The shortlist file. Cause chain: Thursday's one-sentence exit with no reason given (<a href=\"https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/default.aspx\" target=\"_blank\" rel=\"noopener\">Nvidia's release</a>); Friday's FT report that the board approached Arm's Rene Haas - one of several candidates, no guarantee, Arm silent, Reuters unable to verify independently (<a href=\"https://www.channelnewsasia.com/business/nvidia-approached-arm-ceo-haas-succeed-huang-ft-reports-6550286\" target=\"_blank\" rel=\"noopener\">Reuters via CNA</a>); a sixth straight weekly loss and an HSBC downgrade on the uncertainty; Kress holding two jobs into Tuesday's print. Watch next: any second named candidate, Arm's answer if one comes, and Tuesday's call. What closes this file: a named permanent chief executive."
+     },
+     {
+      "t": "p",
+      "html": "The two Decembers. Cause chain: America's October producer prices at 6.5% on the year, goods up 10.2%, Goolsbee warning of readings going the wrong way, a quarter-point December hike fully priced with slight half-point odds (<a href=\"https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>); the ten-year yield at 5.152% after its worst week since April 2025 (<a href=\"https://www.morningstar.com/news/dow-jones/202611139683/10-year-treasury-yield-rises-to-5152-this-week-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones data</a>); India's own print at 6.09% with food at 8.94% and the RBI's December meeting ahead; gold's worst week in a year. Watch next: India's wholesale-price print, the Fed minutes on Wednesday, and how Mumbai's foreign bid holds if the hike lands. What closes this file: both central banks' December decisions, made and priced."
+     },
+     {
+      "t": "p",
+      "html": "The exchange file. Cause chain: two and a half hours with Putin in Moscow; Dublin briefings; Abu Dhabi's framework; now final terms agreed for a large prisoner exchange - thousands, more than a thousand from each side on Zelenskyy's count - with Europe joining the next round (<a href=\"https://en.interfax.com.ua/news/general/1235881.html\" target=\"_blank\" rel=\"noopener\">Interfax-Ukraine</a>; <a href=\"https://www.bbc.com/news/articles/ckn80j9jv3jxo\" target=\"_blank\" rel=\"noopener\">BBC</a>). The distinction that matters: terms agreed, implementation open, and Moscow's territory demand unchanged. Watch next: an implementation date and the first actual swap. What closes this file: the exchange carried out, or the terms abandoned."
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Sat 14 Nov (today)",
+        "detail": "Results Saturday: Ashok Leyland, Patanjali Foods, Brainbees (FirstCry), PTC Industries, Kaynes Technology, Sammaan Capital report. The weekend reads the succession file for any second name."
+       },
+       {
+        "n": "2",
+        "title": "Mon 16 Nov",
+        "detail": "Mumbai's second session with the print and the barrel in the price; the foreign bid's repeat is the tell."
+       },
+       {
+        "n": "3",
+        "title": "Tue 17 Nov",
+        "detail": "Nvidia's third quarter: written CFO commentary about 1:20pm Pacific, call at 2pm - the first print since the resignation, Kress presenting."
+       },
+       {
+        "n": "4",
+        "title": "Wed 18 Nov",
+        "detail": "Fed minutes. Anthropic's reported pricing day - reported plans, not issuer commitments."
+       },
+       {
+        "n": "5",
+        "title": "Thu 19 Nov",
+        "detail": "Anthropic's reported first trading day as ANT on the Nasdaq - reported plans. Natco's dividend record date."
+       },
+       {
+        "n": "6",
+        "title": "Watching",
+        "detail": "India's October wholesale-price print (date unconfirmed); the prisoner exchange's implementation date; Oil India's dividend record date 20 November; any Saudi or American answer to the claimed Houthi strikes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read for this edition: Nvidia's own transition and earnings-call releases and the FT report via Reuters/CNA for the succession; BSE's official bhavcopy for every Indian price; NSDL and BSE flow figures via FE; CNBC for the US producer prices; Dow Jones data for yields, Brent and gold; the companies' own releases and BSE filings for Tata Motors PV, Eicher, Grasim, Zetwerk and Natco; Anthropic's S-1/A on EDGAR and its own note for the offering terms, with trading dates attributed to Reuters and Bloomberg as reported plans; OpenAI's own announcement for ChatGPT Wallet; Rob Snyder's essay for the concept; Arm's own history and releases plus Nvidia's termination release for the long read.",
+       "Framing calls this edition: the FT's succession report is attributed throughout - one of several candidates, unverified independently; the year-ago Tata Motors PV profit carried a one-time demerger gain, so the loss comparison names it; Anthropic's trading dates are reported plans, and no valuation is implied because the share-count basis is not established; the builder's 37% conversion figure is labeled as his own measurement.",
+       "Prices are BSE official closes or the named settlement prints; provisional flow figures are labeled provisional. Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": "The rally took a breath; the bid underneath it did not. See you Monday."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {}
+}
