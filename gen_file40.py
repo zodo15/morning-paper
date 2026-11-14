@@ -140,8 +140,8 @@ for gi, g in enumerate(groups):
                     rows={[
                         { label: 'ONGC', low: 218.50, now: 225.30, high: 238.75, highlight: true },
                     ]}
-                    range={[210, 245]}
-                    scaleLabels={['210', '245']}
+                    range={[218.50, 238.75]}
+                    scaleLabels={['218.50', '238.75']}
                 />''')
         elif t == 'rows':
             out.append('                <Rows>')
