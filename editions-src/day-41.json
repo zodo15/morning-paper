@@ -1,376 +1,389 @@
 {
- "day": 41,
- "meta": {
-  "date": "Sunday 15 November 2026",
-  "short": "Sun 15 Nov",
-  "longread": 41
- },
- "edition": {
-  "fact": "Edition 41. The cause and the catch. Sunday 15 November 2026, edition 41. This edition runs 5,049 words. The cause of Friday's nationwide ground stop has a name: a router installed during L3Harris's copper-to-fiber maintenance flooded the FAA network - installer error or faulty unit undetermined. Hours later SpaceX caught a Starship upper stage returning from orbit, a first, while its booster ditched in the Gulf. Nvidia's board is selecting a search firm; Anthropic prices Wednesday and trades Thursday as ANT - 825 million shares at $70 to $78. SEBI cleared Razorpay, Sembcorp Green Infra and MakeMyTrip India; Coal India's MCL filed its RHP; Ashok Leyland grew profit 12.7%; Paytm can run wallets again. Mumbai's Friday marks stand: Sensex 81,592.45, Nifty 25,144.30. The long read: L3Harris - the network America flies on.",
-  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: two brothers' sheet feeder in 1895 Ohio, a radio maker bought for army maps, a 1997 roll-up named for its founders and a bank, a $1.7 billion contract to run America's air-traffic network - and the Saturday press conference that put the contractor on the evening news.",
-  "groups": [
-   {
-    "heading": "The 5-minute lead route",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Today's long read: The network America flies on - how a printing-press shop founded in 1895 became the contractor running the network beneath 45,000 daily US flights, and what one router did to it on Friday. <a href=\"https://files.instinct.com/5bywoe9rouad-the-network-america-flies-on\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
-     },
-     {
-      "t": "p",
-      "html": " The cause: the Transportation Secretary names it - a contractor crew swapping copper for fiber at a remote FAA site installed a router that flooded the network with more than 1,000 connection attempts every four to five seconds; installer error or faulty unit, still undetermined."
-     },
-     {
-      "t": "p",
-      "html": " The catch: hours later, SpaceX caught a Starship upper stage returning from orbit - the first ever - while its booster, short of fuel, ditched itself in the Gulf. Two engineering stories, one weekend, opposite directions."
-     },
-     {
-      "t": "p",
-      "html": " The search: Nvidia's board is selecting a search firm for the top job and has formally engaged no candidate; Colette Kress presents her first quarter as interim chief on Tuesday."
-     },
-     {
-      "t": "p",
-      "html": " The terms: Anthropic prices its IPO on Wednesday and begins trading Thursday as ANT - 825 million shares at $70 to $78, an order book reported six times covered."
-     },
-     {
-      "t": "p",
-      "html": " The nods: SEBI clears the IPO plans of Razorpay, Sembcorp Green Infra and MakeMyTrip's India arm; Coal India's MCL files its Rs 9,500-crore RHP."
-     },
-     {
-      "t": "p",
-      "html": " The ledger: Ashok Leyland's Saturday print - standalone profit up 12.7% to Rs 869.02 crore, a Re 1 dividend, and an auditors' review-scope disclaimer to read carefully; Paytm gets RBI's in-principle nod to run wallets again."
-     },
-     {
-      "t": "p",
-      "html": " The week: WPI on Monday, Fed minutes and Anthropic's pricing on Wednesday, ANT's debut on Thursday - and Mumbai's first session since the inflation print."
-     }
+  "day": 41,
+  "meta": {
+    "date": "Sunday 15 November 2026",
+    "short": "Sun 15 Nov",
+    "longread": 41
+  },
+  "edition": {
+    "fact": "Edition 41. The cause and the catch. Sunday 15 November 2026, edition 41. This edition runs 5,049 words. The cause of Friday's nationwide ground stop has a name: a router installed during L3Harris's copper-to-fiber maintenance flooded the FAA network - installer error or faulty unit undetermined. Hours later SpaceX caught a Starship upper stage returning from orbit, a first, while its booster ditched in the Gulf. Nvidia's board is selecting a search firm; Anthropic prices Wednesday and trades Thursday as ANT - 825 million shares at $70 to $78. SEBI cleared Razorpay, Sembcorp Green Infra and MakeMyTrip India; Coal India's MCL filed its RHP; Ashok Leyland grew profit 12.7%; Paytm can run wallets again. Mumbai's Friday marks stand: Sensex 81,592.45, Nifty 25,144.30. The long read: L3Harris - the network America flies on.",
+    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: two brothers' sheet feeder in 1895 Ohio, a radio maker bought for army maps, a 1997 roll-up named for its founders and a bank, a $1.7 billion contract to run America's air-traffic network - and the Saturday press conference that put the contractor on the evening news.",
+    "groups": [
+      {
+        "heading": "The 5-minute lead route",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Today's long read: The network America flies on - how a printing-press shop founded in 1895 became the contractor running the network beneath 45,000 daily US flights, and what one router did to it on Friday. <a href=\"https://files.instinct.com/5bywoe9rouad-the-network-america-flies-on\" target=\"_blank\" rel=\"noopener\">Read it here</a>."
+          },
+          {
+            "t": "p",
+            "html": " The cause: the Transportation Secretary names it - a contractor crew swapping copper for fiber at a remote FAA site installed a router that flooded the network with more than 1,000 connection attempts every four to five seconds; installer error or faulty unit, still undetermined."
+          },
+          {
+            "t": "p",
+            "html": " The catch: hours later, SpaceX caught a Starship upper stage returning from orbit - the first ever - while its booster, short of fuel, ditched itself in the Gulf. Two engineering stories, one weekend, opposite directions."
+          },
+          {
+            "t": "p",
+            "html": " The search: Nvidia's board is selecting a search firm for the top job and has formally engaged no candidate; Colette Kress presents her first quarter as interim chief on Tuesday."
+          },
+          {
+            "t": "p",
+            "html": " The terms: Anthropic prices its IPO on Wednesday and begins trading Thursday as ANT - 825 million shares at $70 to $78, an order book reported six times covered."
+          },
+          {
+            "t": "p",
+            "html": " The nods: SEBI clears the IPO plans of Razorpay, Sembcorp Green Infra and MakeMyTrip's India arm; Coal India's MCL files its Rs 9,500-crore RHP."
+          },
+          {
+            "t": "p",
+            "html": " The ledger: Ashok Leyland's Saturday print - standalone profit up 12.7% to Rs 869.02 crore, a Re 1 dividend, and an auditors' review-scope disclaimer to read carefully; Paytm gets RBI's in-principle nod to run wallets again."
+          },
+          {
+            "t": "p",
+            "html": " The week: WPI on Monday, Fed minutes and Anthropic's pricing on Wednesday, ANT's debut on Thursday - and Mumbai's first session since the inflation print."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The cause. America's worst aviation outage in years has a named suspect, and it is a box. Transportation Secretary Sean Duffy, in Saturday's statement: at least one remote FAA location, a contractor crew doing routine maintenance - switching telecommunication lines from old copper wire to fiber - and the router it installed began flooding the air-traffic network with more than 1,000 connection attempts every four to five seconds, degrading controller communications and radar feeds nationwide (<a href=\"https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\" target=\"_blank\" rel=\"noopener\">the department's statement</a>). The contractor is L3Harris Technologies, the FAA's telecom provider for more than twenty years. What remains unknown is the only thing that matters legally: \"was it user error or installer error from L3Harris, or did they install a faulty router? We haven't determined what the fault was\" (<a href=\"https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage\" target=\"_blank\" rel=\"noopener\">Fox Business</a>). Friday's five-hour ground stop cancelled roughly 10,000 flights and delayed more than 7,000; some 3,500 airborne aircraft landed safely, and the system was back at full operations by Saturday morning (<a href=\"https://www.usatoday.com/story/news/nation/2026/11/14/faa-ground-stop-probe-l3harris/92780406007/\" target=\"_blank\" rel=\"noopener\">USA Today</a>). \"We don't believe this was cyber,\" Duffy said - provisional, and his words. Officials told Reuters the suspect routers may have sat at sites in both Arkansas and Texas. <em>Editor's takeaway: the FAA outsourced its nervous system in 2002 and cannot fly without it; watch who pays for the answer - the installer, the router, or the contract.</em>"
+          },
+          {
+            "t": "p",
+            "html": " The catch. Hours after the ground stop lifted, SpaceX completed the harder half of the most ambitious Starship test yet: Ship 42, the upper stage, returned from orbit and was caught by the launch tower's chopstick arms at Starbase, Texas, at 4:20 PM Eastern Saturday - the first catch of a Starship returning from space, about 22.5 hours after Friday evening's liftoff (<a href=\"https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14\" target=\"_blank\" rel=\"noopener\">Space.com's account</a>; <a href=\"https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history\" target=\"_blank\" rel=\"noopener\">AP</a>). The other half failed cleanly: the Super Heavy booster's engines stopped firing too early on descent after a low-fuel alarm, its guidance sensed it was off profile, and it diverted itself to the Gulf of Mexico and self-destructed before splashdown - SpaceX's Kate Tice on the webcast (<a href=\"https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history\" target=\"_blank\" rel=\"noopener\">AP</a>; <a href=\"https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/\" target=\"_blank\" rel=\"noopener\">SpaceNews</a>). In between, the ship deployed 26 Starlink V3 satellites. \"That was the holy grail of spaceflight,\" said SpaceX's Dan Huot. \"We caught a Starship, and now everything changes.\" <em>Editor's takeaway: full reusability is now half-proven in one flight - and the half that failed has already been proven three times; the next flight is the one to watch.</em>"
+          },
+          {
+            "t": "p",
+            "html": " The search. Nvidia's board has begun the formal hunt: it is \"in the process of selecting a search firm,\" has \"not formally engaged any potential candidates,\" and calls speculation about individual names premature, the board said in a statement (<a href=\"https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Interim chief executive Colette Kress held her first meeting in the job on Thursday - with senior executives at headquarters - and presents third-quarter results on Tuesday - the first print since the resignation, for which Nvidia has given no reason (<a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener\">the transition release</a>). In Washington, three House committees have asked Jensen Huang to appear for briefings, and the Senate Banking Committee wants Huang and Commerce Secretary Lutnick. <em>Editor's takeaway: the process answer replaces the name answer - the stock now trades the calendar: Tuesday's call, then a search firm, then a shortlist.</em>"
+          },
+          {
+            "t": "p",
+            "html": " The terms. Anthropic will price its initial public offering on Wednesday, 18 November, and begin trading on Thursday the 19th under the ticker ANT, the company announced (<a href=\"https://finance.yahoo.com/technology/article/anthropic-sets-ipo-date-for-thursday-nov-19-173011206.html\" target=\"_blank\" rel=\"noopener\">Yahoo Finance</a>). The amended filing sets 825 million Class A shares at an expected $70 to $78 - a $57.75 to $64.35 billion raise at the range - for a reported valuation of $1.3 to $1.45 trillion (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the S-1/A</a>). Bloomberg reports the book is roughly six times covered (<a href=\"https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345\" target=\"_blank\" rel=\"noopener\">Investing.com carries it</a>). It is the largest test the AI trade has faced, and the template OpenAI's expected 2027 debut will be measured against. <em>Editor's takeaway: a six-times-covered book means the pricing tells you little - the first hour of trading tells you everything about what public money will pay for frontier AI.</em>"
+          },
+          {
+            "t": "p",
+            "html": " The nods. SEBI cleared three IPO plans in one sweep, per the regulator's site: Razorpay - final observations issued 3 November, an estimated Rs 5,000-6,000 crore; Sembcorp Green Infra - a Rs 3,750-crore all-fresh issue, 3.6 GW operational and 4 GW under construction; and MakeMyTrip's Indian subsidiary - an offer-for-sale by the Nasdaq-listed parent and its Singapore unit, approved 6 November (<a href=\"https://www.cnbctv18.com/market/sebi-approves-ipo-plans-of-razorpay-sembcorp-green-infra-and-makemytrip-india-20033679.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>). And Coal India's Mahanadi Coalfields filed its RHP dated 13 November: an offer for sale of up to 66.18 crore shares, 10% of the parent's stake, estimated at Rs 9,500 crore (<a href=\"https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>). <em>Editor's takeaway: the primary market's next quarter is fintech, green power, travel and coal - the pipeline is pricing risk appetites the indices do not show.</em>"
+          },
+          {
+            "t": "p",
+            "html": " The claims. Yemen's Houthi movement claimed a wave of strikes on Saudi Arabia - a drone targeting oil giant Aramco in Riyadh and another at Pumping Station 7 on the East-West pipeline, a drone targeting a military cargo aircraft at Sharurah Airport, and ballistic missiles toward an oil facility in Yanbu and the King Khalid air base in Khamis Mushait; the Saudi-led coalition's spokesperson reported intercepting two ballistic missiles and four drones, Saudi authorities had not commented on damage, and none of the claims is independently verified (<a href=\"https://english.news.cn/20261113/f3639000249a45b295f889e38266c7bd/c.html\" target=\"_blank\" rel=\"noopener\">Xinhua</a>). Egypt and the Arab League condemned the attacks; fighting flared in Lahj, near the Bab al-Mandab. The market's verdict on the claims, for now: Brent settled the week down 2.5% at $95.84. <em>Editor's takeaway: unverified claims against oil infrastructure are now a weekly feature - the tape only moves when Saudi Arabia confirms damage, which it has not.</em>"
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " No session Saturday; Friday's finals are the tape. Mumbai: Sensex 81,592.45, down 318.56 points (0.39%); Nifty 25,144.30, down 155.05 (0.61%) - the three-day rally snapped in the first session priced with 6.09% inflation and a $95 barrel, with cement, realty and autos the worst sectors and every index red. The flows underneath still ran foreign: FIIs bought a provisional Rs 5,736.55 crore while domestic institutions sold Rs 2,253.58 crore (<a href=\"https://www.financialexpress.com/market/fiis-pour-in-rs-5736-crore-but-nifty-slips-what-is-keeping-investors-cautious-4383868/\" target=\"_blank\" rel=\"noopener\">NSDL and BSE figures via FE</a>). New York: the S&P 500 closed 7,561.67, down 0.40% Friday but up 2.51% on the week - its best since August; the Nasdaq 25,136.27 (+2.27% on the week), the Dow 52,347.55 (+2.07%); the ten-year Treasury yield ended at 5.154%, its highest close in a month; Brent settled $95.84 (-2.52% on the week), gold down 4.6%, the dollar index 103.41 (<a href=\"https://portfolio-terminal.com/blog/stock-market-week-in-review-november-13-2026\" target=\"_blank\" rel=\"noopener\">the week's closing tables</a>). The week's split personality in one pair: Nvidia fell 12.75% while the Philadelphia semiconductor index rose 8.05%."
+          }
+        ]
+      },
+      {
+        "heading": "IPOs",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Anthropic owns the week. The issuer's own numbers: 825 million Class A shares - 801.4 million primary, the rest selling stockholders - at an expected $70 to $78, an application to list on the Nasdaq as ANT, 123.75 million more on the underwriters' option, and roughly $451.6 billion of compute commitments due before end-2030 in the risk factors (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the S-1/A</a>). The company-announced dates: pricing Wednesday, first trade Thursday (<a href=\"https://finance.yahoo.com/technology/article/anthropic-sets-ipo-date-for-thursday-nov-19-173011206.html\" target=\"_blank\" rel=\"noopener\">Yahoo Finance</a>). At the range the raise is $57.75 to $64.35 billion; reports put the valuation at $1.3 to $1.45 trillion and the book six times covered - reported figures, attributed (<a href=\"https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345\" target=\"_blank\" rel=\"noopener\">Bloomberg via Investing.com</a>). In Mumbai, the pipeline thickened: SEBI's nod to Razorpay (estimated Rs 5,000-6,000 crore), Sembcorp Green Infra (Rs 3,750 crore, all fresh issue) and MakeMyTrip India (OFS-only) (<a href=\"https://www.cnbctv18.com/market/sebi-approves-ipo-plans-of-razorpay-sembcorp-green-infra-and-makemytrip-india-20033679.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>), and Mahanadi Coalfields' RHP for a roughly Rs 9,500-crore offer-for-sale, dated 13 November (<a href=\"https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>). The contrast to hold: America's biggest-ever AI float prices the same week India's biggest coal arm goes to market - two very different bets on what the next decade runs on."
+          }
+        ]
+      },
+      {
+        "heading": "Top movers - Friday's board stands",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " With no weekend session, Friday's verdicts remain the live board going into Monday (percentages computed from BSE's official closes against Thursday):"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 510\" role=\"img\" aria-label=\"Sensex leaders and laggards, Friday 13 Nov (% vs Thursday's close), BSE official prints - carried into Sunday\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">HUL</text><rect x=\"410\" y=\"30\" width=\"9.309677419354838\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"427.30967741935484\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.2%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Bajaj Finance</text><rect x=\"410\" y=\"78\" width=\"3.103225806451613\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"421.10322580645163\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.4%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">ONGC</text><rect x=\"410\" y=\"126\" width=\"1.5516129032258066\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"419.5516129032258\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.2%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Eternal</text><rect x=\"410\" y=\"174\" width=\"0.7758064516129033\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"418.7758064516129\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.1%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">ICICI Bank</text><rect x=\"407.6725806451613\" y=\"222\" width=\"2.3274193548387094\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"399.6725806451613\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.3%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">SBI</text><rect x=\"406.89677419354837\" y=\"270\" width=\"3.103225806451613\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"398.89677419354837\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.4%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Maruti</text><rect x=\"405.3451612903226\" y=\"318\" width=\"4.654838709677419\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"397.3451612903226\" y=\"337\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.6%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">TCS</text><rect x=\"403.7935483870968\" y=\"366\" width=\"6.206451612903226\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"395.7935483870968\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.8%</text><text x=\"8\" y=\"431\" font-size=\"21\" fill=\"#334155\">Bajaj Finserv</text><rect x=\"402.241935483871\" y=\"414\" width=\"7.758064516129032\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"394.241935483871\" y=\"433\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.0%</text><text x=\"8\" y=\"479\" font-size=\"21\" fill=\"#334155\">BEL</text><rect x=\"397.5870967741935\" y=\"462\" width=\"12.412903225806453\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"389.5870967741935\" y=\"481\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.6%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Sensex leaders and laggards, Friday 13 Nov (% vs Thursday's close), BSE official prints - carried into Sunday</p>"
+          },
+          {
+            "t": "p",
+            "html": " Closes, carried: Hindustan Unilever Rs 1,985.00, Bajaj Finance Rs 1,115.20, ONGC Rs 225.30, Eternal Rs 364.50; on the other side Bharat Electronics Rs 401, Bajaj Finserv Rs 1,860, TCS Rs 2,410, Maruti Suzuki Rs 12,878, State Bank of India Rs 1,080.50, ICICI Bank Rs 1,584. Saturday's results add fresh names to Monday's open: Ashok Leyland reported after Friday's close (numbers in Corporate actions), with Patanjali Foods, Brainbees, PTC Industries, Kaynes and Sammaan Capital also on the Saturday board."
+          }
+        ]
+      },
+      {
+        "heading": "Corporate actions",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Ashok Leyland's Saturday print, on the company's own filing: standalone net profit of Rs 869.02 crore against Rs 771.06 crore a year ago, up 12.7%, on revenue from operations of Rs 13,308.21 crore, up 38.9%; the board declared an interim dividend of Re 1 per share, record date Friday 20 November (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3e6ba97b-b37f-4229-bec5-d7f4a78355c0.pdf\" target=\"_blank\" rel=\"noopener\">the BSE filing</a>). One line deserves care: the auditors' consolidated review carries a disclaimer tied to a loan-balance and system review at subsidiary Hinduja Leyland Finance - a scope disclaimer with impact undetermined, not a fraud finding or a quantified loss, and this paper reports it as exactly that. Elsewhere on the wire: Adyar Ananda Bhavan, the Chennai vegetarian chain, sold a majority stake to Bodhi Tree Systems - the Murdoch-Uday Shankar venture - for $180 million (<a href=\"https://www.business-standard.com/companies/news/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million-126111201795_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>); Unacademy moved founder Gaurav Munjal to executive chairman and named Akhilendra Kumar chief executive; and on Friday Paytm won RBI's in-principle authorisation to operate wallets again - the stock touched a 52-week high and closed at Rs 1,945.00 (BSE official), still about 9.5% below its Rs 2,150 issue price (<a href=\"https://timesofindia.indiatimes.com/business/india-business/paytm-gets-rbi-prelim-authorisation-to-operate-wallets-shares-surge-to-52-week-high/articleshow/135798025.cms\" target=\"_blank\" rel=\"noopener\">Times of India</a>). The MDR piece of the Paytm story is expectation, not policy: a post-Diwali merchant-fee rollout is reported as coming, not notified (<a href=\"https://www.livemint.com/market/stock-market-news/upi-mdr-rollout-after-diwali-what-it-means-for-paytm-mobikwik-and-pine-labs-what-investors-should-know-11794477959612.html\" target=\"_blank\" rel=\"noopener\">Mint's explainer</a>). Carried dates: Oil India's dividend record date is Friday 20 November; Natco's is Thursday 19 November."
+          }
+        ]
+      },
+      {
+        "heading": "Finance Goldmine",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The week one stock masked four hundred. Read the closing table twice: the S&P 500 rose 2.51% - its best week since August - while its largest member fell 12.75%. Strip Nvidia out and the index would have risen about 3.7%; the equal-weight index, where Nvidia counts the same as the smallest member, rose 2.32%; 401 of the index's 502 stocks gained (<a href=\"https://portfolio-terminal.com/blog/stock-market-week-in-review-november-13-2026\" target=\"_blank\" rel=\"noopener\">the weekly scorecard</a>). The money did not leave chips: AMD rose 18.93%, its best week since May, and Broadcom 18.16%, its best in a year - the pair's gain against Nvidia was the largest weekly swing between them since Broadcom listed. The pattern has a name worth keeping: cap-weighted indices let one company's grief impersonate a market verdict, and this week it nearly did. The personal-money translation: when a headline says \"tech fell,\" ask which index, which weighting, and which five names - the average stock and the average index point often live in different countries. The same arithmetic runs in Mumbai, where a handful of banks and Reliance can move the Sensex while most members go the other way; the breadth line, not the index, is the honest tape."
+          }
+        ]
+      },
+      {
+        "heading": "Startup Intelligence",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " A thin week, counted two ways. Indian startups disclosed about $31.3 million across 12 rounds in the week of 9-14 November, down 88% from the prior week's $258.1 million and far under the eight-week average of $194.3 million (<a href=\"https://entrackr.com/report/funding-and-acquisitions-in-indian-startups-this-week-nov-09-nov-14-12808553\" target=\"_blank\" rel=\"noopener\">entrackr's weekly table</a>); inc42 counts $25.2 million across nine deals for 9-13 November - the trackers window and count differently, so the window and the source are stated. The real signals were in the smaller print: Greenjoules' Rs 150-crore Series B for waste-to-biocrude fuel; Froncort.AI's $2.3 million from Google.org; Rigi's Rs 10 crore from Google; and the week's biggest deal being a consumer-brand buyout, not a venture round - Bodhi Tree's $180 million for control of A2B. Around the table: Norwest closed its eighteenth fund at $4 billion; Sarvam named a president; and MeitY questioned Pronto, Snabbit and Urban Company over gig-worker video data (<a href=\"https://entrackr.com/report/funding-and-acquisitions-in-indian-startups-this-week-nov-09-nov-14-12808553\" target=\"_blank\" rel=\"noopener\">the news-flash file</a>)."
+          },
+          {
+            "t": "p",
+            "html": " Today's startup idea: provenance-as-a-service for the tools developers trust. The Cursor incident's quiet lesson is that one leaked vendor key put a backdoored extension on a marketplace cache for eleven hours, and at most 5,000 users potentially received it before anyone knew. Somebody has to watch the watchers: a service that continuously fingerprints what registries, marketplaces and CDNs actually serve - extension builds, package tarballs, container images - and compares it byte-for-byte against what the publisher signed, alerting within minutes when the served artifact diverges. The buyer is any enterprise with a developer fleet, and the wedge is narrow: start with the top hundred VS Code extensions, publish a free public dashboard, sell the private feed and the incident SLA. What would make it wrong: marketplaces adopting mandatory signed provenance faster than a startup can sell around it - in which case the honest pivot is compliance evidence, not detection."
+          }
+        ]
+      },
+      {
+        "heading": "AI Race",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Google's agent teams start collecting proofs - and OpenAI folds a team into the model. Google Research's weekend post is a results sheet for Antigravity's /teamwork multi-agent workflows paired with Gemini 4: information theory's Courtade-Kumar conjecture, open since 2013, proven in full generality and formalized in roughly 50 million lines of Lean 4; the Weil conjectures formalized end-to-end across 28,800 subagent invocations; a two-week campaign that rewrote the Zircon microkernel's remaining C++ into about 800,000 lines of Rust that pass the original test suite; and a libgav1 port that ended 20-30% faster than the hand-optimized original (<a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\" target=\"_blank\" rel=\"noopener\">Google Research's post</a>). The tools open to outside researchers and developers now, with ten thousand academic seats free for six months. OpenAI, meanwhile, disbanded its stand-alone robotics team, folding researchers into core research and applied hardware - the bet, the company told Fortune, is that general models like GPT-6 Astra run robots directly, no specialized brain required (<a href=\"https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/\" target=\"_blank\" rel=\"noopener\">Fortune's exclusive</a>). And Sierra shipped v1.0 of Poppy, the protocol for personal agents to talk to businesses: Shopify now publishes a Poppy file for every merchant, Meta's Muse looks for it on every site, and the design-partner list passed a hundred (<a href=\"https://sierra.ai/blog/releasing-poppy\" target=\"_blank\" rel=\"noopener\">Sierra's release</a>). One more artifact of the week, carried with care: a \"No AI Slop Manifesto\" circulating since the AI Engineer Code Summit - five values, 22 resolutions, undated on its own page, which describes itself as written by the conference's speakers and attendees (<a href=\"https://www.slopmanifesto.com/\" target=\"_blank\" rel=\"noopener\">the site itself</a>); this paper notes it as a sentiment marker, not an event."
+          }
+        ]
+      },
+      {
+        "heading": "Vibe coding",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The breach every builder should read end-to-end. Cursor's own post-mortem is unusually complete: an attacker obtained an access key Cursor had issued to Fireworks - exposed by Fireworks - and used it to copy a read-only training-data bucket of coding-agent traces; a few traces held unredacted credentials; those opened Cursor's SaaS tools, archived source and support mail; and on 29 October the attacker placed a malicious copy of Anthropic's Claude Code extension on Cursor's marketplace cache, where at most 5,000 users pulled it over roughly eleven hours (<a href=\"https://cursor.com/blog/security-incident-update\" target=\"_blank\" rel=\"noopener\">Cursor's update</a>). Not an Anthropic vulnerability; not the production signing keys; last attacker activity blocked 1 November. The builder's checklist writes itself: vendor keys are your keys; training buckets are attack surface; anything your users install needs provenance you verify, not provenance you assume. Then, for the weekend's stranger read: researchers at ELLIS Tübingen turned pairs of AI agents loose on the web with one instruction - find each other - and 21 of 40 pairs did, all converging on the same meet-up spot, ntfy.sh, reached from memory rather than search (<a href=\"https://schelling-atlas.com/\" target=\"_blank\" rel=\"noopener\">the Schelling Atlas</a>). When the researchers blocked it, the agents scattered to maps, shops and dead domains an attacker could register. The agents are developing habits; the habits are becoming infrastructure; and nobody is signing any of it."
+          }
+        ]
+      },
+      {
+        "heading": "Try this today (Sunday)",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Put your own words through Deep Review. The same engine behind Google's proof-checking week reviews drafts: in Antigravity, two Deep Review calls a week are free, and its authors report that on 578 opted-in conference submissions, over 30% of authors said it caught substantive proof bugs or significant typos (<a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\" target=\"_blank\" rel=\"noopener\">the Google Research post</a>). How to try it: open Antigravity, start Deep Review, and paste the document you most cannot afford to be wrong in - a proposal, a proof, a contract summary. The limits are honest: it is built for research-shaped documents, the free tier is two calls a week, and its findings are leads to verify, not verdicts to paste. The tools themselves predate this week - what is new is the external opening and the results behind it."
+          },
+          {
+            "t": "p",
+            "html": " Then one read and one watch, both primary. The read: the Transportation Secretary's Saturday statement on the ground stop - two pages, every number in this paper's lead traceable to it (<a href=\"https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\" target=\"_blank\" rel=\"noopener\">the statement</a>). The watch: Ship 42 threading itself into the chopsticks, on Space.com's capture of the 4:20 PM catch (<a href=\"https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14\" target=\"_blank\" rel=\"noopener\">the video</a>) - then note the date, because the next attempt at catching both halves is the flight that changes the economics."
+          }
+        ]
+      },
+      {
+        "heading": "One concept: the Schelling point",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " How do people coordinate when they cannot talk? In 1960 the economist Thomas Schelling answered: they meet at the option that stands out - the focal point each expects the other to expect. His classic setup: two people told to meet in New York City on a given day, no communication, no named place; most, he found, picked noon at Grand Central Station - not because it was best, but because it was salient, the answer that felt like the answer. The concept earned him a Nobel and a name: the Schelling point. This week gave the idea its strangest demonstration yet. Researchers turned pairs of AI agents loose on the open web with tokens to exchange and no agreed meeting place - and the agents converged, from memory, on one obscure pub-sub site, ntfy.sh: 42 of 130 opened with a request to it before searching anything, and every successful pair met there (<a href=\"https://schelling-atlas.com/\" target=\"_blank\" rel=\"noopener\">the study</a>). Asked the puzzle directly, models named Wikipedia - a site none of their agents actually visited. What agents say and what agents do are different datasets, and the doing just inherited Schelling. The uses are practical: standards are Schelling points - the protocol that feels inevitable collects the votes, which is why Shopify and Meta moving on the same week matters more than either feature list; and in any negotiation, the option that feels like the default is a position somebody staked out early. <em>60-second recall, closed book: (1) What did Schelling's strangers pick, and why? (2) Where did the agents meet, reached how? (3) What did the models say when asked - and what is the lesson? Answers: noon at Grand Central, because salience beats optimality; ntfy.sh, from memory; Wikipedia - say and do are different datasets.</em>"
+          }
+        ]
+      },
+      {
+        "heading": "Term of the day: ground stop",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " A ground stop is the aviation system's hand brake: an order that holds aircraft at their departure airports - wheels down, wherever they are - while planes already flying continue to their destinations. It is the most severe tool in the FAA's traffic-management kit, above ground delays and miles-in-trail restrictions, and it is issued for runways, airports, regions or - rarely - the whole country. Friday's was the rare kind: departures halted nationwide for about five hours after a router flood degraded controller communications and radar feeds, only the second such nationwide stop since 9/11, per <a href=\"https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8\" target=\"_blank\" rel=\"noopener\">the Associated Press</a>; roughly 10,000 flights cancelled, more than 7,000 delayed, and some 3,500 aircraft already aloft landed safely before the stop lifted at about 8:15 PM Eastern (<a href=\"https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\" target=\"_blank\" rel=\"noopener\">the department's statement</a>; <a href=\"https://www.usatoday.com/story/news/nation/2026/11/14/faa-ground-stop-probe-l3harris/92780406007/\" target=\"_blank\" rel=\"noopener\">USA Today</a>). The details that define the term: a ground stop does not ground the sky - it freezes the ground and lets the sky drain, which is why the safety numbers look the way they do. And the effects outlive the order: aircraft and crews land in the wrong cities, and the schedule takes days to unknot, which airlines warn is still working itself out this weekend."
+          }
+        ]
+      },
+      {
+        "heading": "Setup board",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Sunday's board is a carry-forward: no weekend session, so Friday's prices stay the live marks and Monday is the next scored session. The desk's rule stands: every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: <a href=\"https://files.instinct.com/gqn467t8lax3-the-exchange-under-the-banyan-tree\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 Oct</a>."
+          },
+          {
+            "t": "chart",
+            "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines after Friday's session, carried into Sunday; prices are BSE official closes, Friday 13 November</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it for a fourteenth session, close Rs 487.60</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 487.60 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil, breakout leg not re-established</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close Rs 225.30, second session under 228 (the break was the Rs 8 ex-dividend); Brent settled at $95.84, so the crude leg stays firm</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 225.30 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. Infosys</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - below zone, flat</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Absorption thesis - trigger zone Rs 1,175, close-based floor Rs 1,120 - close Rs 1,140.00, flat below the zone</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>A close under 1,120 ends the thesis</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>First checkpoint 1,245 (gap zone)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (qualitative)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,140.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - R:R fails screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - held since; closed Rs 1,345.20</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>5 November swing high near Rs 1,370</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.2 - failed the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,345.20 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>5. Hindalco</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>No entry zone yet - levels to be verified against longer price history; closed Rs 944.40, the board's weakest name Friday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>n/a until an entry zone exists</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Momentum plus record quarter as catalyst</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 944.40 (Fri close)</p></div>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, marker at Friday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5161290322585\" x2=\"591.2903225806449\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"334.3958582238156\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5161290322585\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"334.3958582238156\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">225.30</text><text x=\"591.2903225806449\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC: coil floor to coil top, marker at Friday's close</p>"
+          },
+          {
+            "t": "p",
+            "html": " The resolved line stays in the ledger: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.44%, net +6.14% after the 0.3% cost convention, in seven sessions; the stock closed Friday at Rs 1,376.60, which changes nothing for a line that already paid. Of the open lines: ONGC (Rs 225.30) spent a second session under the 228 breakout line - the break was the Rs 8 ex-dividend adjustment, and Friday's low of 224.90 held well above the 218.50 floor while crude settled the week at $95.84; Kotak (Rs 487.60) held its trigger for a fourteenth session; Infosys (Rs 1,140.00) is flat below the zone with the 1,120 floor untouched; JSW Steel (Rs 1,345.20) still fails the risk-reward screen; Hindalco (Rs 944.40) remains a candidate without a verified entry zone. No resolutions, no new setups - and Saturday's results give Monday fresh names before any of them can qualify: a setup needs verified levels, not a single strong print."
+          }
+        ]
+      },
+      {
+        "heading": "How the board scores",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "No prior-day stop trade",
+                "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+              },
+              {
+                "n": "2",
+                "title": "Same-day zone and stop",
+                "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
+              },
+              {
+                "n": "3",
+                "title": "Resolutions stay on record",
+                "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The editor's read",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " One weekend, two machines. On Friday a router the size of a pizza box, swapped in during maintenance nobody schedules coverage for, stopped the largest aviation system on Earth for five hours - and a few hours after it restarted, a stainless-steel spacecraft fell out of orbit, through fire, into a pair of mechanical arms that caught it like a fly ball. The temptation is to grade the two organizations; the honest read is to grade the two problems. The FAA's is a legacy problem: a network built when Compaq made servers, maintained under contracts old enough to drink, with a 2027 deadline and a $50 billion ask - and its failure mode is invisible until national. SpaceX's is a frontier problem: never been done, on camera, and its failure mode - a booster ditching itself in the Gulf - was designed in advance and executed without a single person at risk. Legacy fails by surprise; frontier fails by rehearsal. The investor's version of the distinction is the week's real lesson: price the maintenance debt of the systems you depend on - the exchange, the bank, the grid - with the same attention you give the launches you watch. Monday tests both stories: L3Harris opens with the Secretary's sentence hanging over it, and SpaceX goes back to work on the half that missed."
+          }
+        ]
+      },
+      {
+        "heading": "Brewing",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The router file. Cause chain: twenty-four years of outsourced telecom; a 2002 contract the FAA was still extending without competition twenty years on (<a href=\"https://www.highergov.com/contract-opportunity/announcement-of-fti-single-source-extension-dtfa0102d03006-ssj-22-0001-u-9b1f3/\" target=\"_blank\" rel=\"noopener\">the single-source extension notice</a>); copper past its replacement date; a Saturday press conference naming L3Harris and a single router - installer error or faulty unit undetermined; a company statement pointing at its own 70% conversion record; and a Secretary who needs $50 billion saying \"I'm stuck with L3Harris\" (<a href=\"https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\" target=\"_blank\" rel=\"noopener\">DOT</a>; <a href=\"https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage\" target=\"_blank\" rel=\"noopener\">Fox Business</a>). Watch next: the FAA's additional testing with the company, any determination on the router, LHX's Monday open (it fell 4% after hours), and whether the $50 billion ask names who operates what. Proven wrong if: the fault lands on a defective unit alone and the modernization role survives intact."
+          },
+          {
+            "t": "p",
+            "html": " The succession file. Cause chain: Thursday's one-sentence exit, no reason given; Friday's FT report naming Arm's Rene Haas among approaches; the board's own answer - selecting a search firm, no candidate formally engaged, speculation premature; Kress holding her first meeting in the job - with senior executives at headquarters; House committees requesting Huang, Senate Banking requesting Huang and Lutnick (<a href=\"https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>; <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener\">Nvidia's release</a>). Watch next: Tuesday's quarter - the first print of the interim era, with the written commentary at about 1:20 PM Pacific and the call at 2 PM - and any search-firm announcement. Proven wrong if: the board names a permanent chief inside weeks, making the search a formality."
+          },
+          {
+            "t": "p",
+            "html": " The debut file. Cause chain: the largest AI company yet to test public markets - an S-1/A at 825 million shares, $70 to $78, a reported $1.3-1.45 trillion valuation, a reported six-times-covered book, roughly $451.6 billion of compute commitments disclosed; pricing Wednesday, first trade Thursday as ANT (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the filing</a>; <a href=\"https://finance.yahoo.com/technology/article/anthropic-sets-ipo-date-for-thursday-nov-19-173011206.html\" target=\"_blank\" rel=\"noopener\">the company's dates</a>). Watch next: whether pricing lands in, above or below the range; the first hour's tape; and what a strong or weak debut does to the reported 2027 OpenAI timeline. Proven wrong if: the deal is pulled or delayed - a six-times-covered book says that is not the base case."
+          }
+        ]
+      },
+      {
+        "heading": "The week ahead",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Sun 15 Nov (today)",
+                "detail": "No session in Mumbai. The FAA investigation and airline recovery continue; the week's positioning starts with Friday's marks."
+              },
+              {
+                "n": "2",
+                "title": "Mon 16 Nov",
+                "detail": "Mumbai reopens - the first session to judge Saturday's results, Ashok Leyland first; India's October WPI expected (moneycontrol's planner); L3Harris's first session since the naming."
+              },
+              {
+                "n": "3",
+                "title": "Tue 17 Nov",
+                "detail": "Nvidia's third quarter: written CFO commentary about 1:20 PM Pacific, call at 2 PM - Kress's first print as interim chief."
+              },
+              {
+                "n": "4",
+                "title": "Wed 18 Nov",
+                "detail": "Fed minutes. Anthropic prices its IPO after the US close - company-announced."
+              },
+              {
+                "n": "5",
+                "title": "Thu 19 Nov",
+                "detail": "Anthropic begins trading as ANT on the Nasdaq. Natco's dividend record date (carried)."
+              },
+              {
+                "n": "6",
+                "title": "Watching",
+                "detail": "Ashok Leyland's and Oil India's dividend record dates Friday 20 November; MCL RHP pricing steps; Razorpay, Sembcorp and MakeMyTrip India launch timing; any Saudi damage confirmation on the Houthi claims; the FAA's router determination; Cult.fit's Madras High Court date on 2 December."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Notes on this edition",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Sources read for this edition: the Transportation Department's Saturday statement, USA Today and Fox Business for the ground stop and L3Harris; Space.com, AP via NPR and SpaceNews for the Starship flight, with event timing from Space.com's on-site account; Nvidia's own transition release and the board statement via CNBC; Anthropic's S-1/A on EDGAR and the company's announced dates via Yahoo Finance, with the oversubscription attributed to Bloomberg; Google Research, Fortune, Sierra and Cursor's own posts for the AI sections; the Schelling Atlas study site; BSE's official bhavcopy for Indian prices and the portfolio scorecard for the US week; the companies' own BSE filing for Ashok Leyland; SEBI actions via CNBC-TV18; The Hindu for the MCL RHP; entrackr's weekly table for startup funding; Xinhua for the Gulf claims.",
+              "Framing calls this edition: the router's fault is undetermined and is reported as undetermined - installer error or defective unit; the no-cyber assessment is the Secretary's provisional words, attributed; the Starship booster loss and the ship's catch are reported as separate outcomes, never as a double catch; Anthropic's valuation and book coverage are reported figures, attributed; Paytm's merchant-fee piece is labeled expectation, not policy; the manifesto is carried as a sentiment marker with its own page's claim, not as a dated event; the Saudi-Houthi exchange reports circulating in regional media failed wire verification and were dropped.",
+              "Prices are BSE official closes or the named settlement prints; provisional flow figures are labeled provisional. Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
+            ]
+          },
+          {
+            "t": "closing",
+            "html": " The router failed in public; the catch worked in public; the week prices both. See you tomorrow."
+          }
+        ]
+      }
     ]
-   },
-   {
-    "heading": "Front page",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The cause. America's worst aviation outage in years has a named suspect, and it is a box. Transportation Secretary Sean Duffy, in Saturday's statement: at least one remote FAA location, a contractor crew doing routine maintenance - switching telecommunication lines from old copper wire to fiber - and the router it installed began flooding the air-traffic network with more than 1,000 connection attempts every four to five seconds, degrading controller communications and radar feeds nationwide (<a href=\"https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\" target=\"_blank\" rel=\"noopener\">the department's statement</a>). The contractor is L3Harris Technologies, the FAA's telecom provider for more than twenty years. What remains unknown is the only thing that matters legally: \"was it user error or installer error from L3Harris, or did they install a faulty router? We haven't determined what the fault was\" (<a href=\"https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage\" target=\"_blank\" rel=\"noopener\">Fox Business</a>). Friday's five-hour ground stop cancelled roughly 10,000 flights and delayed more than 7,000; some 3,500 airborne aircraft landed safely, and the system was back at full operations by Saturday morning (<a href=\"https://www.usatoday.com/story/news/nation/2026/11/14/faa-ground-stop-probe-l3harris/92780406007/\" target=\"_blank\" rel=\"noopener\">USA Today</a>). \"We don't believe this was cyber,\" Duffy said - provisional, and his words. Officials told Reuters the suspect routers may have sat at sites in both Arkansas and Texas. <em>Editor's takeaway: the FAA outsourced its nervous system in 2002 and cannot fly without it; watch who pays for the answer - the installer, the router, or the contract.</em>"
-     },
-     {
-      "t": "p",
-      "html": " The catch. Hours after the ground stop lifted, SpaceX completed the harder half of the most ambitious Starship test yet: Ship 42, the upper stage, returned from orbit and was caught by the launch tower's chopstick arms at Starbase, Texas, at 4:20 PM Eastern Saturday - the first catch of a Starship returning from space, about 22.5 hours after Friday evening's liftoff (<a href=\"https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14\" target=\"_blank\" rel=\"noopener\">Space.com's account</a>; <a href=\"https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history\" target=\"_blank\" rel=\"noopener\">AP</a>). The other half failed cleanly: the Super Heavy booster's engines stopped firing too early on descent after a low-fuel alarm, its guidance sensed it was off profile, and it diverted itself to the Gulf of Mexico and self-destructed before splashdown - SpaceX's Kate Tice on the webcast (<a href=\"https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history\" target=\"_blank\" rel=\"noopener\">AP</a>; <a href=\"https://spacenews.com/starship-launches-on-15th-test-calls-off-booster-catch/\" target=\"_blank\" rel=\"noopener\">SpaceNews</a>). In between, the ship deployed 26 Starlink V3 satellites. \"That was the holy grail of spaceflight,\" said SpaceX's Dan Huot. \"We caught a Starship, and now everything changes.\" <em>Editor's takeaway: full reusability is now half-proven in one flight - and the half that failed has already been proven three times; the next flight is the one to watch.</em>"
-     },
-     {
-      "t": "p",
-      "html": " The search. Nvidia's board has begun the formal hunt: it is \"in the process of selecting a search firm,\" has \"not formally engaged any potential candidates,\" and calls speculation about individual names premature, the board said in a statement (<a href=\"https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Interim chief executive Colette Kress held her first meeting in the job on Thursday - with senior executives at headquarters - and presents third-quarter results on Tuesday - the first print since the resignation, for which Nvidia has given no reason (<a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener\">the transition release</a>). In Washington, three House committees have asked Jensen Huang to appear for briefings, and the Senate Banking Committee wants Huang and Commerce Secretary Lutnick. <em>Editor's takeaway: the process answer replaces the name answer - the stock now trades the calendar: Tuesday's call, then a search firm, then a shortlist.</em>"
-     },
-     {
-      "t": "p",
-      "html": " The terms. Anthropic will price its initial public offering on Wednesday, 18 November, and begin trading on Thursday the 19th under the ticker ANT, the company announced (<a href=\"https://finance.yahoo.com/technology/article/anthropic-sets-ipo-date-for-thursday-nov-19-173011206.html\" target=\"_blank\" rel=\"noopener\">Yahoo Finance</a>). The amended filing sets 825 million Class A shares at an expected $70 to $78 - a $57.75 to $64.35 billion raise at the range - for a reported valuation of $1.3 to $1.45 trillion (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the S-1/A</a>). Bloomberg reports the book is roughly six times covered (<a href=\"https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345\" target=\"_blank\" rel=\"noopener\">Investing.com carries it</a>). It is the largest test the AI trade has faced, and the template OpenAI's expected 2027 debut will be measured against. <em>Editor's takeaway: a six-times-covered book means the pricing tells you little - the first hour of trading tells you everything about what public money will pay for frontier AI.</em>"
-     },
-     {
-      "t": "p",
-      "html": " The nods. SEBI cleared three IPO plans in one sweep, per the regulator's site: Razorpay - final observations issued 3 November, an estimated Rs 5,000-6,000 crore; Sembcorp Green Infra - a Rs 3,750-crore all-fresh issue, 3.6 GW operational and 4 GW under construction; and MakeMyTrip's Indian subsidiary - an offer-for-sale by the Nasdaq-listed parent and its Singapore unit, approved 6 November (<a href=\"https://www.cnbctv18.com/market/sebi-approves-ipo-plans-of-razorpay-sembcorp-green-infra-and-makemytrip-india-20033679.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>). And Coal India's Mahanadi Coalfields filed its RHP dated 13 November: an offer for sale of up to 66.18 crore shares, 10% of the parent's stake, estimated at Rs 9,500 crore (<a href=\"https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>). <em>Editor's takeaway: the primary market's next quarter is fintech, green power, travel and coal - the pipeline is pricing risk appetites the indices do not show.</em>"
-     },
-     {
-      "t": "p",
-      "html": " The claims. Yemen's Houthi movement claimed a wave of strikes on Saudi Arabia - a drone targeting oil giant Aramco in Riyadh and another at Pumping Station 7 on the East-West pipeline, a drone targeting a military cargo aircraft at Sharurah Airport, and ballistic missiles toward an oil facility in Yanbu and the King Khalid air base in Khamis Mushait; the Saudi-led coalition's spokesperson reported intercepting two ballistic missiles and four drones, Saudi authorities had not commented on damage, and none of the claims is independently verified (<a href=\"https://english.news.cn/20261113/f3639000249a45b295f889e38266c7bd/c.html\" target=\"_blank\" rel=\"noopener\">Xinhua</a>). Egypt and the Arab League condemned the attacks; fighting flared in Lahj, near the Bab al-Mandab. The market's verdict on the claims, for now: Brent settled the week down 2.5% at $95.84. <em>Editor's takeaway: unverified claims against oil infrastructure are now a weekly feature - the tape only moves when Saudi Arabia confirms damage, which it has not.</em>"
-     }
-    ]
-   },
-   {
-    "heading": "Markets",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " No session Saturday; Friday's finals are the tape. Mumbai: Sensex 81,592.45, down 318.56 points (0.39%); Nifty 25,144.30, down 155.05 (0.61%) - the three-day rally snapped in the first session priced with 6.09% inflation and a $95 barrel, with cement, realty and autos the worst sectors and every index red. The flows underneath still ran foreign: FIIs bought a provisional Rs 5,736.55 crore while domestic institutions sold Rs 2,253.58 crore (<a href=\"https://www.financialexpress.com/market/fiis-pour-in-rs-5736-crore-but-nifty-slips-what-is-keeping-investors-cautious-4383868/\" target=\"_blank\" rel=\"noopener\">NSDL and BSE figures via FE</a>). New York: the S&P 500 closed 7,561.67, down 0.40% Friday but up 2.51% on the week - its best since August; the Nasdaq 25,136.27 (+2.27% on the week), the Dow 52,347.55 (+2.07%); the ten-year Treasury yield ended at 5.154%, its highest close in a month; Brent settled $95.84 (-2.52% on the week), gold down 4.6%, the dollar index 103.41 (<a href=\"https://portfolio-terminal.com/blog/stock-market-week-in-review-november-13-2026\" target=\"_blank\" rel=\"noopener\">the week's closing tables</a>). The week's split personality in one pair: Nvidia fell 12.75% while the Philadelphia semiconductor index rose 8.05%."
-     }
-    ]
-   },
-   {
-    "heading": "IPOs",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Anthropic owns the week. The issuer's own numbers: 825 million Class A shares - 801.4 million primary, the rest selling stockholders - at an expected $70 to $78, an application to list on the Nasdaq as ANT, 123.75 million more on the underwriters' option, and roughly $451.6 billion of compute commitments due before end-2030 in the risk factors (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the S-1/A</a>). The company-announced dates: pricing Wednesday, first trade Thursday (<a href=\"https://finance.yahoo.com/technology/article/anthropic-sets-ipo-date-for-thursday-nov-19-173011206.html\" target=\"_blank\" rel=\"noopener\">Yahoo Finance</a>). At the range the raise is $57.75 to $64.35 billion; reports put the valuation at $1.3 to $1.45 trillion and the book six times covered - reported figures, attributed (<a href=\"https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345\" target=\"_blank\" rel=\"noopener\">Bloomberg via Investing.com</a>). In Mumbai, the pipeline thickened: SEBI's nod to Razorpay (estimated Rs 5,000-6,000 crore), Sembcorp Green Infra (Rs 3,750 crore, all fresh issue) and MakeMyTrip India (OFS-only) (<a href=\"https://www.cnbctv18.com/market/sebi-approves-ipo-plans-of-razorpay-sembcorp-green-infra-and-makemytrip-india-20033679.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>), and Mahanadi Coalfields' RHP for a roughly Rs 9,500-crore offer-for-sale, dated 13 November (<a href=\"https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece\" target=\"_blank\" rel=\"noopener\">The Hindu</a>). The contrast to hold: America's biggest-ever AI float prices the same week India's biggest coal arm goes to market - two very different bets on what the next decade runs on."
-     }
-    ]
-   },
-   {
-    "heading": "Top movers - Friday's board stands",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " With no weekend session, Friday's verdicts remain the live board going into Monday (percentages computed from BSE's official closes against Thursday):"
-     },
-     {
-      "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 510\" role=\"img\" aria-label=\"Sensex leaders and laggards, Friday 13 Nov (% vs Thursday's close), BSE official prints - carried into Sunday\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">HUL</text><rect x=\"410\" y=\"30\" width=\"9.309677419354838\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"427.30967741935484\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.2%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Bajaj Finance</text><rect x=\"410\" y=\"78\" width=\"3.103225806451613\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"421.10322580645163\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.4%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">ONGC</text><rect x=\"410\" y=\"126\" width=\"1.5516129032258066\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"419.5516129032258\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.2%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Eternal</text><rect x=\"410\" y=\"174\" width=\"0.7758064516129033\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"418.7758064516129\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.1%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">ICICI Bank</text><rect x=\"407.6725806451613\" y=\"222\" width=\"2.3274193548387094\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"399.6725806451613\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.3%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">SBI</text><rect x=\"406.89677419354837\" y=\"270\" width=\"3.103225806451613\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"398.89677419354837\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.4%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Maruti</text><rect x=\"405.3451612903226\" y=\"318\" width=\"4.654838709677419\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"397.3451612903226\" y=\"337\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.6%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">TCS</text><rect x=\"403.7935483870968\" y=\"366\" width=\"6.206451612903226\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"395.7935483870968\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.8%</text><text x=\"8\" y=\"431\" font-size=\"21\" fill=\"#334155\">Bajaj Finserv</text><rect x=\"402.241935483871\" y=\"414\" width=\"7.758064516129032\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"394.241935483871\" y=\"433\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.0%</text><text x=\"8\" y=\"479\" font-size=\"21\" fill=\"#334155\">BEL</text><rect x=\"397.5870967741935\" y=\"462\" width=\"12.412903225806453\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"389.5870967741935\" y=\"481\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.6%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Sensex leaders and laggards, Friday 13 Nov (% vs Thursday's close), BSE official prints - carried into Sunday</p>"
-     },
-     {
-      "t": "p",
-      "html": " Closes, carried: Hindustan Unilever Rs 1,985.00, Bajaj Finance Rs 1,115.20, ONGC Rs 225.30, Eternal Rs 364.50; on the other side Bharat Electronics Rs 401, Bajaj Finserv Rs 1,860, TCS Rs 2,410, Maruti Suzuki Rs 12,878, State Bank of India Rs 1,080.50, ICICI Bank Rs 1,584. Saturday's results add fresh names to Monday's open: Ashok Leyland reported after Friday's close (numbers in Corporate actions), with Patanjali Foods, Brainbees, PTC Industries, Kaynes and Sammaan Capital also on the Saturday board."
-     }
-    ]
-   },
-   {
-    "heading": "Corporate actions",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Ashok Leyland's Saturday print, on the company's own filing: standalone net profit of Rs 869.02 crore against Rs 771.06 crore a year ago, up 12.7%, on revenue from operations of Rs 13,308.21 crore, up 38.9%; the board declared an interim dividend of Re 1 per share, record date Friday 20 November (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/3e6ba97b-b37f-4229-bec5-d7f4a78355c0.pdf\" target=\"_blank\" rel=\"noopener\">the BSE filing</a>). One line deserves care: the auditors' consolidated review carries a disclaimer tied to a loan-balance and system review at subsidiary Hinduja Leyland Finance - a scope disclaimer with impact undetermined, not a fraud finding or a quantified loss, and this paper reports it as exactly that. Elsewhere on the wire: Adyar Ananda Bhavan, the Chennai vegetarian chain, sold a majority stake to Bodhi Tree Systems - the Murdoch-Uday Shankar venture - for $180 million (<a href=\"https://www.business-standard.com/companies/news/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million-126111201795_1.html\" target=\"_blank\" rel=\"noopener\">Business Standard</a>); Unacademy moved founder Gaurav Munjal to executive chairman and named Akhilendra Kumar chief executive; and on Friday Paytm won RBI's in-principle authorisation to operate wallets again - the stock touched a 52-week high and closed at Rs 1,945.00 (BSE official), still about 9.5% below its Rs 2,150 issue price (<a href=\"https://timesofindia.indiatimes.com/business/india-business/paytm-gets-rbi-prelim-authorisation-to-operate-wallets-shares-surge-to-52-week-high/articleshow/135798025.cms\" target=\"_blank\" rel=\"noopener\">Times of India</a>). The MDR piece of the Paytm story is expectation, not policy: a post-Diwali merchant-fee rollout is reported as coming, not notified (<a href=\"https://www.livemint.com/market/stock-market-news/upi-mdr-rollout-after-diwali-what-it-means-for-paytm-mobikwik-and-pine-labs-what-investors-should-know-11794477959612.html\" target=\"_blank\" rel=\"noopener\">Mint's explainer</a>). Carried dates: Oil India's dividend record date is Friday 20 November; Natco's is Thursday 19 November."
-     }
-    ]
-   },
-   {
-    "heading": "Finance Goldmine",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The week one stock masked four hundred. Read the closing table twice: the S&P 500 rose 2.51% - its best week since August - while its largest member fell 12.75%. Strip Nvidia out and the index would have risen about 3.7%; the equal-weight index, where Nvidia counts the same as the smallest member, rose 2.32%; 401 of the index's 502 stocks gained (<a href=\"https://portfolio-terminal.com/blog/stock-market-week-in-review-november-13-2026\" target=\"_blank\" rel=\"noopener\">the weekly scorecard</a>). The money did not leave chips: AMD rose 18.93%, its best week since May, and Broadcom 18.16%, its best in a year - the pair's gain against Nvidia was the largest weekly swing between them since Broadcom listed. The pattern has a name worth keeping: cap-weighted indices let one company's grief impersonate a market verdict, and this week it nearly did. The personal-money translation: when a headline says \"tech fell,\" ask which index, which weighting, and which five names - the average stock and the average index point often live in different countries. The same arithmetic runs in Mumbai, where a handful of banks and Reliance can move the Sensex while most members go the other way; the breadth line, not the index, is the honest tape."
-     }
-    ]
-   },
-   {
-    "heading": "Startup Intelligence",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " A thin week, counted two ways. Indian startups disclosed about $31.3 million across 12 rounds in the week of 9-14 November, down 88% from the prior week's $258.1 million and far under the eight-week average of $194.3 million (<a href=\"https://entrackr.com/report/funding-and-acquisitions-in-indian-startups-this-week-nov-09-nov-14-12808553\" target=\"_blank\" rel=\"noopener\">entrackr's weekly table</a>); inc42 counts $25.2 million across nine deals for 9-13 November - the trackers window and count differently, so the window and the source are stated. The real signals were in the smaller print: Greenjoules' Rs 150-crore Series B for waste-to-biocrude fuel; Froncort.AI's $2.3 million from Google.org; Rigi's Rs 10 crore from Google; and the week's biggest deal being a consumer-brand buyout, not a venture round - Bodhi Tree's $180 million for control of A2B. Around the table: Norwest closed its eighteenth fund at $4 billion; Sarvam named a president; and MeitY questioned Pronto, Snabbit and Urban Company over gig-worker video data (<a href=\"https://entrackr.com/report/funding-and-acquisitions-in-indian-startups-this-week-nov-09-nov-14-12808553\" target=\"_blank\" rel=\"noopener\">the news-flash file</a>)."
-     },
-     {
-      "t": "p",
-      "html": " Today's startup idea: provenance-as-a-service for the tools developers trust. The Cursor incident's quiet lesson is that one leaked vendor key put a backdoored extension on a marketplace cache for eleven hours, and at most 5,000 users potentially received it before anyone knew. Somebody has to watch the watchers: a service that continuously fingerprints what registries, marketplaces and CDNs actually serve - extension builds, package tarballs, container images - and compares it byte-for-byte against what the publisher signed, alerting within minutes when the served artifact diverges. The buyer is any enterprise with a developer fleet, and the wedge is narrow: start with the top hundred VS Code extensions, publish a free public dashboard, sell the private feed and the incident SLA. What would make it wrong: marketplaces adopting mandatory signed provenance faster than a startup can sell around it - in which case the honest pivot is compliance evidence, not detection."
-     }
-    ]
-   },
-   {
-    "heading": "AI Race",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Google's agent teams start collecting proofs - and OpenAI folds a team into the model. Google Research's weekend post is a results sheet for Antigravity's /teamwork multi-agent workflows paired with Gemini 4: information theory's Courtade-Kumar conjecture, open since 2013, proven in full generality and formalized in roughly 50 million lines of Lean 4; the Weil conjectures formalized end-to-end across 28,800 subagent invocations; a two-week campaign that rewrote the Zircon microkernel's remaining C++ into about 800,000 lines of Rust that pass the original test suite; and a libgav1 port that ended 20-30% faster than the hand-optimized original (<a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\" target=\"_blank\" rel=\"noopener\">Google Research's post</a>). The tools open to outside researchers and developers now, with ten thousand academic seats free for six months. OpenAI, meanwhile, disbanded its stand-alone robotics team, folding researchers into core research and applied hardware - the bet, the company told Fortune, is that general models like GPT-6 Astra run robots directly, no specialized brain required (<a href=\"https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/\" target=\"_blank\" rel=\"noopener\">Fortune's exclusive</a>). And Sierra shipped v1.0 of Poppy, the protocol for personal agents to talk to businesses: Shopify now publishes a Poppy file for every merchant, Meta's Muse looks for it on every site, and the design-partner list passed a hundred (<a href=\"https://sierra.ai/blog/releasing-poppy\" target=\"_blank\" rel=\"noopener\">Sierra's release</a>). One more artifact of the week, carried with care: a \"No AI Slop Manifesto\" circulating since the AI Engineer Code Summit - five values, 22 resolutions, undated on its own page, which describes itself as written by the conference's speakers and attendees (<a href=\"https://www.slopmanifesto.com/\" target=\"_blank\" rel=\"noopener\">the site itself</a>); this paper notes it as a sentiment marker, not an event."
-     }
-    ]
-   },
-   {
-    "heading": "Vibe coding",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The breach every builder should read end-to-end. Cursor's own post-mortem is unusually complete: an attacker obtained an access key Cursor had issued to Fireworks - exposed by Fireworks - and used it to copy a read-only training-data bucket of coding-agent traces; a few traces held unredacted credentials; those opened Cursor's SaaS tools, archived source and support mail; and on 29 October the attacker placed a malicious copy of Anthropic's Claude Code extension on Cursor's marketplace cache, where at most 5,000 users pulled it over roughly eleven hours (<a href=\"https://cursor.com/blog/security-incident-update\" target=\"_blank\" rel=\"noopener\">Cursor's update</a>). Not an Anthropic vulnerability; not the production signing keys; last attacker activity blocked 1 November. The builder's checklist writes itself: vendor keys are your keys; training buckets are attack surface; anything your users install needs provenance you verify, not provenance you assume. Then, for the weekend's stranger read: researchers at ELLIS Tübingen turned pairs of AI agents loose on the web with one instruction - find each other - and 21 of 40 pairs did, all converging on the same meet-up spot, ntfy.sh, reached from memory rather than search (<a href=\"https://schelling-atlas.com/\" target=\"_blank\" rel=\"noopener\">the Schelling Atlas</a>). When the researchers blocked it, the agents scattered to maps, shops and dead domains an attacker could register. The agents are developing habits; the habits are becoming infrastructure; and nobody is signing any of it."
-     }
-    ]
-   },
-   {
-    "heading": "Try this today (Sunday)",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Put your own words through Deep Review. The same engine behind Google's proof-checking week reviews drafts: in Antigravity, two Deep Review calls a week are free, and its authors report that on 578 opted-in conference submissions, over 30% of authors said it caught substantive proof bugs or significant typos (<a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\" target=\"_blank\" rel=\"noopener\">the Google Research post</a>). How to try it: open Antigravity, start Deep Review, and paste the document you most cannot afford to be wrong in - a proposal, a proof, a contract summary. The limits are honest: it is built for research-shaped documents, the free tier is two calls a week, and its findings are leads to verify, not verdicts to paste. The tools themselves predate this week - what is new is the external opening and the results behind it."
-     },
-     {
-      "t": "p",
-      "html": " Then one read and one watch, both primary. The read: the Transportation Secretary's Saturday statement on the ground stop - two pages, every number in this paper's lead traceable to it (<a href=\"https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\" target=\"_blank\" rel=\"noopener\">the statement</a>). The watch: Ship 42 threading itself into the chopsticks, on Space.com's capture of the 4:20 PM catch (<a href=\"https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14\" target=\"_blank\" rel=\"noopener\">the video</a>) - then note the date, because the next attempt at catching both halves is the flight that changes the economics."
-     }
-    ]
-   },
-   {
-    "heading": "One concept: the Schelling point",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " How do people coordinate when they cannot talk? In 1960 the economist Thomas Schelling answered: they meet at the option that stands out - the focal point each expects the other to expect. His classic setup: two people told to meet in New York City on a given day, no communication, no named place; most, he found, picked noon at Grand Central Station - not because it was best, but because it was salient, the answer that felt like the answer. The concept earned him a Nobel and a name: the Schelling point. This week gave the idea its strangest demonstration yet. Researchers turned pairs of AI agents loose on the open web with tokens to exchange and no agreed meeting place - and the agents converged, from memory, on one obscure pub-sub site, ntfy.sh: 42 of 130 opened with a request to it before searching anything, and every successful pair met there (<a href=\"https://schelling-atlas.com/\" target=\"_blank\" rel=\"noopener\">the study</a>). Asked the puzzle directly, models named Wikipedia - a site none of their agents actually visited. What agents say and what agents do are different datasets, and the doing just inherited Schelling. The uses are practical: standards are Schelling points - the protocol that feels inevitable collects the votes, which is why Shopify and Meta moving on the same week matters more than either feature list; and in any negotiation, the option that feels like the default is a position somebody staked out early. <em>60-second recall, closed book: (1) What did Schelling's strangers pick, and why? (2) Where did the agents meet, reached how? (3) What did the models say when asked - and what is the lesson? Answers: noon at Grand Central, because salience beats optimality; ntfy.sh, from memory; Wikipedia - say and do are different datasets.</em>"
-     }
-    ]
-   },
-   {
-    "heading": "Term of the day: ground stop",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " A ground stop is the aviation system's hand brake: an order that holds aircraft at their departure airports - wheels down, wherever they are - while planes already flying continue to their destinations. It is the most severe tool in the FAA's traffic-management kit, above ground delays and miles-in-trail restrictions, and it is issued for runways, airports, regions or - rarely - the whole country. Friday's was the rare kind: departures halted nationwide for about five hours after a router flood degraded controller communications and radar feeds, only the second such nationwide stop since 9/11, per <a href=\"https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8\" target=\"_blank\" rel=\"noopener\">the Associated Press</a>; roughly 10,000 flights cancelled, more than 7,000 delayed, and some 3,500 aircraft already aloft landed safely before the stop lifted at about 8:15 PM Eastern (<a href=\"https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\" target=\"_blank\" rel=\"noopener\">the department's statement</a>; <a href=\"https://www.usatoday.com/story/news/nation/2026/11/14/faa-ground-stop-probe-l3harris/92780406007/\" target=\"_blank\" rel=\"noopener\">USA Today</a>). The details that define the term: a ground stop does not ground the sky - it freezes the ground and lets the sky drain, which is why the safety numbers look the way they do. And the effects outlive the order: aircraft and crews land in the wrong cities, and the schedule takes days to unknot, which airlines warn is still working itself out this weekend."
-     }
-    ]
-   },
-   {
-    "heading": "Setup board",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Sunday's board is a carry-forward: no weekend session, so Friday's prices stay the live marks and Monday is the next scored session. The desk's rule stands: every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup. Ledger: <a href=\"https://files.instinct.com/gqn467t8lax3-the-exchange-under-the-banyan-tree\" target=\"_blank\" rel=\"noopener\">Slow Burn swing research, 24 Oct</a>."
-     },
-     {
-      "t": "chart",
-      "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines after Friday's session, carried into Sunday; prices are BSE official closes, Friday 13 November</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it for a fourteenth session, close Rs 487.60</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 487.60 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil, breakout leg not re-established</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close Rs 225.30, second session under 228 (the break was the Rs 8 ex-dividend); Brent settled at $95.84, so the crude leg stays firm</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 225.30 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. Infosys</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - below zone, flat</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Absorption thesis - trigger zone Rs 1,175, close-based floor Rs 1,120 - close Rs 1,140.00, flat below the zone</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>A close under 1,120 ends the thesis</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>First checkpoint 1,245 (gap zone)</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (qualitative)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,140.00 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - R:R fails screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - held since; closed Rs 1,345.20</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>5 November swing high near Rs 1,370</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.2 - failed the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,345.20 (Fri close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>5. Hindalco</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>No entry zone yet - levels to be verified against longer price history; closed Rs 944.40, the board's weakest name Friday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>n/a until an entry zone exists</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Momentum plus record quarter as catalyst</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 944.40 (Fri close)</p></div>"
-     },
-     {
-      "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, marker at Friday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5161290322585\" x2=\"591.2903225806449\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"334.3958582238156\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5161290322585\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"334.3958582238156\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">225.30</text><text x=\"591.2903225806449\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC: coil floor to coil top, marker at Friday's close</p>"
-     },
-     {
-      "t": "p",
-      "html": " The resolved line stays in the ledger: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.44%, net +6.14% after the 0.3% cost convention, in seven sessions; the stock closed Friday at Rs 1,376.60, which changes nothing for a line that already paid. Of the open lines: ONGC (Rs 225.30) spent a second session under the 228 breakout line - the break was the Rs 8 ex-dividend adjustment, and Friday's low of 224.90 held well above the 218.50 floor while crude settled the week at $95.84; Kotak (Rs 487.60) held its trigger for a fourteenth session; Infosys (Rs 1,140.00) is flat below the zone with the 1,120 floor untouched; JSW Steel (Rs 1,345.20) still fails the risk-reward screen; Hindalco (Rs 944.40) remains a candidate without a verified entry zone. No resolutions, no new setups - and Saturday's results give Monday fresh names before any of them can qualify: a setup needs verified levels, not a single strong print."
-     }
-    ]
-   },
-   {
-    "heading": "How the board scores",
-    "blocks": [
-     {
-      "t": "rows",
-      "items": [
-       {
-        "n": "1",
-        "title": "No prior-day stop trade",
-        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
-       },
-       {
-        "n": "2",
-        "title": "Same-day zone and stop",
-        "detail": "Unknowable from daily data: conservative scoring assumes the worst fill, then the stop."
-       },
-       {
-        "n": "3",
-        "title": "Resolutions stay on record",
-        "detail": "A setup leaves the board only when its target or stop resolves it; winners and losers both stay in the ledger."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "heading": "The editor's read",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " One weekend, two machines. On Friday a router the size of a pizza box, swapped in during maintenance nobody schedules coverage for, stopped the largest aviation system on Earth for five hours - and a few hours after it restarted, a stainless-steel spacecraft fell out of orbit, through fire, into a pair of mechanical arms that caught it like a fly ball. The temptation is to grade the two organizations; the honest read is to grade the two problems. The FAA's is a legacy problem: a network built when Compaq made servers, maintained under contracts old enough to drink, with a 2027 deadline and a $50 billion ask - and its failure mode is invisible until national. SpaceX's is a frontier problem: never been done, on camera, and its failure mode - a booster ditching itself in the Gulf - was designed in advance and executed without a single person at risk. Legacy fails by surprise; frontier fails by rehearsal. The investor's version of the distinction is the week's real lesson: price the maintenance debt of the systems you depend on - the exchange, the bank, the grid - with the same attention you give the launches you watch. Monday tests both stories: L3Harris opens with the Secretary's sentence hanging over it, and SpaceX goes back to work on the half that missed."
-     }
-    ]
-   },
-   {
-    "heading": "Brewing",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The router file. Cause chain: twenty-four years of outsourced telecom; a 2002 contract the FAA was still extending without competition twenty years on (<a href=\"https://www.highergov.com/contract-opportunity/announcement-of-fti-single-source-extension-dtfa0102d03006-ssj-22-0001-u-9b1f3/\" target=\"_blank\" rel=\"noopener\">the single-source extension notice</a>); copper past its replacement date; a Saturday press conference naming L3Harris and a single router - installer error or faulty unit undetermined; a company statement pointing at its own 70% conversion record; and a Secretary who needs $50 billion saying \"I'm stuck with L3Harris\" (<a href=\"https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace\" target=\"_blank\" rel=\"noopener\">DOT</a>; <a href=\"https://www.foxbusiness.com/fox-news-air-space/who-l3harris-federal-contractor-sec-duffy-says-may-have-caused-faa-outage\" target=\"_blank\" rel=\"noopener\">Fox Business</a>). Watch next: the FAA's additional testing with the company, any determination on the router, LHX's Monday open (it fell 4% after hours), and whether the $50 billion ask names who operates what. Proven wrong if: the fault lands on a defective unit alone and the modernization role survives intact."
-     },
-     {
-      "t": "p",
-      "html": " The succession file. Cause chain: Thursday's one-sentence exit, no reason given; Friday's FT report naming Arm's Rene Haas among approaches; the board's own answer - selecting a search firm, no candidate formally engaged, speculation premature; Kress holding her first meeting in the job - with senior executives at headquarters; House committees requesting Huang, Senate Banking requesting Huang and Lutnick (<a href=\"https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>; <a href=\"https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\" target=\"_blank\" rel=\"noopener\">Nvidia's release</a>). Watch next: Tuesday's quarter - the first print of the interim era, with the written commentary at about 1:20 PM Pacific and the call at 2 PM - and any search-firm announcement. Proven wrong if: the board names a permanent chief inside weeks, making the search a formality."
-     },
-     {
-      "t": "p",
-      "html": " The debut file. Cause chain: the largest AI company yet to test public markets - an S-1/A at 825 million shares, $70 to $78, a reported $1.3-1.45 trillion valuation, a reported six-times-covered book, roughly $451.6 billion of compute commitments disclosed; pricing Wednesday, first trade Thursday as ANT (<a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm\" target=\"_blank\" rel=\"noopener\">the filing</a>; <a href=\"https://finance.yahoo.com/technology/article/anthropic-sets-ipo-date-for-thursday-nov-19-173011206.html\" target=\"_blank\" rel=\"noopener\">the company's dates</a>). Watch next: whether pricing lands in, above or below the range; the first hour's tape; and what a strong or weak debut does to the reported 2027 OpenAI timeline. Proven wrong if: the deal is pulled or delayed - a six-times-covered book says that is not the base case."
-     }
-    ]
-   },
-   {
-    "heading": "The week ahead",
-    "blocks": [
-     {
-      "t": "rows",
-      "items": [
-       {
-        "n": "1",
-        "title": "Sun 15 Nov (today)",
-        "detail": "No session in Mumbai. The FAA investigation and airline recovery continue; the week's positioning starts with Friday's marks."
-       },
-       {
-        "n": "2",
-        "title": "Mon 16 Nov",
-        "detail": "Mumbai reopens - the first session to judge Saturday's results, Ashok Leyland first; India's October WPI expected (moneycontrol's planner); L3Harris's first session since the naming."
-       },
-       {
-        "n": "3",
-        "title": "Tue 17 Nov",
-        "detail": "Nvidia's third quarter: written CFO commentary about 1:20 PM Pacific, call at 2 PM - Kress's first print as interim chief."
-       },
-       {
-        "n": "4",
-        "title": "Wed 18 Nov",
-        "detail": "Fed minutes. Anthropic prices its IPO after the US close - company-announced."
-       },
-       {
-        "n": "5",
-        "title": "Thu 19 Nov",
-        "detail": "Anthropic begins trading as ANT on the Nasdaq. Natco's dividend record date (carried)."
-       },
-       {
-        "n": "6",
-        "title": "Watching",
-        "detail": "Ashok Leyland's and Oil India's dividend record dates Friday 20 November; MCL RHP pricing steps; Razorpay, Sembcorp and MakeMyTrip India launch timing; any Saudi damage confirmation on the Houthi claims; the FAA's router determination; Cult.fit's Madras High Court date on 2 December."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "heading": "Notes on this edition",
-    "blocks": [
-     {
-      "t": "bullets",
-      "items": [
-       "Sources read for this edition: the Transportation Department's Saturday statement, USA Today and Fox Business for the ground stop and L3Harris; Space.com, AP via NPR and SpaceNews for the Starship flight, with event timing from Space.com's on-site account; Nvidia's own transition release and the board statement via CNBC; Anthropic's S-1/A on EDGAR and the company's announced dates via Yahoo Finance, with the oversubscription attributed to Bloomberg; Google Research, Fortune, Sierra and Cursor's own posts for the AI sections; the Schelling Atlas study site; BSE's official bhavcopy for Indian prices and the portfolio scorecard for the US week; the companies' own BSE filing for Ashok Leyland; SEBI actions via CNBC-TV18; The Hindu for the MCL RHP; entrackr's weekly table for startup funding; Xinhua for the Gulf claims.",
-       "Framing calls this edition: the router's fault is undetermined and is reported as undetermined - installer error or defective unit; the no-cyber assessment is the Secretary's provisional words, attributed; the Starship booster loss and the ship's catch are reported as separate outcomes, never as a double catch; Anthropic's valuation and book coverage are reported figures, attributed; Paytm's merchant-fee piece is labeled expectation, not policy; the manifesto is carried as a sentiment marker with its own page's claim, not as a dated event; the Saudi-Houthi exchange reports circulating in regional media failed wire verification and were dropped.",
-       "Prices are BSE official closes or the named settlement prints; provisional flow figures are labeled provisional. Nothing on this page is investment advice. Verify anything load-bearing against the linked sources."
-      ]
-     },
-     {
-      "t": "closing",
-      "html": " The router failed in public; the catch worked in public; the week prices both. See you tomorrow."
-     }
-    ]
-   }
-  ]
- },
- "audio": {
-  "quick": "audio/d41-quick.m4a",
-  "durations": {},
-  "segments": [
-   {
-    "key": "segment1",
-    "label": "Opening and the five-minute lead route"
-   },
-   {
-    "key": "segment2",
-    "label": "Front page: the cause, the catch, the search"
-   },
-   {
-    "key": "segment3",
-    "label": "Front page: the terms, the nods, the claims"
-   },
-   {
-    "key": "segment4",
-    "label": "Markets, IPOs and the movers"
-   },
-   {
-    "key": "segment5",
-    "label": "Corporate actions and the Finance Goldmine"
-   },
-   {
-    "key": "segment6",
-    "label": "Startup Intelligence and the AI Race"
-   },
-   {
-    "key": "segment7",
-    "label": "Vibe coding and Try this today"
-   },
-   {
-    "key": "segment8",
-    "label": "Concept, term and the setup board"
-   },
-   {
-    "key": "segment9",
-    "label": "The editor's read, brewing and the week ahead"
-   }
-  ],
-  "segment1": "audio/d41-segment1.m4a",
-  "segment2": "audio/d41-segment2.m4a",
-  "segment3": "audio/d41-segment3.m4a",
-  "segment4": "audio/d41-segment4.m4a",
-  "segment5": "audio/d41-segment5.m4a",
-  "segment6": "audio/d41-segment6.m4a",
-  "segment7": "audio/d41-segment7.m4a",
-  "segment8": "audio/d41-segment8.m4a",
-  "segment9": "audio/d41-segment9.m4a",
-  "full": "audio/d41-full.m4a"
- }
+  },
+  "audio": {
+    "quick": "audio/d41-quick.m4a",
+    "durations": {
+      "quick": 93.8,
+      "full": 2276.0,
+      "segment1": 212.1,
+      "segment2": 211.5,
+      "segment3": 182.1,
+      "segment4": 274.7,
+      "segment5": 325.9,
+      "segment6": 401.0,
+      "segment7": 198.0,
+      "segment8": 264.2,
+      "segment9": 206.4
+    },
+    "segments": [
+      {
+        "key": "segment1",
+        "label": "Opening and the five-minute lead route"
+      },
+      {
+        "key": "segment2",
+        "label": "Front page: the cause, the catch, and the search"
+      },
+      {
+        "key": "segment3",
+        "label": "Front page: the terms, the nods, and the claims"
+      },
+      {
+        "key": "segment4",
+        "label": "Markets, IPOs, and the top movers"
+      },
+      {
+        "key": "segment5",
+        "label": "Corporate actions, Finance Goldmine, Startup Intelligence"
+      },
+      {
+        "key": "segment6",
+        "label": "AI Race, vibe coding, try this, and the Schelling point"
+      },
+      {
+        "key": "segment7",
+        "label": "Term of the day and the setup board"
+      },
+      {
+        "key": "segment8",
+        "label": "Board scoring, the editor's read, and Brewing"
+      },
+      {
+        "key": "segment9",
+        "label": "The week ahead and the notes on this edition"
+      }
+    ],
+    "segment1": "audio/d41-segment1.m4a",
+    "segment2": "audio/d41-segment2.m4a",
+    "segment3": "audio/d41-segment3.m4a",
+    "segment4": "audio/d41-segment4.m4a",
+    "segment5": "audio/d41-segment5.m4a",
+    "segment6": "audio/d41-segment6.m4a",
+    "segment7": "audio/d41-segment7.m4a",
+    "segment8": "audio/d41-segment8.m4a",
+    "segment9": "audio/d41-segment9.m4a",
+    "full": "audio/d41-full.m4a"
+  },
+  "times": null
 }
