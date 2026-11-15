@@ -113,6 +113,10 @@ def respell(t):
         sb = speak_number(b) if '.' in b else wnum(int(b))
         return f"{sa} to {sb}"
     t = re.sub(r"\b(\d+(?:\.\d+)?):(\d+(?:\.\d+)?)\b", ratio, t)
+    # dollar ranges with a shared scale word: "$57.75 to $64.35 billion", "$1.3-1.45 trillion"
+    def usdrange(m):
+        return speak_number(m.group(1)) + ' to ' + speak_number(m.group(2)) + ' ' + m.group(3) + ' dollars'
+    t = re.sub(r"\$\s*([0-9][0-9,]*(?:\.\d+)?)\s*(?:to|-)\s*\$?\s*([0-9][0-9,]*(?:\.\d+)?)\s*(million|billion|trillion)", usdrange, t)
     # ranges number-number -> number to number
     def rng(m):
         return speak_number(m.group(1)) + ' to ' + speak_number(m.group(2))
@@ -138,6 +142,8 @@ def respell(t):
     def usd(m):
         return speak_number(m.group(1)) + ' dollars'
     t = re.sub(r"\$\s*([0-9][0-9,]*(?:\.\d+)?)", usd, t)
+    # adjectival singular: 'a one point seven billion dollars contract' -> 'billion dollar contract'
+    t = re.sub(r"\b(million|billion|trillion) dollars (contract|deal|raise|fund|valuation|program|programme|bid|loan|investment|buyout|purchase|stake)\b", r"\1 dollar \2", t)
     # percents
     t = re.sub(r"([0-9][0-9,]*(?:\.\d+)?)\s*%", lambda m: speak_number(m.group(1)) + ' percent', t)
     # S&P and L&T

@@ -76,6 +76,7 @@ FEFII = 'https://www.financialexpress.com/market/fiis-pour-in-rs-5736-crore-but-
 XINHUA = 'https://english.news.cn/20261113/f3639000249a45b295f889e38266c7bd/c.html'
 LRURL = 'https://files.instinct.com/5bywoe9rouad-the-network-america-flies-on'
 LEDGER = 'https://files.instinct.com/gqn467t8lax3-the-exchange-under-the-banyan-tree'
+HG = 'https://www.highergov.com/contract-opportunity/announcement-of-fti-single-source-extension-dtfa0102d03006-ssj-22-0001-u-9b1f3/'
 
 movers = bars('Sensex leaders and laggards, Friday 13 Nov (% vs Thursday\'s close), BSE official prints - carried into Sunday', [
     ('HUL', 1.2, '+1.2%'), ('Bajaj Finance', 0.4, '+0.4%'), ('ONGC', 0.2, '+0.2%'), ('Eternal', 0.1, '+0.1%'),
@@ -182,7 +183,7 @@ G.append({'heading': 'The editor\'s read', 'blocks': [
 ]})
 
 G.append({'heading': 'Brewing', 'blocks': [
- p(' The router file. Cause chain: twenty-four years of outsourced telecom; a 2002 contract nobody rebid; copper past its replacement date; a Saturday press conference naming L3Harris and a single router - installer error or faulty unit undetermined; a company statement pointing at its own 70% conversion record; and a Secretary who needs $50 billion saying "I\'m stuck with L3Harris" (' + a(DOT, 'DOT') + '; ' + a(FOX, 'Fox Business') + '). Watch next: the FAA\'s additional testing with the company, any determination on the router, LHX\'s Monday open (it fell 4% after hours), and whether the $50 billion ask names who operates what. Proven wrong if: the fault lands on a defective unit alone and the modernization role survives intact.'),
+ p(' The router file. Cause chain: twenty-four years of outsourced telecom; a 2002 contract the FAA was still extending without competition twenty years on (' + a(HG, 'the single-source extension notice') + '); copper past its replacement date; a Saturday press conference naming L3Harris and a single router - installer error or faulty unit undetermined; a company statement pointing at its own 70% conversion record; and a Secretary who needs $50 billion saying "I\'m stuck with L3Harris" (' + a(DOT, 'DOT') + '; ' + a(FOX, 'Fox Business') + '). Watch next: the FAA\'s additional testing with the company, any determination on the router, LHX\'s Monday open (it fell 4% after hours), and whether the $50 billion ask names who operates what. Proven wrong if: the fault lands on a defective unit alone and the modernization role survives intact.'),
  p(' The succession file. Cause chain: Thursday\'s one-sentence exit, no reason given; Friday\'s FT report naming Arm\'s Rene Haas among approaches; the board\'s own answer - selecting a search firm, no candidate formally engaged, speculation premature; Kress chairing the new structure\'s first meeting; House committees requesting Huang, Senate Banking requesting Huang and Lutnick (' + a(CNBCNV, 'CNBC') + '; ' + a(NVREL, 'Nvidia\'s release') + '). Watch next: Tuesday\'s quarter - the first print of the interim era, with the written commentary at about 1:20 PM Pacific and the call at 2 PM - and any search-firm announcement. Proven wrong if: the board names a permanent chief inside weeks, making the search a formality.'),
  p(' The debut file. Cause chain: the largest AI company yet to test public markets - an S-1/A at 825 million shares, $70 to $78, a reported $1.3-1.45 trillion valuation, a reported six-times-covered book, roughly $451.6 billion of compute commitments disclosed; pricing Wednesday, first trade Thursday as ANT (' + a(S1A, 'the filing') + '; ' + a(YAHOO, 'the company\'s dates') + '). Watch next: whether pricing lands in, above or below the range; the first hour\'s tape; and what a strong or weak debut does to the reported 2027 OpenAI timeline. Proven wrong if: the deal is pulled or delayed - a six-times-covered book says that is not the base case.'),
 ]})
@@ -207,7 +208,7 @@ G.append({'heading': 'Notes on this edition', 'blocks': [
  closing(' The router failed in public; the catch worked in public; the week prices both. See you tomorrow.'),
 ]})
 
-fact = ('Edition 41. The cause and the catch. Sunday 15 November 2026, edition 41. This edition runs 5,028 words. '
+fact = ('Edition 41. The cause and the catch. Sunday 15 November 2026, edition 41. This edition runs 5,043 words. '
  'The cause of Friday\'s nationwide ground stop has a name: a router installed during L3Harris\'s copper-to-fiber maintenance flooded the FAA network - installer error or faulty unit undetermined. Hours later SpaceX caught a Starship upper stage returning from orbit, a first, while its booster ditched in the Gulf. '
  'Nvidia\'s board is selecting a search firm; Anthropic prices Wednesday and trades Thursday as ANT - 825 million shares at $70 to $78. SEBI cleared Razorpay, Sembcorp Green Infra and MakeMyTrip India; Coal India\'s MCL filed its RHP; Ashok Leyland grew profit 12.7%; Paytm can run wallets again. '
  'Mumbai\'s Friday marks stand: Sensex 81,592.45, Nifty 25,144.30. The long read: L3Harris - the network America flies on.')
