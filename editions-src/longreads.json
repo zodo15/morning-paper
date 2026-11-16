@@ -6571,6 +6571,9 @@
       "full": "audio/lr42-full.m4a",
       "durations": {
         "full": 777.483
+      },
+      "times": {
+        "full": "audio/lr42-full.times.json"
       }
     }
   }
