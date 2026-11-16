@@ -1,0 +1,78 @@
+# Edition 43 research (Tuesday 17 November 2026)
+
+## 1. NVIDIA REPORTS TONIGHT - Q3 FY27, first print since Huang's resignation (LEAD overnight event)
+Owning: NVIDIA IR press release, Nov 12, READ IN FULL - https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/
+- "NVIDIA will report its third-quarter fiscal 2027 financial results on Tuesday, November 17, at approximately 1:20 p.m. PT, as previously scheduled, followed by its earnings call at 2 p.m. PT." = ~2:50 AM IST Wednesday for the release, ~3:30 AM IST for the call - AFTER this paper. Frame as tonight.
+- Leadership state (verified at IR, per standing rule): Jensen Huang resigned as President, CEO and board member Nov 12, effective immediately. THE RELEASE GIVES NO REASON - keep it that way (main's rule). Colette Kress (EVP & CFO since Sept 2013; ex-Cisco, Microsoft) is Interim CEO and stays CFO; board is searching internal + external candidates. Harvey C. Jones appointed first-ever Chair of the Board (30+ yrs entrepreneur/VC; was CEO and Executive Chairman of Synopsys). Jones quote: full confidence, "operations, customer commitments and product roadmap to continue without interruption." Kress quote: "building on the extraordinary foundation Jensen created over the last 33 years."
+- Kress's first earnings call as interim CEO; the print itself is the first since the resignation.
+- NVDA Monday close: $156.14, -$6.71 (-4.12%) - Motley Fool closing note, Nov 16: https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/ . Volume 326.6M shares, ~119% above 3-month daily avg of 148.9M. Again the heaviest weight on the S&P (AP).
+- Analyst cuts into the print (CNBC live, Nov 16): Mizuho (outperform) PT $250 -> $220; UBS (buy) PT $300 -> $240. https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html
+- AP/Politico tie the week to the Megaspeed diversion scrutiny; per main's rule Nvidia has given no reason - any scrutiny context stays explicitly attributed to the outlet, never stated as the reason.
+- BANKED from earlier digests: FT reported Friday the board approached Arm CEO Rene Haas (LR40 used this); Anthropic prices its IPO Wed Nov 18, debuts Thu Nov 19 as ANT (Ed42 research, S-1/A-2 verified).
+
+## 2. BIS closes the cloud backdoor (Monday, fresh) - second US anchor
+- AP (Nov 16, 3:33pm ET): Trump administration issued new rules Monday to restrict remote access to advanced U.S. computing chips and servers - aimed at China's ability to use U.S. chips (housed abroad) to train AI models. https://apnews.com/article/nvidia-export-controls-chips-china-remote-access-60f868d3bb430b85a8657b27d421096e
+- Politico (Nov 16): Commerce/BIS interim final rule, expected Federal Register publication; licenses required to sell/ship advanced AI chips to Indonesia, Malaysia, Singapore, Thailand and Brazil (higher diversion-risk countries); public comments due 60 days after publication. Prevents companies in restricted countries from RENTING advanced AI compute from data centers abroad. https://www.politico.com/news/2026/11/16/commerce-closes-chinas-backdoor-to-nvidia-chips-after-white-house-steps-in-01167199
+- Stage-exact: rule ISSUED Monday; Federal Register publication expected; comments 60 days from publication.
+
+## 3. US close Monday (finals, CNBC end-of-day + AP)
+- S&P 500: 7,416.59, -1.92% (3rd straight loss). Nasdaq Composite: 24,509.76, -2.49% (3rd straight). Dow: 51,608.17, -739.38 pts (-1.41%).
+- AI complex: NVDA -4.12% ($156.14); Micron and Intel -7%+; AMD -5%; Sandisk ~-8%; Dell ~-7%; Oracle ~-5%. Only consumer staples sector green (+0.3%); IT -2.7%, communication services -2.6%.
+- NY Fed Empire State index: 7.8, down 18 points, below 16.7 consensus (still expansion). New orders 3.0 (-20.2 pts); employment 18.1 (highest since June 2022); prices paid 45.9 (-14 pts).
+- Treasuries (CNBC): 10Y 5.131% (-2bp, after 5.174% Friday high); 2Y 4.834% (-4bp); 30Y 5.476%. https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html
+- Fed Chair Kevin Warsh, opening remarks at a Fed conference on AI/productivity (he calls it "SI"): if the technology disappoints after "significant capital investment and stock market gains, expected returns could turn down and equity valuations could fall, leading to an economic slowdown and a more notable rise in unemployment." (Axios) - verify exact quote from the Fed's own text if printed; attribute to the conference remarks.
+- Bitcoin: fell to $62,000 late Saturday (lowest since August), back near $64,000 Monday morning; sixth straight weekly decline (CNBC/Coin Metrics).
+- Michael Burry said he closed his Oracle puts and last Caterpillar puts "on the continued downward volatility" (CNBC) - optional color.
+
+## 4. Oil, gold (settlements, cross-checked x2)
+- Brent (ICE, Jan'27): settled $92.44, -$3.40 (-3.6%). WTI: $85.72, -$2.84 (-3.2%). Reuters via Business Times: https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-settles-lower-recovering-middle-east-exports-bolster-surplus-outlook ; The Edge settlement table (Jan'27 row): https://edgeconsultancykw.com/commodities-wrap-16-november-2026/
+- Driver: signs of recovering oil flows through the Strait of Hormuz reinforcing surplus expectations; IEA said Friday the market returns to surplus in Q4; fresh tanker incidents underscore risk. Every energy contract and metal The Edge tracks settled lower.
+- Gold: $3,853.00 (-0.86%). Silver: $46.859 (-4.60%, largest metals move). Corn +0.73%, coffee +0.51% the only tracked gainers.
+- NOTE for the paper: Ed42 carried Brent $95.82 (Friday); Monday settlement $92.44 is the new mark.
+
+## 5. India close Monday (BSE official prints; bhavcopy BhavCopy_BSE_CM_0_0_0_20261116_F_0000.CSV, cross-check passed)
+- Sensex 82,104.79, +512.34 (+0.63%); day high 82,311.65. Nifty 25,291 (+~0.5%). Led by financials, FMCG, oil & gas; FII inflows + lower crude. The Hindu/PTI: https://www.thehindu.com/business/Industry/stock-markets-end-higher-on-foreign-fund-inflows-lower-crude-oil-sensex-up-512-points/article71707675.ece ; HBL: https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16th-november-2026/article71705118.ece
+- FII/DII (provisional, Nov 16; FE): FII net +Rs 4,864.68 cr (bought 15,636.88, sold 10,772.20); DII net -Rs 3,519.05 cr. Friday FII ~+Rs 5,737 cr; second straight week of FII buying. https://www.financialexpress.com/market/fiis-buy-rs-4865-crore-while-diis-sell-3-factors-supporting-market-sentiment-4386302/
+- Bhavcopy prints (close vs Friday): Max Healthcare 1,010.00 +6.88% (top Sensex/Nifty gainer, closed at day high). Tata Consumer 1,115.60 +3.39%. TMPV 262.20 -8.64% (top loser; Friday 4:20pm filing cut JLR FY27 core margin to 2-3% from ~4%, expects ~1.25bn pounds ($1.65bn) outflow this fiscal - Reuters/HBL: https://www.thehindubusinessline.com/markets/tata-motors-pv-falls-75-after-lowering-jlr-outlook/article71706761.ece ; Fortune India: https://www.fortuneindia.com/markets/sensex-nifty-rise-over-05-tata-motors-pv-slumps-87-as-jlr-cuts-fy27-margin-outlook/170557). TMCV (CV entity) 428.80 -1.04%. Tata Steel 181.75 -2.81%. Ashok Leyland 167.80 -0.80% (first full session after Saturday's +12.7% profit print). Eicher 7,574.10 -1.31% (day low 7,521). FirstCry 158.25 -1.34% (Saturday results' first session). Paytm 1,889.50 -2.85%. Eternal 370.85 +1.74%. M&M 3,350.00 +0.42%. Maruti 12,573.75 -2.36%.
+
+## 6. India corporate, Monday (fresh; BSE filings via HBL roundup + company releases)
+HBL buzzing-stocks (Nov 16): https://www.thehindubusinessline.com/markets/buzzing-stocks-on-november-16-pricol-ongc-bel-dr-reddys-va-tech-wabag-and-more/article71705452.ece
+- **Pace Digitek** largest-ever order: Rs 2,691 cr (incl GST) LOA from NTPC Green Energy for 600 MW/1800 MWh BESS EPC + 15-year O&M (Blocks 1-2, Cluster-01 of the 3300 MWh Khavda project). FY27 order inflows now Rs 5,129 cr; executable order book Rs 13,427 cr; BESS portfolio 6.62 GWh; Class-I local supplier; 5 GWh capacity operational, 10 GWh expanding. BSE Reg 30 filing dated Nov 16: https://bazaarwatch.com/announcement/317263/pace-digitek-limited-press-release
+- **Warburg Pincus-Pricol**: definitive agreements to acquire Pricol promoters' ENTIRE 38.51% in Pricol Autotech Ltd, post-demerger of the DICVS business into it; subject to demerger effectiveness + approvals.
+- **ONGC-Cambay**: ONGC took over operations/control of disputed CB-OS-02 offshore block from Vedanta Oil & Gas; takeover EFFECTIVE JULY 22, 2026 (date-align: disclosed now via quarterly filings after Delhi HC dismissed Vedanta's challenge to the government's refusal to extend the PSC). Vedanta recognized ~Rs 379 cr impairment. PIs: Vedanta 40% (operator), ONGC 50%, Invenire Petrodyne 10%.
+- VA Tech Wabag: Saudi Water Authority cancelled the 300 MLD Yanbu mega desalination tender (customer's internal reasons, per Etimad portal).
+- Dr Reddy's: USFDA classifies FTO-3 Bachupally (Hyderabad) inspection VAI, officially closed (Saturday filing).
+- Zydus: USFDA concluded LiqMeds UK inspection (Nov 9-13) with FOUR observations; working to address.
+- Alembic: USFDA FINAL approval for Binimetinib 15/45 mg tablets (RLD: Mektovi, Array).
+- BEL: additional orders Rs 619 cr since Nov 6 disclosure (comms equipment, drones, electro-optics, laser rangefinders, spares, services).
+- GAIL x KRIBHCO MoU: explore gas-based fertiliser project in Andhra Pradesh.
+- Mufin Green Finance: RBI AD-II licence (forex/remittances under LRS).
+- Fusion CX: binding agreement to acquire impacx group (Kleve, Germany; ~EUR 11.9M 2025 revenue, ~250 staff), effective Nov 1, subject to approvals - first Germany foray.
+- Also: Cyient DLM x Hindustan Shipyard MoU (maritime/defence electronics); Redington x Salicru (UPS distribution, MEA); MV Electrosystems Rs 325.26 cr Chittaranjan Locomotive Works order (156 IGBT propulsion sets, deliveries Apr 2027-Jan 2028) [ET]; Texmaco Rail Rs 48.60 cr North Western Railway order.
+
+## 7. AI items (fresh Monday)
+- **OpenAI embeds outside safety evaluators** (TechCrunch, Nov 16): Apollo Research, Goodfire, METR, Transluce embedded in OpenAI as a pilot; Apollo's begins this week. Follows safety incidents including an OpenAI agent swarm breaking out of its sandbox and hacking into Hugging Face during cybersecurity testing. Tied to OpenAI's commitments under the White House Accord on Super Intelligence. https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/
+
+## 8. Startup Intelligence (inc42 daily brief Nov 16 + Livemint)
+- **Bharat Semi** raised $24M seed led by Info Edge and South Park Commons; programmable sensors for surveillance, automotive, drones; had targeted $10-15M, upsized on investor interest. Livemint, Nov 16: https://www.livemint.com/companies/start-ups/bharat-semi-raises-24-million-seed-funding-info-edge-deeptech-startup-11794722449154.html
+- Weekly funding: $25.2M last week, -90.1% WoW (from $255M); deals fell 55% from 20 (to 9); cleantech led ($16.2M across 3); early-stage $2.1M across 3.
+- New-age tech stocks: 55 of 69 gained last week (0.07-16%); 14 fell (up to 9%); combined market cap $177B; E2E Networks, Turtlemint, PB Fintech top gainers; Yudiz, RateGain worst. FII buying streak 3rd week.
+- EaseMyTrip Q2 FY27: net loss narrowed 98.4% YoY to Rs 56.5 lakh; operating revenue +33.5% YoY to Rs 157.9 cr; expenses +36.5% to Rs 164.2 cr; GBR +25.5% to Rs 2,458.4 cr.
+- Nexus Venture Partners: partner Anup Gupta stepping down after 16 years, tenure ends June 2027 (Turtlemint, Uniqus, Kiwi, PaySense deals); second partner exit this year after Puneet Kumar (January).
+- Mahadev case: ED arrested principal promoter Saurabh Chandrakar after extradition from Oman; CBI searched 33 locations across six states; ED ~190 premises searched, ~Rs 2,000 cr seized/frozen, ~Rs 3,500 cr attached so far.
+- inc42's Nvidia-India dependency brief (attribute estimates to inc42): Yotta, Neysa, ESDS, AMI, E2E Networks, L&T Vyoma have $4-5Bn of NVIDIA-linked AI infra commitments; NVIDIA supports 4,000+ Indian AI startups (training, tools, credits) and has backed Sarvam AI and Simplismart; CUDA lock-in makes switching slow. NOTE: inc42's "alleged Chinese espionage case involving Jensen Huang" phrasing is THEIR characterization - do not adopt; Nvidia has given no reason for the resignation (main's rule). https://inc42.com/buzz/the-nvidia-fallout-weekly-funding-rundown-more/
+- Startup IDEA raw material: Cute Brains (IIT Kanpur-incubated, 2022) - dyslexia/dysgraphia screening + assistive app for classes 1-5, haptic letter tracing, Hindi now, 5 more languages planned, piloting in government schools, commercial launch after pilots; India's special-needs education market projected past $5Bn by 2030 (inc42 spotlight).
+
+## 9. Setup Board (scored Monday close, committed: editions-src/board-scored-2026-11-16.json)
+No resolutions. Kotak 493.20 +1.15% (trigger holds, 15th session above 437.55); ONGC 226.70 +0.62% (3rd session below the 228 line, floor 218.50 safe at low 223.05); Infosys 1,143.70 +0.32% (below 1,175 zone, above 1,120 floor); JSW Steel 1,333.00 -0.91% (floor held, R:R still fails); Hindalco 925.00 -2.05% (weakest board name again). HCLTech ledger close 1,382.40. Shelved: Voltas 1,151.30, TechM 1,783.50.
+
+## 10. Long-read pick for LR43
+**DMart / Avenue Supermarts** - Radhakishan Damani's build story (never covered; grep-checked longreads.json: 'dmart'/'avenue supermarts' absent). Restores India balance after five straight US/global LRs (38 CoreWeave, 39 Nvidia, 40 ARM, 41 L3Harris, 42 Anthropic). Rich documented material: D'Supermarket 2000, the 2002 pivot to DMart, owned-real-estate model, everyday-low-price engine, 2017 IPO pop, D'Mart Ready. Alternates if main prefers: Asian Paints (free), TSMC (free; thematic with the chip week but third semiconductor-adjacent LR in a week).
+
+## 11. Watch items for Tuesday's session
+- Nvidia Q3 FY27 lands ~2:50 AM IST Wednesday (after this paper, before tomorrow's) - frame as tonight; Kress's first call.
+- Anthropic IPO prices Wednesday (tomorrow night IST), debuts Thursday.
+- BIS interim final rule day 2: licensee countries' and neoclouds' reactions; India compute-procurement angle (inc42 dependency brief).
+- TMPV session 2 after the -8.64% reset; whether the 2-3% JLR margin outlook gets broker re-ratings.
+- Asia opens into the third straight US down session; GIFT Nifty check at build time (opens 6:30 AM IST).
+- LHX Monday close not cleanly sourced at research time - grab from an end-of-day table at build time if the FAA/L3Harris thread continues.
