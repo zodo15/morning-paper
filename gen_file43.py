@@ -101,8 +101,8 @@ for gi, g in enumerate(groups):
             out.append(para_clean(b['html'], strong_prefix=strong, detail=detail))
         elif t == 'chart':
             svg = b['svg']
-            if 'leaders and laggards' in svg:
-                out.append('''                <BarChart label="Sensex leaders and laggards, Monday 16 Nov, percent change vs Friday's close - BSE official prints" orientation="bars" data={[
+            if 'eaders and laggards' in svg:
+                out.append('''                <BarChart label="Leaders and laggards, Monday 16 Nov, percent change vs Friday's close - BSE official prints" orientation="bars" data={[
                     { label: 'Max Healthcare', value: 6.9 },
                     { label: 'Tata Communications', value: 4.4 },
                     { label: 'ITC', value: 3.8 },
