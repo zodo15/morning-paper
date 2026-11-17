@@ -72,7 +72,7 @@ def year_say(y):
         return 'twenty twenty' + ('' if r == 0 else '-' + ONES[r])
     return wnum(y)
 
-ACR = ['CPI','NSDL','SEBI','DRHP','BSE','NSE','PSU','FPI','FII','IPO','WTI','DXY','AP','BBC','CNBC','ET','FE','HN','HCL','IT','AI','RBI','GDP','GIFT','NYT','AFP','IRCTC','NMDC','HAL','PV','ABB','RVNL','LSEG','IST','AM','PM','EAAA','NDTV','MRF','ONGC','KOTAK','CEO','FBI','GPU','AWS','RSI','NRI','IIFL','PAT','MPC','TCS','GTC','VIX','ITC','ICICI','JSW','BS','AMD','ARPU','BFSI','CFO','CNA','HBL','HUL','IRDAI','NVDA','PDF','SBI','SMS','TRAI','US','FAA','ANT','MCL','RHP','MDR','WPI','DOT','NPR','ABC','TSMC','SMART','NAS','IDFC','USD','INR','TDM','SLA','FTI','FOMC','DII','RLHF','MCP','LLC','GPT','ASEAN','DEFA','GNC','TPU']
+ACR = ['CPI','NSDL','SEBI','DRHP','BSE','NSE','PSU','FPI','FII','IPO','WTI','DXY','AP','BBC','CNBC','ET','FE','HN','HCL','IT','AI','RBI','GDP','GIFT','NYT','AFP','IRCTC','NMDC','HAL','PV','ABB','RVNL','LSEG','IST','AM','PM','EAAA','NDTV','MRF','ONGC','KOTAK','CEO','FBI','GPU','AWS','RSI','NRI','IIFL','PAT','MPC','TCS','GTC','VIX','ITC','ICICI','JSW','BS','AMD','ARPU','BFSI','CFO','CNA','HBL','HUL','IRDAI','NVDA','PDF','SBI','SMS','TRAI','US','FAA','ANT','MCL','RHP','MDR','WPI','DOT','NPR','ABC','TSMC','SMART','NAS','IDFC','USD','INR','TDM','SLA','FTI','FOMC','DII','RLHF','MCP','LLC','GPT','ASEAN','DEFA','GNC','TPU','UBS','JLR','BIS','FMCG','IEA','NTPC','TPP','RIN','KRIBHCO','METR','MLD','ERP','MRP','VST','HDFC','RPG','SPC','API','NY','IR','SI']
 
 def respell(t):
     # strip tags, decode entities
@@ -178,6 +178,13 @@ def respell(t):
     t = t.replace('HCLTech', 'H C L Tech')
     t = t.replace('KOSPI', 'Kospi')
     t = t.replace('giftniftytoday.com', 'gift nifty today dot com')
+    # special tokens before generic number handling
+    t = t.replace('0694-AK50', 'zero six nine four A K five zero')
+    t = t.replace('D:5', 'D five')
+    t = t.replace('-MLD', ' MLD')
+    t = re.sub(r"\b(\d+(?:\.\d+)?) MWh\b", lambda m: speak_number(m.group(1)) + ' megawatt-hours', t)
+    t = re.sub(r"\b(\d+(?:\.\d+)?) GWh\b", lambda m: speak_number(m.group(1)) + ' gigawatt-hours', t)
+    t = re.sub(r"\b(\d+(?:\.\d+)?) MW\b", lambda m: speak_number(m.group(1)) + ' megawatts', t)
     # years first (4-digit 19xx/20xx) before generic numbers
     t = re.sub(r"\b(1[89]\d{2}|20\d{2})\b", lambda m: year_say(m.group(1)), t)
     # ordinals in dates like 9 Nov / 11 November
