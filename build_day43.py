@@ -96,7 +96,7 @@ G.append({'heading': 'The 5-minute lead route', 'blocks': [
  p(' Mumbai swam against the region. The Sensex rose 512.34 points to 82,104.79, up 0.63%, after touching 82,311.65 intraday, while Tokyo fell 2.42% (' + a(NKE, 'Tokyo\'s official close') + '); the Nifty closed at 25,291.10, up 0.58%. Financials, FMCG and oil-and-gas names led, helped by foreign buying and cheaper crude (' + a(HINDU, 'The Hindu\'s market report') + '). Provisionally, FIIs bought a net Rs 4,864.68 crore while DIIs sold Rs 3,519.05 crore - a second straight session of heavy foreign buying after Friday\'s roughly Rs 5,737 crore (' + a(FE, 'the provisional tally') + ').'),
  p(' The verdict on Tata Motors PV was the day\'s one heavy casualty: down 8.64% to Rs 262.20 in its first full session on JLR\'s lowered outlook. The cut: JLR now guides to a 2-3% core margin for FY27, from about 4%, and expects an outflow of roughly 1.25 billion pounds - about $1.65 billion - this fiscal, on weak China demand and restructuring costs; JLR is about 80% of the PV arm\'s top line (' + a(HBLTMPV, 'the Hindu BusinessLine report') + ').'),
  p(' Oil gave the day its macro relief. Brent settled at $92.44, down 3.6%, and WTI at $85.72, down 3.2%, as flows through the Strait of Hormuz show signs of recovering and the IEA\'s Friday surplus call sinks in; tanker incidents continue to underscore the risk (' + a(BT, 'the settlement report') + '). Gold eased 0.86% to $3,853.00; silver fell 4.60%, the largest metals move. On Wednesday, Anthropic is scheduled to price its 825-million-share offering at $70 to $78, debuting Thursday as ANT (' + a(S1, 'the S-1/A') + ').'),
- p(' The long read: the purchase manager. Radhakishan Damani apprenticed behind the counter of someone else\'s franchise for a decade, then built DMart on an eight-day payment rule, owned floors and ceiling-high racks - the Avenue Supermarts build story, as it changes CEOs without a ripple (' + a(LRURL, 'read it here') + '). The route ends. The detail begins.'),
+ p(' The long read: the purchase manager. Radhakishan Damani apprenticed behind the counter of someone else\'s franchise for seven years, then built DMart on an eight-day payment rule, owned floors and ceiling-high racks - the Avenue Supermarts build story, as it changes CEOs without a ripple (' + a(LRURL, 'read it here') + '). The route ends. The detail begins.'),
 ]})
 
 G.append({'heading': 'Front page', 'blocks': [
@@ -208,7 +208,7 @@ fact = ('Edition 43. The print, the rule, and the chairman\'s scenario. Tuesday 
  'Washington released its AI remote-access rule: released, not yet operative, its effective date still awaiting Federal Register publication. Fed chairman Kevin Warsh laid out his disappointment scenario in the Fed\'s own words. Mumbai rose against the regional tape: Sensex 82,104.79, up 512 points on foreign buying and cheaper crude; Tata Motors PV fell 8.64% on JLR\'s margin cut. '
  'The long read: DMart - the purchase manager.')
 
-intro = ('The 5-minute lead route is first; sections carry the detail. The long read: Radhakishan Damani apprenticed behind the counter of someone else\'s franchise for a decade, '
+intro = ('The 5-minute lead route is first; sections carry the detail. The long read: Radhakishan Damani apprenticed behind the counter of someone else\'s franchise for seven years, '
  'then built DMart on an eight-day payment rule, owned floors and ceiling-high racks - the Avenue Supermarts build story, as it changes CEOs without a ripple.')
 
 d = {
