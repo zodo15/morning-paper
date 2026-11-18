@@ -23,9 +23,10 @@ for g in lr['groups']:
 
 out = []
 out.append("import React from 'react';")
-out.append("import { Closing, FileCard, Header, Heading, Paragraph, Text, TextLink } from '@instinct/files';")
+out.append("import { Closing, FileCard, Header, Heading, Figure, Paragraph, Text, TextLink } from '@instinct/files';")
 out.append('')
 out.append("import './style.css';")
+out.append("import lr44hero from './photos/lr44-hero.jpg';")
 out.append('')
 for url, name in consts.items():
     out.append("const %s = '%s';" % (name, url))
@@ -35,6 +36,7 @@ out.append('    return <FileCard>')
 out.append('        <Header title="%s"' % lr['title'])
 out.append('            fact={`%s`}' % lr['fact'].replace('`', '\\`'))
 out.append('            intro="%s" />' % "Seven chapters: the writer, the transistor man, the pricing man, the call, the pure play, the avalanche and the yes. The record here is TSMC’s own company profile and earnings release, the IEEE’s 2011 profile of Morris Chang, Stanford’s and MIT’s accounts of his talks, and TrendForce’s share count via Focus Taiwan.")
+out.append('        <Figure src={lr44hero} alt="Abstract plate: a silicon wafer held above a factory roofline" caption="Abstract plate for the long read." fit="cover" />')
 
 for g in lr['groups']:
     out.append('')

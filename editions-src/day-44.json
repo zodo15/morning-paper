@@ -6,7 +6,7 @@
   "longread": 44
  },
  "edition": {
-  "fact": "Edition 44. Wednesday 18 November 2026. This edition runs 4,452 words. Nvidia's first post-Huang quarter beat across the board - $115.8 billion of revenue, up 103% against the $109.1 billion expected, and a $130 billion guide against the $125.1 billion expected; the stock rose about 5% after hours. Huang offered to return; the board said it does not intend to ask. Anthropic prices tonight, with CNBC's sources pointing above the range; Mumbai set nine-month highs on record foreign buying. The long read: TSMC - the company that only makes other people's chips.",
+  "fact": "Edition 44. Wednesday 18 November 2026. This edition runs 4,587 words. Nvidia's first post-Huang quarter beat across the board - $115.8 billion of revenue, up 103%, and a $130 billion guide, both well above the LSEG consensus; the stock rose nearly 5% after hours. Huang offered to return; the board said it does not intend to ask. Anthropic prices tonight, with CNBC's sources pointing above the range; Mumbai set nine-month highs on record foreign buying. The long read: TSMC - the company that only makes other people's chips.",
   "intro": "The 5-minute lead route is first; sections carry the detail. The long read: the chips behind Nvidia's record quarter came from one firm in Hsinchu - and Morris Chang was twice sidelined and past fifty when he invented the pure-play foundry. TSMC, the AI trade's quiet landlord.",
   "groups": [
    {
@@ -14,7 +14,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": " Nvidia answered. The first quarter of the post-Huang era came in at $115.8 billion of revenue - up 103% on the year and well above the $109.1 billion analysts expected - with data center at $107.6 billion, up 110%, and a fourth-quarter guide of $130 billion, give or take 3%, against the $125.1 billion expected (<a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm\" target=\"_blank\" rel=\"noopener\">the company's release</a>; <a href=\"https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html\" target=\"_blank\" rel=\"noopener\">LSEG's estimates via CNBC</a>). It was Colette Kress's first print as interim CEO and CFO, and the market's verdict was immediate: the stock, down 24% in November going in, rose about 5% in extended trading (<a href=\"https://www.investing.com/news/stock-market-news/us-stock-futures-jump-as-nvidia-earnings-revive-ai-optimism-5034391\" target=\"_blank\" rel=\"noopener\">the after-hours read</a>). The guide's fine print: it includes an extra week in the quarter, assumes no China data-center compute revenue, and guides gross margin down to 71-72%."
+      "html": " Nvidia answered. The first quarter of the post-Huang era came in at $115.8 billion of revenue - up 103% on the year and well above the $109.1 billion analysts expected - with data center at $107.6 billion, up 110%, and a fourth-quarter guide of $130 billion, give or take 3%, against the $125.1 billion expected (<a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm\" target=\"_blank\" rel=\"noopener\">the company's release</a>; <a href=\"https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html\" target=\"_blank\" rel=\"noopener\">LSEG's estimates via CNBC</a>). It was Colette Kress's first print as interim CEO and CFO, and the market's verdict was immediate: the stock, down 24% in November going in, rose nearly 5% in extended trading as of 18:52 ET (<a href=\"https://www.investing.com/news/stock-market-news/us-stock-futures-jump-as-nvidia-earnings-revive-ai-optimism-5034391\" target=\"_blank\" rel=\"noopener\">the after-hours read</a>). The guide's fine print: it includes an extra week in the quarter, assumes no China data-center compute revenue, and guides gross margin down to 71-72%."
      },
      {
       "t": "p",
@@ -26,7 +26,7 @@
      },
      {
       "t": "p",
-      "html": " Mumbai, meanwhile, set records. The Sensex rose 427.40 points to 82,532.19 and the Nifty 96.30 to 25,387.40 - both at nine-month highs, having recovered every point lost since 27 February (<a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-17th-november-2026/article71708442.ece\" target=\"_blank\" rel=\"noopener\">the BusinessLine close</a>). The Nifty Bank hit a record 62,422 intraday; FIIs bought a twelfth straight session - a provisional Rs 4,195.38 crore - taking November's foreign inflows past $9.5 billion, a record month (<a href=\"https://www.cnbctv18.com/markets/fpis-extend-buying-streak-to-12-sessions-november-inflows-cross-usd-10-billion-20036086.htm\" target=\"_blank\" rel=\"noopener\">the flow tally</a>). The rupee joined in: 93.48 to the dollar, its strongest close in seven months (<a href=\"https://www.moneycontrol.com/news/business/banks/rupee-jumps-46-paise-to-93-48-hits-seven-month-high-on-foreign-fund-inflows-lower-crude-14082515.html\" target=\"_blank\" rel=\"noopener\">the currency report</a>). Falling crude did the lifting for autos, paints and airlines."
+      "html": " Mumbai, meanwhile, set records. The Sensex rose 427.40 points to 82,532.19 and the Nifty 96.30 to 25,387.40 - both at nine-month highs, having recovered every point lost since 27 February (<a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-17th-november-2026/article71708442.ece\" target=\"_blank\" rel=\"noopener\">the BusinessLine close</a>). The Bank Nifty scaled a record 62,442.20 intraday and closed at a record 62,273.25 (<a href=\"https://www.thehindubusinessline.com/markets/bank-nifty-breaks-into-uncharted-territory-as-fii-billions-back-indias-bull-run/article71711651.ece\" target=\"_blank\" rel=\"noopener\">the banking report</a>); FIIs bought a twelfth straight session - a provisional Rs 4,195.38 crore - taking November's foreign inflows past $9.5 billion, a record month (<a href=\"https://www.cnbctv18.com/markets/fpis-extend-buying-streak-to-12-sessions-november-inflows-cross-usd-10-billion-20036086.htm\" target=\"_blank\" rel=\"noopener\">the flow tally</a>). The rupee joined in: 93.48 to the dollar, its strongest close in seven months (<a href=\"https://www.moneycontrol.com/news/business/banks/rupee-jumps-46-paise-to-93-48-hits-seven-month-high-on-foreign-fund-inflows-lower-crude-14082515.html\" target=\"_blank\" rel=\"noopener\">the currency report</a>). Falling crude did the lifting for autos, paints and airlines."
      },
      {
       "t": "p",
@@ -34,7 +34,7 @@
      },
      {
       "t": "p",
-      "html": " The BIS compute rule is still not law. Two days after its release, the Federal Register carries no publication entry for RIN 0694-AK50 - checked again this morning - so every clock in the rule (the effective date, the sixty-day comments, the ninety-day runway) has yet to start (<a href=\"https://www.federalregister.gov/\" target=\"_blank\" rel=\"noopener\">the Register</a>; <a href=\"https://www.bis.gov/media/documents/rin-0694-ak50.pdf\" target=\"_blank\" rel=\"noopener\">the rule text</a>). Until the entry exists, the rule remains released, not operative."
+      "html": " The BIS compute rule is scheduled, not yet law. The remote-access rule - RIN 0694-AK50 - was filed with the Federal Register on Monday and sits on its public-inspection list, scheduled for publication on Thursday 19 November (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>; <a href=\"https://www.bis.gov/media/documents/rin-0694-ak50.pdf\" target=\"_blank\" rel=\"noopener\">the rule text</a>). Every clock keys off that publication: the rule takes effect on its publication date, comments run sixty days from it, and covered cloud providers have ninety days from effectiveness to obtain a license. Until the Thursday issue lands, the rule remains scheduled, not operative."
      },
      {
       "t": "p",
@@ -55,7 +55,7 @@
      },
      {
       "t": "p",
-      "html": " What the beat is made of. The $130 billion guide is a real beat - $125.1 billion was the consensus - but it is a constructed one, and the construction is disclosed: the quarter carries an extra week, and the number assumes zero China data-center compute revenue (<a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm\" target=\"_blank\" rel=\"noopener\">the release</a>). Gross margin is guided down to 71-72% from 74.8% - the cost of the Rubin ramp. And the shareholder returns keep pace: $28.1 billion went out in buybacks and dividends in the quarter, with $227.3 billion of authorization remaining. The stock's +5% after-hours answer followed a 24% November slide - six straight weekly drops, the longest such run since 2012 (<a href=\"https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html\" target=\"_blank\" rel=\"noopener\">CNBC's live report</a>)."
+      "html": " What the beat is made of. The $130 billion guide is a real beat - $125.1 billion was the consensus - but it is a constructed one, and the construction is disclosed: the quarter carries an extra week, and the number assumes zero China data-center compute revenue (<a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm\" target=\"_blank\" rel=\"noopener\">the release</a>). Gross margin is guided down to 71-72% from 74.8% - the cost of the Rubin ramp. And the shareholder returns keep pace: $28.1 billion went out in buybacks and dividends in the quarter, with $227.3 billion of authorization remaining. The stock's nearly-5% after-hours answer, as of 18:52 ET, followed a 24% November slide - six straight weekly drops, the longest such run since 2012 (<a href=\"https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html\" target=\"_blank\" rel=\"noopener\">CNBC's live report</a>)."
      },
      {
       "t": "p",
@@ -67,7 +67,7 @@
      },
      {
       "t": "p",
-      "html": " Mumbai's record day, in full. The Nifty's close at 25,387.40 completes the recovery from 27 February - the day the US-Iran war losses began - with 22 constituents now above their levels of that date; Eternal, Kotak Mahindra Bank and ICICI Bank touched 52-week highs (<a href=\"https://www.cnbctv18.com/markets/sensex-nifty-recover-us-iran-war-losses-5-reasons-behind-market-rally-as-nifty-hits-9-month-high-20035910.htm\" target=\"_blank\" rel=\"noopener\">the session's anatomy</a>). Banks did the heavy lifting - the Nifty Bank's record 62,422 intraday, closing up 697 points - while cheaper crude lifted Eicher, M&M, Asian Paints and InterGlobe, and Reliance rose 2% to a six-month high as the index's biggest contributor. The tell that it was a large-cap day: the advance-decline ratio was flat at 1:1, and small-caps slipped 0.2%. UPL faded from its high on reports its restructuring may be revised; KEI fell 4% on price-cut reports; Ashok Leyland spiked, then closed 8% below its day's high; Laurus Labs gained over 5% after management ruled out further stake sales."
+      "html": " Mumbai's record day, in full. The Nifty's close at 25,387.40 completes the recovery from 27 February - the day the US-Iran war losses began - with 22 constituents now above their levels of that date; Eternal, Kotak Mahindra Bank and ICICI Bank touched 52-week highs (<a href=\"https://www.cnbctv18.com/markets/sensex-nifty-recover-us-iran-war-losses-5-reasons-behind-market-rally-as-nifty-hits-9-month-high-20035910.htm\" target=\"_blank\" rel=\"noopener\">the session's anatomy</a>). Banks did the heavy lifting - the Bank Nifty's record 62,442.20 intraday and record close of 62,273.25, up 1.13% (<a href=\"https://www.thehindubusinessline.com/markets/bank-nifty-breaks-into-uncharted-territory-as-fii-billions-back-indias-bull-run/article71711651.ece\" target=\"_blank\" rel=\"noopener\">the banking report</a>) - while cheaper crude lifted Eicher, M&M, Asian Paints and InterGlobe, and Reliance rose 2% to a six-month high as the index's biggest contributor. The tell that it was a large-cap day: the advance-decline ratio was flat at 1:1, and small-caps slipped 0.2%. UPL faded from its high on reports its restructuring may be revised; KEI fell 4% on price-cut reports; Ashok Leyland spiked, then closed 8% below its day's high; Laurus Labs gained over 5% after management said it had no plans to sell further stake."
      },
      {
       "t": "p",
@@ -124,7 +124,11 @@
     "blocks": [
      {
       "t": "p",
-      "html": " What after-hours actually tells you. Nvidia fell 0.44% in Tuesday's regular session, reported at 1:20 PM Pacific, and rose about 5% in extended trading - three prices for one stock in one day, and only the first is the deep market (<a href=\"https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/\" target=\"_blank\" rel=\"noopener\">the session recap</a>; <a href=\"https://www.investing.com/news/stock-market-news/us-stock-futures-jump-as-nvidia-earnings-revive-ai-optimism-5034391\" target=\"_blank\" rel=\"noopener\">the extended session</a>). The mechanics matter: after-hours trading runs on thin volume, wide spreads and retail-heavy flow, so an extended-session move is a first vote, not a verdict - the regular open re-prices it with full participation. The useful habit is to treat the overnight number as information about direction and surprise, not about level: it tells you the print beat or missed the whisper, not where the stock will trade at the close. The same logic applies to this morning's GIFT Nifty line, to futures up on the Nvidia print, and to Anthropic's price tonight: indications are inputs, not outcomes. The paper labels each one as-of, and the open decides."
+      "html": " What after-hours actually tells you. Nvidia fell 0.44% in Tuesday's regular session, reported at 1:20 PM Pacific, and rose nearly 5% in extended trading as of 18:52 ET - three prices for one stock in one day, and only the first is the deep market (<a href=\"https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-nvidia-slides-ahead-of-earnings-but-soars-in-after-hours-trading/\" target=\"_blank\" rel=\"noopener\">the session recap</a>; <a href=\"https://www.investing.com/news/stock-market-news/us-stock-futures-jump-as-nvidia-earnings-revive-ai-optimism-5034391\" target=\"_blank\" rel=\"noopener\">the extended session</a>). The mechanics matter: after-hours trading runs on thin volume, wide spreads and retail-heavy flow, so an extended-session move is a first vote, not a verdict - the regular open re-prices it with full participation. The useful habit is to treat the overnight number as information about direction and surprise, not about level: it tells you the print beat or missed the whisper, not where the stock will trade at the close. The same logic applies to this morning's GIFT Nifty line, to futures up on the Nvidia print, and to Anthropic's price tonight: indications are inputs, not outcomes. The paper labels each one as-of, and the open decides."
+     },
+     {
+      "t": "p",
+      "html": " One term worth owning: book building. When CNBC reports that Anthropic's \"order books closed\" at 4 PM, the term is book building: the issuer's banks collect bids from institutions - how many shares, at what price - before the final offer price is set (<a href=\"https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html\" target=\"_blank\" rel=\"noopener\">the report</a>). The book is the tally of those bids; closing it ends the auction; pricing is the judgment that follows. An oversubscribed book is why an offering can price above its range: more demand than shares at the top end lets the banks move the clearing price up. The same mechanism runs in Mumbai - Urban Company's Rs 2,500-crore QIP, opened Tuesday with a Rs 161.03 floor, is a book-built offer to institutions under SEBI's rules (<a href=\"https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/\" target=\"_blank\" rel=\"noopener\">the QIP report</a>). Watch for it tonight in the Anthropic print: the price, the multiple of the range, and what the book said."
      }
     ]
    },
@@ -173,20 +177,11 @@
     ]
    },
    {
-    "heading": "One concept: customer concentration",
+    "heading": "One concept: recency bias",
     "blocks": [
      {
       "t": "p",
-      "html": " Four customers made 47% of Nvidia's $115.8 billion quarter - that single line, from Tuesday's release, is a customer-concentration disclosure, and it is one of the most load-bearing numbers in any filing (<a href=\"https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm\" target=\"_blank\" rel=\"noopener\">the release</a>). The concept: US disclosure rules make a company name any customer above 10% of revenue, and the resulting figure measures how much of the business depends on how few decisions. Concentration is not automatically fragility - those four are presumably the largest AI build-outs on earth, and their orders are the boom - but it converts four companies' budgets into one company's risk factor. Read it as a dependency map: when a handful of buyers fund the whole build-out, their capex guidance is the supplier's revenue forecast. The habit transfers directly to Indian filings, where the same dependency hides in segment notes: find the line that says how much of revenue the top customers carry, and you have found the company's real sensitivity."
-     }
-    ]
-   },
-   {
-    "heading": "Term of the day: book building",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " When CNBC reports that Anthropic's \"order books closed\" at 4 PM, the term is book building: the process by which an issuer's banks collect bids from institutions - how many shares, at what price - before setting the final offer price (<a href=\"https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html\" target=\"_blank\" rel=\"noopener\">the report</a>). The book is the tally of those bids; closing it ends the auction; pricing is the judgment that follows. An oversubscribed book is why an offering can price above its range: more demand than shares at the top end lets the banks move the clearing price up. The same mechanism runs in Mumbai - Urban Company's Rs 2,500-crore QIP, opened Tuesday with a Rs 161.03 floor, is a book-built offer to institutions under SEBI's rules (<a href=\"https://startuptalky.com/news/daily-indian-funding-roundup-key-news-17-november-2026/\" target=\"_blank\" rel=\"noopener\">the QIP report</a>). Watch for it tonight in the Anthropic print: the price, the multiple of the range, and what the book said."
+      "html": " The recency bias, and the engine under it. In 1973, Amos Tversky and Daniel Kahneman described the availability heuristic: people judge how common something is by how easily an example comes to mind. In their best-known test, most people said more English words begin with the letter K than have K in third place - the truth is the reverse, roughly two to one, but K-first words are easier to summon (<a href=\"https://doi.org/10.1016/0010-0285(73)90033-9\" target=\"_blank\" rel=\"noopener\">the 1973 paper</a>). Recency bias is the same engine with a clock: the freshest, most vivid evidence quietly becomes the base rate. This week wore the pattern. Six straight weekly losses in Nvidia made \"the AI trade is over\" feel like the base rate - then one strong print and a nearly-5% after-hours move flipped the story before breakfast, and Mumbai's record close made the losses of 27 February feel ancient. Neither the despair nor the relief was a statistic; both were the freshest number doing the talking. The habit: when the latest number moves you most, ask what the last ten said. One print is a data point; a trend is a series."
      }
     ]
    },
@@ -247,23 +242,18 @@
      {
       "t": "p",
       "html": " A week of scenarios met a print. Since Monday, the AI trade had been priced as contingency: the Fed chairman's downside scenario, target cuts ahead of the numbers, six straight weekly losses in the stock itself, and software names sold against a competitor's listing. Tuesday night replaced contingency with arithmetic - $115.8 billion of revenue, a $130 billion guide, margins guided down on purpose - and the after-hours vote reversed the day's entire mood in minutes. The honest reading keeps both facts: the print was strong, and one print does not retire the scenario it answered. The same discipline applies to the evening's other exchange. Huang said he would be honored to return; the board said it does not intend to ask. Both statements now sit on the record, in the principals' own words - and the record, not the rumor, is where this story lives until the search for a permanent chief ends. Price the stated stage, not the headline's certainty: released is not operative, a guide is not a quarter, and a pricing tonight is not a debut Thursday."
-     }
-    ]
-   },
-   {
-    "heading": "Brewing",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The leadership file. Cause chain: Huang's resignation, now officially characterized as following disclosure of conduct inconsistent with the code of conduct; his first statement Tuesday offering to return; Jones's on-call answer that the board does not intend to reinstate him; Kress interim CEO and CFO, one strong print delivered. What settles it: the appointment of a permanent chief. Watch: any search announcement, and whether the board's position holds under shareholder pressure."
      },
      {
       "t": "p",
-      "html": " The debut file. Cause chain: three amended filings; books closed Tuesday 4 PM New York; likely above-range pricing per CNBC's sourcing; the $26 billion supplier placement closing after; first trade Thursday as ANT. What settles it: tonight's price, then Thursday's first print. Watch: New York tonight and the opening cross."
+      "html": " Also brewing - the leadership file. Cause chain: Huang's resignation, now officially characterized as following disclosure of conduct inconsistent with the code of conduct; his first statement Tuesday offering to return; Jones's on-call answer that the board does not intend to reinstate him; Kress interim CEO and CFO, one strong print delivered. What settles it: the appointment of a permanent chief. Watch: any search announcement, and whether the board's position holds under shareholder pressure."
      },
      {
       "t": "p",
-      "html": " The compute-rule file. Cause chain: released Monday as RIN 0694-AK50; no Federal Register entry as of Wednesday morning; every clock in the rule still waiting on publication. What settles it: the Register entry - its date starts every clock. Watch: federalregister.gov, and the comment file once it opens."
+      "html": " Also brewing - the debut file. Cause chain: three amended filings; books closed Tuesday 4 PM New York; likely above-range pricing per CNBC's sourcing; the $26 billion supplier placement closing after; first trade Thursday as ANT. What settles it: tonight's price, then Thursday's first print. Watch: New York tonight and the opening cross."
+     },
+     {
+      "t": "p",
+      "html": " Also brewing - the compute-rule file. Cause chain: released Monday as RIN 0694-AK50; filed with the Federal Register the same day and on the public-inspection list since, with publication scheduled for Thursday 19 November (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>). What settles it: the published entry - effectiveness keys to the publication date, comments run sixty days from it, and the cloud-services window is ninety days from effectiveness. Watch: Thursday's Register issue, then the comment file."
      }
     ]
    },
@@ -303,7 +293,7 @@
      {
       "t": "bullets",
       "items": [
-       "Sources read for this edition: Nvidia's own results release and quarterly call coverage; CNBC's live earnings blog for the Huang statement and the Jones exchange, cross-checked against Politico and TechCrunch; the closing market wire and Reuters' market wrap (which settled a conflicting oil figure from another wrap - Brent rose Tuesday; the wrong figure was discarded); the NSA outage confirmed at the agency's own statement and the AP; CNBC's Anthropic pricing report, kept as attributed expectation; the S-1/A-3 filing; the Hindu BusinessLine and CNBCTV18 for the Mumbai close and flows; Moneycontrol for the rupee; a Federal Register API check this morning - no publication entry for RIN 0694-AK50; OpenAI's and Microsoft's own announcements; StartupTalky's funding roundup; Simon Willison's Datasette Lite write-up; BSE's official bhavcopy for Indian prices; and the GIFT pre-market screen, labeled as-of.",
+       "Sources read for this edition: Nvidia's own results release and quarterly call coverage; CNBC's live earnings blog for the Huang statement and the Jones exchange, cross-checked against Politico and TechCrunch; the closing market wire and Reuters' market wrap (which settled a conflicting oil figure from another wrap - Brent rose Tuesday; the wrong figure was discarded); the NSA outage confirmed at the agency's own statement and the AP; CNBC's Anthropic pricing report, kept as attributed expectation; the S-1/A-3 filing; the Hindu BusinessLine and CNBCTV18 for the Mumbai close and flows; Moneycontrol for the rupee; the Federal Register's public-inspection list, checked this morning - the rule was filed Monday and is scheduled to publish Thursday 19 November, so every clock still waits on publication; OpenAI's and Microsoft's own announcements; StartupTalky's funding roundup; Simon Willison's Datasette Lite write-up; BSE's official bhavcopy for Indian prices; and the GIFT pre-market screen, labeled as-of.",
        "Framing calls this edition: the company's outlook (the FY28 growth raise, the Q4 guide) is reported as the company's own framing, not as settled outcome; Anthropic's above-range pricing is an attributed expectation, not a result; the resignation is described only in the words the company and the principals have used - no allegations beyond the board's stated sentence; an aggregator's claims of fresh PMI and tax data were checked and dropped as stale; the GIFT Nifty and futures lines are as-of indications, not opens.",
        "Prices are BSE official closes or the named settlement prints; provisional flow figures are labeled provisional. Nothing here is investment advice."
       ]
@@ -314,7 +304,12 @@
      }
     ]
    }
-  ]
+  ],
+  "hero": {
+   "img": "photos/d44-hero.jpg",
+   "alt": "Abstract plate: a printed sheet, a half-open door, a rising line",
+   "caption": "Abstract plate for edition 44 - the print, the door, and the debut."
+  }
  },
  "audio": null
 }

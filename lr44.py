@@ -57,6 +57,6 @@ fact = ('A Slow Burn long read, Wednesday 18 November 2026. The chips behind Nvi
  'TSMC now manufactures for 534 customers and holds 72.5 percent of the industry it created.')
 
 d = json.load(open('editions-src/longreads.json'))
-d['44'] = {'title': 'The company that only makes other people\u2019s chips', 'fact': fact, 'groups': G, 'audio': {}}
+d['44'] = {'title': 'The company that only makes other people\u2019s chips', 'fact': fact, 'groups': G, 'audio': {}, 'thumb': 'photos/lr44-hero.jpg', 'hero': {'img': 'photos/lr44-hero.jpg', 'alt': 'Abstract plate: a silicon wafer above a factory roofline', 'caption': 'Abstract plate for the long read - the company that only makes other people\u2019s chips.'}}
 json.dump(d, open('editions-src/longreads.json', 'w'), indent=1, ensure_ascii=False)
 print('longreads.json: entry 44 written;', sum(len(g['blocks']) for g in G), 'paragraphs,', len(G), 'chapters')

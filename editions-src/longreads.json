@@ -6782,6 +6782,12 @@
     ]
    }
   ],
-  "audio": {}
+  "audio": {},
+  "thumb": "photos/lr44-hero.jpg",
+  "hero": {
+   "img": "photos/lr44-hero.jpg",
+   "alt": "Abstract plate: a silicon wafer above a factory roofline",
+   "caption": "Abstract plate for the long read - the company that only makes other people’s chips."
+  }
  }
 }

@@ -24,7 +24,7 @@ def esc_jsx_text(s):
     # JSX: escape { } in text nodes
     return s.replace('{', '&#123;').replace('}', '&#125;')
 
-ANCHORS = {0: ['s-route'], 2: ['s-markets'], 3: ['s-ipo'], 4: ['s-movers'], 5: ['s-corp'], 6: ['s-gold'], 7: ['s-startup'], 8: ['s-ai'], 9: ['s-vibe'], 10: ['s-try'], 11: ['s-concept'], 12: ['s-term'], 13: ['s-board'], 15: ['s-read'], 16: ['s-brewing'], 17: ['s-week'], 18: ['s-notes']}
+ANCHORS = {0: ['s-route'], 2: ['s-markets'], 3: ['s-ipo'], 4: ['s-movers'], 5: ['s-corp'], 6: ['s-gold','s-term'], 7: ['s-startup'], 8: ['s-ai'], 9: ['s-vibe'], 10: ['s-try'], 11: ['s-concept'], 12: ['s-board'], 14: ['s-read','s-brewing'], 15: ['s-week'], 16: ['s-notes']}
 # front-page: anchor before specific story index
 FP_ANCHORS = {0: ['s-front','s-print'], 1: ['s-guide'], 2: ['s-exchange'], 3: ['s-tape'], 4: ['s-mumbai'], 5: ['s-debut']}
 DETAIL = {1:'#s-exchange',2:'#s-tape',3:'#s-mumbai',4:'#s-debut',5:'#s-notes',6:'#s-markets'}
@@ -55,7 +55,8 @@ def para_clean(h, strong_prefix=False, detail=None):
     return '                <Paragraph>%s</Paragraph>' % h2
 
 out = []
-out.append("import { Bullets, Callout, Closing, FileCard, Group, Header, Heading, Paragraph, Rows, Row, Text, TextLink, BarChart, Table, RangeChart } from '@instinct/files';")
+out.append("import { Bullets, Callout, Closing, FileCard, Group, Header, Heading, Paragraph, Rows, Row, Text, TextLink, BarChart, Figure, Table, RangeChart } from '@instinct/files';")
+out.append("import d44hero from './photos/d44-hero.jpg';")
 out.append('')
 out.append('function Anchor({ id }: { id: string }) { return <span id={id} />; }')
 out.append('')
@@ -83,6 +84,7 @@ fact_jsx = esc_jsx_text(links_to_jsx(ed['fact']))
 out.append('            fact={`%s`}' % fact_jsx.replace('`','\\`'))
 intro_jsx = esc_jsx_text(ed['intro'])
 out.append('            intro="%s" />' % intro_jsx.replace('"','&quot;'))
+out.append('        <Figure src={d44hero} alt="Abstract plate: a printed sheet, a half-open door, a rising line" caption="Abstract plate for edition 44." fit="cover" />')
 
 for gi, g in enumerate(groups):
     out.append('')
