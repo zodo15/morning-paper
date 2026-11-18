@@ -6,7 +6,7 @@
   "longread": 44
  },
  "edition": {
-  "fact": "Edition 44. Wednesday 18 November 2026. This edition runs 4,602 words. Nvidia's first post-Huang quarter beat across the board - $115.8 billion of revenue, up 103%, and a $130 billion guide, both well above the LSEG consensus; the stock rose nearly 5% after hours. Huang offered to return; the board said it does not intend to ask. Anthropic prices tonight, with CNBC's sources pointing above the range; Mumbai set nine-month highs on record foreign buying. The long read: TSMC - the company that only makes other people's chips.",
+  "fact": "Edition 44. Wednesday 18 November 2026. This edition runs 4,614 words. Nvidia's first post-Huang quarter beat across the board - $115.8 billion of revenue, up 103%, and a $130 billion guide, both well above the LSEG consensus; the stock rose nearly 5% after hours. Huang offered to return; the board said it does not intend to ask. Anthropic prices tonight, with CNBC's sources pointing above the range; Mumbai set nine-month highs on record foreign buying. The long read: TSMC - the company that only makes other people's chips.",
   "intro": "The 5-minute lead route is first; sections carry the detail. The long read: the chips behind Nvidia's record quarter came from one firm in Hsinchu - and Morris Chang was twice sidelined and past fifty when he invented the pure-play foundry. TSMC, the AI trade's quiet landlord.",
   "groups": [
    {
@@ -34,7 +34,7 @@
      },
      {
       "t": "p",
-      "html": " The BIS compute rule is scheduled, not yet law. The remote-access rule - RIN 0694-AK50 - was filed with the Federal Register on Monday and sits on its public-inspection list, scheduled for publication on Thursday 19 November (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>; <a href=\"https://www.bis.gov/media/documents/rin-0694-ak50.pdf\" target=\"_blank\" rel=\"noopener\">the rule text</a>). Every clock keys off that publication: the rule takes effect on its publication date, comments run sixty days from it, and covered cloud providers headquartered in Macau or Country Group D:5 have ninety days from effectiveness to obtain a license. Until the Thursday issue lands, the rule remains scheduled, not operative."
+      "html": " The BIS compute rule is scheduled, not yet law. The remote-access rule - RIN 0694-AK50 - was filed with the Federal Register on Monday and sits on its public-inspection list, scheduled for publication on Thursday 19 November (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>; <a href=\"https://www.bis.gov/media/documents/rin-0694-ak50.pdf\" target=\"_blank\" rel=\"noopener\">the rule text</a>). Every clock keys off that publication: the rule takes effect on its publication date, comments run sixty days from it, and covered cloud providers headquartered - or with an ultimate parent headquartered - in Macau or Country Group D:5 have ninety days from effectiveness to obtain a license. Until the Thursday issue lands, the rule remains scheduled, not operative."
      },
      {
       "t": "p",
@@ -253,7 +253,7 @@
      },
      {
       "t": "p",
-      "html": " Also brewing - the compute-rule file. Cause chain: released Monday as RIN 0694-AK50; filed with the Federal Register the same day and on the public-inspection list since, with publication scheduled for Thursday 19 November (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>). What settles it: the published entry - effectiveness keys to the publication date, comments run sixty days from it, and the cloud-services window for providers headquartered in Macau or Country Group D:5 is ninety days from effectiveness. Watch: Thursday's Register issue, then the comment file."
+      "html": " Also brewing - the compute-rule file. Cause chain: released Monday as RIN 0694-AK50; filed with the Federal Register the same day and on the public-inspection list since, with publication scheduled for Thursday 19 November (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>). What settles it: the published entry - effectiveness keys to the publication date, comments run sixty days from it, and the cloud-services window for providers headquartered - or whose ultimate parent is headquartered - in Macau or Country Group D:5 is ninety days from effectiveness. Watch: Thursday's Register issue, then the comment file."
      }
     ]
    },
