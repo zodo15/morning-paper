@@ -13,6 +13,7 @@ MIT = 'https://news.mit.edu/2023/morris-chang-describes-secrets-semiconductor-su
 Q3 = 'https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/526b65af7305df2dde6b9ece6812b1fdf1e49f9b/3Q26%20EarningsRelease.pdf'
 YAQ3 = 'https://finance.yahoo.com/technology/ai/articles/tsmc-q3-profit-surges-more-061034370.html'
 FOCUS = 'https://focustaiwan.tw/business/202609090025'
+NVLIVE = 'https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html'
 
 G = []
 
@@ -48,10 +49,10 @@ G.append({'heading': '6. The avalanche', 'blocks': [
 
 G.append({'heading': '7. The yes', 'blocks': [
  p(' Chang has a theory of why TSMC worked in Taiwan, and it is not a theory about chips: good technicians from trade schools who aspire to the work, low turnover, and the whole industry concentrated in one place so that learning compounds. "It works, the learning curve, the experience curve, it works only when you have a common location," he told an MIT audience in 2023. "Learning is local." The advantages Taiwan holds, he notes, America held in the 1950s and 1960s; someday they may belong to India, Vietnam or Indonesia. On the politics that now surrounds his company he is economical: "Without national security, we will lose everything, everything that we value. By all means, let\'s avoid even a Cold War, if we can" (' + a(MIT, 'MIT\'s account of the talk') + ').'),
- p(' This paper ran the experiment of his legacy again on Tuesday night. Nvidia reported the first record quarter of its post-founder era - $115.8 billion of revenue, a forecast above every estimate - and every advanced chip in that number came out of Morris Chang\'s factories. The man who made it possible founded it at fifty-five, after two careers had ended under him; everyone he knew told him not to go to Taiwan; he went because, by his own account, he had little left to lose. The industry calls his invention the pure-play foundry. The plainer description is the one on the building in Hsinchu: a company that only makes other people\'s chips, and has never once competed with a customer (' + a(IEEE, 'the IEEE profile') + '; ' + a(Q3, 'TSMC\'s earnings release') + ').'),
+ p(' This paper ran the experiment of his legacy again on Tuesday night. Nvidia reported the first record quarter of its post-founder era - $115.8 billion of revenue, well above the $109.1 billion analysts expected (' + a(NVLIVE, 'CNBC\'s tally') + ') - and essentially every chip in that number came out of Morris Chang\'s factories, as they have for three decades. The man who made it possible founded it at fifty-five, after two careers had ended under him; everyone he knew told him not to go to Taiwan; he went because, by his own account, he had little left to lose. The industry calls his invention the pure-play foundry. The plainer description is the one on the building in Hsinchu: a company that only makes other people\'s chips, and has never once competed with a customer (' + a(IEEE, 'the IEEE profile') + '; ' + a(Q3, 'TSMC\'s earnings release') + ').'),
 ]})
 
-fact = ('A Slow Burn long read, Wednesday 18 November 2026. Every advanced chip in Nvidia\'s record quarter was made by a company that has never sold a chip of its own. '
+fact = ('A Slow Burn long read, Wednesday 18 November 2026. The chips behind Nvidia\'s record quarter were made by a company that, by its own description, manufactures only its customers\' products. '
  'Morris Chang was twice sidelined and past fifty when Taiwan asked him to build a semiconductor company; he invented the pure-play foundry instead. '
  'TSMC now manufactures for 534 customers and holds 72.5 percent of the industry it created.')
 
