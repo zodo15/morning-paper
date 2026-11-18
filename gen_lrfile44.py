@@ -19,7 +19,8 @@ def links_to_jsx(h):
 
 for g in lr['groups']:
     for b in g['blocks']:
-        links_to_jsx(b['html'])
+        if b.get('t') == 'p':
+            links_to_jsx(b['html'])
 
 out = []
 out.append("import React from 'react';")
@@ -27,6 +28,9 @@ out.append("import { Closing, FileCard, Header, Heading, Figure, Paragraph, Text
 out.append('')
 out.append("import './style.css';")
 out.append("import lr44hero from './photos/lr44-hero.jpg';")
+out.append("import lr44int1 from './photos/lr44-int1.jpg';")
+out.append("import lr44int2 from './photos/lr44-int2.jpg';")
+out.append("import lr44int3 from './photos/lr44-int3.jpg';")
 out.append('')
 for url, name in consts.items():
     out.append("const %s = '%s';" % (name, url))
@@ -38,12 +42,19 @@ out.append('            fact={`%s`}' % lr['fact'].replace('`', '\\`'))
 out.append('            intro="%s" />' % "Seven chapters: the writer, the transistor man, the pricing man, the call, the pure play, the avalanche and the yes. The record here is TSMC’s own company profile and earnings release, the IEEE’s 2011 profile of Morris Chang, Stanford’s and MIT’s accounts of his talks, and TrendForce’s share count via Focus Taiwan.")
 out.append('        <Figure src={lr44hero} alt="Abstract plate: a silicon wafer held above a factory roofline" caption="Abstract plate for the long read." fit="cover" />')
 
+figmap = {'lr44-int1': 'lr44int1', 'lr44-int2': 'lr44int2', 'lr44-int3': 'lr44int3'}
 for g in lr['groups']:
     out.append('')
     out.append('        <Heading>%s</Heading>' % g['heading'])
     out.append('        <Text>')
     for b in g['blocks']:
-        out.append('            <Paragraph>%s</Paragraph>' % links_to_jsx(b['html'].strip()))
+        if b.get('t') == 'figure':
+            key = b['img'].split('/')[-1].replace('.jpg','')
+            out.append('        </Text>')
+            out.append('        <Figure src={%s} alt="%s" caption="%s" />' % (figmap[key], b['alt'].replace('"','&quot;'), b['caption'].replace('"','&quot;')))
+            out.append('        <Text>')
+        else:
+            out.append('            <Paragraph>%s</Paragraph>' % links_to_jsx(b['html'].strip()))
     out.append('        </Text>')
 
 out.append('')

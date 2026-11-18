@@ -5,6 +5,8 @@ import json
 def a(href, text):
     return '<a href="%s" target="_blank" rel="noopener">%s</a>' % (href, text)
 def p(html): return {'t': 'p', 'html': html}
+def fig(img, alt, cap): return {'t': 'figure', 'img': img, 'alt': alt, 'caption': cap}
+
 
 TSMC = 'https://www.tsmc.com/english/aboutTSMC/company_profile'
 IEEE = 'https://spectrum.ieee.org/morris-chang-foundry-father'
@@ -55,6 +57,10 @@ G.append({'heading': '7. The yes', 'blocks': [
 fact = ('A Slow Burn long read, Wednesday 18 November 2026. The chips behind Nvidia\'s record quarter were made by a company that, by its own description, manufactures only its customers\' products. '
  'Morris Chang was twice sidelined and past fifty when Taiwan asked him to build a semiconductor company; he invented the pure-play foundry instead. '
  'TSMC now manufactures for 534 customers and holds 72.5 percent of the industry it created.')
+
+G[1]['blocks'].append(fig('photos/lr44-int1.jpg', 'Abstract plate: an early transistor as fine ink lines and solder dots', 'The transistor years - Sylvania, TI, and the yield problem that made his name.'))
+G[3]['blocks'].append(fig('photos/lr44-int2.jpg', "Abstract plate: a telephone's call arcing across an ocean to an island factory", "The call - K.T. Li's offer, and a move everyone told him not to make."))
+G[5]['blocks'].append(fig('photos/lr44-int3.jpg', 'Abstract plate: one square becoming a cascade of chips downhill', 'The avalanche - a generation of fabless companies the pure play made possible.'))
 
 d = json.load(open('editions-src/longreads.json'))
 d['44'] = {'title': 'The company that only makes other people\u2019s chips', 'fact': fact, 'groups': G, 'audio': {}, 'thumb': 'photos/lr44-hero.jpg', 'hero': {'img': 'photos/lr44-hero.jpg', 'alt': 'Abstract plate: a silicon wafer above a factory roofline', 'caption': 'Abstract plate for the long read - the company that only makes other people\u2019s chips.'}}

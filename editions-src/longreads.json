@@ -6713,6 +6713,12 @@
      {
       "t": "p",
       "html": " Texas Instruments hired him in 1958, and handed him the problem that made his name. TI was manufacturing four transistors for IBM to IBM's design and process - in effect an early foundry deal - and one of them would not yield. IBM's own pilot line got ten percent at best; Chang's line got zero, occasionally two or three. He tinkered for four months - furnace temperature, time, alloys, diffusion materials - until the yield jumped past twenty percent. TI's president learned his name; IBM sent engineers, convinced he had been lucky, and left convinced he had not. At twenty-eight he had his first department. At thirty, TI paid his way through a Stanford PhD, tuition and full salary. By 1964 he was back in Dallas; soon three thousand people reported to him (<a href=\"https://spectrum.ieee.org/morris-chang-foundry-father\" target=\"_blank\" rel=\"noopener\">the IEEE profile</a>; <a href=\"https://engineering.stanford.edu/news/stanford-engineering-hero-morris-chang-honored-revolutionizing-chip-making\" target=\"_blank\" rel=\"noopener\">Stanford's account</a>)."
+     },
+     {
+      "t": "figure",
+      "img": "photos/lr44-int1.jpg",
+      "alt": "Abstract plate: an early transistor as fine ink lines and solder dots",
+      "caption": "The transistor years - Sylvania, TI, and the yield problem that made his name."
      }
     ]
    },
@@ -6739,6 +6745,12 @@
      {
       "t": "p",
       "html": " Then Li returned with the real proposal: the government wanted Taiwan to have a semiconductor company, and it wanted Chang to build it. The odds were absurd. ITRI's best process was three micrometres; the industry leaders were at one and a half - two generations ahead. TI dominated, Intel was rising, and NEC, Fujitsu and AMD were strong. Chang's summary of why he said yes anyway is a movie line: \"It's like in The Godfather - an offer you can't refuse.\" Refusing, he explains, would have marked him in Taiwan as a man without ambition (<a href=\"https://spectrum.ieee.org/morris-chang-foundry-father\" target=\"_blank\" rel=\"noopener\">the IEEE profile</a>)."
+     },
+     {
+      "t": "figure",
+      "img": "photos/lr44-int2.jpg",
+      "alt": "Abstract plate: a telephone's call arcing across an ocean to an island factory",
+      "caption": "The call - K.T. Li's offer, and a move everyone told him not to make."
      }
     ]
    },
@@ -6765,6 +6777,12 @@
      {
       "t": "p",
       "html": " The numbers, four decades on: in 2025 TSMC manufactured 12,682 distinct products on 305 process technologies for 534 customers, running six 12-inch GIGAFABs in Taiwan plus fabs in Nanjing, Arizona, Japan and elsewhere, with Dresden under construction. In the second quarter of 2026 it held 72.5 percent of the global foundry market - Samsung, second, had 5.9 (<a href=\"https://www.tsmc.com/english/aboutTSMC/company_profile\" target=\"_blank\" rel=\"noopener\">the company profile</a>; <a href=\"https://focustaiwan.tw/business/202609090025\" target=\"_blank\" rel=\"noopener\">TrendForce's count via Focus Taiwan</a>). The quarter reported last month: revenue of $46.72 billion, up 41.2 percent on the year; a gross margin of 66.4 percent; the new two-nanometre process already eight percent of wafer revenue; and a sixth consecutive record profit, with fourth-quarter revenue guided to $52.3 to $54.3 billion (<a href=\"https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/526b65af7305df2dde6b9ece6812b1fdf1e49f9b/3Q26%20EarningsRelease.pdf\" target=\"_blank\" rel=\"noopener\">the earnings release</a>; <a href=\"https://finance.yahoo.com/technology/ai/articles/tsmc-q3-profit-surges-more-061034370.html\" target=\"_blank\" rel=\"noopener\">the quarter's coverage</a>)."
+     },
+     {
+      "t": "figure",
+      "img": "photos/lr44-int3.jpg",
+      "alt": "Abstract plate: one square becoming a cascade of chips downhill",
+      "caption": "The avalanche - a generation of fabless companies the pure play made possible."
      }
     ]
    },
