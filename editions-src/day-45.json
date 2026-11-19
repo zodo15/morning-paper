@@ -1,372 +1,375 @@
 {
- "day": 45,
- "meta": {
-  "date": "Thursday 19 November 2026",
-  "short": "Thu 19 Nov",
-  "longread": 45
- },
- "edition": {
-  "fact": "Edition 45. Thursday 19 November 2026. This edition runs 4099 words. Anthropic priced its IPO at $83 a share - above the $70-78 range - and starts trading today as ANT, the largest listing ever at pricing; the Fed's October minutes say almost all participants expect more rate hikes, with two dissenters wanting one immediately and AI named a material inflation risk; the BIS remote-access chip rule is scheduled to publish in the Federal Register today. Mumbai took a breather: the Sensex fell 500 points as a report that SEBI may link margin limits to free float met profit-taking after a twelve-session rally. The long read: ASML, the company that sells the only machine.",
-  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: last week it was the firm that makes everyone's chips; this week it is the firm that sells that firm its irreplaceable machines - from a leaky shed in Eindhoven to sold out through 2028. ASML, the only machine.",
-  "hero": {
-   "img": "photos/d45-hero.jpg",
-   "alt": "Abstract plate: a price tag, a gavel, a printing press",
-   "caption": "Abstract plate for edition 45 - the price, the minutes, and the press."
+  "day": 45,
+  "meta": {
+    "date": "Thursday 19 November 2026",
+    "short": "Thu 19 Nov",
+    "longread": 45
   },
-  "groups": [
-   {
-    "heading": "The 5-minute lead route",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Anthropic priced at $83. The largest AI listing ever attempted priced Wednesday evening in New York at $83 a share, above the $70-78 range (<a href=\"https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). At that price the 980 million shares on offer - 956.4 million primary, 23.6 million secondary - raise $81.3 billion gross, of which about $79.4 billion goes to the company before fees; the Associated Press puts the valuation at $1.5 trillion (<a href=\"https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c\" target=\"_blank\" rel=\"noopener\">AP</a>). First trade is today on the Nasdaq, ticker ANT."
-     },
-     {
-      "t": "p",
-      "html": " The Fed's minutes say hikes are coming. The October 27-28 meeting held rates at 3.75-4.00% on a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack dissenting for an immediate quarter-point rise. The owning text: \"almost all participants judged that, under their baseline outlooks for inflation and the labor market, further action to raise the target range for the federal funds rate... would likely be appropriate,\" and \"a couple of participants noted that an increase of more than 25 basis points could warrant consideration at the next meeting if incoming inflation data were unfavorable\" (<a href=\"https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf\" target=\"_blank\" rel=\"noopener\">the minutes</a>). Governor Waller went on television the same afternoon to argue for considering a half-point move in December (<a href=\"https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>)."
-     },
-     {
-      "t": "p",
-      "html": " AI is now officially an inflation worry. The same minutes record that \"many participants viewed the AI buildout as a material source of inflation risk,\" and the staff's financial-stability briefing warned that off-balance-sheet leasing commitments and circular financing among AI firms could amplify losses if returns disappoint; most participants noted AI debt growing through \"complex and opaque financing structures\" (<a href=\"https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf\" target=\"_blank\" rel=\"noopener\">the minutes</a>)."
-     },
-     {
-      "t": "p",
-      "html": " Wall Street slipped a fifth straight day. The S&P 500 fell 0.2% to 7,323.63 - its longest losing streak since June - the Dow lost 561.25 points (1.1%) to 50,198.17, and the Nasdaq rose 0.4% to 24,429.88 (<a href=\"https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026/\" target=\"_blank\" rel=\"noopener\">AP's closing table</a>). Nvidia, Tuesday evening's beat, fell 2.89% on the day and is down more than 13% over the week; CoreWeave lost 4.13% (<a href=\"https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>)."
-     },
-     {
-      "t": "p",
-      "html": " Mumbai took a breather. A day after nine-month highs, the Sensex fell 500.38 points (0.61%) to 82,031.81 and the Nifty 159.45 (0.63%) to 25,227.95, with Bank Nifty off 0.38% a day after its record close (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>). Two drivers: a report that SEBI is considering linking margin-trading limits to a stock's free float - the margin book stands at Rs 1.53 lakh crore - and profit-taking after a twelve-session, 13% rally. Gold's 3% overnight crash sank Titan 4.82%; Cipla (+2.68%) and SBI (+2.26%) led what rose."
-     },
-     {
-      "t": "p",
-      "html": " Foreign money kept buying. FIIs bought a provisional Rs 5,866.78 crore on Wednesday - the thirteenth straight buying session, taking the streak past Rs 85,000 crore, the largest monthly inflow in about two years - while DIIs sold Rs 3,159.90 crore (<a href=\"https://www.financialexpress.com/market/fiis-pump-in-rs-5866-crore-diis-net-sellers-3-triggers-driving-market-volatility-4387898/\" target=\"_blank\" rel=\"noopener\">Financial Express</a>). The rupee closed at 93.44, nearly flat (<a href=\"https://www.moneycontrol.com/news/business/markets/rupee-gives-up-7-month-high-gains-closes-flat-at-93-44-as-dollar-firms-14083796.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>)."
-     },
-     {
-      "t": "p",
-      "html": " The chip-access rule publishes today. The Commerce Department's interim final rule on remote access to advanced semiconductors remains on the Federal Register's public-inspection list as this paper prints - \"scheduled to be published on 11/19/2026\" (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>). Publication, expected this evening IST, starts every clock: effectiveness on publication, 60 days for comments, a 90-day grace period for existing service to Macau and D:5-headquartered customers."
-     },
-     {
-      "t": "p",
-      "html": " The long read: ASML. Philips tried to give the lithography division to the market leader; the market leader said no. So Philips and an entrepreneur named Arthur del Prado parked it in a leaky shed in 1984, with 47 reluctant engineers. In its October report ASML posted a record quarter and said demand will outrun its planned supply through 2028. The story of the only machine is below."
-     }
+  "edition": {
+    "fact": "Edition 45. Thursday 19 November 2026. This edition runs 4099 words. Anthropic priced its IPO at $83 a share - above the $70-78 range - and starts trading today as ANT, the largest listing ever at pricing; the Fed's October minutes say almost all participants expect more rate hikes, with two dissenters wanting one immediately and AI named a material inflation risk; the BIS remote-access chip rule is scheduled to publish in the Federal Register today. Mumbai took a breather: the Sensex fell 500 points as a report that SEBI may link margin limits to free float met profit-taking after a twelve-session rally. The long read: ASML, the company that sells the only machine.",
+    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: last week it was the firm that makes everyone's chips; this week it is the firm that sells that firm its irreplaceable machines - from a leaky shed in Eindhoven to sold out through 2028. ASML, the only machine.",
+    "hero": {
+      "img": "photos/d45-hero.jpg",
+      "alt": "Abstract plate: a price tag, a gavel, a printing press",
+      "caption": "Abstract plate for edition 45 - the price, the minutes, and the press."
+    },
+    "groups": [
+      {
+        "heading": "The 5-minute lead route",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Anthropic priced at $83. The largest AI listing ever attempted priced Wednesday evening in New York at $83 a share, above the $70-78 range (<a href=\"https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). At that price the 980 million shares on offer - 956.4 million primary, 23.6 million secondary - raise $81.3 billion gross, of which about $79.4 billion goes to the company before fees; the Associated Press puts the valuation at $1.5 trillion (<a href=\"https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c\" target=\"_blank\" rel=\"noopener\">AP</a>). First trade is today on the Nasdaq, ticker ANT."
+          },
+          {
+            "t": "p",
+            "html": " The Fed's minutes say hikes are coming. The October 27-28 meeting held rates at 3.75-4.00% on a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack dissenting for an immediate quarter-point rise. The owning text: \"almost all participants judged that, under their baseline outlooks for inflation and the labor market, further action to raise the target range for the federal funds rate... would likely be appropriate,\" and \"a couple of participants noted that an increase of more than 25 basis points could warrant consideration at the next meeting if incoming inflation data were unfavorable\" (<a href=\"https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf\" target=\"_blank\" rel=\"noopener\">the minutes</a>). Governor Waller went on television the same afternoon to argue for considering a half-point move in December (<a href=\"https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>)."
+          },
+          {
+            "t": "p",
+            "html": " AI is now officially an inflation worry. The same minutes record that \"many participants viewed the AI buildout as a material source of inflation risk,\" and the staff's financial-stability briefing warned that off-balance-sheet leasing commitments and circular financing among AI firms could amplify losses if returns disappoint; most participants noted AI debt growing through \"complex and opaque financing structures\" (<a href=\"https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf\" target=\"_blank\" rel=\"noopener\">the minutes</a>)."
+          },
+          {
+            "t": "p",
+            "html": " Wall Street slipped a fifth straight day. The S&P 500 fell 0.2% to 7,323.63 - its longest losing streak since June - the Dow lost 561.25 points (1.1%) to 50,198.17, and the Nasdaq rose 0.4% to 24,429.88 (<a href=\"https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026/\" target=\"_blank\" rel=\"noopener\">AP's closing table</a>). Nvidia, Tuesday evening's beat, fell 2.89% on the day and is down more than 13% over the week; CoreWeave lost 4.13% (<a href=\"https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>)."
+          },
+          {
+            "t": "p",
+            "html": " Mumbai took a breather. A day after nine-month highs, the Sensex fell 500.38 points (0.61%) to 82,031.81 and the Nifty 159.45 (0.63%) to 25,227.95, with Bank Nifty off 0.38% a day after its record close (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>). Two drivers: a report that SEBI is considering linking margin-trading limits to a stock's free float - the margin book stands at Rs 1.53 lakh crore - and profit-taking after a twelve-session, 13% rally. Gold's 3% overnight crash sank Titan 4.82%; Cipla (+2.68%) and SBI (+2.26%) led what rose."
+          },
+          {
+            "t": "p",
+            "html": " Foreign money kept buying. FIIs bought a provisional Rs 5,866.78 crore on Wednesday - the thirteenth straight buying session, taking the streak past Rs 85,000 crore, the largest monthly inflow in about two years - while DIIs sold Rs 3,159.90 crore (<a href=\"https://www.financialexpress.com/market/fiis-pump-in-rs-5866-crore-diis-net-sellers-3-triggers-driving-market-volatility-4387898/\" target=\"_blank\" rel=\"noopener\">Financial Express</a>). The rupee closed at 93.44, nearly flat (<a href=\"https://www.moneycontrol.com/news/business/markets/rupee-gives-up-7-month-high-gains-closes-flat-at-93-44-as-dollar-firms-14083796.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>)."
+          },
+          {
+            "t": "p",
+            "html": " The chip-access rule publishes today. The Commerce Department's interim final rule on remote access to advanced semiconductors remains on the Federal Register's public-inspection list as this paper prints - \"scheduled to be published on 11/19/2026\" (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>). Publication, expected this evening IST, starts every clock: effectiveness on publication, 60 days for comments, a 90-day grace period for existing service to Macau and D:5-headquartered customers."
+          },
+          {
+            "t": "p",
+            "html": " The long read: ASML. Philips tried to give the lithography division to the market leader; the market leader said no. So Philips and an entrepreneur named Arthur del Prado parked it in a leaky shed in 1984, with 47 reluctant engineers. In its October report ASML posted a record quarter and said demand will outrun its planned supply through 2028. The story of the only machine is below."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The debut, priced. Anthropic will open for trading today having priced 980 million Class A shares at $83 - five dollars above the top of the $70-78 range set in an amended filing (<a href=\"https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). The arithmetic, from the final pricing release: 956,351,354 primary shares fund the company - about $79.4 billion at the print before fees - while 23,648,646 secondary shares, about $2.0 billion, cash out existing holders; the gross figure, $81.3 billion, is the largest listing ever at pricing, eclipsing the $75 billion SpaceX raised in June. The underwriters hold a 147-million-share greenshoe of their own, and the $26 billion private placement with suppliers closes alongside (<a href=\"https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c\" target=\"_blank\" rel=\"noopener\">AP</a>). The Associated Press puts the valuation at $1.5 trillion."
+          },
+          {
+            "t": "p",
+            "html": " The minutes, in the Fed's own words. Three weeks after the fact, the October 27-28 record shows a committee holding at 3.75-4.00% but leaning hard toward tightening: \"almost all participants judged that, under their baseline outlooks for inflation and the labor market, further action to raise the target range for the federal funds rate - broadly consistent with the September Summary of Economic Projections - would likely be appropriate.\" Some participants wanted 25 basis points that very meeting, warning that delay risked entrenching high inflation; a couple floated more than 25 for December; and futures markets had already priced a high probability of a hike by year-end with two more by summer 2027, per the desk briefing inside the same document (<a href=\"https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf\" target=\"_blank\" rel=\"noopener\">minutes of the October meeting</a>). The dissents ran hawkish - Cook and Hammack wanted the quarter-point now. Governor Waller said on CNBC Wednesday that a half-point should be on December's table (<a href=\"https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>)."
+          },
+          {
+            "t": "p",
+            "html": " The AI warning is on the record now. The staff's stability briefing - printed in the minutes - flagged \"the rapid growth of debt associated with the artificial intelligence (AI) buildout, noting that off-balance-sheet leasing commitments and circular financing arrangements among AI-related firms could amplify losses if returns on AI investment were to disappoint.\" Most participants observed the debt is growing through \"complex and opaque financing structures\"; a few noted exposures concentrating in a small number of firms; and on prices, \"many participants viewed the AI buildout as a material source of inflation risk\" (<a href=\"https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf\" target=\"_blank\" rel=\"noopener\">the minutes</a>). The central bank whose rate sets the cost of the buildout is now writing down, in its formal record, the worry the market has been trading around for six weeks."
+          },
+          {
+            "t": "p",
+            "html": " The tape the minutes landed into. Wednesday was already a repricing: the S&P 500's fifth straight loss took it to 7,323.63, the Dow's 561-point fall to 50,198.17, while Nvidia gave back 2.89% of Tuesday evening's euphoria to sit 13% below where it traded a week ago (<a href=\"https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026/\" target=\"_blank\" rel=\"noopener\">AP</a>; <a href=\"https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Underneath, the classic hawkish-Fed rotation: the dollar index touched a fresh nineteen-month high near 103.9 (<a href=\"https://news.rthk.hk/rthk/ch/component/k2/1878369-20261119.htm\" target=\"_blank\" rel=\"noopener\">RTHK</a>), spot gold fell about 3.4% through $3,725 to a fourteen-month low (<a href=\"https://news.rthk.hk/rthk/ch/component/k2/1878368-20261119.htm\" target=\"_blank\" rel=\"noopener\">RTHK</a>), WTI settled down 3.2% at $83.26 and Brent at $91.95, while the ten-year Treasury yield eased to 5.07% (<a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?_format=csv&field_tdr_date_value=2026&type=daily_treasury_yield_curve\" target=\"_blank\" rel=\"noopener\">Treasury's own table</a>). The VIX closed at 24.56, off 3.5% (<a href=\"https://finance.yahoo.com/quote/%5EVIX/history/\" target=\"_blank\" rel=\"noopener\">Yahoo Finance history</a>)."
+          },
+          {
+            "t": "p",
+            "html": " Mumbai's breather, in full. Nine-month highs invited profit-taking, and a regulator report supplied the excuse: SEBI is considering linking margin-trading-facility limits to free float, per BusinessLine's reporting, against a margin book of Rs 1.53 lakh crore (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">the session report</a>). The Sensex closed at 82,031.81, down 500.38; the Nifty at 25,227.95, down 159.45; midcaps fell 1.22%. Consumer durables led the fall (-3.10%) as gold's crash hit Titan and jewellers; metals lost 2.46%; PSU banks (+0.6%) and media (+0.5%) bucked it. The day's irony: FIIs bought their thirteenth straight session (+Rs 5,866.78 crore) while domestic institutions sold Rs 3,159.90 crore (<a href=\"https://www.financialexpress.com/market/fiis-pump-in-rs-5866-crore-diis-net-sellers-3-triggers-driving-market-volatility-4387898/\" target=\"_blank\" rel=\"noopener\">FE</a>)."
+          },
+          {
+            "t": "p",
+            "html": " The rule that publishes today. Commerce's remote-access rule - edition 43 traced its text - sat on the Federal Register's public-inspection list at 4:17 AM IST with one line that matters: \"This document is unpublished. It is scheduled to be published on 11/19/2026\" (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>). Scheduled is not published, and published is not effective law until the document says so - the rule text makes effectiveness coincide with publication, opens a 60-day comment window, and grants 90 days of grace for existing remote-access service to customers headquartered in Macau and D:5 countries. By tonight's close in Washington, all three clocks should be running."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Wednesday's marks, then this morning's markers. Mumbai: Sensex 82,031.81, down 500.38 (0.61%); Nifty 25,227.95, down 159.45 (0.63%); Bank Nifty 62,038.65, down 0.38% (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>). New York: S&P 500 7,323.63 (-0.2%), Dow 50,198.17 (-1.1%), Nasdaq 24,429.88 (+0.4%), Russell 2000 2,714.31 (+0.5%) (<a href=\"https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026/\" target=\"_blank\" rel=\"noopener\">AP</a>). This morning, as-of stamps: GIFT Nifty 25,186.00 at 5:41 AM IST, implying a Nifty open near 25,215, about 13 points under Wednesday's close (<a href=\"https://giftniftytoday.com/\" target=\"_blank\" rel=\"noopener\">the pre-market screen</a>); the Nikkei opened Thursday at 59,025.19, up 0.05% (<a href=\"https://www.nbd.com.cn/articles/2026-11-19/4652121.html\" target=\"_blank\" rel=\"noopener\">NBD, 5:32 AM IST</a>). Oil: WTI settled at $83.26 (-3.2%), Brent at $91.95 (-1.28%), and the new Brent front month traded near $88.75 by 5:33 AM IST (<a href=\"https://invvex.com/en/oil\" target=\"_blank\" rel=\"noopener\">delayed quotes</a>). Spot gold near $3,725, a fourteen-month low; December futures settled at $3,741.90, down 3.2% (<a href=\"https://news.rthk.hk/rthk/ch/component/k2/1878368-20261119.htm\" target=\"_blank\" rel=\"noopener\">RTHK</a>). Dollar index near 103.9 after seven straight gains; the ten-year at 5.07% per <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?_format=csv&field_tdr_date_value=2026&type=daily_treasury_yield_curve\" target=\"_blank\" rel=\"noopener\">Treasury's daily curve</a>, with an overnight low of 5.052%; dollar-yen near 159.3 (<a href=\"https://news.rthk.hk/rthk/ch/component/k2/1878369-20261119.htm\" target=\"_blank\" rel=\"noopener\">RTHK</a>). US VIX closed at 24.56, down 3.53% (<a href=\"https://finance.yahoo.com/quote/%5EVIX/history/\" target=\"_blank\" rel=\"noopener\">Yahoo</a>). Rupee: 93.44."
+          }
+        ]
+      },
+      {
+        "heading": "IPOs",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The largest AI listing starts trading tonight. Everything about ANT's first session is now a function of one number: $83. Watch the opening cross first - a strong one tells you the 980 million shares were underpriced even above range; a weak one hands the underwriters their greenshoe question early, since the 147-million-share over-allotment exists precisely to stabilize a wobbly debut (<a href=\"https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c\" target=\"_blank\" rel=\"noopener\">AP</a>). Then watch what the $26 billion supplier placement and the first analyst initiations say about how much of the raise goes straight back out as compute purchases - the circularity the Fed's staff flagged in the same week's minutes. In Mumbai, the IPO lane is quiet; the next dated event is Medi Assist's buyback record date tomorrow (<a href=\"https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html\" target=\"_blank\" rel=\"noopener\">Mint's list</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "Top movers - Wednesday's verdicts",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Wednesday's board - the large names this paper tracks, from best to worst (percentages computed from BSE's official closes against Tuesday):"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 510\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Wednesday 18 Nov (% vs Tuesday's close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Ashok Leyland</text><rect x=\"410\" y=\"30\" width=\"45\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"463\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.0%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Oil India</text><rect x=\"410\" y=\"78\" width=\"27.9\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"445.9\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.6%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"379.85\" y=\"126\" width=\"30.15\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"371.85\" y=\"145\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.7%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Godrej Properties</text><rect x=\"372.2\" y=\"174\" width=\"37.8\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"364.2\" y=\"193\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.8%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Prestige Estates</text><rect x=\"356.45\" y=\"222\" width=\"53.55\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"348.45\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.2%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">Oberoi Realty</text><rect x=\"354.65\" y=\"270\" width=\"55.35\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"346.65\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.2%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Eicher Motors</text><rect x=\"352.4\" y=\"318\" width=\"57.6\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"344.4\" y=\"337\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.3%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">Tata Communications</text><rect x=\"333.5\" y=\"366\" width=\"76.5\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"325.5\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.7%</text><text x=\"8\" y=\"431\" font-size=\"21\" fill=\"#334155\">Adani Enterprises</text><rect x=\"317.75\" y=\"414\" width=\"92.25\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"309.75\" y=\"433\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.1%</text><text x=\"8\" y=\"479\" font-size=\"21\" fill=\"#334155\">Wipro</text><rect x=\"303.35\" y=\"462\" width=\"106.65\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"295.35\" y=\"481\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.4%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Leaders and laggards among the large names this paper tracks, Wednesday 18 Nov (% vs Tuesday's close), BSE official prints</p>"
+          },
+          {
+            "t": "p",
+            "html": " Tuesday's leaders became Wednesday's laggards, almost in order. Adani Enterprises, Tuesday's best at +3.12%, gave back 2.05%; the realty trio that carried Tuesday (Oberoi, Godrej Properties, Prestige) all fell about one percent. The two green names both had a reason: Ashok Leyland (+1.00%) goes ex-interim tomorrow, and Oil India (+0.62%) has its Rs 7 interim record date Friday - dividend positioning, not enthusiasm. Beyond the tracked board, the session's real story sat in gold and margin: Titan fell 4.82% as bullion crashed, and the midcap index lost 1.22% on the margin-rule report (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">the session report</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "Corporate actions",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Two dividend record dates today: Ingersoll-Rand India's Rs 20 interim and Natco Pharma's Rs 1.25 interim (<a href=\"https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html\" target=\"_blank\" rel=\"noopener\">Mint's calendar</a>). Muthoot Microfin's board meets to consider restated financial statements - a refiling, not fresh results (per its BSE filing). SpiceJet's board approved an enabling plan to raise up to Rs 5,500 crore and expanded its authorized capital - an approval to seek money, with investors, instrument and pricing all unset and shareholder approval still needed, not funds raised (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/970dc8a8-c49b-4916-984b-b19f76a7fa79.pdf\" target=\"_blank\" rel=\"noopener\">the filing</a>). Tomorrow's record dates: Ashok Leyland's interim, Oil India's Rs 7, BF Investment's Rs 20 and Venus Pipes' Re 0.50, plus Medi Assist's buyback record date. Tonight in New York: ANT."
+          }
+        ]
+      },
+      {
+        "heading": "Finance Goldmine",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The thirteen-session handoff. Foreign investors have now bought Indian equities for thirteen straight sessions - over Rs 85,000 crore in that span, the largest monthly inflow in roughly two years - including Rs 5,866.78 crore on the very day the Sensex fell 500 points; domestic institutions sold Rs 3,159.90 crore the same day (<a href=\"https://www.financialexpress.com/market/fiis-pump-in-rs-5866-crore-diis-net-sellers-3-triggers-driving-market-volatility-4387898/\" target=\"_blank\" rel=\"noopener\">FE's flow data</a>). The rally's ownership is rotating: foreign money is buying the nine-month highs that domestic money is selling into. Worth holding the next time a headline attributes a fall to \"foreign selling.\""
+          },
+          {
+            "t": "p",
+            "html": " One term worth owning: the margin trading facility. MTF is the broker-funded trade: you put up part of the purchase, your broker lends the rest, and the shares sit pledged until you square up. SEBI caps how much of this a broker can fund, and the funded book across the market now stands at Rs 1.53 lakh crore. Wednesday's report says the regulator is weighing a link between each stock's MTF limit and its free float - the shares actually available to trade (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>). The logic is mechanical: leverage against a thin float moves prices violently in both directions, so a small-float stock would earn a smaller margin limit. A report, not a rule - but the midcaps that fell hardest Wednesday are exactly the stocks such a rule would touch."
+          }
+        ]
+      },
+      {
+        "heading": "Startup Intelligence",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Wednesday's cheques, largest first (<a href=\"https://www.thenewsstrike.com/india-startup-news-today-november-18-2026-botsync-raises-11-million-henfruit-secures-15-million-moglix-reports-6129-crore-revenue\" target=\"_blank\" rel=\"noopener\">the daily roundup</a>). Humyn Labs raised $47 million in a Series A - $26 million of equity led by Accel with Prosus Ventures, BeeGlobal, Bajaj Finserv's investment arms, Dallas VC, Lighthouse Canton and Jump Trading, plus $21 million of venture debt from Lighthouse Canton and Trifecta - to scale a robotics-training-data business: two-camera rigs record people doing everyday tasks, and software labels the footage for robot learning; collection runs across 20-plus countries with hubs in Brazil, India and South Korea. The Bengaluru company was founded in February by Manish Agarwal, Nazara's former CEO, and Ishank Gupta (<a href=\"https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a\" target=\"_blank\" rel=\"noopener\">the company's own announcement</a>; <a href=\"https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/\" target=\"_blank\" rel=\"noopener\">TechCrunch reported</a>). Also Wednesday: Botsync's $11 million Series B (IvyCap); Henfruit's $15 million (Lok Capital, DSG, RPSG); Fatehpuria Hygiene's Rs 100 crore maiden round (Madhu Kela); Soket AI Labs' $4 million; Olyv's $6 million. In financials: Moglix reported FY26 revenue of Rs 6,129 crore with a Rs 160 crore loss; Oxyzo's H1 FY27 revenue rose 31% to Rs 910 crore with a Rs 218 crore profit."
+          },
+          {
+            "t": "p",
+            "html": " Today's startup idea: the remote-access audit ledger. The BIS rule scheduled to publish today turns \"who can reach an advanced chip remotely, from where, for what\" into a compliance question every cloud and datacenter operator must answer continuously - not once at onboarding. The product: an attestation layer that lives beside the accelerator fleet, logging chip identity, physical location and the accessor's jurisdiction in a tamper-evident ledger, with alerts the moment a session pattern drifts toward a restricted geography. Sell it first to the neoclouds, whose entire financing now depends on proving their silicon serves only permitted customers; the Fed's minutes handed the sales pitch this week by naming exactly this opacity as a systemic worry. The wedge is narrow and the buyer is desperate, which is the correct shape for a wedge."
+          }
+        ]
+      },
+      {
+        "heading": "AI Race",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The third price list in a week. Google launched Gemini 4 Neon on Wednesday: $3 per million input tokens - 15 cents cached - and $15 per million output, with a one-million-token context window (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">Google's post</a>). Google's own benchmarking, as stated in that post: third on Artificial Analysis's Intelligence Index at 61, first on its Coding Agent Index at 58.6, second on the Vals index at 70.9%, and 50-80% lower cost per task than competing frontier models - the index claims are Google's citations, not independently re-run here, the same caveat that applied to OpenAI's numbers Monday. Neon rolls out across the API, AI Studio, Antigravity and the paid app tiers, with four thinking levels and the ability to orchestrate Hydrogen subagents. The pattern now has three points: OpenAI cut the price of frontier intelligence on Monday, Google matched the motion on the same Wednesday the Fed wrote down who might be financing the buildout. Intelligence per dollar is the race; the cost of capital is the referee."
+          }
+        ]
+      },
+      {
+        "heading": "Vibe coding",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " The harness is becoming the IDE. Google's Neon post is also a demonstration of where Antigravity, its agentic development harness, is heading: the launch demos include a ski simulator built from scratch in a single session and a 100,000-cell spreadsheet recreated from one screenshot, with Neon orchestrating Hydrogen subagents across the work and four selectable thinking levels trading speed against depth (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the launch post</a>). The builder's lesson: the unit of work is no longer the prompt or even the agent - it is the harness that decomposes a brief, fans it out to subagents and verifies the pieces. If you are still writing single prompts, you are programming last year's machine."
+          }
+        ]
+      },
+      {
+        "heading": "Try this today (Thursday)",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Take Neon for a lap. Open <a href=\"https://aistudio.google.com/\" target=\"_blank\" rel=\"noopener\">aistudio.google.com</a>, pick Gemini 4 Neon from the model dropdown - Google says it is rolling out in the Gemini API in AI Studio from today; the paid API bills at $3 and $15 per million tokens (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the post</a>). One useful test: paste a long document - say, the Fed minutes PDF - and ask for the three sentences a markets editor should quote. A one-million-token context window swallows it whole."
+          },
+          {
+            "t": "p",
+            "html": " Then, a reading habit: the rule before it is law. When a regulation matters, the story usually breaks on publication day - but the Federal Register's public-inspection list posts documents on file before they publish, which is how this paper read the chip rule Monday (<a href=\"https://www.federalregister.gov/public-inspection\" target=\"_blank\" rel=\"noopener\">federalregister.gov/public-inspection</a>). Bookmark it. The scheduled-publication line at the top of each entry is the difference between reporting what a rule says and reporting what it will say."
+          }
+        ]
+      },
+      {
+        "heading": "One concept: herding",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Herding, and why rational people do it. In 1992, Abhijit Banerjee published \"A Simple Model of Herd Behavior\" in the Quarterly Journal of Economics: when each person can see what earlier choosers did, it can be individually rational to ignore your own information and follow the crowd - the classic illustration is two restaurants on an empty street, where every newcomer picks the busier one, so an early coin-flip advantage compounds into a queue that signals nothing. Two years earlier, David Scharfstein and Jeremy Stein had given fund managers a colder motive: a manager who fails alongside everyone else keeps their job, while one who fails alone looks incompetent - so convention becomes insurance. The human story is every crowded trade you have ever felt pulled into: the discomfort of standing apart felt more dangerous than the risk itself. A note of discipline for today's tape: whether the thirteen-session foreign-buying streak or Wednesday's profit-taking were cascades or conviction is not knowable from the tape alone - distinguishing the two is the entire problem, and it is why the concept earns its keep."
+          }
+        ]
+      },
+      {
+        "heading": "Setup board",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Wednesday's session is scored, and the board has its first resolution by stop. Infosys closed at Rs 1,109.00 - under the published Rs 1,120 close-based floor for the first time, with the day's low at 1,107.00. The rule was explicit: a close under 1,120 ends the thesis. The line never activated - price never filled the Rs 1,175 zone - so it leaves the board invalidated, with no trade, no fill and no ledger P&L. Every price below is a BSE official close from Wednesday's tape. The desk's rule stands: every published setup stays on the board until it resolves by its own terms."
+          },
+          {
+            "t": "chart",
+            "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines after Wednesday's session; prices are BSE official closes, Wednesday 18 November - tonight's session is the next scored one</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it for a seventeenth session, close Rs 494.90 (-0.35%)</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 494.90 (Wed close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil, breakout leg not re-established</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close Rs 224.85 (+0.56%), the strongest of five sessions under the line; Brent settled at $91.95 Wednesday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 224.85 (Wed close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - R:R fails screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - close Rs 1,311.40 (-1.84%)</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>5 Nov swing high near Rs 1,370</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>fails the screen at current levels</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,311.40 (Wed close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. Hindalco</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>No verified entry zone yet - close Rs 900.40 (-2.94%), the board's weakest name, closing near the day's low after breaking the 911-912 intraday shelf</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>n/a</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 900.40 (Wed close)</p></div>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, marker at Wednesday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5161290322585\" x2=\"591.2903225806449\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"325.8064516129032\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5161290322585\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"325.8064516129032\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">224.85</text><text x=\"591.2903225806449\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC: coil floor to coil top, marker at Wednesday's close</p>"
+          },
+          {
+            "t": "p",
+            "html": " The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - closed Wednesday at Rs 1,346.40. Infosys joins the resolved column by invalidation, no P&L attached. Shelved: Voltas stays rejected, closing at Rs 1,132.10; Tech Mahindra stays shelved above the Rs 1,500 cap, closing at Rs 1,747.15."
+          }
+        ]
+      },
+      {
+        "heading": "How the board scores",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "No prior-day stop trade",
+                "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
+              },
+              {
+                "n": "2",
+                "title": "Worst fill in the zone",
+                "detail": "Entry is assumed at the worst price inside the published zone, not the best."
+              },
+              {
+                "n": "3",
+                "title": "R:R on the worst fill",
+                "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; below the screen, no setup."
+              },
+              {
+                "n": "4",
+                "title": "Resolution only",
+                "detail": "A line leaves the board only by stop, target or invalidation - never by opinion."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The editor's read",
+        "blocks": [
+          {
+            "t": "p",
+            "html": " Two documents, one argument. Within hours tonight, the market gets the AI trade's demand test - the first print on an $81.3 billion offering priced above range - and it already has the supply-side warning: the Fed's staff writing that the buildout's debt is running through opaque, circular structures, and most of the FOMC agreeing the exposures are concentrating. Neither document cancels the other. Anthropic can be a genuine business with genuine revenue and the financing around the sector can still be fragile; both things are in this week's record at once. Watch them together: the opening cross is the market's answer, and the December meeting is the referee's."
+          },
+          {
+            "t": "p",
+            "html": " Also brewing - the leadership file. Cause chain: Huang's resignation, officially characterized as following disclosure of conduct inconsistent with the code of conduct; his statement Tuesday offering to return; the board's on-record answer that it does not intend to reinstate him; an interim CEO-CFO pair that just delivered a record quarter and a guide above it. What settles it: the appointment of a permanent chief executive. Watch: any search-process disclosure, and any second statement from Huang."
+          },
+          {
+            "t": "p",
+            "html": " Also brewing - the debut file. Cause chain: three amended filings, books closed Tuesday, priced at $83 Wednesday, first trade today. What settles it: the opening cross tonight, then whether the stock holds the print once the greenshoe's stabilization support is spent - that answer takes days, not minutes. Watch: New York tonight; the first close versus $83."
+          },
+          {
+            "t": "p",
+            "html": " Also brewing - the compute-rule file. Cause chain: released Monday, on the Federal Register's inspection list since, scheduled to publish today; effectiveness, the 60-day comment clock and the 90-day grace period all key off that posting. What settles it: the document actually appearing in the Register - scheduled and published remain different facts until then - and then the comment docket, which is where industry tells you what the rule actually costs. Watch: federalregister.gov tonight IST."
+          }
+        ]
+      },
+      {
+        "heading": "The week ahead",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Thu 19 Nov (today)",
+                "detail": "ANT's first trade on the Nasdaq; the BIS remote-access rule scheduled for Federal Register publication; record dates for Ingersoll-Rand India's Rs 20 and Natco Pharma's Rs 1.25 interims; Muthoot Microfin's board considers restated financials."
+              },
+              {
+                "n": "2",
+                "title": "Fri 20 Nov",
+                "detail": "Record dates: Ashok Leyland's interim, Oil India's Rs 7, BF Investment's Rs 20, Venus Pipes' Re 0.50; Medi Assist's buyback record date."
+              },
+              {
+                "n": "3",
+                "title": "Watching",
+                "detail": "Fed speakers into the December meeting after Waller's half-point case; ANT's aftermarket versus the $83 print; whether the SEBI free-float margin report becomes a formal consultation; the Register's comment docket once the chip rule posts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Notes on this edition",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Sources read for this edition: the Fed's own minutes of the October 27-28 meeting (federalreserve.gov); Anthropic's own final pricing release (anthropic.com), with CNBC and the AP's report; US closes from the AP's table; the Treasury's own daily yield curve; BSE's official bhavcopy for every Indian price; BusinessLine's close report for Mumbai and the SEBI margin-rule report; Financial Express for FII/DII flows; moneycontrol for the rupee; the Federal Register's public-inspection entry checked at 4:17 AM IST; Google's own Neon launch post; Humyn Labs' own announcement plus TechCrunch; News Strike's startup roundup; RTHK's timestamped overnight notes for gold and the dollar; NBD for the Nikkei open; giftniftytoday's 5:41 AM screen for GIFT Nifty.",
+              "Marker values are as-of their stamps (5:32-5:55 AM IST); they will move before the open. The gold figure distinguishes spot (about $3,725) from the December futures settle ($3,741.90); earlier trackers showing higher numbers were reading different contracts. Anthropic's $81.3 billion is gross offering proceeds on the final 980 million shares at $83; about $79.4 billion accrues to the company from the primary tranche before fees. Neon benchmark rankings are Google's citations of third-party indices, not independently re-run."
+            ]
+          },
+          {
+            "t": "closing",
+            "html": " The debut is priced at $83; the minutes point up; the rule publishes today. See you tomorrow."
+          }
+        ]
+      }
     ]
-   },
-   {
-    "heading": "Front page",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The debut, priced. Anthropic will open for trading today having priced 980 million Class A shares at $83 - five dollars above the top of the $70-78 range set in an amended filing (<a href=\"https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). The arithmetic, from the final pricing release: 956,351,354 primary shares fund the company - about $79.4 billion at the print before fees - while 23,648,646 secondary shares, about $2.0 billion, cash out existing holders; the gross figure, $81.3 billion, is the largest listing ever at pricing, eclipsing the $75 billion SpaceX raised in June. The underwriters hold a 147-million-share greenshoe of their own, and the $26 billion private placement with suppliers closes alongside (<a href=\"https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c\" target=\"_blank\" rel=\"noopener\">AP</a>). The Associated Press puts the valuation at $1.5 trillion."
-     },
-     {
-      "t": "p",
-      "html": " The minutes, in the Fed's own words. Three weeks after the fact, the October 27-28 record shows a committee holding at 3.75-4.00% but leaning hard toward tightening: \"almost all participants judged that, under their baseline outlooks for inflation and the labor market, further action to raise the target range for the federal funds rate - broadly consistent with the September Summary of Economic Projections - would likely be appropriate.\" Some participants wanted 25 basis points that very meeting, warning that delay risked entrenching high inflation; a couple floated more than 25 for December; and futures markets had already priced a high probability of a hike by year-end with two more by summer 2027, per the desk briefing inside the same document (<a href=\"https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf\" target=\"_blank\" rel=\"noopener\">minutes of the October meeting</a>). The dissents ran hawkish - Cook and Hammack wanted the quarter-point now. Governor Waller said on CNBC Wednesday that a half-point should be on December's table (<a href=\"https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>)."
-     },
-     {
-      "t": "p",
-      "html": " The AI warning is on the record now. The staff's stability briefing - printed in the minutes - flagged \"the rapid growth of debt associated with the artificial intelligence (AI) buildout, noting that off-balance-sheet leasing commitments and circular financing arrangements among AI-related firms could amplify losses if returns on AI investment were to disappoint.\" Most participants observed the debt is growing through \"complex and opaque financing structures\"; a few noted exposures concentrating in a small number of firms; and on prices, \"many participants viewed the AI buildout as a material source of inflation risk\" (<a href=\"https://www.federalreserve.gov/monetarypolicy/files/fomcminutes20261028.pdf\" target=\"_blank\" rel=\"noopener\">the minutes</a>). The central bank whose rate sets the cost of the buildout is now writing down, in its formal record, the worry the market has been trading around for six weeks."
-     },
-     {
-      "t": "p",
-      "html": " The tape the minutes landed into. Wednesday was already a repricing: the S&P 500's fifth straight loss took it to 7,323.63, the Dow's 561-point fall to 50,198.17, while Nvidia gave back 2.89% of Tuesday evening's euphoria to sit 13% below where it traded a week ago (<a href=\"https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026/\" target=\"_blank\" rel=\"noopener\">AP</a>; <a href=\"https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Underneath, the classic hawkish-Fed rotation: the dollar index touched a fresh nineteen-month high near 103.9 (<a href=\"https://news.rthk.hk/rthk/ch/component/k2/1878369-20261119.htm\" target=\"_blank\" rel=\"noopener\">RTHK</a>), spot gold fell about 3.4% through $3,725 to a fourteen-month low (<a href=\"https://news.rthk.hk/rthk/ch/component/k2/1878368-20261119.htm\" target=\"_blank\" rel=\"noopener\">RTHK</a>), WTI settled down 3.2% at $83.26 and Brent at $91.95, while the ten-year Treasury yield eased to 5.07% (<a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?_format=csv&field_tdr_date_value=2026&type=daily_treasury_yield_curve\" target=\"_blank\" rel=\"noopener\">Treasury's own table</a>). The VIX closed at 24.56, off 3.5% (<a href=\"https://finance.yahoo.com/quote/%5EVIX/history/\" target=\"_blank\" rel=\"noopener\">Yahoo Finance history</a>)."
-     },
-     {
-      "t": "p",
-      "html": " Mumbai's breather, in full. Nine-month highs invited profit-taking, and a regulator report supplied the excuse: SEBI is considering linking margin-trading-facility limits to free float, per BusinessLine's reporting, against a margin book of Rs 1.53 lakh crore (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">the session report</a>). The Sensex closed at 82,031.81, down 500.38; the Nifty at 25,227.95, down 159.45; midcaps fell 1.22%. Consumer durables led the fall (-3.10%) as gold's crash hit Titan and jewellers; metals lost 2.46%; PSU banks (+0.6%) and media (+0.5%) bucked it. The day's irony: FIIs bought their thirteenth straight session (+Rs 5,866.78 crore) while domestic institutions sold Rs 3,159.90 crore (<a href=\"https://www.financialexpress.com/market/fiis-pump-in-rs-5866-crore-diis-net-sellers-3-triggers-driving-market-volatility-4387898/\" target=\"_blank\" rel=\"noopener\">FE</a>)."
-     },
-     {
-      "t": "p",
-      "html": " The rule that publishes today. Commerce's remote-access rule - edition 43 traced its text - sat on the Federal Register's public-inspection list at 4:17 AM IST with one line that matters: \"This document is unpublished. It is scheduled to be published on 11/19/2026\" (<a href=\"https://www.federalregister.gov/public-inspection/2026-23529/addressing-remote-access-to-advanced-semiconductors\" target=\"_blank\" rel=\"noopener\">the inspection entry</a>). Scheduled is not published, and published is not effective law until the document says so - the rule text makes effectiveness coincide with publication, opens a 60-day comment window, and grants 90 days of grace for existing remote-access service to customers headquartered in Macau and D:5 countries. By tonight's close in Washington, all three clocks should be running."
-     }
-    ]
-   },
-   {
-    "heading": "Markets",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Wednesday's marks, then this morning's markers. Mumbai: Sensex 82,031.81, down 500.38 (0.61%); Nifty 25,227.95, down 159.45 (0.63%); Bank Nifty 62,038.65, down 0.38% (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>). New York: S&P 500 7,323.63 (-0.2%), Dow 50,198.17 (-1.1%), Nasdaq 24,429.88 (+0.4%), Russell 2000 2,714.31 (+0.5%) (<a href=\"https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-18-2026/\" target=\"_blank\" rel=\"noopener\">AP</a>). This morning, as-of stamps: GIFT Nifty 25,186.00 at 5:41 AM IST, implying a Nifty open near 25,215, about 13 points under Wednesday's close (<a href=\"https://giftniftytoday.com/\" target=\"_blank\" rel=\"noopener\">the pre-market screen</a>); the Nikkei opened Thursday at 59,025.19, up 0.05% (<a href=\"https://www.nbd.com.cn/articles/2026-11-19/4652121.html\" target=\"_blank\" rel=\"noopener\">NBD, 5:32 AM IST</a>). Oil: WTI settled at $83.26 (-3.2%), Brent at $91.95 (-1.28%), and the new Brent front month traded near $88.75 by 5:33 AM IST (<a href=\"https://invvex.com/en/oil\" target=\"_blank\" rel=\"noopener\">delayed quotes</a>). Spot gold near $3,725, a fourteen-month low; December futures settled at $3,741.90, down 3.2% (<a href=\"https://news.rthk.hk/rthk/ch/component/k2/1878368-20261119.htm\" target=\"_blank\" rel=\"noopener\">RTHK</a>). Dollar index near 103.9 after seven straight gains; the ten-year at 5.07% per <a href=\"https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?_format=csv&field_tdr_date_value=2026&type=daily_treasury_yield_curve\" target=\"_blank\" rel=\"noopener\">Treasury's daily curve</a>, with an overnight low of 5.052%; dollar-yen near 159.3 (<a href=\"https://news.rthk.hk/rthk/ch/component/k2/1878369-20261119.htm\" target=\"_blank\" rel=\"noopener\">RTHK</a>). US VIX closed at 24.56, down 3.53% (<a href=\"https://finance.yahoo.com/quote/%5EVIX/history/\" target=\"_blank\" rel=\"noopener\">Yahoo</a>). Rupee: 93.44."
-     }
-    ]
-   },
-   {
-    "heading": "IPOs",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The largest AI listing starts trading tonight. Everything about ANT's first session is now a function of one number: $83. Watch the opening cross first - a strong one tells you the 980 million shares were underpriced even above range; a weak one hands the underwriters their greenshoe question early, since the 147-million-share over-allotment exists precisely to stabilize a wobbly debut (<a href=\"https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c\" target=\"_blank\" rel=\"noopener\">AP</a>). Then watch what the $26 billion supplier placement and the first analyst initiations say about how much of the raise goes straight back out as compute purchases - the circularity the Fed's staff flagged in the same week's minutes. In Mumbai, the IPO lane is quiet; the next dated event is Medi Assist's buyback record date tomorrow (<a href=\"https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html\" target=\"_blank\" rel=\"noopener\">Mint's list</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "Top movers - Wednesday's verdicts",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Wednesday's board - the large names this paper tracks, from best to worst (percentages computed from BSE's official closes against Tuesday):"
-     },
-     {
-      "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 510\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Wednesday 18 Nov (% vs Tuesday's close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Ashok Leyland</text><rect x=\"410\" y=\"30\" width=\"45\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"463\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.0%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Oil India</text><rect x=\"410\" y=\"78\" width=\"27.9\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"445.9\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.6%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"379.85\" y=\"126\" width=\"30.15\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"371.85\" y=\"145\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.7%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Godrej Properties</text><rect x=\"372.2\" y=\"174\" width=\"37.8\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"364.2\" y=\"193\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.8%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Prestige Estates</text><rect x=\"356.45\" y=\"222\" width=\"53.55\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"348.45\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.2%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">Oberoi Realty</text><rect x=\"354.65\" y=\"270\" width=\"55.35\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"346.65\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.2%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Eicher Motors</text><rect x=\"352.4\" y=\"318\" width=\"57.6\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"344.4\" y=\"337\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.3%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">Tata Communications</text><rect x=\"333.5\" y=\"366\" width=\"76.5\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"325.5\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.7%</text><text x=\"8\" y=\"431\" font-size=\"21\" fill=\"#334155\">Adani Enterprises</text><rect x=\"317.75\" y=\"414\" width=\"92.25\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"309.75\" y=\"433\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.1%</text><text x=\"8\" y=\"479\" font-size=\"21\" fill=\"#334155\">Wipro</text><rect x=\"303.35\" y=\"462\" width=\"106.65\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"295.35\" y=\"481\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.4%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Leaders and laggards among the large names this paper tracks, Wednesday 18 Nov (% vs Tuesday's close), BSE official prints</p>"
-     },
-     {
-      "t": "p",
-      "html": " Tuesday's leaders became Wednesday's laggards, almost in order. Adani Enterprises, Tuesday's best at +3.12%, gave back 2.05%; the realty trio that carried Tuesday (Oberoi, Godrej Properties, Prestige) all fell about one percent. The two green names both had a reason: Ashok Leyland (+1.00%) goes ex-interim tomorrow, and Oil India (+0.62%) has its Rs 7 interim record date Friday - dividend positioning, not enthusiasm. Beyond the tracked board, the session's real story sat in gold and margin: Titan fell 4.82% as bullion crashed, and the midcap index lost 1.22% on the margin-rule report (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">the session report</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "Corporate actions",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Two dividend record dates today: Ingersoll-Rand India's Rs 20 interim and Natco Pharma's Rs 1.25 interim (<a href=\"https://www.livemint.com/market/stock-market-news/upcoming-dividend-stock-split-buyback-record-date-next-week-16-20-nov-mrf-sci-pfc-power-grid-venus-pipes-more-11794644624084.html\" target=\"_blank\" rel=\"noopener\">Mint's calendar</a>). Muthoot Microfin's board meets to consider restated financial statements - a refiling, not fresh results (per its BSE filing). SpiceJet's board approved an enabling plan to raise up to Rs 5,500 crore and expanded its authorized capital - an approval to seek money, with investors, instrument and pricing all unset and shareholder approval still needed, not funds raised (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/970dc8a8-c49b-4916-984b-b19f76a7fa79.pdf\" target=\"_blank\" rel=\"noopener\">the filing</a>). Tomorrow's record dates: Ashok Leyland's interim, Oil India's Rs 7, BF Investment's Rs 20 and Venus Pipes' Re 0.50, plus Medi Assist's buyback record date. Tonight in New York: ANT."
-     }
-    ]
-   },
-   {
-    "heading": "Finance Goldmine",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The thirteen-session handoff. Foreign investors have now bought Indian equities for thirteen straight sessions - over Rs 85,000 crore in that span, the largest monthly inflow in roughly two years - including Rs 5,866.78 crore on the very day the Sensex fell 500 points; domestic institutions sold Rs 3,159.90 crore the same day (<a href=\"https://www.financialexpress.com/market/fiis-pump-in-rs-5866-crore-diis-net-sellers-3-triggers-driving-market-volatility-4387898/\" target=\"_blank\" rel=\"noopener\">FE's flow data</a>). The rally's ownership is rotating: foreign money is buying the nine-month highs that domestic money is selling into. Worth holding the next time a headline attributes a fall to \"foreign selling.\""
-     },
-     {
-      "t": "p",
-      "html": " One term worth owning: the margin trading facility. MTF is the broker-funded trade: you put up part of the purchase, your broker lends the rest, and the shares sit pledged until you square up. SEBI caps how much of this a broker can fund, and the funded book across the market now stands at Rs 1.53 lakh crore. Wednesday's report says the regulator is weighing a link between each stock's MTF limit and its free float - the shares actually available to trade (<a href=\"https://www.thehindubusinessline.com/markets/profit-booking-trims-recent-gains-as-sebi-margin-rules-rattle-d-street/article71715919.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>). The logic is mechanical: leverage against a thin float moves prices violently in both directions, so a small-float stock would earn a smaller margin limit. A report, not a rule - but the midcaps that fell hardest Wednesday are exactly the stocks such a rule would touch."
-     }
-    ]
-   },
-   {
-    "heading": "Startup Intelligence",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Wednesday's cheques, largest first (<a href=\"https://www.thenewsstrike.com/india-startup-news-today-november-18-2026-botsync-raises-11-million-henfruit-secures-15-million-moglix-reports-6129-crore-revenue\" target=\"_blank\" rel=\"noopener\">the daily roundup</a>). Humyn Labs raised $47 million in a Series A - $26 million of equity led by Accel with Prosus Ventures, BeeGlobal, Bajaj Finserv's investment arms, Dallas VC, Lighthouse Canton and Jump Trading, plus $21 million of venture debt from Lighthouse Canton and Trifecta - to scale a robotics-training-data business: two-camera rigs record people doing everyday tasks, and software labels the footage for robot learning; collection runs across 20-plus countries with hubs in Brazil, India and South Korea. The Bengaluru company was founded in February by Manish Agarwal, Nazara's former CEO, and Ishank Gupta (<a href=\"https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a\" target=\"_blank\" rel=\"noopener\">the company's own announcement</a>; <a href=\"https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/\" target=\"_blank\" rel=\"noopener\">TechCrunch reported</a>). Also Wednesday: Botsync's $11 million Series B (IvyCap); Henfruit's $15 million (Lok Capital, DSG, RPSG); Fatehpuria Hygiene's Rs 100 crore maiden round (Madhu Kela); Soket AI Labs' $4 million; Olyv's $6 million. In financials: Moglix reported FY26 revenue of Rs 6,129 crore with a Rs 160 crore loss; Oxyzo's H1 FY27 revenue rose 31% to Rs 910 crore with a Rs 218 crore profit."
-     },
-     {
-      "t": "p",
-      "html": " Today's startup idea: the remote-access audit ledger. The BIS rule scheduled to publish today turns \"who can reach an advanced chip remotely, from where, for what\" into a compliance question every cloud and datacenter operator must answer continuously - not once at onboarding. The product: an attestation layer that lives beside the accelerator fleet, logging chip identity, physical location and the accessor's jurisdiction in a tamper-evident ledger, with alerts the moment a session pattern drifts toward a restricted geography. Sell it first to the neoclouds, whose entire financing now depends on proving their silicon serves only permitted customers; the Fed's minutes handed the sales pitch this week by naming exactly this opacity as a systemic worry. The wedge is narrow and the buyer is desperate, which is the correct shape for a wedge."
-     }
-    ]
-   },
-   {
-    "heading": "AI Race",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The third price list in a week. Google launched Gemini 4 Neon on Wednesday: $3 per million input tokens - 15 cents cached - and $15 per million output, with a one-million-token context window (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">Google's post</a>). Google's own benchmarking, as stated in that post: third on Artificial Analysis's Intelligence Index at 61, first on its Coding Agent Index at 58.6, second on the Vals index at 70.9%, and 50-80% lower cost per task than competing frontier models - the index claims are Google's citations, not independently re-run here, the same caveat that applied to OpenAI's numbers Monday. Neon rolls out across the API, AI Studio, Antigravity and the paid app tiers, with four thinking levels and the ability to orchestrate Hydrogen subagents. The pattern now has three points: OpenAI cut the price of frontier intelligence on Monday, Google matched the motion on the same Wednesday the Fed wrote down who might be financing the buildout. Intelligence per dollar is the race; the cost of capital is the referee."
-     }
-    ]
-   },
-   {
-    "heading": "Vibe coding",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " The harness is becoming the IDE. Google's Neon post is also a demonstration of where Antigravity, its agentic development harness, is heading: the launch demos include a ski simulator built from scratch in a single session and a 100,000-cell spreadsheet recreated from one screenshot, with Neon orchestrating Hydrogen subagents across the work and four selectable thinking levels trading speed against depth (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the launch post</a>). The builder's lesson: the unit of work is no longer the prompt or even the agent - it is the harness that decomposes a brief, fans it out to subagents and verifies the pieces. If you are still writing single prompts, you are programming last year's machine."
-     }
-    ]
-   },
-   {
-    "heading": "Try this today (Thursday)",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Take Neon for a lap. Open <a href=\"https://aistudio.google.com/\" target=\"_blank\" rel=\"noopener\">aistudio.google.com</a>, pick Gemini 4 Neon from the model dropdown - Google says it is rolling out in the Gemini API in AI Studio from today; the paid API bills at $3 and $15 per million tokens (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the post</a>). One useful test: paste a long document - say, the Fed minutes PDF - and ask for the three sentences a markets editor should quote. A one-million-token context window swallows it whole."
-     },
-     {
-      "t": "p",
-      "html": " Then, a reading habit: the rule before it is law. When a regulation matters, the story usually breaks on publication day - but the Federal Register's public-inspection list posts documents on file before they publish, which is how this paper read the chip rule Monday (<a href=\"https://www.federalregister.gov/public-inspection\" target=\"_blank\" rel=\"noopener\">federalregister.gov/public-inspection</a>). Bookmark it. The scheduled-publication line at the top of each entry is the difference between reporting what a rule says and reporting what it will say."
-     }
-    ]
-   },
-   {
-    "heading": "One concept: herding",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Herding, and why rational people do it. In 1992, Abhijit Banerjee published \"A Simple Model of Herd Behavior\" in the Quarterly Journal of Economics: when each person can see what earlier choosers did, it can be individually rational to ignore your own information and follow the crowd - the classic illustration is two restaurants on an empty street, where every newcomer picks the busier one, so an early coin-flip advantage compounds into a queue that signals nothing. Two years earlier, David Scharfstein and Jeremy Stein had given fund managers a colder motive: a manager who fails alongside everyone else keeps their job, while one who fails alone looks incompetent - so convention becomes insurance. The human story is every crowded trade you have ever felt pulled into: the discomfort of standing apart felt more dangerous than the risk itself. A note of discipline for today's tape: whether the thirteen-session foreign-buying streak or Wednesday's profit-taking were cascades or conviction is not knowable from the tape alone - distinguishing the two is the entire problem, and it is why the concept earns its keep."
-     }
-    ]
-   },
-   {
-    "heading": "Setup board",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Wednesday's session is scored, and the board has its first resolution by stop. Infosys closed at Rs 1,109.00 - under the published Rs 1,120 close-based floor for the first time, with the day's low at 1,107.00. The rule was explicit: a close under 1,120 ends the thesis. The line never activated - price never filled the Rs 1,175 zone - so it leaves the board invalidated, with no trade, no fill and no ledger P&L. Every price below is a BSE official close from Wednesday's tape. The desk's rule stands: every published setup stays on the board until it resolves by its own terms."
-     },
-     {
-      "t": "chart",
-      "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines after Wednesday's session; prices are BSE official closes, Wednesday 18 November - tonight's session is the next scored one</p><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>1. Kotak Mahindra Bank</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - trigger held</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Post-print strength above Rs 437.55 - held above it for a seventeenth session, close Rs 494.90 (-0.35%)</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Below Rs 420 shelves it</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Structured-setup candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 494.90 (Wed close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>2. ONGC</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - inside coil, breakout leg not re-established</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Breakout above 228 with crude holding - close Rs 224.85 (+0.56%), the strongest of five sessions under the line; Brent settled at $91.95 Wednesday</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Coil floor Rs 218.50</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>Coil top Rs 238.75</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>1:1.1 - below the screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 224.85 (Wed close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>3. JSW Steel</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - R:R fails screen</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>Hold 1,158.95, then reclaim 1,218.90-1,222.30 - close Rs 1,311.40 (-1.84%)</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>Under 1,158.95 breaks the floor</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>5 Nov swing high near Rs 1,370</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>fails the screen at current levels</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 1,311.40 (Wed close)</p></div><div style=\"border:1px solid #d9d1c4;border-radius:8px;padding:14px;margin:12px 0\"><strong>4. Hindalco</strong><p style=\"margin:10px 0;font-size:15px\"><b>Status: </b>Watchlist - candidate</p><p style=\"margin:10px 0;font-size:15px\"><b>Entry / trigger: </b>No verified entry zone yet - close Rs 900.40 (-2.94%), the board's weakest name, closing near the day's low after breaking the 911-912 intraday shelf</p><p style=\"margin:10px 0;font-size:15px\"><b>Stop / invalidation: </b>n/a (not a setup)</p><p style=\"margin:10px 0;font-size:15px\"><b>Target / objective: </b>n/a</p><p style=\"margin:10px 0;font-size:15px\"><b>R:R at worst fill: </b>n/a</p><p style=\"margin:10px 0;font-size:15px\"><b>Reference price: </b>Rs 900.40 (Wed close)</p></div>"
-     },
-     {
-      "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, marker at Wednesday's close\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5161290322585\" x2=\"591.2903225806449\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"325.8064516129032\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5161290322585\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"325.8064516129032\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">224.85</text><text x=\"591.2903225806449\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC: coil floor to coil top, marker at Wednesday's close</p>"
-     },
-     {
-      "t": "p",
-      "html": " The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - closed Wednesday at Rs 1,346.40. Infosys joins the resolved column by invalidation, no P&L attached. Shelved: Voltas stays rejected, closing at Rs 1,132.10; Tech Mahindra stays shelved above the Rs 1,500 cap, closing at Rs 1,747.15."
-     }
-    ]
-   },
-   {
-    "heading": "How the board scores",
-    "blocks": [
-     {
-      "t": "rows",
-      "items": [
-       {
-        "n": "1",
-        "title": "No prior-day stop trade",
-        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop."
-       },
-       {
-        "n": "2",
-        "title": "Worst fill in the zone",
-        "detail": "Entry is assumed at the worst price inside the published zone, not the best."
-       },
-       {
-        "n": "3",
-        "title": "R:R on the worst fill",
-        "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; below the screen, no setup."
-       },
-       {
-        "n": "4",
-        "title": "Resolution only",
-        "detail": "A line leaves the board only by stop, target or invalidation - never by opinion."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "heading": "The editor's read",
-    "blocks": [
-     {
-      "t": "p",
-      "html": " Two documents, one argument. Within hours tonight, the market gets the AI trade's demand test - the first print on an $81.3 billion offering priced above range - and it already has the supply-side warning: the Fed's staff writing that the buildout's debt is running through opaque, circular structures, and most of the FOMC agreeing the exposures are concentrating. Neither document cancels the other. Anthropic can be a genuine business with genuine revenue and the financing around the sector can still be fragile; both things are in this week's record at once. Watch them together: the opening cross is the market's answer, and the December meeting is the referee's."
-     },
-     {
-      "t": "p",
-      "html": " Also brewing - the leadership file. Cause chain: Huang's resignation, officially characterized as following disclosure of conduct inconsistent with the code of conduct; his statement Tuesday offering to return; the board's on-record answer that it does not intend to reinstate him; an interim CEO-CFO pair that just delivered a record quarter and a guide above it. What settles it: the appointment of a permanent chief executive. Watch: any search-process disclosure, and any second statement from Huang."
-     },
-     {
-      "t": "p",
-      "html": " Also brewing - the debut file. Cause chain: three amended filings, books closed Tuesday, priced at $83 Wednesday, first trade today. What settles it: the opening cross tonight, then whether the stock holds the print once the greenshoe's stabilization support is spent - that answer takes days, not minutes. Watch: New York tonight; the first close versus $83."
-     },
-     {
-      "t": "p",
-      "html": " Also brewing - the compute-rule file. Cause chain: released Monday, on the Federal Register's inspection list since, scheduled to publish today; effectiveness, the 60-day comment clock and the 90-day grace period all key off that posting. What settles it: the document actually appearing in the Register - scheduled and published remain different facts until then - and then the comment docket, which is where industry tells you what the rule actually costs. Watch: federalregister.gov tonight IST."
-     }
-    ]
-   },
-   {
-    "heading": "The week ahead",
-    "blocks": [
-     {
-      "t": "rows",
-      "items": [
-       {
-        "n": "1",
-        "title": "Thu 19 Nov (today)",
-        "detail": "ANT's first trade on the Nasdaq; the BIS remote-access rule scheduled for Federal Register publication; record dates for Ingersoll-Rand India's Rs 20 and Natco Pharma's Rs 1.25 interims; Muthoot Microfin's board considers restated financials."
-       },
-       {
-        "n": "2",
-        "title": "Fri 20 Nov",
-        "detail": "Record dates: Ashok Leyland's interim, Oil India's Rs 7, BF Investment's Rs 20, Venus Pipes' Re 0.50; Medi Assist's buyback record date."
-       },
-       {
-        "n": "3",
-        "title": "Watching",
-        "detail": "Fed speakers into the December meeting after Waller's half-point case; ANT's aftermarket versus the $83 print; whether the SEBI free-float margin report becomes a formal consultation; the Register's comment docket once the chip rule posts."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "heading": "Notes on this edition",
-    "blocks": [
-     {
-      "t": "bullets",
-      "items": [
-       "Sources read for this edition: the Fed's own minutes of the October 27-28 meeting (federalreserve.gov); Anthropic's own final pricing release (anthropic.com), with CNBC and the AP's report; US closes from the AP's table; the Treasury's own daily yield curve; BSE's official bhavcopy for every Indian price; BusinessLine's close report for Mumbai and the SEBI margin-rule report; Financial Express for FII/DII flows; moneycontrol for the rupee; the Federal Register's public-inspection entry checked at 4:17 AM IST; Google's own Neon launch post; Humyn Labs' own announcement plus TechCrunch; News Strike's startup roundup; RTHK's timestamped overnight notes for gold and the dollar; NBD for the Nikkei open; giftniftytoday's 5:41 AM screen for GIFT Nifty.",
-       "Marker values are as-of their stamps (5:32-5:55 AM IST); they will move before the open. The gold figure distinguishes spot (about $3,725) from the December futures settle ($3,741.90); earlier trackers showing higher numbers were reading different contracts. Anthropic's $81.3 billion is gross offering proceeds on the final 980 million shares at $83; about $79.4 billion accrues to the company from the primary tranche before fees. Neon benchmark rankings are Google's citations of third-party indices, not independently re-run."
-      ]
-     },
-     {
-      "t": "closing",
-      "html": " The debut is priced at $83; the minutes point up; the rule publishes today. See you tomorrow."
-     }
-    ]
-   }
-  ]
- },
- "audio": {
-  "quick": "audio/d45-quick.m4a",
-  "segment1": "audio/d45-segment1.m4a",
-  "segment2": "audio/d45-segment2.m4a",
-  "segment3": "audio/d45-segment3.m4a",
-  "segment4": "audio/d45-segment4.m4a",
-  "segment5": "audio/d45-segment5.m4a",
-  "segment6": "audio/d45-segment6.m4a",
-  "segment7": "audio/d45-segment7.m4a",
-  "segment8": "audio/d45-segment8.m4a",
-  "segment9": "audio/d45-segment9.m4a",
-  "full": "audio/d45-full.m4a",
-  "durations": {
-   "segment1": 374.163,
-   "segment2": 174.283,
-   "segment3": 180.523,
-   "segment4": 255.683,
-   "segment5": 285.683,
-   "segment6": 258.723,
-   "segment7": 122.723,
-   "segment8": 128.443,
-   "segment9": 159.043,
-   "quick": 305.803,
-   "full": 1939.267
   },
-  "segments": [
-   {
-    "key": "segment1",
-    "label": "Opening and the five-minute lead route"
-   },
-   {
-    "key": "segment2",
-    "label": "Front page: the minutes, the debut, and the tape"
-   },
-   {
-    "key": "segment3",
-    "label": "Front page: the gold crash, the flows, and the watchlist"
-   },
-   {
-    "key": "segment4",
-    "label": "Markets, IPOs, and the top movers"
-   },
-   {
-    "key": "segment5",
-    "label": "Corporate actions, Finance Goldmine, and Startup Intelligence"
-   },
-   {
-    "key": "segment6",
-    "label": "AI Race, vibe coding, try this, and one concept"
-   },
-   {
-    "key": "segment7",
-    "label": "The setup board and how the board scores"
-   },
-   {
-    "key": "segment8",
-    "label": "The editor's read, with the brewing files"
-   },
-   {
-    "key": "segment9",
-    "label": "The week ahead and the notes on this edition"
-   }
-  ]
- }
+  "audio": {
+    "quick": "audio/d45-quick.m4a",
+    "segment1": "audio/d45-segment1.m4a",
+    "segment2": "audio/d45-segment2.m4a",
+    "segment3": "audio/d45-segment3.m4a",
+    "segment4": "audio/d45-segment4.m4a",
+    "segment5": "audio/d45-segment5.m4a",
+    "segment6": "audio/d45-segment6.m4a",
+    "segment7": "audio/d45-segment7.m4a",
+    "segment8": "audio/d45-segment8.m4a",
+    "segment9": "audio/d45-segment9.m4a",
+    "full": "audio/d45-full.m4a",
+    "durations": {
+      "segment1": 374.163,
+      "segment2": 174.283,
+      "segment3": 180.523,
+      "segment4": 255.683,
+      "segment5": 291.241,
+      "segment6": 258.723,
+      "segment7": 122.723,
+      "segment8": 128.443,
+      "segment9": 159.043,
+      "quick": 305.803,
+      "full": 1944.992
+    },
+    "segments": [
+      {
+        "key": "segment1",
+        "label": "Opening and the five-minute lead route"
+      },
+      {
+        "key": "segment2",
+        "label": "Front page: the minutes, the debut, and the tape"
+      },
+      {
+        "key": "segment3",
+        "label": "Front page: the gold crash, the flows, and the watchlist"
+      },
+      {
+        "key": "segment4",
+        "label": "Markets, IPOs, and the top movers"
+      },
+      {
+        "key": "segment5",
+        "label": "Corporate actions, Finance Goldmine, and Startup Intelligence"
+      },
+      {
+        "key": "segment6",
+        "label": "AI Race, vibe coding, try this, and one concept"
+      },
+      {
+        "key": "segment7",
+        "label": "The setup board and how the board scores"
+      },
+      {
+        "key": "segment8",
+        "label": "The editor's read, with the brewing files"
+      },
+      {
+        "key": "segment9",
+        "label": "The week ahead and the notes on this edition"
+      }
+    ]
+  },
+  "times": {
+    "full": "audio/d45-full.times.json"
+  }
 }
