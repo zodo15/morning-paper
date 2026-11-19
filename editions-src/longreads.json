@@ -6935,6 +6935,15 @@
      }
     ]
    }
-  ]
+  ],
+  "audio": {
+   "full": "audio/lr45-full.m4a",
+   "durations": {
+    "full": 552.563
+   },
+   "times": {
+    "full": "audio/lr45-full.times.json"
+   }
+  }
  }
 }

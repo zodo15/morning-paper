@@ -304,5 +304,69 @@
     ]
    }
   ]
+ },
+ "audio": {
+  "quick": "audio/d45-quick.m4a",
+  "segment1": "audio/d45-segment1.m4a",
+  "segment2": "audio/d45-segment2.m4a",
+  "segment3": "audio/d45-segment3.m4a",
+  "segment4": "audio/d45-segment4.m4a",
+  "segment5": "audio/d45-segment5.m4a",
+  "segment6": "audio/d45-segment6.m4a",
+  "segment7": "audio/d45-segment7.m4a",
+  "segment8": "audio/d45-segment8.m4a",
+  "segment9": "audio/d45-segment9.m4a",
+  "full": "audio/d45-full.m4a",
+  "durations": {
+   "segment1": 374.163,
+   "segment2": 174.283,
+   "segment3": 180.523,
+   "segment4": 255.683,
+   "segment5": 285.683,
+   "segment6": 258.723,
+   "segment7": 122.723,
+   "segment8": 128.443,
+   "segment9": 159.043,
+   "quick": 305.803,
+   "full": 1939.267
+  },
+  "segments": [
+   {
+    "key": "segment1",
+    "label": "Opening and the five-minute lead route"
+   },
+   {
+    "key": "segment2",
+    "label": "Front page: the minutes, the debut, and the tape"
+   },
+   {
+    "key": "segment3",
+    "label": "Front page: the gold crash, the flows, and the watchlist"
+   },
+   {
+    "key": "segment4",
+    "label": "Markets, IPOs, and the top movers"
+   },
+   {
+    "key": "segment5",
+    "label": "Corporate actions, Finance Goldmine, and Startup Intelligence"
+   },
+   {
+    "key": "segment6",
+    "label": "AI Race, vibe coding, try this, and one concept"
+   },
+   {
+    "key": "segment7",
+    "label": "The setup board and how the board scores"
+   },
+   {
+    "key": "segment8",
+    "label": "The editor's read, with the brewing files"
+   },
+   {
+    "key": "segment9",
+    "label": "The week ahead and the notes on this edition"
+   }
+  ]
  }
 }
