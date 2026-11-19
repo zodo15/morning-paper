@@ -109,3 +109,11 @@ A free-float leverage tracker for Indian retail: maps each stock's margin-tradin
 - BIS rule comment docket opens (BIS-2026-0628).
 - SEBI MTF: no decision yet — any committee leak.
 - Mumbai: does Thursday's 990-point rally survive GIFT Nifty's −0.37% overnight signal?
+
+## Main's corrections (04:22 IST, binding for build)
+- BIS RULE FRAMING: the owning BIS press release was already public 16 Nov; the 19 Nov Federal Register publication/effect was preannounced. Resolve Ed45's forward reference as "took effect Thursday as preannounced" - do NOT frame as a newly announced rule and do not borrow the FR publication as the original development clock. Cards researcher agent-01M5NZHKAB5W004J6KT2B8WBW7 holds full owning/BIS + K&L Gates evidence if a deeper treatment is wanted.
+- GENIE: consumer Project Genie rollout was 18 Nov; the Genie DEVELOPER API is a distinct 19 Nov lead currently held by Cards for an independent second - do not step on it. Checked: no Genie card in the live 80-card feed; Ed45 covered Gemini 4 Neon, not Genie. If Genie appears at all, reconcile against that prior coverage first.
+- BOLTZ: original story is 18 Nov 07:00 EST (SiliconANGLE updated 19 Nov). Outside Cards' 24h gate, inside the paper's 7-day source gate - usable but avoid repeat coverage; no Boltz card in the live feed. Keep dated 18 Nov.
+- CAUSATION: keep the index rout and the ANT debut strictly distinct - correlation in time, not established causation. Reuters' Ellerbroek (Argent Capital) explicitly cautions against extrapolating meaning from debut-day trading; usable as the edition's own guardrail line.
+- SUPERLATIVES to re-verify before final copy: "largest listing ever at pricing" (verified for Ed45 via Reuters - stands), "7th most valuable U.S. company" (CNBC only), "longest losing streak since 2024" (AP), "first 25,500 close since February" (BS), "biggest monthly FII haul ever" (FE), 846M vs 522M first-day shares (CNBC).
+- No user update needed at this stage (main).
