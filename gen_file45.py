@@ -104,7 +104,7 @@ for gi, g in enumerate(groups):
         elif t == 'chart':
             svg = b['svg']
             if 'eaders and laggards' in svg:
-                out.append('''                <BarChart label="Leaders and laggards, Wednesday 18 Nov, percent change vs Tuesday's close - BSE official prints" orientation="bars" data={[
+                out.append('''                <BarChart label="Leaders and laggards among the large names this paper tracks, Wednesday 18 Nov - BSE official prints" orientation="bars" data={[
                     { label: 'Ashok Leyland', value: 1.0 },
                     { label: 'Oil India', value: 0.6 },
                     { label: 'HCL Tech', value: -0.7 },
@@ -112,7 +112,7 @@ for gi, g in enumerate(groups):
                     { label: 'Prestige Estates', value: -1.2 },
                     { label: 'Oberoi Realty', value: -1.2 },
                     { label: 'Eicher Motors', value: -1.3 },
-                    { label: 'Tata Communications', value: -1.7 },
+                    { label: 'Tata Comm', value: -1.7 },
                     { label: 'Adani Enterprises', value: -2.1 },
                     { label: 'Wipro', value: -2.4 },
                 ]} />''')
