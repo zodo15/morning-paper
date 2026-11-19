@@ -185,11 +185,15 @@ def transcribe_clips(audio, tmpdir):
     out=[]
     for off,path,sdur in segs:
         words=open(path).read().split()
-        n=max(1,int(sdur//30)+1)
+        if not words: continue
+        n=max(1,int(sdur//10)+1)  # ~10s chunks: local rate error stays inside the snap window
         per=max(1,len(words)//n)
-        for i in range(n):
-            chunk=' '.join(words[i*per:(i+1)*per])
-            if chunk: out.append((off+i*30.0, chunk))
+        chunks=[' '.join(words[i:i+per]) for i in range(0,len(words),per)]
+        m=len(chunks)
+        for i,chunk in enumerate(chunks):
+            # windows tile [off, off+sdur] proportionally; fixed 30s windows
+            # overshot every segment tail by up to ~30s, compressing its last sentences
+            out.append((off + sdur*i/m, chunk, sdur/m))
     return out
 
 def transcript_anchor(sents, clips, sils, dur):
@@ -198,9 +202,9 @@ def transcript_anchor(sents, clips, sils, dur):
     times, then snap boundaries to real pauses (+-6s). Beats silence-proportional
     placement, which drifts 15-35s over a long read."""
     tok_times, tok_text = [], []
-    for t0, tr in clips:
+    for t0, tr, clip_len in clips:
         toks = norm(tr).split()
-        clip_len = max(1.0, min(30.0, dur - t0))  # the last clip is usually shorter than 30s
+        clip_len = max(1.0, min(clip_len, dur - t0))
         for j, t in enumerate(toks):
             tok_text.append(t)
             tok_times.append(t0 + (j + 0.5) / max(len(toks), 1) * clip_len)
