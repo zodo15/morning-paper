@@ -124,3 +124,6 @@ Latent Space interview with Linear COO Cristina Cordova, 19 Nov: AI-agent usage 
 - Owning Linear context: https://linear.app/next and https://linear.app/now/sharing-growth-with-the-people-building-linear
 - Researcher agent-01M3NPC0VW3H3KH4EQWEHKP33X holds the watcher's findings if useful.
 - Fit check: candidate for AI Race or Startup Intelligence only if it meets source standards; must NOT add/rename sections or displace the Nasdaq long read. No Linear/Cordova card in the live 80-card feed (checked 05:49). No user chat alert (main).
+
+## Post-critic addition (Fri 07:00 IST)
+- Bloomberg via The Next Web (Sun 15 Nov): Anthropic IPO orders "close to seven times the shares on offer", measured against the PRE-UPSIZE offer; book closed Tuesday, deal upsized at Wednesday pricing. Used in One Concept with pre-upsize framing. https://thenextweb.com/news/anthropic-ipo-orders-seven-times-spacex-pricing-week
