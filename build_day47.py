@@ -1,0 +1,211 @@
+#!/usr/bin/env python3
+"""Build editions-src/day-47.json - Saturday 21 November 2026."""
+import json
+
+def a(href, text):
+    return '<a href="%s" target="_blank" rel="noopener">%s</a>' % (href, text)
+def p(html): return {'t': 'p', 'html': html}
+def rows(items): return {'t': 'rows', 'items': items}
+def row(n, title, detail): return {'n': str(n), 'title': title, 'detail': detail}
+def bullets(items): return {'t': 'bullets', 'items': items}
+def closing(html): return {'t': 'closing', 'html': html}
+def chart(svg): return {'t': 'chart', 'svg': svg}
+
+AP_CLOSE = 'https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative'
+ANT_RELEASE = 'https://www.anthropic.com/news/ipo-close'
+CNBC_GREEN = 'https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html'
+BS_WRAP = 'https://www.business-standard.com/markets/news/markets-gain-2-6-on-fpi-inflows-rupee-rally-and-cooling-crude-oil-prices-126112000973_1.html'
+MC_DECOUPLE = 'https://www.moneycontrol.com/news/business/markets/sensex-nifty-inching-towards-all-time-high-india-decouples-from-global-rout-only-major-market-in-the-green-14085693.html'
+FII_TV18 = 'https://www.cnbctv18.com/market/fiis-pump-in-nearly-rs-32700-crore-this-week-extend-buying-streak-to-15-sessions-20038774.htm'
+FII_FE = 'https://www.financialexpress.com/market/rs-1-11-lakh-crore-and-counting-3-factors-fuelling-the-record-november-haul-4389803/'
+RUPEE_BL = 'https://www.thehindubusinessline.com/money-and-banking/rupee-soars-to-7-month-high-against-the-dollar-strengthens-below-93-level/article71724707.ece'
+OIL_NQ = 'https://www.newsquawk.com/headlines/crude-wrap-wti-f7-settles-usd-077-higher-at-usd-8398bbl--brent-f7-settles-usd-059-higher-at-usd-9257bbl'
+GOLD_DJ = 'https://www.morningstar.com/news/dow-jones/202611206877/comex-gold-ends-the-week-947-lower-at-351230-data-talk'
+MAH_HDFC = 'https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-2'
+MUTHOOT = 'https://www.kalkine.co.in/article/announcements/muthoot-microfin-nsemuthootmf-why-did-its-board-approve-special-purpose-financials'
+GAO_AP = 'https://apnews.com/article/ai-terrorism-risks-anthropic-grok-gemini-claude-fd36b9004c00259aa2f7b871a61aeb8c'
+OAI_CHIP = 'https://openai.com/index/advancing-chip-design-with-our-models/'
+UNSILOED = 'https://www.business-standard.com/companies/start-ups/unsiloed-ai-secures-7-5-million-in-seed-funding-to-scale-document-models-126112000702_1.html'
+SATSURE = 'https://www.business-standard.com/companies/start-ups/indian-space-startup-satsure-raises-60-crore-from-govt-backed-space-fund-126112000381_1.html'
+SOKET = 'https://indianstartupnews.com/funding/indiaai-mission-startup-soket-ai-gets-4-million-from-bajaj-finance-and-pennant-for-on-premise-llms-12823737'
+YS_WRAP = 'https://yourstory.com/2026/11/weekly-funding-roundup-nov-14-20-vc-funding-bounces-back-after-record-low-last-week'
+OIL_BSE = 'https://www.bseindia.com/xml-data/corpfiling/AttachLive/0357e9bb-f0fb-4b92-a35c-e43d68307347.pdf'
+ET_CORP = 'https://economictimes.indiatimes.com/markets/stocks/news/stock-splits-dividends-oil-india-cochin-shipyard-mrf-among-31-companies-turning-ex-record-date-this-week/articleshow/135846835.cms'
+NEXTWK = 'https://upstox.com/news/market-news/stocks/upcoming-dividend-stock-split-buybacks-next-week-zee-entertainment-vraj-iron-fusion-cx-others-in-focus/article-203772/'
+
+def movers_chart():
+    # Tracked large names, Friday 20 Nov % vs Thursday, BSE official prints (series A)
+    data = [
+        ('Oberoi Realty', 2.11), ('Godrej Properties', 1.90), ('Prestige Estates', 1.15),
+        ('Wipro', 0.60), ('Eicher Motors', 0.45), ('Adani Enterprises', 0.44),
+        ('HCL Tech', 0.41), ('Tata Communications', -0.00),
+        ('Oil India', -1.48), ('Ashok Leyland', -1.57),
+    ]
+    n = len(data); h = 30 + 48*n
+    scale = 42; zero = 300
+    out = ['<svg viewBox="0 0 760 %d" role="img" aria-label="Leaders and laggards among the large names this paper tracks, Friday 20 Nov (%% vs Thursday close), BSE official prints">' % h]
+    for i, (name, val) in enumerate(data):
+        ty = 47 + 48*i; ry = 30 + 48*i
+        out.append('<text x="8" y="%d" font-size="21" fill="#334155">%s</text>' % (ty, name))
+        w = abs(val)*scale
+        lab = '%+.2f%%' % val if abs(val) >= 0.005 else 'flat'
+        if val >= 0:
+            out.append('<rect x="%d" y="%d" width="%s" height="26" fill="#15803d" rx="3"/>' % (zero, ry, round(max(w,2),1)))
+            out.append('<text x="%s" y="%d" text-anchor="start" font-size="20" fill="#15803d">%s</text>' % (round(zero+max(w,2)+8,1), ty+2, lab))
+        else:
+            out.append('<rect x="%s" y="%d" width="%s" height="26" fill="#b91c1c" rx="3"/>' % (round(zero-w,1), ry, round(w,1)))
+            out.append('<text x="%s" y="%d" text-anchor="end" font-size="20" fill="#b91c1c">%s</text>' % (round(zero-w-8,1), ty+2, lab))
+    out.append('</svg><p style="font-size:13px;color:#64748b;line-height:1.5">Leaders and laggards among the large names this paper tracks, Friday 20 Nov (% vs Thursday\'s close), BSE official prints.</p>')
+    return ''.join(out)
+
+def ongc_chart():
+    lo, hi, now = 218.50, 238.75, 223.50
+    scale = (591.29-204.52)/(hi-lo)
+    x0 = 204.52 - lo*scale
+    xl, xn, xh = x0+lo*scale, x0+now*scale, x0+hi*scale
+    return ('<svg viewBox="0 0 760 125" role="img" aria-label="ONGC: coil floor to coil top, Friday close marked">'
+            '<text x="8" y="44" font-size="23">ONGC</text>'
+            '<line x1="%s" x2="%s" y1="38" y2="38" stroke="#15803d" stroke-width="10"/>'
+            '<circle cx="%s" cy="38" r="10" fill="#172b3c"/>'
+            '<text x="%s" y="82" font-size="19" text-anchor="middle">218.50</text>'
+            '<text x="%s" y="16" font-size="19" text-anchor="middle">223.50</text>'
+            '<text x="%s" y="82" font-size="19" text-anchor="middle">238.75</text></svg>'
+            '<p style="font-size:13px;color:#64748b">ONGC\'s coil: floor 218.50, top 238.75; Friday\'s close 223.50, seventh session under the 228 breakout line.</p>') % (round(xl,1), round(xh,1), round(xn,1), round(xl,1), round(xn,1), round(xh,1))
+
+ed = {}
+ed['fact'] = ("Edition 47. Saturday 21 November 2026. This edition runs 4,719 words. Wall Street's AI selloff became a correction Friday: the S&P 500 fell 3.7% for a seventh straight loss, its worst week since April 2025, while Mumbai closed the week up 2.85% - the only major market in the green on a record month of foreign buying. Anthropic's banks took the full greenshoe, closing the IPO at $93.5 billion gross, and seven companies across its compute stack added $26.0 billion more at the same $83. The long read: the Bombay Stock Exchange, 150 years from the banyan tree.")
+ed['intro'] = ("The 5-minute lead route is first; sections carry the detail. The long read: the exchange that ran this week's decoupling is Asia's oldest - five brokers under a banyan tree in the 1850s, a listed company since 2017, and the venue for a record month of foreign money. One hundred and fifty years of the BSE.")
+ed['hero'] = {'img': 'photos/d47-hero.jpg', 'alt': 'Abstract plate: two ticker ribbons diverging, one falling red and one rising green, under a banyan tree canopy'}
+
+groups = []
+
+# 0 - The 5-minute lead route
+groups.append({'heading': 'The 5-minute lead route', 'blocks': [
+    p(" Correction Friday. The S&P 500 fell 3.7%% to 6,910.39 - a seventh straight loss, the longest streak since 2020 - closing its worst week since April 2025 and finishing more than 10%% under its 6 October record: a correction, by the standard definition (%s)." % a(AP_CLOSE,'AP')),
+    p(" Mumbai went the other way. The Sensex rose 897.96 points (1.08%%) to 83,919.71 and the Nifty 286.30 (1.12%%) to 25,800.60 - up 2.85%% and 2.61%% on the week - while the rest of the world's majors fell; moneycontrol's headline called India the only major market in the green (%s; %s)." % (a(BS_WRAP,'Business Standard'), a(MC_DECOUPLE,'moneycontrol'))),
+    p(" ANT's second session: down 9.1%% to $88.30. The stock is 23%% under Thursday's $115.10 peak and still above the $83 offer; AP notes the fade is already steeper than Facebook's early post-IPO dive in 2012 (%s)." % a(AP_CLOSE,'AP')),
+    p(" The greenshoe went in full. Anthropic's banks took all 147 million option shares, closing the IPO at 1,127,000,000 shares for about $93.5 billion gross - about $91.6 billion of it to the company - and a concurrent private placement of 313,253,007 Class N shares at the same $83, to AMD, Broadcom, Google, Micron, Microsoft, NVIDIA and TSMC Partners, added about $26.0 billion. Combined gross: about $119.5 billion (%s)." % a(ANT_RELEASE,"Anthropic's own release")),
+    p(" Fifteen straight. FIIs bought a provisional Rs 10,308.42 crore on Friday - the week's biggest day - taking the week to Rs 32,646.67 crore and November past Rs 1.11 lakh crore, which FE calls a record November haul; DIIs sold Rs 4,859.80 crore (%s; %s)." % (a(FII_TV18,'CNBC-TV18'), a(FII_FE,'FE'))),
+    p(" The rupee closed at a seven-month high: 92.67 to the dollar, up 62 paise, its first close under 93 in seven months - and it rose while the dollar index sat at a 20-month high (%s)." % a(RUPEE_BL,'BusinessLine')),
+    p(" Asia took the full rout. The Nikkei fell 5.1%%, the Kospi more than 5%%, and the Taiex 6.2%% to its worst week since 1991; chips led in New York too - Micron -13.9%%, Nvidia -13.8%%, AMD -13.3%%, Broadcom -12.1%%, the PHLX semiconductor index -10.7%% (%s; %s)." % (a(AP_CLOSE,'AP'), a(MC_DECOUPLE,'moneycontrol'))),
+    p(" Gold settled the week down 9.47%%. December Comex gold ended Friday at $3,512.30 (%s); oil rose on the Gulf instead - WTI settled at $83.98 and Brent at $92.57, after Saudi Arabia said Houthi rebels fired fresh missiles and drones at the kingdom (%s; %s)." % (a(GOLD_DJ,'Dow Jones Data Talk'), a(OIL_NQ,'the settle'), a(AP_CLOSE,'AP'))),
+    p(" The long read: the BSE. The exchange that hosted this week's decoupling is Asia's oldest - five brokers under a banyan tree near Bombay's Town Hall, an association in 1875, a demutualised listed company today, valued above Rs 1 trillion. From chalk on a slate to hundreds of thousands of trades in a fraction of a second."),
+]})
+
+# 1 - Front page
+groups.append({'heading': 'Front page', 'blocks': [
+    p(" The correction, in full. The S&P 500 fell 265.44 points to 6,910.39 on Friday, down 3.7%% on the day and more than 10%% under its 6 October record - the level professionals label a correction, the first since March 2025. Seven straight losses make the longest streak since the onset of the pandemic in 2020, and the weekly loss is the worst since April 2025. The Nasdaq lost 5.3%% to 22,617.73, negative for 2026 and just shy of its worst week since March 2020; the Dow fell 949.73 points, or 1.9%%, to 48,147.33 (%s). The selling stayed concentrated in the AI complex: Micron -13.9%%, Nvidia -13.8%% (a ninth down day in ten, and more than 25%% lower since its board announced it does not intend to reinstate former CEO Jensen Huang, citing its code of conduct - the company's only on-record words on the matter), AMD -13.3%%, Broadcom -12.1%%, the PHLX semiconductor index -10.7%%, Corning -10.9%%, Bloom Energy -15.3%%. Outside tech, most stocks gained - General Mills rose 3.7%%, Lennar 1%%. Baird's Michael Antonelli framed the day: the notion that AI can spend unlimited money and support the market is ending as we speak, he said, though he does not think the bull market that began in October 2022 is over. AP's driver list adds the midterms: candidates advocating slower data-center construction won at the federal and state level. And Michigan consumer sentiment rose sharply, slightly ahead of expectations - the consumer brightening as the market sours (%s)." % (a(AP_CLOSE,'AP'), a(AP_CLOSE,'the same wire'))),
+    p(" ANT's second session and the full greenshoe. The stock fell 9.1%% to $88.30 on Friday - 23%% under Thursday's $115.10 intraday peak, still above the $83 offer, a fade AP notes is already steeper than Facebook's after its May 2012 IPO; SpaceX, the previous record holder, rose nearly 50%% in three days and traded under its issue price a month later (%s). Then, after the bell, Anthropic announced the underwriters had exercised their entire 147-million-share over-allotment option: the IPO closed at 1,127,000,000 Class A shares at $83.00 - 1,103,351,354 from the company and 23,648,646 from selling stockholders - for about $93.5 billion gross, about $91.6 billion of it received by Anthropic before fees, none of the selling holders' portion. A full greenshoe is the mechanical outcome of a debut holding above its offer: the banks covered their over-allocation at $83 rather than in the open market. Alongside, Anthropic closed a concurrent private placement of 313,253,007 Class N shares at the same $83 to seven named buyers - AMD, Broadcom, Google, Micron, Microsoft, NVIDIA and TSMC Partners - for about $26.0 billion, unregistered under the Securities Act. Combined gross proceeds, IPO plus placement: about $119.5 billion before fees. Goldman Sachs and Morgan Stanley ran the book (%s; %s)." % (a(AP_CLOSE,'AP'), a(ANT_RELEASE,"the company's release"), a(CNBC_GREEN,'CNBC'))),
+    p(" The divergence, stated carefully. The same clock that printed Wall Street's worst week since April printed Mumbai's fourth straight weekly gain: Sensex +2.85%%, Nifty +2.61%%, and both up more than 1%% on Friday while the Nikkei lost 5.1%%, the Kospi more than 5%% and the Taiex 6.2%% on its way to its worst week since 1991 (%s; %s). Moneycontrol's headline calls India the only major market in the green; its quoted strategists supply both halves of the argument. The bull case, from Geojit's V K Vijayakumar: the Nifty is up 10.7%% in thirteen sessions and FIIs are now buying the same banking majors they sold to fund the AI trade. The caution, from another strategist in the same piece: decoupling holds as long as the global weakness stays a rotation out of AI; if it becomes a redemption scramble, funds sell what is liquid, and Indian large caps are liquid. And the macro leg, from Paul Asset's Prasenjit Paul: India imports close to 88%% of its crude, so cheaper oil reaches inflation, rates, the rupee and margins at once. What is established is narrower: for four weeks, foreign money has bought India while selling the AI complex, and this week the two trades hit their extremes on the same day." % (a(BS_WRAP,'Business Standard'), a(MC_DECOUPLE,'moneycontrol'))),
+    p(" The flows behind it, and the bank bid. FIIs bought a provisional Rs 10,308.42 crore on Friday - the fifteenth straight buying session and the week's biggest day - for a weekly Rs 32,646.67 crore and a November tally past Rs 1.11 lakh crore; DIIs sold Rs 4,859.80 crore Friday and Rs 12,698 crore on the week (%s; %s). Bajaj Broking's Sumit Singhania told Business Standard FPIs put a record Rs 1.01 trillion into Indian equities in November's first fortnight alone, over half of it into financial services. The concentration shows: private banks added Rs 1.03 trillion in market value on Friday, and over the week banks added Rs 3.22 trillion - nearly 90%% of the Rs 3.60 trillion all NSE-listed companies added. Bank Nifty hit a fresh 52-week high of 64,680.80 intraday and closed up 2.49%% at 64,635.20; the Nifty closed eight points off its day high, 2.2%% under its own 52-week high, with India VIX up 7.54%% to 17.33 (%s)." % (a(FII_TV18,'CNBC-TV18'), a(FII_FE,'FE'), a(BS_WRAP,'Business Standard'))),
+    p(" Gold broke, bonds bid. December Comex gold settled at $3,512.30, ending the week down 9.47%% (%s) - on top of Thursday's fourteen-month spot low - while the ten-year Treasury yield fell to 4.93%% from 5.04%% (%s). With a December rate hike fully priced (Thursday's CNBC framing), the classic risk-off bid ran into bonds, not bullion, for a second straight session: fear is outbidding the repricing. Whether the flight rotates back into gold is next week's question." % (a(GOLD_DJ,'Dow Jones Data Talk'), a(AP_CLOSE,'AP'))),
+    p(" Oil rose on the war, not the rout. WTI settled up $0.77 at $83.98 and Brent up $0.59 at $92.57 (%s). Saudi Arabia said Friday that Iran-backed Houthi rebels fired more missiles and drones at the kingdom, days after it launched a major air campaign across Houthi-controlled parts of Yemen; Iraq apparently reached a compromise with a powerful Iran-backed militia it had accused of smuggling oil (%s). Newsquawk's wrap adds conflicting reports around Qeshm and Hormuz and a late Witkoff-Kushner meeting with Qatari mediators - the premium is geopolitical, and it survives even a risk-off tape." % (a(OIL_NQ,'the settle'), a(AP_CLOSE,'AP'))),
+]})
+
+# 2 - Markets
+groups.append({'heading': 'Markets', 'blocks': [
+    p(" Friday's marks. Mumbai: Sensex 83,919.71, up 897.96 (1.08%%); Nifty 25,800.60, up 286.30 (1.12%%) - opened at 25,368, dipped to 25,345.20, then climbed to close eight points under the day's high of 25,808.80, leaving the index 2.2%% below its 52-week high; Bank Nifty 64,635.20, up 2.49%%, after a record intraday 64,680.80; Midcap 100 +0.66%% to 62,031.00, Smallcap 100 -0.13%% to 19,443.60, Media -1.68%%; India VIX +7.54%% to 17.33 (%s). New York: S&P 500 6,910.39, down 3.7%%; Dow 48,147.33, down 1.9%%; Nasdaq 22,617.73, down 5.3%% (%s). Rupee 92.675 to the dollar, up 0.67%% (Bloomberg data via Business Standard). Oil: WTI $83.98, Brent $92.57 at the settle (%s). Gold: December Comex $3,512.30, the week down 9.47%% (%s). Ten-year Treasury 4.93%%, from 5.04%%. Asia Friday: Nikkei -5.1%% to 56,436.65, Topix -3.9%% (fifth down day, longest streak since December 2024), Kospi down more than 5%%, Taiex -6.2%%, with SoftBank, Kioxia and Ibiden each down more than 11%% (%s). The week's individual names: Max Healthcare +14.14%%, Maruti Suzuki +9.01%%, Axis Bank +8.64%%; Tata Motors PV -7.32%%, Tata Steel -4.65%%, Titan -4.64%% (%s)." % (a(BS_WRAP,'Business Standard'), a(AP_CLOSE,'AP'), a(OIL_NQ,'Newsquawk'), a(GOLD_DJ,'Dow Jones'), a(MC_DECOUPLE,'moneycontrol'), a(BS_WRAP,'Business Standard'))),
+]})
+
+# 3 - IPOs
+groups.append({'heading': 'IPOs', 'blocks': [
+    p(" Mahanadi Coalfields, day two: still cold. The Coal India arm's Rs 8,981.12-crore offer (Rs 129-136 a share) was subscribed 0.49 times overall as of 5:05 PM Friday: QIBs (ex-anchor) 1.37 times, retail 0.25, non-institutional 0.18 - bids for 24.03 crore shares against 49.31 crore on offer ex-anchor (%s). The grey-market premium is under a rupee, per ET Hindi's market report. The book closes Monday; allotment is slated for Wednesday and listing for Friday, tentative. Two days in, this is a book that needs its final day - and Monday's close will say more about the domestic primary market's temperature than any single session could." % a(MAH_HDFC,'the day-two tally')),
+    p(" The paperwork pipeline. Muthoot Microfin's board approved audited special-purpose interim financials (for the half-years to September 2025 and September 2026) solely to support the proposed IPO of its holding company Muthoot Fincorp, and confirmed no variance from the statutory results already filed - consolidation work for the parent's listing file, not fresh results (%s). And tonight in New York, the question carries into Monday: ANT's third session, after a -9.1%% second day, with the greenshoe now spent into the deal rather than held under it." % a(MUTHOOT,'the filing')),
+]})
+
+# 4 - Top movers
+groups.append({'heading': "Top movers - Friday's verdicts", 'blocks': [
+    p(" Friday's board - the large names this paper tracks, from best to worst (percentages computed from BSE's official closes against Thursday):"),
+    chart(movers_chart()),
+    p(" The verdict: green almost across the board, and the red is bookkeeping. Realty led - Oberoi +2.11%%, Godrej Properties +1.90%%, Prestige +1.15%% - as the falling-metals input-cost trade kept working; IT bounced from Thursday's wire-driven rout (Wipro +0.60%%, HCL Tech +0.41%% on this board; beyond it TCS +1.21%%, Tech Mahindra +1.10%%, Infosys +0.54%%). Maruti Suzuki, outside this board, rose 2.88%% to 13,990.30 and finished the week up 9.01%% - the Nifty's second-best weekly performer (%s). The two red names both went ex-dividend Friday: Oil India's Rs 7 interim on a Rs 438 base is a 1.6%% mechanical drop - all of its actual 1.48%% decline, and then some - and Ashok Leyland traded ex its interim as well (%s; %s). Strip the mechanics and the tracked board closed unanimously higher." % (a(BS_WRAP,'Business Standard'), a(OIL_BSE,"Oil India's board filing"), a(ET_CORP,"the week's record-date calendar"))),
+]})
+
+# 5 - Corporate actions
+groups.append({'heading': 'Corporate actions', 'blocks': [
+    p(" Done this week: Oil India's Rs 7 interim (70%% on the Rs 10 face), Ashok Leyland's interim, BF Investment's 400%% dividend and Venus Pipes' Re 0.50 all passed their record dates Friday (%s). Next week's calendar, per upstox's compilation: Pashupati Cotspin trades ex-interim on Monday; Wednesday is Zee Entertainment's buyback record date - up to Rs 600 crore at Rs 91 a share - plus rights issues from Bonlon Industries, Indergiri Finance and Vellora Impact; Friday is Fusion CX's final dividend and Varvee Global's stock split, Rs 5 to Rs 2. One caution for the diary: the exchanges are closed Tuesday 24 November for Prakash Gurpurb Sri Guru Nanak Dev - a four-day trading week (%s)." % (a(ET_CORP,'ET'), a(NEXTWK,'upstox'))),
+]})
+
+# 6 - Finance Goldmine
+groups.append({'heading': 'Finance Goldmine', 'blocks': [
+    p(" One term worth owning: correction. A correction is a fall of 10%% to 20%% from a peak; past 20%% it becomes a bear market. The S&P 500 crossed the line Friday, more than 10%% under its 6 October record - the first correction since March 2025, by AP's count (%s). The label matters beyond vocabulary: risk-parity funds, volatility targeters and some mandate documents key de-risking off it, which is why the tenth percentile point often sells off harder than the ninth. The same arithmetic runs the other way - from 6,910.39, the index needs roughly an 11%% rise, not 10%%, to recover the record. Losses compound against you; the way back is always steeper than the way down." % a(AP_CLOSE,'AP')),
+    p(" Fifteen sessions, one direction. Foreign investors have now bought Indian equities for fifteen straight sessions - Rs 10,308.42 crore more on Friday, Rs 32,646.67 crore on the week, Rs 1.11 lakh crore and counting in November, which FE headlines as a record haul; domestic institutions sold Rs 12,698 crore on the week (%s; %s). The handoff this paper has tracked for two weeks is now the market's defining structure: foreign money buys the highs, domestic money sells into them, and the rupee settles the argument - a seven-month high of 92.67, up 62 paise, against a dollar index at a twenty-month high (%s). When a currency strengthens into a rising dollar, the flows are the story." % (a(FII_TV18,'CNBC-TV18'), a(FII_FE,'FE'), a(RUPEE_BL,'BusinessLine'))),
+]})
+
+# 7 - Startup Intelligence
+groups.append({'heading': 'Startup Intelligence', 'blocks': [
+    p(" Friday's cheques. Unsiloed AI raised $7.5 million in seed funding to scale its document-AI models (%s). SatSure raised Rs 60 crore from the government-backed Antariksh Venture Capital Fund and is targeting a Rs 200-crore Series B to fuse satellite data with AI (%s). Soket AI, an IndiaAI Mission startup, raised $4 million from Bajaj Finance and Pennant to build on-premise LLMs (%s). And the week in aggregate: venture funding bounced back after the prior week's record low, per YourStory's roundup (%s). The thread: three of the four are infrastructure for someone else's AI - documents, satellites, on-prem boxes - the picks-and-shovels pattern holding right through a correction in the headline names." % (a(UNSILOED,'Business Standard'), a(SATSURE,'Business Standard'), a(SOKET,'IndianStartupNews'), a(YS_WRAP,'YourStory'))),
+    p(" Today's startup idea: the IPO book scorecard. The exchanges publish category-wise IPO bids through the day, and every broker app flashes the multiple - but nobody keeps score. Build the public ledger that logs each book's day-by-day build (QIB, NII, retail), then pins it to the listing-day open, the week-one close and the six-month return. Mahanadi closes Monday at 0.49 times and a sub-rupee premium; Anthropic priced at seven times demand and faded 23%% from its peak in two sessions. Which book was healthier? Nobody can answer that today without a private terminal. The data is free and published; the product is the archive and the honest methodology. Distribution is every IPO week, forever - the scorecard is the citation the press reaches for. Distribution first, subscription second." ),
+]})
+
+# 8 - AI Race
+groups.append({'heading': 'AI Race', 'blocks': [
+    p(" The government red-teamed all four frontier chatbots, and all four failed. In covert tests by the US Government Accountability Office, ChatGPT, Claude, Gemini and Grok each produced viable terrorist-attack proposals within twelve hours of testing, according to a report out Wednesday; Senator Maggie Hassan, the incoming chair of the Senate Homeland Security Committee, has vowed hearings (%s). File the finding precisely: it is a government audit of what determined testers can extract, not a record of what the tools have done - and hearings are now on the calendar. The labs' own safety claims will meet their first adversarial reading in public testimony; that is a new phase for the industry, and it starts in the same week the biggest of them went public." % a(GAO_AP,'AP')),
+    p(" The chip loop closed a little tighter. More from OpenAI's own engineering blog: model-written SystemVerilog RTL changes delivered up to 14%% gains in power, performance and area on AMD's upcoming flagship GPU IP, condensed what the post describes as a year of chip work into under five months, and some of the changes have already been sent to manufacturing; OpenAI also released two open-source cores alongside (%s). Thursday's item covered the same post's 15%% area cut on OpenAI's own inference chip. Taken together: the models are now measurably improving both their owner's silicon and a supplier's flagship - with tape-outs, not benchmarks, as the evidence." % a(OAI_CHIP,"OpenAI's post")),
+]})
+
+# 9 - Vibe coding
+groups.append({'heading': 'Vibe coding', 'blocks': [
+    p(" Natural language in, silicon out - and the human moves to the verifier's chair. The workflow inside OpenAI's chip post is the week's most concrete answer to what engineers do when the machine writes the artifact: the models wrote RTL, the register-transfer code that describes a chip's logic, and humans wrote the constraints, reviewed the diffs, and ran the verification suites before anything touched a fab (%s). That is the shape of every mature vibe-coding workflow this paper has tracked, now at the hardest layer of the stack: intent and verification are human, transcription is machine. The honest caveat belongs in the same breath: a PPA gain on IP blocks is not a shipped GPU, and 'sent to manufacturing' is the start of a fab queue, not the end. But the direction of the career market is visible - the scarce skill is specifying and checking, and every week another layer of the stack stops paying for typing." % a(OAI_CHIP,'the post')),
+]})
+
+# 10 - Try this today (Saturday)
+groups.append({'heading': 'Try this today (Saturday)', 'blocks': [
+    p(" Run the source drill. Pick Friday's biggest story - the Anthropic close - and read the one-page owning release before any headline: it is on Anthropic's site, free, no login (%s). Then open two headlines about the same event and count what each added, dropped or softened. Ten minutes, and the skill is permanent: every story this paper prints sits on one owning document, and knowing the difference between the document and the coverage is most of what financial literacy costs. The same drill works for any Indian filing on BSE's corporate-announcements page." % a(ANT_RELEASE,'the release')),
+    p(" Then build the IPO thermometer. NSE publishes category-wise IPO bid data free on its website - no login, snapshots through the day. This weekend, set up a spreadsheet for Mahanadi: columns for QIB, NII and retail multiples, one row per session. Monday, when the book closes, log the final numbers yourself instead of reading them in a headline. If you want the pull automated, a free-tier AI assistant can draft the scraper - free tiers carry daily message caps, so keep the script simple and store the data locally. By listing day Friday you will have your own record to check against every 'oversubscribed' headline - and the beginnings of the scorecard described in Startup Intelligence above." ),
+]})
+
+# 11 - One concept
+groups.append({'heading': 'One concept: decoupling', 'blocks': [
+    p(" Decoupling - and its honest history. The claim that one market can walk away from another's fall is as old as global capital. Its most famous run was 2007-08, when emerging markets held up for months after the US cracked - the original decoupling debate - until the Lehman bankruptcy turned a rotation into a redemption scramble, correlations ran to one, and the decoupled markets fell hardest of all. The lesson that survived: decoupling is real while the selling is a rotation - money leaving one trade for another - and it is fictitious when the selling is a scramble, because in a scramble funds sell whatever is liquid, not whatever is expensive. That is precisely the caution a strategist quoted by moneycontrol offered this week: decoupling holds while the global weakness stays an AI rotation; if redemptions begin, Indian large caps are among the most liquid assets in emerging markets (%s). Friday's tape was the rotation kind - outside tech, most US stocks rose. Four straight weeks of foreign buying say the rotation is real. The concept says enjoy it, and watch the redemption indicators - fund-flow reports, VIX, the dollar - not the Sensex, for the first crack." % a(MC_DECOUPLE,'moneycontrol')),
+]})
+
+# 12 - Setup board
+groups.append({'heading': 'Setup board', 'blocks': [
+    p(" Friday's session is scored, and nothing resolved. The board's long side had its best session of the week - Kotak +3.08%% near the day's high, Hindalco +2.34%% reclaiming the zone it broke midweek, JSW Steel closing at its high for a second straight session - and not one line changed state: no stop, no target, no invalidation, and no watchlist name newly clears the published screen."),
+    chart('<p style="color:#64748b;font-size:13px">Open lines after Friday\'s session (BSE official closes): <b>Kotak Mahindra Bank</b> 516.00 (+3.08%) - trigger holds, 19th session above 437.55 (day\'s low 499.00, closed a hair under the high 516.45); stop far away at 420. <b>ONGC</b> 223.50 (-0.45%) - seventh session below the 228 breakout line; coil floor 218.50 intact (day\'s low 222.00). <b>JSW Steel</b> 1,340.00 (+0.45%, closed at the high) - about 30 points from the 1,370 target, but risk-reward at worst fill stays around 0.17 to 1 against the 1,158.95 floor: fails the screen. <b>Hindalco</b> 930.30 (+2.34%, near the high 932.50 after dipping to 894.25) - a decisive reclaim of the 911-912 zone; still no verified entry zone against longer history. <b>Shelved:</b> Voltas 1,230.00 (-0.40%) - Thursday\'s surge faded, the rejection stands; Tech Mahindra 1,742.00 (+1.10%) stays above the 1,500 cap.</p>'),
+    chart(ongc_chart()),
+    p(" The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%%, net +6.23%% after the 0.3%% cost convention - closed Friday at Rs 1,337.00. Infosys, resolved Wednesday by invalidation, no trade, no P&L, closed at Rs 1,096.40 (+0.54%%), holding above the 1,072.60 low it printed on the way down - two sessions of follow-through said the floor rule earned its place, and the bounce does not refund it. Research, not advice; cash-only swing setups under Rs 1,500 a share; BSE official prints are the standard."),
+]})
+
+# 13 - How the board scores
+groups.append({'heading': 'How the board scores', 'blocks': [
+    rows([
+        row(1, 'No prior-day stop trade', 'A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry.'),
+        row(2, 'Worst fill in the zone', 'Entry is assumed at the worst price inside the published zone, not the best.'),
+        row(3, 'R:R on the worst fill', 'Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board.'),
+        row(4, 'Resolution only', 'A line leaves the board only by stop, target or invalidation - never by opinion.'),
+    ]),
+]})
+
+# 14 - Editor's read
+groups.append({'heading': "The editor's read", 'blocks': [
+    p(" The correction and the record month are the same repricing seen from two ends. Money leaving the AI complex did not go to cash - some of it crossed the ocean. Fifteen straight sessions of foreign buying, Rs 1.11 lakh crore in November, a seven-month-high rupee and banks adding 90%% of the week's market value say the rotation is the story of November, and Friday's split tape - chips wrecked, General Mills up 3.7%%, Mumbai at a day-high close - is what a rotation looks like at full speed. What the day settled: the correction label, the full greenshoe, the $119.5 billion Anthropic raised between the IPO and the placement. What it did not settle: whether the divergence survives a change in the selling's character. Rotation to redemption is the line to watch, and it will show in fund flows and the dollar before it shows in the Sensex. Antonelli gets the last word on the American side, both halves of it: the era of unlimited AI spending is ending, and that does not by itself end the bull market that began in October 2022."),
+    p(" Also brewing - the rate file. Cause chain: a December hike is fully priced; gold just settled its week down 9.47%%; yet the ten-year yield fell to 4.93%% on correction day - the second straight session fear has outbid the repricing. What settles it: the December meeting, and whether the bond market's flight bid ever agrees with the rate pricing."),
+    p(" Also brewing - the chip file. Cause chain: Nvidia has fallen nine of ten sessions and is down more than 25%% since its board's announcement; AMD carries a denied short-seller allegation and, now, a 14%% PPA assist from OpenAI's models on its next flagship. What settles it: Nvidia's next filing for the China revenue line, and AMD's next quarter for whether the OpenAI collaboration shows up in product."),
+    p(" Also brewing - the divergence file. Cause chain: four straight weekly gains, +14%% in four weeks, foreign money buying the very bank stocks it sold to fund the AI trade. What settles it: Monday. Asia has already had its worst week since 2020; if Mumbai holds through the second leg of the US rout, the decoupling graduates from a month to a regime - and if it cracks, the concept above tells you exactly what the crack will look like."),
+]})
+
+# 15 - The week ahead
+groups.append({'heading': 'The week ahead', 'blocks': [
+    rows([
+        row(1, 'Sun 22 Nov', 'No trading. The paper runs as usual.'),
+        row(2, 'Mon 23 Nov', "Mahanadi Coalfields' book closes - 0.49 times with one day left; ANT's third session after a -9.1% second day; Asia's first session digesting the US correction; the decoupling's real test."),
+        row(3, 'Tue 24 Nov', 'Indian exchanges closed for Prakash Gurpurb Sri Guru Nanak Dev - a four-day trading week.'),
+        row(4, 'Wed 25 - Fri 27 Nov', "Mahanadi allotment Wednesday and listing Friday (tentative); Zee Entertainment's Rs 600-crore buyback record date Wednesday; Fusion CX's final dividend and Varvee Global's 5-to-2 split Friday."),
+        row(5, 'Watching', "Fed speakers into the December meeting with a hike fully priced and the ten-year falling; Nvidia's next filing for the China revenue line; gold after a -9.47% week; whether ANT holds $83 with the greenshoe spent into the deal."),
+    ]),
+]})
+
+# 16 - Notes
+groups.append({'heading': 'Notes on this edition', 'blocks': [
+    bullets([
+        "Sources read for this edition: AP's final close wire (via NPR) for all US index prints, chip moves, ANT's day-two close, yields, consumer sentiment and the Gulf; Anthropic's own closing release for the greenshoe, the placement and every share count; Business Standard's weekly wrap for the Mumbai close, sectors, bank market-value math and the week's stocks; moneycontrol for the decoupling framing, Asia detail and the quoted strategists; CNBC-TV18 and FE for flows (provisional, exchange-published figures via the press); BusinessLine for the rupee; Newsquawk for the oil settles; Dow Jones Data Talk (via Morningstar) for the Comex gold settle; HDFC Sky for the Mahanadi day-two tally; kalkine for the Muthoot filing; BSE's own corporate filing for Oil India's dividend; ET and upstox for the corporate-actions calendars; AP for the GAO report; OpenAI's own blog for the chip post; Business Standard, IndianStartupNews and YourStory for the startup items; BSE's official bhavcopy for every Indian price.",
+        "Framings: the correction label, the seven-day streak and the worst-week counts are AP's; 'only major market in the green' is moneycontrol's headline framing; the 'record November haul' is FE's headline, with Bajaj Broking's Singhania quoted in Business Standard calling the first fortnight's Rs 1.01 trillion a record - the absolute monthly figures are printed alongside. The greenshoe and placement figures are gross, before underwriting discounts and expenses, per Anthropic's release; the $91.6 billion is what the company received, not net proceeds after fees. ANT's $88.30 close and the Facebook comparison are AP's. The Oil India ex-dividend arithmetic (Rs 7 on Rs 438) is this paper's computation from the official prints. The Nvidia note prints only the company's on-record words on its former CEO - that the board does not intend to reinstate him, citing its code of conduct - and no framing beyond them.",
+    ]),
+    closing(" The correction met the record month, and the record month won the week. See you tomorrow."),
+]})
+
+ed['groups'] = groups
+out = {'day': 47, 'meta': {'date': 'Saturday 21 November 2026', 'short': 'Sat 21 Nov', 'longread': 47}, 'edition': ed, 'audio': {}, 'times': {}}
+json.dump(out, open('/downloads/morning-paper/editions-src/day-47.json','w'), indent=1, ensure_ascii=False)
+print('day-47.json written,', len(groups), 'groups')

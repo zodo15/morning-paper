@@ -1,0 +1,64 @@
+#!/usr/bin/env python3
+"""Write LR47 (the Bombay Stock Exchange) into editions-src/longreads.json."""
+import json
+
+def a(href, text):
+    return '<a href="%s" target="_blank" rel="noopener">%s</a>' % (href, text)
+def p(html): return {'t': 'p', 'html': html}
+def fig(img, alt, caption): return {'t': 'figure', 'img': img, 'alt': alt, 'caption': caption}
+
+FORTUNE = 'https://www.fortuneindia.com/markets/bse-at-150-how-a-banyan-tree-grew-into-indias-5-trillion-stock-market/124736'
+BS150 = 'https://www.business-standard.com/markets/news/150-years-from-the-banyan-tree-the-story-of-bse-people-who-shaped-growth-125070300838_1.html'
+IT = 'https://www.indiatoday.in/education-today/gk-current-affairs/story/bse-began-under-a-banyan-tree-with-five-traders-now-it-runs-dalal-street-2753729-2025-07-10'
+IE = 'https://indianexpress.com/article/evergreen/stock-markets-evolution-demutualisation-story-9107737/'
+SEBI = 'https://www.sebi.gov.in/sebi_data/attachdocs/apr-2025/1744892367627.pdf'
+NEWS18 = 'https://www.news18.com/business/how-five-people-started-the-bombay-stock-exchange-under-a-banyan-tree-8116669.html'
+FII_FE = 'https://www.financialexpress.com/market/rs-1-11-lakh-crore-and-counting-3-factors-fuelling-the-record-november-haul-4389803/'
+
+lr = {
+ 'title': 'The market under the banyan tree',
+ 'fact': "A Slow Burn long read, Saturday 21 November 2026. The week Mumbai decoupled from the global rout - a record month of foreign buying while Wall Street posted its worst week since April - ran on Asia's oldest stock exchange. One hundred and fifty years ago it was five brokers under a banyan tree. This is how the BSE survived everything its century could throw at it, and ended up a listed company on its own board.",
+ 'thumb': 'photos/lr47-hero.jpg',
+ 'hero': {'img': 'photos/lr47-hero.jpg', 'alt': 'Abstract plate: a banyan tree canopy sheltering a glowing ticker ribbon', 'caption': 'Abstract plate for the long read - the market under the banyan tree.'},
+ 'groups': [
+  {'heading': '1. The banyan tree', 'blocks': [
+    p(" In the 1850s, the share market of Bombay was five men and a tree. Four Gujarati brokers and one Parsi met daily under a banyan near the Town Hall, trading with chalk and voice - no building, no index, no name (%s). They had picked a good century. The American Civil War choked cotton supplies to Britain, and Bombay's cotton filled the breach; wealth flooded the port, and with it a speculative mania in the shares of newly floated companies, plus forward trading in a contract called the time bargain. At the center of it stood Premchand Roychand - the Cotton King, the Bullion King, India's original share king - funneling bank money into the boom (%s; %s)." % (a(IT,'India Today'), a(FORTUNE,'Fortune India'), a(BS150,'Business Standard'))),
+    p(" Business Standard's history preserves the mania in one monsoon-day scene from July 1864. Roychand visited Sorabjee Jamsetjee Jeejeebhoy at his Malabar Hill bungalow and pressed him to buy at least one hundred shares of the Bombay Reclamation Company, the boom's darling. Jeejeebhoy pleaded small funds; Roychand sent notes to the Asiatic and Bombay banks - my dear Mr. Blair, could you accommodate Sorabjee with five lakhs? - and arranged ten. Even ten lakh rupees bought only 43 shares, and when they arrived, the sellers turned out to be Roychand, his father, his brother-in-law and the company's own directors. The insiders were selling. A year later the Civil War ended, the cotton famine ended with it, and the boom collapsed; Roychand lost his fortune along with the merchant princes of Bombay (%s). The bust did what busts do: it taught a city of brokers that they needed rules, a roof, and a name." % a(BS150,'the episode')),
+  ]},
+  {'heading': '2. One rupee each', 'blocks': [
+    p(" On July 9, 1875, a little more than two dozen brokers formed the Native Share and Stock Brokers' Association, contributing one rupee each. The date matters to the record books: Asia's first stock exchange, twenty-two years before the Dow Jones Industrial Average existed (%s; %s). The first problem was rent. The association wanted a trading hall at Rs 100 a month and could not pay it; Dinshaw Maneckji Petit, a textile-mill founder, gifted twenty-five shares of his Victoria Manufacturing Company, which the brokers sold for Rs 17,250 - seed capital for the first exchange, raised in the exchange's own future currency: shares (%s)." % (a(BS150,'Business Standard'), a(FORTUNE,'Fortune India'), a(BS150,'the founding gift'))),
+    p(" The association was formally constituted on December 3, 1887, grew to 361 members by 1909 under its first president Seth Chunilal Motichand, and by 1899 had its own building on the street that would take its name from the brokers themselves: Dalal Street (%s). Trading in the early days ran to a few textile shares and some government securities. Then the wars came, and with them the money." % a(BS150,'Business Standard')),
+  ]},
+  {'heading': '3. Corners and committees', 'blocks': [
+    p(" World War I made the exchange rich. Indian mills supplied the war effort while English imports stopped, profits flooded into new issues, and the price of a broker's membership card rose from Rs 2,900 in 1914 to Rs 48,000 in 1921 (%s). With the boom came the corner: bears shorting mill shares they did not own, bulls buying the float to trap them, and settlement prices fixed by whoever held the last shares. Corners were declared in Fazulbhoy Mill in February 1921, Currimbhoy Mill that July, Finlay Mill in January 1922, Kohinoor twice in 1923. The 1924 enquiry committee, chaired by a former London Stock Exchange chairman, found the association's rules so lax that some were not even printed, and reported dryly that the bare enumeration of the corners conveyed but a faint idea of the dislocation they caused. A crash and panic in 1925 produced the Securities Contract Control Act (%s)." % (a(BS150,'Business Standard'), a(BS150,'the committee record'))),
+    fig('photos/lr47-int1.jpg', 'Abstract plate: chalk stock prices on a slate fracturing into jagged lines', 'The corners of 1921-23 - when whoever held the last shares named the price.'),
+    p(" The man who steered the exchange through everything after was K R P Shroff, a former schoolteacher who joined his father's brokerage in 1902 and presided over the BSE from 1923 to 1966 - through the Depression's serial crises, the Second World War, independence, and two wars with neighbors. When France fell in 1940, forward trading was stopped and minimum prices fixed for all shares; in August 1942 the Quit India movement shut the exchange outright; in 1943 the Defence of India rules pushed speculation off the exchanges entirely, into the grey market of Bombay and the Katni market of Calcutta, which soon grew bigger than the regulated bourses themselves. Each prohibition taught the same lesson the corners had: the trade does not die, it moves (%s)." % a(BS150,'Business Standard')),
+  ]},
+  {'heading': '4. The tower', 'blocks': [
+    p(" Independent India gave the exchange legal form: in August 1957 the BSE became the first stock exchange recognized under the Securities Contracts (Regulation) Act (%s). Its next form was concrete. Phiroze Jeejeebhoy, chairman from 1966 to 1980, began building a tower in 1973 - in the teeth of an anti-market decade, with forward trading banned under Morarji Desai and nationalization under Indira Gandhi. Jeejeebhoy called Nimesh Kampani privately to say the exchange needed money or the building would stall; Kampani organized short-term funding, the plan being to rent the tower's floors for cash flow. It took seven years to finish, was named for Jeejeebhoy after his death in 1980, and its twenty-nine storeys still define Dalal Street (%s; %s). On January 2, 1986, the exchange launched the Sensex, the country's first equity index (%s)." % (a(NEWS18,'News18'), a(BS150,'the tower story'), a(FORTUNE,'Fortune India'), a(BS150,'the timeline'))),
+  ]},
+  {'heading': '5. The bomb and the scam', 'blocks': [
+    p(" The nineties tried to destroy the exchange twice in fourteen months. On March 12, 1993, at 1:25 PM, a car bomb exploded in the basement garage of the Jeejeebhoy Towers - one of twelve coordinated blasts across Mumbai that killed 257 people. Chief executive M R Mayya was on his way down to the parking lot when it went off; he escaped by a hair's breadth and walked to the police commissioner's office because the phones were dead. The exchange resumed anyway (%s; %s). The second blow was slower. The Harshad Mehta securities scam, unearthed in 1992, showed a single broker diverting bank funds into the market; when it unraveled, investor trust went with it. The reforms that followed rebuilt Indian markets around the BSE rather than through it: SEBI got statutory powers in 1992, the National Stock Exchange opened in 1994 as a fully automated, demutualized rival, demat replaced paper certificates, and the BSE's own electronic BOLT system arrived in March 1995 - the end of the floor's century (%s)." % (a(BS150,'the 1993 account'), a(FORTUNE,'Fortune India'), a(FORTUNE,'the reform record'))),
+    fig('photos/lr47-int2.jpg', 'Abstract plate: a high-rise silhouette with a shockwave ring, hand signals dissolving into screen pixels', '1993 and 1995 - the bomb, then the screen.'),
+  ]},
+  {'heading': '6. The brokers lose their club', 'blocks': [
+    p(" The last reform was the exchange itself. The trigger was another scam: the Ketan Parekh manipulation of 2001, and alongside it the allegation that the BSE's own president had asked his surveillance department for brokers' positions. The Vajpayee government, facing a Joint Parliamentary Committee, committed to corporatizing the exchanges - separating the brokers' trading rights from the ownership of the bourse. The brokers fought for years; at stake were the reserves and the property they argued they had built, and the Revenue Department answered that a not-for-profit's assets could not walk out with its members. The compromise, notified in the demutualization scheme, vested the assets - including the tower and the intellectual property - in the new company, and required that at least 51%% of voting rights always sit with the public, not the brokers. The BSE was corporatized in August 2005 and demutualized in 2007; Deutsche Borse and the Singapore Exchange later took stakes (%s)." % a(IE,'the Indian Express archive')),
+    p(" On February 3, 2017, the BSE listed its own shares on itself - the IPO oversubscribed 51 times - beating its larger rival to the milestone. In May 2025, the company the brokers founded for one rupee each crossed a valuation of Rs 1 trillion (%s; %s)." % (a(FORTUNE,'Fortune India'), a(BS150,'the timeline'))),
+  ]},
+  {'heading': '7. The venue', 'blocks': [
+    p(" What the banyan tree became: more than 5,800 listed companies and over $5 trillion in market value; co-location facilities matching global peers, hundreds of thousands of trades in a fraction of a second; BSE StAR MF for mutual funds, an SME platform for small companies, and India INX in GIFT City for the offshore world (%s; %s). At the exchange's 150th anniversary in April, SEBI chairman Tuhin Kanta Pandey put the scale on record: Indian markets now handle about 2,000 crore orders and transactions daily, unique demat accounts have grown from 3.2 crore to 11.4 crore in five years, India pioneered T+1 settlement, and through the onset of COVID - when some major global markets faltered - it did not shut trading for a single day (%s)." % (a(FORTUNE,'Fortune India'), a(BS150,'Business Standard'), a(SEBI,'his address'))),
+    fig('photos/lr47-int3.jpg', 'Abstract plate: a one-rupee coin morphing into a column of green market ticks', 'From one rupee each to Rs 1 trillion.'),
+    p(" And this week, the old exchange hosted something new. While Wall Street posted its worst week since April and Asia its worst since 2020, the market the BSE runs closed at a day-high, up 2.85%% for the week - foreign investors completing their fifteenth straight buying session and pushing November's inflows past Rs 1.11 lakh crore, what FE calls a record month (%s). The men under the tree traded cotton shares with chalk. Their descendants' exchange just absorbed it on screens, in fractions of a second, without a floor at all. The banyan tree is gone; the habit of gathering under it, 150 years later, is the market itself." % a(FII_FE,'FE')),
+  ]},
+ ],
+ 'audio': {},
+}
+
+p_ = '/downloads/morning-paper/editions-src/longreads.json'
+d = json.load(open(p_))
+d['47'] = lr
+json.dump(d, open(p_,'w'), indent=1, ensure_ascii=False)
+import re
+def strip(h): return re.sub(r'<[^>]+>',' ',h or '')
+w = sum(len(strip(b.get('html','')).split()) for g in lr['groups'] for b in g['blocks'] if b.get('t')=='p')
+print('LR47 written, chapters:', len(lr['groups']), 'words:', w)
