@@ -58,7 +58,7 @@ for g in lr['groups']:
     out.append('        </Text>')
 
 out.append('')
-out.append('        <Closing>Sources read for this piece: ASML’s own founding story (April 2024) and company history timeline; Michael A. Cusumano’s “The ASML Monopoly” in the Communications of the ACM (September 2026) for the EUV program’s cost, the 2012 customer co-investment, the machine’s economics and China’s catch-up effort, quoted as reported; MIT Technology Review’s June 2026 High NA feature for Benschop’s machine and its price; and ASML’s Q3 2026 results release for the record quarter and the sold-out-through-2028 statement. Quotes are as these sources report them; no scenes or settings are invented.</Closing>')
+out.append('        <Closing>Sources read for this piece: the SEC Historical Society’s Nasdaq exhibit, market-structure timeline and Joe Hardiman interview; Nasdaq’s own fifty-year history and investor-relations FAQ; the NASD’s own history via FINRA; the Congressional Research Service’s account of the 2000-06 spin-off; Borse Dubai’s August 2007 OMX offer document and Nasdaq’s December 2007 release; Traders Magazine’s Nasdaq timeline; and CNBC’s live account of Thursday’s debut. Quotes are as these sources report them; no scenes or settings are invented.</Closing>')
 out.append('    </FileCard>;')
 out.append('}')
 
