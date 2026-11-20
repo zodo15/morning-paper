@@ -239,7 +239,7 @@ def block_text(b):
     if b['t'] == 'rows':
         out = []
         for i in b['items']:
-            lab = i.get('n','')
+            lab = str(i.get('n',''))
             seg = (i.get('title','') + '. ' + i.get('detail','')).strip()
             out.append((lab + '. ' if lab else '') + seg)
         return ' '.join(out)

@@ -6,7 +6,7 @@ def a(href, text):
     return '<a href="%s" target="_blank" rel="noopener">%s</a>' % (href, text)
 def p(html): return {'t': 'p', 'html': html}
 def rows(items): return {'t': 'rows', 'items': items}
-def row(n, title, detail): return {'n': n, 'title': title, 'detail': detail}
+def row(n, title, detail): return {'n': str(n), 'title': title, 'detail': detail}
 def bullets(items): return {'t': 'bullets', 'items': items}
 def closing(html): return {'t': 'closing', 'html': html}
 def chart(svg): return {'t': 'chart', 'svg': svg}

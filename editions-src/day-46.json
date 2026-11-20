@@ -217,22 +217,22 @@
       "t": "rows",
       "items": [
        {
-        "n": 1,
+        "n": "1",
         "title": "No prior-day stop trade",
         "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry."
        },
        {
-        "n": 2,
+        "n": "2",
         "title": "Worst fill in the zone",
         "detail": "Entry is assumed at the worst price inside the published zone, not the best."
        },
        {
-        "n": 3,
+        "n": "3",
         "title": "R:R on the worst fill",
         "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board."
        },
        {
-        "n": 4,
+        "n": "4",
         "title": "Resolution only",
         "detail": "A line leaves the board only by stop, target or invalidation - never by opinion."
        }
@@ -268,17 +268,17 @@
       "t": "rows",
       "items": [
        {
-        "n": 1,
+        "n": "1",
         "title": "Fri 20 Nov (today)",
         "detail": "Record dates: Ashok Leyland's interim, Oil India's Rs 7, BF Investment's Rs 20, Venus Pipes' Re 0.50, plus Medi Assist's buyback record date; Mahanadi Coalfields day two; ANT's second session tonight in New York."
        },
        {
-        "n": 2,
+        "n": "2",
         "title": "Mon 23 - Fri 27 Nov",
         "detail": "Mahanadi closes Monday, allotment Wednesday, listing Friday (tentative); the BIS rule comment docket (BIS-2026-0628) builds toward its 19 January deadline."
        },
        {
-        "n": 3,
+        "n": "3",
         "title": "Watching",
         "detail": "Fed speakers into the December meeting with a hike fully priced; Nvidia's next filing for the China revenue line; SEBI's MTF committee after the chairman's no-decision; whether ANT's greenshoe stays theoretical."
        }
