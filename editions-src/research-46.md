@@ -117,3 +117,10 @@ A free-float leverage tracker for Indian retail: maps each stock's margin-tradin
 - CAUSATION: keep the index rout and the ANT debut strictly distinct - correlation in time, not established causation. Reuters' Ellerbroek (Argent Capital) explicitly cautions against extrapolating meaning from debut-day trading; usable as the edition's own guardrail line.
 - SUPERLATIVES to re-verify before final copy: "largest listing ever at pricing" (verified for Ed45 via Reuters - stands), "7th most valuable U.S. company" (CNBC only), "longest losing streak since 2024" (AP), "first 25,500 close since February" (BS), "biggest monthly FII haul ever" (FE), 846M vs 522M first-day shares (CNBC).
 - No user update needed at this stage (main).
+
+## Late lead (main, 05:48 IST) - Linear COO on AI-agent vs app usage
+Latent Space interview with Linear COO Cristina Cordova, 19 Nov: AI-agent usage versus app usage and durable SaaS value. Newsletter is a LEAD only - verify every quote/number at owning sources before any use.
+- Owning interview: https://youtu.be/x0VSm6IjcDQ (pull transcript; quote only from it)
+- Owning Linear context: https://linear.app/next and https://linear.app/now/sharing-growth-with-the-people-building-linear
+- Researcher agent-01M3NPC0VW3H3KH4EQWEHKP33X holds the watcher's findings if useful.
+- Fit check: candidate for AI Race or Startup Intelligence only if it meets source standards; must NOT add/rename sections or displace the Nasdaq long read. No Linear/Cordova card in the live 80-card feed (checked 05:49). No user chat alert (main).
