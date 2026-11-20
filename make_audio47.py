@@ -215,7 +215,9 @@ def respell(t):
         n = int(n)
         if n in ORD: return ORD[n]
         t_, o_ = divmod(n, 10)
-        if o_ == 0: return ONES[0] if False else {20:'twentieth',30:'thirtieth',40:'fortieth',50:'fiftieth',60:'sixtieth',70:'seventieth',80:'eightieth',90:'ninetieth'}[n]
+        if o_ == 0:
+            if n >= 100: return speak_number(str(n)) + 'th'
+            return {20:'twentieth',30:'thirtieth',40:'fortieth',50:'fiftieth',60:'sixtieth',70:'seventieth',80:'eightieth',90:'ninetieth'}[n]
         return TENS[t_] + '-' + {1:'first',2:'second',3:'third',4:'fourth',5:'fifth',6:'sixth',7:'seventh',8:'eighth',9:'ninth'}[o_]
     t = re.sub(r"\b(\d{1,3})(?:st|nd|rd|th)\b", lambda m: ordw(m.group(1)), t)
     # remaining numbers -> words
