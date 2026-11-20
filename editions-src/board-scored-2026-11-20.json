@@ -1,0 +1,67 @@
+{
+  "scored_for": "2026-11-20",
+  "source": "BSE official unified bhavcopy BhavCopy_BSE_CM_0_0_0_20261120_F_0000.CSV (TradDt 2026-11-20)",
+  "session_note": "Friday 20 Nov 2026. A strong close for the board's long side into the weekend: Kotak +3.08% near the day's high, Hindalco +2.34% reclaiming the 911-912 zone it broke midweek, JSW Steel +0.45% closing at the day's high for a second straight session, ONGC -0.45% still coiling under 228. Infosys bounced +0.54% after Wednesday's invalidation without revisiting the 1,072.60 low. File PrvsClsgPric matches Thursday's official closes on all eight tracked names (cross-check passed). No resolutions today; no new setup clears the screen.",
+  "open_lines": [
+    {
+      "name": "Kotak Mahindra Bank",
+      "ticker": "KOTAKBANK",
+      "close": 516.0,
+      "prev": 500.6,
+      "chg_pct": 3.08,
+      "high": 516.45,
+      "low": 499.0,
+      "status": "Watchlist - trigger held",
+      "trigger": "post-print strength above Rs 437.55",
+      "stop": "below Rs 420 shelves it",
+      "scoring": "Trigger holds - 19th session above 437.55 (today's low 499.00). Closed 516.00 (+3.08%), a hair under the day's high 516.45. Still a candidate, not a setup. Stop far away. No resolution."
+    },
+    {
+      "name": "ONGC",
+      "ticker": "ONGC",
+      "close": 223.5,
+      "prev": 224.5,
+      "chg_pct": -0.45,
+      "high": 224.95,
+      "low": 222.0,
+      "status": "Watchlist - inside coil, breakout leg not re-established",
+      "trigger": "breakout above 228 with crude holding",
+      "stop": "coil floor Rs 218.50",
+      "target": "coil top Rs 238.75",
+      "scoring": "Closed 223.50 (-0.45%) - seventh session below the 228 breakout line (today's high 224.95). Comfortably above the 218.50 coil floor (today's low 222.00). R:R at worst fill stays below the screen. No resolution."
+    },
+    {
+      "name": "JSW Steel",
+      "ticker": "JSWSTEEL",
+      "close": 1340.0,
+      "prev": 1334.0,
+      "chg_pct": 0.45,
+      "high": 1340.0,
+      "low": 1285.0,
+      "status": "Watchlist - R:R fails screen",
+      "trigger": "hold 1,158.95, then reclaim 1,218.90-1,222.30",
+      "stop": "under 1,158.95 breaks the floor",
+      "target": "5 Nov swing high near Rs 1,370",
+      "scoring": "Close 1,340.00 (+0.45%), at the day's high for the second straight session. Floor far away (today's low 1,285.00). Price sits ~30 points under the 1,370 target with risk all the way to 1,158.95 - R:R at worst fill (~0.17:1) still fails the published screen. No resolution."
+    },
+    {
+      "name": "Hindalco",
+      "ticker": "HINDALCO",
+      "close": 930.3,
+      "prev": 909.0,
+      "chg_pct": 2.34,
+      "high": 932.5,
+      "low": 894.25,
+      "status": "Watchlist - candidate",
+      "trigger": "no entry zone yet",
+      "scoring": "Close 930.30 (+2.34%), near the day's high 932.50, after dipping to 894.25 intraday - a decisive reclaim of the 911-912 zone it broke on Wednesday. Still no verified entry zone against longer history; not a setup. No resolution."
+    }
+  ],
+  "resolved_today": [],
+  "ledger_note": "HCLTech (resolved: 28 Oct fill 1,378.00, target 1,466.80 taken at 1,468.00; gross +6.53%, net +6.23% after 0.3% cost) stays in the ledger; it closed Friday at Rs 1,337.00. Infosys (resolved Wednesday by invalidation, no trade, no P&L) closed Friday at Rs 1,096.40 (+0.54%), holding above Wednesday's 1,072.60 low on the bounce.",
+  "new_setups_clearing_screen": [],
+  "shelved": [
+    "Voltas stays rejected (closed Friday at Rs 1,230.00, -0.40% - Thursday's surge faded; the rejection stands and the screen has not re-cleared it)",
+    "Tech Mahindra stays shelved above the Rs 1,500 cap (closed Friday at Rs 1,742.00, +1.10%)"
+  ]
+}
