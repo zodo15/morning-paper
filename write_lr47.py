@@ -8,6 +8,7 @@ def p(html): return {'t': 'p', 'html': html}
 def fig(img, alt, caption): return {'t': 'figure', 'img': img, 'alt': alt, 'caption': caption}
 
 FORTUNE = 'https://www.fortuneindia.com/markets/bse-at-150-how-a-banyan-tree-grew-into-indias-5-trillion-stock-market/124736'
+FORBES = 'https://www.forbesindia.com/article/special/bse-shares-list-at-rs-1085-on-nse;-soar-48-percent-intraday/45755/1'
 BS150 = 'https://www.business-standard.com/markets/news/150-years-from-the-banyan-tree-the-story-of-bse-people-who-shaped-growth-125070300838_1.html'
 IT = 'https://www.indiatoday.in/education-today/gk-current-affairs/story/bse-began-under-a-banyan-tree-with-five-traders-now-it-runs-dalal-street-2753729-2025-07-10'
 IE = 'https://indianexpress.com/article/evergreen/stock-markets-evolution-demutualisation-story-9107737/'
@@ -17,7 +18,7 @@ FII_FE = 'https://www.financialexpress.com/market/rs-1-11-lakh-crore-and-countin
 
 lr = {
  'title': 'The market under the banyan tree',
- 'fact': "A Slow Burn long read, Saturday 21 November 2026. The week Mumbai decoupled from the global rout - a record month of foreign buying while Wall Street posted its worst week since April - ran on Asia's oldest stock exchange. One hundred and fifty years ago it was five brokers under a banyan tree. This is how the BSE survived everything its century could throw at it, and ended up a listed company on its own board.",
+ 'fact': "A Slow Burn long read, Saturday 21 November 2026. The week Mumbai decoupled from the global rout - foreign investors making it a record month of buying across Indian equities while Wall Street posted its worst week since April - ran on Asia's oldest stock exchange. A hundred and seventy years ago it was five brokers under a banyan tree. This is how the BSE survived everything its century could throw at it, and ended up a listed company on its rival's board.",
  'thumb': 'photos/lr47-hero.jpg',
  'hero': {'img': 'photos/lr47-hero.jpg', 'alt': 'Abstract plate: a banyan tree canopy sheltering a glowing ticker ribbon', 'caption': 'Abstract plate for the long read - the market under the banyan tree.'},
  'groups': [
@@ -26,7 +27,7 @@ lr = {
     p(" Business Standard's history preserves the mania in one monsoon-day scene from July 1864. Roychand visited Sorabjee Jamsetjee Jeejeebhoy at his Malabar Hill bungalow and pressed him to buy at least one hundred shares of the Bombay Reclamation Company, the boom's darling. Jeejeebhoy pleaded small funds; Roychand sent notes to the Asiatic and Bombay banks - my dear Mr. Blair, could you accommodate Sorabjee with five lakhs? - and arranged ten. Even ten lakh rupees bought only 43 shares, and when they arrived, the sellers turned out to be Roychand, his father, his brother-in-law and the company's own directors. The insiders were selling. A year later the Civil War ended, the cotton famine ended with it, and the boom collapsed; Roychand lost his fortune along with the merchant princes of Bombay (%s). The bust did what busts do: it taught a city of brokers that they needed rules, a roof, and a name." % a(BS150,'the episode')),
   ]},
   {'heading': '2. One rupee each', 'blocks': [
-    p(" On July 9, 1875, a little more than two dozen brokers formed the Native Share and Stock Brokers' Association, contributing one rupee each. The date matters to the record books: Asia's first stock exchange, twenty-two years before the Dow Jones Industrial Average existed (%s; %s). The first problem was rent. The association wanted a trading hall at Rs 100 a month and could not pay it; Dinshaw Maneckji Petit, a textile-mill founder, gifted twenty-five shares of his Victoria Manufacturing Company, which the brokers sold for Rs 17,250 - seed capital for the first exchange, raised in the exchange's own future currency: shares (%s)." % (a(BS150,'Business Standard'), a(FORTUNE,'Fortune India'), a(BS150,'the founding gift'))),
+    p(" On July 9, 1875, a little more than two dozen brokers formed the Native Share and Stock Brokers' Association, contributing one rupee each. The date matters to the record books: Asia's first stock exchange, twenty-one years before the Dow Jones Industrial Average existed (%s; %s). The first problem was rent. The association wanted a trading hall at Rs 100 a month and could not pay it; Dinshaw Maneckji Petit, a textile-mill founder, gifted twenty-five shares of his Victoria Manufacturing Company, which the brokers sold for Rs 17,250 - seed capital for the first exchange, raised in the exchange's own future currency: shares (%s)." % (a(BS150,'Business Standard'), a(FORTUNE,'Fortune India'), a(BS150,'the founding gift'))),
     p(" The association was formally constituted on December 3, 1887, grew to 361 members by 1909 under its first president Seth Chunilal Motichand, and by 1899 had its own building on the street that would take its name from the brokers themselves: Dalal Street (%s). Trading in the early days ran to a few textile shares and some government securities. Then the wars came, and with them the money." % a(BS150,'Business Standard')),
   ]},
   {'heading': '3. Corners and committees', 'blocks': [
@@ -43,12 +44,12 @@ lr = {
   ]},
   {'heading': '6. The brokers lose their club', 'blocks': [
     p(" The last reform was the exchange itself. The trigger was another scam: the Ketan Parekh manipulation of 2001, and alongside it the allegation that the BSE's own president had asked his surveillance department for brokers' positions. The Vajpayee government, facing a Joint Parliamentary Committee, committed to corporatizing the exchanges - separating the brokers' trading rights from the ownership of the bourse. The brokers fought for years; at stake were the reserves and the property they argued they had built, and the Revenue Department answered that a not-for-profit's assets could not walk out with its members. The compromise, notified in the demutualization scheme, vested the assets - including the tower and the intellectual property - in the new company, and required that at least 51%% of voting rights always sit with the public, not the brokers. The BSE was corporatized in August 2005 and demutualized in 2007; Deutsche Borse and the Singapore Exchange later took stakes (%s)." % a(IE,'the Indian Express archive')),
-    p(" On February 3, 2017, the BSE listed its own shares on itself - the IPO oversubscribed 51 times - beating its larger rival to the milestone. In May 2025, the company the brokers founded for one rupee each crossed a valuation of Rs 1 trillion (%s; %s)." % (a(FORTUNE,'Fortune India'), a(BS150,'the timeline'))),
+    p(" On February 3, 2017, the BSE listed its shares on the National Stock Exchange at Rs 1,085 against the Rs 806 issue price - the IPO oversubscribed 51 times, the first Indian exchange to list, beating its larger rival to the milestone (%s). In May 2025, the company the brokers founded for one rupee each crossed a valuation of Rs 1 trillion (%s; %s)." % (a(FORBES,'the listing-day report'), a(FORTUNE,'Fortune India'), a(BS150,'the timeline'))),
   ]},
   {'heading': '7. The venue', 'blocks': [
     p(" What the banyan tree became: more than 5,800 listed companies and over $5 trillion in market value; co-location facilities matching global peers, hundreds of thousands of trades in a fraction of a second; BSE StAR MF for mutual funds, an SME platform for small companies, and India INX in GIFT City for the offshore world (%s; %s). At the exchange's 150th anniversary in April, SEBI chairman Tuhin Kanta Pandey put the scale on record: Indian markets now handle about 2,000 crore orders and transactions daily, unique demat accounts have grown from 3.2 crore to 11.4 crore in five years, India pioneered T+1 settlement, and through the onset of COVID - when some major global markets faltered - it did not shut trading for a single day (%s)." % (a(FORTUNE,'Fortune India'), a(BS150,'Business Standard'), a(SEBI,'his address'))),
     fig('photos/lr47-int3.jpg', 'Abstract plate: a one-rupee coin morphing into a column of green market ticks', 'From one rupee each to Rs 1 trillion.'),
-    p(" And this week, the old exchange hosted something new. While Wall Street posted its worst week since April and Asia its worst since 2020, the market the BSE runs closed at a day-high, up 2.85%% for the week - foreign investors completing their fifteenth straight buying session and pushing November's inflows past Rs 1.11 lakh crore, what FE calls a record month (%s). The men under the tree traded cotton shares with chalk. Their descendants' exchange just absorbed it on screens, in fractions of a second, without a floor at all. The banyan tree is gone; the habit of gathering under it, 150 years later, is the market itself." % a(FII_FE,'FE')),
+    p(" And this week, the old exchange hosted something new. While Wall Street posted its worst week since April and Asia its worst since 2020, the market the BSE runs closed near its day's high, up 2.85%% for the week - while across Indian equities, foreign investors completed their fifteenth straight buying session and pushed November's inflows past Rs 1.11 lakh crore, what FE calls a record month (%s). The men under the tree traded cotton shares with chalk. Their descendants' exchange just absorbed it on screens, in fractions of a second, without a floor at all. The banyan tree is gone; the habit of gathering under it, a hundred and seventy years on, is the market itself." % a(FII_FE,'FE')),
   ]},
  ],
  'audio': {},
@@ -57,6 +58,12 @@ lr = {
 p_ = '/downloads/morning-paper/editions-src/longreads.json'
 d = json.load(open(p_))
 d['47'] = lr
+def _sweep(o):
+    if isinstance(o, str): return o.replace('%%','%')
+    if isinstance(o, list): return [_sweep(x) for x in o]
+    if isinstance(o, dict): return {k:_sweep(v) for k,v in o.items()}
+    return o
+d = _sweep(d)
 json.dump(d, open(p_,'w'), indent=1, ensure_ascii=False)
 import re
 def strip(h): return re.sub(r'<[^>]+>',' ',h or '')
