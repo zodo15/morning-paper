@@ -254,7 +254,7 @@ def group_text(g):
 
 fact_clean = re.sub(r"This edition runs [0-9,]+ words\.", "", ed['fact'])
 fact_clean = re.sub(r"^Edition 46\. [^.]+\. ", "", fact_clean)
-opening = respell("Slow Burn, Thursday the nineteenth of November twenty twenty-six, edition forty-five. " + fact_clean + " " + ed['intro'])
+opening = respell("Slow Burn, Friday the twentieth of November twenty twenty-six, edition forty-six. " + fact_clean + " " + ed['intro'])
 
 segs = [
     ("Opening and the five-minute lead route", [0]),
@@ -279,7 +279,7 @@ for n, (key, idxs) in enumerate(segs[3:], start=4):
 
 texts['full'] = ' '.join(texts[f'segment{i}'] for i in range(1,10))
 
-quick = "Slow Burn quick read, Thursday the nineteenth of November twenty twenty-six. " + respell(group_text(groups[0])) + " Nothing in this paper is investment advice."
+quick = "Slow Burn quick read, Friday the twentieth of November twenty twenty-six. " + respell(group_text(groups[0])) + " Nothing in this paper is investment advice."
 texts['quick'] = quick
 
 lrs = json.load(open('/downloads/morning-paper/editions-src/longreads.json'))
