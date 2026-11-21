@@ -329,17 +329,17 @@
   "audio": {
     "quick": "audio/d47-quick.m4a",
     "durations": {
-      "quick": 266.24,
-      "segment1": 327.44,
-      "segment2": 341.92,
+      "quick": 272.32,
+      "segment1": 327.49,
+      "segment2": 355.38,
       "segment3": 185.92,
-      "segment4": 363.44,
+      "segment4": 359.86,
       "segment5": 278.32,
       "segment6": 352.88,
       "segment7": 117.36,
       "segment8": 158.2,
-      "segment9": 214.04,
-      "full": 2351.84
+      "segment9": 262.12,
+      "full": 2369.84
     },
     "segments": [
       {
