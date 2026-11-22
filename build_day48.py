@@ -55,11 +55,11 @@ d['day'] = 48
 d['meta'] = {'date': 'Sunday 22 November 2026', 'short': 'Sun 22 Nov', 'longread': 48}
 
 ed = {}
-ed['fact'] = ("Edition 48. Sunday 22 November 2026. This edition runs 4,577 words. "
+ed['fact'] = ("Edition 48. Sunday 22 November 2026. This edition runs 4,576 words. "
  "Two regulators spent Saturday at opposite ends of the AI trade: in Washington, the SEC's enforcement staff is examining potential accounting issues at Nvidia, the company at the center of the market's worst week since April; in Mumbai, SEBI's chairman laid out a five-day entry path for the foreign investors already buying Indian equities at a record pace. "
  "The long read: Nvidia - the company that bet on zero-billion-dollar markets.")
 ed['intro'] = ("The 5-minute lead route is first; sections carry the detail. "
- "The long read: founded over breakfast at a Denny's in 1993, nearly dead in 1996, the inventor of the GPU and the company the AI decade crowned - now facing its first SEC probe. Thirty-three years of Nvidia.")
+ "The long read: founded over breakfast at a Denny's in 1993, nearly dead in 1996, the inventor of the GPU and the company the AI decade crowned - now facing an SEC probe. Thirty-three years of Nvidia.")
 ed['hero'] = {'img': 'photos/d48-hero.jpg', 'alt': 'Abstract plate: a magnifying glass held over a glowing ledger, a red ticker ribbon falling behind it'}
 
 groups = []
@@ -137,17 +137,17 @@ groups.append({'heading': 'One concept: circular financing', 'blocks': [
 ]})
 
 groups.append({'heading': 'Setup board', 'blocks': [
- p(" Sunday's board is a carry-forward: no weekend session, so Friday's prices stay the live marks and Monday's expiry session is the next scored day. Friday left the long side's best session of the week on the tape - Kotak +3.08%% near the day's high, Hindalco +2.34%% reclaiming its zone, JSW Steel at its high for a second straight session - with no stop, no target, no invalidation, and no watchlist name newly clearing the published screen. Monday is the F&O expiry and the Mahanadi close; the desk's rule stands: every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup."),
+ p(" Sunday's board is a carry-forward: no weekend session, so Friday's prices stay the live marks and Monday's expiry session is the next scored day. Friday left the long side's best session of the week on the tape - Kotak +3.08% near the day's high, Hindalco +2.34% reclaiming its zone, JSW Steel at its high for a second straight session - with no stop, no target, no invalidation, and no watchlist name newly clearing the published screen. Monday is the F&O expiry and the Mahanadi close; the desk's rule stands: every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup."),
  setup_chart1,
  setup_chart2,
- p(" The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%%, net +6.23%% after the 0.3%% cost convention - closed Friday at Rs 1,337.00. Infosys, resolved Wednesday by invalidation, no trade, no P&L, closed at Rs 1,096.40 (+0.54%%), holding above the 1,072.60 low it printed on the way down. Research, not advice; cash-only swing setups under Rs 1,500 a share; BSE official prints are the standard."),
+ p(" The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - closed Friday at Rs 1,337.00. Infosys, resolved Wednesday by invalidation, no trade, no P&L, closed at Rs 1,096.40 (+0.54%), holding above the 1,072.60 low it printed on the way down. Research, not advice; cash-only swing setups under Rs 1,500 a share; BSE official prints are the standard."),
 ]})
 
 groups.append({'heading': 'How the board scores', 'blocks': [board_rows]})
 
 groups.append({'heading': "The editor's read", 'blocks': [
  p(" Two regulators, one weekend, one trade. In Washington, the agency that polices disclosure is examining the books of the company the AI decade was built on. In Mumbai, the agency that polices India's markets is widening the door for the foreign money already arriving at a record pace - money that is, in part, the same trade seen from the other end. The correction and the record month are not two stories; they are one repricing with two addresses."),
- p(" Keep the probe in its box. The stock fell more than 6%% before the Reuters story existed - the tape's verdict on the week was already in - and everything established so far fits in one sentence: enforcement staff are looking at potential accounting issues. No charges, no findings, no named issues. The honest way to hold the story is the way this paper holds every early file: the probe is a question, and questions about accounting at the market's most important company are worth front-page space without being worth a verdict."),
+ p(" Keep the probe in its box. The stock fell more than 6% before the Reuters story existed - the tape's verdict on the week was already in - and everything established so far fits in one sentence: enforcement staff are looking at potential accounting issues. No charges, no findings, no named issues. The honest way to hold the story is the way this paper holds every early file: the probe is a question, and questions about accounting at the market's most important company are worth front-page space without being worth a verdict."),
  p(" The hedge is the tell. Foreign investors are buying Indian equities at a record pace and shorting index futures at the fastest rate in months - Rs 1.12 lakh crore of cash buying wrapped in 70,450 contracts of insurance. That is not the posture of money that believes the decoupling is permanent; it is the posture of money renting it. Monday's expiry session, after Asia's worst week since 2020, is the first honest test of how long the rental runs."),
  p(" What settles it: Wednesday's core PCE print for the inflation file, Friday's Black Friday tape for the consumer file, and the December calendar - the Fed on the 9th, the RBI on the 4th, Q2 GDP on the 30th - for the rate file. And for the probe file: nothing on a schedule, which is its own lesson. Filings, not headlines, will answer it."),
 ]})

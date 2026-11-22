@@ -147,7 +147,7 @@ for gi, g in enumerate(groups):
         elif t == 'rows':
             out.append('                <Rows>')
             for it in b['items']:
-                out.append('                    <Row n="%s" title="%s" detail="%s" />' % (it['n'], esc_jsx_text(it['title']).replace('"','&quot;'), esc_jsx_text(it['detail']).replace('"','&quot;')))
+                out.append('                    <Row number="%s" name="%s" detail="%s" />' % (it['n'], esc_jsx_text(it['title']).replace('"','&quot;'), esc_jsx_text(it['detail']).replace('"','&quot;')))
             out.append('                </Rows>')
         elif t == 'bullets':
             out.append('                <Bullets items={[')

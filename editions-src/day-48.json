@@ -6,8 +6,8 @@
     "longread": 48
   },
   "edition": {
-    "fact": "Edition 48. Sunday 22 November 2026. This edition runs 4,577 words. Two regulators spent Saturday at opposite ends of the AI trade: in Washington, the SEC's enforcement staff is examining potential accounting issues at Nvidia, the company at the center of the market's worst week since April; in Mumbai, SEBI's chairman laid out a five-day entry path for the foreign investors already buying Indian equities at a record pace. The long read: Nvidia - the company that bet on zero-billion-dollar markets.",
-    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: founded over breakfast at a Denny's in 1993, nearly dead in 1996, the inventor of the GPU and the company the AI decade crowned - now facing its first SEC probe. Thirty-three years of Nvidia.",
+    "fact": "Edition 48. Sunday 22 November 2026. This edition runs 4,576 words. Two regulators spent Saturday at opposite ends of the AI trade: in Washington, the SEC's enforcement staff is examining potential accounting issues at Nvidia, the company at the center of the market's worst week since April; in Mumbai, SEBI's chairman laid out a five-day entry path for the foreign investors already buying Indian equities at a record pace. The long read: Nvidia - the company that bet on zero-billion-dollar markets.",
+    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: founded over breakfast at a Denny's in 1993, nearly dead in 1996, the inventor of the GPU and the company the AI decade crowned - now facing an SEC probe. Thirty-three years of Nvidia.",
     "hero": {
       "img": "photos/d48-hero.jpg",
       "alt": "Abstract plate: a magnifying glass held over a glowing ledger, a red ticker ribbon falling behind it"
@@ -222,7 +222,7 @@
         "blocks": [
           {
             "t": "p",
-            "html": " Sunday's board is a carry-forward: no weekend session, so Friday's prices stay the live marks and Monday's expiry session is the next scored day. Friday left the long side's best session of the week on the tape - Kotak +3.08%% near the day's high, Hindalco +2.34%% reclaiming its zone, JSW Steel at its high for a second straight session - with no stop, no target, no invalidation, and no watchlist name newly clearing the published screen. Monday is the F&O expiry and the Mahanadi close; the desk's rule stands: every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup."
+            "html": " Sunday's board is a carry-forward: no weekend session, so Friday's prices stay the live marks and Monday's expiry session is the next scored day. Friday left the long side's best session of the week on the tape - Kotak +3.08% near the day's high, Hindalco +2.34% reclaiming its zone, JSW Steel at its high for a second straight session - with no stop, no target, no invalidation, and no watchlist name newly clearing the published screen. Monday is the F&O expiry and the Mahanadi close; the desk's rule stands: every published setup stays on the board until it completes (target hit) or fails (stop hit). Per-share prices on every line; the Rs 1,500 price cap screens what qualifies as a setup."
           },
           {
             "t": "chart",
@@ -234,7 +234,7 @@
           },
           {
             "t": "p",
-            "html": " The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%%, net +6.23%% after the 0.3%% cost convention - closed Friday at Rs 1,337.00. Infosys, resolved Wednesday by invalidation, no trade, no P&L, closed at Rs 1,096.40 (+0.54%%), holding above the 1,072.60 low it printed on the way down. Research, not advice; cash-only swing setups under Rs 1,500 a share; BSE official prints are the standard."
+            "html": " The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - closed Friday at Rs 1,337.00. Infosys, resolved Wednesday by invalidation, no trade, no P&L, closed at Rs 1,096.40 (+0.54%), holding above the 1,072.60 low it printed on the way down. Research, not advice; cash-only swing setups under Rs 1,500 a share; BSE official prints are the standard."
           }
         ]
       },
@@ -277,7 +277,7 @@
           },
           {
             "t": "p",
-            "html": " Keep the probe in its box. The stock fell more than 6%% before the Reuters story existed - the tape's verdict on the week was already in - and everything established so far fits in one sentence: enforcement staff are looking at potential accounting issues. No charges, no findings, no named issues. The honest way to hold the story is the way this paper holds every early file: the probe is a question, and questions about accounting at the market's most important company are worth front-page space without being worth a verdict."
+            "html": " Keep the probe in its box. The stock fell more than 6% before the Reuters story existed - the tape's verdict on the week was already in - and everything established so far fits in one sentence: enforcement staff are looking at potential accounting issues. No charges, no findings, no named issues. The honest way to hold the story is the way this paper holds every early file: the probe is a question, and questions about accounting at the market's most important company are worth front-page space without being worth a verdict."
           },
           {
             "t": "p",
