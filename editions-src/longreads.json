@@ -7305,18 +7305,147 @@
      },
      {
       "t": "p",
-      "html": " Which is the company the SEC is now examining. On Friday, Reuters reported that enforcement staff are scrutinizing potential accounting issues at Nvidia - which issues, opened when, whether they become a case, all unknown; the SEC declined comment and Nvidia did not respond. The stock closed the week at $125.53, down 13.8% on the day and 23% on the week - the sharpest weekly pullback in 18 years, 46% off the peak. On Tuesday's earnings call, interim CEO Colette Kress said the company is proud of supporting the AI industry and \"would be far more selective moving forward\" about AI financing deals. The scene to hold is the symmetry, not the verdict: a company that has twice stood weeks from death over accounting of a different kind - cash in, cash out, one tapeout - now answers questions about what its record revenues are made of. Investigations are not evidence of wrongdoing, and many close without action; what the filings say next is the story. The founders' own summary of the first thirty years is Malachowsky's: \"It feels like this overnight success was 30 years in the making\" (<a href=\"https://www.reuters.com/3fec1b0a85a0/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/\" target=\"_blank\" rel=\"noopener\">Reuters</a>; <a href=\"https://www.cnbc.com/2026/11/20/stock-market-today-live-updates.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>; <a href=\"https://www.theverge.com/news/2026/11/20/nvidia-stock-52-week-low\" target=\"_blank\" rel=\"noopener\">The Verge</a>)."
+      "html": " Which is the company the SEC is now examining. On Friday, Reuters reported that enforcement staff are scrutinizing potential accounting issues at Nvidia - which issues, opened when, whether they become a case, all unknown; the SEC declined comment and Nvidia did not respond. The stock closed the week at $125.53, down 14.0% on the day and 23% on the week - the sharpest weekly pullback in 18 years, 46% off the peak. On Tuesday's earnings call, interim CEO Colette Kress said the company is proud of supporting the AI industry and \"would be far more selective moving forward\" about AI financing deals. The scene to hold is the symmetry, not the verdict: a company that has twice stood weeks from death over accounting of a different kind - cash in, cash out, one tapeout - now answers questions about what its record revenues are made of. Investigations are not evidence of wrongdoing, and many close without action; what the filings say next is the story. The founders' own summary of the first thirty years is Malachowsky's: \"It feels like this overnight success was 30 years in the making\" (<a href=\"https://www.reuters.com/3fec1b0a85a0/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/\" target=\"_blank\" rel=\"noopener\">Reuters</a>; <a href=\"https://www.cnbc.com/2026/11/20/stock-market-today-live-updates.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>; <a href=\"https://www.theverge.com/news/2026/11/20/nvidia-stock-52-week-low\" target=\"_blank\" rel=\"noopener\">The Verge</a>)."
+     }
+    ]
+   }
+  ]
+ },
+ "49": {
+  "title": "Seven engineers and the model India exported",
+  "fact": "A Slow Burn long read, Monday 23 November 2026. India enters the week at a nine-month high while the global AI trade reprices - a decoupling with a longer pedigree than this cycle. Infosys was founded in a Pune apartment in 1981 on Rs 10,000 from Sudha Murty's emergency fund, nearly failed its 1993 IPO, and in 1999 became the first India-registered company to list on a US exchange. This is the build story.",
+  "thumb": "photos/lr49-hero.jpg",
+  "hero": {
+   "img": "photos/lr49-hero.jpg",
+   "alt": "Abstract plate: seven small lamps on a windowsill above a quiet street, their light pooling into a rising grid",
+   "caption": "Abstract plate for the long read - seven lamps in a Pune window."
+  },
+  "groups": [
+   {
+    "heading": "1. Deccan Gymkhana",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The money was hidden in plain sight. Every month, on her mother's advice, Sudha set aside a small portion of two salaries - hers from TELCO, where she was an engineer, and her husband's - without telling him. It was the emergency fund, not for saris, not for gold. By the spring of 1981 it held Rs 10,250. In April she handed Rs 10,000 of it to N.R. Narayana Murthy, and on 7 July 1981 he and six other engineers - Nandan Nilekani, S. Gopalakrishnan, S.D. Shibulal, K. Dinesh, N.S. Raghavan and Ashok Arora - founded Infosys in Pune (<a href=\"https://www.moneycontrol.com/news/trends/how-sudha-murty-became-an-angel-investor-in-infosys-with-a-loan-of-rs-10000-9770071.html\" target=\"_blank\" rel=\"noopener\">her account</a>; <a href=\"https://www.infosys.com/about/management-profiles/founders.html\" target=\"_blank\" rel=\"noopener\">the founders</a>)."
+     },
+     {
+      "t": "p",
+      "html": " The first headquarters was the Murthys' house near Deccan Gymkhana. \"For us, it was not just a brand or a company, but a thought to change India's future with software,\" Sudha Murty recalled four decades later. \"My husband and the other co-founders thought it is a legal and ethical way to become prosperous.\" The company's own history records the initial capital as US$250; the household ledger remembers it as the ten thousand rupees that were never supposed to be touched (<a href=\"https://www.theweek.in/magazine/theweek/business/2021/07/01/infosys-at-40-journey-of-the-it-giant.html\" target=\"_blank\" rel=\"noopener\">The Week</a>; <a href=\"https://www.infosys.com/about/history.html\" target=\"_blank\" rel=\"noopener\">the company's milestones</a>)."
+     },
+     {
+      "t": "p",
+      "html": " The first customer was in New York. Data Basics Corporation signed on early and stayed the only customer for a long time, and the work was modest: \"We were small then. The projects were also small,\" co-founder Kris Gopalakrishnan remembers (<a href=\"https://www.theweek.in/magazine/theweek/business/2021/07/01/infosys-at-40-journey-of-the-it-giant.html\" target=\"_blank\" rel=\"noopener\">The Week</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "2. Disks in the mail",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The product traveled by post. Infosys's early work for Data Basics was an enterprise resource planning package for apparel manufacturing, written in Pune and shipped to the United States on installation disks that took two weeks to arrive; the software was then installed and supported locally in America. That was the arrangement until a real communication link was set up in the late 1980s - the whole business, run at postal speed (<a href=\"https://www.theweek.in/magazine/theweek/business/2021/07/01/infosys-at-40-journey-of-the-it-giant.html\" target=\"_blank\" rel=\"noopener\">Gopalakrishnan's account</a>)."
+     },
+     {
+      "t": "p",
+      "html": " Everything else moved slower still. Importing a computer in license-raj India took multiple trips to Delhi. A telephone connection took years. Banks would not lend - software was not a business they recognized. \"On every count, we had lots of friction to do business during the first decade of the company,\" Sudha Murty said. \"Getting the first customer was very challenging. Brand India did not have a good image outside then. People were very sceptical about any software developed in India.\" The company moved its headquarters to Bangalore in 1983 and opened its first international office, in Boston, in 1987 (<a href=\"https://www.infosys.com/about/history.html\" target=\"_blank\" rel=\"noopener\">the milestones</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "3. The door marked no",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Sudha Murty was, in the phrase NDTV used to her face, the company's first angel investor - and when she asked to join it, her husband said no. \"Murthy believed that you should not be husband and wife company, it is not professional,\" she recalled. \"It was not easy, it was difficult, convincing the mind.\" She stayed at TELCO, ran the household, and the company's founding team stayed seven engineers and no spouses (<a href=\"https://www.ndtv.com/india-news/ndtv-dialogues-narayana-murthy-sudha-murthy-and-their-uncommon-story-full-transcript-4960337\" target=\"_blank\" rel=\"noopener\">the NDTV Dialogues transcript</a>)."
+     },
+     {
+      "t": "p",
+      "html": " Her own streak of refusal predated the company's. In 1974, as a young engineer from Hubli, she had answered a Telco advertisement that said lady students need not apply by writing to JRD Tata himself; the policy changed, and she was hired on merit. The emergency fund came from the same instinct: the rules were what you decided they were, as long as it was, in her words, legally and ethically right (<a href=\"https://www.ndtv.com/india-news/ndtv-dialogues-narayana-murthy-sudha-murthy-and-their-uncommon-story-full-transcript-4960337\" target=\"_blank\" rel=\"noopener\">the transcript</a>)."
+     },
+     {
+      "t": "figure",
+      "img": "photos/lr49-int1.jpg",
+      "alt": "Abstract plate: a floppy disk carried like a paper boat across an ocean of paper waves",
+      "caption": "Abstract plate - the software traveled by post."
+     }
+    ]
+   },
+   {
+    "heading": "4. Almost nobody wanted it",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " In February 1993, Infosys offered about 40% of its post-issue equity to the public at Rs 95 a share, an Rs 85 premium over face value, hoping to raise Rs 13 crore. The year before, its revenue had been Rs 8.66 crore, and the market - still shaking from the Harshad Mehta scam - decided the price was steep for a company that size. The issue teetered on the edge of undersubscription (<a href=\"https://www.cnbctv18.com/market/backstory-how-infosys-overcame-ipo-hiccups-to-scale-stock-market-peak-10307461.htm\" target=\"_blank\" rel=\"noopener\">the backstory</a>)."
+     },
+     {
+      "t": "p",
+      "html": " The rescue came from the underwriter. Vallabh Bhansali's Enam Securities, which had invested a small sum in the company the year before, picked up the unsubscribed portion and placed some of it onward; among the takers was Morgan Stanley, which took 13% of the equity - one of the smarter checks it ever wrote in India. Infosys listed on 14 June 1993 with a little over $5 million in annual revenue and fewer than 250 employees; the shares opened at Rs 145 and closed the first day at Rs 160 (<a href=\"https://www.cnbctv18.com/market/backstory-how-infosys-overcame-ipo-hiccups-to-scale-stock-market-peak-10307461.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>; <a href=\"https://www.livemint.com/Companies/j8ZjGzmJidiz8WanSt91RL/How-Infosys-became-the-darling-of-investors.html\" target=\"_blank\" rel=\"noopener\">Mint</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "5. A small step for Nasdaq",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Six years later, fireworks over Bangalore. On 11 March 1999, giant screens on a basketball court at the Electronics City campus beamed the opening bell from New York as Infosys's American depositary shares began trading on Nasdaq under the symbol INFY - the first India-registered company to list on a US exchange. The shares priced at $34, traded as high as $50 within two hours, and closed at $46.88, valuing the company above $2 billion (<a href=\"https://www.wired.com/1999/03/indian-firm-lists-on-nasdaq/\" target=\"_blank\" rel=\"noopener\">the Reuters account</a>)."
+     },
+     {
+      "t": "p",
+      "html": " \"This is a small step for Nasdaq but a giant leap for Infosys and the Indian software industry,\" Murthy said from New York. Nasdaq's president Al Berkley returned the compliment: \"Infosys perfectly fits with Nasdaq.\" Nandan Nilekani, who had carried the listing process, called it \"a long and arduous process\" and, to loud cheers, \"our own tryst with our destiny.\" NASSCOM's Dewang Mehta predicted ten more Indian listings within two years. The company's own release noted what it had pioneered: cross-border collaborative software development - the model that would soon have a name (<a href=\"https://www.wired.com/1999/03/indian-firm-lists-on-nasdaq/\" target=\"_blank\" rel=\"noopener\">Reuters</a>; <a href=\"https://www.ots.at/presseaussendung/OTS_19990311_OTS0264/infosys-technologies-limited-an-der-nasdaq-boerse-eingefuehrt-erste-boerseneinfuehrung-einer-in-indien-eingetragenen-firma-auf-einem-us-amerikanischen-markt\" target=\"_blank\" rel=\"noopener\">the company's release</a>)."
+     },
+     {
+      "t": "figure",
+      "img": "photos/lr49-int2.jpg",
+      "alt": "Abstract plate: a small paper boat riding a towering market wave toward fireworks on the horizon",
+      "caption": "Abstract plate - from a cold book to the Nasdaq bell."
+     }
+    ]
+   },
+   {
+    "heading": "6. Twenty-three months",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The milestones then stacked like this, in the company's own telling: revenues of $100 million touched in 1999, the year of the listing and of becoming the 21st company in the world to earn a CMM Level 5 certification; $200 million in 2000, the year Finacle got its name; and in 2006, its twenty-fifth year, 50,000 employees and $2 billion in annual revenue. It took twenty-three years to reach the first billion, and twenty-three months to reach the second (<a href=\"https://www.infosys.com/about/history.html\" target=\"_blank\" rel=\"noopener\">the milestones</a>)."
+     },
+     {
+      "t": "p",
+      "html": " What the model exported was not just code. The employee stock option plan, introduced in 1993, spread ownership down the org chart; the disclosure habits of the late 1990s became raw material for SEBI's corporate-governance norms; and a generation of Indian engineers watched seven middle-class founders with no powerful backing build a global company and concluded they could too. \"It showed Indians that a few ordinary people, with no powerful background and rather simple middle-class upbringing, can set up a great company and on a global scale,\" said Mohandas Pai, who joined six months after the IPO and rose to chief financial officer (<a href=\"https://www.livemint.com/Companies/j8ZjGzmJidiz8WanSt91RL/How-Infosys-became-the-darling-of-investors.html\" target=\"_blank\" rel=\"noopener\">Mint</a>)."
+     },
+     {
+      "t": "p",
+      "html": " In 2006 Murthy retired from executive service at sixty and stayed on as chairman and chief mentor - the first of several exits and one return, in 2013, when the board asked him back as executive chairman (<a href=\"https://www.infosys.com/about/history.html\" target=\"_blank\" rel=\"noopener\">the milestones</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "7. The ledger",
+    "blocks": [
+     {
+      "t": "figure",
+      "img": "photos/lr49-int3.jpg",
+      "alt": "Abstract plate: a server hall's receding lights merging into a city skyline at dawn",
+      "caption": "Abstract plate - the model, at scale."
+     },
+     {
+      "t": "p",
+      "html": " The company today lives at the scale the Pune house could not have imagined: $20.4 billion in trailing revenue, more than 332,000 employees, a listing that moved from Nasdaq to the New York Stock Exchange in 2012, and a delivery model - work produced where it is cheapest and best, consumed where it is paid for - that became the template for an entire Indian industry (<a href=\"https://www.infosys.com/about/history.html\" target=\"_blank\" rel=\"noopener\">the company's history</a>)."
+     },
+     {
+      "t": "p",
+      "html": " The arithmetic of the early believers is worth stating plainly. Rs 10,000 put into the 1993 IPO was worth about Rs 4 crore by 2018 (<a href=\"https://www.cnbctv18.com/information-technology/rs-10000-invested-in-1993-infosys-ipo-is-now-woth-rs-4-crore-130429.htm\" target=\"_blank\" rel=\"noopener\">the arithmetic</a>). The Rs 10,000 that started it all - the emergency fund that was never for emergencies like this one - Sudha Murty has since called her best investment. Both numbers are the same lesson: in a closed economy, seven engineers priced themselves against the world, and the world took forty years to agree with them. This week, with India holding a nine-month high while the global AI trade repriced, the ledger is still open."
      }
     ]
    }
   ],
   "audio": {
-   "full": "audio/lr48-full.m4a",
+   "full": "audio/lr49-full.m4a",
    "durations": {
-    "full": 706.24
+    "full": 573.16
    },
    "times": {
-    "full": "audio/lr48-full.times.json"
+    "full": "audio/lr49-full.times.json"
    }
   }
  }
