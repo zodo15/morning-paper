@@ -1,441 +1,363 @@
 {
-  "day": 49,
-  "meta": {
-    "date": "Monday 23 November 2026",
-    "short": "Mon 23 Nov",
-    "longread": 49
+ "day": 49,
+ "meta": {
+  "date": "Monday 23 November 2026",
+  "short": "Mon 23 Nov",
+  "longread": 49
+ },
+ "edition": {
+  "fact": "Edition 49. Monday 23 November 2026. This edition runs 4,485 words. The rebound and the exception: US futures point two to three percent higher after the worst week since April, Seoul's Kospi opened to a third straight leg down, and Tokyo is closed for Labor Thanksgiving Day. India enters at a nine-month high on an expiry day pulled forward by tomorrow's holiday - GIFT Nifty opened above the 26,000 resistance. The Treasury wants answers from Nvidia on China chip sales; Gemini 4 Neon published its price card; Mahanadi's book closes today. The long read is Infosys: seven engineers, Rs 10,000, and the model India exported.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: founded by seven engineers in a Pune apartment in 1981 on Rs 10,000 from a wife's emergency fund, nearly unsubscribed in 1993, the first India-registered company to list on a US exchange in 1999 - Infosys, the model India exported.",
+  "hero": {
+   "img": "photos/d49-hero.jpg",
+   "alt": "Abstract plate: a split horizon - one side rising green, one side falling red - with a clock face set to 9:15"
   },
-  "edition": {
-    "fact": "Edition 49. Monday 23 November 2026. This edition runs 4,485 words. The rebound and the exception: US futures point two to three percent higher after the worst week since April, Seoul's Kospi opened to a third straight leg down, and Tokyo is closed for Labor Thanksgiving Day. India enters at a nine-month high on an expiry day pulled forward by tomorrow's holiday - GIFT Nifty opened above the 26,000 resistance. The Treasury wants answers from Nvidia on China chip sales; Gemini 4 Neon published its price card; Mahanadi's book closes today. The long read is Infosys: seven engineers, Rs 10,000, and the model India exported.",
-    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: founded by seven engineers in a Pune apartment in 1981 on Rs 10,000 from a wife's emergency fund, nearly unsubscribed in 1993, the first India-registered company to list on a US exchange in 1999 - Infosys, the model India exported.",
-    "hero": {
-      "img": "photos/d49-hero.jpg",
-      "alt": "Abstract plate: a split horizon - one side rising green, one side falling red - with a clock face set to 9:15"
-    },
-    "groups": [
-      {
-        "heading": "The 5-minute lead route",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " The rebound and the exception. US index futures are pointing two to three percent higher after the worst week since April - S&P 500 futures up about 2.2%, Nasdaq 100 futures up about 2.8% in early Asian trade - but the early cash-market reading at dawn kept falling: Seoul's Kospi opened down 2.8% and was off about 2.4% half an hour in, a third straight leg lower after Friday's 5.2% plunge (<a href=\"https://en.yna.co.kr/view/AEN20261123001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>). Tokyo is closed for Labor Thanksgiving Day; Nikkei futures, which trade through the holiday, are up about 3.2%."
-          },
-          {
-            "t": "p",
-            "html": " Friday's prints, settled. S&P 500 6,910.39, down 3.7% on the day and through its 200-day moving average; Dow 48,147.33, down 1.9%; Nasdaq 100 25,028.98, down 5.6%; the VIX jumped 26% to 35.89. Confirmed closes - everything moving this morning is futures or a live foreign session, and the paper labels each as such."
-          },
-          {
-            "t": "p",
-            "html": " Bessent's demand. Treasury Secretary Scott Bessent says the US wants answers from Nvidia on its chip sales to China and who was in charge of compliance: \"we've been in touch with the temporary management, with the lead directors, with their lawyers, and we do need answers... we want to know what the culture was,\" he told CBS's Face the Nation (<a href=\"https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says\" target=\"_blank\" rel=\"noopener\">Reuters</a>)."
-          },
-          {
-            "t": "p",
-            "html": " Expiry Monday. The November F&O monthly expiry lands today, a day early - Indian exchanges are closed tomorrow for Guru Nanak Jayanti. The Nifty goes in at 25,801, a nine-month closing high, with foreign investors confirmed buyers of Rs 10,308 crore on Friday."
-          },
-          {
-            "t": "p",
-            "html": " The pre-open signal. GIFT Nifty's opening print was 26,202, above the 26,000 resistance the weekend's trade setups flagged; by 7:15 it was holding a gap-up of about 175 points near 25,975 (<a href=\"https://www.thehindubusinessline.com/markets/gift-nifty-signals-175-point-gap-up-open-for-indian-markets-despite-weak-global-cues/article71733203.ece\" target=\"_blank\" rel=\"noopener\">the levels</a>)."
-          },
-          {
-            "t": "p",
-            "html": " Mahanadi's last call. The Rs 8,981-crore Coal India arm closes its book today at 0.49 times subscribed after day two; the grey-market premium is down to Rs 0.70, from Rs 9.25 a week earlier."
-          },
-          {
-            "t": "p",
-            "html": " Google's price card. Gemini 4 Neon lands at $3 per million input tokens and $15 per million output, with a 95% discount on cached input and a million-token context - the cheapest frontier-class card Google has published, its benchmarks being its own claims (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the announcement</a>)."
-          },
-          {
-            "t": "p",
-            "html": " Today's calendar. S&P Global's flash PMIs; HPE and Agilent report in the US; Anthropic's third session tonight after Friday's -8.5% to $88.91."
-          },
-          {
-            "t": "p",
-            "html": " The long read: Infosys - seven engineers, Rs 10,000, and the model India exported. From a Pune apartment to the first India-registered listing on a US exchange."
-          }
-        ]
-      },
-      {
-        "heading": "Front page",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " Asia's split open. Three readings of the same morning: in the futures market, a rebound - S&P 500 futures up 2.2%, Nasdaq 100 futures up 2.8%, Nikkei December futures up 3.2% at about 56,180. In an early cash-market read, more damage - the Kospi opened down 2.8% at 4,734.9 and was changing hands near 4,756, down 2.4%, at half past the hour (<a href=\"https://en.yna.co.kr/view/AEN20261123001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>). And in Tokyo, silence - the cash market is closed for Labor Thanksgiving Day, with only derivatives trading through (<a href=\"https://www.jpx.co.jp/english/corporate/about-jpx/calendar/index.html\" target=\"_blank\" rel=\"noopener\">JPX</a>). Futures are indications, not verdicts; the first confirmed Asian close of the week is Seoul's."
-          },
-          {
-            "t": "p",
-            "html": " What Friday settled. The S&P 500 closed at 6,910.39, down 3.7% - a correction, more than 10% under the 6 October record, and the worst week since April. The Dow fell 1.9% to 48,147.33; the Nasdaq 100 dropped 5.6% to 25,028.98; the VIX jumped 26% to 35.89 (<a href=\"https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative\" target=\"_blank\" rel=\"noopener\">AP's close wire</a>). Chips led the damage - Micron -13.9%, Nvidia -14.0%, AMD -13.3%, Broadcom -12.1% - and Anthropic's second session ended at $88.91, down 8.5%, on Nasdaq's official record. The week's full accounting, carried from Ed48: the Nasdaq lost 10% on the week, its worst since the Covid crash of 2020; Nvidia fell 23% on the week, its sharpest weekly pullback in 18 years, taking its seven-week slide to 46%; the S&P's seven straight daily losses are its longest streak since 2020."
-          },
-          {
-            "t": "p",
-            "html": " Bessent, on the record. The Treasury wants answers from Nvidia about its chip sales to China, Scott Bessent said on Sunday, and will find out who was in charge of compliance at the company. \"We've been in touch with the temporary management, with the lead directors, with their lawyers, and we do need answers,\" he told Face the Nation. \"It behoves Nvidia to move quickly on this because we want to know what the culture was\" (<a href=\"https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says\" target=\"_blank\" rel=\"noopener\">Reuters</a>). The question lands on a documented scale: Commerce has approved sales of more than 879,000 AI chips to China, per Congressman Mast's committee (<a href=\"https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Bessent said Friday that no further export restrictions are needed; Sunday's demand was for answers, not new rules."
-          },
-          {
-            "t": "p",
-            "html": " The decoupling's test at 9:15. India enters the morning with a nine-month closing high (25,801), a confirmed Rs 10,308 crore of foreign buying on Friday, a pre-open that printed above resistance - GIFT Nifty opened at 26,202 - and a monthly expiry compressed into today by tomorrow's holiday. The weekend setups frame it cleanly: resistance at 26,000, then the retest of the 26,373 record; supports at 25,500 and 25,300 (<a href=\"https://www.moneycontrol.com/news/business/markets/trade-setup-for-november-23-top-15-things-to-know-before-the-opening-bell-ahead-of-f-o-expiry-14086687.html\" target=\"_blank\" rel=\"noopener\">moneycontrol's trade setup</a>). Those are analysts' levels, not promises."
-          },
-          {
-            "t": "p",
-            "html": " Mahanadi's cold close. The Coal India arm's Rs 8,981.12-crore offer - Rs 129 to 136 a share - shut day two at 0.49 times subscribed (QIBs ex-anchor 1.37, retail 0.25, non-institutional 0.18), (<a href=\"https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-2\" target=\"_blank\" rel=\"noopener\">the day-two tally</a>), and the grey-market premium fell to Rs 0.70 by the weekend, from Rs 9.25 a week earlier (<a href=\"https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html\" target=\"_blank\" rel=\"noopener\">Mint</a>). The book closes today; allotment is tentatively Wednesday, listing tentatively Friday."
-          },
-          {
-            "t": "p",
-            "html": " The Neon card. Google's Gemini 4 Neon is priced at $3 per million input tokens - 15 cents cached, a 95% discount - and $15 per million output, with a million-token context window, rolling out through the Gemini API in AI Studio, Gemini for business, Antigravity for paid Pro and Ultra tiers, and the Gemini app (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">Google's post</a>; <a href=\"https://deepmind.google/models/model-cards/gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">model card</a>). The benchmarks are Google's own claims and are labeled as such where this paper cites them."
-          },
-          {
-            "t": "p",
-            "html": " Two cheques for the applied end. Isomorphic Labs, DeepMind's drug-design sister, raised a $5 billion Series C led by Sequoia and Greenoaks to push candidates into clinical trials (<a href=\"https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round\" target=\"_blank\" rel=\"noopener\">the company's post</a>). Unsiloed AI, founded by IIT-Kharagpur alumni Aman Mishra and Adnan Abbas, raised $7.5 million led by Felicis to make enterprise documents computable by AI agents (<a href=\"https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>)."
-          },
-          {
-            "t": "p",
-            "html": " The day's clock. S&P Global's flash PMIs for November print through the day; HPE and Agilent report after the US close; Anthropic trades its third session tonight. Asia's open framed the stakes: markets are bracing for volatility after Anthropic's record IPO tested the AI trade (<a href=\"https://www.financeasia.com/article/apac-markets-brace-for-volatility-after-anthropics-record-ipo-tests-ai-trade/508748\" target=\"_blank\" rel=\"noopener\">FinanceAsia</a>)."
-          }
-        ]
-      },
-      {
-        "heading": "Markets",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " Settled, then moving. Confirmed closes: S&P 500 6,910.39 (-3.7%), Dow 48,147.33 (-1.9%), Nasdaq 100 25,028.98 (-5.6%), VIX 35.89 (+26%), Nifty 25,801 (a nine-month high). Moving this morning, and labeled as such: US futures up 2-3% off Friday's futures settle; Kospi -2.4% live; Nikkei futures +3.2% with Tokyo's cash market shut; ASX +0.6%."
-          },
-          {
-            "t": "p",
-            "html": " The week that was, for the ledger. The Nasdaq's 10% weekly fall is its worst since 2020; the S&P closed under its 200-day moving average for the first time since April; the VIX spent its first session above 30 since March; and the AI complex's repricing hit the chip names hardest - Micron's -13.9% Friday was the single-session extreme. Positioning, per the weekend reads, is washed out by several measures - the S&P's RSI under 30, the index 11.6% under its 6 October record, and the Nasdaq Composite's gain for the year erased. Washed-out positioning is what makes a 2% futures pop possible; it is not, by itself, a bottom."
-          },
-          {
-            "t": "p",
-            "html": " Seoul, in detail. Friday's 5.21% plunge took the Kospi below 5,000 to its lowest close in about ten months, and Monday's open extended the fall another 2.8% to 4,734.9 before the selling steadied; by half past the hour the index was at 4,755.72, down 2.35%, with 24 million shares through the tape (<a href=\"https://en.yna.co.kr/view/AEN20261123001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>). The stated drivers: Wall Street's losses and concern that tighter US export restrictions could reach AMD's China business after Nvidia's. Korea matters to the India reader because it is the region's purest chip-cycle proxy - when Seoul falls three straight days, the global AI trade is being repriced, not rotated."
-          },
-          {
-            "t": "p",
-            "html": " The commodity tape at the open. Gold's December contract traded at $3,603, up 2.5% - the haven bid strengthening through the rebound; silver added 2.3% to $42.03. Oil steadied: WTI's January contract at $83.26, down 0.2%, and Brent at $89.79, down 0.2% - investing.com's quote has rolled to the February contract, against Friday's $92.57 December settle, so the two prints are not directly comparable. Natural gas fell 3.5%. All quotes are ten-minute-delayed indications, not settles."
-          },
-          {
-            "t": "p",
-            "html": " What could move it next. The flash PMIs are the day's first hard data; HPE and Agilent report tonight; then the truncated US week - core PCE Wednesday, Thanksgiving Thursday, a 1 PM close Friday (<a href=\"https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html\" target=\"_blank\" rel=\"noopener\">the calendar</a>). For Mumbai, the morning is its own event: an expiry session digesting Asia's mixed open, with 26,000 overhead and 25,500 below."
-          }
-        ]
-      },
-      {
-        "heading": "IPOs",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " Mahanadi Coalfields, final day. The Rs 8,981.12-crore book (Rs 129-136) stood at 0.49 times subscribed after day two - QIBs ex-anchor 1.37 times, retail 0.25, non-institutional 0.18 (<a href=\"https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-2\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>) - with the grey-market premium down to Rs 0.70, from Rs 9.25 a week earlier (<a href=\"https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html\" target=\"_blank\" rel=\"noopener\">Mint</a>). Day-three numbers will land through the session; the book closes today, allotment is tentatively Wednesday and listing tentatively Friday. A thin book into a holiday-shortened week is a test of what the primary market will absorb while the secondary one rallies; day-three subscriptions, when they print, will say whether institutions stepped in at the close, as they often do, or left the book where retail left it."
-          },
-          {
-            "t": "p",
-            "html": " The pipeline, carried. SEBI's observations for Arohan Financial Services (a Rs 600-crore fresh issue plus a 4.04-crore-share offer for sale) and Pristine Logistics & Infraprojects stand as reported in Ed48. Nothing new entered observation over the weekend that this paper could verify at an owning source."
-          }
-        ]
-      },
-      {
-        "heading": "Top movers - Friday's board stands",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " No new prints since Friday's close, so the board below remains the live verdict going into today's expiry session (percentages computed from BSE's official closes against Thursday):"
-          },
-          {
-            "t": "chart",
-            "svg": "<svg viewBox=\"0 0 760 510\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Friday 20 Nov (% vs Thursday close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Oberoi Realty</text><rect x=\"300\" y=\"30\" width=\"88.6\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"396.6\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.11%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Godrej Properties</text><rect x=\"300\" y=\"78\" width=\"79.8\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"387.8\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.90%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Prestige Estates</text><rect x=\"300\" y=\"126\" width=\"48.3\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"356.3\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.15%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Wipro</text><rect x=\"300\" y=\"174\" width=\"25.2\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"333.2\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.60%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Eicher Motors</text><rect x=\"300\" y=\"222\" width=\"18.9\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"326.9\" y=\"241\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.45%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">Adani Enterprises</text><rect x=\"300\" y=\"270\" width=\"18.5\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"326.5\" y=\"289\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.44%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"300\" y=\"318\" width=\"17.2\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"325.2\" y=\"337\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.41%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">Tata Communications</text><rect x=\"300\" y=\"366\" width=\"2\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"310\" y=\"385\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">flat</text><text x=\"8\" y=\"431\" font-size=\"21\" fill=\"#334155\">Oil India</text><rect x=\"237.8\" y=\"414\" width=\"62.2\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"229.8\" y=\"433\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.48%</text><text x=\"8\" y=\"479\" font-size=\"21\" fill=\"#334155\">Ashok Leyland</text><rect x=\"234.1\" y=\"462\" width=\"65.9\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"226.1\" y=\"481\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.57%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Leaders and laggards among the large names this paper tracks, Friday 20 Nov (% vs Thursday's close), BSE official prints.</p>"
-          },
-          {
-            "t": "p",
-            "html": " What moves it next: today's session is the November expiry and the first full digest of Asia's split open - Seoul's third leg down against a two-to-three-percent futures rebound. GIFT Nifty's print above 26,000 says the open leans firm; whether the foreign buying that carried last week shows up at 9:15 is the question the board answers tonight."
-          }
-        ]
-      },
-      {
-        "heading": "Corporate actions",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " Today's line: Pashupati Cotspin trades ex-interim. The week's remainder, per upstox's compilation and carried from Ed48: Wednesday is Zee Entertainment's buyback record date - up to Rs 600 crore at Rs 91 a share - plus rights issues from Bonlon Industries, Indergiri Finance and Vellora Impact; Friday brings Fusion CX's final dividend and Varvee Global's stock split, Rs 5 to Rs 2. Exchanges are closed tomorrow, so anything dated Tuesday shifts in practice; the record date is the line that decides whose shares qualify. One housekeeping note for the holiday: with exchanges shut tomorrow, today is effectively the last trading day of the settlement week - positions that need the exchange open have to be squared today or held through to Wednesday."
-          }
-        ]
-      },
-      {
-        "heading": "Finance Goldmine",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " The IPO almost nobody wanted. In February 1993, a Bangalore software firm with Rs 8.66 crore in annual revenue offered about 40% of itself at Rs 95 a share - an Rs 85 premium investors balked at, in a market still reeling from the Harshad Mehta scam. The Rs 13-crore issue teetered on undersubscription until its underwriter, Vallabh Bhansali's Enam Securities, absorbed the unsold portion and placed some of it with Morgan Stanley, which took 13% of the company. Infosys listed on 14 June 1993, opened at Rs 145 and closed day one at Rs 160 (<a href=\"https://www.cnbctv18.com/market/backstory-how-infosys-overcame-ipo-hiccups-to-scale-stock-market-peak-10307461.htm\" target=\"_blank\" rel=\"noopener\">the backstory</a>)."
-          },
-          {
-            "t": "p",
-            "html": " Six years later, the fireworks: on 11 March 1999 the same company became the first India-registered firm to list on a US exchange, and Rs 10,000 in that 1993 IPO compounded to about Rs 4 crore by 2018, dividends and bonuses doing the compounding. Today's long read tells the whole arc."
-          },
-          {
-            "t": "p",
-            "html": " One term worth owning: the grey market premium - GMP - the unofficial price at which IPO shares change hands before listing, quoted as rupees over the issue price. Nothing about it is regulated: no exchange, no settlement guarantee, no obligation behind the quote, and the premium routinely evaporates between the close of the book and the open of trading. Its one honest use is as a sentiment thermometer. Mahanadi Coalfields illustrates the reading: a GMP down to Rs 0.70 by the weekend, from Rs 9.25 a week earlier, is the market's way of saying it expects a listing near the Rs 136 cap - a cold reading for a book that was 0.49 times subscribed after two days (<a href=\"https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html\" target=\"_blank\" rel=\"noopener\">Mint</a>; <a href=\"https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-2\" target=\"_blank\" rel=\"noopener\">the tally</a>)."
-          }
-        ]
-      },
-      {
-        "heading": "Startup Intelligence",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " The week's biggest cheque went to molecules. Isomorphic Labs' $5 billion Series C, led by Sequoia and Greenoaks, is one of the largest private rounds ever raised in Europe - the money is earmarked to take AI-designed drug candidates into clinical trials (<a href=\"https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round\" target=\"_blank\" rel=\"noopener\">the company's post</a>). At the other end of the ticket scale, Unsiloed AI's $7.5 million seed, led by Felicis, funds a quieter thesis: enterprise documents - PDFs, scans, tables - made computable so agents can actually use them (<a href=\"https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>)."
-          },
-          {
-            "t": "p",
-            "html": " What computable means. Unsiloed's wedge is the gap between a PDF and an answer: enterprise documents carry the numbers agents need - contracts, statements, tables - in shapes models cannot reliably read, and the founders, IIT-Kharagpur alumni Aman Mishra and Adnan Abbas, are building the layer that turns those shapes into structured, queryable data (<a href=\"https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>). Felicis led the $7.5 million seed. Note the symmetry with today's idea below."
-          },
-          {
-            "t": "p",
-            "html": " Today's startup idea: the compliance-evidence room. The US Treasury is publicly demanding to know who was in charge of export compliance at the world's most valuable chip company, after Commerce approved more than 879,000 AI chips for China. Every distributor, reseller and cloud provider in that chain now needs a documented, auditable answer to the same question - where did each chip go, and who signed off. A service that collects shipping records, end-user certificates and license paperwork into one evidence room, mapped to the rule of the week, sells to every name in the chain. Tools: a document-intake pipeline (Unsiloed's category), a rules database, an audit trail. Access is the moat - the customers are few, large and frightened. The wedge is that the rulebook keeps moving: Bessent said Friday that no further restrictions are needed, and by Sunday the demand was for answers - the gap between those two sentences is where a compliance product lives."
-          },
-          {
-            "t": "p",
-            "html": " The context to hold. Both cheques land in the same week the AI trade corrected - capital is not leaving AI, it is moving down the stack, from model exposure to the companies that use models on physical and paperwork problems. That is where this paper's idea file keeps pointing."
-          }
-        ]
-      },
-      {
-        "heading": "AI Race",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " Google's cheapest frontier card. Gemini 4 Neon's published card: $3 per million input tokens, $0.15 cached, $15 per million output, a million-token context. Google's claims, attributed: third on the AA Intelligence Index at 61 in xhigh mode, second on the Vals index, first on the AA Coding Agent Index at 58.6, 65.2% on Terminal-Bench 4.1, and 32% lower cost per task than Carbon at default high in its own Antigravity testing (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the announcement</a>; <a href=\"https://deepmind.google/models/model-cards/gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the model card</a>). The claims are Google's; the price is the market's business. The context that makes the card aggressive: Anthropic's record IPO just tested what public markets will pay for the AI buildout, and Google's answer is to undercut on tokens while it still owns the chips, the cloud and the app."
-          },
-          {
-            "t": "p",
-            "html": " The IPO that tested the trade. Anthropic's record listing priced into the middle of the AI selloff and lost 8.5% in its second session, to $88.91 on Nasdaq's official record; the first initiations split - Seaport at neutral, William Blair at outperform (<a href=\"https://www.cnbc.com/2026/11/20/fridays-biggest-analyst-calls-like-anthropic.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Asia's markets opened the week still repricing it (<a href=\"https://www.financeasia.com/article/apac-markets-brace-for-volatility-after-anthropics-record-ipo-tests-ai-trade/508748\" target=\"_blank\" rel=\"noopener\">FinanceAsia</a>). Session three is tonight."
-          }
-        ]
-      },
-      {
-        "heading": "Vibe coding",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " Neon in the editor. The practical door into Gemini 4 Neon for builders is Antigravity, Google's agentic coding environment, where it rolls out to paid Pro and Ultra tiers - Google claims the lowest fabrication rate it has measured in internal Antigravity testing and a 39.0% score on its SWE-sweep benchmark there (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">Google</a>). The claim that matters to a working session is the boring one: a million tokens of context means the repo, the logs and the spec fit in one window, and cached input at 15 cents per million tokens makes re-reading them nearly free. Availability is tiered - Antigravity gets Neon on paid Pro and Ultra plans, the Gemini app on the same tiers, and everyone else through the API in AI Studio - so the practical on-ramp for a non-paying builder is the API, not the editor."
-          }
-        ]
-      },
-      {
-        "heading": "Try this today (Monday)",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " Price your own workload. Open the Gemini API in AI Studio - free tier available with usage caps, paid tiers above it - and run a real task against Gemini 4 Neon: a long document summary, a code review, a data extraction. Then do the arithmetic with the published card: input tokens times $3 per million, output times $15, cached reads at $0.15 (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the price card</a>). Compare the number against what the same task costs you on the model you used last week. Ten minutes, one honest number, and the price war stops being a headline."
-          },
-          {
-            "t": "p",
-            "html": " Then read one owning document. When tonight's US session opens, watch Anthropic's third day of trading - then read the company's own investor page rather than a summary of it. The drill this paper runs every day: wire first, owner second, opinion last."
-          }
-        ]
-      },
-      {
-        "heading": "One concept: the disposition effect",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " The disposition effect - why we sell winners and keep losers. In 1985 the economists Hersh Shefrin and Meir Statman gave a name to one of the most reliable patterns in investing behaviour: people sell investments that have risen too early and hold on to those that have fallen, waiting to get back to even. Terrance Odean later confirmed it in the trading records of 10,000 households at a US brokerage: investors sold their winners at a clearly higher rate than their losers, and the winners they sold went on to beat the losers they kept. The mechanism is not arithmetic but pride and regret - selling a loser means admitting the mistake, so the account keeps the mistake and banks the compliment. It shows up far beyond stocks: people stay in jobs, and founders in products, long past the evidence, because quitting writes the loss down. A week like this one makes it concrete - a market that has fallen for weeks tempts every holder to wait for back-to-even instead of asking the cleaner question: would I buy this today? If the answer is no, holding is a fresh decision, not patience. The fix the research suggests is mechanical: set exit rules before you enter, and review what you hold as if you did not own it."
-          }
-        ]
-      },
-      {
-        "heading": "Setup board",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " Monday's board is a carry-forward into the expiry: no session since Friday, so Friday's BSE prints stay the live marks and today is the next scored day. Friday left the long side's best session of the week on the tape - Kotak +3.08% near the day's high, Hindalco +2.34% reclaiming its zone, JSW Steel at its high for a second straight session - with no stop, no target, no invalidation, and no watchlist name newly clearing the published screen. Today's complication is mechanical: an expiry session after Asia's mixed open, with the index entering at a nine-month high."
-          },
-          {
-            "t": "chart",
-            "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines after Friday's session (BSE official closes): <b>Kotak Mahindra Bank</b> 516.00 (+3.08%) - trigger holds, 19th session above 437.55 (day's low 499.00, closed a hair under the high 516.45); stop far away at 420. <b>ONGC</b> 223.50 (-0.45%) - seventh session below the 228 breakout line; coil floor 218.50 intact (day's low 222.00). <b>JSW Steel</b> 1,340.00 (+0.45%, closed at the high) - about 30 points from the 1,370 target, but risk-reward at worst fill stays around 0.17 to 1 against the 1,158.95 floor: fails the screen. <b>Hindalco</b> 930.30 (+2.34%, near the high 932.50 after dipping to 894.25) - a decisive reclaim of the 911-912 zone; still no verified entry zone against longer history. <b>Shelved:</b> Voltas 1,230.00 (-0.40%) - Thursday's surge faded, the rejection stands; Tech Mahindra 1,742.00 (+1.10%) stays above the 1,500 cap.</p>"
-          },
-          {
-            "t": "chart",
-            "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Friday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"300.0\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"300.0\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">223.50</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC's coil: floor 218.50, top 238.75; Friday's close 223.50, seventh session under the 228 breakout line.</p>"
-          },
-          {
-            "t": "p",
-            "html": " The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - closed Friday at Rs 1,337.00. Infosys, resolved Wednesday by invalidation, no trade, no P&L, closed at Rs 1,096.40 (+0.54%). The index frame for the day, from the weekend's setups: resistance 26,000, then the 26,373 record; supports 25,500 and 25,300 - analysts' levels, attributed, not this paper's calls (<a href=\"https://www.moneycontrol.com/news/business/markets/trade-setup-for-november-23-top-15-things-to-know-before-the-opening-bell-ahead-of-f-o-expiry-14086687.html\" target=\"_blank\" rel=\"noopener\">the setup</a>). Research, not advice; cash-only swing setups under Rs 1,500 a share; BSE official prints settle every argument."
-          }
-        ]
-      },
-      {
-        "heading": "How the board scores",
-        "blocks": [
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "1",
-                "title": "No prior-day stop trade",
-                "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry."
-              },
-              {
-                "n": "2",
-                "title": "Worst fill in the zone",
-                "detail": "Entry is assumed at the worst price inside the published zone, not the best."
-              },
-              {
-                "n": "3",
-                "title": "R:R on the worst fill",
-                "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board."
-              },
-              {
-                "n": "4",
-                "title": "Resolution only",
-                "detail": "A line leaves the board only by stop, target or invalidation - never by opinion."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "The editor's read",
-        "blocks": [
-          {
-            "t": "p",
-            "html": " The rebound and the exception. Futures say the worst week since April ended Friday; Seoul's cash market, the early reading at dawn, says it did not. Both readings are honest, and only one is a settled fact. The habit this paper keeps recommending applies with double force on a morning like this: futures are opinions about the open, closes are the record of it, and confusing the two is how routs get called off early."
-          },
-          {
-            "t": "p",
-            "html": " India walks into that argument at a nine-month high, on an expiry day, with a holiday tomorrow. The foreign money that bought all five of last week's sessions - Rs 32,600 crore of it - is hedged with an index-futures short that has grown to about 70,450 contracts from 55,900 a week earlier, a posture of renting the decoupling rather than believing it (<a href=\"https://economictimes.indiatimes.com/markets/stocks/news/fiis-go-big-on-indian-equities-pump-over-rs-1-10-lakh-crore-in-november-what-comes-next/articleshow/136048685.cms\" target=\"_blank\" rel=\"noopener\">the flows</a>). GIFT Nifty opened above the 26,000 resistance this morning; what happens between 9:15 and the expiry bell prices the rental."
-          },
-          {
-            "t": "p",
-            "html": " Watch the haven, not the bounce. Gold was up 2.5% at press time even as equity futures rebounded - the insurance bid did not unwind when the rally cry went out. When gold and equity futures rise together after a rout, the market is pricing a bounce in stocks and keeping the hedge on everything else. That is a truer read of conviction than the futures tape alone."
-          },
-          {
-            "t": "p",
-            "html": " The mechanics deserve respect too. An expiry day compresses a month of positioning into one settlement, and it does so today with half the region's read still missing - Tokyo shut, Hong Kong's cash open barely begun when this paper went to press, and the US cash session fourteen hours away. The index can be bent by the ledger in either direction; the bend says nothing about Tuesday night, when Mumbai reopens into whatever New York and Anthropic's third session have settled."
-          },
-          {
-            "t": "p",
-            "html": " And in Washington, the AI trade's central company received a public demand for answers about who minded its compliance. Nothing about Sunday's interview changes a rule or files a charge; what it changes is the burden of proof, which now sits with the company that spent two years setting the market's direction. Filings, not headlines, will settle that file too."
-          },
-          {
-            "t": "p",
-            "html": " What settles the week: Anthropic's third session tonight, after a -8.5% second day to $88.91. The Nvidia compliance file - answers demanded, none on a schedule. Mahanadi's allotment Wednesday and listing Friday, both tentative. India's exchanges dark tomorrow; the US goes Thanksgiving-short Thursday and Friday. And the December calendar is already in the frame: the RBI on the 4th, the Fed on the 9th."
-          }
-        ]
-      },
-      {
-        "heading": "The week ahead",
-        "blocks": [
-          {
-            "t": "rows",
-            "items": [
-              {
-                "n": "1",
-                "title": "Mon 23 Nov",
-                "detail": "November F&O monthly expiry, pulled a day early; Mahanadi Coalfields' book closes (0.49 times after day two); S&P Global flash PMIs; HPE and Agilent report in the US; Anthropic's third session after a -8.5% second day."
-              },
-              {
-                "n": "2",
-                "title": "Tue 24 Nov",
-                "detail": "Indian exchanges closed for Prakash Gurpurb Sri Guru Nanak Dev. US: ADP weekly, Consumer Confidence, FHFA house prices; Dell, HP, Workday, Best Buy and Analog Devices report."
-              },
-              {
-                "n": "3",
-                "title": "Wed 25 Nov",
-                "detail": "October core PCE, personal income, Q3 GDP second estimate, durables and claims in the US; Mahanadi allotment (tentative); Zee's Rs 600-crore buyback record date."
-              },
-              {
-                "n": "4",
-                "title": "Thu 26 - Fri 27 Nov",
-                "detail": "NYSE closed Thursday for Thanksgiving; Friday is a 1:00 PM ET close with Black Friday as the consumer test - Oxford Economics sees holiday sales up 4.2%; Mahanadi lists Friday (tentative)."
-              },
-              {
-                "n": "5",
-                "title": "Watching",
-                "detail": "Q2 GDP on 30 November; the RBI's MPC on 4 December; the Fed on 9 December; whatever Nvidia files next for what the probe-era disclosures say; Anthropic's first full week."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Notes on this edition",
-        "blocks": [
-          {
-            "t": "bullets",
-            "items": [
-              "Sources read for this edition: Yonhap for Seoul's open; Reuters (via SCMP) for the Bessent interview, with only his on-record words carried; investing.com for futures, commodities and GIFT Nifty indications (ten-minute delayed, labeled as such); JPX for Tokyo's holiday; moneycontrol's trade setup for the Nifty levels, attributed as analyst views, and The Hindu BusinessLine for the GIFT Nifty gap-up; HDFC Sky for the Mahanadi tally and Mint for its grey-market premium; Google's own post and model card for Gemini 4 Neon, claims attributed; the companies' own posts and TechCrunch for the cheques; CNBC for the chip-sales tally and the US calendar; AP's close wire (via NPR) for Friday's prints; FinanceAsia for the regional frame. Research, not advice.",
-              "Futures quotes in this edition are measured against Friday's futures settlement and are indications, not confirmed closes; the confirmed closes are stated separately. Brent quotes are the February contract - investing.com's quote has rolled forward from Friday's December print, while ICE keeps the January contract trading until 30 November - so the two prints are not directly comparable.",
-              "No BSE/NSE quote was fetched at source; exchange prints referenced are from settled weekend records."
-            ]
-          },
-          {
-            "t": "closing",
-            "html": " That's the paper for Monday. Tonight brings Anthropic's third session; tomorrow Mumbai rests for Guru Nanak Jayanti, and Wednesday the allotment lands. See you tomorrow."
-          }
-        ]
-      }
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The rebound and the exception. US index futures are pointing two to three percent higher after the worst week since April - S&P 500 futures up about 2.2%, Nasdaq 100 futures up about 2.8% in early Asian trade - but the early cash-market reading at dawn kept falling: Seoul's Kospi opened down 2.8% and was off about 2.4% half an hour in, a third straight leg lower after Friday's 5.2% plunge (<a href=\"https://en.yna.co.kr/view/AEN20261123001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>). Tokyo is closed for Labor Thanksgiving Day; Nikkei futures, which trade through the holiday, are up about 3.2%."
+     },
+     {
+      "t": "p",
+      "html": " Friday's prints, settled. S&P 500 6,910.39, down 3.7% on the day and through its 200-day moving average; Dow 48,147.33, down 1.9%; Nasdaq 100 25,028.98, down 5.6%; the VIX jumped 26% to 35.89. Confirmed closes - everything moving this morning is futures or a live foreign session, and the paper labels each as such."
+     },
+     {
+      "t": "p",
+      "html": " Bessent's demand. Treasury Secretary Scott Bessent says the US wants answers from Nvidia on its chip sales to China and who was in charge of compliance: \"we've been in touch with the temporary management, with the lead directors, with their lawyers, and we do need answers... we want to know what the culture was,\" he told CBS's Face the Nation (<a href=\"https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says\" target=\"_blank\" rel=\"noopener\">Reuters</a>)."
+     },
+     {
+      "t": "p",
+      "html": " Expiry Monday. The November F&O monthly expiry lands today, a day early - Indian exchanges are closed tomorrow for Guru Nanak Jayanti. The Nifty goes in at 25,801, a nine-month closing high, with foreign investors confirmed buyers of Rs 10,308 crore on Friday."
+     },
+     {
+      "t": "p",
+      "html": " The pre-open signal. GIFT Nifty's opening print was 26,202, above the 26,000 resistance the weekend's trade setups flagged; by 7:15 it was holding a gap-up of about 175 points near 25,975 (<a href=\"https://www.thehindubusinessline.com/markets/gift-nifty-signals-175-point-gap-up-open-for-indian-markets-despite-weak-global-cues/article71733203.ece\" target=\"_blank\" rel=\"noopener\">the levels</a>)."
+     },
+     {
+      "t": "p",
+      "html": " Mahanadi's last call. The Rs 8,981-crore Coal India arm closes its book today at 0.49 times subscribed after day two; the grey-market premium is down to Rs 0.70, from Rs 9.25 a week earlier."
+     },
+     {
+      "t": "p",
+      "html": " Google's price card. Gemini 4 Neon lands at $3 per million input tokens and $15 per million output, with a 95% discount on cached input and a million-token context - the cheapest frontier-class card Google has published, its benchmarks being its own claims (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the announcement</a>)."
+     },
+     {
+      "t": "p",
+      "html": " Today's calendar. S&P Global's flash PMIs; HPE and Agilent report in the US; Anthropic's third session tonight after Friday's -8.5% to $88.91."
+     },
+     {
+      "t": "p",
+      "html": " The long read: Infosys - seven engineers, Rs 10,000, and the model India exported. From a Pune apartment to the first India-registered listing on a US exchange."
+     }
     ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Asia's split open. Three readings of the same morning: in the futures market, a rebound - S&P 500 futures up 2.2%, Nasdaq 100 futures up 2.8%, Nikkei December futures up 3.2% at about 56,180. In an early cash-market read, more damage - the Kospi opened down 2.8% at 4,734.9 and was changing hands near 4,756, down 2.4%, at half past the hour (<a href=\"https://en.yna.co.kr/view/AEN20261123001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>). And in Tokyo, silence - the cash market is closed for Labor Thanksgiving Day, with only derivatives trading through (<a href=\"https://www.jpx.co.jp/english/corporate/about-jpx/calendar/index.html\" target=\"_blank\" rel=\"noopener\">JPX</a>). Futures are indications, not verdicts; the first confirmed Asian close of the week is Seoul's."
+     },
+     {
+      "t": "p",
+      "html": " What Friday settled. The S&P 500 closed at 6,910.39, down 3.7% - a correction, more than 10% under the 6 October record, and the worst week since April. The Dow fell 1.9% to 48,147.33; the Nasdaq 100 dropped 5.6% to 25,028.98; the VIX jumped 26% to 35.89 (<a href=\"https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative\" target=\"_blank\" rel=\"noopener\">AP's close wire</a>). Chips led the damage - Micron -13.9%, Nvidia -14.0%, AMD -13.3%, Broadcom -12.1% - and Anthropic's second session ended at $88.91, down 8.5%, on Nasdaq's official record. The week's full accounting, carried from Ed48: the Nasdaq lost 10% on the week, its worst since the Covid crash of 2020; Nvidia fell 23% on the week, its sharpest weekly pullback in 18 years, taking its seven-week slide to 46%; the S&P's seven straight daily losses are its longest streak since 2020."
+     },
+     {
+      "t": "p",
+      "html": " Bessent, on the record. The Treasury wants answers from Nvidia about its chip sales to China, Scott Bessent said on Sunday, and will find out who was in charge of compliance at the company. \"We've been in touch with the temporary management, with the lead directors, with their lawyers, and we do need answers,\" he told Face the Nation. \"It behoves Nvidia to move quickly on this because we want to know what the culture was\" (<a href=\"https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says\" target=\"_blank\" rel=\"noopener\">Reuters</a>). The question lands on a documented scale: Commerce has approved sales of more than 879,000 AI chips to China, per Congressman Mast's committee (<a href=\"https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Bessent said Friday that no further export restrictions are needed; Sunday's demand was for answers, not new rules."
+     },
+     {
+      "t": "p",
+      "html": " The decoupling's test at 9:15. India enters the morning with a nine-month closing high (25,801), a confirmed Rs 10,308 crore of foreign buying on Friday, a pre-open that printed above resistance - GIFT Nifty opened at 26,202 - and a monthly expiry compressed into today by tomorrow's holiday. The weekend setups frame it cleanly: resistance at 26,000, then the retest of the 26,373 record; supports at 25,500 and 25,300 (<a href=\"https://www.moneycontrol.com/news/business/markets/trade-setup-for-november-23-top-15-things-to-know-before-the-opening-bell-ahead-of-f-o-expiry-14086687.html\" target=\"_blank\" rel=\"noopener\">moneycontrol's trade setup</a>). Those are analysts' levels, not promises."
+     },
+     {
+      "t": "p",
+      "html": " Mahanadi's cold close. The Coal India arm's Rs 8,981.12-crore offer - Rs 129 to 136 a share - shut day two at 0.49 times subscribed (QIBs ex-anchor 1.37, retail 0.25, non-institutional 0.18), (<a href=\"https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-2\" target=\"_blank\" rel=\"noopener\">the day-two tally</a>), and the grey-market premium fell to Rs 0.70 by the weekend, from Rs 9.25 a week earlier (<a href=\"https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html\" target=\"_blank\" rel=\"noopener\">Mint</a>). The book closes today; allotment is tentatively Wednesday, listing tentatively Friday."
+     },
+     {
+      "t": "p",
+      "html": " The Neon card. Google's Gemini 4 Neon is priced at $3 per million input tokens - 15 cents cached, a 95% discount - and $15 per million output, with a million-token context window, rolling out through the Gemini API in AI Studio, Gemini for business, Antigravity for paid Pro and Ultra tiers, and the Gemini app (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">Google's post</a>; <a href=\"https://deepmind.google/models/model-cards/gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">model card</a>). The benchmarks are Google's own claims and are labeled as such where this paper cites them."
+     },
+     {
+      "t": "p",
+      "html": " Two cheques for the applied end. Isomorphic Labs, DeepMind's drug-design sister, raised a $5 billion Series C led by Sequoia and Greenoaks to push candidates into clinical trials (<a href=\"https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round\" target=\"_blank\" rel=\"noopener\">the company's post</a>). Unsiloed AI, founded by IIT-Kharagpur alumni Aman Mishra and Adnan Abbas, raised $7.5 million led by Felicis to make enterprise documents computable by AI agents (<a href=\"https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/\" target=\"_blank\" rel=\"noopener\">TechCrunch</a>)."
+     },
+     {
+      "t": "p",
+      "html": " The day's clock. S&P Global's flash PMIs for November print through the day; HPE and Agilent report after the US close; Anthropic trades its third session tonight. Asia's open framed the stakes: markets are bracing for volatility after Anthropic's record IPO tested the AI trade (<a href=\"https://www.financeasia.com/article/apac-markets-brace-for-volatility-after-anthropics-record-ipo-tests-ai-trade/508748\" target=\"_blank\" rel=\"noopener\">FinanceAsia</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Settled, then moving. Confirmed closes: S&P 500 6,910.39 (-3.7%), Dow 48,147.33 (-1.9%), Nasdaq 100 25,028.98 (-5.6%), VIX 35.89 (+26%), Nifty 25,801 (a nine-month high). Moving this morning, and labeled as such: US futures up 2-3% off Friday's futures settle; Kospi -2.4% live; Nikkei futures +3.2% with Tokyo's cash market shut; ASX +0.6%."
+     },
+     {
+      "t": "p",
+      "html": " The week that was, for the ledger. The Nasdaq's 10% weekly fall is its worst since 2020; the S&P closed under its 200-day moving average for the first time since April; the VIX spent its first session above 30 since March; and the AI complex's repricing hit the chip names hardest - Micron's -13.9% Friday was the single-session extreme. Positioning, per the weekend reads, is washed out by several measures - the S&P's RSI under 30, the index 11.6% under its 6 October record, and the Nasdaq Composite's gain for the year erased. Washed-out positioning is what makes a 2% futures pop possible; it is not, by itself, a bottom."
+     },
+     {
+      "t": "p",
+      "html": " Seoul, in detail. Friday's 5.21% plunge took the Kospi below 5,000 to its lowest close in about ten months, and Monday's open extended the fall another 2.8% to 4,734.9 before the selling steadied; by half past the hour the index was at 4,755.72, down 2.35%, with 24 million shares through the tape (<a href=\"https://en.yna.co.kr/view/AEN20261123001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>). The stated drivers: Wall Street's losses and concern that tighter US export restrictions could reach AMD's China business after Nvidia's. Korea matters to the India reader because it is the region's purest chip-cycle proxy - when Seoul falls three straight days, the global AI trade is being repriced, not rotated."
+     },
+     {
+      "t": "p",
+      "html": " The commodity tape at the open. Gold's December contract traded at $3,603, up 2.5% - the haven bid strengthening through the rebound; silver added 2.3% to $42.03. Oil steadied: WTI's January contract at $83.26, down 0.2%, and Brent at $89.79, down 0.2% - investing.com's quote has rolled to the February contract, against Friday's $92.57 December settle, so the two prints are not directly comparable. Natural gas fell 3.5%. All quotes are ten-minute-delayed indications, not settles."
+     },
+     {
+      "t": "p",
+      "html": " What could move it next. The flash PMIs are the day's first hard data; HPE and Agilent report tonight; then the truncated US week - core PCE Wednesday, Thanksgiving Thursday, a 1 PM close Friday (<a href=\"https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html\" target=\"_blank\" rel=\"noopener\">the calendar</a>). For Mumbai, the morning is its own event: an expiry session digesting Asia's mixed open, with 26,000 overhead and 25,500 below."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Mahanadi Coalfields, final day. The Rs 8,981.12-crore book (Rs 129-136) stood at 0.49 times subscribed after day two - QIBs ex-anchor 1.37 times, retail 0.25, non-institutional 0.18 (<a href=\"https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-2\" target=\"_blank\" rel=\"noopener\">HDFC Sky</a>) - with the grey-market premium down to Rs 0.70, from Rs 9.25 a week earlier (<a href=\"https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html\" target=\"_blank\" rel=\"noopener\">Mint</a>). Day-three numbers will land through the session; the book closes today, allotment is tentatively Wednesday and listing tentatively Friday. A thin book into a holiday-shortened week is a test of what the primary market will absorb while the secondary one rallies; day-three subscriptions, when they print, will say whether institutions stepped in at the close, as they often do, or left the book where retail left it."
+     },
+     {
+      "t": "p",
+      "html": " The pipeline, carried. SEBI's observations for Arohan Financial Services (a Rs 600-crore fresh issue plus a 4.04-crore-share offer for sale) and Pristine Logistics & Infraprojects stand as reported in Ed48. Nothing new entered observation over the weekend that this paper could verify at an owning source."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers - Friday's board stands",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " No new prints since Friday's close, so the board below remains the live verdict going into today's expiry session (percentages computed from BSE's official closes against Thursday):"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 510\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Friday 20 Nov (% vs Thursday close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Oberoi Realty</text><rect x=\"300\" y=\"30\" width=\"88.6\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"396.6\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.11%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">Godrej Properties</text><rect x=\"300\" y=\"78\" width=\"79.8\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"387.8\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.90%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Prestige Estates</text><rect x=\"300\" y=\"126\" width=\"48.3\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"356.3\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.15%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">Wipro</text><rect x=\"300\" y=\"174\" width=\"25.2\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"333.2\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.60%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Eicher Motors</text><rect x=\"300\" y=\"222\" width=\"18.9\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"326.9\" y=\"241\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.45%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">Adani Enterprises</text><rect x=\"300\" y=\"270\" width=\"18.5\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"326.5\" y=\"289\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.44%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"300\" y=\"318\" width=\"17.2\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"325.2\" y=\"337\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.41%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">Tata Communications</text><rect x=\"300\" y=\"366\" width=\"2\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"310\" y=\"385\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">flat</text><text x=\"8\" y=\"431\" font-size=\"21\" fill=\"#334155\">Oil India</text><rect x=\"237.8\" y=\"414\" width=\"62.2\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"229.8\" y=\"433\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.48%</text><text x=\"8\" y=\"479\" font-size=\"21\" fill=\"#334155\">Ashok Leyland</text><rect x=\"234.1\" y=\"462\" width=\"65.9\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"226.1\" y=\"481\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.57%</text></svg><p style=\"font-size:13px;color:#64748b;line-height:1.5\">Leaders and laggards among the large names this paper tracks, Friday 20 Nov (% vs Thursday's close), BSE official prints.</p>"
+     },
+     {
+      "t": "p",
+      "html": " What moves it next: today's session is the November expiry and the first full digest of Asia's split open - Seoul's third leg down against a two-to-three-percent futures rebound. GIFT Nifty's print above 26,000 says the open leans firm; whether the foreign buying that carried last week shows up at 9:15 is the question the board answers tonight."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Today's line: Pashupati Cotspin trades ex-interim. The week's remainder, per upstox's compilation and carried from Ed48: Wednesday is Zee Entertainment's buyback record date - up to Rs 600 crore at Rs 91 a share - plus rights issues from Bonlon Industries, Indergiri Finance and Vellora Impact; Friday brings Fusion CX's final dividend and Varvee Global's stock split, Rs 5 to Rs 2. Exchanges are closed tomorrow, so anything dated Tuesday shifts in practice; the record date is the line that decides whose shares qualify. One housekeeping note for the holiday: with exchanges shut tomorrow, today is effectively the last trading day of the settlement week - positions that need the exchange open have to be squared today or held through to Wednesday."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The IPO almost nobody wanted. In February 1993, a Bangalore software firm with Rs 8.66 crore in annual revenue offered about 40% of itself at Rs 95 a share - an Rs 85 premium investors balked at, in a market still reeling from the Harshad Mehta scam. The Rs 13-crore issue teetered on undersubscription until its underwriter, Vallabh Bhansali's Enam Securities, absorbed the unsold portion and placed some of it with Morgan Stanley, which took 13% of the company. Infosys listed on 14 June 1993, opened at Rs 145 and closed day one at Rs 160 (<a href=\"https://www.cnbctv18.com/market/backstory-how-infosys-overcame-ipo-hiccups-to-scale-stock-market-peak-10307461.htm\" target=\"_blank\" rel=\"noopener\">the backstory</a>)."
+     },
+     {
+      "t": "p",
+      "html": " Six years later, the fireworks: on 11 March 1999 the same company became the first India-registered firm to list on a US exchange, and Rs 10,000 in that 1993 IPO compounded to about Rs 4 crore by 2018, dividends and bonuses doing the compounding. Today's long read tells the whole arc."
+     },
+     {
+      "t": "p",
+      "html": " One term worth owning: the grey market premium - GMP - the unofficial price at which IPO shares change hands before listing, quoted as rupees over the issue price. Nothing about it is regulated: no exchange, no settlement guarantee, no obligation behind the quote, and the premium routinely evaporates between the close of the book and the open of trading. Its one honest use is as a sentiment thermometer. Mahanadi Coalfields illustrates the reading: a GMP down to Rs 0.70 by the weekend, from Rs 9.25 a week earlier, is the market's way of saying it expects a listing near the Rs 136 cap - a cold reading for a book that was 0.49 times subscribed after two days (<a href=\"https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html\" target=\"_blank\" rel=\"noopener\">Mint</a>; <a href=\"https://hdfcsky.com/news/mahanadi-coalfields-ipo-subscription-status-day-2\" target=\"_blank\" rel=\"noopener\">the tally</a>)."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Google's cheapest frontier card. Gemini 4 Neon's published card: $3 per million input tokens, $0.15 cached, $15 per million output, a million-token context. Google's claims, attributed: third on the AA Intelligence Index at 61 in xhigh mode, second on the Vals index, first on the AA Coding Agent Index at 58.6, 65.2% on Terminal-Bench 4.1, and 32% lower cost per task than Carbon at default high in its own Antigravity testing (<a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the announcement</a>; <a href=\"https://deepmind.google/models/model-cards/gemini-4-neon/\" target=\"_blank\" rel=\"noopener\">the model card</a>). The claims are Google's; the price is the market's business. The context that makes the card aggressive: Anthropic's record IPO just tested what public markets will pay for the AI buildout, and Google's answer is to undercut on tokens while it still owns the chips, the cloud and the app."
+     },
+     {
+      "t": "p",
+      "html": " The IPO that tested the trade. Anthropic's record listing priced into the middle of the AI selloff and lost 8.5% in its second session, to $88.91 on Nasdaq's official record; the first initiations split - Seaport at neutral, William Blair at outperform (<a href=\"https://www.cnbc.com/2026/11/20/fridays-biggest-analyst-calls-like-anthropic.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). Asia's markets opened the week still repricing it (<a href=\"https://www.financeasia.com/article/apac-markets-brace-for-volatility-after-anthropics-record-ipo-tests-ai-trade/508748\" target=\"_blank\" rel=\"noopener\">FinanceAsia</a>). Session three is tonight."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: the disposition effect",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The disposition effect - why we sell winners and keep losers. In 1985 the economists Hersh Shefrin and Meir Statman gave a name to one of the most reliable patterns in investing behaviour: people sell investments that have risen too early and hold on to those that have fallen, waiting to get back to even. Terrance Odean later confirmed it in the trading records of 10,000 households at a US brokerage: investors sold their winners at a clearly higher rate than their losers, and the winners they sold went on to beat the losers they kept. The mechanism is not arithmetic but pride and regret - selling a loser means admitting the mistake, so the account keeps the mistake and banks the compliment. It shows up far beyond stocks: people stay in jobs, and founders in products, long past the evidence, because quitting writes the loss down. A week like this one makes it concrete - a market that has fallen for weeks tempts every holder to wait for back-to-even instead of asking the cleaner question: would I buy this today? If the answer is no, holding is a fresh decision, not patience. The fix the research suggests is mechanical: set exit rules before you enter, and review what you hold as if you did not own it."
+     }
+    ]
+   },
+   {
+    "heading": "Setup board",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Monday's board is a carry-forward into the expiry: no session since Friday, so Friday's BSE prints stay the live marks and today is the next scored day. Friday left the long side's best session of the week on the tape - Kotak +3.08% near the day's high, Hindalco +2.34% reclaiming its zone, JSW Steel at its high for a second straight session - with no stop, no target, no invalidation, and no watchlist name newly clearing the published screen. Today's complication is mechanical: an expiry session after Asia's mixed open, with the index entering at a nine-month high."
+     },
+     {
+      "t": "chart",
+      "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines after Friday's session (BSE official closes): <b>Kotak Mahindra Bank</b> 516.00 (+3.08%) - trigger holds, 19th session above 437.55 (day's low 499.00, closed a hair under the high 516.45); stop far away at 420. <b>ONGC</b> 223.50 (-0.45%) - seventh session below the 228 breakout line; coil floor 218.50 intact (day's low 222.00). <b>JSW Steel</b> 1,340.00 (+0.45%, closed at the high) - about 30 points from the 1,370 target, but risk-reward at worst fill stays around 0.17 to 1 against the 1,158.95 floor: fails the screen. <b>Hindalco</b> 930.30 (+2.34%, near the high 932.50 after dipping to 894.25) - a decisive reclaim of the 911-912 zone; still no verified entry zone against longer history. <b>Shelved:</b> Voltas 1,230.00 (-0.40%) - Thursday's surge faded, the rejection stands; Tech Mahindra 1,742.00 (+1.10%) stays above the 1,500 cap.</p>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Friday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"300.0\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"300.0\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">223.50</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC's coil: floor 218.50, top 238.75; Friday's close 223.50, seventh session under the 228 breakout line.</p>"
+     },
+     {
+      "t": "p",
+      "html": " The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - closed Friday at Rs 1,337.00. Infosys, resolved Wednesday by invalidation, no trade, no P&L, closed at Rs 1,096.40 (+0.54%). The index frame for the day, from the weekend's setups: resistance 26,000, then the 26,373 record; supports 25,500 and 25,300 - analysts' levels, attributed, not this paper's calls (<a href=\"https://www.moneycontrol.com/news/business/markets/trade-setup-for-november-23-top-15-things-to-know-before-the-opening-bell-ahead-of-f-o-expiry-14086687.html\" target=\"_blank\" rel=\"noopener\">the setup</a>). Research, not advice; cash-only swing setups under Rs 1,500 a share; BSE official prints settle every argument."
+     }
+    ]
+   },
+   {
+    "heading": "How the board scores",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "No prior-day stop trade",
+        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry."
+       },
+       {
+        "n": "2",
+        "title": "Worst fill in the zone",
+        "detail": "Entry is assumed at the worst price inside the published zone, not the best."
+       },
+       {
+        "n": "3",
+        "title": "R:R on the worst fill",
+        "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board."
+       },
+       {
+        "n": "4",
+        "title": "Resolution only",
+        "detail": "A line leaves the board only by stop, target or invalidation - never by opinion."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Mon 23 Nov",
+        "detail": "November F&O monthly expiry, pulled a day early; Mahanadi Coalfields' book closes (0.49 times after day two); S&P Global flash PMIs; HPE and Agilent report in the US; Anthropic's third session after a -8.5% second day."
+       },
+       {
+        "n": "2",
+        "title": "Tue 24 Nov",
+        "detail": "Indian exchanges closed for Prakash Gurpurb Sri Guru Nanak Dev. US: ADP weekly, Consumer Confidence, FHFA house prices; Dell, HP, Workday, Best Buy and Analog Devices report."
+       },
+       {
+        "n": "3",
+        "title": "Wed 25 Nov",
+        "detail": "October core PCE, personal income, Q3 GDP second estimate, durables and claims in the US; Mahanadi allotment (tentative); Zee's Rs 600-crore buyback record date."
+       },
+       {
+        "n": "4",
+        "title": "Thu 26 - Fri 27 Nov",
+        "detail": "NYSE closed Thursday for Thanksgiving; Friday is a 1:00 PM ET close with Black Friday as the consumer test - Oxford Economics sees holiday sales up 4.2%; Mahanadi lists Friday (tentative)."
+       },
+       {
+        "n": "5",
+        "title": "Watching",
+        "detail": "Q2 GDP on 30 November; the RBI's MPC on 4 December; the Fed on 9 December; whatever Nvidia files next for what the probe-era disclosures say; Anthropic's first full week."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read for this edition: Yonhap for Seoul's open; Reuters (via SCMP) for the Bessent interview, with only his on-record words carried; investing.com for futures, commodities and GIFT Nifty indications (ten-minute delayed, labeled as such); JPX for Tokyo's holiday; moneycontrol's trade setup for the Nifty levels, attributed as analyst views, and The Hindu BusinessLine for the GIFT Nifty gap-up; HDFC Sky for the Mahanadi tally and Mint for its grey-market premium; Google's own post and model card for Gemini 4 Neon, claims attributed; the companies' own posts and TechCrunch for the cheques; CNBC for the chip-sales tally and the US calendar; AP's close wire (via NPR) for Friday's prints; FinanceAsia for the regional frame. Research, not advice.",
+       "Futures quotes in this edition are measured against Friday's futures settlement and are indications, not confirmed closes; the confirmed closes are stated separately. Brent quotes are the February contract - investing.com's quote has rolled forward from Friday's December print, while ICE keeps the January contract trading until 30 November - so the two prints are not directly comparable.",
+       "No BSE/NSE quote was fetched at source; exchange prints referenced are from settled weekend records."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": " That's the paper for Monday. Tonight brings Anthropic's third session; tomorrow Mumbai rests for Guru Nanak Jayanti, and Wednesday the allotment lands. See you tomorrow."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "quick": "audio/d49-quick.m4a",
+  "durations": {
+   "quick": 155.25,
+   "segment1": 242.6,
+   "segment2": 170.48,
+   "segment3": 162.88,
+   "segment4": 345.48,
+   "segment5": 162.98,
+   "segment6": 148.47,
+   "segment7": 223.32,
+   "segment9": 170.56,
+   "full": 1626.68
   },
-  "audio": {
-    "quick": "audio/d49-quick.m4a",
-    "durations": {
-      "quick": 158.52,
-      "segment1": 242.6,
-      "segment2": 170.48,
-      "segment3": 162.88,
-      "segment4": 345.48,
-      "segment5": 310.12,
-      "segment6": 256.32,
-      "segment7": 223.32,
-      "segment8": 164.64,
-      "segment9": 170.56,
-      "full": 2046.4
-    },
-    "segments": [
-      {
-        "key": "segment1",
-        "label": "Opening and the five-minute lead route"
-      },
-      {
-        "key": "segment2",
-        "label": "Front page: the split open, Friday's settles, and Bessent"
-      },
-      {
-        "key": "segment3",
-        "label": "Front page: the decoupling's test, Mahanadi, Neon, and the cheques"
-      },
-      {
-        "key": "segment4",
-        "label": "Markets, IPOs, and the top movers"
-      },
-      {
-        "key": "segment5",
-        "label": "Corporate actions, Finance Goldmine, and Startup Intelligence"
-      },
-      {
-        "key": "segment6",
-        "label": "AI Race, vibe coding, try this, one concept, and the term of the day"
-      },
-      {
-        "key": "segment7",
-        "label": "The setup board and how the board scores"
-      },
-      {
-        "key": "segment8",
-        "label": "The editor's read and brewing"
-      },
-      {
-        "key": "segment9",
-        "label": "The week ahead and the notes on this edition"
-      }
-    ],
-    "segment1": "audio/d49-segment1.m4a",
-    "segment2": "audio/d49-segment2.m4a",
-    "segment3": "audio/d49-segment3.m4a",
-    "segment4": "audio/d49-segment4.m4a",
-    "segment5": "audio/d49-segment5.m4a",
-    "segment6": "audio/d49-segment6.m4a",
-    "segment7": "audio/d49-segment7.m4a",
-    "segment8": "audio/d49-segment8.m4a",
-    "segment9": "audio/d49-segment9.m4a",
-    "full": "audio/d49-full.m4a"
-  },
-  "times": {
-    "full": "audio/d49-full.times.json"
-  }
+  "segments": [
+   {
+    "key": "segment1",
+    "label": "Opening and the five-minute lead route"
+   },
+   {
+    "key": "segment2",
+    "label": "Front page: the split open, Friday's settles, and Bessent"
+   },
+   {
+    "key": "segment3",
+    "label": "Front page: the decoupling's test, Mahanadi, Neon, and the cheques"
+   },
+   {
+    "key": "segment4",
+    "label": "Markets, IPOs, and the top movers"
+   },
+   {
+    "key": "segment5",
+    "label": "Corporate actions and Finance Goldmine"
+   },
+   {
+    "key": "segment6",
+    "label": "AI Race and one concept"
+   },
+   {
+    "key": "segment7",
+    "label": "The setup board and how the board scores"
+   },
+   {
+    "key": "segment9",
+    "label": "The week ahead and the notes on this edition"
+   }
+  ],
+  "segment1": "audio/d49-segment1.m4a",
+  "segment2": "audio/d49-segment2.m4a",
+  "segment3": "audio/d49-segment3.m4a",
+  "segment4": "audio/d49-segment4.m4a",
+  "segment5": "audio/d49-segment5.m4a",
+  "segment6": "audio/d49-segment6.m4a",
+  "segment7": "audio/d49-segment7.m4a",
+  "segment9": "audio/d49-segment9.m4a",
+  "full": "audio/d49-full.m4a"
+ },
+ "times": {
+  "full": "audio/d49-full.times.json"
+ }
 }
