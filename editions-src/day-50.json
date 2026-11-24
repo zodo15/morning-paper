@@ -6,7 +6,7 @@
   "longread": 50
  },
  "edition": {
-  "fact": "Edition 50. Tuesday 24 November 2026. This edition runs 2,924 words. The reversal: Nvidia's board reinstated Jensen Huang after eleven days, the stock jumped 31.5%, and Wall Street had its best day since April - while Mumbai sold its expiry, the Nifty closing through 25,500 and ending a four-week rally. BSE and NSE equity and equity derivatives trading is closed today for Prakash Gurpurb Sri Guru Nanak Dev; Asia is catching up in our place. Anthropic fell again on the market's best day. Mahanadi's book filled on its last day. The long read is Maruti Suzuki: the people's car that built an industry.",
+  "fact": "Edition 50. Tuesday 24 November 2026. This edition runs 2,938 words. The reversal: Nvidia's board reinstated Jensen Huang after eleven days, the stock jumped 31.5%, and Wall Street had its best day since April - while Mumbai sold its expiry, the Nifty closing through 25,500 and ending a four-week rally. BSE and NSE equity and equity derivatives trading is closed today for Prakash Gurpurb Sri Guru Nanak Dev; Asia is catching up in our place. Anthropic fell again on the market's best day. Mahanadi's book filled on its last day. The long read is Maruti Suzuki: the people's car that built an industry.",
   "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a private venture born in a political storm, dissolved, nationalised, and handed to Suzuki with fourteen months to build a small car for a country that bought under 70,000 a year - Maruti, the company that put India on four wheels.",
   "hero": {
    "img": "photos/d50-hero.jpg",
@@ -26,7 +26,7 @@
      },
      {
       "t": "p",
-      "html": " Asia's catch-up. Tokyo reopened from its long weekend buying: the Nikkei opened up 1,249 points and widened its gains after the bell (<a href=\"https://www.zaikei.co.jp/article/20261124/878851.html\" target=\"_blank\" rel=\"noopener\">zaikei</a>). Seoul's Kospi jumped 3.64% to 4,880.16 at the opening bell, snapping three straight legs down - still under the 5,000 it lost on Friday (<a href=\"https://en.yna.co.kr/view/AEN20261124001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>)."
+      "html": " Asia's catch-up. Tokyo reopened from its long weekend buying: the Nikkei opened up 1,249 points and widened its gains after the bell (<a href=\"https://www.zaikei.co.jp/article/20261124/878851.html\" target=\"_blank\" rel=\"noopener\">zaikei</a>). Seoul's Kospi jumped 3.64% to 4,880.16 at the opening bell, snapping two straight down sessions - still under the 5,000 it lost on Friday (<a href=\"https://en.yna.co.kr/view/AEN20261124001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>)."
      },
      {
       "t": "p",
@@ -59,7 +59,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": " Asia's catch-up open. The Nikkei reopened after the three-day weekend up 1,249 points, gains widening after the opening bell, as buyers returned to semiconductor and AI names on Nvidia's surge (<a href=\"https://www.zaikei.co.jp/article/20261124/878851.html\" target=\"_blank\" rel=\"noopener\">zaikei</a>). Seoul's Kospi opened up 171.62 points, or 3.64%, at 4,880.16 - a snap-back after Friday's 5.21% plunge and Monday's 3.31% fall, but still short of the 5,000 mark lost on Friday. <a href=\"https://en.yna.co.kr/view/AEN20261124001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a> reports that President Trump praised the reinstatement, saying Huang poses no risk to national security."
+      "html": " Asia's catch-up open. The Nikkei reopened after the three-day weekend up 1,249 points, gains widening after the opening bell - zaikei credits Wall Street's rise over the break, calmer crude and softer US long yields, and dip-buying after Friday's 3,000-plus-point plunge, with AI-profitability and credit worries still tempering sentiment (<a href=\"https://www.zaikei.co.jp/article/20261124/878851.html\" target=\"_blank\" rel=\"noopener\">zaikei</a>). Seoul's Kospi opened up 171.62 points, or 3.64%, at 4,880.16 - a snap-back after Friday's 5.21% plunge and Monday's 3.31% fall, but still short of the 5,000 mark lost on Friday. <a href=\"https://en.yna.co.kr/view/AEN20261124001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a> reports that President Trump praised the reinstatement, saying Huang poses no risk to national security."
      },
      {
       "t": "p",
@@ -142,7 +142,7 @@
      },
      {
       "t": "p",
-      "html": " What moves it next: Wednesday's reopen lands between America's inflation print and Nvidia's answer deadline, with Mahanadi's allotment due the same day. Every long-side name on the tracked board closed red on expiry Monday; the board's next scored session is Wednesday evening."
+      "html": " What moves it next: Wednesday's reopen lands between America's inflation print and Nvidia's answer deadline, with Mahanadi's allotment due the same day. All four open watchlist lines on the board closed red on expiry Monday; the board's next scored session is Wednesday evening."
      }
     ]
    },
@@ -160,7 +160,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": " The state's sale the crowd chased. In 2003 the government took Maruti Udyog public and sold 25% of the company; the issue was subscribed 7.82 times. The state's holding fell to 17%, it sold more in 2006, and by 2007 New Delhi had exited the company entirely (Business Standard's history). The venture that began as a nationalised political project ended as the market's own - and, per the company's FY2025-26 annual report, Suzuki Motor Corporation held 58.53% as of 31 March 2026."
+      "html": " The state's sale the crowd chased. In 2003 the government took Maruti Udyog public; the issue was subscribed 7.82 times. The state sold more of its holding in 2006, and by 2007 New Delhi had exited the company entirely (Business Standard's history). The venture that began as a nationalised political project ended as the market's own - and, per the company's FY2025-26 annual report, Suzuki Motor Corporation held 58.53% as of 31 March 2026."
      },
      {
       "t": "p",
@@ -199,7 +199,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": " Tuesday is the market's holiday, so Monday's scored board stands as the live card - no session to score until Wednesday evening. Expiry Monday took the tape the other way: every long-side watchlist name closed red, Friday's best-session momentum faded, nothing stopped, nothing cleared the screen, no new lines. Kotak's trigger line never came under threat; Hindalco's Friday reclaim is undone."
+      "html": " Tuesday is the market's holiday, so Monday's scored board stands as the live card - no session to score until Wednesday evening. Expiry Monday took the tape the other way: all four open watchlist lines closed red, Friday's best-session momentum faded, nothing stopped, nothing cleared the screen, no new lines. Kotak's trigger line never came under threat; Hindalco's Friday reclaim is undone."
      },
      {
       "t": "chart",
