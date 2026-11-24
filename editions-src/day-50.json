@@ -1,0 +1,308 @@
+{
+ "day": 50,
+ "meta": {
+  "date": "Tuesday 24 November 2026",
+  "short": "Tue 24 Nov",
+  "longread": 50
+ },
+ "edition": {
+  "fact": "Edition 50. Tuesday 24 November 2026. This edition runs 2,924 words. The reversal: Nvidia's board reinstated Jensen Huang after eleven days, the stock jumped 31.5%, and Wall Street had its best day since April - while Mumbai sold its expiry, the Nifty closing through 25,500 and ending a four-week rally. BSE and NSE equity and equity derivatives trading is closed today for Prakash Gurpurb Sri Guru Nanak Dev; Asia is catching up in our place. Anthropic fell again on the market's best day. Mahanadi's book filled on its last day. The long read is Maruti Suzuki: the people's car that built an industry.",
+  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a private venture born in a political storm, dissolved, nationalised, and handed to Suzuki with fourteen months to build a small car for a country that bought under 70,000 a year - Maruti, the company that put India on four wheels.",
+  "hero": {
+   "img": "photos/d50-hero.jpg",
+   "alt": "Abstract plate: a pendulum swinging from a deep red field into a bright green one, a thin gold line tracing the arc, a small clock face at the pivot"
+  },
+  "groups": [
+   {
+    "heading": "The 5-minute lead route",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The reversal. Nvidia's board voted unanimously on Monday to reinstate Jensen Huang as president, chief executive and director, effective immediately - eleven days after his departure (<a href=\"https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\" target=\"_blank\" rel=\"noopener\">Nvidia's release</a>). The board said it had \"received input from senior levels of the United States government\" and was confident the return \"poses no national security risk.\" The market's verdict: NVDA closed up 31.48% at $165.05 on Nasdaq's official record."
+     },
+     {
+      "t": "p",
+      "html": " The relief tape. The S&P 500 rose 4.7% to 7,237.17, recovering just over half of last week's loss; the Dow rose 3.0% to 49,595.31; the Nasdaq composite rose 6.5% to 24,089.56, its best day since April 2025, per CNBC's session blog. The gains reconcile exactly to Friday's closes."
+     },
+     {
+      "t": "p",
+      "html": " Asia's catch-up. Tokyo reopened from its long weekend buying: the Nikkei opened up 1,249 points and widened its gains after the bell (<a href=\"https://www.zaikei.co.jp/article/20261124/878851.html\" target=\"_blank\" rel=\"noopener\">zaikei</a>). Seoul's Kospi jumped 3.64% to 4,880.16 at the opening bell, snapping three straight legs down - still under the 5,000 it lost on Friday (<a href=\"https://en.yna.co.kr/view/AEN20261124001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>)."
+     },
+     {
+      "t": "p",
+      "html": " Mumbai went the other way. Monday's expiry session: Sensex down 1.77% to 82,435.99, Nifty down 1.75% to 25,349.65 - through the 25,500 support, the four-week rally ended, banks led the fall (<a href=\"https://bfsi.economictimes.indiatimes.com/articles/sensex-tumbles-1483-72-points-to-settle-at-82435-99-nifty-dives-450-95-points-to-25349-65-pti/136098394\" target=\"_blank\" rel=\"noopener\">PTI's close wire</a>). Foreign investors still bought a provisional Rs 5,673 crore of cash stock, a sixteenth straight session of buying, while selling Rs 3,630 crore of index futures."
+     },
+     {
+      "t": "p",
+      "html": " The exception, again. Anthropic fell 1.43% to $87.64 on the market's best day since April - it opened up 5.3% with the rally and sold off through the session, per Nasdaq's official record and Bloomberg Law's session report."
+     },
+     {
+      "t": "p",
+      "html": " Mahanadi's last-day fill. The Coal India arm's Rs 8,981-crore IPO closed 1.52 times subscribed by Monday's 5 PM close, from 0.49 times after day two (moneycontrol's tally, citing exchange data). Allotment is tentatively Wednesday."
+     },
+     {
+      "t": "p",
+      "html": " The haven held. Gold's front-month Comex contract settled up 3.90% at $3,649.20 - rising on the biggest equity day since April. Brent settled $3.20 lower at $89.37."
+     },
+     {
+      "t": "p",
+      "html": " Today's clock. BSE and NSE equity and equity derivatives trading is closed today for Prakash Gurpurb Sri Guru Nanak Dev; trading resumes Wednesday, November 25 (<a href=\"https://www.moneycontrol.com/news/business/markets/stock-market-holiday-on-november-24-occasion-of-guru-nanak-jayanti-nse-and-bse-closed-check-details-14087011.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a>; <a href=\"https://www.businesstoday.in/markets/stocks/story/stock-market-holiday-on-november-24-are-nse-bse-closed-for-guru-nanak-jayanti-569145-2026-11-23\" target=\"_blank\" rel=\"noopener\">Business Today</a>). The US gets the ADP weekly, consumer confidence and results from Dell, HP and Workday; Nvidia's deadline to answer the Treasury on compliance is tomorrow."
+     },
+     {
+      "t": "p",
+      "html": " The long read: Maruti Suzuki - the people's car that built an industry. A dissolved private venture, a state takeover, and twenty million cars built faster than Japan managed it."
+     }
+    ]
+   },
+   {
+    "heading": "Front page",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Asia's catch-up open. The Nikkei reopened after the three-day weekend up 1,249 points, gains widening after the opening bell, as buyers returned to semiconductor and AI names on Nvidia's surge (<a href=\"https://www.zaikei.co.jp/article/20261124/878851.html\" target=\"_blank\" rel=\"noopener\">zaikei</a>). Seoul's Kospi opened up 171.62 points, or 3.64%, at 4,880.16 - a snap-back after Friday's 5.21% plunge and Monday's 3.31% fall, but still short of the 5,000 mark lost on Friday. <a href=\"https://en.yna.co.kr/view/AEN20261124001600320\" target=\"_blank\" rel=\"noopener\">Yonhap</a> reports that President Trump praised the reinstatement, saying Huang poses no risk to national security."
+     },
+     {
+      "t": "p",
+      "html": " What Monday settled. The S&P 500 closed at 7,237.17, up 4.7% - halting a seven-session slide that had carried it more than 10% under its record. The Dow added 1,447.98 points to 49,595.31; the Nasdaq composite rose 1,471.82 points to 24,089.56; the Russell 2000 gained 3.4% to 2,669.66, per AP's close wire. Nvidia did the lifting: up 31.48% to $165.05 on Nasdaq's official record (previous close $125.53; the day's range ran $156.93 to $171.50), putting its value back near $3.98 trillion."
+     },
+     {
+      "t": "p",
+      "html": " The Huang file. From <a href=\"https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\" target=\"_blank\" rel=\"noopener\">Nvidia's release</a>: the vote was unanimous; the board said it was \"satisfied with respect to Mr. Huang's candor and ability to lead\"; Chairman Harvey C. Jones stays in the chair; Colette Kress returns to the CFO seat after eleven days as interim CEO. \"I am honored to return to NVIDIA,\" Huang said in the release. \"I can't wait to get back to work.\" The release also discloses that an independent-director committee is investigating recent reporting that Huang was the target of a foreign intelligence effort - the investigation proceeds, with Huang cooperating - and that the board has formed a National Security and Export Control Committee and started a search for a Chief Compliance Officer. AP notes the reinstatement came just days after the board rejected his offer to return. Treasury Secretary Bessent had given Nvidia until November 25 to answer on its compliance culture (Politico) - that deadline lands tomorrow."
+     },
+     {
+      "t": "p",
+      "html": " The expiry Mumbai sold. The Nifty fell 450.95 points, 1.75%, to 25,349.65 on Monday - through the 25,500 first support and ending a four-week rally, with banks leading the fall (<a href=\"https://www.thehindubusinessline.com/markets/banks-sell-off-ends-four-week-rally-nifty-slumps-175-rupee-weakens/article71734774.ece\" target=\"_blank\" rel=\"noopener\">BusinessLine</a>). The Sensex lost 1,483.72 points to 82,435.99 (<a href=\"https://bfsi.economictimes.indiatimes.com/articles/sensex-tumbles-1483-72-points-to-settle-at-82435-99-nifty-dives-450-95-points-to-25349-65-pti/136098394\" target=\"_blank\" rel=\"noopener\">PTI's close wire</a>). The rupee closed at 92.9025 to the dollar, from 92.69 on Friday. The provisional flow table, per moneycontrol: foreign investors bought Rs 5,672.99 crore of cash stock - a sixteenth straight buying session per CNBC-TV18 - domestic institutions sold Rs 2,760.12 crore, and foreign investors sold Rs 3,629.83 crore of index futures. Friday's decoupling argument met expiry-day profit-taking; the foreign money kept buying cash and kept the hedge."
+     },
+     {
+      "t": "p",
+      "html": " Anthropic's exception. The third session after the record IPO: $87.64, down 1.43%, on Nasdaq's official record - after opening up 5.3% near $93.64 and trading as high as $94.24. Bloomberg Law's session report called it the stock that defied the rally. Two sessions in the red since listing: -8.5%, then -1.43% on the market's best day since April."
+     },
+     {
+      "t": "p",
+      "html": " Mahanadi's fill. The Rs 8,981.12-crore offer closed 1.52 times subscribed at Monday's 5 PM close, per moneycontrol's tally of exchange data - a last-day fill from 0.49 times after day two; PTI's wrap called it fully subscribed on the final day. The grey-market premium, about Rs 0.70 on Friday per Mint, still signals a muted debut. Allotment is tentatively Wednesday; listing tentatively Friday."
+     },
+     {
+      "t": "p",
+      "html": " A shield for the operating system. OpenAI and Cisco released Shirudo, an open-source runtime shield for Linux systems - temporary safeguards that wrap a running service while patches roll out. In the companies' controlled test, a Codex-generated shield blocked a Java4Shell exploit against a live Elasticsearch service without a restart. The project is open for industry contributors (<a href=\"https://openai.com/index/introducing-shirudo/\" target=\"_blank\" rel=\"noopener\">OpenAI's post</a>)."
+     },
+     {
+      "t": "p",
+      "html": " The day's clock. Mumbai is shut: BSE and NSE equity and equity derivatives trading is closed for Prakash Gurpurb Sri Guru Nanak Dev and resumes Wednesday, November 25 - BSE's 2026 master circular lists the closure, and <a href=\"https://www.moneycontrol.com/news/business/markets/stock-market-holiday-on-november-24-occasion-of-guru-nanak-jayanti-nse-and-bse-closed-check-details-14087011.html\" target=\"_blank\" rel=\"noopener\">moneycontrol</a> and <a href=\"https://www.businesstoday.in/markets/stocks/story/stock-market-holiday-on-november-24-are-nse-bse-closed-for-guru-nanak-jayanti-569145-2026-11-23\" target=\"_blank\" rel=\"noopener\">Business Today</a> report it against both exchanges' 2026 holiday calendars. Wall Street's Tuesday brings the ADP weekly, the Conference Board's consumer confidence and FHFA house prices, with Dell, HP, Workday, Best Buy and Analog Devices reporting; Anthropic trades its fourth session tonight."
+     }
+    ]
+   },
+   {
+    "heading": "Markets",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Settled, then moving. Confirmed closes, Monday: S&P 500 7,237.17 (+4.7%), Dow 49,595.31 (+3.0%), Nasdaq composite 24,089.56 (+6.5%), Russell 2000 2,669.66 (+3.4%), NVDA $165.05 (+31.5%), Anthropic $87.64 (-1.4%). India's Monday settled at the close: Sensex 82,435.99 (-1.8%), Nifty 25,349.65 (-1.8%). Moving this morning, and labeled as such: Nikkei +1,249 points at the open, gains widening; Kospi +3.64% at the opening bell. Everything Indian waits for Wednesday."
+     },
+     {
+      "t": "p",
+      "html": " The haven bid, held. Gold's front-month Comex contract settled up 3.90% at $3,649.20 (Dow Jones Data Talk via Morningstar) - the insurance bid rising on the biggest equity day since April, exactly the pattern Friday's paper flagged to watch. Oil eased: Brent settled $3.20 lower at $89.37 a barrel, WTI $3.24 lower at $80.17 (Newsquawk's wrap)."
+     },
+     {
+      "t": "p",
+      "html": " Seoul's shape. The Kospi lost 5.21% on Friday - its lowest close in about ten months, under the 5,000 mark - and another 3.31% on Monday, to 4,708.54. Tuesday's opening bell brought it back 171.62 points to 4,880.16, on Yonhap's read, tracking Wall Street as Jensen Huang's return to Nvidia rekindled the AI bid. A snap-back, not a reclaim: 5,000 is still overhead."
+     },
+     {
+      "t": "p",
+      "html": " Tokyo's arithmetic. The Nikkei gave back more than 3,000 points on Friday, sat out Monday's global rally for Labor Thanksgiving Day, and reopened Tuesday up 1,249 points, the gains widening after the bell (zaikei, 9:05 JST). Two sessions of global movement compressed into one morning - Friday's rout and Monday's relief arriving together."
+     },
+     {
+      "t": "p",
+      "html": " What could move it next. The US Tuesday slate: the ADP weekly jobs read, the Conference Board's consumer confidence and FHFA house prices, then results from Dell, HP, Workday, Best Buy and Analog Devices. Wednesday is the heavy day - October core PCE, personal income, the second estimate of Q3 GDP, durables and claims - plus Nvidia's answer to the Treasury and Mumbai's first session of the week. NYSE is closed Thursday for Thanksgiving and runs a 1:00 PM ET close Friday."
+     }
+    ]
+   },
+   {
+    "heading": "IPOs",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Mahanadi Coalfields, filled at the close. The Rs 8,981.12-crore book (Rs 129-136 a share) ended Monday 1.52 times subscribed by the 5 PM close, per moneycontrol's tally of exchange data - against 0.49 times after day two. PTI's wrap described the issue as fully subscribed on the final day. The grey-market premium was about Rs 0.70 on Friday, per Mint, down from Rs 9.25 a week earlier - the marker for a muted debut. Allotment is tentatively Wednesday; listing tentatively Friday."
+     },
+     {
+      "t": "p",
+      "html": " The pipeline, carried. SEBI's observations for Arohan Financial Services (a Rs 600-crore fresh issue plus a 4.04-crore-share offer for sale) and Pristine Logistics & Infraprojects stand as reported in Ed48. Nothing new entered observation over the holiday weekend that this paper could verify at an owning source."
+     }
+    ]
+   },
+   {
+    "heading": "Top movers - Monday's expiry board",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Monday's expiry session closed India's week - there is no session today, so these BSE official prints are the live marks into Wednesday's reopen (percentages computed from BSE's official closes against Friday):"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 424\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Monday 23 Nov (% vs Friday close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Tech Mahindra</text><rect x=\"300\" y=\"30\" width=\"89.5\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"397.5\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.13%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"300\" y=\"78\" width=\"81.5\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"389.5\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.94%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Infosys</text><rect x=\"300\" y=\"126\" width=\"29.4\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"337.4\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.70%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">ONGC</text><rect x=\"288.7\" y=\"174\" width=\"11.3\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"280.7\" y=\"193\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.27%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Voltas</text><rect x=\"266.0\" y=\"222\" width=\"34.0\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"258.0\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.81%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">JSW Steel</text><rect x=\"209.3\" y=\"270\" width=\"90.7\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"201.3\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.16%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Kotak Bank</text><rect x=\"194.2\" y=\"318\" width=\"105.8\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"186.2\" y=\"337\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.52%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">Hindalco</text><rect x=\"168.5\" y=\"366\" width=\"131.5\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"160.5\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-3.13%</text></svg>"
+     },
+     {
+      "t": "p",
+      "html": " What moves it next: Wednesday's reopen lands between America's inflation print and Nvidia's answer deadline, with Mahanadi's allotment due the same day. Every long-side name on the tracked board closed red on expiry Monday; the board's next scored session is Wednesday evening."
+     }
+    ]
+   },
+   {
+    "heading": "Corporate actions",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Today's line: none - BSE and NSE equity and equity derivatives trading is closed for Prakash Gurpurb Sri Guru Nanak Dev. The week's remainder, per upstox's compilation and carried from Ed49: Wednesday is Zee Entertainment's buyback record date - up to Rs 600 crore at Rs 91 a share - plus rights issues from Bonlon Industries, Indergiri Finance and Vellora Impact; Friday brings Fusion CX's final dividend and Varvee Global's stock split, Rs 5 to Rs 2."
+     }
+    ]
+   },
+   {
+    "heading": "Finance Goldmine",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The state's sale the crowd chased. In 2003 the government took Maruti Udyog public and sold 25% of the company; the issue was subscribed 7.82 times. The state's holding fell to 17%, it sold more in 2006, and by 2007 New Delhi had exited the company entirely (Business Standard's history). The venture that began as a nationalised political project ended as the market's own - and, per the company's FY2025-26 annual report, Suzuki Motor Corporation held 58.53% as of 31 March 2026."
+     },
+     {
+      "t": "p",
+      "html": " The first car. When the Maruti 800 entered production in December 1983, the entire Indian car market was under 70,000 cars a year; the first one went to Harpal Singh, an Indian Airlines employee (Business Standard). By 2010 the market had passed 3 million cars a year (Suzuki's own milestone release). The whole arc is today's long read."
+     },
+     {
+      "t": "p",
+      "html": " One term worth owning: profit booking - selling after a run, to turn an unrealised gain into a realised one. It needs no bad news and no change of view; an expiry day after a four-week rally is its natural habitat, and Monday's session was the textbook version. Its one honest reading is mechanical, not directional: it says holders took money off the table, not that they stopped believing the story."
+     }
+    ]
+   },
+   {
+    "heading": "AI Race",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Shirudo, the patch-window shield. OpenAI and Cisco released an open-source runtime shield for Linux systems: temporary safeguards that wrap a running service while patches roll out, per <a href=\"https://openai.com/index/introducing-shirudo/\" target=\"_blank\" rel=\"noopener\">OpenAI's post</a>. In the companies' controlled test, a Codex-generated shield blocked a Java4Shell exploit against a live Elasticsearch service without a restart. The framing is the story: models writing their own defensive code, donated to the industry as open source, with contributors invited."
+     },
+     {
+      "t": "p",
+      "html": " The governance tell. The compliance architecture the Treasury asked about is now Nvidia's own design: a new National Security and Export Control Committee of independent directors, and a search for a Chief Compliance Officer - both disclosed in Monday's reinstatement release, alongside the continuing independent investigation into the foreign-intelligence-target reporting. Anthropic, the trade's other live test, fell 1.43% on the market's best day since April - the bid returning to the incumbent, not the newcomer."
+     }
+    ]
+   },
+   {
+    "heading": "One concept: the availability heuristic",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " The availability heuristic - why the vivid print feels like the base rate. In 1973, Amos Tversky and Daniel Kahneman showed that people judge how likely or frequent something is by how easily an example comes to mind (\"Availability: A heuristic for judging frequency and probability,\" Cognitive Psychology). In their classic experiment, people overestimated how often letters appear as the first letter of a word rather than the third - first letters are simply easier to summon. Markets run on the same shortcut: one loud Monday - a 31.5% jump in the market's biggest name - comes to mind more easily than the seven-session slide that preceded it. The vivid session is not the base rate; it is just the easiest one to recall."
+     }
+    ]
+   },
+   {
+    "heading": "Setup board",
+    "blocks": [
+     {
+      "t": "p",
+      "html": " Tuesday is the market's holiday, so Monday's scored board stands as the live card - no session to score until Wednesday evening. Expiry Monday took the tape the other way: every long-side watchlist name closed red, Friday's best-session momentum faded, nothing stopped, nothing cleared the screen, no new lines. Kotak's trigger line never came under threat; Hindalco's Friday reclaim is undone."
+     },
+     {
+      "t": "chart",
+      "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines after Monday's session (BSE official closes): <b>Kotak Mahindra Bank</b> 503.00 (-2.52%) - trigger holds, twentieth session above 437.55 (day's low 501.20 never threatened it); stop far away at 420. <b>ONGC</b> 222.90 (-0.27%) - eighth session below the 228 breakout line; day's high 224.95 equals Friday's high exactly; coil floor 218.50 intact (day's low 222.35). <b>JSW Steel</b> 1,311.00 (-2.16%) - the 1,370 target untouched; risk-reward at worst fill about 0.39 to 1 against the 1,158.95 floor: fails the screen. <b>Hindalco</b> 901.20 (-3.13%) - Friday's decisive 911-912 reclaim failed, closed back under the zone after dipping to 899.20; still no verified entry zone.</p>"
+     },
+     {
+      "t": "chart",
+      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Monday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"288.5\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"288.5\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">222.90</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC's coil: floor 218.50, top 238.75; Monday's close 222.90, eighth session under the 228 breakout line.</p>"
+     },
+     {
+      "t": "p",
+      "html": " The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - closed Monday at Rs 1,363.00 (+1.94%). Infosys, resolved by invalidation, no trade, no P&L, closed at Rs 1,104.10 (+0.70%). Research, not advice - and today there is no tape at all."
+     }
+    ]
+   },
+   {
+    "heading": "How the board scores",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "No prior-day stop trade",
+        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry."
+       },
+       {
+        "n": "2",
+        "title": "Worst fill in the zone",
+        "detail": "Entry is assumed at the worst price inside the published zone, not the best."
+       },
+       {
+        "n": "3",
+        "title": "R:R on the worst fill",
+        "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board."
+       },
+       {
+        "n": "4",
+        "title": "Resolution only",
+        "detail": "A line leaves the board only by stop, target or invalidation - never by opinion."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "The week ahead",
+    "blocks": [
+     {
+      "t": "rows",
+      "items": [
+       {
+        "n": "1",
+        "title": "Tue 24 Nov",
+        "detail": "BSE and NSE equity and equity derivatives trading closed for Prakash Gurpurb Sri Guru Nanak Dev. US: ADP weekly, Conference Board consumer confidence, FHFA house prices; Dell, HP, Workday, Best Buy and Analog Devices report; Anthropic's fourth session."
+       },
+       {
+        "n": "2",
+        "title": "Wed 25 Nov",
+        "detail": "Mumbai reopens - trading resumes November 25. US: October core PCE, personal income, Q3 GDP second estimate, durables and claims. Nvidia's deadline to answer the Treasury on compliance. Mahanadi allotment (tentative); Zee's Rs 600-crore buyback record date."
+       },
+       {
+        "n": "3",
+        "title": "Thu 26 Nov",
+        "detail": "NYSE closed for Thanksgiving."
+       },
+       {
+        "n": "4",
+        "title": "Fri 27 Nov",
+        "detail": "US 1:00 PM ET close. Mahanadi lists (tentative); Fusion CX's final dividend and Varvee Global's stock split (Rs 5 to Rs 2)."
+       },
+       {
+        "n": "5",
+        "title": "Watching",
+        "detail": "India's Q2 GDP on 30 November; the RBI's MPC on 4 December; the Fed on 9 December; whatever Nvidia files or tells the Treasury; Anthropic's first full week."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Notes on this edition",
+    "blocks": [
+     {
+      "t": "bullets",
+      "items": [
+       "Sources read for this edition: Nvidia's own newsroom release for the reinstatement, with every board and Huang quote attributed to it; Nasdaq's official quote records for the NVDA and Anthropic closes; AP's close wire (via WTOP) for the US indexes, with point moves reconciled exactly to Friday's closes; Yonhap for Seoul's open and its report of President Trump's praise; zaikei for Tokyo's open; PTI (via ET BFSI) and The Hindu BusinessLine for Mumbai's expiry close; moneycontrol's provisional FII/DII table; moneycontrol and PTI for Mahanadi's final subscription, Mint for the grey-market premium; Dow Jones Data Talk via Morningstar for the gold settle; Newsquawk for the oil settles; OpenAI's own post for Shirudo.",
+       "US closes are final-close wires or exchange records. India prices are BSE's official bhavcopy prints. The Tuesday closure is verified for BSE equity and equity derivatives from BSE's 2026 master circular, and for NSE from moneycontrol and Business Today reports citing both exchanges' 2026 holiday calendars; the NSE circular itself was not opened, and no claim is made about commodity or currency segments. Flows are provisional exchange-table tallies and can be revised. This is research, not advice."
+      ]
+     },
+     {
+      "t": "closing",
+      "html": " That's the paper for Tuesday. Mumbai rests today; Wednesday brings America's inflation print, Nvidia's answer to the Treasury, Mahanadi's allotment and the market's first session of the week. See you tomorrow."
+     }
+    ]
+   }
+  ]
+ },
+ "audio": {
+  "quick": null,
+  "durations": {},
+  "segments": [],
+  "full": null
+ },
+ "times": {}
+}
