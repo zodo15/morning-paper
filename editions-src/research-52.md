@@ -27,3 +27,17 @@ Compiled 04:15-04:35 IST. Owning/wire sources only; every URL copied from tool r
 
 ## Long read #52 pick: APL APOLLO TUBES - "the company that bought its way out of its founder"
 The buyer in the week's biggest India deal is a build story never used (checked longreads.json keys 1-51). Arc: Sikandrabad pipe shop (1986, Sudesh Gupta's Bihar Tubes) -> Sanjay Gupta joins board 2003, rebrands APL Apollo 2010, treats commodity pipe as branded building material (colour-coded packs, dealer/fabricator network, consumer ads, sub-brands) -> ~55% of India's structural steel tube market, 11 plants, 5 MTPA -> the week he sells almost everything to Tata Steel at Rs 2,100 while his company borrows to buy Tata's downstream business - and keeps a hand in via SG Spectra's 5 MTPA colour-coating contract-manufacturing rights. Sources read fully so far (5): company our-story, CNBC-TV18 profile, Tata board outcome PDF, Tata press release (Ed51), APL investor deck. Remaining planned (build leg): CARE Ratings PDF, AR 2024-25 (aplapollo.com), ET company history, SEBI PA filing, BSE-hosted press-release/investor-call PDFs. Full notes in research-lr52.md.
+
+## Reconciliation: Section 301 (main request, 04:21) - owning original fetched in full
+Source: USTR press release, dated November 25, 2026 (owning hour resolved: it is a Wednesday Nov 25 release).
+URL: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural
+
+Full original confirms every figure in this file's tariff summary:
+- 14 economies determined "unreasonable" under Section 301(b): China, EU, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, Korea, Vietnam, Taiwan, Bangladesh, Japan, India. Mexico and Norway were investigated (16 total, initiated March 11, 2026) but NO determination yet.
+- India: proposed tariffs of UP TO 25% on all goods, net of existing Section 301 tariffs, with exemptions; 17% proposed if India reaches an Agreement on Reciprocal Trade responsive to the determinations. India sectors flagged: health (pharma + medical devices), steel, solar, ICT.
+- Others: China up to 20% (10% on Annex A goods; references Kuala Lumpur Joint Arrangement of Oct 30, 2025); EU 15% net of MFN; Japan/Korea/Taiwan/Switzerland up to 15%; Bangladesh/Cambodia/Indonesia/Malaysia/Thailand up to 18%; Singapore up to 20% (10% with deal); Vietnam up to 35% (20% with deal).
+- Status: PROPOSED action open for public comment - nothing imposed. Requests to appear + written comments due January 5, 2027; hearings January 25, 2027, continuing as appropriate. No effective date anywhere in the release.
+- Process history: 16 investigations self-initiated March 11, 2026; ~140 witnesses, 1,070 comments.
+
+Paper-safe wording: "The US trade office proposed (not imposed) tariffs on 14 economies including India - up to 25% on Indian goods, or 17% under a reciprocal trade deal. Public comments close January 5; hearings start January 25. Nothing takes effect yet."
+Cards researcher cross-check: its 04:00 cycle held this item pending owning-hour validation; the owning original (fetched here in full) resolves rates, status and dates directly. Any residual hold is on the Cards side, not this file.
