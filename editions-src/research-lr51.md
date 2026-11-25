@@ -35,3 +35,7 @@ Compiled 04:20-04:35 IST, 25 Nov 2026. Editorial rationale: never covered (neare
 - PAT figure: two conventions in coverage (Rs 343.7 cr net profit vs Rs 411 cr consol PAT). Print at most one, attributed to the exchange-filing-linked ET report; margins (3.1% vs 7.1%) agree everywhere.
 - Global EMS ranking claim on Dixon's site shows "#1 Indian EMS Ranking"; no verified global rank - do not print one.
 - Art: fresh abstract hero + interior plates needed (assembly-line motif, never a photo of an actual Dixon plant).
+
+## Post-critic reconciliation (25 Nov 06:20 IST)
+- Critic flag: "34.6% CAGR FY13-16" does not reconcile with the printed revenue figures. VERIFIED CORRECT. DRHP (sebi.gov.in, 1495451226044.pdf): consolidated restated revenue from operations (net) FY13 = 7,669.24M (Rs 766.92 cr), FY16 = 13,894.17M (Rs 1,389.42 cr), 9M FY17 = 18,444.50M. 7,669.24 -> 13,894.17 over 3 years = 21.9%, not 34.6%. The DRHP's own text claims "CAGR of 34.60% ... Fiscal 2013 to Fiscal 2016" (pdftotext lines ~4567, ~4914), which only roughly reconciles from the FY12 base (5,724.00M -> 13,894.17M = 34.4%). Owning document's derived claim fails its own tables.
+- Fix applied in longreads.json['51'] group 5: "a 34.6% compound annual rate across FY13-16" replaced with "an 81% rise over the three years to FY16" (exact 81.17%). Printed figures 767/1,389/1,845 cr were correct and are unchanged.

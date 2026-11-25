@@ -85,3 +85,8 @@ Compiled 04:15-04:30 IST; markers refreshed 05:51 IST at build.
 
 ## Paused sections (user instruction 23 Nov)
 Startup Intelligence + daily idea, Vibe coding, Try This, The editor's read: NO research/writing/audio. "Notes on this edition" stays. Closing "See you tomorrow".
+
+## Post-critic reconciliation (25 Nov 06:20 IST)
+- Critic flag: Mahanadi share count vs issue size mismatch. VERIFIED: Mint's article is internally inconsistent (issue Rs 8,981.12 cr; 49,30,68,045 shares on offer; "up to 66.18 crore shares" as 10% stake). Reconciliation from owning sources: SEBI draft abridged prospectus = OFS up to 661,836,300 shares (66.18 cr, 10% of paid-up capital). NSE/BSE data (PTI via The Hindu, 23 Nov; Business Today, 23 Nov): 49,30,68,045 shares on offer after the Rs 2,295-crore anchor allocation (~16.88 cr shares at band top), 1.52x subscribed, band Rs 129-136. Issue size Rs 8,981.12 cr is printed identically by Mint, PTI and Business Today but does not multiply exactly from share count x band top (up-to semantics, final share count slightly below the up-to figure).
+- Retail discrepancy: Mint prints 48%, PTI and Business Today print 46%. Majority + wire of record wins: 46%.
+- Fix applied in day-51.json (lead route item 7, front page story 7, IPOs blocks 1-2, Notes bullets): share count "66.18 crore shares" removed from prose; "49.31 crore shares on offer" kept in IPOs block (the figure the 1.52x is computed on); retail 48% -> 46% everywhere; source line updated to PTI/Business Today; Notes bullet discloses the retail tally and the share-count/issue-size non-multiplication.
