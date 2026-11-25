@@ -39,7 +39,7 @@ out.append('export function App() {')
 out.append('    return <FileCard>')
 out.append('        <Header title="%s"' % lr['title'])
 out.append('            fact={`%s`}' % lr['fact'].replace('`', '\\`'))
-out.append('            intro="%s" />' % "Seven chapters: Weston\'s son, a dollar fifty a television, what not to do, the drill, the listing, the phone pivot, and the ledger. The record here is the company\'s draft red herring prospectus filed with SEBI, its own site, IBEF\'s milestone record, Counterpoint\'s rankings, ET\'s results report, two Forbes India profiles and EY\'s entrepreneur profile.")
+out.append('            intro="%s" />' % "Seven chapters: Weston\'s son, a dollar fifty a television, what not to do, the drill, the listing, the phone pivot, and the ledger. The record here is the company\'s draft red herring prospectus filed with SEBI, its own site, IBEF\'s milestone record, Counterpoint\'s rankings, ET\'s results report, and two Forbes India profiles.")
 out.append('        <Figure src={lr51hero} alt="Abstract plate: a long assembly line receding toward a bright doorway, unmarked white boxes on the line, each box faintly reflecting a different coloured light, early morning haze" caption="Abstract plate for the long read - one line, a hundred brands, no name on the box." fit="cover" />')
 
 figmap = {'lr51-int1': 'lr51int1', 'lr51-int2': 'lr51int2', 'lr51-int3': 'lr51int3'}
@@ -58,7 +58,7 @@ for g in lr['groups']:
     out.append('        </Text>')
 
 out.append('')
-out.append("        <Closing>Sources read for this piece: Dixon Technologies' draft red herring prospectus filed with SEBI (May 2017) for the incorporation history, listing economics and FY16 production shares; the company's own site for current scale; IBEF's milestone record for the listing dates, the Longcheer joint venture, capex and facilities; Counterpoint's April 2026 rankings for the 2025 smartphone EMS table; ET's report of the Q2 FY27 exchange filing for results; Forbes India's 2022 and 2024 profiles and EY's entrepreneur profile for the founding story and quotes. Historical figures and quotes carry their dates; the Q2 profit is printed on ET's net-profit convention (Rs 343.7 crore) with margins as reported; no scenes or settings are invented. A manufacturing story, not investment advice.</Closing>")
+out.append("        <Closing>Sources read for this piece: Dixon Technologies' draft red herring prospectus filed with SEBI (May 2017) for the incorporation history, listing economics and FY16 production shares; the company's own site for current scale; IBEF's milestone record for the listing dates, the Longcheer joint venture, capex and facilities; Counterpoint's April 2026 rankings for the 2025 smartphone EMS table; ET's report of the Q2 FY27 exchange filing for results; Forbes India's 2022 and 2024 profiles for the founding story and quotes. Historical figures and quotes carry their dates; the Q2 profit is printed on ET's net-profit convention (Rs 343.7 crore) with margins as reported; no scenes or settings are invented. A manufacturing story, not investment advice.</Closing>")
 out.append('    </FileCard>;')
 out.append('}')
 
