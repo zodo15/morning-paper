@@ -1,305 +1,358 @@
 {
- "day": 52,
- "meta": {
-  "date": "Thursday 26 November 2026",
-  "short": "Thu 26 Nov",
-  "longread": 52
- },
- "edition": {
-  "fact": "Edition 52. Thursday 26 November 2026. This edition runs 3654 words. Wall Street erased a plunge of 1,100 points hours before the Thanksgiving close as Washington proposed tariffs on fourteen economies; Mumbai reopened with its best session in weeks on foreign flows and a record rupee run; APL Apollo's first deal tape stayed brutal; Jensen Huang returned to Nvidia with a Treasury deadline gone unanswered; Siemens Energy India printed a breakout quarter; and Mahanadi Coalfields counts down to its Friday listing.",
-  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a Sikandrabad pipe shop founded in 1986 became India's branded steel-tube giant on Sanjay Gupta's bet that a commodity could be sold like soap - and this week he sold the company to Tata Steel while keeping a hand in the colour-coating plant next door. APL Apollo Tubes, the brand in the pipe.",
-  "hero": {
-   "img": "photos/d52-hero.jpg",
-   "alt": "Abstract plate: a harbour at first light, a long row of shipping containers stamped with fourteen flag colours, one crane paused mid-lift holding a single container, calm water, soft morning haze"
+  "day": 52,
+  "meta": {
+    "date": "Thursday 26 November 2026",
+    "short": "Thu 26 Nov",
+    "longread": 52
   },
-  "groups": [
-   {
-    "heading": "The 5-minute lead route",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "The comeback tape. The final session before Thanksgiving opened in a plunge - the Dow down about 1,100 points, the S&P 500 off 3.2%, the Nasdaq down 4.6% at their lows - and ended almost flat: the Dow closed up 0.33% at 50,182.95, the S&P down 0.25% at 7,182.78, the Nasdaq down 0.62% at 23,585.80 (<a href=\"https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html\" target=\"_blank\" rel=\"noopener\">CNBC's close post</a>; <a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09\" target=\"_blank\" rel=\"noopener\">AP's final-close wire</a>). US markets are shut today."
-     },
-     {
-      "t": "p",
-      "html": "The tariff salvo. Washington proposed Section 301 tariffs on 14 economies it says run structural excess manufacturing capacity - India facing up to 25% on all goods, or 17% under a reciprocal trade deal; China up to 20%; the EU and Japan 15%; Vietnam up to 35%. Proposed, not imposed: public comments close January 5 and hearings start January 25 (<a href=\"https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural\" target=\"_blank\" rel=\"noopener\">USTR's release</a>)."
-     },
-     {
-      "t": "p",
-      "html": "The data deluge lands hot. October core PCE came in at 3.3%, a tenth above forecast; headline 3.8%. Q3 GDP was revised up to 4.3%. Weekly jobless claims fell to 189,000, near the lowest since the late 1960s. A December rate hike is now fully priced (<a href=\"https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC's data report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Mumbai's reopen rally. Back from the holiday, the Sensex rose 1.82% to 83,938.28 and the Nifty 1.85% to 25,819.25; foreign investors bought Rs 4,479 crore - a sixteenth buy in seventeen November sessions - and domestic institutions joined them for only the second time this month. The rupee closed at 92.23, an eight-month high (<a href=\"https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html\" target=\"_blank\" rel=\"noopener\">the flows report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "The deal's first tape. APL Apollo fell 11.42% to Rs 1,478 after touching minus 20% intraday - a second brutal session after Monday's minus 22% - and Tata Steel fell 2.54% to Rs 159.10, as the market kept voting against the Rs 28,000-crore swap (<a href=\"https://www.cnbctv18.com/business/companies/apl-apolli-tubes-promoter-sanjay-gupta-tata-steel-deal-stake-sale-transform-business-market-share-20039911.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Huang's return, and the unanswered deadline. Jensen Huang was reinstated as Nvidia's chief executive on Monday - the stock rose about 30%, roughly $950 billion in a day (<a href=\"https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal\" target=\"_blank\" rel=\"noopener\">NPR</a>). The November 25 deadline to answer the US Treasury's export-control questions has now passed; as of this morning, nothing public has been filed (<a href=\"https://www.politico.com/news/2026/11/22/treasury-department-waiting-answers-nvidia-01179718\" target=\"_blank\" rel=\"noopener\">Politico</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Siemens Energy India's quarter. Revenue up 30.4% to Rs 3,453 crore, profit up 81.5% to Rs 653 crore, orders up 92.1%, a Rs 12 dividend - and the first year above Rs 10,000 crore of revenue (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b498aec5-9f3e-4e87-a416-2af9441395df.pdf\" target=\"_blank\" rel=\"noopener\">the exchange filing</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Mahanadi's listing eve. Shares credit to demat accounts today after allotment finalised Wednesday; listing is Friday at 10 AM. The retail book closed at 0.48 times - every valid retail bid gets shares (<a href=\"https://dhan.co/blog/ipo/mahanadi-coalfields-ipo-check-allotment-status-on-nse-bse/\" target=\"_blank\" rel=\"noopener\">the allotment tally</a>)."
-     },
-     {
-      "t": "p",
-      "html": "<strong>This morning:</strong> Seoul's Kospi opened up 1% after Wednesday's 6% plunge, Tokyo up 0.7%; the Bank of Korea decides rates today with a hike to 3.25% expected. GIFT Nifty quoted up 0.48% at 2:44 AM. Gold, which broke $3,500 overnight - a $3,426.71 low, its weakest since August 2025 - recovered toward $3,575; oil rose on the Ras Tanura strikes."
-     }
+  "edition": {
+    "fact": "Edition 52. Thursday 26 November 2026. This edition runs 3654 words. Wall Street erased a plunge of 1,100 points hours before the Thanksgiving close as Washington proposed tariffs on fourteen economies; Mumbai reopened with its best session in weeks on foreign flows and a record rupee run; APL Apollo's first deal tape stayed brutal; Jensen Huang returned to Nvidia with a Treasury deadline gone unanswered; Siemens Energy India printed a breakout quarter; and Mahanadi Coalfields counts down to its Friday listing.",
+    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a Sikandrabad pipe shop founded in 1986 became India's branded steel-tube giant on Sanjay Gupta's bet that a commodity could be sold like soap - and this week he sold the company to Tata Steel while keeping a hand in the colour-coating plant next door. APL Apollo Tubes, the brand in the pipe.",
+    "hero": {
+      "img": "photos/d52-hero.jpg",
+      "alt": "Abstract plate: a harbour at first light, a long row of shipping containers stamped with fourteen flag colours, one crane paused mid-lift holding a single container, calm water, soft morning haze"
+    },
+    "groups": [
+      {
+        "heading": "The 5-minute lead route",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The comeback tape. The final session before Thanksgiving opened in a plunge - the Dow down about 1,100 points, the S&P 500 off 3.2%, the Nasdaq down 4.6% at their lows - and ended almost flat: the Dow closed up 0.33% at 50,182.95, the S&P down 0.25% at 7,182.78, the Nasdaq down 0.62% at 23,585.80 (<a href=\"https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html\" target=\"_blank\" rel=\"noopener\">CNBC's close post</a>; <a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09\" target=\"_blank\" rel=\"noopener\">AP's final-close wire</a>). US markets are shut today."
+          },
+          {
+            "t": "p",
+            "html": "The tariff salvo. Washington proposed Section 301 tariffs on 14 economies it says run structural excess manufacturing capacity - India facing up to 25% on all goods, or 17% under a reciprocal trade deal; China up to 20%; the EU and Japan 15%; Vietnam up to 35%. Proposed, not imposed: public comments close January 5 and hearings start January 25 (<a href=\"https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural\" target=\"_blank\" rel=\"noopener\">USTR's release</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The data deluge lands hot. October core PCE came in at 3.3%, a tenth above forecast; headline 3.8%. Q3 GDP was revised up to 4.3%. Weekly jobless claims fell to 189,000, near the lowest since the late 1960s. A December rate hike is now fully priced (<a href=\"https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC's data report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Mumbai's reopen rally. Back from the holiday, the Sensex rose 1.82% to 83,938.28 and the Nifty 1.85% to 25,819.25; foreign investors bought Rs 4,479 crore - a sixteenth buy in seventeen November sessions - and domestic institutions joined them for only the second time this month. The rupee closed at 92.23, an eight-month high (<a href=\"https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html\" target=\"_blank\" rel=\"noopener\">the flows report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The deal's first tape. APL Apollo fell 11.42% to Rs 1,478 after touching minus 20% intraday - a second brutal session after Monday's minus 22% - and Tata Steel fell 2.54% to Rs 159.10, as the market kept voting against the Rs 28,000-crore swap (<a href=\"https://www.cnbctv18.com/business/companies/apl-apolli-tubes-promoter-sanjay-gupta-tata-steel-deal-stake-sale-transform-business-market-share-20039911.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Huang's return, and the unanswered deadline. Jensen Huang was reinstated as Nvidia's chief executive on Monday - the stock rose about 30%, roughly $950 billion in a day (<a href=\"https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal\" target=\"_blank\" rel=\"noopener\">NPR</a>). The November 25 deadline to answer the US Treasury's export-control questions has now passed; as of this morning, nothing public has been filed (<a href=\"https://www.politico.com/news/2026/11/22/treasury-department-waiting-answers-nvidia-01179718\" target=\"_blank\" rel=\"noopener\">Politico</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Siemens Energy India's quarter. Revenue up 30.4% to Rs 3,453 crore, profit up 81.5% to Rs 653 crore, orders up 92.1%, a Rs 12 dividend - and the first year above Rs 10,000 crore of revenue (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b498aec5-9f3e-4e87-a416-2af9441395df.pdf\" target=\"_blank\" rel=\"noopener\">the exchange filing</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Mahanadi's listing eve. Shares credit to demat accounts today after allotment finalised Wednesday; listing is Friday at 10 AM. The retail book closed at 0.48 times - every valid retail bid gets shares (<a href=\"https://dhan.co/blog/ipo/mahanadi-coalfields-ipo-check-allotment-status-on-nse-bse/\" target=\"_blank\" rel=\"noopener\">the allotment tally</a>)."
+          },
+          {
+            "t": "p",
+            "html": "<strong>This morning:</strong> Seoul's Kospi opened up 1% after Wednesday's 6% plunge, Tokyo up 0.7%; the Bank of Korea decides rates today with a hike to 3.25% expected. GIFT Nifty quoted up 0.48% at 2:44 AM. Gold, which broke $3,500 overnight - a $3,426.71 low, its weakest since August 2025 - recovered toward $3,575; oil rose on the Ras Tanura strikes."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The session that round-tripped. Wednesday on Wall Street began as a rout: within hours the Dow was down about 1,100 points, minus 2.2%, the S&P 500 was off 3.2% and the Nasdaq composite 4.6% - the tariff announcement and a hot inflation print doing the damage. By the bell the Dow had erased the whole plunge to close at 50,182.95, up 164.25 points, 0.33%; the S&P 500 closed at 7,182.78, down 0.25%; the Nasdaq at 23,585.80, down 0.62% (<a href=\"https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html\" target=\"_blank\" rel=\"noopener\">CNBC's close post</a>). The numbers reconcile exactly to Tuesday's prints. It was the last full session of the week: US markets are closed today for Thanksgiving and run a shortened Friday (<a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09\" target=\"_blank\" rel=\"noopener\">AP's close wire</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The tariff salvo, owning text. The US Trade Representative determined that fourteen economies - China, the European Union, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, Korea, Vietnam, Taiwan, Bangladesh, Japan and India - maintain acts and policies creating structural excess manufacturing capacity, and proposed responsive tariffs (<a href=\"https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural\" target=\"_blank\" rel=\"noopener\">the USTR release</a>). For India: up to 25% on all goods, net of existing Section 301 tariffs, with exemptions - or 17% if India signs a reciprocal trade agreement responsive to the findings; the determination names pharmaceuticals and medical devices, steel, solar and ICT. China faces up to 20%, the EU and Japan 15%, Vietnam up to 35%."
+          },
+          {
+            "t": "p",
+            "html": "Mexico and Norway, also investigated since March, got no determination. This is a proposal, not an imposition: comments and hearing requests are due January 5, hearings begin January 25, and there is no effective date. <a href=\"https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/\" target=\"_blank\" rel=\"noopener\">Reuters</a> frames it as rebuilding tariff leverage the Supreme Court struck down in February; <a href=\"https://www.washingtonpost.com/politics/2026/11/25/trump-proposes-new-tariffs-china-europe-other-trade-partners/\" target=\"_blank\" rel=\"noopener\">the Washington Post</a> likewise."
+          },
+          {
+            "t": "p",
+            "html": "The data deluge landed hot. October's PCE inflation: headline 3.8% year on year, in line with consensus and a tenth above September; core at 3.3%, a tenth above forecast."
+          },
+          {
+            "t": "p",
+            "html": "The second estimate of Q3 GDP was revised up to 4.3% annualized, with consumer spending up 4.2% and real final sales to private domestic purchasers up 5.8%. Personal income rose 0.7% in October against a 0.4% forecast; spending rose 0.3%, a tenth light. Initial jobless claims fell 13,000 to 189,000, around the lowest since the late 1960s. The market's read: a December 8-9 quarter-point hike is fully priced, and the odds of a third 2027 hike fell to about one-in-three from even money (<a href=\"https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC's data report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Huang's return - and the deadline that passed. Nvidia's board reinstated Jensen Huang as chief executive on Monday, eleven days after his removal; the stock rose about 30% that day, roughly $950 billion of market value, which NPR framed as the biggest one-day gain for a single company on record; CoreWeave rose 22% alongside (<a href=\"https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal\" target=\"_blank\" rel=\"noopener\">NPR's on-record report</a>). Separately, the November 25 deadline for Nvidia to answer the Treasury's export-control questions passed with no public filing found as of this morning (<a href=\"https://www.politico.com/news/2026/11/22/treasury-department-waiting-answers-nvidia-01179718\" target=\"_blank\" rel=\"noopener\">Politico's report</a>). What the company tells Washington, when it tells it, is now the story."
+          },
+          {
+            "t": "p",
+            "html": "The deal's first tape, day two. APL Apollo closed at Rs 1,478.00, down 11.42%, after trading as low as Rs 1,334.55 - minus 20% intraday - following Monday's 22% fall, which CNBC-TV18 called its biggest one-day drop in twenty years; Tata Steel closed at Rs 159.10, down 2.54% (BSE official prints). The promoter's sister entities, SG Mart and SG Finserve, each fell 20% Wednesday; SG Mart's board meets today on a fundraise proposal. The owning math, from the filings: Tata Steel sells its tubes business and Tata Steel Colors to APL Apollo for a combined Rs 28,000 crore; it buys the promoter's 26.38% - 7,38,60,062 shares - at Rs 2,100 for Rs 15,510.61 crore in three tranches running to March 2028; and it opens an offer for 26% more at Rs 2,301.40, up to Rs 16,755.66 crore, managed by Kotak Mahindra Capital, needing competition and US SEC clearances (<a href=\"https://www.tatasteel.com/media/26678/bse-outcome-board-meeting.pdf\" target=\"_blank\" rel=\"noopener\">Tata's board outcome</a>; <a href=\"https://www.sebi.gov.in/sebi_data/commondocs/nov-2026/APL%20Apollo%20Tubes%20Limited-PA_p.pdf\" target=\"_blank\" rel=\"noopener\">the SEBI open-offer announcement</a>). APL Apollo says it will fund the purchase with acquisition financing, then replace the debt with long-term capital (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1653e7b2-bd72-4f1d-8d97-c5527c508fe7.pdf\" target=\"_blank\" rel=\"noopener\">its investor deck</a>). At Wednesday's close the whole company is valued near Rs 41,400 crore - the market is pricing the buyer below one and a half times what it just agreed to borrow and spend. Samir Arora of Helios Capital asked the conflict question on record: can a promoter commit his company to a significant transaction while selling all his shares at the same time? Four or more brokerages downgraded; ICICI Securities and Axis Capital cut targets by 40% or more (<a href=\"https://www.cnbctv18.com/business/companies/apl-apolli-tubes-promoter-sanjay-gupta-tata-steel-deal-stake-sale-transform-business-market-share-20039911.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)."
+          },
+          {
+            "t": "p",
+            "html": "This morning in Asia. Seoul's Kospi opened up 1.01% at 4,745.10, a partial rebound after Wednesday's plunge of more than 6%, with the Kosdaq up about 2% (<a href=\"https://en.yna.co.kr/view/AEN20261126001700320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>); Tokyo's Nikkei opened up 0.73% at 57,429.54. CNBC frames a subdued open region-wide as investors weigh the fresh US tariffs (<a href=\"https://www.cnbc.com/2026/11/26/stock-markets-today-.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). The Bank of Korea decides policy today - its last meeting of the year - with economists expecting a third hike of the cycle, to 3.25%, plus a revised outlook (<a href=\"https://en.news1.kr/economy/6383570\" target=\"_blank\" rel=\"noopener\">the preview</a>); the outcome lands after this paper's deadline. India's early marker: GIFT Nifty quoted at 26,050, up 125 points, 0.48%, at its 2:44 AM close (<a href=\"https://giftniftytoday.com/sgx-nifty\" target=\"_blank\" rel=\"noopener\">the quote page</a>) - a marker, not a prediction."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The reopen rally. Mumbai came back from Prakash Gurpurab Sri Guru Nanak Dev with its best session in weeks: the Sensex closed at 83,938.28, up 1,502.29 points, 1.82%; the Nifty at 25,819.25, up 469.6 points, 1.85%. FMCG, private banks and pharma led; metals and media lagged. The midcap index added 0.4% while smallcaps fell 0.4% - a large-cap day. Nifty gainers: Hindustan Unilever, Nestle India, Tata Consumer, InterGlobe Aviation, HDFC Life; laggards: Tata Steel, Shriram Finance, Hindalco, JSW Steel, Max Healthcare (<a href=\"https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's close report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The flows turned together. Foreign investors bought Rs 4,479.08 crore in the cash market Wednesday - purchases of Rs 24,309.87 crore against sales of Rs 19,830.79 crore - their sixteenth net-buying session in seventeen this November."
+          },
+          {
+            "t": "p",
+            "html": "Domestic institutions bought Rs 4,018.72 crore, only their second net-buying day of the month (the first: Rs 196.93 crore on November 17). November's foreign buying has pared the calendar-year net selling to Rs 3,26,127.98 crore; domestic institutions remain net buyers of Rs 6,41,226.53 crore for the year (<a href=\"https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html\" target=\"_blank\" rel=\"noopener\">the provisional tallies</a>). Provisional exchange data, revisable."
+          },
+          {
+            "t": "p",
+            "html": "The rupee's best run in months. The currency closed at 92.23 against the dollar, up 0.7% on the day, after touching 92.1850 intraday - an eight-month high; it opened at 92.74 and is up 2.9% in November. Traders credited foreign portfolio inflows, softer crude and better dollar supply-demand (<a href=\"https://www.moneycontrol.com/news/business/commodities/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persis-14088891.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>; <a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-highlights-stock-market-updates-25-november-2026/article71734420.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The early marker and the calendar. GIFT Nifty's last quote was 26,050, up 0.48%, at 2:44 AM (<a href=\"https://giftniftytoday.com/sgx-nifty\" target=\"_blank\" rel=\"noopener\">the quote page</a>). US markets are shut today, so tonight brings no Wall Street close; the Bank of Korea's decision, any Nvidia-Treasury news and Friday's Mahanadi listing carry the week. Results today include Patanjali Foods' board meeting; SG Mart meets on a fundraise proposal (<a href=\"https://www.cruxal.in/calendar/results\" target=\"_blank\" rel=\"noopener\">the results calendar</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "IPOs",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Mahanadi Coalfields: listing eve. Allotment was finalised Wednesday by KFin Technologies; refunds and demat credit land today, and the stock lists Friday at 10 AM on BSE and NSE (<a href=\"https://upstox.com/news/market-news/ipo/mahanadi-coalfields-ipo-allotment-how-to-check-status-online-on-nse-bse-k-fin-technologies-listing-date-time-here/article-203914/\" target=\"_blank\" rel=\"noopener\">the exchange timeline</a>). The final book tells the story of this issue: 1.52 times subscribed on the 49.31 crore shares open after anchors - institutions 4.95 times, retail just 0.48 times. On 19,68,96,299 shares reserved, retail subscription under 100% means every valid retail bid gets a full allotment, no lottery; 6,41,346 applications came in all told (<a href=\"https://dhan.co/blog/ipo/mahanadi-coalfields-ipo-check-allotment-status-on-nse-bse/\" target=\"_blank\" rel=\"noopener\">the final tally</a>). Coal India's Rs 8,981-crore divestment priced at Rs 136."
+          },
+          {
+            "t": "p",
+            "html": "LG Electronics India's parent sells down. LG Electronics Inc launched a block deal of up to $251 million in the Indian arm at a floor of Rs 1,709.3 a share, to comply with minimum public shareholding norms; the sale trims the parent's 85% holding (<a href=\"https://www.moneycontrol.com/news/business/companies/lg-electronics-india-parent-launches-up-to-251-mn-block-deal-to-comply-with-mps-norms-14089013.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>). A routine compliance sale in one of the year's big listings - and a test of appetite with the stock's lock-ups maturing."
+          }
+        ]
+      },
+      {
+        "heading": "Top movers - the reopen's board",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The reopen repriced the tracked board with a clear split: the banks-and-IT side rose with the index while the cyclicals fell on a plus-1.8% day - percentages computed from BSE's official closes against Tuesday:"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 424\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Wednesday 25 Nov (% vs Tuesday close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Tech Mahindra</text><rect x=\"300\" y=\"30\" width=\"37.4\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"337.4\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.89%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"300\" y=\"78\" width=\"47.5\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"347.5\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.13%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Infosys</text><rect x=\"300\" y=\"126\" width=\"94.9\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"394.9\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.26%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">ONGC</text><rect x=\"281.9\" y=\"174\" width=\"18.1\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"281.9\" y=\"193\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.43%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Voltas</text><rect x=\"300\" y=\"222\" width=\"34.4\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"334.4\" y=\"241\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.82%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">JSW Steel</text><rect x=\"268.1\" y=\"270\" width=\"31.9\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"268.1\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.76%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Kotak Bank</text><rect x=\"300\" y=\"318\" width=\"45.8\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"345.8\" y=\"337\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.09%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">Hindalco</text><rect x=\"243.3\" y=\"366\" width=\"56.7\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"243.3\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.35%</text></svg>"
+          },
+          {
+            "t": "p",
+            "html": "Off the chart but the session's real movers: APL Apollo -11.42% and Tata Steel -2.54% on the deal's first tape (the front page carries both). What moves the board next: the Bank of Korea this morning, a Wall-Street-less tonight, and Mahanadi's Friday listing - with Wednesday's FII-DII double-buy and the rupee's eight-month high behind the tape."
+          }
+        ]
+      },
+      {
+        "heading": "Corporate actions",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Siemens Energy India's standout quarter. The company's fourth quarter of FY2026 - its fiscal year ends in September - delivered revenue of Rs 3,453 crore, up 30.4%; profit after tax of Rs 653 crore, up 81.5%; new orders of Rs 4,514 crore, up 92.1%; and a backlog of Rs 20,362 crore, up 25.6%, at a 22.6% EBIT margin. The full year crossed Rs 10,000 crore of revenue for the first time - Rs 10,243 crore, up 30.9%, with profit up 61.9% to Rs 1,781 crore - and the board recommended a Rs 12 dividend. It will invest Rs 2,060 crore in large power transformer capacity at Kalwa and Chhatrapati Sambhajinagar (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b498aec5-9f3e-4e87-a416-2af9441395df.pdf\" target=\"_blank\" rel=\"noopener\">the owning filing</a>; <a href=\"https://www.cnbctv18.com/market/stocks/siemens-energy-india-share-price-q4-results-profit-zooms-82-as-new-orders-nearly-double-declares-rs-12-dividend-20041488.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>). Audited, unmodified opinion. Also on the wire: the Union Cabinet approved Prudential's FDI proposal in Bharti Life Insurance (<a href=\"https://www.moneycontrol.com/news/business/economy/union-cabinet-approves-prudential-s-fdi-proposal-in-bharti-life-insurance-14088799.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>); LG's parent launched its compliance block deal (the IPOs section); SG Mart - the APL Apollo promoter's sister entity, down 20% Wednesday - meets today on a fundraise; HDFC Bank's board takes up a routine director reappointment (<a href=\"https://www.cruxal.in/calendar/results\" target=\"_blank\" rel=\"noopener\">the calendar</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "Finance Goldmine",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The seesaw, amplified. Wednesday's macro told one story in two metals and a barrel: gold broke $3,500 an ounce - a $3,426.71 low, its weakest since August 2025 and its first trip under $3,500 since September - as hot inflation priced a December hike; crude went the other way, up around 2 to 3% after the Houthis confirmed strikes on Saudi Arabia's Ras Tanura refinery and Iran raised the Hormuz rhetoric (<a href=\"https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html\" target=\"_blank\" rel=\"noopener\">CNBC's oil report</a>). By this morning gold had recovered toward $3,575 and WTI held near $83.80. Interest rates tax the metal; geopolitics pays the barrel. Last week it was the same seesaw with smaller weights."
+          },
+          {
+            "t": "p",
+            "html": "Term of the day: slump sale. One deal, two legal routes. Tata Steel's tubes business moves to APL Apollo as a going-concern slump sale - the whole business, assets and liabilities, for a lump-sum Rs 11,700 crore, no item-by-item pricing - while the colour-coated arm moves by share purchase: APL Apollo buys 100% of Tata Steel Colors for Rs 16,300 crore (<a href=\"https://www.tatasteel.com/media/26678/bse-outcome-board-meeting.pdf\" target=\"_blank\" rel=\"noopener\">the board outcome filing</a>). Same seller, same buyer, same Sunday board meeting: the business moves by slump sale, the company by share transfer. The tax and stamp-duty treatment of the two routes is why both exist."
+          },
+          {
+            "t": "p",
+            "html": "The flow reversal behind the rupee. November's foreign buying - sixteen net-buying sessions in seventeen - has cut the calendar year's FII net selling to Rs 3,26,127.98 crore, while domestic institutions sit on Rs 6,41,226.53 crore of net buying for the year (<a href=\"https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html\" target=\"_blank\" rel=\"noopener\">the tallies</a>). Wednesday was the first session in weeks where both bought together, and the rupee printed an eight-month high on it. When the two biggest flows in the market point the same way, the currency notices."
+          }
+        ]
+      },
+      {
+        "heading": "AI Race",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "A shield while you patch. OpenAI and Cisco launched Shirudo, an open-source runtime - BSD 2-Clause - that lets operators deploy AI-generated temporary shields on running Linux systems: eBPF programs that block a vulnerable code path without a restart while the real patch rolls out. In a controlled test, a Codex-generated shield blocked a Java4Shell exploit against a live Elasticsearch service; shields are cryptographically signed with TPM attestation (<a href=\"https://openai.com/index/introducing-shirudo/\" target=\"_blank\" rel=\"noopener\">OpenAI's post</a>; <a href=\"https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai.html\" target=\"_blank\" rel=\"noopener\">Cisco's newsroom</a>). The pitch: the window between a vulnerability's disclosure and its patch is where breaches live, and agents can now shrink that window to minutes."
+          },
+          {
+            "t": "p",
+            "html": "Agent teams doing formal mathematics. Google DeepMind paired teams of Gemini 4 agents with Lean formal verification to find faster quantum algorithms: an 11.8-times cost cut on an inertial-confinement-fusion circuit (5,650 qubits to 4,338), an 8-times cheaper light-sensitive-molecule simulation, a 2.57-times Grover speedup and a 290-times improvement on an arcsin routine - with the Lean library, problem specs and verified solutions open-sourced (<a href=\"https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/\" target=\"_blank\" rel=\"noopener\">DeepMind's post</a>). The agents propose, the proof checker disposes: nothing counts until Lean verifies it. On the listed side of the AI complex, the newly listed model maker closed Wednesday at $82.79, up 1.08% - still under its $83 IPO price - after trading as low as $73.85 intraday, a dip that briefly took its market value below $1 trillion (<a href=\"https://nglobenews.com/en/article/us-anthropic-shares-fall-below-ipo-price-2026-11-25/\" target=\"_blank\" rel=\"noopener\">the close report</a>; <a href=\"https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/\" target=\"_blank\" rel=\"noopener\">SiliconANGLE</a>). The week's AI-complex selling hit the hardware names harder than the model maker; the debut week ends with the stock a quarter below where it opened on day one."
+          }
+        ]
+      },
+      {
+        "heading": "One concept: ambiguity aversion",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "In 1961, Daniel Ellsberg described a puzzle: offer people a bet on a draw from an urn with fifty red and fifty black balls, and a second urn with a hundred balls in unknown proportions, and they will pay to bet on the first - though the odds of either are even. Ambiguity aversion: people prefer known risks to unknown ones, and they pay a premium to avoid the unmeasurable. The tariff salvo is an Ellsberg urn. The rates are proposed, not final - 25% or 17% for India, depending on a deal that does not exist yet, decided by hearings that start in January. Nobody can price the second urn, so the first instinct is to sell it. Wednesday's intraday plunge was that instinct; the recovery was the discovery that the proposal, for now, is only paper. The discipline is separating what is known (the rates on paper, the dates) from what is unknown (the final number) - and refusing to pay the ambiguity premium for confusing the two."
+          }
+        ]
+      },
+      {
+        "heading": "Setup board",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Wednesday's reopen scored the board: no resolutions, no new clearances, all four watchlist lines still watchlist. The split session ran through it - Kotak and the ledger names rose with the tape while the cyclicals fell on a plus-1.8% index day. The line to watch is ONGC's coil: the floor at 218.50 held for a ninth session, but the day's low of 219.65 is the tightest test of the floor yet, and it came with crude spiking - a tailwind that never showed up in the print. If the floor breaches, the coil line dies by its own rule."
+          },
+          {
+            "t": "p",
+            "html": "The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - last printed Rs 1,378.40 (+1.13%). Infosys, resolved by invalidation, no trade, no P&L, last printed Rs 1,129.00 (+2.26%). Research, not advice."
+          },
+          {
+            "t": "chart",
+            "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines, BSE official closes, Wednesday 25 November: <b>Kotak Mahindra Bank</b> 508.50 (+1.09%) - trigger holds, twenty-first session above 437.55 (day's low 504.50 never threatened it); stop far away at 420. <b>ONGC</b> 221.95 (-0.43%) - ninth session below the 228 breakout line; coil floor 218.50 intact but the day's low 219.65 is the closest approach since the coil started. <b>JSW Steel</b> 1,301.00 (-0.76%) - the 1,370 target untouched; risk-reward at worst fill about 0.49 to 1 against the 1,158.95 floor: fails the screen. <b>Hindalco</b> 889.00 (-1.35%) - never reached the 911-912 reclaim zone, closed at the day's low end; still no verified entry zone, the candidate case weakens.</p>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Wednesday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"270.4\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"270.4\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">221.95</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC's coil: floor 218.50, top 238.75; Wednesday's close 221.95, ninth session under the 228 breakout line.</p>"
+          }
+        ]
+      },
+      {
+        "heading": "How the board scores",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "No prior-day stop trade",
+                "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry."
+              },
+              {
+                "n": "2",
+                "title": "Worst fill in the zone",
+                "detail": "Entry is assumed at the worst price inside the published zone, not the best."
+              },
+              {
+                "n": "3",
+                "title": "R:R on the worst fill",
+                "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board."
+              },
+              {
+                "n": "4",
+                "title": "Resolution only",
+                "detail": "A line leaves the board only by stop, target or invalidation - never by opinion."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The week ahead",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Thu 26 Nov",
+                "detail": "US markets closed for Thanksgiving. Bank of Korea decides rates (hike to 3.25% expected). Mahanadi demat credit. Patanjali Foods Q2 board; SG Mart fundraise proposal; HDFC Bank board."
+              },
+              {
+                "n": "2",
+                "title": "Fri 27 Nov",
+                "detail": "Mahanadi Coalfields lists on BSE and NSE at 10 AM. US reopens for a shortened session, 1:00 PM ET close. Indian Bank results."
+              },
+              {
+                "n": "3",
+                "title": "Sun 30 Nov",
+                "detail": "India's Q2 GDP print."
+              },
+              {
+                "n": "4",
+                "title": "Watching",
+                "detail": "The APL Apollo open offer's detailed public statement by December 1; the RBI's MPC on 4 December; the Fed on 8-9 December; USTR comments run to January 5, hearings January 25; whatever Nvidia files or tells the Treasury; the BoK outcome this morning."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Notes on this edition",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Sources read for this edition: CNBC's close post and AP's final-close wire for the US session, point moves reconciled exactly to Tuesday's prints; CNBC's PCE report for the data deluge; USTR's own press release for the Section 301 determinations, with Reuters and the Washington Post for framing; NPR's on-record report for the Nvidia reinstatement and Politico for the Treasury deadline; Moneycontrol's close report, its provisional flow tallies and its rupee report for the reopen; Hindu BusinessLine's market wrap; BSE's official bhavcopy for every India price; CNBC-TV18 for the deal tape and the promoter entities; Tata Steel's board-outcome filing, the SEBI open-offer public announcement and APL Apollo's investor deck for deal math; Siemens Energy India's owning exchange filing; OpenAI's and Cisco's posts for Shirudo, DeepMind's post for the quantum work; the close report and SiliconANGLE for Anthropic; Yonhap and CNBC for Asia's open; the pre-market quote page for GIFT Nifty.",
+              "US closes are final-close wires. India prices are BSE official bhavcopy prints. GIFT Nifty, Asia's opens, gold and oil are morning quotes as of roughly 6:00 AM IST and will move; they are quoted as markers, not predictions. Anthropic's Wednesday close comes from public closing records, not an exchange table - printed with attribution. The tariff figures are proposed rates from the owning USTR release: nothing is imposed, comments close January 5, hearings start January 25, and no effective date exists. An aggregator claim of an Anthropic product launch was checked against Anthropic's own newsroom this morning, found absent, and dropped. This is research, not advice.",
+              "The Siemens Energy India quarter is the company's Q4 FY2026 - its fiscal year ends in September - not Q2 FY27 as some calendars labelled it; yesterday's preview line carried the calendar's label and is corrected in today's File revision."
+            ]
+          },
+          {
+            "t": "closing",
+            "html": "That's the paper for Thursday. America is shut for Thanksgiving, Mumbai gets a listing eve, and the tariff clock started yesterday - proposed, not imposed, and the dates are January's. See you tomorrow."
+          }
+        ]
+      }
     ]
-   },
-   {
-    "heading": "Front page",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "The session that round-tripped. Wednesday on Wall Street began as a rout: within hours the Dow was down about 1,100 points, minus 2.2%, the S&P 500 was off 3.2% and the Nasdaq composite 4.6% - the tariff announcement and a hot inflation print doing the damage. By the bell the Dow had erased the whole plunge to close at 50,182.95, up 164.25 points, 0.33%; the S&P 500 closed at 7,182.78, down 0.25%; the Nasdaq at 23,585.80, down 0.62% (<a href=\"https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html\" target=\"_blank\" rel=\"noopener\">CNBC's close post</a>). The numbers reconcile exactly to Tuesday's prints. It was the last full session of the week: US markets are closed today for Thanksgiving and run a shortened Friday (<a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09\" target=\"_blank\" rel=\"noopener\">AP's close wire</a>)."
-     },
-     {
-      "t": "p",
-      "html": "The tariff salvo, owning text. The US Trade Representative determined that fourteen economies - China, the European Union, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, Korea, Vietnam, Taiwan, Bangladesh, Japan and India - maintain acts and policies creating structural excess manufacturing capacity, and proposed responsive tariffs (<a href=\"https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural\" target=\"_blank\" rel=\"noopener\">the USTR release</a>). For India: up to 25% on all goods, net of existing Section 301 tariffs, with exemptions - or 17% if India signs a reciprocal trade agreement responsive to the findings; the determination names pharmaceuticals and medical devices, steel, solar and ICT. China faces up to 20%, the EU and Japan 15%, Vietnam up to 35%."
-     },
-     {
-      "t": "p",
-      "html": "Mexico and Norway, also investigated since March, got no determination. This is a proposal, not an imposition: comments and hearing requests are due January 5, hearings begin January 25, and there is no effective date. <a href=\"https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/\" target=\"_blank\" rel=\"noopener\">Reuters</a> frames it as rebuilding tariff leverage the Supreme Court struck down in February; <a href=\"https://www.washingtonpost.com/politics/2026/11/25/trump-proposes-new-tariffs-china-europe-other-trade-partners/\" target=\"_blank\" rel=\"noopener\">the Washington Post</a> likewise."
-     },
-     {
-      "t": "p",
-      "html": "The data deluge landed hot. October's PCE inflation: headline 3.8% year on year, in line with consensus and a tenth above September; core at 3.3%, a tenth above forecast."
-     },
-     {
-      "t": "p",
-      "html": "The second estimate of Q3 GDP was revised up to 4.3% annualized, with consumer spending up 4.2% and real final sales to private domestic purchasers up 5.8%. Personal income rose 0.7% in October against a 0.4% forecast; spending rose 0.3%, a tenth light. Initial jobless claims fell 13,000 to 189,000, around the lowest since the late 1960s. The market's read: a December 8-9 quarter-point hike is fully priced, and the odds of a third 2027 hike fell to about one-in-three from even money (<a href=\"https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html\" target=\"_blank\" rel=\"noopener\">CNBC's data report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Huang's return - and the deadline that passed. Nvidia's board reinstated Jensen Huang as chief executive on Monday, eleven days after his removal; the stock rose about 30% that day, roughly $950 billion of market value, which NPR framed as the biggest one-day gain for a single company on record; CoreWeave rose 22% alongside (<a href=\"https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal\" target=\"_blank\" rel=\"noopener\">NPR's on-record report</a>). Separately, the November 25 deadline for Nvidia to answer the Treasury's export-control questions passed with no public filing found as of this morning (<a href=\"https://www.politico.com/news/2026/11/22/treasury-department-waiting-answers-nvidia-01179718\" target=\"_blank\" rel=\"noopener\">Politico's report</a>). What the company tells Washington, when it tells it, is now the story."
-     },
-     {
-      "t": "p",
-      "html": "The deal's first tape, day two. APL Apollo closed at Rs 1,478.00, down 11.42%, after trading as low as Rs 1,334.55 - minus 20% intraday - following Monday's 22% fall, which CNBC-TV18 called its biggest one-day drop in twenty years; Tata Steel closed at Rs 159.10, down 2.54% (BSE official prints). The promoter's sister entities, SG Mart and SG Finserve, each fell 20% Wednesday; SG Mart's board meets today on a fundraise proposal. The owning math, from the filings: Tata Steel sells its tubes business and Tata Steel Colors to APL Apollo for a combined Rs 28,000 crore; it buys the promoter's 26.38% - 7,38,60,062 shares - at Rs 2,100 for Rs 15,510.61 crore in three tranches running to March 2028; and it opens an offer for 26% more at Rs 2,301.40, up to Rs 16,755.66 crore, managed by Kotak Mahindra Capital, needing competition and US SEC clearances (<a href=\"https://www.tatasteel.com/media/26678/bse-outcome-board-meeting.pdf\" target=\"_blank\" rel=\"noopener\">Tata's board outcome</a>; <a href=\"https://www.sebi.gov.in/sebi_data/commondocs/nov-2026/APL%20Apollo%20Tubes%20Limited-PA_p.pdf\" target=\"_blank\" rel=\"noopener\">the SEBI open-offer announcement</a>). APL Apollo says it will fund the purchase with acquisition financing, then replace the debt with long-term capital (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/1653e7b2-bd72-4f1d-8d97-c5527c508fe7.pdf\" target=\"_blank\" rel=\"noopener\">its investor deck</a>). At Wednesday's close the whole company is valued near Rs 41,400 crore - the market is pricing the buyer below one and a half times what it just agreed to borrow and spend. Samir Arora of Helios Capital asked the conflict question on record: can a promoter commit his company to a significant transaction while selling all his shares at the same time? Four or more brokerages downgraded; ICICI Securities and Axis Capital cut targets by 40% or more (<a href=\"https://www.cnbctv18.com/business/companies/apl-apolli-tubes-promoter-sanjay-gupta-tata-steel-deal-stake-sale-transform-business-market-share-20039911.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>)."
-     },
-     {
-      "t": "p",
-      "html": "This morning in Asia. Seoul's Kospi opened up 1.01% at 4,745.10, a partial rebound after Wednesday's plunge of more than 6%, with the Kosdaq up about 2% (<a href=\"https://en.yna.co.kr/view/AEN20261126001700320\" target=\"_blank\" rel=\"noopener\">Yonhap</a>); Tokyo's Nikkei opened up 0.73% at 57,429.54. CNBC frames a subdued open region-wide as investors weigh the fresh US tariffs (<a href=\"https://www.cnbc.com/2026/11/26/stock-markets-today-.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>). The Bank of Korea decides policy today - its last meeting of the year - with economists expecting a third hike of the cycle, to 3.25%, plus a revised outlook (<a href=\"https://en.news1.kr/economy/6383570\" target=\"_blank\" rel=\"noopener\">the preview</a>); the outcome lands after this paper's deadline. India's early marker: GIFT Nifty quoted at 26,050, up 125 points, 0.48%, at its 2:44 AM close (<a href=\"https://giftniftytoday.com/sgx-nifty\" target=\"_blank\" rel=\"noopener\">the quote page</a>) - a marker, not a prediction."
-     }
-    ]
-   },
-   {
-    "heading": "Markets",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "The reopen rally. Mumbai came back from Prakash Gurpurab Sri Guru Nanak Dev with its best session in weeks: the Sensex closed at 83,938.28, up 1,502.29 points, 1.82%; the Nifty at 25,819.25, up 469.6 points, 1.85%. FMCG, private banks and pharma led; metals and media lagged. The midcap index added 0.4% while smallcaps fell 0.4% - a large-cap day. Nifty gainers: Hindustan Unilever, Nestle India, Tata Consumer, InterGlobe Aviation, HDFC Life; laggards: Tata Steel, Shriram Finance, Hindalco, JSW Steel, Max Healthcare (<a href=\"https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's close report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "The flows turned together. Foreign investors bought Rs 4,479.08 crore in the cash market Wednesday - purchases of Rs 24,309.87 crore against sales of Rs 19,830.79 crore - their sixteenth net-buying session in seventeen this November."
-     },
-     {
-      "t": "p",
-      "html": "Domestic institutions bought Rs 4,018.72 crore, only their second net-buying day of the month (the first: Rs 196.93 crore on November 17). November's foreign buying has pared the calendar-year net selling to Rs 3,26,127.98 crore; domestic institutions remain net buyers of Rs 6,41,226.53 crore for the year (<a href=\"https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html\" target=\"_blank\" rel=\"noopener\">the provisional tallies</a>). Provisional exchange data, revisable."
-     },
-     {
-      "t": "p",
-      "html": "The rupee's best run in months. The currency closed at 92.23 against the dollar, up 0.7% on the day, after touching 92.1850 intraday - an eight-month high; it opened at 92.74 and is up 2.9% in November. Traders credited foreign portfolio inflows, softer crude and better dollar supply-demand (<a href=\"https://www.moneycontrol.com/news/business/commodities/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persis-14088891.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>; <a href=\"https://www.thehindubusinessline.com/markets/sensex-nifty50-highlights-stock-market-updates-25-november-2026/article71734420.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine</a>)."
-     },
-     {
-      "t": "p",
-      "html": "The early marker and the calendar. GIFT Nifty's last quote was 26,050, up 0.48%, at 2:44 AM (<a href=\"https://giftniftytoday.com/sgx-nifty\" target=\"_blank\" rel=\"noopener\">the quote page</a>). US markets are shut today, so tonight brings no Wall Street close; the Bank of Korea's decision, any Nvidia-Treasury news and Friday's Mahanadi listing carry the week. Results today include Patanjali Foods' board meeting; SG Mart meets on a fundraise proposal (<a href=\"https://www.cruxal.in/calendar/results\" target=\"_blank\" rel=\"noopener\">the results calendar</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "IPOs",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "Mahanadi Coalfields: listing eve. Allotment was finalised Wednesday by KFin Technologies; refunds and demat credit land today, and the stock lists Friday at 10 AM on BSE and NSE (<a href=\"https://upstox.com/news/market-news/ipo/mahanadi-coalfields-ipo-allotment-how-to-check-status-online-on-nse-bse-k-fin-technologies-listing-date-time-here/article-203914/\" target=\"_blank\" rel=\"noopener\">the exchange timeline</a>). The final book tells the story of this issue: 1.52 times subscribed on the 49.31 crore shares open after anchors - institutions 4.95 times, retail just 0.48 times. On 19,68,96,299 shares reserved, retail subscription under 100% means every valid retail bid gets a full allotment, no lottery; 6,41,346 applications came in all told (<a href=\"https://dhan.co/blog/ipo/mahanadi-coalfields-ipo-check-allotment-status-on-nse-bse/\" target=\"_blank\" rel=\"noopener\">the final tally</a>). Coal India's Rs 8,981-crore divestment priced at Rs 136."
-     },
-     {
-      "t": "p",
-      "html": "LG Electronics India's parent sells down. LG Electronics Inc launched a block deal of up to $251 million in the Indian arm at a floor of Rs 1,709.3 a share, to comply with minimum public shareholding norms; the sale trims the parent's 85% holding (<a href=\"https://www.moneycontrol.com/news/business/companies/lg-electronics-india-parent-launches-up-to-251-mn-block-deal-to-comply-with-mps-norms-14089013.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>). A routine compliance sale in one of the year's big listings - and a test of appetite with the stock's lock-ups maturing."
-     }
-    ]
-   },
-   {
-    "heading": "Top movers - the reopen's board",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "The reopen repriced the tracked board with a clear split: the banks-and-IT side rose with the index while the cyclicals fell on a plus-1.8% day - percentages computed from BSE's official closes against Tuesday:"
-     },
-     {
-      "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 424\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Wednesday 25 Nov (% vs Tuesday close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">Tech Mahindra</text><rect x=\"300\" y=\"30\" width=\"37.4\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"337.4\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.89%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"300\" y=\"78\" width=\"47.5\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"347.5\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.13%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Infosys</text><rect x=\"300\" y=\"126\" width=\"94.9\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"394.9\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+2.26%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">ONGC</text><rect x=\"281.9\" y=\"174\" width=\"18.1\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"281.9\" y=\"193\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.43%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Voltas</text><rect x=\"300\" y=\"222\" width=\"34.4\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"334.4\" y=\"241\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.82%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">JSW Steel</text><rect x=\"268.1\" y=\"270\" width=\"31.9\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"268.1\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-0.76%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Kotak Bank</text><rect x=\"300\" y=\"318\" width=\"45.8\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"345.8\" y=\"337\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.09%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">Hindalco</text><rect x=\"243.3\" y=\"366\" width=\"56.7\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"243.3\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.35%</text></svg>"
-     },
-     {
-      "t": "p",
-      "html": "Off the chart but the session's real movers: APL Apollo -11.42% and Tata Steel -2.54% on the deal's first tape (the front page carries both). What moves the board next: the Bank of Korea this morning, a Wall-Street-less tonight, and Mahanadi's Friday listing - with Wednesday's FII-DII double-buy and the rupee's eight-month high behind the tape."
-     }
-    ]
-   },
-   {
-    "heading": "Corporate actions",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "Siemens Energy India's standout quarter. The company's fourth quarter of FY2026 - its fiscal year ends in September - delivered revenue of Rs 3,453 crore, up 30.4%; profit after tax of Rs 653 crore, up 81.5%; new orders of Rs 4,514 crore, up 92.1%; and a backlog of Rs 20,362 crore, up 25.6%, at a 22.6% EBIT margin. The full year crossed Rs 10,000 crore of revenue for the first time - Rs 10,243 crore, up 30.9%, with profit up 61.9% to Rs 1,781 crore - and the board recommended a Rs 12 dividend. It will invest Rs 2,060 crore in large power transformer capacity at Kalwa and Chhatrapati Sambhajinagar (<a href=\"https://www.bseindia.com/xml-data/corpfiling/AttachLive/b498aec5-9f3e-4e87-a416-2af9441395df.pdf\" target=\"_blank\" rel=\"noopener\">the owning filing</a>; <a href=\"https://www.cnbctv18.com/market/stocks/siemens-energy-india-share-price-q4-results-profit-zooms-82-as-new-orders-nearly-double-declares-rs-12-dividend-20041488.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18</a>). Audited, unmodified opinion. Also on the wire: the Union Cabinet approved Prudential's FDI proposal in Bharti Life Insurance (<a href=\"https://www.moneycontrol.com/news/business/economy/union-cabinet-approves-prudential-s-fdi-proposal-in-bharti-life-insurance-14088799.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol</a>); LG's parent launched its compliance block deal (the IPOs section); SG Mart - the APL Apollo promoter's sister entity, down 20% Wednesday - meets today on a fundraise; HDFC Bank's board takes up a routine director reappointment (<a href=\"https://www.cruxal.in/calendar/results\" target=\"_blank\" rel=\"noopener\">the calendar</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "Finance Goldmine",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "The seesaw, amplified. Wednesday's macro told one story in two metals and a barrel: gold broke $3,500 an ounce - a $3,426.71 low, its weakest since August 2025 and its first trip under $3,500 since September - as hot inflation priced a December hike; crude went the other way, up around 2 to 3% after the Houthis confirmed strikes on Saudi Arabia's Ras Tanura refinery and Iran raised the Hormuz rhetoric (<a href=\"https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html\" target=\"_blank\" rel=\"noopener\">CNBC's oil report</a>). By this morning gold had recovered toward $3,575 and WTI held near $83.80. Interest rates tax the metal; geopolitics pays the barrel. Last week it was the same seesaw with smaller weights."
-     },
-     {
-      "t": "p",
-      "html": "Term of the day: slump sale. One deal, two legal routes. Tata Steel's tubes business moves to APL Apollo as a going-concern slump sale - the whole business, assets and liabilities, for a lump-sum Rs 11,700 crore, no item-by-item pricing - while the colour-coated arm moves by share purchase: APL Apollo buys 100% of Tata Steel Colors for Rs 16,300 crore (<a href=\"https://www.tatasteel.com/media/26678/bse-outcome-board-meeting.pdf\" target=\"_blank\" rel=\"noopener\">the board outcome filing</a>). Same seller, same buyer, same Sunday board meeting: the business moves by slump sale, the company by share transfer. The tax and stamp-duty treatment of the two routes is why both exist."
-     },
-     {
-      "t": "p",
-      "html": "The flow reversal behind the rupee. November's foreign buying - sixteen net-buying sessions in seventeen - has cut the calendar year's FII net selling to Rs 3,26,127.98 crore, while domestic institutions sit on Rs 6,41,226.53 crore of net buying for the year (<a href=\"https://www.moneycontrol.com/news/business/economy/diis-turn-net-buyers-for-only-a-second-time-in-nov-pick-up-rs-4-019-crore-while-fiis-buy-rs-4-479-crore-14089086.html\" target=\"_blank\" rel=\"noopener\">the tallies</a>). Wednesday was the first session in weeks where both bought together, and the rupee printed an eight-month high on it. When the two biggest flows in the market point the same way, the currency notices."
-     }
-    ]
-   },
-   {
-    "heading": "AI Race",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "A shield while you patch. OpenAI and Cisco launched Shirudo, an open-source runtime - BSD 2-Clause - that lets operators deploy AI-generated temporary shields on running Linux systems: eBPF programs that block a vulnerable code path without a restart while the real patch rolls out. In a controlled test, a Codex-generated shield blocked a Java4Shell exploit against a live Elasticsearch service; shields are cryptographically signed with TPM attestation (<a href=\"https://openai.com/index/introducing-shirudo/\" target=\"_blank\" rel=\"noopener\">OpenAI's post</a>; <a href=\"https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai.html\" target=\"_blank\" rel=\"noopener\">Cisco's newsroom</a>). The pitch: the window between a vulnerability's disclosure and its patch is where breaches live, and agents can now shrink that window to minutes."
-     },
-     {
-      "t": "p",
-      "html": "Agent teams doing formal mathematics. Google DeepMind paired teams of Gemini 4 agents with Lean formal verification to find faster quantum algorithms: an 11.8-times cost cut on an inertial-confinement-fusion circuit (5,650 qubits to 4,338), an 8-times cheaper light-sensitive-molecule simulation, a 2.57-times Grover speedup and a 290-times improvement on an arcsin routine - with the Lean library, problem specs and verified solutions open-sourced (<a href=\"https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/\" target=\"_blank\" rel=\"noopener\">DeepMind's post</a>). The agents propose, the proof checker disposes: nothing counts until Lean verifies it. On the listed side of the AI complex, the newly listed model maker closed Wednesday at $82.79, up 1.08% - still under its $83 IPO price - after trading as low as $73.85 intraday, a dip that briefly took its market value below $1 trillion (<a href=\"https://nglobenews.com/en/article/us-anthropic-shares-fall-below-ipo-price-2026-11-25/\" target=\"_blank\" rel=\"noopener\">the close report</a>; <a href=\"https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/\" target=\"_blank\" rel=\"noopener\">SiliconANGLE</a>). The week's AI-complex selling hit the hardware names harder than the model maker; the debut week ends with the stock a quarter below where it opened on day one."
-     }
-    ]
-   },
-   {
-    "heading": "One concept: ambiguity aversion",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "In 1961, Daniel Ellsberg described a puzzle: offer people a bet on a draw from an urn with fifty red and fifty black balls, and a second urn with a hundred balls in unknown proportions, and they will pay to bet on the first - though the odds of either are even. Ambiguity aversion: people prefer known risks to unknown ones, and they pay a premium to avoid the unmeasurable. The tariff salvo is an Ellsberg urn. The rates are proposed, not final - 25% or 17% for India, depending on a deal that does not exist yet, decided by hearings that start in January. Nobody can price the second urn, so the first instinct is to sell it. Wednesday's intraday plunge was that instinct; the recovery was the discovery that the proposal, for now, is only paper. The discipline is separating what is known (the rates on paper, the dates) from what is unknown (the final number) - and refusing to pay the ambiguity premium for confusing the two."
-     }
-    ]
-   },
-   {
-    "heading": "Setup board",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "Wednesday's reopen scored the board: no resolutions, no new clearances, all four watchlist lines still watchlist. The split session ran through it - Kotak and the ledger names rose with the tape while the cyclicals fell on a plus-1.8% index day. The line to watch is ONGC's coil: the floor at 218.50 held for a ninth session, but the day's low of 219.65 is the tightest test of the floor yet, and it came with crude spiking - a tailwind that never showed up in the print. If the floor breaches, the coil line dies by its own rule."
-     },
-     {
-      "t": "p",
-      "html": "The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - last printed Rs 1,378.40 (+1.13%). Infosys, resolved by invalidation, no trade, no P&L, last printed Rs 1,129.00 (+2.26%). Research, not advice."
-     },
-     {
-      "t": "chart",
-      "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines, BSE official closes, Wednesday 25 November: <b>Kotak Mahindra Bank</b> 508.50 (+1.09%) - trigger holds, twenty-first session above 437.55 (day's low 504.50 never threatened it); stop far away at 420. <b>ONGC</b> 221.95 (-0.43%) - ninth session below the 228 breakout line; coil floor 218.50 intact but the day's low 219.65 is the closest approach since the coil started. <b>JSW Steel</b> 1,301.00 (-0.76%) - the 1,370 target untouched; risk-reward at worst fill about 0.49 to 1 against the 1,158.95 floor: fails the screen. <b>Hindalco</b> 889.00 (-1.35%) - never reached the 911-912 reclaim zone, closed at the day's low end; still no verified entry zone, the candidate case weakens.</p>"
-     },
-     {
-      "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Wednesday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"270.4\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">218.50</text><text x=\"270.4\" y=\"16\" font-size=\"19\" text-anchor=\"middle\">221.95</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">238.75</text></svg><p style=\"font-size:13px;color:#64748b\">ONGC's coil: floor 218.50, top 238.75; Wednesday's close 221.95, ninth session under the 228 breakout line.</p>"
-     }
-    ]
-   },
-   {
-    "heading": "How the board scores",
-    "blocks": [
-     {
-      "t": "rows",
-      "items": [
-       {
-        "n": "1",
-        "title": "No prior-day stop trade",
-        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry."
-       },
-       {
-        "n": "2",
-        "title": "Worst fill in the zone",
-        "detail": "Entry is assumed at the worst price inside the published zone, not the best."
-       },
-       {
-        "n": "3",
-        "title": "R:R on the worst fill",
-        "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board."
-       },
-       {
-        "n": "4",
-        "title": "Resolution only",
-        "detail": "A line leaves the board only by stop, target or invalidation - never by opinion."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "heading": "The week ahead",
-    "blocks": [
-     {
-      "t": "rows",
-      "items": [
-       {
-        "n": "1",
-        "title": "Thu 26 Nov",
-        "detail": "US markets closed for Thanksgiving. Bank of Korea decides rates (hike to 3.25% expected). Mahanadi demat credit. Patanjali Foods Q2 board; SG Mart fundraise proposal; HDFC Bank board."
-       },
-       {
-        "n": "2",
-        "title": "Fri 27 Nov",
-        "detail": "Mahanadi Coalfields lists on BSE and NSE at 10 AM. US reopens for a shortened session, 1:00 PM ET close. Indian Bank results."
-       },
-       {
-        "n": "3",
-        "title": "Sun 30 Nov",
-        "detail": "India's Q2 GDP print."
-       },
-       {
-        "n": "4",
-        "title": "Watching",
-        "detail": "The APL Apollo open offer's detailed public statement by December 1; the RBI's MPC on 4 December; the Fed on 8-9 December; USTR comments run to January 5, hearings January 25; whatever Nvidia files or tells the Treasury; the BoK outcome this morning."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "heading": "Notes on this edition",
-    "blocks": [
-     {
-      "t": "bullets",
-      "items": [
-       "Sources read for this edition: CNBC's close post and AP's final-close wire for the US session, point moves reconciled exactly to Tuesday's prints; CNBC's PCE report for the data deluge; USTR's own press release for the Section 301 determinations, with Reuters and the Washington Post for framing; NPR's on-record report for the Nvidia reinstatement and Politico for the Treasury deadline; Moneycontrol's close report, its provisional flow tallies and its rupee report for the reopen; Hindu BusinessLine's market wrap; BSE's official bhavcopy for every India price; CNBC-TV18 for the deal tape and the promoter entities; Tata Steel's board-outcome filing, the SEBI open-offer public announcement and APL Apollo's investor deck for deal math; Siemens Energy India's owning exchange filing; OpenAI's and Cisco's posts for Shirudo, DeepMind's post for the quantum work; the close report and SiliconANGLE for Anthropic; Yonhap and CNBC for Asia's open; the pre-market quote page for GIFT Nifty.",
-       "US closes are final-close wires. India prices are BSE official bhavcopy prints. GIFT Nifty, Asia's opens, gold and oil are morning quotes as of roughly 6:00 AM IST and will move; they are quoted as markers, not predictions. Anthropic's Wednesday close comes from public closing records, not an exchange table - printed with attribution. The tariff figures are proposed rates from the owning USTR release: nothing is imposed, comments close January 5, hearings start January 25, and no effective date exists. An aggregator claim of an Anthropic product launch was checked against Anthropic's own newsroom this morning, found absent, and dropped. This is research, not advice.",
-       "The Siemens Energy India quarter is the company's Q4 FY2026 - its fiscal year ends in September - not Q2 FY27 as some calendars labelled it; yesterday's preview line carried the calendar's label and is corrected in today's File revision."
-      ]
-     },
-     {
-      "t": "closing",
-      "html": "That's the paper for Thursday. America is shut for Thanksgiving, Mumbai gets a listing eve, and the tariff clock started yesterday - proposed, not imposed, and the dates are January's. See you tomorrow."
-     }
-    ]
-   }
-  ]
- },
- "audio": {
-  "quick": "audio/d52-quick.m4a",
-  "durations": {},
-  "segments": []
- },
- "times": {
-  "full": "audio/d52-full.times.json"
- }
+  },
+  "audio": {
+    "quick": "audio/d52-quick.m4a",
+    "durations": {
+      "segment1": 318.8,
+      "segment2": 153.2,
+      "segment3": 266.72,
+      "segment4": 291.6,
+      "segment5": 221.28,
+      "segment6": 184.52,
+      "segment7": 113.52,
+      "segment8": 193.4,
+      "full": 1752.16,
+      "quick": 259.52
+    },
+    "segments": [
+      {
+        "key": "segment1",
+        "label": "Opening and the five-minute lead route"
+      },
+      {
+        "key": "segment2",
+        "label": "Front page: the comeback tape, the tariff salvo, and the hot inflation print"
+      },
+      {
+        "key": "segment3",
+        "label": "Front page: the GDP revision, Huang's return, the deal's first tape, and Asia's open"
+      },
+      {
+        "key": "segment4",
+        "label": "Markets, IPOs, and the top movers"
+      },
+      {
+        "key": "segment5",
+        "label": "Corporate actions and Finance Goldmine"
+      },
+      {
+        "key": "segment6",
+        "label": "AI Race and one concept"
+      },
+      {
+        "key": "segment7",
+        "label": "The setup board and how the board scores"
+      },
+      {
+        "key": "segment8",
+        "label": "The week ahead and the notes on this edition"
+      }
+    ],
+    "segment1": "audio/d52-segment1.m4a",
+    "segment2": "audio/d52-segment2.m4a",
+    "segment3": "audio/d52-segment3.m4a",
+    "segment4": "audio/d52-segment4.m4a",
+    "segment5": "audio/d52-segment5.m4a",
+    "segment6": "audio/d52-segment6.m4a",
+    "segment7": "audio/d52-segment7.m4a",
+    "segment8": "audio/d52-segment8.m4a",
+    "full": "audio/d52-full.m4a"
+  },
+  "times": {
+    "full": "audio/d52-full.times.json"
+  }
 }

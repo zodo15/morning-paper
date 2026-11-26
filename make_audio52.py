@@ -89,6 +89,11 @@ def respell(t):
     t = t.replace(' & ', ' and ')
     t = t.replace(' cc ', ' C C ')
     t = t.replace('Maruti 800', 'Maruti eight hundred')
+    # Ed52 ASR-proven fixes (audio-only; print text unchanged)
+    t = t.replace('a Sikandrabad pipe shop founded in 1986', 'a pipe shop in Uttar Pradesh, founded in 1986,')  # lead route: Kore cannot say Sikandrabad recognisably in this slot
+    t = t.replace('oil rose on the Ras Tanura strikes', "oil rose after the strikes on Saudi Arabia's Ras Tanura refinery")
+    t = t.replace('Sikandrabad', 'Sikandra-bad')  # Kore blurts Secunderabad otherwise
+    t = t.replace('Ras Tanura', 'Rass Tanoora')    # ASR-proven mispronunciation
 
     # R:R label
     t = re.sub(r"\bR:R\b", "risk-reward", t)
