@@ -103,7 +103,7 @@ def respell(t):
         y = m.group(1)
         if y.endswith('0'):
             dw = w99(int(y) % 100)
-            dw = dw[:-2] + 'ies' if dw.endswith('ty') else dw + 's'
+            dw = dw[:-1] + 'ies' if dw.endswith('ty') else dw + 's'
             return w99(int(y) // 100) + ' ' + dw
         return year_say(y) + 's'
     t = re.sub(r"\b(\d{4})s\b", decade, t)
@@ -211,7 +211,7 @@ def respell(t):
     t = re.sub(r"\b(\d+(?:\.\d+)?) GWh\b", lambda m: speak_number(m.group(1)) + ' gigawatt-hours', t)
     t = re.sub(r"\b(\d+(?:\.\d+)?) MW\b", lambda m: speak_number(m.group(1)) + ' megawatts', t)
     # years first (4-digit 19xx/20xx) before generic numbers
-    t = re.sub(r"\b(1[89]\d{2}|20\d{2})\b", lambda m: year_say(m.group(1)), t)
+    t = re.sub(r"(?<![\d.])(1[89]\d{2}|20\d{2})\b", lambda m: year_say(m.group(1)), t)
     # ordinals in dates like 9 Nov / 11 November
     WDAYS = {'Mon':'Monday','Tue':'Tuesday','Wed':'Wednesday','Thu':'Thursday','Fri':'Friday','Sat':'Saturday','Sun':'Sunday'}
     for ab, full in WDAYS.items():
