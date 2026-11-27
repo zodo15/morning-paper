@@ -1,0 +1,57 @@
+# Ed54 research digest - Saturday 28 Nov 2026
+Compiled 04:25 IST. Previous India session = Friday 27 Nov. No Indian session today (Saturday). Next India session Monday 30 Nov. Section pause in force (Startup Intelligence, Vibe coding, Try This, editor's read removed; Notes on this edition stays).
+
+## India, Fri 27 Nov (BSE official prints / owning wires)
+- Sensex -989.33 (-1.17%) to 83,339.26 (low 83,208.33). Nifty -277.30 (-1.07%) to 25,607.20. Bank Nifty -494.40 (-0.78%) to 63,040.90.
+- Week: Nifty -0.75%, Sensex -0.69%; ends four-week rally of ~14-15% (BusinessLine). Midcap100 +0.10%, Smallcap100 +0.56%. Nifty Metal +1.40%; IT, Auto, Financial Services each down >1%. NSE breadth 2,119 adv / 1,514 dec / 115 unch (ET).
+- Rupee ~92.98/USD, 10y G-sec ~7.21%.
+- Technical (HST Wealth via ET, attributed): Nifty broke below Thursday's doji low after repeated rejection near 26,000; support 25,400, resistance 25,750. Attribute only, not a forecast of ours.
+- BSE bhavcopy closes (BSE): TCS 2,575.00 (-2.46%), HCLTECH 1,423.80 (-2.81%), SHRIRAMFIN 924.50 (-4.00%), BAJAJ-AUTO 10,562.00 (-2.56%), BEL 411.10 (+1.56%), JSWSTEEL 1,322.00 (+1.30%), TITAN 4,674.80 (+0.95%), INDIGO 5,655.00 (+0.50%), TATASTEEL 164.10 (+0.46%), POWERGRID 268.00 (+0.37%), TRENT 3,270.10 (+0.23%), ASIANPAINT 2,532.25 (-0.42%).
+- Sources: https://www.thehindu.com/business/markets/stock-markets-snap-two-day-rally-sensex-tanks-989-points-amid-profit-booking/article71750358.ece ; https://www.thehindubusinessline.com/markets/sensex-sheds-989-points-as-crude-rupee-end-four-week-nifty-rally/article71750532.ece ; https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-jsw-steel-shriram-finance-bajaj-auto-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/136221692.cms ; bhavcopy https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV
+
+## FII/DII (provisional, CNBC-TV18)
+- Fri 27 Nov: FII net +Rs 1,634.33 cr (buy 14,259.45 / sell 12,625.12) = 19th straight buying session. DII net -Rs 556.42 cr (buy 17,263.65 / sell 17,820.07).
+- Week (23, 25, 26, 27 Nov): FII +Rs 17,630 cr. Daily FII +5,672.99 / +4,479.08 / +5,843.33 / +1,634.33. Daily DII -2,760.12 / +4,018.72 / +5,630.72 / -556.42.
+- https://www.cnbctv18.com/market/fiis-infuse-nearly-%E2%82%B917630-crore-in-4-days-even-as-nifty-snaps-four-week-rally-20043283.htm
+
+## Mahanadi Coalfields listing (Fri 27 Nov)
+- BSE (bhavcopy): O 133.15 H 137.85 L 130.70 C 132.60 vs issue Rs 136 (-2.1% at open, -2.5% at close). Volume 8,316,367. NSE open Rs 134 (-1.47%). BusinessToday "2% premium" is wrong, discard.
+- IPO: full OFS 66.18 cr shares x Rs 136 = Rs 9,000 cr; 1.52x subscribed; Coal India sold 10%; mcap ~Rs 90,000 cr (6,618,363,000 x 136 reconciles); 8-8.4x FY26 EPS Rs 16.13; FY26 revenue Rs 29,854 cr.
+- https://www.cnbctv18.com/market/mahanadi-coalfields-mcl-coal-india-subsidiary-listing-ipo-subscription-financials-production-offtake-dividends-share-price-20042647.htm
+
+## Tata Trusts v Tata Sons (Bombay HC, Fri 27 Nov)
+- Justice Abhay Ahuja refused interim relief; 30 Nov Tata Sons board meeting proceeds, outcome "subject to our final orders". Replies from Tata Sons and six directors ordered. Salve for Tata Sons; Singhvi for Sir Dorabji Tata Trust (SDTT). Damages sought Rs 50 cr (SDTT) + Rs 15 cr (second trust) = Rs 65 cr, 18% interest. Tata Sons counsel: could list by autumn 2027 if smooth. 30 Nov agenda includes IPO timeline (six months) and options for SP Group 18.4% stake (HT 26 Nov).
+- Sources: https://www.thehindu.com/business/bombay-high-court-gives-go-ahead-for-tata-sons-board-meeting-on-november-30/article71752235.ece ; https://www.barandbench.com/news/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-sons-november-30-board-meeting ; https://www.livelawbiz.com/company-law/high-court/bombay-high-court-denies-interim-relief-to-tata-trusts-allows-november-30-tata-sons-board-meeting-560330 ; https://www.ndtvprofit.com/business/tata-trust-vs-tata-trust-tata-sons-says-deferring-nov-30-meet-will-breach-dec-10-rbi-listing-deadline-12385449 ; https://www.hindustantimes.com/business/tata-sons-adds-six-month-ipo-timeline-to-board-meet-agenda-101795654777767.html
+- OPEN CONFLICTS (print safest form): (a) second plaintiff: "RD Tata Trust" (PTI family) vs "Ratan Tata Trust" (BS, Bar&Bench) -> print "a second Tata trust". (b) next hearing 21 Jan 2027 (B&B, TOI, ET) vs 18 Jan (PTI/Hindu/LiveLaw) -> print "January 2027". (c) RBI listing deadline 12 Dec (PTI/Hindu/TOI) vs 10 Dec (NDTV Profit) vs 11 Dec (counsel per ET) -> omit the date. Ed53 live Notes says "Sir Ratan Tata Trust": main to decide on correction.
+
+## US, Fri 27 Nov (shortened session, 1 pm ET close; AP/LA Times)
+- S&P 500 +114.71 (+1.6%) to 7,297.49. Dow +591.99 (+1.2%) to 50,774.94. Nasdaq +543.70 (+2.3%) to 24,129.50. Week: S&P +5.6%, best since April 2025. 10y 4.94% (4.85% Wed). Broadcom +3.8%, Amazon +4%, Nvidia +0.8%.
+- Anthropic (ANT, Nasdaq) +~11% to $91.88 vs $83 IPO price; first-day high $115 (AP; first major frontier lab to go public). IPO (Reuters, 18-19 Nov): 980m shares at $83 = $81.3bn raised, largest ever; deal incl. $26bn private placement = $107.3bn; valued $1.5tn. https://www.investing.com/news/stock-market-news/anthropic-prices-blockuster-ipo-at-83-a-share-source-says-5037110
+- Sources: https://www.latimes.com/business/story/2026-11-27/stocks-jump-to-close-out-erratic-week-that-was-also-wall-streets-best-in-more-than-year ; https://apnews.com/article/wall-street-stocks-dow-nasdaq-04dab6079cf7f3dfe7285a3cc1f240a2 . Do NOT use AP Brent $90.84.
+
+## Commodities
+- Brent settled -$1.13 (-1.2%) at $95.44, first weekly gain in November (~+3%); WTI $83.08 (Reuters/CNA: https://www.channelnewsasia.com/business/oil-notches-first-weekly-gain-in-november-supply-fears-6586546). Drivers: Hormuz tanker attacks, Jazan refinery partly halted. OPEC+ meets Sun 29 Nov, expected to hold Q1 2027 targets (expectation, attribute).
+- Gold Comex Dec settled $3,639.60 (+$103.80, +2.94%; +3.53% week; Morningstar/DJ https://www.morningstar.com/news/dow-jones/202611274508/comex-gold-ends-the-week-353-higher-at-363960-data-talk). Spot gold $3,591.37 on Thursday after dipping under $3,500 Wed for the first time since Sept 2025 (CNBC/Reuters https://www.cnbc.com/2026/11/27/gold-metals-silver-markets-federal-reserve.html). Spot silver $41.88 (Thu).
+
+## Asia / Europe (Fri)
+- Nikkei +1,211.95 (+2.11%) to 58,711.11 (https://en.kabutan.com/jp/news/n202611270807). Kospi +204.47 (+4.34%) to 4,915.68 (https://en.yna.co.kr/view/AEN20261127004852320). Hang Seng +467 (+2.1%) to 22,694; Shanghai +129 (+3.73%) to 3,606; Shenzhen Comp +7.24%; ChiNext +11.61% (https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm). STOXX 600 +1% to 643.85, ~+3% week (https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129). Spain election Sun 29 Nov.
+
+## Week ahead
+- Mon 30 Nov: India Q2 FY27 GDP + IIP (Oct) + ISP, MoSPI press conference 4:30 pm (PIB invitation, owning: https://www.pib.gov.in/MediaInvitationDetail.aspx?InvitationID=159438&lang=1&reg=3); Tata Sons board; China PMI. Consensus ~7.6% vs 7.8% prior (Capital Market; attribute: https://www.capitalmarket.com/markets/news/live-news/week-ahead-rbi-decision-us-jobs-data-in-focus/1752383).
+- RBI MPC 2-4 Dec, decision Fri 4 Dec (secondary sources; repo "5.50%" NOT yet verified at RBI - do not print repo rate). Fri 4 Dec US jobs.
+- Tech Mahindra 1:1 bonus, record date Mon 30 Nov (BSE circular mirror https://exchangecirculars.com/circulars/bse/2026/bse-2026-11-26-c041fb4df84358f2-bonus-issue-of-tech-mahindra-limited-scrip-code-532755/ ; ET https://economictimes.indiatimes.com/markets/stocks/news/tech-mahindra-announces-record-date-for-11-bonus-issue-check-details/articleshow/136097664.cms). Other actions (Interarch, Indus Finance, Bosch) unverified: skip.
+- IPOs (Upstox, attribute): Matangi Rubber 1-3 Dec Rs163-172; Monomark Engineering 2-4 Dec Rs60-65; Swara Baby Products 2-4 Dec Rs105-111 (Rs 799.88 cr).
+
+## AI / tech
+- Nvidia told Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand, Indonesia for an unspecified period while it checks partners meet US export rules (WSJ via TechCrunch 26 Nov: https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/). Commerce closed remote-access loophole earlier this month; IFP estimate: remote data centres supply ~24% of China's AI compute (attributed).
+- Character.AI: bankrupt (Oct); auction Dec 1 of platform + chats of 21m+ US accounts (2.1m+ minors); 42 AGs (CA AG release 24 Nov, owning: https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns ; AA https://www.aa.com.tr/en/americas/42-us-attorneys-general-seek-to-block-sale-of-characterai-users-private-chats/4140503) ask court to block; also oppose $350,000 breakup fee. Note CA release also says "45 attorneys general" in one line vs 42 headline: print "a coalition of 42" only.
+- SpaceX: FCC authorised up to 1m "Starmind" AI computing satellites (Carr announcement Wed 25 Nov; Amazon, Viasat, AAS petitioned to deny) https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html . Constellation authorised, not deployed.
+- OpenAI shared ChatGPT Chat+Work usage limits, wider rollout December; Anthropic migrated Messages API Python->Rust with Claude agents (The Neuron 26 Nov digest; secondary, owning posts not fetched: use only with attribution or skip).
+- Trade: US proposed new tariffs on 14 partners incl. China, EU, Taiwan over alleged overcapacity (Wed 25 Nov; AP https://apnews.com/article/trump-tariffs-china-european-union-367083ea32f71fd7f70029ba7df66bf0).
+- Nvidia/Huang: reinstated as CEO 24 Nov per AP/CNBC/Reuters; on-record words and established business facts only.
+
+## Startup / funding (news only, in surviving sections)
+- YourStory weekly (27 Nov): VC funding $171m across 13 deals (prev week $255m); Finnable Rs 405 cr (~$43.7m); Green Aero $14m; Matters.AI ~Rs 115 cr ($12m); November's one large deal $100m GIVA. https://yourstory.com/2026/11/weekly-funding-roundup-nov-21-27-vc-inflow-dips-on-modest-deal-activity . Note: article states "November VC funding touched a new low of $26 million" which does not reconcile with $171m + $255m weekly figures: do NOT print the $26m.
+
+## Not found / skipped
+- Top-mover lists for Nifty beyond those above: not needed. Asian Paints Friday: Rs 2,532.25 (-0.42%) BSE.
