@@ -1,0 +1,68 @@
+{
+ "scored_for": "2026-11-27",
+ "source": "BSE official unified bhavcopy BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV (TradDt 2026-11-27)",
+ "session_note": "Friday 27 Nov 2026. File PrvsClsgPric matches Thursday's official closes on all eight tracked names (cross-check passed). Index closes not sourced in this leg. No resolutions today; no new setup clears the screen.",
+ "open_lines": [
+  {
+   "name": "Kotak Mahindra Bank",
+   "ticker": "KOTAKBANK",
+   "close": 500.05,
+   "prev": 509.0,
+   "chg_pct": -1.76,
+   "high": 508.7,
+   "low": 499.8,
+   "status": "Watchlist - trigger held",
+   "trigger": "post-print strength above Rs 437.55",
+   "stop": "below Rs 420 shelves it",
+   "scoring": "Trigger holds - 23rd session above 437.55 (today's low 499.80). Closed 500.05 (-1.76%). Still a candidate, not a setup. Stop 420 far away. No resolution."
+  },
+  {
+   "name": "ONGC",
+   "ticker": "ONGC",
+   "close": 224.2,
+   "prev": 223.05,
+   "chg_pct": 0.52,
+   "high": 224.9,
+   "low": 222.65,
+   "status": "Watchlist - inside coil, breakout leg not re-established",
+   "trigger": "breakout above 228 with crude holding",
+   "stop": "coil floor Rs 218.50",
+   "target": "coil top Rs 238.75",
+   "scoring": "Closed 224.20 (+0.52%) - eleventh session below the 228 breakout line (high 224.90). Coil floor 218.50 intact (low 222.65). R:R at worst fill stays below the screen. No resolution."
+  },
+  {
+   "name": "JSW Steel",
+   "ticker": "JSWSTEEL",
+   "close": 1322.0,
+   "prev": 1305.0,
+   "chg_pct": 1.3,
+   "high": 1329.5,
+   "low": 1309.0,
+   "status": "Watchlist - R:R fails screen",
+   "trigger": "hold 1,158.95, then reclaim 1,218.90-1,222.30",
+   "stop": "under 1,158.95 breaks the floor",
+   "target": "5 Nov swing high near Rs 1,370",
+   "scoring": "Close 1,322.00 (+1.30%). Target 1,370 untouched (high 1,329.50). R:R at worst fill vs 1,158.95 floor: risk ~163, reward ~48, about 0.29 to 1 - still fails the published screen. No resolution."
+  },
+  {
+   "name": "Hindalco",
+   "ticker": "HINDALCO",
+   "close": 923.75,
+   "prev": 915.1,
+   "chg_pct": 0.95,
+   "high": 933.85,
+   "low": 913.45,
+   "status": "Watchlist - candidate",
+   "trigger": "no entry zone yet",
+   "scoring": "Close 923.75 (+0.95%), low 913.45 - held above the 911-912 zone for a second straight close, the first time the reclaim has not failed the next session. Candidate case strengthens again; still no verified entry zone against longer history. Not a setup. No resolution."
+  }
+ ],
+ "resolved_today": [],
+ "ledger_note": "HCLTech (resolved: 28 Oct fill 1,378.00, exit 1,468.00, gross +6.53% / net +6.23%): closed 1,423.80 (-2.81%), high 1,467.00. Infosys (invalidated, no trade): closed 1,152.00 (-2.55%).",
+ "new_setups_clearing_screen": [],
+ "shelved": [
+  "VOLTAS 1,191.00 (-2.54%) - rejection stands",
+  "TECHM 1,815.00 (-2.15%) - above the Rs 1,500 cap"
+ ],
+ "listing_note": "Mahanadi Coalfields (MAHACOAL, B group, code 545032) listed: open 133.15, high 137.85, low 130.70, close 132.60 vs issue price Rs 136 - opened and closed below the issue price (-2.51% at close), volume 8,316,367. Under the Rs 1,500 cap but no board line: does not clear the screen."
+}
