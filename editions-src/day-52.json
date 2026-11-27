@@ -6,7 +6,7 @@
     "longread": 52
   },
   "edition": {
-    "fact": "Edition 52. Thursday 26 November 2026. This edition runs 3654 words. Wall Street erased a plunge of 1,100 points hours before the Thanksgiving close as Washington proposed tariffs on fourteen economies; Mumbai reopened with its best session in weeks on foreign flows and a record rupee run; APL Apollo's first deal tape stayed brutal; Jensen Huang returned to Nvidia with a Treasury deadline gone unanswered; Siemens Energy India printed a breakout quarter; and Mahanadi Coalfields counts down to its Friday listing.",
+    "fact": "Edition 52. Thursday 26 November 2026. This edition runs 3677 words. Wall Street erased a plunge of 1,100 points hours before the Thanksgiving close as Washington proposed tariffs on fourteen economies; Mumbai reopened with its best session in weeks on foreign flows and a record rupee run; APL Apollo's first deal tape stayed brutal; Jensen Huang returned to Nvidia with a Treasury deadline gone unanswered; Siemens Energy India printed a breakout quarter; and Mahanadi Coalfields counts down to its Friday listing.",
     "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a Sikandrabad pipe shop founded in 1986 became India's branded steel-tube giant on Sanjay Gupta's bet that a commodity could be sold like soap - and this week he sold the company to Tata Steel while keeping a hand in the colour-coating plant next door. APL Apollo Tubes, the brand in the pipe.",
     "hero": {
       "img": "photos/d52-hero.jpg",
@@ -263,7 +263,7 @@
               },
               {
                 "n": "3",
-                "title": "Sun 30 Nov",
+                "title": "Mon 30 Nov",
                 "detail": "India's Q2 GDP print."
               },
               {
@@ -283,7 +283,8 @@
             "items": [
               "Sources read for this edition: CNBC's close post and AP's final-close wire for the US session, point moves reconciled exactly to Tuesday's prints; CNBC's PCE report for the data deluge; USTR's own press release for the Section 301 determinations, with Reuters and the Washington Post for framing; NPR's on-record report for the Nvidia reinstatement and Politico for the Treasury deadline; Moneycontrol's close report, its provisional flow tallies and its rupee report for the reopen; Hindu BusinessLine's market wrap; BSE's official bhavcopy for every India price; CNBC-TV18 for the deal tape and the promoter entities; Tata Steel's board-outcome filing, the SEBI open-offer public announcement and APL Apollo's investor deck for deal math; Siemens Energy India's owning exchange filing; OpenAI's and Cisco's posts for Shirudo, DeepMind's post for the quantum work; the close report and SiliconANGLE for Anthropic; Yonhap and CNBC for Asia's open; the pre-market quote page for GIFT Nifty.",
               "US closes are final-close wires. India prices are BSE official bhavcopy prints. GIFT Nifty, Asia's opens, gold and oil are morning quotes as of roughly 6:00 AM IST and will move; they are quoted as markers, not predictions. Anthropic's Wednesday close comes from public closing records, not an exchange table - printed with attribution. The tariff figures are proposed rates from the owning USTR release: nothing is imposed, comments close January 5, hearings start January 25, and no effective date exists. An aggregator claim of an Anthropic product launch was checked against Anthropic's own newsroom this morning, found absent, and dropped. This is research, not advice.",
-              "The Siemens Energy India quarter is the company's Q4 FY2026 - its fiscal year ends in September - not Q2 FY27 as some calendars labelled it; yesterday's preview line carried the calendar's label and is corrected in today's File revision."
+              "The Siemens Energy India quarter is the company's Q4 FY2026 - its fiscal year ends in September - not Q2 FY27 as some calendars labelled it; yesterday's preview line carried the calendar's label and is corrected in today's File revision.",
+              "Correction, 28 November: the week-ahead row for India's Q2 GDP print was dated Sunday 30 November; 30 November 2026 is a Monday."
             ]
           },
           {
@@ -304,8 +305,8 @@
       "segment5": 221.28,
       "segment6": 184.52,
       "segment7": 113.52,
-      "segment8": 193.4,
-      "full": 1752.16,
+      "segment8": 203.862,
+      "full": 1753.545,
       "quick": 259.52
     },
     "segments": [
@@ -349,10 +350,10 @@
     "segment5": "audio/d52-segment5.m4a",
     "segment6": "audio/d52-segment6.m4a",
     "segment7": "audio/d52-segment7.m4a",
-    "segment8": "audio/d52-segment8.m4a",
-    "full": "audio/d52-full.m4a"
+    "segment8": "audio/d52-segment8-r2.m4a",
+    "full": "audio/d52-full-r2.m4a"
   },
   "times": {
-    "full": "audio/d52-full.times.json"
+    "full": "audio/d52-full-r2.times.json"
   }
 }

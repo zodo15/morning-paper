@@ -6,7 +6,7 @@
   "longread": 53
  },
  "edition": {
-  "fact": "Edition 53. Friday 27 November 2026. This edition runs 3192 words. The owners of Tata Sons are suing Tata Sons; the Bank of Korea raised rates and its growth forecasts in the same breath; oil settled at $96.57; Mumbai's foreign-buying streak hit eighteen sessions; and Mahanadi Coalfields lists today at Rs 136.",
+  "fact": "Edition 53. Friday 27 November 2026. This edition runs 3244 words. The owners of Tata Sons are suing Tata Sons; the Bank of Korea raised rates and its growth forecasts in the same breath; oil settled at $96.57; Mumbai's foreign-buying streak hit eighteen sessions; and Mahanadi Coalfields lists today at Rs 136.",
   "intro": "The 5-minute lead route is first; sections carry the detail. The long read: four friends started mixing paint in a South Bombay garage while the Quit India movement filled the streets, took on the biggest paint companies in the world, and were number one inside twenty-five years - then, one July day in 1997, the man who built it sold his shares and died the same day, and the company they all left behind just kept going. Asian Paints, the company that outlasted its founders.",
   "hero": {
    "img": "photos/d53-hero.jpg",
@@ -258,7 +258,7 @@
        },
        {
         "n": "2",
-        "title": "Sun 30 Nov",
+        "title": "Mon 30 Nov",
         "detail": "Tata Sons board meeting: confirmation of the disputed 17 September minutes and an extraordinary general meeting are on the agenda. India's Q2 GDP print is due."
        },
        {
@@ -278,7 +278,7 @@
       "items": [
        "Sources read for this edition: Bar and Bench's full account of the Tata trusts' suits; the Bank of Korea's own decision text and press-conference remarks; RTHK's and AP's close reports for Asia and Europe; Nasdaq's trader alert for US holiday hours; QNA's settlement wire and ING's commodities feed for oil and gold; Hindu BusinessLine and CNBC-TV18 for the Indian close and provisional flows (reconciled against the ChartMine aggregator); BSE's listing notice for Mahanadi; PIB's release for Chariot-1; Anthropic's engineering post; The Next Web on OpenAI Private Inference; YourStory's startup roundup; Harvard Business Review for the founder's dilemma.",
        "Prices: every India price is a BSE official print from the exchange's bhavcopy; US closes are from end-of-day reports already printed in Edition 52. Thursday's FII/DII figures are provisional exchange data as reported by CNBC-TV18. Chariot-1 performance figures are the team's reported benchmarks, as released by PIB.",
-       "Correction: the suits' plaintiffs are the Sir Dorabji Tata Trust and the RD Tata Trust, as named by The Indian Express, LiveLaw and The Hindu. An earlier version of this edition named the second trust as the Sir Ratan Tata Trust and called the plaintiffs the two largest Tata trusts, controlling 66% of Tata Sons. Both were wrong: the 66% stake belongs to the Tata Trusts together. The court hears the matter today; anything the court says after print time belongs to tomorrow's edition."
+       "Correction: the suits' plaintiffs are the Sir Dorabji Tata Trust and the RD Tata Trust, as named by The Indian Express, LiveLaw and The Hindu. An earlier version of this edition named the second trust as the Sir Ratan Tata Trust and called the plaintiffs the two largest Tata trusts, controlling 66% of Tata Sons. Both were wrong: the 66% stake belongs to the Tata Trusts together. The week-ahead row for the Tata Sons board meeting was dated Sunday 30 November; 30 November 2026 is a Monday. The court hears the matter today; anything the court says after print time belongs to tomorrow's edition."
       ]
      },
      {
@@ -290,18 +290,18 @@
   ]
  },
  "audio": {
-  "quick": "audio/d53-quick.m4a",
+  "quick": "audio/d53-quick-r2.m4a",
   "durations": {
-   "segment1": 409.483,
+   "segment1": 443.99,
    "segment2": 181.0,
    "segment3": 119.6,
    "segment4": 286.483,
    "segment5": 115.843,
    "segment6": 133.763,
    "segment7": 113.243,
-   "segment8": 136.779,
-   "quick": 375.923,
-   "full": 1496.194
+   "segment8": 161.11,
+   "quick": 381.825,
+   "full": 1555.032
   },
   "segments": [
    {
@@ -337,17 +337,17 @@
     "label": "The week ahead and the notes on this edition"
    }
   ],
-  "segment1": "audio/d53-segment1.m4a",
+  "segment1": "audio/d53-segment1-r2.m4a",
   "segment2": "audio/d53-segment2.m4a",
   "segment3": "audio/d53-segment3.m4a",
   "segment4": "audio/d53-segment4.m4a",
   "segment5": "audio/d53-segment5.m4a",
   "segment6": "audio/d53-segment6.m4a",
   "segment7": "audio/d53-segment7.m4a",
-  "segment8": "audio/d53-segment8.m4a",
-  "full": "audio/d53-full.m4a"
+  "segment8": "audio/d53-segment8-r2.m4a",
+  "full": "audio/d53-full-r2.m4a"
  },
  "times": {
-  "full": "audio/d53-full.times.json"
+  "full": "audio/d53-full-r2.times.json"
  }
 }

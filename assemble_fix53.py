@@ -52,7 +52,7 @@ stream=[];t=0.0
 for name,text,d in units:
     sens=sent_split(text); tot=sum(len(s) for s in sens) or 1; acc=0.0
     for s in sens:
-        stream.append({'t':s,'s':t+acc/tot*d,'e':t+(acc+len(s))/tot*d}); acc+=len(s)
+        stream.append({'t':s,'s':t+acc/tot*d,'e':t+(acc+len(s))/tot*d,'u':name}); acc+=len(s)
     t+=d
 full_dur=t
 pos=0
@@ -72,28 +72,29 @@ for g in groups:
             for it in b['items']:
                 lab=str(it.get('n','')); at=(lab+'. ' if lab else '')+(it.get('title','')+'. '+it.get('detail','')).strip()
                 part=consume(len(sent_split(respell(at))))
-                blocks.append({'s':round(part[0]['s'],2),'e':round(part[-1]['e'],2),'sentences':[{'t':clean(it.get('detail','')),'s':round(part[0]['s'],2),'e':round(part[-1]['e'],2)}]})
+                blocks.append({'u':part[0]['u'],'s':round(part[0]['s'],2),'e':round(part[-1]['e'],2),'sentences':[{'t':clean(it.get('detail','')),'s':round(part[0]['s'],2),'e':round(part[-1]['e'],2)}]})
         elif bt=='bullets':
             for item in b['items']:
                 part=consume(len(sent_split(respell(item))))
-                blocks.append({'s':round(part[0]['s'],2),'e':round(part[-1]['e'],2),'sentences':[{'t':clean(item),'s':round(part[0]['s'],2),'e':round(part[-1]['e'],2)}]})
+                blocks.append({'u':part[0]['u'],'s':round(part[0]['s'],2),'e':round(part[-1]['e'],2),'sentences':[{'t':clean(item),'s':round(part[0]['s'],2),'e':round(part[-1]['e'],2)}]})
         elif bt in ('p','closing'):
             asens=sent_split(respell(block_text(b))); psens=sent_split(clean(block_text(b)))
             part=consume(len(asens))
             sents=[{'t':psens[k] if k<len(psens) else psens[-1],'s':round(a['s'],2),'e':round(a['e'],2)} for k,a in enumerate(part)]
-            blocks.append({'s':sents[0]['s'],'e':sents[-1]['e'],'sentences':sents})
+            blocks.append({'u':part[0]['u'],'s':sents[0]['s'],'e':sents[-1]['e'],'sentences':sents})
 assert pos==len(stream),('unconsumed',pos,len(stream))
 # replace segs 2-7 blocks with OLD exact times shifted
 oldt=json.load(open(LIVE+'/full.times.json'))['blocks']
 OLD_S2=409.483; OLD_S8=OLD_S2+sum(D[f'segment{i}'] for i in range(2,8)); NEW_S2=D['segment1']; delta=NEW_S2-OLD_S2
 eps=0.3
-oldmid=[b for b in oldt if b['s']>=OLD_S2-eps and b['e']<=OLD_S8+eps]
-newidx=[i for i,b in enumerate(blocks) if b['s']>=NEW_S2-eps and b['e']<=NEW_S2+(OLD_S8-OLD_S2)+eps]
+oldmid=[b for b in oldt if OLD_S2-eps<=b['s']<OLD_S8-eps]
+newidx=[i for i,b in enumerate(blocks) if re.fullmatch(r'segment[2-7]',b['u'])]
 assert len(oldmid)==len(newidx),('block count',len(oldmid),len(newidx))
 for k,i in enumerate(newidx):
     ob=oldmid[k]
     assert [s['t'] for s in ob['sentences']]==[s['t'] for s in blocks[i]['sentences']] or len(ob['sentences'])==len(blocks[i]['sentences']),('text',k)
     blocks[i]={'s':round(ob['s']+delta,2),'e':round(ob['e']+delta,2),'sentences':[{'t':s['t'],'s':round(s['s']+delta,2),'e':round(s['e']+delta,2)} for s in ob['sentences']]}
+for b in blocks: b.pop('u',None)
 prev=0.0
 for b in blocks:
     for s in b['sentences']:
