@@ -85,6 +85,7 @@ def respell(t):
     t = re.sub(r"\bEd(\d{2})\b", lambda m: 'Ed ' + w99(int(m.group(1))), t)
     t = t.replace('Java4Shell', 'Java four Shell')
     t = t.replace('FII/DII', 'FII and DII')
+    t = re.sub(r"\bRD Tata", "R D Tata", t)
     t = t.replace('P&L', 'P and L')
     t = t.replace(' & ', ' and ')
     t = t.replace(' cc ', ' C C ')

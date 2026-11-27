@@ -18,7 +18,7 @@
     "blocks": [
      {
       "t": "p",
-      "html": "The owners sue the company. The two largest Tata trusts - the Sir Dorabji Tata Trust and the Sir Ratan Tata Trust, whose trusts together control 66% of Tata Sons - sued Tata Sons and six of its directors in the Bombay High Court on Thursday, asking the court to declare void the 17 September board resolution that reappointed N. Chandrasekaran as executive chairman for five more years, and to stop the company acting on it. The court hears the matter today (<a href=\"https://www.barandbench.com/news/what-tata-trusts-suits-in-bombay-high-court-say-against-n-chandrasekarans-reappointment\" target=\"_blank\" rel=\"noopener\">Bar and Bench's account of the suits</a>)."
+      "html": "The owners sue the company. Two of the Tata trusts - the Sir Dorabji Tata Trust and the RD Tata Trust, among the Tata trusts that together control 66% of Tata Sons - sued Tata Sons and six of its directors in the Bombay High Court on Thursday, asking the court to declare void the 17 September board resolution that reappointed N. Chandrasekaran as executive chairman for five more years, and to stop the company acting on it. The court hears the matter today (<a href=\"https://www.barandbench.com/news/what-tata-trusts-suits-in-bombay-high-court-say-against-n-chandrasekarans-reappointment\" target=\"_blank\" rel=\"noopener\">Bar and Bench's account of the suits</a>)."
      },
      {
       "t": "p",
@@ -278,7 +278,7 @@
       "items": [
        "Sources read for this edition: Bar and Bench's full account of the Tata trusts' suits; the Bank of Korea's own decision text and press-conference remarks; RTHK's and AP's close reports for Asia and Europe; Nasdaq's trader alert for US holiday hours; QNA's settlement wire and ING's commodities feed for oil and gold; Hindu BusinessLine and CNBC-TV18 for the Indian close and provisional flows (reconciled against the ChartMine aggregator); BSE's listing notice for Mahanadi; PIB's release for Chariot-1; Anthropic's engineering post; The Next Web on OpenAI Private Inference; YourStory's startup roundup; Harvard Business Review for the founder's dilemma.",
        "Prices: every India price is a BSE official print from the exchange's bhavcopy; US closes are from end-of-day reports already printed in Edition 52. Thursday's FII/DII figures are provisional exchange data as reported by CNBC-TV18. Chariot-1 performance figures are the team's reported benchmarks, as released by PIB.",
-       "The suits' plaintiffs are the Sir Dorabji Tata Trust and the Sir Ratan Tata Trust, named consistently by Bar and Bench's account and The Economic Times' report; a startup roundup's differing name for the second trust is disregarded. The court hears the matter today; anything the court says after print time belongs to tomorrow's edition."
+       "Correction: the suits' plaintiffs are the Sir Dorabji Tata Trust and the RD Tata Trust, as named by The Indian Express, LiveLaw and The Hindu. An earlier version of this edition named the second trust as the Sir Ratan Tata Trust and called the plaintiffs the two largest Tata trusts, controlling 66% of Tata Sons. Both were wrong: the 66% stake belongs to the Tata Trusts together. The court hears the matter today; anything the court says after print time belongs to tomorrow's edition."
       ]
      },
      {
