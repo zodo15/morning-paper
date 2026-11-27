@@ -1,0 +1,937 @@
+{
+ "version": 1,
+ "audio": "audio/d53-full.m4a",
+ "blocks": [
+  {
+   "s": 53.61,
+   "e": 85.59,
+   "sentences": [
+    {
+     "t": "The owners sue the company.",
+     "s": 53.61,
+     "e": 55.26
+    },
+    {
+     "t": "The two largest Tata trusts - the Sir Dorabji Tata Trust and the Sir Ratan Tata Trust, whose trusts together control 66% of Tata Sons - sued Tata Sons and six of its directors in the Bombay High Court on Thursday, asking the court to declare void the 17 September board resolution that reappointed N.",
+     "s": 55.26,
+     "e": 75.12
+    },
+    {
+     "t": "Chandrasekaran as executive chairman for five more years, and to stop the company acting on it.",
+     "s": 75.12,
+     "e": 81.09
+    },
+    {
+     "t": "The court hears the matter today (Bar and Bench's account of the suits).",
+     "s": 81.09,
+     "e": 85.59
+    }
+   ]
+  },
+  {
+   "s": 85.59,
+   "e": 146.83,
+   "sentences": [
+    {
+     "t": "The reversal at the heart of it.",
+     "s": 85.59,
+     "e": 87.54
+    },
+    {
+     "t": "Chandrasekaran emailed the board on 12 August that he would not seek reappointment when his term ends on 20 February 2027; six trusts passed resolutions the next day respecting that decision and asked for a selection committee to be formed.",
+     "s": 87.54,
+     "e": 104.36
+    },
+    {
+     "t": "On 17 September he told the board he had reconsidered.",
+     "s": 104.36,
+     "e": 108.62
+    },
+    {
+     "t": "The resolution passed 4:1 - Venu Srinivasan, Harish Manwani, Anita George and Saurabh Agrawal for, Tata Trusts chairman Noel Tata against, Chandrasekaran recused - with Manwani, chairing that agenda item, using a casting vote to treat it as passed.",
+     "s": 108.62,
+     "e": 124.4
+    },
+    {
+     "t": "The trusts say Article 121 of Tata Sons' articles required an affirmative majority of trust-nominated directors, so no casting vote could rescue it; they also seek Rs 65 crore in damages with 18% annual interest.",
+     "s": 124.4,
+     "e": 139.59
+    },
+    {
+     "t": "The next Tata Sons board meeting is 30 November, with confirmation of those September minutes on the agenda.",
+     "s": 139.59,
+     "e": 146.83
+    }
+   ]
+  },
+  {
+   "s": 146.83,
+   "e": 190.21,
+   "sentences": [
+    {
+     "t": "The Bank of Korea hiked into strength.",
+     "s": 146.83,
+     "e": 149.09
+    },
+    {
+     "t": "The Monetary Policy Board raised the base rate 25 basis points to 3.25% on Thursday - the highest since November 2024 - and raised its growth forecasts in the same breath, to 3.9% this year and 4.1% next, crediting the semiconductor boom.",
+     "s": 149.09,
+     "e": 168.19
+    },
+    {
+     "t": "Two of seven members dissented for a hold.",
+     "s": 168.19,
+     "e": 170.69
+    },
+    {
+     "t": "Inflation, at 2.8% in October, stays above target \"for a considerable time\", and the board pointedly kept open \"the timing of further increases\" (the Bank of Korea's own decision text).",
+     "s": 170.69,
+     "e": 182.91
+    },
+    {
+     "t": "A central bank tightening because the AI buildout is too strong, in the same week markets worry the AI trade is too weak.",
+     "s": 182.91,
+     "e": 190.21
+    }
+   ]
+  },
+  {
+   "s": 190.21,
+   "e": 230.68,
+   "sentences": [
+    {
+     "t": "Asia bounced while America slept.",
+     "s": 190.21,
+     "e": 192.17
+    },
+    {
+     "t": "US markets were shut for Thanksgiving, and Asia's AI belt rebounded: the Nikkei rose 0.86% to 57,499 with Kioxia up 12.6% and SoftBank up 7.3%, the Kospi added 0.29% to 4,711 after the rate hike, and the Hang Seng climbed 1.2% to 22,226 (RTHK's close report).",
+     "s": 192.17,
+     "e": 220.47
+    },
+    {
+     "t": "Shanghai ended flat at 3,476.",
+     "s": 220.47,
+     "e": 224.21
+    },
+    {
+     "t": "Wall Street reopens tonight for a shortened session that closes at 1:00 PM ET (Nasdaq's own trader alert).",
+     "s": 224.21,
+     "e": 230.68
+    }
+   ]
+  },
+  {
+   "s": 230.68,
+   "e": 271.87,
+   "sentences": [
+    {
+     "t": "Oil's third climb.",
+     "s": 230.68,
+     "e": 231.75
+    },
+    {
+     "t": "Brent settled at $96.57 a barrel on Thursday, up $1.96; WTI, which did not settle on the holiday, traded 1.39% higher at $84.84 (QNA's settlement wire).",
+     "s": 231.75,
+     "e": 247.29
+    },
+    {
+     "t": "Attacks around Saudi Arabia's Ras Tanura export hub and reports of vessels targeted in the Strait of Hormuz have put supply risk back into the price, and holiday-thinned trading amplifies every move (ING's commodities feed).",
+     "s": 247.29,
+     "e": 260.86
+    },
+    {
+     "t": "Gold went the other way - on track for a third consecutive monthly decline after Wednesday's dip below $3,500 an ounce, its weakest in about fifteen months.",
+     "s": 260.86,
+     "e": 271.87
+    }
+   ]
+  },
+  {
+   "s": 271.87,
+   "e": 319.79,
+   "sentences": [
+    {
+     "t": "Mumbai's streak extended.",
+     "s": 271.87,
+     "e": 273.36
+    },
+    {
+     "t": "The Sensex rose 390.31 points (0.46%) to 84,328.59 and the Nifty 65.25 (0.25%) to 25,884.50, both near ten-month highs (Hindu BusinessLine's close report).",
+     "s": 273.36,
+     "e": 294.55
+    },
+    {
+     "t": "IT led: HCL Technologies jumped 6.28%, TCS 4.97%, Infosys 4.70%.",
+     "s": 294.55,
+     "e": 302.71
+    },
+    {
+     "t": "Foreign investors bought for the eighteenth straight session - Rs 5,843.33 crore - and domestic institutions matched them with Rs 5,630.72 crore (CNBC-TV18's provisional tally).",
+     "s": 302.71,
+     "e": 319.79
+    }
+   ]
+  },
+  {
+   "s": 319.79,
+   "e": 346.64,
+   "sentences": [
+    {
+     "t": "Mahanadi lists today.",
+     "s": 319.79,
+     "e": 321.04
+    },
+    {
+     "t": "The Coal India arm's shares list on BSE this morning under MAHACOAL (code 545032, 'B' group), at the Rs 136 issue price - Rs 2 face value plus Rs 134 premium - after allotment on 25 November, with a special pre-open session (BSE's listing notice).",
+     "s": 321.04,
+     "e": 342.06
+    },
+    {
+     "t": "The debut print lands after this paper goes out; tomorrow's score carries it.",
+     "s": 342.06,
+     "e": 346.64
+    }
+   ]
+  },
+  {
+   "s": 346.64,
+   "e": 382.83,
+   "sentences": [
+    {
+     "t": "India's own models.",
+     "s": 346.64,
+     "e": 347.77
+    },
+    {
+     "t": "Chariot-1, from one of the first four foundation-model teams picked under the IndiaAI Mission, launched at Bharat Mandapam on Thursday: an 11-billion-parameter mixture-of-experts language model pretrained from scratch in India, offered in three sizes, plus a text-to-speech system covering English and ten Indian languages (PIB's launch release).",
+     "s": 347.77,
+     "e": 368.96
+    },
+    {
+     "t": "Its reported research innovations - a shared alphabet across twelve Indian scripts, three model sizes trained in a single run, a vocabulary split into eleven groups - all chase the same thing: compute efficiency for Indian languages.",
+     "s": 368.96,
+     "e": 382.83
+    }
+   ]
+  },
+  {
+   "s": 382.83,
+   "e": 409.44,
+   "sentences": [
+    {
+     "t": "What to watch today.",
+     "s": 382.83,
+     "e": 384.02
+    },
+    {
+     "t": "The Bombay High Court hearing in the Tata trusts' suits; Mahanadi's listing print against its Rs 136 issue price; Wall Street's 1 PM half session after a two-day absence; and whether gold closes November with a third straight monthly decline.",
+     "s": 384.02,
+     "e": 399.98
+    },
+    {
+     "t": "GIFT Nifty read 25,995.50 around 2:30 AM, a flat-start signal (giftniftytoday's pre-market page).",
+     "s": 399.98,
+     "e": 409.44
+    }
+   ]
+  },
+  {
+   "s": 409.44,
+   "e": 454.83,
+   "sentences": [
+    {
+     "t": "What the suits actually ask.",
+     "s": 409.44,
+     "e": 411.22
+    },
+    {
+     "t": "Beyond voiding the 17 September resolution, the trusts want a declaration on the true meaning of Article 121, permanent and interim injunctions against acting on the reappointment, and a bar on Chandrasekaran, Manwani or any acting chair exercising a casting vote over divided trust directors.",
+     "s": 411.22,
+     "e": 432.04
+    },
+    {
+     "t": "They lean on Section 10(1) of the Companies Act, which makes a company's articles binding, and on the Supreme Court's Cyrus Mistry-era ruling, which treated Article 121 as an individual membership right a civil court can enforce.",
+     "s": 432.04,
+     "e": 448.02
+    },
+    {
+     "t": "Noel Tata is named a defendant with no reliefs sought against him (Bar and Bench's account of the suits).",
+     "s": 448.02,
+     "e": 454.83
+    }
+   ]
+  },
+  {
+   "s": 454.83,
+   "e": 496.15,
+   "sentences": [
+    {
+     "t": "America, paused.",
+     "s": 454.83,
+     "e": 455.85
+    },
+    {
+     "t": "Thursday was Thanksgiving: no US session, no S&P close, no fresh read on whether Wednesday's 1,100-point comeback holds.",
+     "s": 455.85,
+     "e": 465.02
+    },
+    {
+     "t": "What Wednesday left behind stands: Dow 50,182.95 (+0.33%), S&P 500 7,182.78 (-0.25%), Nasdaq 23,585.80 (-0.62%).",
+     "s": 465.02,
+     "e": 487.3
+    },
+    {
+     "t": "The reopen is a short one - orders close at 1:00 PM ET Friday, and the week's thin liquidity cuts both ways (Nasdaq's own trader alert).",
+     "s": 487.3,
+     "e": 496.15
+    }
+   ]
+  },
+  {
+   "s": 496.15,
+   "e": 534.54,
+   "sentences": [
+    {
+     "t": "Why the Bank of Korea moved.",
+     "s": 496.15,
+     "e": 497.93
+    },
+    {
+     "t": "Growth is running hot - the third quarter significantly beat its August forecast - and household loans are accelerating again with Seoul housing expectations still elevated; the won stayed stable only because the current-account surplus absorbed foreign outflows.",
+     "s": 497.93,
+     "e": 514.68
+    },
+    {
+     "t": "October inflation of 2.8% plus forecasts of 4.1% growth next year made the board judge that price stability needed the emphasis, AI-profitability nerves or not.",
+     "s": 514.68,
+     "e": 527.28
+    },
+    {
+     "t": "Dissenters Hwang Kunil and Lee Soohyung wanted to stay at 3.00% (the Bank of Korea's own decision text).",
+     "s": 527.28,
+     "e": 534.54
+    }
+   ]
+  },
+  {
+   "s": 534.54,
+   "e": 590.44,
+   "sentences": [
+    {
+     "t": "The Asia tape, in detail.",
+     "s": 534.54,
+     "e": 536.13
+    },
+    {
+     "t": "Tokyo's rebound was an AI-hardware rebound: Kioxia +12.6%, SoftBank +7.3%, Advantest +4.6%, and the broader Topix managed only +0.1%.",
+     "s": 536.13,
+     "e": 550.84
+    },
+    {
+     "t": "Hong Kong's 1.2% rise to 22,226 came off the index's lowest level since April 2025, on HK$212.45 billion of turnover.",
+     "s": 550.84,
+     "e": 564.78
+    },
+    {
+     "t": "The mainland sat it out: Shanghai flat at 3,476, CATL down as much as 2.9% to a 26-month low, the CSI semiconductor index off 2%, with analysts at Nanhua Futures calling sentiment \"still relatively downbeat\" even as the region decided Washington's latest tariff salvo looked less damaging than first feared (RTHK's close report).",
+     "s": 564.78,
+     "e": 590.44
+    }
+   ]
+  },
+  {
+   "s": 590.44,
+   "e": 626.35,
+   "sentences": [
+    {
+     "t": "Breadth without depth.",
+     "s": 590.44,
+     "e": 591.85
+    },
+    {
+     "t": "Foreign portfolio investors now hold shares in about 2,400 Indian companies - double the roughly 1,200 of December 2020 - even as their aggregate ownership of NSE-listed companies fell for a sixth straight quarter to 14.7% in September, the first sub-15% reading in 17.5 years.",
+     "s": 591.85,
+     "e": 616.0
+    },
+    {
+     "t": "That is the NSE's November Market Pulse, via CNBC-TV18's provisional tally: foreigners are spreading wider across the market while owning less of it.",
+     "s": 616.0,
+     "e": 626.35
+    }
+   ]
+  },
+  {
+   "s": 626.35,
+   "e": 658.16,
+   "sentences": [
+    {
+     "t": "The barrel and the bar.",
+     "s": 626.35,
+     "e": 627.82
+    },
+    {
+     "t": "Thursday's Brent settle of $96.57 keeps crude's Ras Tanura risk premium climbing into a market where India imports most of its oil; watch the paint and tyre cost lines if it holds.",
+     "s": 627.82,
+     "e": 641.17
+    },
+    {
+     "t": "Gold, meanwhile, briefly broke $3,500 on Wednesday - a fifteen-month low - and is heading for a third straight monthly fall as higher-for-longer rate expectations, a stronger dollar and elevated yields weigh (ING's commodities feed).",
+     "s": 641.17,
+     "e": 658.16
+    }
+   ]
+  },
+  {
+   "s": 658.16,
+   "e": 686.66,
+   "sentences": [
+    {
+     "t": "Mahanadi's mechanics.",
+     "s": 658.16,
+     "e": 659.5
+    },
+    {
+     "t": "The listing covers 6,618,363,000 equity shares of Rs 2 each (ISIN INE03K401026), allotted 25 November; BSE admits the shares to its 'B' group with a market lot of one, and the scrip joins the special pre-open session the exchange runs for IPO debuts.",
+     "s": 659.5,
+     "e": 682.7
+    },
+    {
+     "t": "The registrar is KFin Technologies (BSE's listing notice).",
+     "s": 682.7,
+     "e": 686.66
+    }
+   ]
+  },
+  {
+   "s": 686.66,
+   "e": 710.04,
+   "sentences": [
+    {
+     "t": "Europe's quiet rally.",
+     "s": 686.66,
+     "e": 688.0
+    },
+    {
+     "t": "With New York dark, Europe rose: Germany's DAX jumped 1.9% to 25,180.12 in early trading and France's CAC 40 climbed 1.8% to 8,126.47, riding the same tentative AI recovery as Asia (AP's holiday-session report).",
+     "s": 688.0,
+     "e": 710.04
+    }
+   ]
+  },
+  {
+   "s": 710.04,
+   "e": 733.32,
+   "sentences": [
+    {
+     "t": "US: closed Thursday for Thanksgiving.",
+     "s": 710.04,
+     "e": 712.31
+    },
+    {
+     "t": "Wednesday's nearly-flat rescue stands as the week's last print - Dow 50,182.95, S&P 500 7,182.78, Nasdaq 23,585.80.",
+     "s": 712.31,
+     "e": 728.48
+    },
+    {
+     "t": "Tonight's session is a half day ending 1:00 PM ET (Nasdaq's own trader alert).",
+     "s": 728.48,
+     "e": 733.32
+    }
+   ]
+  },
+  {
+   "s": 733.32,
+   "e": 759.04,
+   "sentences": [
+    {
+     "t": "Asia, Thursday: Nikkei 57,499 (+0.86%), Kospi 4,711 (+0.29%) post-hike, Hang Seng 22,226 (+1.2%), Shanghai 3,476 (flat), Topix 3,750 (+0.1%) (RTHK's close report).",
+     "s": 733.32,
+     "e": 759.04
+    }
+   ]
+  },
+  {
+   "s": 759.04,
+   "e": 801.53,
+   "sentences": [
+    {
+     "t": "India, Thursday: Sensex 84,328.59 (+0.46%), Nifty 25,884.50 (+0.25%), near ten-month highs; Nifty Bank fell 168 points to 63,535 while the midcap index rose 198 to 61,782.",
+     "s": 759.04,
+     "e": 785.59
+    },
+    {
+     "t": "FII +Rs 5,843.33 crore, an eighteenth straight buying session; DII +Rs 5,630.72 crore (Hindu BusinessLine's close report; CNBC-TV18's provisional tally).",
+     "s": 785.59,
+     "e": 801.53
+    }
+   ]
+  },
+  {
+   "s": 801.53,
+   "e": 818.24,
+   "sentences": [
+    {
+     "t": "Europe, Thursday: DAX 25,180.12 (+1.9%), CAC 40 8,126.47 (+1.8%), early-session prints while the US was out (AP's holiday-session report).",
+     "s": 801.53,
+     "e": 818.24
+    }
+   ]
+  },
+  {
+   "s": 818.24,
+   "e": 855.41,
+   "sentences": [
+    {
+     "t": "Commodities: Brent settled $96.57 (+$1.96); WTI marked $84.84 (+1.39%) with no holiday settlement; gold around $3,575 late Thursday after Wednesday's sub-$3,500 fifteen-month low, third monthly decline on track (QNA's settlement wire; ING's commodities feed).",
+     "s": 818.24,
+     "e": 845.49
+    },
+    {
+     "t": "GIFT Nifty read 25,995.50 around 2:30 AM, signalling a flat open (giftniftytoday's pre-market page).",
+     "s": 845.49,
+     "e": 855.41
+    }
+   ]
+  },
+  {
+   "s": 855.41,
+   "e": 893.43,
+   "sentences": [
+    {
+     "t": "Mahanadi Coalfields lists today.",
+     "s": 855.41,
+     "e": 857.37
+    },
+    {
+     "t": "BSE's notice admits the shares to trading effective Friday 27 November in the 'B' group - scrip MAHACOAL, code 545032, 6,618,363,000 shares of Rs 2, issued at Rs 136 (premium Rs 134), allotment completed 25 November (BSE's listing notice).",
+     "s": 857.37,
+     "e": 883.08
+    },
+    {
+     "t": "The special pre-open session governs the debut, so the first print comes through the exchange's IPO price-discovery window rather than a straight 9:15 open.",
+     "s": 883.08,
+     "e": 893.43
+    }
+   ]
+  },
+  {
+   "s": 893.43,
+   "e": 915.9,
+   "sentences": [
+    {
+     "t": "What the debut answers.",
+     "s": 893.43,
+     "e": 894.84
+    },
+    {
+     "t": "An offer priced at Rs 136 meets live demand for the first time today, in a market sitting near ten-month highs with foreign money on an eighteen-session buying streak.",
+     "s": 894.84,
+     "e": 906.47
+    },
+    {
+     "t": "Whatever the listing prints, it lands after this paper - the debut, the premium or discount, and the first-day close go into tomorrow's score and edition.",
+     "s": 906.47,
+     "e": 915.9
+    }
+   ]
+  },
+  {
+   "s": 915.9,
+   "e": 965.44,
+   "sentences": [
+    {
+     "t": "The IT stampede.",
+     "s": 915.9,
+     "e": 916.94
+    },
+    {
+     "t": "Thursday belonged to one sector: HCL Technologies +6.28% at 1,465.00 - the day's high of 1,468.00 touched, to the rupee, the exit print the board's old HCLTech line took in October - Infosys +4.69% at 1,182.10, Tech Mahindra +3.33% at 1,854.80, with TCS up 4.97% in the index reports.",
+     "s": 916.94,
+     "e": 949.89
+    },
+    {
+     "t": "Hindalco rode along at +2.94% (915.10).",
+     "s": 949.89,
+     "e": 955.52
+    },
+    {
+     "t": "The cyclicals were quiet and Voltas was the only tracked name in the red (-0.65% at 1,222.00).",
+     "s": 955.52,
+     "e": 965.44
+    }
+   ]
+  },
+  {
+   "s": 965.44,
+   "e": 996.48,
+   "sentences": [
+    {
+     "t": "The session's tell was in the other direction.",
+     "s": 965.44,
+     "e": 968.52
+    },
+    {
+     "t": "Asian Paints fell 2.89% to 2,543.00, closing at its day low of 2,541 as Brent settled at $96.57 - the crude-to-raw-material cost line working in public view (ET's quote page; BSE official print).",
+     "s": 968.52,
+     "e": 988.68
+    },
+    {
+     "t": "The same oil that lifts ONGC's coil case squeezes the paintmaker's margin.",
+     "s": 988.68,
+     "e": 993.68
+    },
+    {
+     "t": "Today's long read is about that paintmaker.",
+     "s": 993.68,
+     "e": 996.48
+    }
+   ]
+  },
+  {
+   "s": 996.48,
+   "e": 1021.15,
+   "sentences": [
+    {
+     "t": "Uber's India hand.",
+     "s": 996.48,
+     "e": 997.59
+    },
+    {
+     "t": "Uber appointed Rakesh Ranjan - eight years at Zomato, where he led food ordering and delivery as CEO - as President for India and South Asia, effective 4 January 2027 (YourStory's roundup).",
+     "s": 997.59,
+     "e": 1011.19
+    },
+    {
+     "t": "Elsewhere in the roundup: fintech Finnable raised Rs 405 crore in a Series C, and aerospace startup Green Aero raised $14 million.",
+     "s": 1011.19,
+     "e": 1021.15
+    }
+   ]
+  },
+  {
+   "s": 1021.15,
+   "e": 1059.86,
+   "sentences": [
+    {
+     "t": "Term of the day: casting vote.",
+     "s": 1021.15,
+     "e": 1023.0
+    },
+    {
+     "t": "A second vote some chairs hold to break a tie.",
+     "s": 1023.0,
+     "e": 1025.85
+    },
+    {
+     "t": "The Tata dispute turns on what it cannot do: the trusts argue that where Tata Sons' articles demand an affirmative majority of trust-nominated directors for certain decisions, a 2-2 split among those directors is not a tie to be broken - it is the resolution failing.",
+     "s": 1025.85,
+     "e": 1042.79
+    },
+    {
+     "t": "A casting vote settles arithmetic; it cannot manufacture a consent the articles required and did not get.",
+     "s": 1042.79,
+     "e": 1049.28
+    },
+    {
+     "t": "The Bombay High Court's reading of that difference, starting today, decides whether Chandrasekaran's third term stands (Bar and Bench's account of the suits).",
+     "s": 1049.28,
+     "e": 1059.86
+    }
+   ]
+  },
+  {
+   "s": 1059.86,
+   "e": 1088.14,
+   "sentences": [
+    {
+     "t": "The wider they spread, the less they own.",
+     "s": 1059.86,
+     "e": 1062.52
+    },
+    {
+     "t": "Two FPI facts look contradictory and are not: foreigners hold shares in twice as many Indian companies as in 2020 (~2,400), yet their slice of the whole market is at a 17.5-year low (14.7%).",
+     "s": 1062.52,
+     "e": 1079.39
+    },
+    {
+     "t": "Diversification across more names, concentration falling in each - breadth up, depth down (CNBC-TV18's provisional tally).",
+     "s": 1079.39,
+     "e": 1088.14
+    }
+   ]
+  },
+  {
+   "s": 1088.14,
+   "e": 1112.28,
+   "sentences": [
+    {
+     "t": "Gold's quiet slide.",
+     "s": 1088.14,
+     "e": 1089.38
+    },
+    {
+     "t": "A third consecutive monthly decline is on the table for a metal that was setting records weeks ago: the market now prices a cautious Fed, sticky US inflation, a firm dollar and high yields - the four horsemen of gold's autumn (ING's commodities feed).",
+     "s": 1089.38,
+     "e": 1105.99
+    },
+    {
+     "t": "Wednesday's sub-$3,500 print was the lowest in about fifteen months.",
+     "s": 1105.99,
+     "e": 1112.28
+    }
+   ]
+  },
+  {
+   "s": 1112.28,
+   "e": 1158.57,
+   "sentences": [
+    {
+     "t": "The rewrite that checked itself.",
+     "s": 1112.28,
+     "e": 1114.34
+    },
+    {
+     "t": "Anthropic moved its Messages API - the front door for Claude Code, Cowork and every API customer, with traffic up roughly 1,800x since early 2024 - from Python to Rust.",
+     "s": 1114.34,
+     "e": 1127.37
+    },
+    {
+     "t": "The bottleneck was verification, not generation: the live Python service became the test oracle, Claude agents compared the two on production traffic and fixed every divergence under human review, and the migration shipped with no freeze and no downtime.",
+     "s": 1127.37,
+     "e": 1143.74
+    },
+    {
+     "t": "The payoff: about 70% less CPU per request and a 20% faster median first token.",
+     "s": 1143.74,
+     "e": 1150.32
+    },
+    {
+     "t": "By May this year, Claude was writing more than 80% of the code Anthropic merged (Anthropic's own engineering post).",
+     "s": 1150.32,
+     "e": 1158.57
+    }
+   ]
+  },
+  {
+   "s": 1158.57,
+   "e": 1195.72,
+   "sentences": [
+    {
+     "t": "A sovereign stack milestone.",
+     "s": 1158.57,
+     "e": 1160.38
+    },
+    {
+     "t": "Chariot-1's launch gives the IndiaAI Mission its first shipped foundation models: an 11B mixture-of-experts LLM pretrained from scratch in India (4B active per token, in 10.7B / 1.7B / 745M sizes) and a TTS in eleven languages whose reported verbalisation accuracy tops 97% on the benchmark the team cites (PIB's launch release).",
+     "s": 1160.38,
+     "e": 1184.36
+    },
+    {
+     "t": "Over in San Francisco, The Next Web reports that OpenAI is piloting Private Inference - confidential-computing processing that keeps business prompts private - with a small group of customers.",
+     "s": 1184.36,
+     "e": 1195.72
+    }
+   ]
+  },
+  {
+   "s": 1195.72,
+   "e": 1246.0,
+   "sentences": [
+    {
+     "t": "In 2008, Noam Wasserman gave a name to the fork every founder meets: the founder's dilemma.",
+     "s": 1195.72,
+     "e": 1201.93
+    },
+    {
+     "t": "Studying hundreds of startups, he found founders must usually pick between rich and king - keep control of the board and the corner office, or bring in the people, capital and successors who make the company more valuable than any one person can.",
+     "s": 1201.93,
+     "e": 1216.48
+    },
+    {
+     "t": "Founders who insist on being king, his data showed, tend to build smaller kingdoms (Harvard Business Review in 2008).",
+     "s": 1216.48,
+     "e": 1224.35
+    },
+    {
+     "t": "It is the question running under today's paper twice over: in the Tata boardroom, where the 66% owners are fighting over who consents to a chairman; and in the long read, where Champaklal Choksey answered it in one line decades before Wasserman wrote it down - \"You have to decide whether you want to do well, or you want the company to do well.\"",
+     "s": 1224.35,
+     "e": 1246.0
+    }
+   ]
+  },
+  {
+   "s": 1246.0,
+   "e": 1280.53,
+   "sentences": [
+    {
+     "t": "Nothing resolved, nothing new.",
+     "s": 1246.0,
+     "e": 1248.0
+    },
+    {
+     "t": "Thursday's IT-led tape carried the ledger names - HCLTech to a whisper under its 1,468 exit print, Infosys up 4.69% - while the live watchlist barely moved: Kotak flat, ONGC up half a percent, JSW up a third of one.",
+     "s": 1248.0,
+     "e": 1266.57
+    },
+    {
+     "t": "Four watchlist lines carry into Friday unchanged, and Mahanadi's listing today changes nothing by itself: no new line unless a setup clears the published screen, under the Rs 1,500 cap.",
+     "s": 1266.57,
+     "e": 1280.53
+    }
+   ]
+  },
+  {
+   "s": 1280.53,
+   "e": 1319.56,
+   "sentences": [
+    {
+     "t": "The line to watch is Hindalco's.",
+     "s": 1280.53,
+     "e": 1282.66
+    },
+    {
+     "t": "Back above 911-912 - its first close over the zone since Friday - but the last identical reclaim, Friday's, was undone by Monday.",
+     "s": 1282.66,
+     "e": 1293.61
+    },
+    {
+     "t": "The published stance stands: no verified entry zone against longer history, so a stronger candidate, not a setup.",
+     "s": 1293.61,
+     "e": 1301.16
+    },
+    {
+     "t": "ONGC's coil floor at 218.50 held a tenth session, and Wednesday's tightest test (a 219.65 low) eased back to 222.10.",
+     "s": 1301.16,
+     "e": 1313.86
+    },
+    {
+     "t": "Cash-only swing setups under Rs 1,500 a share; research, not advice.",
+     "s": 1313.86,
+     "e": 1319.56
+    }
+   ]
+  },
+  {
+   "s": 1319.56,
+   "e": 1329.9,
+   "sentences": [
+    {
+     "t": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry.",
+     "s": 1319.56,
+     "e": 1329.9
+    }
+   ]
+  },
+  {
+   "s": 1329.9,
+   "e": 1336.28,
+   "sentences": [
+    {
+     "t": "Entry is assumed at the worst price inside the published zone, not the best.",
+     "s": 1329.9,
+     "e": 1336.28
+    }
+   ]
+  },
+  {
+   "s": 1336.28,
+   "e": 1346.81,
+   "sentences": [
+    {
+     "t": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board.",
+     "s": 1336.28,
+     "e": 1346.81
+    }
+   ]
+  },
+  {
+   "s": 1346.81,
+   "e": 1359.2,
+   "sentences": [
+    {
+     "t": "Every published setup stays on the board until its target or its stop resolves it; resolved lines move to the ledger with gross and net (0.3% cost convention).",
+     "s": 1346.81,
+     "e": 1359.2
+    }
+   ]
+  },
+  {
+   "s": 1359.2,
+   "e": 1374.32,
+   "sentences": [
+    {
+     "t": "The Bombay High Court hears the Tata trusts' suits against Tata Sons. Mahanadi Coalfields lists at 10 AM. US markets reopen for a shortened session, 1:00 PM ET close.",
+     "s": 1359.2,
+     "e": 1374.32
+    }
+   ]
+  },
+  {
+   "s": 1374.32,
+   "e": 1389.86,
+   "sentences": [
+    {
+     "t": "Tata Sons board meeting: confirmation of the disputed 17 September minutes and an extraordinary general meeting are on the agenda. India's Q2 GDP print is due.",
+     "s": 1374.32,
+     "e": 1389.86
+    }
+   ]
+  },
+  {
+   "s": 1389.86,
+   "e": 1408.0,
+   "sentences": [
+    {
+     "t": "The court's next date after today's Tata hearing; Washington's tariff comment window runs to 5 January 2027 with hearings 25 January; whether gold's third monthly decline confirms after the weekend.",
+     "s": 1389.86,
+     "e": 1408.0
+    }
+   ]
+  },
+  {
+   "s": 1408.0,
+   "e": 1451.23,
+   "sentences": [
+    {
+     "t": "Sources read for this edition: Bar and Bench's full account of the Tata trusts' suits; the Bank of Korea's own decision text and press-conference remarks; RTHK's and AP's close reports for Asia and Europe; Nasdaq's trader alert for US holiday hours; QNA's settlement wire and ING's commodities feed for oil and gold; Hindu BusinessLine and CNBC-TV18 for the Indian close and provisional flows (reconciled against the ChartMine aggregator); BSE's listing notice for Mahanadi; PIB's release for Chariot-1; Anthropic's engineering post; The Next Web on OpenAI Private Inference; YourStory's startup roundup; Harvard Business Review for the founder's dilemma.",
+     "s": 1408.0,
+     "e": 1451.23
+    }
+   ]
+  },
+  {
+   "s": 1451.23,
+   "e": 1473.33,
+   "sentences": [
+    {
+     "t": "Prices: every India price is a BSE official print from the exchange's bhavcopy; US closes are from end-of-day reports already printed in Edition 52. Thursday's FII/DII figures are provisional exchange data as reported by CNBC-TV18. Chariot-1 performance figures are the team's reported benchmarks, as released by PIB.",
+     "s": 1451.23,
+     "e": 1473.33
+    }
+   ]
+  },
+  {
+   "s": 1473.33,
+   "e": 1494.72,
+   "sentences": [
+    {
+     "t": "The suits' plaintiffs are the Sir Dorabji Tata Trust and the Sir Ratan Tata Trust, named consistently by Bar and Bench's account and The Economic Times' report; a startup roundup's differing name for the second trust is disregarded. The court hears the matter today; anything the court says after print time belongs to tomorrow's edition.",
+     "s": 1473.33,
+     "e": 1494.72
+    }
+   ]
+  },
+  {
+   "s": 1494.72,
+   "e": 1495.88,
+   "sentences": [
+    {
+     "t": "See you tomorrow.",
+     "s": 1494.72,
+     "e": 1495.88
+    }
+   ]
+  }
+ ]
+}
