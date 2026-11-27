@@ -35,3 +35,9 @@ Never covered as a company story (LR2-53 checked; Infosys 49 and Dixon/APL Apoll
 
 ## Caveats for the writer
 - Do not print IPO listing day pop or "third most valuable" without both sources. Kohli quotes only as printed in source 4. No predictions on Monday's board.
+
+## VERIFICATION ADDENDUM (04:25)
+- Founding year: owning TCS site says "Since its founding in 1968" (https://www.tcs.com/who-we-are, read 04:22). 1966/1967 only in Tata heritage text about the Tata Computer Centre and The Wire. Print: "TCS dates its founding to 1968; it grew out of the Tata Computer Centre, a computing room for group companies." Do not print 1966/67.
+- Kohli exit / Ramadorai takeover: Tata timeline says 1996 and Business Standard on Ramadorai's own book says 1996; a Tata May-2024 feature says "retired in 1999"; Tata 2021 photo essay places "22 years at the helm" in the 1989-98 decade. NOT resolved at an owning primary page. Print "handed over to S. Ramadorai in the 1990s; Ramadorai led TCS for 13 years until 2009". No year for the handover.
+- First offshore project: Tata timeline "1973, Detroit hospital"; MIT Tech Review: Burroughs contract 1974, health-care package. Print "in the early 1970s". Eureka filter story: use The Wire and MIT TR wording, attributed to Kohli's own account.
+- IPO listing rank: omit "third-most valuable". Use Reuters at pricing only.
