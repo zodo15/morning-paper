@@ -1,0 +1,1034 @@
+{
+ "version": 1,
+ "audio": "audio/d52-full-r2.m4a",
+ "blocks": [
+  {
+   "s": 63.95,
+   "e": 92.19,
+   "sentences": [
+    {
+     "t": "The comeback tape.",
+     "s": 63.95,
+     "e": 65.23
+    },
+    {
+     "t": "The final session before Thanksgiving opened in a plunge - the Dow down about 1,100 points, the S&P 500 off 3.2%, the Nasdaq down 4.6% at their lows - and ended almost flat: the Dow closed up 0.33% at 50,182.95, the S&P down 0.25% at 7,182.78, the Nasdaq down 0.62% at 23,585.80 (CNBC's close post; AP's final-close wire).",
+     "s": 65.23,
+     "e": 90.05
+    },
+    {
+     "t": "US markets are shut today.",
+     "s": 90.05,
+     "e": 92.19
+    }
+   ]
+  },
+  {
+   "s": 100.68,
+   "e": 130.0,
+   "sentences": [
+    {
+     "t": "The tariff salvo.",
+     "s": 100.68,
+     "e": 102.99
+    },
+    {
+     "t": "Washington proposed Section 301 tariffs on 14 economies it says run structural excess manufacturing capacity - India facing up to 25% on all goods, or 17% under a reciprocal trade deal; China up to 20%; the EU and Japan 15%; Vietnam up to 35%.",
+     "s": 102.99,
+     "e": 125.98
+    },
+    {
+     "t": "Proposed, not imposed: public comments close January 5 and hearings start January 25 (USTR's release).",
+     "s": 125.98,
+     "e": 130.0
+    }
+   ]
+  },
+  {
+   "s": 130.0,
+   "e": 160.41,
+   "sentences": [
+    {
+     "t": "The data deluge lands hot.",
+     "s": 130.0,
+     "e": 134.27
+    },
+    {
+     "t": "October core PCE came in at 3.3%, a tenth above forecast; headline 3.8%.",
+     "s": 134.27,
+     "e": 140.71
+    },
+    {
+     "t": "Q3 GDP was revised up to 4.3%.",
+     "s": 140.71,
+     "e": 144.93
+    },
+    {
+     "t": "Weekly jobless claims fell to 189,000, near the lowest since the late 1960s.",
+     "s": 144.93,
+     "e": 150.62
+    },
+    {
+     "t": "A December rate hike is now fully priced (CNBC's data report).",
+     "s": 150.62,
+     "e": 160.41
+    }
+   ]
+  },
+  {
+   "s": 160.41,
+   "e": 191.58,
+   "sentences": [
+    {
+     "t": "Mumbai's reopen rally.",
+     "s": 160.41,
+     "e": 162.72
+    },
+    {
+     "t": "Back from the holiday, the Sensex rose 1.82% to 83,938.28 and the Nifty 1.85% to 25,819.25; foreign investors bought Rs 4,479 crore - a sixteenth buy in seventeen November sessions - and domestic institutions joined them for only the second time this month.",
+     "s": 162.72,
+     "e": 187.14
+    },
+    {
+     "t": "The rupee closed at 92.23, an eight-month high (the flows report).",
+     "s": 187.14,
+     "e": 191.58
+    }
+   ]
+  },
+  {
+   "s": 191.58,
+   "e": 216.27,
+   "sentences": [
+    {
+     "t": "The deal's first tape.",
+     "s": 191.58,
+     "e": 193.02
+    },
+    {
+     "t": "APL Apollo fell 11.42% to Rs 1,478 after touching minus 20% intraday - a second brutal session after Monday's minus 22% - and Tata Steel fell 2.54% to Rs 159.10, as the market kept voting against the Rs 28,000-crore swap (CNBC-TV18).",
+     "s": 193.02,
+     "e": 216.27
+    }
+   ]
+  },
+  {
+   "s": 216.27,
+   "e": 244.5,
+   "sentences": [
+    {
+     "t": "Huang's return, and the unanswered deadline.",
+     "s": 216.27,
+     "e": 220.84
+    },
+    {
+     "t": "Jensen Huang was reinstated as Nvidia's chief executive on Monday - the stock rose about 30%, roughly $950 billion in a day (NPR).",
+     "s": 220.84,
+     "e": 228.54
+    },
+    {
+     "t": "The November 25 deadline to answer the US Treasury's export-control questions has now passed; as of this morning, nothing public has been filed (Politico).",
+     "s": 228.54,
+     "e": 244.5
+    }
+   ]
+  },
+  {
+   "s": 244.5,
+   "e": 266.31,
+   "sentences": [
+    {
+     "t": "Siemens Energy India's quarter.",
+     "s": 244.5,
+     "e": 246.91
+    },
+    {
+     "t": "Revenue up 30.4% to Rs 3,453 crore, profit up 81.5% to Rs 653 crore, orders up 92.1%, a Rs 12 dividend - and the first year above Rs 10,000 crore of revenue (the exchange filing).",
+     "s": 246.91,
+     "e": 266.31
+    }
+   ]
+  },
+  {
+   "s": 266.31,
+   "e": 282.28,
+   "sentences": [
+    {
+     "t": "Mahanadi's listing eve.",
+     "s": 266.31,
+     "e": 268.87
+    },
+    {
+     "t": "Shares credit to demat accounts today after allotment finalised Wednesday; listing is Friday at 10 AM.",
+     "s": 268.87,
+     "e": 281.72
+    },
+    {
+     "t": "The retail book closed at 0.48 times - every valid retail bid gets shares (the allotment tally).",
+     "s": 281.72,
+     "e": 282.28
+    }
+   ]
+  },
+  {
+   "s": 282.28,
+   "e": 318.15,
+   "sentences": [
+    {
+     "t": "This morning: Seoul's Kospi opened up 1% after Wednesday's 6% plunge, Tokyo up 0.7%; the Bank of Korea decides rates today with a hike to 3.25% expected.",
+     "s": 282.28,
+     "e": 298.42
+    },
+    {
+     "t": "GIFT Nifty quoted up 0.48% at 2:44 AM.",
+     "s": 298.42,
+     "e": 303.2
+    },
+    {
+     "t": "Gold, which broke $3,500 overnight - a $3,426.71 low, its weakest since August 2025 - recovered toward $3,575; oil rose on the Ras Tanura strikes.",
+     "s": 303.2,
+     "e": 318.15
+    }
+   ]
+  },
+  {
+   "s": 318.15,
+   "e": 367.53,
+   "sentences": [
+    {
+     "t": "The session that round-tripped.",
+     "s": 318.15,
+     "e": 319.91
+    },
+    {
+     "t": "Wednesday on Wall Street began as a rout: within hours the Dow was down about 1,100 points, minus 2.2%, the S&P 500 was off 3.2% and the Nasdaq composite 4.6% - the tariff announcement and a hot inflation print doing the damage.",
+     "s": 319.91,
+     "e": 338.43
+    },
+    {
+     "t": "By the bell the Dow had erased the whole plunge to close at 50,182.95, up 164.25 points, 0.33%; the S&P 500 closed at 7,182.78, down 0.25%; the Nasdaq at 23,585.80, down 0.62% (CNBC's close post).",
+     "s": 338.43,
+     "e": 353.86
+    },
+    {
+     "t": "The numbers reconcile exactly to Tuesday's prints.",
+     "s": 353.86,
+     "e": 356.95
+    },
+    {
+     "t": "It was the last full session of the week: US markets are closed today for Thanksgiving and run a shortened Friday (AP's close wire).",
+     "s": 356.95,
+     "e": 367.53
+    }
+   ]
+  },
+  {
+   "s": 367.53,
+   "e": 424.38,
+   "sentences": [
+    {
+     "t": "The tariff salvo, owning text.",
+     "s": 367.53,
+     "e": 375.57
+    },
+    {
+     "t": "The US Trade Representative determined that fourteen economies - China, the European Union, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, Korea, Vietnam, Taiwan, Bangladesh, Japan and India - maintain acts and policies creating structural excess manufacturing capacity, and proposed responsive tariffs (the USTR release).",
+     "s": 375.57,
+     "e": 401.88
+    },
+    {
+     "t": "For India: up to 25% on all goods, net of existing Section 301 tariffs, with exemptions - or 17% if India signs a reciprocal trade agreement responsive to the findings; the determination names pharmaceuticals and medical devices, steel, solar and ICT.",
+     "s": 401.88,
+     "e": 418.54
+    },
+    {
+     "t": "China faces up to 20%, the EU and Japan 15%, Vietnam up to 35%.",
+     "s": 418.54,
+     "e": 424.38
+    }
+   ]
+  },
+  {
+   "s": 424.38,
+   "e": 449.22,
+   "sentences": [
+    {
+     "t": "Mexico and Norway, also investigated since March, got no determination.",
+     "s": 424.38,
+     "e": 428.54
+    },
+    {
+     "t": "This is a proposal, not an imposition: comments and hearing requests are due January 5, hearings begin January 25, and there is no effective date.",
+     "s": 428.54,
+     "e": 445.37
+    },
+    {
+     "t": "Reuters frames it as rebuilding tariff leverage the Supreme Court struck down in February; the Washington Post likewise.",
+     "s": 445.37,
+     "e": 449.22
+    }
+   ]
+  },
+  {
+   "s": 449.22,
+   "e": 463.73,
+   "sentences": [
+    {
+     "t": "The data deluge landed hot.",
+     "s": 449.22,
+     "e": 453.07
+    },
+    {
+     "t": "October's PCE inflation: headline 3.8% year on year, in line with consensus and a tenth above September; core at 3.3%, a tenth above forecast.",
+     "s": 453.07,
+     "e": 463.73
+    }
+   ]
+  },
+  {
+   "s": 463.73,
+   "e": 510.0,
+   "sentences": [
+    {
+     "t": "The second estimate of Q3 GDP was revised up to 4.3% annualized, with consumer spending up 4.2% and real final sales to private domestic purchasers up 5.8%.",
+     "s": 463.73,
+     "e": 480.95
+    },
+    {
+     "t": "Personal income rose 0.7% in October against a 0.4% forecast; spending rose 0.3%, a tenth light.",
+     "s": 480.95,
+     "e": 486.44
+    },
+    {
+     "t": "Initial jobless claims fell 13,000 to 189,000, around the lowest since the late 1960s.",
+     "s": 486.44,
+     "e": 497.89
+    },
+    {
+     "t": "The market's read: a December 8-9 quarter-point hike is fully priced, and the odds of a third 2027 hike fell to about one-in-three from even money (CNBC's data report).",
+     "s": 497.89,
+     "e": 510.0
+    }
+   ]
+  },
+  {
+   "s": 510.0,
+   "e": 550.71,
+   "sentences": [
+    {
+     "t": "Huang's return - and the deadline that passed.",
+     "s": 510.0,
+     "e": 510.79
+    },
+    {
+     "t": "Nvidia's board reinstated Jensen Huang as chief executive on Monday, eleven days after his removal; the stock rose about 30% that day, roughly $950 billion of market value, which NPR framed as the biggest one-day gain for a single company on record; CoreWeave rose 22% alongside (NPR's on-record report).",
+     "s": 510.79,
+     "e": 537.08
+    },
+    {
+     "t": "Separately, the November 25 deadline for Nvidia to answer the Treasury's export-control questions passed with no public filing found as of this morning (Politico's report).",
+     "s": 537.08,
+     "e": 546.47
+    },
+    {
+     "t": "What the company tells Washington, when it tells it, is now the story.",
+     "s": 546.47,
+     "e": 550.71
+    }
+   ]
+  },
+  {
+   "s": 550.71,
+   "e": 685.48,
+   "sentences": [
+    {
+     "t": "The deal's first tape, day two.",
+     "s": 550.71,
+     "e": 556.04
+    },
+    {
+     "t": "APL Apollo closed at Rs 1,478.00, down 11.42%, after trading as low as Rs 1,334.55 - minus 20% intraday - following Monday's 22% fall, which CNBC-TV18 called its biggest one-day drop in twenty years; Tata Steel closed at Rs 159.10, down 2.54% (BSE official prints).",
+     "s": 556.04,
+     "e": 587.66
+    },
+    {
+     "t": "The promoter's sister entities, SG Mart and SG Finserve, each fell 20% Wednesday; SG Mart's board meets today on a fundraise proposal.",
+     "s": 587.66,
+     "e": 595.79
+    },
+    {
+     "t": "The owning math, from the filings: Tata Steel sells its tubes business and Tata Steel Colors to APL Apollo for a combined Rs 28,000 crore; it buys the promoter's 26.38% - 7,38,60,062 shares - at Rs 2,100 for Rs 15,510.61 crore in three tranches running to March 2028; and it opens an offer for 26% more at Rs 2,301.40, up to Rs 16,755.66 crore, managed by Kotak Mahindra Capital, needing competition and US SEC clearances (Tata's board outcome; the SEBI open-offer announcement).",
+     "s": 595.79,
+     "e": 642.62
+    },
+    {
+     "t": "APL Apollo says it will fund the purchase with acquisition financing, then replace the debt with long-term capital (its investor deck).",
+     "s": 642.62,
+     "e": 650.37
+    },
+    {
+     "t": "At Wednesday's close the whole company is valued near Rs 41,400 crore - the market is pricing the buyer below one and a half times what it just agreed to borrow and spend.",
+     "s": 650.37,
+     "e": 670.51
+    },
+    {
+     "t": "Samir Arora of Helios Capital asked the conflict question on record: can a promoter commit his company to a significant transaction while selling all his shares at the same time?",
+     "s": 670.51,
+     "e": 683.1
+    },
+    {
+     "t": "Four or more brokerages downgraded; ICICI Securities and Axis Capital cut targets by 40% or more (CNBC-TV18).",
+     "s": 683.1,
+     "e": 685.48
+    }
+   ]
+  },
+  {
+   "s": 685.48,
+   "e": 753.6,
+   "sentences": [
+    {
+     "t": "This morning in Asia.",
+     "s": 685.48,
+     "e": 693.43
+    },
+    {
+     "t": "Seoul's Kospi opened up 1.01% at 4,745.10, a partial rebound after Wednesday's plunge of more than 6%, with the Kosdaq up about 2% (Yonhap); Tokyo's Nikkei opened up 0.73% at 57,429.54.",
+     "s": 693.43,
+     "e": 708.86
+    },
+    {
+     "t": "CNBC frames a subdued open region-wide as investors weigh the fresh US tariffs (CNBC).",
+     "s": 708.86,
+     "e": 722.93
+    },
+    {
+     "t": "The Bank of Korea decides policy today - its last meeting of the year - with economists expecting a third hike of the cycle, to 3.25%, plus a revised outlook (the preview); the outcome lands after this paper's deadline.",
+     "s": 722.93,
+     "e": 738.53
+    },
+    {
+     "t": "India's early marker: GIFT Nifty quoted at 26,050, up 125 points, 0.48%, at its 2:44 AM close (the quote page) - a marker, not a prediction.",
+     "s": 738.53,
+     "e": 753.6
+    }
+   ]
+  },
+  {
+   "s": 753.6,
+   "e": 800.38,
+   "sentences": [
+    {
+     "t": "The reopen rally.",
+     "s": 753.6,
+     "e": 755.45
+    },
+    {
+     "t": "Mumbai came back from Prakash Gurpurab Sri Guru Nanak Dev with its best session in weeks: the Sensex closed at 83,938.28, up 1,502.29 points, 1.82%; the Nifty at 25,819.25, up 469.6 points, 1.85%.",
+     "s": 755.45,
+     "e": 764.39
+    },
+    {
+     "t": "FMCG, private banks and pharma led; metals and media lagged.",
+     "s": 764.39,
+     "e": 784.61
+    },
+    {
+     "t": "The midcap index added 0.4% while smallcaps fell 0.4% - a large-cap day.",
+     "s": 784.61,
+     "e": 792.22
+    },
+    {
+     "t": "Nifty gainers: Hindustan Unilever, Nestle India, Tata Consumer, InterGlobe Aviation, HDFC Life; laggards: Tata Steel, Shriram Finance, Hindalco, JSW Steel, Max Healthcare (Moneycontrol's close report).",
+     "s": 792.22,
+     "e": 800.38
+    }
+   ]
+  },
+  {
+   "s": 800.38,
+   "e": 825.0,
+   "sentences": [
+    {
+     "t": "The flows turned together.",
+     "s": 800.38,
+     "e": 807.41
+    },
+    {
+     "t": "Foreign investors bought Rs 4,479.08 crore in the cash market Wednesday - purchases of Rs 24,309.87 crore against sales of Rs 19,830.79 crore - their sixteenth net-buying session in seventeen this November.",
+     "s": 807.41,
+     "e": 825.0
+    }
+   ]
+  },
+  {
+   "s": 825.0,
+   "e": 858.0,
+   "sentences": [
+    {
+     "t": "Domestic institutions bought Rs 4,018.72 crore, only their second net-buying day of the month (the first: Rs 196.93 crore on November 17).",
+     "s": 825.0,
+     "e": 840.71
+    },
+    {
+     "t": "November's foreign buying has pared the calendar-year net selling to Rs 3,26,127.98 crore; domestic institutions remain net buyers of Rs 6,41,226.53 crore for the year (the provisional tallies).",
+     "s": 840.71,
+     "e": 856.22
+    },
+    {
+     "t": "Provisional exchange data, revisable.",
+     "s": 856.22,
+     "e": 858.0
+    }
+   ]
+  },
+  {
+   "s": 858.0,
+   "e": 889.64,
+   "sentences": [
+    {
+     "t": "The rupee's best run in months.",
+     "s": 858.0,
+     "e": 863.4
+    },
+    {
+     "t": "The currency closed at 92.23 against the dollar, up 0.7% on the day, after touching 92.1850 intraday - an eight-month high; it opened at 92.74 and is up 2.9% in November.",
+     "s": 863.4,
+     "e": 876.87
+    },
+    {
+     "t": "Traders credited foreign portfolio inflows, softer crude and better dollar supply-demand (Moneycontrol; Hindu BusinessLine).",
+     "s": 876.87,
+     "e": 889.64
+    }
+   ]
+  },
+  {
+   "s": 889.64,
+   "e": 915.96,
+   "sentences": [
+    {
+     "t": "The early marker and the calendar.",
+     "s": 889.64,
+     "e": 891.95
+    },
+    {
+     "t": "GIFT Nifty's last quote was 26,050, up 0.48%, at 2:44 AM (the quote page).",
+     "s": 891.95,
+     "e": 900.16
+    },
+    {
+     "t": "US markets are shut today, so tonight brings no Wall Street close; the Bank of Korea's decision, any Nvidia-Treasury news and Friday's Mahanadi listing carry the week.",
+     "s": 900.16,
+     "e": 909.66
+    },
+    {
+     "t": "Results today include Patanjali Foods' board meeting; SG Mart meets on a fundraise proposal (the results calendar).",
+     "s": 909.66,
+     "e": 915.96
+    }
+   ]
+  },
+  {
+   "s": 915.96,
+   "e": 962.92,
+   "sentences": [
+    {
+     "t": "Mahanadi Coalfields: listing eve.",
+     "s": 915.96,
+     "e": 916.89
+    },
+    {
+     "t": "Allotment was finalised Wednesday by KFin Technologies; refunds and demat credit land today, and the stock lists Friday at 10 AM on BSE and NSE (the exchange timeline).",
+     "s": 916.89,
+     "e": 932.04
+    },
+    {
+     "t": "The final book tells the story of this issue: 1.52 times subscribed on the 49.31 crore shares open after anchors - institutions 4.95 times, retail just 0.48 times.",
+     "s": 932.04,
+     "e": 943.12
+    },
+    {
+     "t": "On 19,68,96,299 shares reserved, retail subscription under 100% means every valid retail bid gets a full allotment, no lottery; 6,41,346 applications came in all told (the final tally).",
+     "s": 943.12,
+     "e": 958.12
+    },
+    {
+     "t": "Coal India's Rs 8,981-crore divestment priced at Rs 136.",
+     "s": 958.12,
+     "e": 962.92
+    }
+   ]
+  },
+  {
+   "s": 962.92,
+   "e": 989.61,
+   "sentences": [
+    {
+     "t": "LG Electronics India's parent sells down.",
+     "s": 962.92,
+     "e": 969.87
+    },
+    {
+     "t": "LG Electronics Inc launched a block deal of up to $251 million in the Indian arm at a floor of Rs 1,709.3 a share, to comply with minimum public shareholding norms; the sale trims the parent's 85% holding (Moneycontrol).",
+     "s": 969.87,
+     "e": 983.17
+    },
+    {
+     "t": "A routine compliance sale in one of the year's big listings - and a test of appetite with the stock's lock-ups maturing.",
+     "s": 983.17,
+     "e": 989.61
+    }
+   ]
+  },
+  {
+   "s": 989.61,
+   "e": 1022.05,
+   "sentences": [
+    {
+     "t": "The reopen repriced the tracked board with a clear split: the banks-and-IT side rose with the index while the cyclicals fell on a plus-1.8% day - percentages computed from BSE's official closes against Tuesday:",
+     "s": 989.61,
+     "e": 1022.05
+    }
+   ]
+  },
+  {
+   "s": 1022.05,
+   "e": 1035.35,
+   "sentences": [
+    {
+     "t": "Off the chart but the session's real movers: APL Apollo -11.42% and Tata Steel -2.54% on the deal's first tape (the front page carries both).",
+     "s": 1022.05,
+     "e": 1027.99
+    },
+    {
+     "t": "What moves the board next: the Bank of Korea this morning, a Wall-Street-less tonight, and Mahanadi's Friday listing - with Wednesday's FII-DII double-buy and the rupee's eight-month high behind the tape.",
+     "s": 1027.99,
+     "e": 1035.35
+    }
+   ]
+  },
+  {
+   "s": 1035.35,
+   "e": 1122.93,
+   "sentences": [
+    {
+     "t": "Siemens Energy India's standout quarter.",
+     "s": 1035.35,
+     "e": 1040.2
+    },
+    {
+     "t": "The company's fourth quarter of FY2026 - its fiscal year ends in September - delivered revenue of Rs 3,453 crore, up 30.4%; profit after tax of Rs 653 crore, up 81.5%; new orders of Rs 4,514 crore, up 92.1%; and a backlog of Rs 20,362 crore, up 25.6%, at a 22.6% EBIT margin.",
+     "s": 1040.2,
+     "e": 1072.27
+    },
+    {
+     "t": "The full year crossed Rs 10,000 crore of revenue for the first time - Rs 10,243 crore, up 30.9%, with profit up 61.9% to Rs 1,781 crore - and the board recommended a Rs 12 dividend.",
+     "s": 1072.27,
+     "e": 1088.86
+    },
+    {
+     "t": "It will invest Rs 2,060 crore in large power transformer capacity at Kalwa and Chhatrapati Sambhajinagar (the owning filing; CNBC-TV18).",
+     "s": 1088.86,
+     "e": 1097.78
+    },
+    {
+     "t": "Audited, unmodified opinion.",
+     "s": 1097.78,
+     "e": 1100.82
+    },
+    {
+     "t": "Also on the wire: the Union Cabinet approved Prudential's FDI proposal in Bharti Life Insurance (Moneycontrol); LG's parent launched its compliance block deal (the IPOs section); SG Mart - the APL Apollo promoter's sister entity, down 20% Wednesday - meets today on a fundraise; HDFC Bank's board takes up a routine director reappointment (the calendar).",
+     "s": 1100.82,
+     "e": 1122.93
+    }
+   ]
+  },
+  {
+   "s": 1122.93,
+   "e": 1178.09,
+   "sentences": [
+    {
+     "t": "The seesaw, amplified.",
+     "s": 1122.93,
+     "e": 1127.91
+    },
+    {
+     "t": "Wednesday's macro told one story in two metals and a barrel: gold broke $3,500 an ounce - a $3,426.71 low, its weakest since August 2025 and its first trip under $3,500 since September - as hot inflation priced a December hike; crude went the other way, up around 2 to 3% after the Houthis confirmed strikes on Saudi Arabia's Ras Tanura refinery and Iran raised the Hormuz rhetoric (CNBC's oil report).",
+     "s": 1127.91,
+     "e": 1160.59
+    },
+    {
+     "t": "By this morning gold had recovered toward $3,575 and WTI held near $83.80.",
+     "s": 1160.59,
+     "e": 1168.24
+    },
+    {
+     "t": "Interest rates tax the metal; geopolitics pays the barrel.",
+     "s": 1168.24,
+     "e": 1172.47
+    },
+    {
+     "t": "Last week it was the same seesaw with smaller weights.",
+     "s": 1172.47,
+     "e": 1178.09
+    }
+   ]
+  },
+  {
+   "s": 1178.09,
+   "e": 1219.04,
+   "sentences": [
+    {
+     "t": "Term of the day: slump sale.",
+     "s": 1178.09,
+     "e": 1179.78
+    },
+    {
+     "t": "One deal, two legal routes.",
+     "s": 1179.78,
+     "e": 1183.01
+    },
+    {
+     "t": "Tata Steel's tubes business moves to APL Apollo as a going-concern slump sale - the whole business, assets and liabilities, for a lump-sum Rs 11,700 crore, no item-by-item pricing - while the colour-coated arm moves by share purchase: APL Apollo buys 100% of Tata Steel Colors for Rs 16,300 crore (the board outcome filing).",
+     "s": 1183.01,
+     "e": 1206.06
+    },
+    {
+     "t": "Same seller, same buyer, same Sunday board meeting: the business moves by slump sale, the company by share transfer.",
+     "s": 1206.06,
+     "e": 1214.79
+    },
+    {
+     "t": "The tax and stamp-duty treatment of the two routes is why both exist.",
+     "s": 1214.79,
+     "e": 1219.04
+    }
+   ]
+  },
+  {
+   "s": 1219.04,
+   "e": 1254.95,
+   "sentences": [
+    {
+     "t": "The flow reversal behind the rupee.",
+     "s": 1219.04,
+     "e": 1222.94
+    },
+    {
+     "t": "November's foreign buying - sixteen net-buying sessions in seventeen - has cut the calendar year's FII net selling to Rs 3,26,127.98 crore, while domestic institutions sit on Rs 6,41,226.53 crore of net buying for the year (the tallies).",
+     "s": 1222.94,
+     "e": 1239.06
+    },
+    {
+     "t": "Wednesday was the first session in weeks where both bought together, and the rupee printed an eight-month high on it.",
+     "s": 1239.06,
+     "e": 1248.67
+    },
+    {
+     "t": "When the two biggest flows in the market point the same way, the currency notices.",
+     "s": 1248.67,
+     "e": 1254.95
+    }
+   ]
+  },
+  {
+   "s": 1254.95,
+   "e": 1297.2,
+   "sentences": [
+    {
+     "t": "A shield while you patch.",
+     "s": 1254.95,
+     "e": 1257.88
+    },
+    {
+     "t": "OpenAI and Cisco launched Shirudo, an open-source runtime - BSD 2-Clause - that lets operators deploy AI-generated temporary shields on running Linux systems: eBPF programs that block a vulnerable code path without a restart while the real patch rolls out.",
+     "s": 1257.88,
+     "e": 1275.37
+    },
+    {
+     "t": "In a controlled test, a Codex-generated shield blocked a Java4Shell exploit against a live Elasticsearch service; shields are cryptographically signed with TPM attestation (OpenAI's post; Cisco's newsroom).",
+     "s": 1275.37,
+     "e": 1288.18
+    },
+    {
+     "t": "The pitch: the window between a vulnerability's disclosure and its patch is where breaches live, and agents can now shrink that window to minutes.",
+     "s": 1288.18,
+     "e": 1297.2
+    }
+   ]
+  },
+  {
+   "s": 1297.2,
+   "e": 1372.9,
+   "sentences": [
+    {
+     "t": "Agent teams doing formal mathematics.",
+     "s": 1297.2,
+     "e": 1297.76
+    },
+    {
+     "t": "Google DeepMind paired teams of Gemini 4 agents with Lean formal verification to find faster quantum algorithms: an 11.8-times cost cut on an inertial-confinement-fusion circuit (5,650 qubits to 4,338), an 8-times cheaper light-sensitive-molecule simulation, a 2.57-times Grover speedup and a 290-times improvement on an arcsin routine - with the Lean library, problem specs and verified solutions open-sourced (DeepMind's post).",
+     "s": 1297.76,
+     "e": 1332.63
+    },
+    {
+     "t": "The agents propose, the proof checker disposes: nothing counts until Lean verifies it.",
+     "s": 1332.63,
+     "e": 1339.36
+    },
+    {
+     "t": "On the listed side of the AI complex, the newly listed model maker closed Wednesday at $82.79, up 1.08% - still under its $83 IPO price - after trading as low as $73.85 intraday, a dip that briefly took its market value below $1 trillion (the close report; SiliconANGLE).",
+     "s": 1339.36,
+     "e": 1362.56
+    },
+    {
+     "t": "The week's AI-complex selling hit the hardware names harder than the model maker; the debut week ends with the stock a quarter below where it opened on day one.",
+     "s": 1362.56,
+     "e": 1372.9
+    }
+   ]
+  },
+  {
+   "s": 1372.9,
+   "e": 1437.18,
+   "sentences": [
+    {
+     "t": "In 1961, Daniel Ellsberg described a puzzle: offer people a bet on a draw from an urn with fifty red and fifty black balls, and a second urn with a hundred balls in unknown proportions, and they will pay to bet on the first - though the odds of either are even.",
+     "s": 1372.9,
+     "e": 1390.74
+    },
+    {
+     "t": "Ambiguity aversion: people prefer known risks to unknown ones, and they pay a premium to avoid the unmeasurable.",
+     "s": 1390.74,
+     "e": 1398.62
+    },
+    {
+     "t": "The tariff salvo is an Ellsberg urn.",
+     "s": 1398.62,
+     "e": 1401.28
+    },
+    {
+     "t": "The rates are proposed, not final - 25% or 17% for India, depending on a deal that does not exist yet, decided by hearings that start in January.",
+     "s": 1401.28,
+     "e": 1407.46
+    },
+    {
+     "t": "Nobody can price the second urn, so the first instinct is to sell it.",
+     "s": 1407.46,
+     "e": 1416.97
+    },
+    {
+     "t": "Wednesday's intraday plunge was that instinct; the recovery was the discovery that the proposal, for now, is only paper.",
+     "s": 1416.97,
+     "e": 1425.01
+    },
+    {
+     "t": "The discipline is separating what is known (the rates on paper, the dates) from what is unknown (the final number) - and refusing to pay the ambiguity premium for confusing the two.",
+     "s": 1425.01,
+     "e": 1437.18
+    }
+   ]
+  },
+  {
+   "s": 1437.18,
+   "e": 1477.24,
+   "sentences": [
+    {
+     "t": "Wednesday's reopen scored the board: no resolutions, no new clearances, all four watchlist lines still watchlist.",
+     "s": 1437.18,
+     "e": 1439.51
+    },
+    {
+     "t": "The split session ran through it - Kotak and the ledger names rose with the tape while the cyclicals fell on a plus-1.8% index day.",
+     "s": 1439.51,
+     "e": 1458.16
+    },
+    {
+     "t": "The line to watch is ONGC's coil: the floor at 218.50 held for a ninth session, but the day's low of 219.65 is the tightest test of the floor yet, and it came with crude spiking - a tailwind that never showed up in the print.",
+     "s": 1458.16,
+     "e": 1467.89
+    },
+    {
+     "t": "If the floor breaches, the coil line dies by its own rule.",
+     "s": 1467.89,
+     "e": 1477.24
+    }
+   ]
+  },
+  {
+   "s": 1477.24,
+   "e": 1515.5,
+   "sentences": [
+    {
+     "t": "The ledger is unchanged: HCLTech, filled 28 October at the worst fill of Rs 1,378.00, target Rs 1,466.80 taken out at 1,468.00 - gross +6.53%, net +6.23% after the 0.3% cost convention - last printed Rs 1,378.40 (+1.13%).",
+     "s": 1477.24,
+     "e": 1502.0
+    },
+    {
+     "t": "Infosys, resolved by invalidation, no trade, no P&L, last printed Rs 1,129.00 (+2.26%).",
+     "s": 1502.0,
+     "e": 1513.5
+    },
+    {
+     "t": "Research, not advice.",
+     "s": 1513.5,
+     "e": 1515.5
+    }
+   ]
+  },
+  {
+   "s": 1515.5,
+   "e": 1528.2,
+   "sentences": [
+    {
+     "t": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry.",
+     "s": 1515.5,
+     "e": 1528.2
+    }
+   ]
+  },
+  {
+   "s": 1529.38,
+   "e": 1534.44,
+   "sentences": [
+    {
+     "t": "Entry is assumed at the worst price inside the published zone, not the best.",
+     "s": 1529.38,
+     "e": 1534.44
+    }
+   ]
+  },
+  {
+   "s": 1536.67,
+   "e": 1546.04,
+   "sentences": [
+    {
+     "t": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board.",
+     "s": 1536.67,
+     "e": 1546.04
+    }
+   ]
+  },
+  {
+   "s": 1549.22,
+   "e": 1553.8,
+   "sentences": [
+    {
+     "t": "A line leaves the board only by stop, target or invalidation - never by opinion.",
+     "s": 1549.22,
+     "e": 1553.8
+    }
+   ]
+  },
+  {
+   "s": 1549.64,
+   "e": 1566.32,
+   "sentences": [
+    {
+     "t": "US markets closed for Thanksgiving. Bank of Korea decides rates (hike to 3.25% expected). Mahanadi demat credit. Patanjali Foods Q2 board; SG Mart fundraise proposal; HDFC Bank board.",
+     "s": 1549.64,
+     "e": 1566.32
+    }
+   ]
+  },
+  {
+   "s": 1566.32,
+   "e": 1577.77,
+   "sentences": [
+    {
+     "t": "Mahanadi Coalfields lists on BSE and NSE at 10 AM. US reopens for a shortened session, 1:00 PM ET close. Indian Bank results.",
+     "s": 1566.32,
+     "e": 1577.77
+    }
+   ]
+  },
+  {
+   "s": 1577.77,
+   "e": 1582.07,
+   "sentences": [
+    {
+     "t": "India's Q2 GDP print.",
+     "s": 1577.77,
+     "e": 1582.07
+    }
+   ]
+  },
+  {
+   "s": 1582.07,
+   "e": 1601.93,
+   "sentences": [
+    {
+     "t": "The APL Apollo open offer's detailed public statement by December 1; the RBI's MPC on 4 December; the Fed on 8-9 December; USTR comments run to January 5, hearings January 25; whatever Nvidia files or tells the Treasury; the BoK outcome this morning.",
+     "s": 1582.07,
+     "e": 1601.93
+    }
+   ]
+  },
+  {
+   "s": 1601.93,
+   "e": 1670.56,
+   "sentences": [
+    {
+     "t": "Sources read for this edition: CNBC's close post and AP's final-close wire for the US session, point moves reconciled exactly to Tuesday's prints; CNBC's PCE report for the data deluge; USTR's own press release for the Section 301 determinations, with Reuters and the Washington Post for framing; NPR's on-record report for the Nvidia reinstatement and Politico for the Treasury deadline; Moneycontrol's close report, its provisional flow tallies and its rupee report for the reopen; Hindu BusinessLine's market wrap; BSE's official bhavcopy for every India price; CNBC-TV18 for the deal tape and the promoter entities; Tata Steel's board-outcome filing, the SEBI open-offer public announcement and APL Apollo's investor deck for deal math; Siemens Energy India's owning exchange filing; OpenAI's and Cisco's posts for Shirudo, DeepMind's post for the quantum work; the close report and SiliconANGLE for Anthropic; Yonhap and CNBC for Asia's open; the pre-market quote page for GIFT Nifty.",
+     "s": 1601.93,
+     "e": 1670.56
+    }
+   ]
+  },
+  {
+   "s": 1670.56,
+   "e": 1712.78,
+   "sentences": [
+    {
+     "t": "US closes are final-close wires. India prices are BSE official bhavcopy prints. GIFT Nifty, Asia's opens, gold and oil are morning quotes as of roughly 6:00 AM IST and will move; they are quoted as markers, not predictions. Anthropic's Wednesday close comes from public closing records, not an exchange table - printed with attribution. The tariff figures are proposed rates from the owning USTR release: nothing is imposed, comments close January 5, hearings start January 25, and no effective date exists. An aggregator claim of an Anthropic product launch was checked against Anthropic's own newsroom this morning, found absent, and dropped. This is research, not advice.",
+     "s": 1670.56,
+     "e": 1712.78
+    }
+   ]
+  },
+  {
+   "s": 1712.78,
+   "e": 1729.41,
+   "sentences": [
+    {
+     "t": "The Siemens Energy India quarter is the company's Q4 FY2026 - its fiscal year ends in September - not Q2 FY27 as some calendars labelled it; yesterday's preview line carried the calendar's label and is corrected in today's File revision.",
+     "s": 1712.78,
+     "e": 1729.41
+    }
+   ]
+  },
+  {
+   "s": 1729.41,
+   "e": 1741.19,
+   "sentences": [
+    {
+     "t": "Correction, 28 November: the week-ahead row for India's Q2 GDP print was dated Sunday 30 November; 30 November 2026 is a Monday.",
+     "s": 1729.41,
+     "e": 1741.19
+    }
+   ]
+  },
+  {
+   "s": 1741.19,
+   "e": 1753.46,
+   "sentences": [
+    {
+     "t": "That's the paper for Thursday.",
+     "s": 1741.19,
+     "e": 1743.03
+    },
+    {
+     "t": "America is shut for Thanksgiving, Mumbai gets a listing eve, and the tariff clock started yesterday - proposed, not imposed, and the dates are January's.",
+     "s": 1743.03,
+     "e": 1752.42
+    },
+    {
+     "t": "See you tomorrow.",
+     "s": 1752.42,
+     "e": 1753.46
+    }
+   ]
+  }
+ ]
+}
