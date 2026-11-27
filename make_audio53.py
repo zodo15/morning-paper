@@ -210,6 +210,7 @@ def respell(t):
     t = t.replace('Choksi', 'Choke-see')
     t = t.replace('Gattu', 'Gut-two')
     t = t.replace('barandbench.com', 'bar and bench dot com')
+    t = t.replace('Kioxia', 'Kee-oh-shuh')  # Kore's reading of the letters lands between Kyocera and Kyokuto across runs; force the pronunciation
     t = t.replace('INE03K401026', 'I N E zero three K four zero one zero two six')
     t = t.replace('(4B active per token, in 10.7B / 1.7B / 745M sizes)', '(four billion active parameters per token, in three sizes)')
     t = t.replace('4B', 'four billion')
