@@ -1,0 +1,976 @@
+{
+ "version": 1,
+ "audio": "audio/d54-full.m4a",
+ "blocks": [
+  {
+   "s": 52.18,
+   "e": 109.27,
+   "sentences": [
+    {
+     "t": "China's national team steps in.",
+     "s": 52.18,
+     "e": 54.16
+    },
+    {
+     "t": "Mainland stocks had their largest gains in more than two years on Friday after Beijing vowed to strengthen the role of the state-backed \"national team\" in steadying the market: the Shanghai Composite rose 3.73% to 3,606, the Shenzhen Component 7.24% to 10,814 and the ChiNext 11.61% to 2,443, while the Hang Seng gained 2.1% to 22,694 (RTHK's close report).",
+     "s": 54.16,
+     "e": 90.71
+    },
+    {
+     "t": "Tokyo and Seoul joined in: the Nikkei rose 2.11% to 58,711.11 (Kabutan's Tokyo close report) and the Kospi 4.34% to 4,915.68 (Yonhap's Seoul close report).",
+     "s": 90.71,
+     "e": 109.27
+    }
+   ]
+  },
+  {
+   "s": 109.27,
+   "e": 155.02,
+   "sentences": [
+    {
+     "t": "Wall Street closed a big week higher.",
+     "s": 109.27,
+     "e": 111.61
+    },
+    {
+     "t": "In a shortened session that ended at 1 PM ET, the S&P 500 rose 114.71 points (1.6%) to 7,297.49, the Dow 591.99 (1.2%) to 50,774.94 and the Nasdaq 543.70 (2.3%) to 24,129.50; the S&P gained 5.6% on the week, its best since April 2025 (the Los Angeles Times' close report).",
+     "s": 111.61,
+     "e": 150.84
+    },
+    {
+     "t": "The 10-year Treasury yield stood at 4.94%.",
+     "s": 150.84,
+     "e": 155.02
+    }
+   ]
+  },
+  {
+   "s": 155.02,
+   "e": 172.48,
+   "sentences": [
+    {
+     "t": "Anthropic's best close since debut.",
+     "s": 155.02,
+     "e": 157.23
+    },
+    {
+     "t": "The shares closed at $91.88, up about 11%, back above the $83 IPO price and the highest close since the 19 November debut (Bloomberg; stockanalysis.com's close report).",
+     "s": 157.23,
+     "e": 172.48
+    }
+   ]
+  },
+  {
+   "s": 172.48,
+   "e": 224.24,
+   "sentences": [
+    {
+     "t": "Mumbai's last session of the week fell.",
+     "s": 172.48,
+     "e": 174.95
+    },
+    {
+     "t": "The Sensex dropped 989.33 points (1.17%) to 83,339.26 and the Nifty 277.30 (1.07%) to 25,607.20, ending a four-week rally; for the week the Nifty lost 0.75% and the Sensex 0.69% (Hindu BusinessLine's close report).",
+     "s": 174.95,
+     "e": 204.63
+    },
+    {
+     "t": "IT, auto and financial services each fell more than 1%, and TCS shed 2.46% on BSE.",
+     "s": 204.63,
+     "e": 212.03
+    },
+    {
+     "t": "Foreign investors still bought for a nineteenth straight session, a provisional Rs 1,634.33 crore (CNBC-TV18's provisional tally).",
+     "s": 212.03,
+     "e": 224.24
+    }
+   ]
+  },
+  {
+   "s": 224.24,
+   "e": 257.16,
+   "sentences": [
+    {
+     "t": "The court said no.",
+     "s": 224.24,
+     "e": 225.38
+    },
+    {
+     "t": "The Bombay High Court refused the Tata trusts interim relief on Friday, so the Tata Sons board meeting on Monday goes ahead; Justice Abhay Ahuja said whatever it decides is \"subject to our final orders\", and ordered replies from Tata Sons and six directors (The Hindu's court report).",
+     "s": 225.38,
+     "e": 243.48
+    },
+    {
+     "t": "The two plaintiffs, the Sir Dorabji Tata Trust and the RD Tata Trust, are asking the court to void the 17 September reappointment of N.",
+     "s": 243.48,
+     "e": 252.84
+    },
+    {
+     "t": "Chandrasekaran.",
+     "s": 252.84,
+     "e": 253.97
+    },
+    {
+     "t": "The next hearing is in January 2027.",
+     "s": 253.97,
+     "e": 257.16
+    }
+   ]
+  },
+  {
+   "s": 257.16,
+   "e": 281.71,
+   "sentences": [
+    {
+     "t": "Mahanadi listed below its price.",
+     "s": 257.16,
+     "e": 259.17
+    },
+    {
+     "t": "The Coal India arm opened on BSE at Rs 133.15, hit a high of 137.85 and a low of 130.70, and closed at Rs 132.60 against its Rs 136 issue price, down 2.5% (BSE's official bhavcopy).",
+     "s": 259.17,
+     "e": 281.71
+    }
+   ]
+  },
+  {
+   "s": 281.71,
+   "e": 312.76,
+   "sentences": [
+    {
+     "t": "Oil and gold.",
+     "s": 281.71,
+     "e": 282.52
+    },
+    {
+     "t": "Brent settled at $95.44 a barrel, down $1.13 on the day but up about 3% on the week, its first weekly gain in November (Reuters' settlement report).",
+     "s": 282.52,
+     "e": 295.79
+    },
+    {
+     "t": "Comex gold for December settled at $3,639.60, up $103.80 or 2.94%, and finished the week 3.53% higher (Dow Jones' Comex settlement report).",
+     "s": 295.79,
+     "e": 312.76
+    }
+   ]
+  },
+  {
+   "s": 312.76,
+   "e": 336.86,
+   "sentences": [
+    {
+     "t": "SpaceX's licence, read carefully.",
+     "s": 312.76,
+     "e": 314.83
+    },
+    {
+     "t": "The FCC granted SpaceX a licence, in part, for up to one million Starmind data-centre satellites.",
+     "s": 314.83,
+     "e": 320.9
+    },
+    {
+     "t": "The grant covers the satellites' backup radio links; disposal plans for anything above 600 km are deferred, and the first satellite is due by 25 November 2033 (the FCC's own order).",
+     "s": 320.9,
+     "e": 334.99
+    },
+    {
+     "t": "Nothing has launched under it.",
+     "s": 334.99,
+     "e": 336.86
+    }
+   ]
+  },
+  {
+   "s": 336.86,
+   "e": 359.34,
+   "sentences": [
+    {
+     "t": "What to watch.",
+     "s": 336.86,
+     "e": 337.74
+    },
+    {
+     "t": "There is no Indian session today; the next is Monday.",
+     "s": 337.74,
+     "e": 341.06
+    },
+    {
+     "t": "Sunday brings the OPEC+ meeting.",
+     "s": 341.06,
+     "e": 343.06
+    },
+    {
+     "t": "Monday brings the Tata Sons board meeting, India's second-quarter GDP print at a 4:30 PM press conference (PIB's media invitation) and the record date for Tech Mahindra's bonus issue.",
+     "s": 343.06,
+     "e": 355.4
+    },
+    {
+     "t": "The Reserve Bank's rate meeting runs 2 to 4 December.",
+     "s": 355.4,
+     "e": 359.34
+    }
+   ]
+  },
+  {
+   "s": 359.34,
+   "e": 415.57,
+   "sentences": [
+    {
+     "t": "What the court did, and did not do.",
+     "s": 359.34,
+     "e": 361.45
+    },
+    {
+     "t": "Justice Ahuja declined to stop the board meeting but said its outcome is subject to the court's final orders; Tata Sons argued that deferring the meeting would breach a Reserve Bank listing deadline, and reports differ on the date, so none is printed here (NDTV Profit; Bar and Bench's hearing report).",
+     "s": 361.45,
+     "e": 379.97
+    },
+    {
+     "t": "Salve appeared for Tata Sons (Bar and Bench's hearing report).",
+     "s": 379.97,
+     "e": 383.83
+    },
+    {
+     "t": "The trusts claim Rs 65 crore in damages with 18% interest: Rs 50 crore from the Sir Dorabji Tata Trust and Rs 15 crore from the RD Tata Trust (The Indian Express).",
+     "s": 383.83,
+     "e": 396.32
+    },
+    {
+     "t": "Tata Sons' counsel said a listing could come by autumn 2027 if the case goes smoothly.",
+     "s": 396.32,
+     "e": 402.41
+    },
+    {
+     "t": "Hindustan Times reported that Monday's agenda includes a six-month timeline for a Tata Sons public offering and options for the Shapoorji Pallonji group's 18.4% stake (Hindustan Times reported).",
+     "s": 402.41,
+     "e": 415.57
+    }
+   ]
+  },
+  {
+   "s": 415.57,
+   "e": 468.77,
+   "sentences": [
+    {
+     "t": "China's rally in detail.",
+     "s": 415.57,
+     "e": 417.01
+    },
+    {
+     "t": "RTHK describes the \"national team\" as state-backed investors, usually led by Central Huijin, the domestic unit of the sovereign wealth fund China Investment Corp, who are often buyers at times of market stress.",
+     "s": 417.01,
+     "e": 429.86
+    },
+    {
+     "t": "The Hang Seng's turnover was HK$257.14 billion; its tech index jumped 6.5% to 3,637; the Shanghai Composite, which had been lingering near 17-month lows, closed at 3,606 on turnover of 929.77 billion yuan; and the Star semiconductor index jumped by a near-record 19.5% (RTHK's close report).",
+     "s": 429.86,
+     "e": 458.64
+    },
+    {
+     "t": "RTHK quotes Bank of America's Winnie Wu saying that with very depressed valuations and consensus bearishness on China tech, it does not take much for a relief rally.",
+     "s": 458.64,
+     "e": 468.77
+    }
+   ]
+  },
+  {
+   "s": 468.77,
+   "e": 493.39,
+   "sentences": [
+    {
+     "t": "Wall Street's week.",
+     "s": 468.77,
+     "e": 469.92
+    },
+    {
+     "t": "The Nasdaq gained 2.3% in the half session, with Broadcom up 3.8%, Amazon up 4% and Nvidia up 0.8%.",
+     "s": 469.92,
+     "e": 480.12
+    },
+    {
+     "t": "The 10-year yield was 4.94%, against 4.85% on Wednesday (AP's close report).",
+     "s": 480.12,
+     "e": 487.78
+    },
+    {
+     "t": "The S&P's 5.6% weekly gain was its best since April 2025.",
+     "s": 487.78,
+     "e": 493.39
+    }
+   ]
+  },
+  {
+   "s": 493.39,
+   "e": 520.53,
+   "sentences": [
+    {
+     "t": "Anthropic's week.",
+     "s": 493.39,
+     "e": 494.41
+    },
+    {
+     "t": "Bloomberg reports the shares rose nearly 11% to $91.88 after two straight closes below $83.",
+     "s": 494.41,
+     "e": 503.4
+    },
+    {
+     "t": "stockanalysis.com records a Wednesday close of $82.79 after an intraday low of $73.85, and a debut-day close of $97.17 on 19 November (Bloomberg; stockanalysis.com's close report).",
+     "s": 503.4,
+     "e": 520.53
+    }
+   ]
+  },
+  {
+   "s": 520.53,
+   "e": 574.85,
+   "sentences": [
+    {
+     "t": "Inside the Indian fall.",
+     "s": 520.53,
+     "e": 521.98
+    },
+    {
+     "t": "Midcaps and smallcaps held up: the Nifty Midcap 100 rose 0.10% and the Smallcap 100 0.56%, while Nifty Metal gained 1.40% (Hindu BusinessLine's close report).",
+     "s": 521.98,
+     "e": 536.96
+    },
+    {
+     "t": "The Bank Nifty slipped 494.40 points (0.78%) to 63,040.90.",
+     "s": 536.96,
+     "e": 546.15
+    },
+    {
+     "t": "On NSE, 2,119 stocks advanced and 1,514 declined (the Economic Times market wrap).",
+     "s": 546.15,
+     "e": 555.15
+    },
+    {
+     "t": "One broker's technical note, attributed to HST Wealth, says the Nifty broke below Thursday's doji low after repeated rejection near 26,000, with support at 25,400 and resistance at 25,750; those are that analyst's levels, not this paper's.",
+     "s": 555.15,
+     "e": 574.85
+    }
+   ]
+  },
+  {
+   "s": 574.85,
+   "e": 613.5,
+   "sentences": [
+    {
+     "t": "Mahanadi's mechanics.",
+     "s": 574.85,
+     "e": 576.17
+    },
+    {
+     "t": "The listing sold shares held by Coal India: an offer for sale of 66.18 crore shares at Rs 136, or Rs 9,000 crore, subscribed 1.52 times, with Coal India selling 10%.",
+     "s": 576.17,
+     "e": 591.34
+    },
+    {
+     "t": "At Rs 136 the company's 6,618,363,000 shares come to about Rs 90,000 crore.",
+     "s": 591.34,
+     "e": 601.67
+    },
+    {
+     "t": "BSE volume on debut day was 8,316,367 shares.",
+     "s": 601.67,
+     "e": 607.83
+    },
+    {
+     "t": "One outlet's report of a 2% premium is wrong; BSE's own prints show a discount.",
+     "s": 607.83,
+     "e": 613.5
+    }
+   ]
+  },
+  {
+   "s": 613.5,
+   "e": 633.33,
+   "sentences": [
+    {
+     "t": "Oil's reasons and OPEC+'s date.",
+     "s": 613.5,
+     "e": 615.45
+    },
+    {
+     "t": "Reuters attributes the week's gain to tanker attacks in the Strait of Hormuz and a partly halted Jazan refinery in Saudi Arabia; OPEC+ meets on Sunday and is expected to hold its first-quarter 2027 targets, an expectation, not a decision (Reuters' settlement report).",
+     "s": 615.45,
+     "e": 633.33
+    }
+   ]
+  },
+  {
+   "s": 633.33,
+   "e": 655.61,
+   "sentences": [
+    {
+     "t": "Gold's reversal.",
+     "s": 633.33,
+     "e": 634.33
+    },
+    {
+     "t": "Spot gold dipped under $3,500 on Wednesday for the first time since September 2025 (CNBC), and Comex gold's Friday settlement of $3,639.60 is $103.80 higher on the day (Dow Jones' Comex settlement report).",
+     "s": 634.33,
+     "e": 655.61
+    }
+   ]
+  },
+  {
+   "s": 655.61,
+   "e": 667.56,
+   "sentences": [
+    {
+     "t": "Europe's gain.",
+     "s": 655.61,
+     "e": 656.49
+    },
+    {
+     "t": "The STOXX 600 rose about 1% to 643.85 and was up roughly 3% on the week (Investing.com's European close report).",
+     "s": 656.49,
+     "e": 667.56
+    }
+   ]
+  },
+  {
+   "s": 667.56,
+   "e": 692.76,
+   "sentences": [
+    {
+     "t": "US, Friday (half session): S&P 500 7,297.49 (+1.6%), Dow 50,774.94 (+1.2%), Nasdaq 24,129.50 (+2.3%); 10-year yield 4.94% (the Los Angeles Times' close report).",
+     "s": 667.56,
+     "e": 692.76
+    }
+   ]
+  },
+  {
+   "s": 692.76,
+   "e": 731.57,
+   "sentences": [
+    {
+     "t": "Asia, Friday: Nikkei 58,711.11 (+2.11%), Kospi 4,915.68 (+4.34%), Hang Seng 22,694 (+2.1%), Shanghai 3,606 (+3.73%), Shenzhen Component 10,814 (+7.24%), ChiNext 2,443 (+11.61%) (RTHK's close report; Kabutan's Tokyo close report; Yonhap's Seoul close report).",
+     "s": 692.76,
+     "e": 731.57
+    }
+   ]
+  },
+  {
+   "s": 731.57,
+   "e": 775.8,
+   "sentences": [
+    {
+     "t": "India, Friday: Sensex 83,339.26 (-1.17%), Nifty 25,607.20 (-1.07%), Bank Nifty 63,040.90 (-0.78%).",
+     "s": 731.57,
+     "e": 750.42
+    },
+    {
+     "t": "FII net +Rs 1,634.33 crore, a nineteenth straight buying session (bought Rs 14,259.45 crore, sold Rs 12,625.12 crore); DII net -Rs 556.42 crore (Hindu BusinessLine's close report; CNBC-TV18's provisional tally).",
+     "s": 750.42,
+     "e": 775.8
+    }
+   ]
+  },
+  {
+   "s": 775.8,
+   "e": 784.17,
+   "sentences": [
+    {
+     "t": "Europe, Friday: STOXX 600 643.85 (+1%) (Investing.com's European close report).",
+     "s": 775.8,
+     "e": 784.17
+    }
+   ]
+  },
+  {
+   "s": 784.17,
+   "e": 803.06,
+   "sentences": [
+    {
+     "t": "Commodities: Brent $95.44 (-$1.13); WTI $83.08; Comex gold (December) $3,639.60 (+$103.80) (Reuters' settlement report; Dow Jones' Comex settlement report).",
+     "s": 784.17,
+     "e": 803.06
+    }
+   ]
+  },
+  {
+   "s": 803.06,
+   "e": 833.17,
+   "sentences": [
+    {
+     "t": "Mahanadi Coalfields debuted at a discount.",
+     "s": 803.06,
+     "e": 805.52
+    },
+    {
+     "t": "On BSE it opened at Rs 133.15 (-2.1% against the Rs 136 issue price), ranged from 130.70 to 137.85 and closed at Rs 132.60 (-2.5%) on 8,316,367 shares (BSE's official bhavcopy; CNBC-TV18's listing report).",
+     "s": 805.52,
+     "e": 833.17
+    }
+   ]
+  },
+  {
+   "s": 833.17,
+   "e": 866.8,
+   "sentences": [
+    {
+     "t": "Next week's issues.",
+     "s": 833.17,
+     "e": 834.29
+    },
+    {
+     "t": "Matangi Rubber's Rs 125.16 crore issue runs 1 to 3 December at Rs 163 to 172 a share (Upstox).",
+     "s": 834.29,
+     "e": 845.04
+    },
+    {
+     "t": "Swara Baby Products' issue of about Rs 800 crore opens 2 December at Rs 105 to 111 (Moneycontrol's report on Swara Baby Products), and Monomark Engineering's Rs 175.5 crore issue opens the same day at Rs 60 to 65 (Moneycontrol's report on Monomark Engineering).",
+     "s": 845.04,
+     "e": 866.8
+    }
+   ]
+  },
+  {
+   "s": 866.8,
+   "e": 936.02,
+   "sentences": [
+    {
+     "t": "Friday's verdicts.",
+     "s": 866.8,
+     "e": 867.85
+    },
+    {
+     "t": "The index fell on IT, autos and financials: HCL Technologies -2.81% to 1,423.80, TCS -2.46% to 2,575.00, Bajaj Auto -2.56% to 10,562.00, and Shriram Finance the session's worst at -4.00% to 924.50.",
+     "s": 867.85,
+     "e": 892.76
+    },
+    {
+     "t": "Against it, defence and metals: Bharat Electronics +1.56% to 411.10 and JSW Steel +1.30% to 1,322.00, with Titan +0.95% (4,674.80), IndiGo +0.50% (5,655.00), Tata Steel +0.46% (164.10), Power Grid +0.37% (268.00) and Trent +0.23% (3,270.10) all up (BSE's official bhavcopy; the Economic Times market wrap).",
+     "s": 892.76,
+     "e": 936.02
+    }
+   ]
+  },
+  {
+   "s": 936.02,
+   "e": 983.13,
+   "sentences": [
+    {
+     "t": "The paper's own names.",
+     "s": 936.02,
+     "e": 937.36
+    },
+    {
+     "t": "Hindalco rose 0.95% to 923.75, ONGC 0.52% to 224.20 and Kotak Mahindra Bank fell 1.76% to 500.05; Infosys closed at 1,152.00 (-2.55%), Voltas at 1,191.00 (-2.54%) and Tech Mahindra at 1,815.00 (-2.15%).",
+     "s": 937.36,
+     "e": 968.91
+    },
+    {
+     "t": "Asian Paints fell 0.42% to 2,532.25.",
+     "s": 968.91,
+     "e": 975.07
+    },
+    {
+     "t": "All are BSE official closes (BSE's official bhavcopy).",
+     "s": 975.07,
+     "e": 978.73
+    },
+    {
+     "t": "TCS, down 2.46% on the day, is today's long read.",
+     "s": 978.73,
+     "e": 983.13
+    }
+   ]
+  },
+  {
+   "s": 983.13,
+   "e": 996.81,
+   "sentences": [
+    {
+     "t": "Tech Mahindra's bonus.",
+     "s": 983.13,
+     "e": 984.46
+    },
+    {
+     "t": "The company's 1:1 bonus issue has Monday 30 November as its record date: shareholders on record receive one extra share for each share held (the BSE circular; the Economic Times).",
+     "s": 984.46,
+     "e": 996.81
+    }
+   ]
+  },
+  {
+   "s": 996.81,
+   "e": 1024.85,
+   "sentences": [
+    {
+     "t": "The week in startup money.",
+     "s": 996.81,
+     "e": 998.39
+    },
+    {
+     "t": "YourStory counts $171 million of venture funding across 13 deals this week, down from $255 million the week before.",
+     "s": 998.39,
+     "e": 1008.93
+    },
+    {
+     "t": "The larger rounds: Finnable raised Rs 405 crore (about $43.7 million), Green Aero $14 million, and Matters.AI about Rs 115 crore ($12 million) (YourStory's weekly roundup).",
+     "s": 1008.93,
+     "e": 1024.85
+    }
+   ]
+  },
+  {
+   "s": 1024.85,
+   "e": 1056.28,
+   "sentences": [
+    {
+     "t": "Term of the day: bonus issue.",
+     "s": 1024.85,
+     "e": 1026.61
+    },
+    {
+     "t": "A company converts part of its reserves into new shares and hands them to existing shareholders free, in a stated ratio.",
+     "s": 1026.61,
+     "e": 1033.87
+    },
+    {
+     "t": "In a 1:1 bonus every holder gets one new share per share held, so the share count doubles; the company's value does not change, so the price per share is adjusted down to match.",
+     "s": 1033.87,
+     "e": 1045.02
+    },
+    {
+     "t": "Nothing is paid and nothing is received that was not already owned; the holder's stake in the company is exactly what it was.",
+     "s": 1045.02,
+     "e": 1052.59
+    },
+    {
+     "t": "Tech Mahindra's record date is Monday (the BSE circular).",
+     "s": 1052.59,
+     "e": 1056.28
+    }
+   ]
+  },
+  {
+   "s": 1056.28,
+   "e": 1112.66,
+   "sentences": [
+    {
+     "t": "Reading a streak.",
+     "s": 1056.28,
+     "e": 1057.31
+    },
+    {
+     "t": "The foreign-investor streak has now run nineteen sessions.",
+     "s": 1057.31,
+     "e": 1060.82
+    },
+    {
+     "t": "Summed from the daily provisional prints, foreigners bought Rs 17,630 crore over four sessions this week (+5,672.99, +4,479.08, +5,843.33 and +1,634.33 crore), while domestic institutions swung between buying and selling and net-bought about Rs 6,333 crore over the same four days (CNBC-TV18's provisional tally).",
+     "s": 1060.82,
+     "e": 1097.22
+    },
+    {
+     "t": "On Friday the two sides split: foreigners bought Rs 1,634.33 crore while domestic institutions sold Rs 556.42 crore, and the Nifty fell 1.07% anyway.",
+     "s": 1097.22,
+     "e": 1112.66
+    }
+   ]
+  },
+  {
+   "s": 1112.66,
+   "e": 1128.71,
+   "sentences": [
+    {
+     "t": "What a \"national team\" is.",
+     "s": 1112.66,
+     "e": 1114.23
+    },
+    {
+     "t": "In China it is the market's nickname for state-backed investors, usually led by Central Huijin, the domestic unit of the sovereign wealth fund China Investment Corp, who tend to buy when markets are under stress (RTHK's close report).",
+     "s": 1114.23,
+     "e": 1128.71
+    }
+   ]
+  },
+  {
+   "s": 1128.71,
+   "e": 1162.18,
+   "sentences": [
+    {
+     "t": "The licence behind the headline.",
+     "s": 1128.71,
+     "e": 1130.65
+    },
+    {
+     "t": "The FCC's order, adopted and released on 25 November, says it grants authority for radio communications for backup and emergency telemetry, tracking and command for a constellation of up to one million satellites to operate as data centres in space.",
+     "s": 1130.65,
+     "e": 1146.53
+    },
+    {
+     "t": "It does not license the computing.",
+     "s": 1146.53,
+     "e": 1148.6
+    },
+    {
+     "t": "Disposal of satellites above 600 km is deferred, and the first satellite is due by 25 November 2033 (the FCC's own order).",
+     "s": 1148.6,
+     "e": 1158.66
+    },
+    {
+     "t": "Amazon, Viasat and AAS had petitioned to deny (CNBC).",
+     "s": 1158.66,
+     "e": 1162.18
+    }
+   ]
+  },
+  {
+   "s": 1162.18,
+   "e": 1178.37,
+   "sentences": [
+    {
+     "t": "Nvidia's shipping pause.",
+     "s": 1162.18,
+     "e": 1163.63
+    },
+    {
+     "t": "Nvidia told Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand and Indonesia for an unspecified period while it checks that its partners meet US export rules (TechCrunch, citing the Wall Street Journal, reports).",
+     "s": 1163.63,
+     "e": 1178.37
+    }
+   ]
+  },
+  {
+   "s": 1178.37,
+   "e": 1200.32,
+   "sentences": [
+    {
+     "t": "Character.AI's auction.",
+     "s": 1178.37,
+     "e": 1179.83
+    },
+    {
+     "t": "The bankrupt chatbot company's platform and its chat records from more than 21 million US accounts go to auction on 1 December; a coalition of 42 state attorneys general has asked the court to block the sale and also opposes a $350,000 breakup fee (California Attorney General's release).",
+     "s": 1179.83,
+     "e": 1200.32
+    }
+   ]
+  },
+  {
+   "s": 1200.32,
+   "e": 1243.01,
+   "sentences": [
+    {
+     "t": "In a 2001 paper in the Academy of Management Review, Saras Sarasvathy described a way expert entrepreneurs decide that she called effectuation.",
+     "s": 1200.32,
+     "e": 1209.72
+    },
+    {
+     "t": "Instead of picking a goal and then gathering the resources to reach it, an effectual entrepreneur starts from what is already at hand - who they are, what they know and whom they know - and builds toward whatever the available means allow (Saras Sarasvathy's 2001 paper in the Academy of Management Review; UVA Darden).",
+     "s": 1209.72,
+     "e": 1229.91
+    },
+    {
+     "t": "One of her principles is the affordable loss: risk only what you can afford to lose.",
+     "s": 1229.91,
+     "e": 1235.01
+    },
+    {
+     "t": "It fits how today's long read starts: TCS began as a shared computing room for Tata companies, and the export business came later.",
+     "s": 1235.01,
+     "e": 1243.01
+    }
+   ]
+  },
+  {
+   "s": 1243.01,
+   "e": 1283.43,
+   "sentences": [
+    {
+     "t": "Nothing resolved, nothing new.",
+     "s": 1243.01,
+     "e": 1244.99
+    },
+    {
+     "t": "Friday's broad selloff in IT and financials hit the ledger and shelved names hardest - Infosys -2.55%, Voltas -2.54%, Tech Mahindra -2.15% - while the live watchlist was mixed: Kotak -1.76%, JSW Steel +1.30%, Hindalco +0.95%, ONGC +0.52%.",
+     "s": 1244.99,
+     "e": 1273.32
+    },
+    {
+     "t": "Four watchlist lines carry into Monday unchanged.",
+     "s": 1273.32,
+     "e": 1276.56
+    },
+    {
+     "t": "Mahanadi's debut below its issue price adds no line to the board; the print is stated without inference.",
+     "s": 1276.56,
+     "e": 1283.43
+    }
+   ]
+  },
+  {
+   "s": 1283.43,
+   "e": 1316.25,
+   "sentences": [
+    {
+     "t": "The line to watch is Hindalco's.",
+     "s": 1283.43,
+     "e": 1285.54
+    },
+    {
+     "t": "It closed above the 911-912 zone for a second straight session, and unlike the previous reclaim, which failed the next day, this one held.",
+     "s": 1285.54,
+     "e": 1296.96
+    },
+    {
+     "t": "That strengthens the candidate case.",
+     "s": 1296.96,
+     "e": 1299.34
+    },
+    {
+     "t": "It is still not a setup: there is no verified entry zone against longer history.",
+     "s": 1299.34,
+     "e": 1304.62
+    },
+    {
+     "t": "ONGC's coil floor at 218.50 held an eleventh session.",
+     "s": 1304.62,
+     "e": 1310.17
+    },
+    {
+     "t": "Cash-only swing setups under Rs 1,500 a share; research, not advice.",
+     "s": 1310.17,
+     "e": 1316.25
+    }
+   ]
+  },
+  {
+   "s": 1316.25,
+   "e": 1327.27,
+   "sentences": [
+    {
+     "t": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry.",
+     "s": 1316.25,
+     "e": 1327.27
+    }
+   ]
+  },
+  {
+   "s": 1327.27,
+   "e": 1334.08,
+   "sentences": [
+    {
+     "t": "Entry is assumed at the worst price inside the published zone, not the best.",
+     "s": 1327.27,
+     "e": 1334.08
+    }
+   ]
+  },
+  {
+   "s": 1334.08,
+   "e": 1345.3,
+   "sentences": [
+    {
+     "t": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board.",
+     "s": 1334.08,
+     "e": 1345.3
+    }
+   ]
+  },
+  {
+   "s": 1345.3,
+   "e": 1358.51,
+   "sentences": [
+    {
+     "t": "Every published setup stays on the board until its target or its stop resolves it; resolved lines move to the ledger with gross and net (0.3% cost convention).",
+     "s": 1345.3,
+     "e": 1358.51
+    }
+   ]
+  },
+  {
+   "s": 1358.51,
+   "e": 1371.16,
+   "sentences": [
+    {
+     "t": "OPEC+ meets; the expectation reported by Reuters is that it holds its first-quarter 2027 output targets. That is an expectation, not a decision.",
+     "s": 1358.51,
+     "e": 1371.16
+    }
+   ]
+  },
+  {
+   "s": 1371.16,
+   "e": 1398.11,
+   "sentences": [
+    {
+     "t": "Tata Sons board meeting, with the court's final orders still to come. India's second-quarter GDP print arrives at the statistics ministry's 4:30 PM press conference, alongside October industrial output; one forecast cited by Capital Market is about 7.6% against 7.8% in the previous quarter. Tech Mahindra's 1:1 bonus record date.",
+     "s": 1371.16,
+     "e": 1398.11
+    }
+   ]
+  },
+  {
+   "s": 1398.11,
+   "e": 1411.84,
+   "sentences": [
+    {
+     "t": "Character.AI's platform and chat records go to auction. Matangi Rubber's Rs 125.16 crore issue opens and runs to Thursday 3 December.",
+     "s": 1398.11,
+     "e": 1411.84
+    }
+   ]
+  },
+  {
+   "s": 1411.84,
+   "e": 1431.77,
+   "sentences": [
+    {
+     "t": "Swara Baby Products and Monomark Engineering open their issues on Wednesday. The Reserve Bank's rate meeting runs 2 to 4 December; the repo rate stands at 5.50%, as set at the 7 October meeting. US jobs data comes Friday.",
+     "s": 1411.84,
+     "e": 1431.77
+    }
+   ]
+  },
+  {
+   "s": 1431.77,
+   "e": 1476.99,
+   "sentences": [
+    {
+     "t": "Sources read for this edition: BSE's bhavcopy for every Indian price; Hindu BusinessLine, The Hindu and the Economic Times for the Indian close; CNBC-TV18 for provisional flows and the Mahanadi listing; RTHK, Kabutan and Yonhap for Asia; the Los Angeles Times and AP for Wall Street; Bloomberg and stockanalysis.com for Anthropic; Reuters and Dow Jones for oil and gold; The Hindu, Bar and Bench, LiveLaw and The Indian Express for the Tata hearing; the FCC's own order for the SpaceX licence; PIB, the RBI's own pages and Capital Market for the week ahead; the California Attorney General's release for Character.AI; Sarasvathy's 2001 paper and UVA Darden for effectuation.",
+     "s": 1431.77,
+     "e": 1476.99
+    }
+   ]
+  },
+  {
+   "s": 1476.99,
+   "e": 1496.92,
+   "sentences": [
+    {
+     "t": "Prices: every India price is a BSE official print; flows are provisional exchange data as reported by CNBC-TV18. Sources differ on the exact date of the next hearing in the Tata case, so only the month is printed; they also differ on the Reserve Bank's listing deadline, so no date is printed for it.",
+     "s": 1476.99,
+     "e": 1496.92
+    }
+   ]
+  },
+  {
+   "s": 1496.92,
+   "e": 1541.81,
+   "sentences": [
+    {
+     "t": "Correction: Edition 53 named the second plaintiff in the Tata suits as the Sir Ratan Tata Trust and called the plaintiffs the two largest trusts controlling 66% of Tata Sons. The second plaintiff is the RD Tata Trust, and the 66% belongs to the Tata Trusts together. Editions 52 and 53 also dated Monday's events as Sunday 30 November; 30 November 2026 is a Monday. Both are corrected on the site. Edition 53's ONGC range chart also drew the Thursday close and the breakout line at the wrong points on its scale; the numbers in the text were right, and the chart is now redrawn to scale.",
+     "s": 1496.92,
+     "e": 1541.81
+    }
+   ]
+  },
+  {
+   "s": 1541.81,
+   "e": 1542.92,
+   "sentences": [
+    {
+     "t": "See you tomorrow.",
+     "s": 1541.81,
+     "e": 1542.92
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+{
+ "version": 1,
+ "audio": "audio/lr54-full.m4a",
+ "blocks": [
+  {
+   "s": 34.87,
+   "e": 62.03,
+   "sentences": [
+    {
+     "t": "TCS dates its founding to 1968 (TCS's own site).",
+     "s": 34.87,
+     "e": 39.45
+    },
+    {
+     "t": "Its roots are a room.",
+     "s": 39.45,
+     "e": 40.83
+    },
+    {
+     "t": "The Tata Computer Centre was meant to handle the data-processing work of all the companies in the Tata group, and it sat under-used.",
+     "s": 40.83,
+     "e": 49.46
+    },
+    {
+     "t": "The group's headquarters at Bombay House remodelled it into a company: Tata Consultancy Services (the Tata group's 2021 history of TCS; Dinesh C.",
+     "s": 49.46,
+     "e": 60.0
+    },
+    {
+     "t": "Sharma's account in The Wire).",
+     "s": 60.0,
+     "e": 62.03
+    }
+   ]
+  },
+  {
+   "s": 62.03,
+   "e": 85.52,
+   "sentences": [
+    {
+     "t": "The idea came from three management graduates of MIT - Lalit Kanodia, Nitin Patel and Ashok Malhotra - who had interned with the Tatas and prepared a project report on data centres; they were asked to carry it out.",
+     "s": 62.03,
+     "e": 76.55
+    },
+    {
+     "t": "Yashpal Sahni, a postgraduate of the Indian Statistical Institute, was another founding member (Dinesh C.",
+     "s": 76.55,
+     "e": 83.49
+    },
+    {
+     "t": "Sharma's account in The Wire).",
+     "s": 83.49,
+     "e": 85.52
+    }
+   ]
+  },
+  {
+   "s": 85.52,
+   "e": 137.92,
+   "sentences": [
+    {
+     "t": "The environment was hostile to the whole idea.",
+     "s": 85.52,
+     "e": 88.53
+    },
+    {
+     "t": "At the time there were only a handful of computers in India.",
+     "s": 88.53,
+     "e": 92.45
+    },
+    {
+     "t": "The government imposed severe restrictions and steep tariffs on importing mainframes, which it saw as pointless luxuries that threatened human jobs, and no private company had attempted such a purchase (MIT Technology Review's 2013 profile of Kohli).",
+     "s": 92.45,
+     "e": 109.66
+    },
+    {
+     "t": "The market itself belonged to two foreign firms, the American IBM and the British ICL, which imported used machines, refurbished them in India and leased them out at what The Wire calls exorbitant prices; an audit by the Comptroller and Auditor General found large-scale malpractice in their invoicing and pricing, and the government handed the problem to its new Department of Electronics (Dinesh C.",
+     "s": 109.66,
+     "e": 135.9
+    },
+    {
+     "t": "Sharma's account in The Wire).",
+     "s": 135.9,
+     "e": 137.92
+    }
+   ]
+  },
+  {
+   "s": 140.67,
+   "e": 187.28,
+   "sentences": [
+    {
+     "t": "F.C.",
+     "s": 140.67,
+     "e": 140.95
+    },
+    {
+     "t": "Kohli, an MIT master's graduate who had joined Tata Electric in 1951, had in 1968 put a dedicated mainframe in charge of Mumbai's power grid, a purchase that had to be cleared as a research project; MIT Technology Review says that put him ahead of all but a handful of American utilities (MIT Technology Review's 2013 profile of Kohli).",
+     "s": 140.95,
+     "e": 164.5
+    },
+    {
+     "t": "In late 1969 the group moved him to TCS.",
+     "s": 164.5,
+     "e": 167.31
+    },
+    {
+     "t": "\"I was happy in Tata Electric and was reluctant to leave it,\" he told Dinesh C.",
+     "s": 167.31,
+     "e": 172.84
+    },
+    {
+     "t": "Sharma in 2006, \"but I was asked to take charge of the new venture for a year.\"",
+     "s": 172.84,
+     "e": 178.38
+    },
+    {
+     "t": "J.R.D.",
+     "s": 178.38,
+     "e": 178.8
+    },
+    {
+     "t": "Tata had lobbied for him to take the job (Dinesh C.",
+     "s": 178.8,
+     "e": 182.38
+    },
+    {
+     "t": "Sharma's account in The Wire; the Tata group's 2024 profile of Kohli).",
+     "s": 182.38,
+     "e": 187.28
+    }
+   ]
+  },
+  {
+   "s": 187.28,
+   "e": 229.62,
+   "sentences": [
+    {
+     "t": "What he found was a company that \"was up, but it wasn't running,\" in his words to MIT Technology Review; it took on management consulting projects to stay afloat (MIT Technology Review's 2013 profile of Kohli).",
+     "s": 187.28,
+     "e": 201.09
+    },
+    {
+     "t": "Group companies were reluctant to hand over their data-processing, and Kohli soon realised TCS would have to look for business outside the group.",
+     "s": 201.09,
+     "e": 210.19
+    },
+    {
+     "t": "Its first outside customer, in 1971, was Bombay Telephones, which wanted to digitise its telephone directory in a World Bank-funded project; the same year came its first overseas assignment, for an electric company in Iran (Dinesh C.",
+     "s": 210.19,
+     "e": 225.66
+    },
+    {
+     "t": "Sharma's account in The Wire; the Tata group's TCS timeline).",
+     "s": 225.66,
+     "e": 229.62
+    }
+   ]
+  },
+  {
+   "s": 229.62,
+   "e": 266.7,
+   "sentences": [
+    {
+     "t": "The hardware was whatever could be had.",
+     "s": 229.62,
+     "e": 232.04
+    },
+    {
+     "t": "TCS's first mainframe was an ICL 1903 that had never been used, bought for a fraction of its price from a government-owned insurance company after a union blocked installation of what it called a \"job-eating monster\".",
+     "s": 232.04,
+     "e": 246.4
+    },
+    {
+     "t": "On it and two leased IBM machines, Kohli's programmers - recruited from the computer science graduates of IIT Kanpur - computerised TCS's in-house operations, inter-branch reconciliation for a large nationalised bank, and Mumbai's telephone directory (MIT Technology Review's 2013 profile of Kohli).",
+     "s": 246.4,
+     "e": 266.7
+    }
+   ]
+  },
+  {
+   "s": 269.28,
+   "e": 298.24,
+   "sentences": [
+    {
+     "t": "Kohli decided to work with Burroughs, IBM's closest rival, using his MIT contacts and his connections through the Institute of Electrical and Electronics Engineers.",
+     "s": 269.28,
+     "e": 279.88
+    },
+    {
+     "t": "He visited the United States at least nine times between 1972 and 1974, and in 1974 TCS won a contract from the Detroit-based maker (Dinesh C.",
+     "s": 279.88,
+     "e": 292.49
+    },
+    {
+     "t": "Sharma's account in The Wire; MIT Technology Review's 2013 profile of Kohli).",
+     "s": 292.49,
+     "e": 298.24
+    }
+   ]
+  },
+  {
+   "s": 298.24,
+   "e": 328.43,
+   "sentences": [
+    {
+     "t": "The trouble, as Kohli later described it: \"We did not have a Burroughs machine in India - importing one would have taken two years.",
+     "s": 298.24,
+     "e": 306.71
+    },
+    {
+     "t": "So we developed it on an ICL machine which we had.",
+     "s": 306.71,
+     "e": 309.94
+    },
+    {
+     "t": "We designed a very advanced software filter for filtering from ICL to Burroughs machine.\"",
+     "s": 309.94,
+     "e": 315.69
+    },
+    {
+     "t": "There were no data links in those years, so the code written in Bombay was shipped to the United States, tested on Burroughs machines there, and it worked (Dinesh C.",
+     "s": 315.69,
+     "e": 326.42
+    },
+    {
+     "t": "Sharma's account in The Wire).",
+     "s": 326.42,
+     "e": 328.43
+    }
+   ]
+  },
+  {
+   "s": 328.43,
+   "e": 380.4,
+   "sentences": [
+    {
+     "t": "\"This convinced Burroughs that we can do something out of the box,\" Kohli said; Burroughs bought the software to migrate ICL machines to Burroughs in the United Kingdom.",
+     "s": 328.43,
+     "e": 339.35
+    },
+    {
+     "t": "Contracts started to flow - from the Detroit Police, the City of Detroit, the State University of New York, banks - and Burroughs became TCS's first major steady overseas client.",
+     "s": 339.35,
+     "e": 350.99
+    },
+    {
+     "t": "Tata and Burroughs also set up a separate software unit, Tata Burroughs Limited (Dinesh C.",
+     "s": 350.99,
+     "e": 356.87
+    },
+    {
+     "t": "Sharma's account in The Wire; MIT Technology Review's 2013 profile of Kohli).",
+     "s": 356.87,
+     "e": 362.62
+    },
+    {
+     "t": "The Tata group's timeline adds that in 1974 TCS delivered its first full software life-cycle project, a financial accounting package for building societies in Britain (the Tata group's TCS timeline; the Tata group's 2021 history of TCS).",
+     "s": 362.62,
+     "e": 380.4
+    }
+   ]
+  },
+  {
+   "s": 382.46,
+   "e": 416.54,
+   "sentences": [
+    {
+     "t": "To deliver quality work, TCS needed a Burroughs mainframe of its own.",
+     "s": 382.46,
+     "e": 387.08
+    },
+    {
+     "t": "The government consented to the import, but Kohli had to commit to exporting twice the machine's value over five years.",
+     "s": 387.08,
+     "e": 394.82
+    },
+    {
+     "t": "The machine cost $340,000; with tariffs, TCS paid more than twice that.",
+     "s": 394.82,
+     "e": 401.19
+    },
+    {
+     "t": "TCS kept the promise, and its success, MIT Technology Review says, led the government to rethink its position on computers and brought other Indian companies into the field (MIT Technology Review's 2013 profile of Kohli).",
+     "s": 401.19,
+     "e": 416.54
+    }
+   ]
+  },
+  {
+   "s": 416.54,
+   "e": 460.95,
+   "sentences": [
+    {
+     "t": "In 1976 TCS crossed $1 million in export revenue and won the top exporter award (the Tata group's 2021 history of TCS; the Tata group's TCS timeline).",
+     "s": 416.54,
+     "e": 429.28
+    },
+    {
+     "t": "A year earlier, addressing the annual meeting of the Computer Society of India at Ahmedabad, Kohli had said: \"There was an industrial revolution.",
+     "s": 429.28,
+     "e": 438.71
+    },
+    {
+     "t": "We missed it due to reasons beyond our control.",
+     "s": 438.71,
+     "e": 441.77
+    },
+    {
+     "t": "Today, there is a new revolution - a revolution in information technology...",
+     "s": 441.77,
+     "e": 446.71
+    },
+    {
+     "t": "We have the opportunity to participate in this revolution on an equal basis...",
+     "s": 446.71,
+     "e": 451.78
+    },
+    {
+     "t": "If we miss this opportunity, those who follow us will not forgive us for tardiness and negligence\" (Dinesh C.",
+     "s": 451.78,
+     "e": 458.93
+    },
+    {
+     "t": "Sharma's account in The Wire).",
+     "s": 458.93,
+     "e": 460.95
+    }
+   ]
+  },
+  {
+   "s": 462.9,
+   "e": 482.6,
+   "sentences": [
+    {
+     "t": "In 1978 TCS parted ways with Burroughs and became independent (the Tata group's TCS timeline; Dinesh C.",
+     "s": 462.9,
+     "e": 471.09
+    },
+    {
+     "t": "Sharma's account in The Wire).",
+     "s": 471.09,
+     "e": 473.11
+    },
+    {
+     "t": "S.",
+     "s": 473.11,
+     "e": 473.24
+    },
+    {
+     "t": "Ramadorai, who later ran TCS, called cutting the cord \"the best thing that happened to us\" (Business Standard's review of Ramadorai's book).",
+     "s": 473.24,
+     "e": 482.6
+    }
+   ]
+  },
+  {
+   "s": 482.6,
+   "e": 527.45,
+   "sentences": [
+    {
+     "t": "The decade after was an accumulation.",
+     "s": 482.6,
+     "e": 484.93
+    },
+    {
+     "t": "A New York office on Park Avenue in 1979, and a contract that required 24-hour delivery cycles; in 1981 TRDDC in Pune, which the group's timeline calls India's first software research centre; in 1989 a securities-clearing deal with SEGA that the timeline calls the world's first real-time securities clearing; in 1992 the core platform for the new National Stock Exchange (the Tata group's TCS timeline).",
+     "s": 484.93,
+     "e": 515.12
+    },
+    {
+     "t": "The group's history says about 700 million lines of code were fixed for Y2K (the Tata group's 2021 history of TCS; the Tata group's 2024 profile of Kohli).",
+     "s": 515.12,
+     "e": 527.45
+    }
+   ]
+  },
+  {
+   "s": 529.34,
+   "e": 551.98,
+   "sentences": [
+    {
+     "t": "Kohli handed over to Ramadorai in the 1990s; Ramadorai led TCS for 13 years, until N.",
+     "s": 529.34,
+     "e": 535.94
+    },
+    {
+     "t": "Chandrasekaran became CEO in 2009.",
+     "s": 535.94,
+     "e": 539.21
+    },
+    {
+     "t": "Chandrasekaran became chairman of Tata Sons in 2017, Gopinathan took over as CEO that year, and K.",
+     "s": 539.21,
+     "e": 546.44
+    },
+    {
+     "t": "Krithivasan has run TCS since 2023 (the Tata group's TCS timeline).",
+     "s": 546.44,
+     "e": 551.98
+    }
+   ]
+  },
+  {
+   "s": 551.98,
+   "e": 574.37,
+   "sentences": [
+    {
+     "t": "In 2002 TCS signed a $100 million contract with GE Medical, which the group's timeline calls the largest by an Indian firm at the time; in 2003 it crossed $1 billion in revenue; in 2012, $10 billion (the Tata group's 2021 history of TCS; the Tata group's TCS timeline).",
+     "s": 551.98,
+     "e": 574.37
+    }
+   ]
+  },
+  {
+   "s": 574.37,
+   "e": 597.14,
+   "sentences": [
+    {
+     "t": "In August 2004 TCS listed.",
+     "s": 574.37,
+     "e": 576.95
+    },
+    {
+     "t": "The offer sold shares at Rs 850, raising Rs 5,420 crore ($1.17 billion) for a 13.3% stake, and Reuters reported the company valued at $8.78 billion (Reuters' report on the 2004 offer).",
+     "s": 576.95,
+     "e": 597.14
+    }
+   ]
+  },
+  {
+   "s": 600.09,
+   "e": 657.36,
+   "sentences": [
+    {
+     "t": "TCS reported its September-quarter results on 8 October.",
+     "s": 600.09,
+     "e": 604.25
+    },
+    {
+     "t": "Revenue was $7,642 million, up 0.2% on the quarter and 2.4% on the year in dollars, and Rs 73,188 crore, up 11.2% in rupees.",
+     "s": 604.25,
+     "e": 620.02
+    },
+    {
+     "t": "The operating margin was 24.0% and the net margin 19.0%.",
+     "s": 620.02,
+     "e": 624.9
+    },
+    {
+     "t": "Net profit was Rs 13,884 crore.",
+     "s": 624.9,
+     "e": 629.24
+    },
+    {
+     "t": "The company said its AI revenue now runs at $3.1 billion a year, more than a tenth of the total, and total contract value for the quarter was $9.6 billion (TCS's own results release; ET Now's results report).",
+     "s": 629.24,
+     "e": 644.35
+    },
+    {
+     "t": "It employs 598,056 people, with attrition at 13.3%, and declared a dividend of Rs 12 a share (ET Now's results report; TCS's own results release).",
+     "s": 644.35,
+     "e": 657.36
+    }
+   ]
+  },
+  {
+   "s": 657.36,
+   "e": 697.64,
+   "sentences": [
+    {
+     "t": "For Tata Sons, TCS is the main recurring source of cash.",
+     "s": 657.36,
+     "e": 660.85
+    },
+    {
+     "t": "Moneycontrol reported in July that Tata Sons received Rs 28,291 crore in dividends from TCS in financial year 2026, down 12% from a record Rs 32,184 crore the year before, and that Air India, Tata Digital and Tata Electronics together lost Rs 28,823 crore in 2026, by its calculation (Moneycontrol's July report on the payout).",
+     "s": 660.85,
+     "e": 690.78
+    },
+    {
+     "t": "On Friday TCS closed at Rs 2,575.00 on BSE, down 2.46%.",
+     "s": 690.78,
+     "e": 697.64
+    }
+   ]
+  },
+  {
+   "s": 697.64,
+   "e": 729.86,
+   "sentences": [
+    {
+     "t": "Monday the Tata Sons board meets while two of the Tata trusts are in court over the reappointment of its chairman.",
+     "s": 697.64,
+     "e": 704.51
+    },
+    {
+     "t": "Hindustan Times reported that its agenda includes a six-month timeline for a public offering of Tata Sons itself (Hindustan Times reported).",
+     "s": 704.51,
+     "e": 713.06
+    },
+    {
+     "t": "In 2004 the same parent had to decide whether to let the company it built from an unused room go public; Business Standard's review of Ramadorai's book records that raising it with Tata Sons was \"a sensitive topic\" (Business Standard's review of Ramadorai's book).",
+     "s": 713.06,
+     "e": 729.86
+    }
+   ]
+  }
+ ]
+}
