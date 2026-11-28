@@ -205,6 +205,7 @@ def respell(t):
     t = t.replace('Chariot-1', 'Chariot one')
     t = t.replace('11B', 'eleven billion')
     t = t.replace('3 sizes', 'three sizes')
+    t = t.replace('Lalit Kanodia', 'Lah-lit Kuh-no-dee-uh')
     t = t.replace('Chandrasekaran', 'Chandra-shayk-ran')
     t = t.replace('Champaklal', 'Chum-puck-lahl')
     t = t.replace('Choksey', 'Choke-see')

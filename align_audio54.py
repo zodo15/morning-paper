@@ -32,7 +32,7 @@ def dur(path):
         raise SystemExit(1)
     return float(out)
 
-retry = {}
+retry = {'segment1-c01':1,'segment4-c01':1,'segment8-c01':1,'quick-c01':1,'lr-full-c01':1,'lr-full-c02':1,'lr-full-c03':1}
 manifest = json.load(open(CHUNKS + '/manifest.json'))
 
 def unit_texts(chunkbase):
@@ -42,7 +42,7 @@ def unit_texts(chunkbase):
         return [(chunkbase, whole)]
     # find sentence split k by char-fit against measured durations
     sens = sent_split(whole)
-    da = dur(f'{UNITS}/{chunkbase}-a.m4a'); db = dur(f'{UNITS}/{chunkbase}-b.m4a')
+    da = dur(f'{UNITS}/{chunkbase}-p1.m4a'); db = dur(f'{UNITS}/{chunkbase}-p2.m4a')
     ratio = da / (da + db)
     best, besterr = 1, 9e9
     cum = 0; total = sum(len(s) + 1 for s in sens)
@@ -50,13 +50,12 @@ def unit_texts(chunkbase):
         cum += len(sens[k-1]) + 1
         err = abs(cum / total - ratio)
         if err < besterr: best, besterr = k, err
-    return [(chunkbase + '-a', ' '.join(sens[:best])), (chunkbase + '-b', ' '.join(sens[best:]))]
+    return [(chunkbase + '-p1', ' '.join(sens[:best])), (chunkbase + '-p2', ' '.join(sens[best:]))]
 
 def track_units(key):
     out = []
     for ch in manifest['outputs'][key]['chunks']:
         out += unit_texts(ch[:-4])  # strip .txt
-    if False:
     return out
 
 def stream_for(key):
