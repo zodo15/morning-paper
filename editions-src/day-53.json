@@ -211,7 +211,7 @@
      },
      {
       "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Thursday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"255.7\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">floor 218.50</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">coil top 238.75</text><text x=\"255.7\" y=\"18\" font-size=\"19\" text-anchor=\"middle\">Thu close 223.05</text><text x=\"420\" y=\"82\" font-size=\"19\" text-anchor=\"middle\" fill=\"#64748b\">breakout line 228</text></svg>"
+      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Thursday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"291.4\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">floor 218.50</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">coil top 238.75</text><text x=\"291.4\" y=\"18\" font-size=\"19\" text-anchor=\"middle\">Thu close 223.05</text><text x=\"386.0\" y=\"82\" font-size=\"19\" text-anchor=\"middle\" fill=\"#64748b\">breakout line 228</text></svg>"
      }
     ]
    },
