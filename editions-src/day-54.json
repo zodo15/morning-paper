@@ -1,309 +1,370 @@
 {
- "day": 54,
- "meta": {
-  "date": "Saturday 28 November 2026",
-  "short": "Sat 28 Nov",
-  "longread": 54
- },
- "edition": {
-  "fact": "Edition 54. Saturday 28 November 2026. This edition runs 3034 words. China's state-backed national team lifted mainland stocks to their biggest gain in over two years; Wall Street ended its best week since April 2025; the Bombay High Court let Monday's Tata Sons board meeting go ahead; and Mahanadi Coalfields closed at Rs 132.60 on its debut against its Rs 136 issue price.",
-  "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a computing room that Tata companies were barely using, a manager borrowed for a year who stayed, an export promise the government attached to a mainframe, and a software filter shipped to the United States on tape. TCS, the Tata computer room that became an export industry.",
-  "hero": {
-   "img": "photos/d54-hero.jpg",
-   "alt": "Abstract plate: a quiet Saturday desk with a weekly ledger, a courthouse bench and a tall window, the faint outline of an old mainframe room behind it, soft first light"
+  "day": 54,
+  "meta": {
+    "date": "Saturday 28 November 2026",
+    "short": "Sat 28 Nov",
+    "longread": 54
   },
-  "groups": [
-   {
-    "heading": "The 5-minute lead route",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "China's national team steps in. Mainland stocks had their largest gains in more than two years on Friday after Beijing vowed to strengthen the role of the state-backed \"national team\" in steadying the market: the Shanghai Composite rose 3.73% to 3,606, the Shenzhen Component 7.24% to 10,814 and the ChiNext 11.61% to 2,443, while the Hang Seng gained 2.1% to 22,694 (<a href=\"https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm\" target=\"_blank\" rel=\"noopener\">RTHK's close report</a>). Tokyo and Seoul joined in: the Nikkei rose 2.11% to 58,711.11 (<a href=\"https://en.kabutan.com/jp/news/n202611270807\" target=\"_blank\" rel=\"noopener\">Kabutan's Tokyo close report</a>) and the Kospi 4.34% to 4,915.68 (<a href=\"https://en.yna.co.kr/view/AEN20261127004852320\" target=\"_blank\" rel=\"noopener\">Yonhap's Seoul close report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Wall Street closed a big week higher. In a shortened session that ended at 1 PM ET, the S&P 500 rose 114.71 points (1.6%) to 7,297.49, the Dow 591.99 (1.2%) to 50,774.94 and the Nasdaq 543.70 (2.3%) to 24,129.50; the S&P gained 5.6% on the week, its best since April 2025 (<a href=\"https://www.latimes.com/business/story/2026-11-27/stocks-jump-to-close-out-erratic-week-that-was-also-wall-streets-best-in-more-than-year\" target=\"_blank\" rel=\"noopener\">the Los Angeles Times' close report</a>). The 10-year Treasury yield stood at 4.94%."
-     },
-     {
-      "t": "p",
-      "html": "Anthropic's best close since debut. The shares closed at $91.88, up about 11%, back above the $83 IPO price and the highest close since the 19 November debut (<a href=\"https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo\" target=\"_blank\" rel=\"noopener\">Bloomberg</a>; <a href=\"https://stockanalysis.com/news/anthropic-jumps-11-percent-back-above-ipo-price/\" target=\"_blank\" rel=\"noopener\">stockanalysis.com's close report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Mumbai's last session of the week fell. The Sensex dropped 989.33 points (1.17%) to 83,339.26 and the Nifty 277.30 (1.07%) to 25,607.20, ending a four-week rally; for the week the Nifty lost 0.75% and the Sensex 0.69% (<a href=\"https://www.thehindubusinessline.com/markets/sensex-sheds-989-points-as-crude-rupee-end-four-week-nifty-rally/article71750532.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine's close report</a>). IT, auto and financial services each fell more than 1%, and TCS shed 2.46% on BSE. Foreign investors still bought for a nineteenth straight session, a provisional Rs 1,634.33 crore (<a href=\"https://www.cnbctv18.com/market/fiis-infuse-nearly-%E2%82%B917630-crore-in-4-days-even-as-nifty-snaps-four-week-rally-20043283.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's provisional tally</a>)."
-     },
-     {
-      "t": "p",
-      "html": "The court said no. The Bombay High Court refused the Tata trusts interim relief on Friday, so the Tata Sons board meeting on Monday goes ahead; Justice Abhay Ahuja said whatever it decides is \"subject to our final orders\", and ordered replies from Tata Sons and six directors (<a href=\"https://www.thehindu.com/business/bombay-high-court-gives-go-ahead-for-tata-sons-board-meeting-on-november-30/article71752235.ece\" target=\"_blank\" rel=\"noopener\">The Hindu's court report</a>). The two plaintiffs, the Sir Dorabji Tata Trust and the RD Tata Trust, are asking the court to void the 17 September reappointment of N. Chandrasekaran. The next hearing is in January 2027."
-     },
-     {
-      "t": "p",
-      "html": "Mahanadi listed below its price. The Coal India arm opened on BSE at Rs 133.15, hit a high of 137.85 and a low of 130.70, and closed at Rs 132.60 against its Rs 136 issue price, down 2.5% (<a href=\"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV\" target=\"_blank\" rel=\"noopener\">BSE's official bhavcopy</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Oil and gold. Brent settled at $95.44 a barrel, down $1.13 on the day but up about 3% on the week, its first weekly gain in November (<a href=\"https://www.channelnewsasia.com/business/oil-notches-first-weekly-gain-in-november-supply-fears-6586546\" target=\"_blank\" rel=\"noopener\">Reuters' settlement report</a>). Comex gold for December settled at $3,639.60, up $103.80 or 2.94%, and finished the week 3.53% higher (<a href=\"https://www.morningstar.com/news/dow-jones/202611274508/comex-gold-ends-the-week-353-higher-at-363960-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones' Comex settlement report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "SpaceX's licence, read carefully. The FCC granted SpaceX a licence, in part, for up to one million Starmind data-centre satellites. The grant covers the satellites' backup radio links; disposal plans for anything above 600 km are deferred, and the first satellite is due by 25 November 2033 (<a href=\"https://docs.fcc.gov/public/attachments/DA-26-1273A1.txt\" target=\"_blank\" rel=\"noopener\">the FCC's own order</a>). Nothing has launched under it."
-     },
-     {
-      "t": "p",
-      "html": "What to watch. There is no Indian session today; the next is Monday. Sunday brings the OPEC+ meeting. Monday brings the Tata Sons board meeting, India's second-quarter GDP print at a 4:30 PM press conference (<a href=\"https://www.pib.gov.in/MediaInvitationDetail.aspx?InvitationID=159438&lang=1&reg=3\" target=\"_blank\" rel=\"noopener\">PIB's media invitation</a>) and the record date for Tech Mahindra's bonus issue. The Reserve Bank's rate meeting runs 2 to 4 December."
-     }
+  "edition": {
+    "fact": "Edition 54. Saturday 28 November 2026. This edition runs 3034 words. China's state-backed national team lifted mainland stocks to their biggest gain in over two years; Wall Street ended its best week since April 2025; the Bombay High Court let Monday's Tata Sons board meeting go ahead; and Mahanadi Coalfields closed at Rs 132.60 on its debut against its Rs 136 issue price.",
+    "intro": "The 5-minute lead route is first; sections carry the detail. The long read: a computing room that Tata companies were barely using, a manager borrowed for a year who stayed, an export promise the government attached to a mainframe, and a software filter shipped to the United States on tape. TCS, the Tata computer room that became an export industry.",
+    "hero": {
+      "img": "photos/d54-hero.jpg",
+      "alt": "Abstract plate: a quiet Saturday desk with a weekly ledger, a courthouse bench and a tall window, the faint outline of an old mainframe room behind it, soft first light"
+    },
+    "groups": [
+      {
+        "heading": "The 5-minute lead route",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "China's national team steps in. Mainland stocks had their largest gains in more than two years on Friday after Beijing vowed to strengthen the role of the state-backed \"national team\" in steadying the market: the Shanghai Composite rose 3.73% to 3,606, the Shenzhen Component 7.24% to 10,814 and the ChiNext 11.61% to 2,443, while the Hang Seng gained 2.1% to 22,694 (<a href=\"https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm\" target=\"_blank\" rel=\"noopener\">RTHK's close report</a>). Tokyo and Seoul joined in: the Nikkei rose 2.11% to 58,711.11 (<a href=\"https://en.kabutan.com/jp/news/n202611270807\" target=\"_blank\" rel=\"noopener\">Kabutan's Tokyo close report</a>) and the Kospi 4.34% to 4,915.68 (<a href=\"https://en.yna.co.kr/view/AEN20261127004852320\" target=\"_blank\" rel=\"noopener\">Yonhap's Seoul close report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Wall Street closed a big week higher. In a shortened session that ended at 1 PM ET, the S&P 500 rose 114.71 points (1.6%) to 7,297.49, the Dow 591.99 (1.2%) to 50,774.94 and the Nasdaq 543.70 (2.3%) to 24,129.50; the S&P gained 5.6% on the week, its best since April 2025 (<a href=\"https://www.latimes.com/business/story/2026-11-27/stocks-jump-to-close-out-erratic-week-that-was-also-wall-streets-best-in-more-than-year\" target=\"_blank\" rel=\"noopener\">the Los Angeles Times' close report</a>). The 10-year Treasury yield stood at 4.94%."
+          },
+          {
+            "t": "p",
+            "html": "Anthropic's best close since debut. The shares closed at $91.88, up about 11%, back above the $83 IPO price and the highest close since the 19 November debut (<a href=\"https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo\" target=\"_blank\" rel=\"noopener\">Bloomberg</a>; <a href=\"https://stockanalysis.com/news/anthropic-jumps-11-percent-back-above-ipo-price/\" target=\"_blank\" rel=\"noopener\">stockanalysis.com's close report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Mumbai's last session of the week fell. The Sensex dropped 989.33 points (1.17%) to 83,339.26 and the Nifty 277.30 (1.07%) to 25,607.20, ending a four-week rally; for the week the Nifty lost 0.75% and the Sensex 0.69% (<a href=\"https://www.thehindubusinessline.com/markets/sensex-sheds-989-points-as-crude-rupee-end-four-week-nifty-rally/article71750532.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine's close report</a>). IT, auto and financial services each fell more than 1%, and TCS shed 2.46% on BSE. Foreign investors still bought for a nineteenth straight session, a provisional Rs 1,634.33 crore (<a href=\"https://www.cnbctv18.com/market/fiis-infuse-nearly-%E2%82%B917630-crore-in-4-days-even-as-nifty-snaps-four-week-rally-20043283.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's provisional tally</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The court said no. The Bombay High Court refused the Tata trusts interim relief on Friday, so the Tata Sons board meeting on Monday goes ahead; Justice Abhay Ahuja said whatever it decides is \"subject to our final orders\", and ordered replies from Tata Sons and six directors (<a href=\"https://www.thehindu.com/business/bombay-high-court-gives-go-ahead-for-tata-sons-board-meeting-on-november-30/article71752235.ece\" target=\"_blank\" rel=\"noopener\">The Hindu's court report</a>). The two plaintiffs, the Sir Dorabji Tata Trust and the RD Tata Trust, are asking the court to void the 17 September reappointment of N. Chandrasekaran. The next hearing is in January 2027."
+          },
+          {
+            "t": "p",
+            "html": "Mahanadi listed below its price. The Coal India arm opened on BSE at Rs 133.15, hit a high of 137.85 and a low of 130.70, and closed at Rs 132.60 against its Rs 136 issue price, down 2.5% (<a href=\"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV\" target=\"_blank\" rel=\"noopener\">BSE's official bhavcopy</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Oil and gold. Brent settled at $95.44 a barrel, down $1.13 on the day but up about 3% on the week, its first weekly gain in November (<a href=\"https://www.channelnewsasia.com/business/oil-notches-first-weekly-gain-in-november-supply-fears-6586546\" target=\"_blank\" rel=\"noopener\">Reuters' settlement report</a>). Comex gold for December settled at $3,639.60, up $103.80 or 2.94%, and finished the week 3.53% higher (<a href=\"https://www.morningstar.com/news/dow-jones/202611274508/comex-gold-ends-the-week-353-higher-at-363960-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones' Comex settlement report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "SpaceX's licence, read carefully. The FCC granted SpaceX a licence, in part, for up to one million Starmind data-centre satellites. The grant covers the satellites' backup radio links; disposal plans for anything above 600 km are deferred, and the first satellite is due by 25 November 2033 (<a href=\"https://docs.fcc.gov/public/attachments/DA-26-1273A1.txt\" target=\"_blank\" rel=\"noopener\">the FCC's own order</a>). Nothing has launched under it."
+          },
+          {
+            "t": "p",
+            "html": "What to watch. There is no Indian session today; the next is Monday. Sunday brings the OPEC+ meeting. Monday brings the Tata Sons board meeting, India's second-quarter GDP print at a 4:30 PM press conference (<a href=\"https://www.pib.gov.in/MediaInvitationDetail.aspx?InvitationID=159438&lang=1&reg=3\" target=\"_blank\" rel=\"noopener\">PIB's media invitation</a>) and the record date for Tech Mahindra's bonus issue. The Reserve Bank's rate meeting runs 2 to 4 December."
+          }
+        ]
+      },
+      {
+        "heading": "Front page",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "What the court did, and did not do. Justice Ahuja declined to stop the board meeting but said its outcome is subject to the court's final orders; Tata Sons argued that deferring the meeting would breach a Reserve Bank listing deadline, and reports differ on the date, so none is printed here (<a href=\"https://www.ndtvprofit.com/business/tata-trust-vs-tata-trust-tata-sons-says-deferring-nov-30-meet-will-breach-dec-10-rbi-listing-deadline-12385449\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>; <a href=\"https://www.barandbench.com/news/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-sons-november-30-board-meeting\" target=\"_blank\" rel=\"noopener\">Bar and Bench's hearing report</a>). Salve appeared for Tata Sons (<a href=\"https://www.barandbench.com/news/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-sons-november-30-board-meeting\" target=\"_blank\" rel=\"noopener\">Bar and Bench's hearing report</a>). The trusts claim Rs 65 crore in damages with 18% interest: Rs 50 crore from the Sir Dorabji Tata Trust and Rs 15 crore from the RD Tata Trust (<a href=\"https://indianexpress.com/article/business/tata-trusts-seek-65-crore-damages-tata-sons-10979529/\" target=\"_blank\" rel=\"noopener\">The Indian Express</a>). Tata Sons' counsel said a listing could come by autumn 2027 if the case goes smoothly. Hindustan Times reported that Monday's agenda includes a six-month timeline for a Tata Sons public offering and options for the Shapoorji Pallonji group's 18.4% stake (<a href=\"https://www.hindustantimes.com/business/tata-sons-adds-six-month-ipo-timeline-to-board-meet-agenda-101795654777767.html\" target=\"_blank\" rel=\"noopener\">Hindustan Times reported</a>)."
+          },
+          {
+            "t": "p",
+            "html": "China's rally in detail. RTHK describes the \"national team\" as state-backed investors, usually led by Central Huijin, the domestic unit of the sovereign wealth fund China Investment Corp, who are often buyers at times of market stress. The Hang Seng's turnover was HK$257.14 billion; its tech index jumped 6.5% to 3,637; the Shanghai Composite, which had been lingering near 17-month lows, closed at 3,606 on turnover of 929.77 billion yuan; and the Star semiconductor index jumped by a near-record 19.5% (<a href=\"https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm\" target=\"_blank\" rel=\"noopener\">RTHK's close report</a>). RTHK quotes Bank of America's Winnie Wu saying that with very depressed valuations and consensus bearishness on China tech, it does not take much for a relief rally."
+          },
+          {
+            "t": "p",
+            "html": "Wall Street's week. The Nasdaq gained 2.3% in the half session, with Broadcom up 3.8%, Amazon up 4% and Nvidia up 0.8%. The 10-year yield was 4.94%, against 4.85% on Wednesday (<a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-04dab6079cf7f3dfe7285a3cc1f240a2\" target=\"_blank\" rel=\"noopener\">AP's close report</a>). The S&P's 5.6% weekly gain was its best since April 2025."
+          },
+          {
+            "t": "p",
+            "html": "Anthropic's week. Bloomberg reports the shares rose nearly 11% to $91.88 after two straight closes below $83. stockanalysis.com records a Wednesday close of $82.79 after an intraday low of $73.85, and a debut-day close of $97.17 on 19 November (<a href=\"https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo\" target=\"_blank\" rel=\"noopener\">Bloomberg</a>; <a href=\"https://stockanalysis.com/news/anthropic-jumps-11-percent-back-above-ipo-price/\" target=\"_blank\" rel=\"noopener\">stockanalysis.com's close report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Inside the Indian fall. Midcaps and smallcaps held up: the Nifty Midcap 100 rose 0.10% and the Smallcap 100 0.56%, while Nifty Metal gained 1.40% (<a href=\"https://www.thehindubusinessline.com/markets/sensex-sheds-989-points-as-crude-rupee-end-four-week-nifty-rally/article71750532.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine's close report</a>). The Bank Nifty slipped 494.40 points (0.78%) to 63,040.90. On NSE, 2,119 stocks advanced and 1,514 declined (<a href=\"https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-jsw-steel-shriram-finance-bajaj-auto-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/136221692.cms\" target=\"_blank\" rel=\"noopener\">the Economic Times market wrap</a>). One broker's technical note, attributed to HST Wealth, says the Nifty broke below Thursday's doji low after repeated rejection near 26,000, with support at 25,400 and resistance at 25,750; those are that analyst's levels, not this paper's."
+          },
+          {
+            "t": "p",
+            "html": "Mahanadi's mechanics. The listing sold shares held by Coal India: an offer for sale of 66.18 crore shares at Rs 136, or Rs 9,000 crore, subscribed 1.52 times, with Coal India selling 10%. At Rs 136 the company's 6,618,363,000 shares come to about Rs 90,000 crore. BSE volume on debut day was 8,316,367 shares. One outlet's report of a 2% premium is wrong; BSE's own prints show a discount."
+          },
+          {
+            "t": "p",
+            "html": "Oil's reasons and OPEC+'s date. Reuters attributes the week's gain to tanker attacks in the Strait of Hormuz and a partly halted Jazan refinery in Saudi Arabia; OPEC+ meets on Sunday and is expected to hold its first-quarter 2027 targets, an expectation, not a decision (<a href=\"https://www.channelnewsasia.com/business/oil-notches-first-weekly-gain-in-november-supply-fears-6586546\" target=\"_blank\" rel=\"noopener\">Reuters' settlement report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Gold's reversal. Spot gold dipped under $3,500 on Wednesday for the first time since September 2025 (<a href=\"https://www.cnbc.com/2026/11/27/gold-metals-silver-markets-federal-reserve.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>), and Comex gold's Friday settlement of $3,639.60 is $103.80 higher on the day (<a href=\"https://www.morningstar.com/news/dow-jones/202611274508/comex-gold-ends-the-week-353-higher-at-363960-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones' Comex settlement report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Europe's gain. The STOXX 600 rose about 1% to 643.85 and was up roughly 3% on the week (<a href=\"https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129\" target=\"_blank\" rel=\"noopener\">Investing.com's European close report</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "Markets",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "US, Friday (half session): S&P 500 7,297.49 (+1.6%), Dow 50,774.94 (+1.2%), Nasdaq 24,129.50 (+2.3%); 10-year yield 4.94% (<a href=\"https://www.latimes.com/business/story/2026-11-27/stocks-jump-to-close-out-erratic-week-that-was-also-wall-streets-best-in-more-than-year\" target=\"_blank\" rel=\"noopener\">the Los Angeles Times' close report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Asia, Friday: Nikkei 58,711.11 (+2.11%), Kospi 4,915.68 (+4.34%), Hang Seng 22,694 (+2.1%), Shanghai 3,606 (+3.73%), Shenzhen Component 10,814 (+7.24%), ChiNext 2,443 (+11.61%) (<a href=\"https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm\" target=\"_blank\" rel=\"noopener\">RTHK's close report</a>; <a href=\"https://en.kabutan.com/jp/news/n202611270807\" target=\"_blank\" rel=\"noopener\">Kabutan's Tokyo close report</a>; <a href=\"https://en.yna.co.kr/view/AEN20261127004852320\" target=\"_blank\" rel=\"noopener\">Yonhap's Seoul close report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "India, Friday: Sensex 83,339.26 (-1.17%), Nifty 25,607.20 (-1.07%), Bank Nifty 63,040.90 (-0.78%). FII net +Rs 1,634.33 crore, a nineteenth straight buying session (bought Rs 14,259.45 crore, sold Rs 12,625.12 crore); DII net -Rs 556.42 crore (<a href=\"https://www.thehindubusinessline.com/markets/sensex-sheds-989-points-as-crude-rupee-end-four-week-nifty-rally/article71750532.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine's close report</a>; <a href=\"https://www.cnbctv18.com/market/fiis-infuse-nearly-%E2%82%B917630-crore-in-4-days-even-as-nifty-snaps-four-week-rally-20043283.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's provisional tally</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Europe, Friday: STOXX 600 643.85 (+1%) (<a href=\"https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129\" target=\"_blank\" rel=\"noopener\">Investing.com's European close report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Commodities: Brent $95.44 (-$1.13); WTI $83.08; Comex gold (December) $3,639.60 (+$103.80) (<a href=\"https://www.channelnewsasia.com/business/oil-notches-first-weekly-gain-in-november-supply-fears-6586546\" target=\"_blank\" rel=\"noopener\">Reuters' settlement report</a>; <a href=\"https://www.morningstar.com/news/dow-jones/202611274508/comex-gold-ends-the-week-353-higher-at-363960-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones' Comex settlement report</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "IPOs",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Mahanadi Coalfields debuted at a discount. On BSE it opened at Rs 133.15 (-2.1% against the Rs 136 issue price), ranged from 130.70 to 137.85 and closed at Rs 132.60 (-2.5%) on 8,316,367 shares (<a href=\"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV\" target=\"_blank\" rel=\"noopener\">BSE's official bhavcopy</a>; <a href=\"https://www.cnbctv18.com/market/mahanadi-coalfields-mcl-coal-india-subsidiary-listing-ipo-subscription-financials-production-offtake-dividends-share-price-20042647.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's listing report</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Next week's issues. Matangi Rubber's Rs 125.16 crore issue runs 1 to 3 December at Rs 163 to 172 a share (<a href=\"https://upstox.com/news/market-news/ipo/matangi-rubber-ipo-opens-dec-1-check-price-band-lot-size-and-key-dates/article-203857/\" target=\"_blank\" rel=\"noopener\">Upstox</a>). Swara Baby Products' issue of about Rs 800 crore opens 2 December at Rs 105 to 111 (<a href=\"https://www.moneycontrol.com/news/business/ipo/diaper-maker-swara-baby-products-to-open-rs-800-crore-ipo-on-dec-2-sets-price-band-at-rs-105-111-14089909.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's report on Swara Baby Products</a>), and Monomark Engineering's Rs 175.5 crore issue opens the same day at Rs 60 to 65 (<a href=\"https://www.moneycontrol.com/news/business/ipo/monomark-engineering-sets-ipo-price-band-at-rs-60-65-rs-175-5-crore-issue-to-open-on-december-2-14088405.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's report on Monomark Engineering</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "Top movers - Friday's verdicts",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Friday's verdicts. The index fell on IT, autos and financials: HCL Technologies -2.81% to 1,423.80, TCS -2.46% to 2,575.00, Bajaj Auto -2.56% to 10,562.00, and Shriram Finance the session's worst at -4.00% to 924.50. Against it, defence and metals: Bharat Electronics +1.56% to 411.10 and JSW Steel +1.30% to 1,322.00, with Titan +0.95% (4,674.80), IndiGo +0.50% (5,655.00), Tata Steel +0.46% (164.10), Power Grid +0.37% (268.00) and Trent +0.23% (3,270.10) all up (<a href=\"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV\" target=\"_blank\" rel=\"noopener\">BSE's official bhavcopy</a>; <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-jsw-steel-shriram-finance-bajaj-auto-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/136221692.cms\" target=\"_blank\" rel=\"noopener\">the Economic Times market wrap</a>)."
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 456\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Friday 27 Nov (% vs Thursday close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">BEL</text><rect x=\"440\" y=\"30\" width=\"62.4\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"502.4\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.56%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">JSW Steel</text><rect x=\"440\" y=\"78\" width=\"52.0\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"492.0\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.30%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Hindalco</text><rect x=\"440\" y=\"126\" width=\"38.0\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"478.0\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.95%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">ONGC</text><rect x=\"440\" y=\"174\" width=\"20.8\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"460.8\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.52%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Kotak Bank</text><rect x=\"369.6\" y=\"222\" width=\"70.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"362.6\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.76%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">TCS</text><rect x=\"341.6\" y=\"270\" width=\"98.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"334.6\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.46%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Bajaj Auto</text><rect x=\"337.6\" y=\"318\" width=\"102.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"330.6\" y=\"337\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.56%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"327.6\" y=\"366\" width=\"112.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"320.6\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.81%</text><text x=\"8\" y=\"431\" font-size=\"21\" fill=\"#334155\">Shriram Finance</text><rect x=\"280.0\" y=\"414\" width=\"160.0\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"273.0\" y=\"433\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-4.00%</text><line x1=\"440\" y1=\"14\" x2=\"440\" y2=\"436\" stroke=\"#94a3b8\" stroke-width=\"1\"/></svg>"
+          },
+          {
+            "t": "p",
+            "html": "The paper's own names. Hindalco rose 0.95% to 923.75, ONGC 0.52% to 224.20 and Kotak Mahindra Bank fell 1.76% to 500.05; Infosys closed at 1,152.00 (-2.55%), Voltas at 1,191.00 (-2.54%) and Tech Mahindra at 1,815.00 (-2.15%). Asian Paints fell 0.42% to 2,532.25. All are BSE official closes (<a href=\"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV\" target=\"_blank\" rel=\"noopener\">BSE's official bhavcopy</a>). TCS, down 2.46% on the day, is today's long read."
+          }
+        ]
+      },
+      {
+        "heading": "Corporate actions",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Tech Mahindra's bonus. The company's 1:1 bonus issue has Monday 30 November as its record date: shareholders on record receive one extra share for each share held (<a href=\"https://exchangecirculars.com/circulars/bse/2026/bse-2026-11-26-c041fb4df84358f2-bonus-issue-of-tech-mahindra-limited-scrip-code-532755/\" target=\"_blank\" rel=\"noopener\">the BSE circular</a>; <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/tech-mahindra-announces-record-date-for-11-bonus-issue-check-details/articleshow/136097664.cms\" target=\"_blank\" rel=\"noopener\">the Economic Times</a>)."
+          },
+          {
+            "t": "p",
+            "html": "The week in startup money. YourStory counts $171 million of venture funding across 13 deals this week, down from $255 million the week before. The larger rounds: Finnable raised Rs 405 crore (about $43.7 million), Green Aero $14 million, and Matters.AI about Rs 115 crore ($12 million) (<a href=\"https://yourstory.com/2026/11/weekly-funding-roundup-nov-21-27-vc-inflow-dips-on-modest-deal-activity\" target=\"_blank\" rel=\"noopener\">YourStory's weekly roundup</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "Finance Goldmine",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Term of the day: bonus issue. A company converts part of its reserves into new shares and hands them to existing shareholders free, in a stated ratio. In a 1:1 bonus every holder gets one new share per share held, so the share count doubles; the company's value does not change, so the price per share is adjusted down to match. Nothing is paid and nothing is received that was not already owned; the holder's stake in the company is exactly what it was. Tech Mahindra's record date is Monday (<a href=\"https://exchangecirculars.com/circulars/bse/2026/bse-2026-11-26-c041fb4df84358f2-bonus-issue-of-tech-mahindra-limited-scrip-code-532755/\" target=\"_blank\" rel=\"noopener\">the BSE circular</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Reading a streak. The foreign-investor streak has now run nineteen sessions. Summed from the daily provisional prints, foreigners bought Rs 17,630 crore over four sessions this week (+5,672.99, +4,479.08, +5,843.33 and +1,634.33 crore), while domestic institutions swung between buying and selling and net-bought about Rs 6,333 crore over the same four days (<a href=\"https://www.cnbctv18.com/market/fiis-infuse-nearly-%E2%82%B917630-crore-in-4-days-even-as-nifty-snaps-four-week-rally-20043283.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's provisional tally</a>). On Friday the two sides split: foreigners bought Rs 1,634.33 crore while domestic institutions sold Rs 556.42 crore, and the Nifty fell 1.07% anyway."
+          },
+          {
+            "t": "p",
+            "html": "What a \"national team\" is. In China it is the market's nickname for state-backed investors, usually led by Central Huijin, the domestic unit of the sovereign wealth fund China Investment Corp, who tend to buy when markets are under stress (<a href=\"https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm\" target=\"_blank\" rel=\"noopener\">RTHK's close report</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "AI Race",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "The licence behind the headline. The FCC's order, adopted and released on 25 November, says it grants authority for radio communications for backup and emergency telemetry, tracking and command for a constellation of up to one million satellites to operate as data centres in space. It does not license the computing. Disposal of satellites above 600 km is deferred, and the first satellite is due by 25 November 2033 (<a href=\"https://docs.fcc.gov/public/attachments/DA-26-1273A1.txt\" target=\"_blank\" rel=\"noopener\">the FCC's own order</a>). Amazon, Viasat and AAS had petitioned to deny (<a href=\"https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>)."
+          },
+          {
+            "t": "p",
+            "html": "Nvidia's shipping pause. Nvidia told Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand and Indonesia for an unspecified period while it checks that its partners meet US export rules (<a href=\"https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\" target=\"_blank\" rel=\"noopener\">TechCrunch, citing the Wall Street Journal,</a> reports)."
+          },
+          {
+            "t": "p",
+            "html": "Character.AI's auction. The bankrupt chatbot company's platform and its chat records from more than 21 million US accounts go to auction on 1 December; a coalition of 42 state attorneys general has asked the court to block the sale and also opposes a $350,000 breakup fee (<a href=\"https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns\" target=\"_blank\" rel=\"noopener\">California Attorney General's release</a>)."
+          }
+        ]
+      },
+      {
+        "heading": "One concept: effectuation",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "In a 2001 paper in the Academy of Management Review, Saras Sarasvathy described a way expert entrepreneurs decide that she called effectuation. Instead of picking a goal and then gathering the resources to reach it, an effectual entrepreneur starts from what is already at hand - who they are, what they know and whom they know - and builds toward whatever the available means allow (<a href=\"https://cdn.mises.org/sarasvathy_2001_causation_and_effectuation.pdf\" target=\"_blank\" rel=\"noopener\">Saras Sarasvathy's 2001 paper in the Academy of Management Review</a>; <a href=\"https://www.darden.virginia.edu/effectuation\" target=\"_blank\" rel=\"noopener\">UVA Darden</a>). One of her principles is the affordable loss: risk only what you can afford to lose. It fits how today's long read starts: TCS began as a shared computing room for Tata companies, and the export business came later."
+          }
+        ]
+      },
+      {
+        "heading": "Setup board",
+        "blocks": [
+          {
+            "t": "p",
+            "html": "Nothing resolved, nothing new. Friday's broad selloff in IT and financials hit the ledger and shelved names hardest - Infosys -2.55%, Voltas -2.54%, Tech Mahindra -2.15% - while the live watchlist was mixed: Kotak -1.76%, JSW Steel +1.30%, Hindalco +0.95%, ONGC +0.52%. Four watchlist lines carry into Monday unchanged. Mahanadi's debut below its issue price adds no line to the board; the print is stated without inference."
+          },
+          {
+            "t": "p",
+            "html": "The line to watch is Hindalco's. It closed above the 911-912 zone for a second straight session, and unlike the previous reclaim, which failed the next day, this one held. That strengthens the candidate case. It is still not a setup: there is no verified entry zone against longer history. ONGC's coil floor at 218.50 held an eleventh session. Cash-only swing setups under Rs 1,500 a share; research, not advice."
+          },
+          {
+            "t": "chart",
+            "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines, BSE official closes, Friday 27 November: <b>Kotak Mahindra Bank</b> 500.05 (-1.76%) - trigger holds, twenty-third session above 437.55 (day's low 499.80); stop far away at 420. <b>ONGC</b> 224.20 (+0.52%) - eleventh session below the 228 breakout line (high 224.90); coil floor 218.50 intact (low 222.65). <b>JSW Steel</b> 1,322.00 (+1.30%) - target 1,370 untouched (high 1,329.50); reward-to-risk at the worst fill versus the 1,158.95 floor is about 0.29 to 1, still failing the screen. <b>Hindalco</b> 923.75 (+0.95%) - a second straight close above the 911-912 zone (low 913.45), the first time the reclaim has held into the next session; the candidate case strengthens, still no verified entry zone. Ledger: <b>HCLTech</b> 1,423.80 (-2.81%), resolved earlier at the 1,468.00 exit; <b>Infosys</b> 1,152.00 (-2.55%). Shelved: <b>Voltas</b> 1,191.00 (-2.54%); <b>Tech Mahindra</b> 1,815.00 (-2.15%), above the Rs 1,500 cap.</p>"
+          },
+          {
+            "t": "chart",
+            "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Friday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"313.4\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">floor 218.50</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">coil top 238.75</text><text x=\"313.4\" y=\"18\" font-size=\"19\" text-anchor=\"middle\">Fri close 224.20</text><text x=\"386.0\" y=\"82\" font-size=\"19\" text-anchor=\"middle\" fill=\"#64748b\">breakout line 228</text></svg>"
+          }
+        ]
+      },
+      {
+        "heading": "How the board scores",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "No prior-day stop trade",
+                "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry."
+              },
+              {
+                "n": "2",
+                "title": "Worst fill in the zone",
+                "detail": "Entry is assumed at the worst price inside the published zone, not the best."
+              },
+              {
+                "n": "3",
+                "title": "R:R on the worst fill",
+                "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board."
+              },
+              {
+                "n": "4",
+                "title": "Resolution only",
+                "detail": "Every published setup stays on the board until its target or its stop resolves it; resolved lines move to the ledger with gross and net (0.3% cost convention)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "The week ahead",
+        "blocks": [
+          {
+            "t": "rows",
+            "items": [
+              {
+                "n": "1",
+                "title": "Sun 29 Nov",
+                "detail": "OPEC+ meets; the expectation reported by Reuters is that it holds its first-quarter 2027 output targets. That is an expectation, not a decision."
+              },
+              {
+                "n": "2",
+                "title": "Mon 30 Nov",
+                "detail": "Tata Sons board meeting, with the court's final orders still to come. India's second-quarter GDP print arrives at the statistics ministry's 4:30 PM press conference, alongside October industrial output; one forecast cited by Capital Market is about 7.6% against 7.8% in the previous quarter. Tech Mahindra's 1:1 bonus record date."
+              },
+              {
+                "n": "3",
+                "title": "Tue 1 Dec",
+                "detail": "Character.AI's platform and chat records go to auction. Matangi Rubber's Rs 125.16 crore issue opens and runs to Thursday 3 December."
+              },
+              {
+                "n": "4",
+                "title": "Wed 2 to Fri 4 Dec",
+                "detail": "Swara Baby Products and Monomark Engineering open their issues on Wednesday. The Reserve Bank's rate meeting runs 2 to 4 December; the repo rate stands at 5.50%, as set at the 7 October meeting. US jobs data comes Friday."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Notes on this edition",
+        "blocks": [
+          {
+            "t": "bullets",
+            "items": [
+              "Sources read for this edition: BSE's bhavcopy for every Indian price; Hindu BusinessLine, The Hindu and the Economic Times for the Indian close; CNBC-TV18 for provisional flows and the Mahanadi listing; RTHK, Kabutan and Yonhap for Asia; the Los Angeles Times and AP for Wall Street; Bloomberg and stockanalysis.com for Anthropic; Reuters and Dow Jones for oil and gold; The Hindu, Bar and Bench, LiveLaw and The Indian Express for the Tata hearing; the FCC's own order for the SpaceX licence; PIB, the RBI's own pages and Capital Market for the week ahead; the California Attorney General's release for Character.AI; Sarasvathy's 2001 paper and UVA Darden for effectuation.",
+              "Prices: every India price is a BSE official print; flows are provisional exchange data as reported by CNBC-TV18. Sources differ on the exact date of the next hearing in the Tata case, so only the month is printed; they also differ on the Reserve Bank's listing deadline, so no date is printed for it.",
+              "Correction: Edition 53 named the second plaintiff in the Tata suits as the Sir Ratan Tata Trust and called the plaintiffs the two largest trusts controlling 66% of Tata Sons. The second plaintiff is the RD Tata Trust, and the 66% belongs to the Tata Trusts together. Editions 52 and 53 also dated Monday's events as Sunday 30 November; 30 November 2026 is a Monday. Both are corrected on the site. Edition 53's ONGC range chart also drew the Thursday close and the breakout line at the wrong points on its scale; the numbers in the text were right, and the chart is now redrawn to scale."
+            ]
+          },
+          {
+            "t": "closing",
+            "text": "See you tomorrow."
+          }
+        ]
+      }
     ]
-   },
-   {
-    "heading": "Front page",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "What the court did, and did not do. Justice Ahuja declined to stop the board meeting but said its outcome is subject to the court's final orders; Tata Sons argued that deferring the meeting would breach a Reserve Bank listing deadline, and reports differ on the date, so none is printed here (<a href=\"https://www.ndtvprofit.com/business/tata-trust-vs-tata-trust-tata-sons-says-deferring-nov-30-meet-will-breach-dec-10-rbi-listing-deadline-12385449\" target=\"_blank\" rel=\"noopener\">NDTV Profit</a>; <a href=\"https://www.barandbench.com/news/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-sons-november-30-board-meeting\" target=\"_blank\" rel=\"noopener\">Bar and Bench's hearing report</a>). Salve appeared for Tata Sons (<a href=\"https://www.barandbench.com/news/no-relief-for-tata-trusts-as-bombay-high-court-refuses-to-halt-tata-sons-november-30-board-meeting\" target=\"_blank\" rel=\"noopener\">Bar and Bench's hearing report</a>). The trusts claim Rs 65 crore in damages with 18% interest: Rs 50 crore from the Sir Dorabji Tata Trust and Rs 15 crore from the RD Tata Trust (<a href=\"https://indianexpress.com/article/business/tata-trusts-seek-65-crore-damages-tata-sons-10979529/\" target=\"_blank\" rel=\"noopener\">The Indian Express</a>). Tata Sons' counsel said a listing could come by autumn 2027 if the case goes smoothly. Hindustan Times reported that Monday's agenda includes a six-month timeline for a Tata Sons public offering and options for the Shapoorji Pallonji group's 18.4% stake (<a href=\"https://www.hindustantimes.com/business/tata-sons-adds-six-month-ipo-timeline-to-board-meet-agenda-101795654777767.html\" target=\"_blank\" rel=\"noopener\">Hindustan Times reported</a>)."
-     },
-     {
-      "t": "p",
-      "html": "China's rally in detail. RTHK describes the \"national team\" as state-backed investors, usually led by Central Huijin, the domestic unit of the sovereign wealth fund China Investment Corp, who are often buyers at times of market stress. The Hang Seng's turnover was HK$257.14 billion; its tech index jumped 6.5% to 3,637; the Shanghai Composite, which had been lingering near 17-month lows, closed at 3,606 on turnover of 929.77 billion yuan; and the Star semiconductor index jumped by a near-record 19.5% (<a href=\"https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm\" target=\"_blank\" rel=\"noopener\">RTHK's close report</a>). RTHK quotes Bank of America's Winnie Wu saying that with very depressed valuations and consensus bearishness on China tech, it does not take much for a relief rally."
-     },
-     {
-      "t": "p",
-      "html": "Wall Street's week. The Nasdaq gained 2.3% in the half session, with Broadcom up 3.8%, Amazon up 4% and Nvidia up 0.8%. The 10-year yield was 4.94%, against 4.85% on Wednesday (<a href=\"https://apnews.com/article/wall-street-stocks-dow-nasdaq-04dab6079cf7f3dfe7285a3cc1f240a2\" target=\"_blank\" rel=\"noopener\">AP's close report</a>). The S&P's 5.6% weekly gain was its best since April 2025."
-     },
-     {
-      "t": "p",
-      "html": "Anthropic's week. Bloomberg reports the shares rose nearly 11% to $91.88 after two straight closes below $83. stockanalysis.com records a Wednesday close of $82.79 after an intraday low of $73.85, and a debut-day close of $97.17 on 19 November (<a href=\"https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo\" target=\"_blank\" rel=\"noopener\">Bloomberg</a>; <a href=\"https://stockanalysis.com/news/anthropic-jumps-11-percent-back-above-ipo-price/\" target=\"_blank\" rel=\"noopener\">stockanalysis.com's close report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Inside the Indian fall. Midcaps and smallcaps held up: the Nifty Midcap 100 rose 0.10% and the Smallcap 100 0.56%, while Nifty Metal gained 1.40% (<a href=\"https://www.thehindubusinessline.com/markets/sensex-sheds-989-points-as-crude-rupee-end-four-week-nifty-rally/article71750532.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine's close report</a>). The Bank Nifty slipped 494.40 points (0.78%) to 63,040.90. On NSE, 2,119 stocks advanced and 1,514 declined (<a href=\"https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-jsw-steel-shriram-finance-bajaj-auto-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/136221692.cms\" target=\"_blank\" rel=\"noopener\">the Economic Times market wrap</a>). One broker's technical note, attributed to HST Wealth, says the Nifty broke below Thursday's doji low after repeated rejection near 26,000, with support at 25,400 and resistance at 25,750; those are that analyst's levels, not this paper's."
-     },
-     {
-      "t": "p",
-      "html": "Mahanadi's mechanics. The listing sold shares held by Coal India: an offer for sale of 66.18 crore shares at Rs 136, or Rs 9,000 crore, subscribed 1.52 times, with Coal India selling 10%. At Rs 136 the company's 6,618,363,000 shares come to about Rs 90,000 crore. BSE volume on debut day was 8,316,367 shares. One outlet's report of a 2% premium is wrong; BSE's own prints show a discount."
-     },
-     {
-      "t": "p",
-      "html": "Oil's reasons and OPEC+'s date. Reuters attributes the week's gain to tanker attacks in the Strait of Hormuz and a partly halted Jazan refinery in Saudi Arabia; OPEC+ meets on Sunday and is expected to hold its first-quarter 2027 targets, an expectation, not a decision (<a href=\"https://www.channelnewsasia.com/business/oil-notches-first-weekly-gain-in-november-supply-fears-6586546\" target=\"_blank\" rel=\"noopener\">Reuters' settlement report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Gold's reversal. Spot gold dipped under $3,500 on Wednesday for the first time since September 2025 (<a href=\"https://www.cnbc.com/2026/11/27/gold-metals-silver-markets-federal-reserve.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>), and Comex gold's Friday settlement of $3,639.60 is $103.80 higher on the day (<a href=\"https://www.morningstar.com/news/dow-jones/202611274508/comex-gold-ends-the-week-353-higher-at-363960-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones' Comex settlement report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Europe's gain. The STOXX 600 rose about 1% to 643.85 and was up roughly 3% on the week (<a href=\"https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129\" target=\"_blank\" rel=\"noopener\">Investing.com's European close report</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "Markets",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "US, Friday (half session): S&P 500 7,297.49 (+1.6%), Dow 50,774.94 (+1.2%), Nasdaq 24,129.50 (+2.3%); 10-year yield 4.94% (<a href=\"https://www.latimes.com/business/story/2026-11-27/stocks-jump-to-close-out-erratic-week-that-was-also-wall-streets-best-in-more-than-year\" target=\"_blank\" rel=\"noopener\">the Los Angeles Times' close report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Asia, Friday: Nikkei 58,711.11 (+2.11%), Kospi 4,915.68 (+4.34%), Hang Seng 22,694 (+2.1%), Shanghai 3,606 (+3.73%), Shenzhen Component 10,814 (+7.24%), ChiNext 2,443 (+11.61%) (<a href=\"https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm\" target=\"_blank\" rel=\"noopener\">RTHK's close report</a>; <a href=\"https://en.kabutan.com/jp/news/n202611270807\" target=\"_blank\" rel=\"noopener\">Kabutan's Tokyo close report</a>; <a href=\"https://en.yna.co.kr/view/AEN20261127004852320\" target=\"_blank\" rel=\"noopener\">Yonhap's Seoul close report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "India, Friday: Sensex 83,339.26 (-1.17%), Nifty 25,607.20 (-1.07%), Bank Nifty 63,040.90 (-0.78%). FII net +Rs 1,634.33 crore, a nineteenth straight buying session (bought Rs 14,259.45 crore, sold Rs 12,625.12 crore); DII net -Rs 556.42 crore (<a href=\"https://www.thehindubusinessline.com/markets/sensex-sheds-989-points-as-crude-rupee-end-four-week-nifty-rally/article71750532.ece\" target=\"_blank\" rel=\"noopener\">Hindu BusinessLine's close report</a>; <a href=\"https://www.cnbctv18.com/market/fiis-infuse-nearly-%E2%82%B917630-crore-in-4-days-even-as-nifty-snaps-four-week-rally-20043283.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's provisional tally</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Europe, Friday: STOXX 600 643.85 (+1%) (<a href=\"https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129\" target=\"_blank\" rel=\"noopener\">Investing.com's European close report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Commodities: Brent $95.44 (-$1.13); WTI $83.08; Comex gold (December) $3,639.60 (+$103.80) (<a href=\"https://www.channelnewsasia.com/business/oil-notches-first-weekly-gain-in-november-supply-fears-6586546\" target=\"_blank\" rel=\"noopener\">Reuters' settlement report</a>; <a href=\"https://www.morningstar.com/news/dow-jones/202611274508/comex-gold-ends-the-week-353-higher-at-363960-data-talk\" target=\"_blank\" rel=\"noopener\">Dow Jones' Comex settlement report</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "IPOs",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "Mahanadi Coalfields debuted at a discount. On BSE it opened at Rs 133.15 (-2.1% against the Rs 136 issue price), ranged from 130.70 to 137.85 and closed at Rs 132.60 (-2.5%) on 8,316,367 shares (<a href=\"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV\" target=\"_blank\" rel=\"noopener\">BSE's official bhavcopy</a>; <a href=\"https://www.cnbctv18.com/market/mahanadi-coalfields-mcl-coal-india-subsidiary-listing-ipo-subscription-financials-production-offtake-dividends-share-price-20042647.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's listing report</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Next week's issues. Matangi Rubber's Rs 125.16 crore issue runs 1 to 3 December at Rs 163 to 172 a share (<a href=\"https://upstox.com/news/market-news/ipo/matangi-rubber-ipo-opens-dec-1-check-price-band-lot-size-and-key-dates/article-203857/\" target=\"_blank\" rel=\"noopener\">Upstox</a>). Swara Baby Products' issue of about Rs 800 crore opens 2 December at Rs 105 to 111 (<a href=\"https://www.moneycontrol.com/news/business/ipo/diaper-maker-swara-baby-products-to-open-rs-800-crore-ipo-on-dec-2-sets-price-band-at-rs-105-111-14089909.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's report on Swara Baby Products</a>), and Monomark Engineering's Rs 175.5 crore issue opens the same day at Rs 60 to 65 (<a href=\"https://www.moneycontrol.com/news/business/ipo/monomark-engineering-sets-ipo-price-band-at-rs-60-65-rs-175-5-crore-issue-to-open-on-december-2-14088405.html\" target=\"_blank\" rel=\"noopener\">Moneycontrol's report on Monomark Engineering</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "Top movers - Friday's verdicts",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "Friday's verdicts. The index fell on IT, autos and financials: HCL Technologies -2.81% to 1,423.80, TCS -2.46% to 2,575.00, Bajaj Auto -2.56% to 10,562.00, and Shriram Finance the session's worst at -4.00% to 924.50. Against it, defence and metals: Bharat Electronics +1.56% to 411.10 and JSW Steel +1.30% to 1,322.00, with Titan +0.95% (4,674.80), IndiGo +0.50% (5,655.00), Tata Steel +0.46% (164.10), Power Grid +0.37% (268.00) and Trent +0.23% (3,270.10) all up (<a href=\"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV\" target=\"_blank\" rel=\"noopener\">BSE's official bhavcopy</a>; <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-jsw-steel-shriram-finance-bajaj-auto-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/136221692.cms\" target=\"_blank\" rel=\"noopener\">the Economic Times market wrap</a>)."
-     },
-     {
-      "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 456\" role=\"img\" aria-label=\"Leaders and laggards among the large names this paper tracks, Friday 27 Nov (% vs Thursday close), BSE official prints\"><text x=\"8\" y=\"47\" font-size=\"21\" fill=\"#334155\">BEL</text><rect x=\"440\" y=\"30\" width=\"62.4\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"502.4\" y=\"49\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.56%</text><text x=\"8\" y=\"95\" font-size=\"21\" fill=\"#334155\">JSW Steel</text><rect x=\"440\" y=\"78\" width=\"52.0\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"492.0\" y=\"97\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+1.30%</text><text x=\"8\" y=\"143\" font-size=\"21\" fill=\"#334155\">Hindalco</text><rect x=\"440\" y=\"126\" width=\"38.0\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"478.0\" y=\"145\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.95%</text><text x=\"8\" y=\"191\" font-size=\"21\" fill=\"#334155\">ONGC</text><rect x=\"440\" y=\"174\" width=\"20.8\" height=\"26\" fill=\"#15803d\" rx=\"3\"/><text x=\"460.8\" y=\"193\" text-anchor=\"start\" font-size=\"20\" fill=\"#15803d\">+0.52%</text><text x=\"8\" y=\"239\" font-size=\"21\" fill=\"#334155\">Kotak Bank</text><rect x=\"369.6\" y=\"222\" width=\"70.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"362.6\" y=\"241\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-1.76%</text><text x=\"8\" y=\"287\" font-size=\"21\" fill=\"#334155\">TCS</text><rect x=\"341.6\" y=\"270\" width=\"98.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"334.6\" y=\"289\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.46%</text><text x=\"8\" y=\"335\" font-size=\"21\" fill=\"#334155\">Bajaj Auto</text><rect x=\"337.6\" y=\"318\" width=\"102.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"330.6\" y=\"337\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.56%</text><text x=\"8\" y=\"383\" font-size=\"21\" fill=\"#334155\">HCL Tech</text><rect x=\"327.6\" y=\"366\" width=\"112.4\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"320.6\" y=\"385\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-2.81%</text><text x=\"8\" y=\"431\" font-size=\"21\" fill=\"#334155\">Shriram Finance</text><rect x=\"280.0\" y=\"414\" width=\"160.0\" height=\"26\" fill=\"#b91c1c\" rx=\"3\"/><text x=\"273.0\" y=\"433\" text-anchor=\"end\" font-size=\"20\" fill=\"#b91c1c\">-4.00%</text><line x1=\"440\" y1=\"14\" x2=\"440\" y2=\"436\" stroke=\"#94a3b8\" stroke-width=\"1\"/></svg>"
-     },
-     {
-      "t": "p",
-      "html": "The paper's own names. Hindalco rose 0.95% to 923.75, ONGC 0.52% to 224.20 and Kotak Mahindra Bank fell 1.76% to 500.05; Infosys closed at 1,152.00 (-2.55%), Voltas at 1,191.00 (-2.54%) and Tech Mahindra at 1,815.00 (-2.15%). Asian Paints fell 0.42% to 2,532.25. All are BSE official closes (<a href=\"https://www.bseindia.com/download/BhavCopy/Equity/BhavCopy_BSE_CM_0_0_0_20261127_F_0000.CSV\" target=\"_blank\" rel=\"noopener\">BSE's official bhavcopy</a>). TCS, down 2.46% on the day, is today's long read."
-     }
-    ]
-   },
-   {
-    "heading": "Corporate actions",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "Tech Mahindra's bonus. The company's 1:1 bonus issue has Monday 30 November as its record date: shareholders on record receive one extra share for each share held (<a href=\"https://exchangecirculars.com/circulars/bse/2026/bse-2026-11-26-c041fb4df84358f2-bonus-issue-of-tech-mahindra-limited-scrip-code-532755/\" target=\"_blank\" rel=\"noopener\">the BSE circular</a>; <a href=\"https://economictimes.indiatimes.com/markets/stocks/news/tech-mahindra-announces-record-date-for-11-bonus-issue-check-details/articleshow/136097664.cms\" target=\"_blank\" rel=\"noopener\">the Economic Times</a>)."
-     },
-     {
-      "t": "p",
-      "html": "The week in startup money. YourStory counts $171 million of venture funding across 13 deals this week, down from $255 million the week before. The larger rounds: Finnable raised Rs 405 crore (about $43.7 million), Green Aero $14 million, and Matters.AI about Rs 115 crore ($12 million) (<a href=\"https://yourstory.com/2026/11/weekly-funding-roundup-nov-21-27-vc-inflow-dips-on-modest-deal-activity\" target=\"_blank\" rel=\"noopener\">YourStory's weekly roundup</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "Finance Goldmine",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "Term of the day: bonus issue. A company converts part of its reserves into new shares and hands them to existing shareholders free, in a stated ratio. In a 1:1 bonus every holder gets one new share per share held, so the share count doubles; the company's value does not change, so the price per share is adjusted down to match. Nothing is paid and nothing is received that was not already owned; the holder's stake in the company is exactly what it was. Tech Mahindra's record date is Monday (<a href=\"https://exchangecirculars.com/circulars/bse/2026/bse-2026-11-26-c041fb4df84358f2-bonus-issue-of-tech-mahindra-limited-scrip-code-532755/\" target=\"_blank\" rel=\"noopener\">the BSE circular</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Reading a streak. The foreign-investor streak has now run nineteen sessions. Summed from the daily provisional prints, foreigners bought Rs 17,630 crore over four sessions this week (+5,672.99, +4,479.08, +5,843.33 and +1,634.33 crore), while domestic institutions swung between buying and selling and net-bought about Rs 6,333 crore over the same four days (<a href=\"https://www.cnbctv18.com/market/fiis-infuse-nearly-%E2%82%B917630-crore-in-4-days-even-as-nifty-snaps-four-week-rally-20043283.htm\" target=\"_blank\" rel=\"noopener\">CNBC-TV18's provisional tally</a>). On Friday the two sides split: foreigners bought Rs 1,634.33 crore while domestic institutions sold Rs 556.42 crore, and the Nifty fell 1.07% anyway."
-     },
-     {
-      "t": "p",
-      "html": "What a \"national team\" is. In China it is the market's nickname for state-backed investors, usually led by Central Huijin, the domestic unit of the sovereign wealth fund China Investment Corp, who tend to buy when markets are under stress (<a href=\"https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm\" target=\"_blank\" rel=\"noopener\">RTHK's close report</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "AI Race",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "The licence behind the headline. The FCC's order, adopted and released on 25 November, says it grants authority for radio communications for backup and emergency telemetry, tracking and command for a constellation of up to one million satellites to operate as data centres in space. It does not license the computing. Disposal of satellites above 600 km is deferred, and the first satellite is due by 25 November 2033 (<a href=\"https://docs.fcc.gov/public/attachments/DA-26-1273A1.txt\" target=\"_blank\" rel=\"noopener\">the FCC's own order</a>). Amazon, Viasat and AAS had petitioned to deny (<a href=\"https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html\" target=\"_blank\" rel=\"noopener\">CNBC</a>)."
-     },
-     {
-      "t": "p",
-      "html": "Nvidia's shipping pause. Nvidia told Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand and Indonesia for an unspecified period while it checks that its partners meet US export rules (<a href=\"https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\" target=\"_blank\" rel=\"noopener\">TechCrunch, citing the Wall Street Journal,</a> reports)."
-     },
-     {
-      "t": "p",
-      "html": "Character.AI's auction. The bankrupt chatbot company's platform and its chat records from more than 21 million US accounts go to auction on 1 December; a coalition of 42 state attorneys general has asked the court to block the sale and also opposes a $350,000 breakup fee (<a href=\"https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-asset-sale-characterai-amid-child-safety-concerns\" target=\"_blank\" rel=\"noopener\">California Attorney General's release</a>)."
-     }
-    ]
-   },
-   {
-    "heading": "One concept: effectuation",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "In a 2001 paper in the Academy of Management Review, Saras Sarasvathy described a way expert entrepreneurs decide that she called effectuation. Instead of picking a goal and then gathering the resources to reach it, an effectual entrepreneur starts from what is already at hand - who they are, what they know and whom they know - and builds toward whatever the available means allow (<a href=\"https://cdn.mises.org/sarasvathy_2001_causation_and_effectuation.pdf\" target=\"_blank\" rel=\"noopener\">Saras Sarasvathy's 2001 paper in the Academy of Management Review</a>; <a href=\"https://www.darden.virginia.edu/effectuation\" target=\"_blank\" rel=\"noopener\">UVA Darden</a>). One of her principles is the affordable loss: risk only what you can afford to lose. It fits how today's long read starts: TCS began as a shared computing room for Tata companies, and the export business came later."
-     }
-    ]
-   },
-   {
-    "heading": "Setup board",
-    "blocks": [
-     {
-      "t": "p",
-      "html": "Nothing resolved, nothing new. Friday's broad selloff in IT and financials hit the ledger and shelved names hardest - Infosys -2.55%, Voltas -2.54%, Tech Mahindra -2.15% - while the live watchlist was mixed: Kotak -1.76%, JSW Steel +1.30%, Hindalco +0.95%, ONGC +0.52%. Four watchlist lines carry into Monday unchanged. Mahanadi's debut below its issue price adds no line to the board; the print is stated without inference."
-     },
-     {
-      "t": "p",
-      "html": "The line to watch is Hindalco's. It closed above the 911-912 zone for a second straight session, and unlike the previous reclaim, which failed the next day, this one held. That strengthens the candidate case. It is still not a setup: there is no verified entry zone against longer history. ONGC's coil floor at 218.50 held an eleventh session. Cash-only swing setups under Rs 1,500 a share; research, not advice."
-     },
-     {
-      "t": "chart",
-      "svg": "<p style=\"color:#64748b;font-size:13px\">Open lines, BSE official closes, Friday 27 November: <b>Kotak Mahindra Bank</b> 500.05 (-1.76%) - trigger holds, twenty-third session above 437.55 (day's low 499.80); stop far away at 420. <b>ONGC</b> 224.20 (+0.52%) - eleventh session below the 228 breakout line (high 224.90); coil floor 218.50 intact (low 222.65). <b>JSW Steel</b> 1,322.00 (+1.30%) - target 1,370 untouched (high 1,329.50); reward-to-risk at the worst fill versus the 1,158.95 floor is about 0.29 to 1, still failing the screen. <b>Hindalco</b> 923.75 (+0.95%) - a second straight close above the 911-912 zone (low 913.45), the first time the reclaim has held into the next session; the candidate case strengthens, still no verified entry zone. Ledger: <b>HCLTech</b> 1,423.80 (-2.81%), resolved earlier at the 1,468.00 exit; <b>Infosys</b> 1,152.00 (-2.55%). Shelved: <b>Voltas</b> 1,191.00 (-2.54%); <b>Tech Mahindra</b> 1,815.00 (-2.15%), above the Rs 1,500 cap.</p>"
-     },
-     {
-      "t": "chart",
-      "svg": "<svg viewBox=\"0 0 760 125\" role=\"img\" aria-label=\"ONGC: coil floor to coil top, Friday close marked\"><text x=\"8\" y=\"44\" font-size=\"23\">ONGC</text><line x1=\"204.5\" x2=\"591.3\" y1=\"38\" y2=\"38\" stroke=\"#15803d\" stroke-width=\"10\"/><circle cx=\"313.4\" cy=\"38\" r=\"10\" fill=\"#172b3c\"/><text x=\"204.5\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">floor 218.50</text><text x=\"591.3\" y=\"82\" font-size=\"19\" text-anchor=\"middle\">coil top 238.75</text><text x=\"313.4\" y=\"18\" font-size=\"19\" text-anchor=\"middle\">Fri close 224.20</text><text x=\"386.0\" y=\"82\" font-size=\"19\" text-anchor=\"middle\" fill=\"#64748b\">breakout line 228</text></svg>"
-     }
-    ]
-   },
-   {
-    "heading": "How the board scores",
-    "blocks": [
-     {
-      "t": "rows",
-      "items": [
-       {
-        "n": "1",
-        "title": "No prior-day stop trade",
-        "detail": "A setup activates only if the zone fills before any prior-day trade at or below the stop; a stop touched first kills the line before entry."
-       },
-       {
-        "n": "2",
-        "title": "Worst fill in the zone",
-        "detail": "Entry is assumed at the worst price inside the published zone, not the best."
-       },
-       {
-        "n": "3",
-        "title": "R:R on the worst fill",
-        "detail": "Reward-to-risk is computed from the worst fill to the published stop and target; lines that fail stay on the watchlist, not the board."
-       },
-       {
-        "n": "4",
-        "title": "Resolution only",
-        "detail": "Every published setup stays on the board until its target or its stop resolves it; resolved lines move to the ledger with gross and net (0.3% cost convention)."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "heading": "The week ahead",
-    "blocks": [
-     {
-      "t": "rows",
-      "items": [
-       {
-        "n": "1",
-        "title": "Sun 29 Nov",
-        "detail": "OPEC+ meets; the expectation reported by Reuters is that it holds its first-quarter 2027 output targets. That is an expectation, not a decision."
-       },
-       {
-        "n": "2",
-        "title": "Mon 30 Nov",
-        "detail": "Tata Sons board meeting, with the court's final orders still to come. India's second-quarter GDP print arrives at the statistics ministry's 4:30 PM press conference, alongside October industrial output; one forecast cited by Capital Market is about 7.6% against 7.8% in the previous quarter. Tech Mahindra's 1:1 bonus record date."
-       },
-       {
-        "n": "3",
-        "title": "Tue 1 Dec",
-        "detail": "Character.AI's platform and chat records go to auction. Matangi Rubber's Rs 125.16 crore issue opens and runs to Thursday 3 December."
-       },
-       {
-        "n": "4",
-        "title": "Wed 2 to Fri 4 Dec",
-        "detail": "Swara Baby Products and Monomark Engineering open their issues on Wednesday. The Reserve Bank's rate meeting runs 2 to 4 December; the repo rate stands at 5.50%, as set at the 7 October meeting. US jobs data comes Friday."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "heading": "Notes on this edition",
-    "blocks": [
-     {
-      "t": "bullets",
-      "items": [
-       "Sources read for this edition: BSE's bhavcopy for every Indian price; Hindu BusinessLine, The Hindu and the Economic Times for the Indian close; CNBC-TV18 for provisional flows and the Mahanadi listing; RTHK, Kabutan and Yonhap for Asia; the Los Angeles Times and AP for Wall Street; Bloomberg and stockanalysis.com for Anthropic; Reuters and Dow Jones for oil and gold; The Hindu, Bar and Bench, LiveLaw and The Indian Express for the Tata hearing; the FCC's own order for the SpaceX licence; PIB, the RBI's own pages and Capital Market for the week ahead; the California Attorney General's release for Character.AI; Sarasvathy's 2001 paper and UVA Darden for effectuation.",
-       "Prices: every India price is a BSE official print; flows are provisional exchange data as reported by CNBC-TV18. Sources differ on the exact date of the next hearing in the Tata case, so only the month is printed; they also differ on the Reserve Bank's listing deadline, so no date is printed for it.",
-       "Correction: Edition 53 named the second plaintiff in the Tata suits as the Sir Ratan Tata Trust and called the plaintiffs the two largest trusts controlling 66% of Tata Sons. The second plaintiff is the RD Tata Trust, and the 66% belongs to the Tata Trusts together. Editions 52 and 53 also dated Monday's events as Sunday 30 November; 30 November 2026 is a Monday. Both are corrected on the site. Edition 53's ONGC range chart also drew the Thursday close and the breakout line at the wrong points on its scale; the numbers in the text were right, and the chart is now redrawn to scale."
-      ]
-     },
-     {
-      "t": "closing",
-      "text": "See you tomorrow."
-     }
-    ]
-   }
-  ]
- }
+  },
+  "audio": {
+    "quick": "audio/d54-quick.m4a",
+    "durations": {
+      "segment1": 359.383,
+      "segment2": 161.238,
+      "segment3": 147.072,
+      "segment4": 315.606,
+      "segment5": 145.622,
+      "segment6": 114.347,
+      "segment7": 115.542,
+      "segment8": 184.449,
+      "full": 1543.259,
+      "quick": 306.006
+    },
+    "segments": [
+      {
+        "key": "segment1",
+        "label": "Opening and the five-minute lead route"
+      },
+      {
+        "key": "segment2",
+        "label": "Front page: the court, China's rally, Wall Street and Anthropic"
+      },
+      {
+        "key": "segment3",
+        "label": "Front page: the Indian fall, Mahanadi, oil, gold and Europe"
+      },
+      {
+        "key": "segment4",
+        "label": "Markets, IPOs, and the top movers"
+      },
+      {
+        "key": "segment5",
+        "label": "Corporate actions and Finance Goldmine"
+      },
+      {
+        "key": "segment6",
+        "label": "AI Race and one concept"
+      },
+      {
+        "key": "segment7",
+        "label": "The setup board and how the board scores"
+      },
+      {
+        "key": "segment8",
+        "label": "The week ahead and the notes on this edition"
+      }
+    ],
+    "segment1": "audio/d54-segment1.m4a",
+    "segment2": "audio/d54-segment2.m4a",
+    "segment3": "audio/d54-segment3.m4a",
+    "segment4": "audio/d54-segment4.m4a",
+    "segment5": "audio/d54-segment5.m4a",
+    "segment6": "audio/d54-segment6.m4a",
+    "segment7": "audio/d54-segment7.m4a",
+    "segment8": "audio/d54-segment8.m4a",
+    "full": "audio/d54-full.m4a"
+  },
+  "times": {
+    "full": "audio/d54-full.times.json"
+  }
 }
