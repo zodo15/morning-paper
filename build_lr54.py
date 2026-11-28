@@ -56,7 +56,7 @@ lr = {
     fig("photos/lr54-int2.jpg", "Abstract plate: a magnetic tape reel and a shipping crate on a dockside table, a ledger page beside them with two columns of figures, hard afternoon light", "A tape, a crate and a ledger - the export bargain in three objects."),
   ]},
   {"heading": "5. Cutting the cord", "blocks": [
-    p("In 1978 TCS parted ways with Burroughs and became independent; Tata Burroughs was formed separately (" + S3 + "; " + S4 + "). S. Ramadorai, who later ran TCS, called cutting the cord \"the best thing that happened to us\" (" + S9 + ")."),
+    p("In 1978 TCS parted ways with Burroughs and became independent (" + S3 + "; " + S4 + "). S. Ramadorai, who later ran TCS, called cutting the cord \"the best thing that happened to us\" (" + S9 + ")."),
     p("The decade after was an accumulation. A New York office on Park Avenue in 1979, and a contract that required 24-hour delivery cycles; in 1981 TRDDC in Pune, which the group's timeline calls India's first software research centre; in 1989 a securities-clearing deal with SEGA that the timeline calls the world's first real-time securities clearing; in 1992 the core platform for the new National Stock Exchange (" + S3 + "). The group's history says about 700 million lines of code were fixed for Y2K (" + S1 + "; " + S2 + ")."),
   ]},
   {"heading": "6. A sensitive topic", "blocks": [
